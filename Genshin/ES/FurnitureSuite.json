@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Habitación acogedora para huéspedes de todo el mundo",
+    "Description": "Un dormitorio completamente amueblado, inspirado en el diseño de las habitaciones del Buque Insignia, la taberna más grande de la Villa Nasha, y optimizado según las necesidades de sus huéspedes.\nLos clientes de la taberna provienen de lugares muy diversos y cada uno tiene su propia definición de comodidad. No fue fácil encontrar un equilibrio entre tantas expectativas diferentes, así que el Buque Insignia optó por una solución única: equipar las habitaciones con todo lo que un huésped pudiera necesitar y luego ir quitando lo que considerara innecesario. Aunque la distribución resulta algo abarrotada por la cantidad de mobiliario, la ventaja es que está equipada con todo lo necesario, permitiendo que cada huésped encuentre su propia versión de comodidad.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Sueño sereno bajo la luna",
+    "Description": "Un dormitorio sencillo y elegante, amueblado con piezas seleccionadas por los Descendientes Lunaescarcha. El ambiente general es refinado y acogedor. Dicen que un entorno natural y tranquilo ayuda a relajar el cuerpo y la mente, y esta habitación parece ser la perfecta encarnación de esas palabras. Bajo la suave luz que recuerda al resplandor de la luna en el crepúsculo, el aire se impregna de un fresco aroma afrutado. Quienes descansan aquí sienten cómo el cansancio y las penas se desvanecen poco a poco, mientras la serenidad y la calma de la noche los invitan dulcemente a dormir...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "La red ordenada de los secretos",
+    "Description": "Un espacio de trabajo con una personalidad muy marcada. Su distribución está inspirada en la Cámara de Secretos y recrea fielmente el ambiente en el que trabaja la jefa, donde todo está perfectamente ordenado.\nEl análisis de información es una tarea compleja y llena de desafíos, con tantos cabos sueltos que a menudo no se sabe ni por dónde empezar. Sin embargo, en una habitación tan bien organizada y equipada con todas las herramientas necesarias, la mente se despeja y la productividad aumenta...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "El hogar más acogedor y cálido",
+    "Description": "Un dormitorio del estilo de Nod Krai con una disposición general que transmite calidez y comodidad, el lugar ideal para descansar después de un día ajetreado. Todos los muebles del dormitorio provienen del Taller de Krumkake Cling-clang y fueron cuidadosamente seleccionados por la “madre” de la casa. Son los muebles más geniales, acogedores y prácticos del mundo. Sin embargo, tanta comodidad también trae un pequeño inconveniente: los usuarios suelen relajarse tanto que se quedan dormidos y hasta pierden citas importantes. Quizás se necesite un método de despertador potente pero considerado para asegurarse de que se levanten a tiempo.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Descanso previo a la batalla",
+    "Description": "Una sala de descanso colectiva completamente equipada, diseñada siguiendo la distribución de las habitaciones de Piramida, que recrea el ambiente donde los soldados ratnik descansaban antes del combate. Los soldados ratnik más experimentados saben bien que la guerra contra la Cacería salvaje es larga y ardua, por lo que deben descansar siempre que las condiciones lo permitan para mantenerse en óptimas condiciones de combate. Además, una sala de descanso bien dispuesta permite que los soldados ratnik se conozcan mejor antes de la batalla, ya que en el campo de combate, luchar codo a codo con compañeros conocidos genera más confianza y coordinación que hacerlo con desconocidos. Por esta razón, los starshiná siempre han dado gran importancia a la construcción de las salas de descanso.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Prado del Lejano Norte",
+    "Description": "Un prado que reúne la vegetación y el relieve típicos de la región de Nod Krai, reproduciendo fielmente el singular paisaje natural de la Isla Hiisi.\nLa región de Nod Krai posee abundante kuuvahki, lo que ha dado lugar a plantas de colores vivos, animales de comportamiento peculiar y formaciones de relieve únicas. Para los naturalistas, esta zona alberga innumerables tesoros llamados nuevos conocimientos. Y para los visitantes comunes, estos paisajes maravillosos también invitan a detenerse y contemplarlos.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "La bulliciosa ciudad de las tierras fronterizas",
+    "Description": "Un paisaje regional centrado en una variedad de edificios característicos, con tiendas de diversas funciones que recrean a la perfección un rincón de la Villa Nasha.\nSegún cuenta la leyenda, la Villa Nasha se distingue de otras ciudades por no tener un verdadero gobernante ni una estructura de planificación definida. Esto ha dado lugar a innumerables pasajes estrechos y grietas ocultas entre los edificios del pueblo. Para los residentes normales, estos pasajes no son más que conductos por donde se propaga el ruido; sin embargo, para aquellos con buen ojo para captar información, son una de las vías por donde circulan los secretos más ocultos, además de atajos por los que moverse con agilidad...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Serena letanía bajo la luna",
+    "Description": "Este espacio al aire libre, diseñado a imagen de los paisajes del Enclave Lunaescarcha, exhibe diversos utensilios dispuestos según las costumbres de los Descendientes Lunaescarcha, acompañados de la vegetación correspondiente a cada uno. Al adentrarse en él, se percibe la paz y armonía propias de los Descendientes Lunaescarcha: una dulce y melodiosa letanía parece resonar suavemente en la mente, disipando toda preocupación y sufrimiento con la brisa y dejando tan solo una serena tranquilidad en el corazón.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Lámpara solitaria en la larga noche",
+    "Description": "Este asentamiento de sólidas construcciones fue diseñado tomando como referencia los puestos de defensa que los Lampareros suelen establecer en zonas agrestes. Este diseño les permite resistir las inclemencias del tiempo e incluso posee una notable capacidad defensiva ante los embates de la Cacería salvaje. Como reza el juramento de los Lampareros: “Somos los Lampareros, custodiamos la esperanza que jamás se extinguirá en las infinitas llanuras nevadas”.\nEn las vastas tierras que rodean Piramida, estos asentamientos brillan como antorchas que transmiten la luz de la esperanza.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Taller en auge",
+    "Description": "Un pequeño asentamiento construido siguiendo el modelo del Taller de Krumkake Cling-clang, que cuenta con una cómoda casa de hierro en forma de semiesfera y otra con forma de barco, suficientes para satisfacer las necesidades básicas de los dueños de talleres.\nTodos los grandes talleres del mundo comenzaron con unidades de construcción básicas. Con estos edificios como cimientos, una planificación adecuada y materiales suficientes, transformar todo el mundo interior de la Relajatetera en un enorme taller no es algo imposible...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Sosiego de la Luna Nueva",
+    "Description": "Un jardín inspirado en el Vergel Lunargénteo. Su estilo general es sereno y apacible, como un reino de ensueño inalcanzable.\nLa luz de la luna siempre guía con ternura a todos los seres. Quizás alguna vez los devotos de la Diosa Lunar se preguntaron de verdad: ¿qué paisaje podría llevar a la Luna Nueva hasta su propio y tranquilo mundo de sueños?\nSolo visitando en persona el Vergel Lunargénteo y contemplando con calma cada flor y cada hierba de ese lugar podrás conocer la respuesta...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

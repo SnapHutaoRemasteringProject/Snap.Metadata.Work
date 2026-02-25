@@ -1695,6 +1695,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Varka",
+    "Description": "Materiale per l'attivazione della costellazione di Varka",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2924,6 +2935,17 @@
     "Description": "Materiale per l'attivazione della costellazione di Illuga",
     "TypeDescription": "Attiva costellazione",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Varka",
+    "Description": "Materiale per l'attivazione della costellazione di Varka",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -4690,7 +4712,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Bacca Midsommar",
-    "Description": "Un frutto che cresce nelle aree più calde di Nod-Krai. È adorato sia dagli animali che escono dal letargo invernale sia dai bambini affamati.\nNella tradizione degli Eredi della Luna gelata, le bacche Midsommar sono un simbolo di vita e abbondanza, poiché crescono solo nel calore della primavera e dell'estate.\nEsiste una storia che parla di una lotta senza fine tra il Re del Leccio invernale e il Re della Quercia estiva: i due re gemelli si uccidono a vicenda mentre le stagioni si avvicendano nel corso dell'anno, facendo ritorno dall'aldilà per governare nuovamente la propria stagione fino alla fine dei tempi. Molti studiosi di Snezhnaya considerano questa storia una primitiva metafora religiosa dell'alternarsi delle stagioni. O almeno, questa è la spiegazione che si sono dati.",
+    "Description": "Un frutto che cresce nelle aree più calde di Nod-Krai. È adorato sia dagli animali che escono dal letargo invernale sia dai bambini affamati.\nNella tradizione degli Eredi della Luna gelata, le bacche Midsommar sono un simbolo di vita e abbondanza, poiché crescono solo nel calore della primavera e dell'estate.\nEsiste una storia che parla di una lotta senza fine tra il Re dell'Erba invernale e il Re della Quercia Midsommar: i due re gemelli si uccidono a vicenda mentre le stagioni si avvicendano nel corso dell'anno, facendo ritorno dall'aldilà per governare nuovamente la propria stagione fino alla fine dei tempi. Molti studiosi di Snezhnaya considerano questa storia una primitiva metafora religiosa dell'alternarsi delle stagioni. O almeno, questa è la spiegazione che si sono dati.",
     "TypeDescription": "Ingrediente culinario",
     "Icon": "UI_ItemIcon_101265"
   },
@@ -31182,7 +31204,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Fungo fantasma delizioso",
-    "Description": "Del pane ripieno di verdure saltate. La sua crosta grezza risulta robusta come un muro solito, trattenendo i succhi saporiti del tenero ripieno di funghi. Un'unione che crea un sapore semplice ma appagante.",
+    "Description": "Del pane ripieno di verdure saltate. La sua crosta grezza risulta robusta come un muro solido, trattenendo i succhi saporiti del tenero ripieno di funghi. Un'unione che crea un sapore semplice ma appagante.",
     "TypeDescription": "Cibo",
     "Icon": "UI_ItemIcon_108861"
   },
@@ -31257,6 +31279,54 @@
     "Description": "Del pane ripieno di verdure saltate. Cotto in modo disordinato e a fuoco a malapena controllato, ha proprio l'aspetto di un fungo di carbone nero come la pece. Il suo aspetto risulta decisamente minaccioso, e ingoiarne anche solo un morso potrebbe essere un grosso rischio...",
     "TypeDescription": "Cibo",
     "Icon": "UI_ItemIcon_108867"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 18% dei PS max del personaggio selezionato e rigenera 300 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Giada temperata d'oro sospetta",
+    "Description": "Un piatto a base di pollo tipico di Liyue. La sua pelle, di un invitante giallo vivace, crea un bellissimo contrasto con la carne tenera e pallida. Ma basta un morso e il rimorso prende subito il sopravvento, perché la carne, secca e dura, ti si incastra subito tra i denti...",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 20% dei PS max del personaggio selezionato e rigenera 390 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Giada temperata d'oro",
+    "Description": "Un piatto a base di pollo tipico di Liyue, preparato con un uso minimo di spezie e altri condimenti, il cui scopo è quello di preservare i sapori naturali degli ingredienti freschi. Il risultato è un piatto che vanta una pelle setosa, una carne tenera e un sapore fresco e saporito. Particolarmente buono se abbinato a una salsa.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "#Ripristina un 22% dei PS max del personaggio selezionato e rigenera 470 PS ogni 5{NON_BREAK_SPACE}s per 30{NON_BREAK_SPACE}s.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Giada temperata d'oro deliziosa",
+    "Description": "Un piatto a base di pollo tipico di Liyue. La pelle ha una consistenza soda e piacevole, mentre la carne è tenera e saporita. La gelatina naturale del pollo è pervasa dal ricco aroma del grasso fuso, e persino le ossa emanano un leggero sentore di dolcezza. Un'autentica sinfonia di sapori, in grado di deliziare anche il buongustaio più esigente.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "Ripristina 80 di vigore.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Soddisfazione abbondante",
+    "Description": "La specialità di Varka. I generosi pezzi di coscia di pollo affumicati, l'alto boccale di sidro di mele e l'impiattamento rustico e audace comunicano perfettamente la natura del cuoco: una persona che non si tira mai indietro, né in battaglia né a tavola.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108870"
   },
   {
     "Rank": 300501,
@@ -34148,6 +34218,17 @@
     "ItemType": 2,
     "Name": "Ricetta: Fungo fantasma",
     "Description": "Una ricetta passo dopo passo per preparare un Fungo fantasma.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Ricetta: Giada temperata d'oro",
+    "Description": "Una ricetta passo dopo passo per preparare una Giada temperata d'oro.",
     "TypeDescription": "Ricetta",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37114,6 +37195,17 @@
     "Description": "Una reliquia ossea dal colore nero scuro ricavata dai resti della corruzione latente dopo la sconfitta del Sussurratore di incubi, giunto in questo mondo come un invasore.\nLa bestia informe che attraversava il vuoto siderale non avrebbe mai dovuto necessitare di organi che in questo mondo chiamiamo \"ali\". Tali grottesche e profane appendici potrebbero essere sorte per adattarsi alle leggi che regnano ai piedi della luna, o forse sono semplicemente il frammento distorto della sua vera forma, percepita tramite gli occhi dei mortali.",
     "TypeDescription": "Materiale per aumento livello dei personaggi",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Coda recisa prismatica",
+    "Description": "Una vertebra caudale cristallizzata, resto di un Gecoluna radioso sconfitto mentre tentava di fuggire.\nA rigor di logica, una lucertola evolutasi fino a raggiungere una forza così formidabile non dovrebbe più temere la minaccia dei predatori naturali. Ciononostante, conserva ancora l'istinto di staccarsi la coda nel tentativo di sopravvivere. Forse, in un'epoca in cui la luce della luna illuminava la terra, in questo luogo si aggiravano predatori ancora più terrificanti.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50032,6 +50124,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Stemma d'accesso",
+    "Description": "Uno degli stemmi importanti conservati separatamente dai membri dei Fatui. Solo riunendo tutti e tre gli stemmi è possibile attivare il dispositivo che conduce alla camera interna. Quanto al perché dovessero essere proprio tre, la maga si è limitata a dire che era per creare un \"senso di partecipazione\".",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Lacrima di cristallo gravemente contaminata",
+    "Description": "Un cristallo derivante da un Dvalin completamente consumato dall'Abisso. Lo stato di questa lacrima rivela che per il Dvalin della storia non c'è più speranza di guarigione.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50151,6 +50265,17 @@
     "Description": "Una scatola speciale contenente sculture di zucchero fatte a mano. Sembra siano state preparate pensando a qualcuno di specifico. Meglio mangiarle prima che possano sciogliersi.",
     "TypeDescription": "Consumabile",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Strumento di negoziazione multiuso",
+    "Description": "Un pesante sacchetto pieno di gettoni, in grado di persuadere coloro per cui \"la ricchezza è la cosa più preziosa\". Per alcuni, questa è la più pura definizione di \"sincerità\"...",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50341,6 +50466,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Invito a un evento",
+    "Description": "Un invito inviato da Jean, la Gran Maestra Reggente dei Cavalieri di Favonius. Il messaggio è breve e non menziona i dettagli dell'evento.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mora leggero",
+    "Description": "Un Mora trovato presso il Lago Stellare. Sebbene sembri identico ai normali Mora, pesa solo un decimo, il che rende la gioia di accumulare ricchezza un decimo meno grande.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Carne di pesce altamente elastica",
+    "Description": "Carne di pesce trovata presso il Lago Stellare. Sebbene assomigli a quella di un pesce comune, è eccezionalmente elastica. Non importa quanto la si prema, torna sempre immediatamente alla sua forma originale. Più che un ingrediente culinario, sembra un metodo per alleviare lo stress... Meglio non provare a mangiarla.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Caramella incantata di Dodoco",
+    "Description": "Un souvenir ricevuto da Klee quando stavi aiutando al chiosco delle bevande dei Cavalieri.\n\"Metti tutto insieme sul banco alchemico, immagina la forma che vuoi ottenere, poi recita la formula magica della mamma e... puff! Ecco una caramella a forma di Dodoco!\"\nCome ci si aspetterebbe da una creazione della signorina Alice. Anche utilizzando ingredienti comuni a Teyvat, possiede una dolcezza straordinaria e complessa. Basta un piccolo morso per sentire l'eco di una dolce formula magica risuonare nella testa...\nSfortunatamente, la quantità è limitata, quindi è meglio tenerne una da parte come souvenir!",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50371,6 +50540,61 @@
     "Description": "Una raccolta di poesie che racconta le gesta degli Starsina. La maggior parte del suo contenuto è andata perduta in calamità passate. Solo una piccola parte dei frammenti originali sono stati recuperati.",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Una lettera trasportata dal vento",
+    "Description": "Una lettera che a un certo punto è finita nella tua borsa. Forse è stata portata qui dal vento.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Biglietto d'invito di Varka",
+    "Description": "Un biglietto d'invito disegnato a mano da Varka. Puoi scambiarlo al Buon Cacciatore per un banchetto ricco di carne.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Biglietto d'invito di Varka",
+    "Description": "Un biglietto d'invito disegnato a mano da Varka. Puoi scambiarlo al Buon Cacciatore per un banchetto ricco di carne. Nell'angolo sul retro è presente un piccolo timbro con la scritta \"Usato\".",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Scorta segreta di Mora di Varka",
+    "Description": "#Soldi che Varka ha messo da parte per pagarsi da bere, nascosti spudoratamente in un cassetto della scrivania.\n\"Il posto più pericoloso è in realtà il più sicuro!\" Così direbbe lui, ma la verità è che probabilmente tiene lì i soldi perché crede che la Gran Maestra Reggente non li spenderà né rivelerà il loro nascondiglio.\nSebbene in origine questo denaro fosse stato messo da parte per acquistare del vino di denti di leone come offerta all'Archon, ora che i piani sono cambiati forse potrà essere utilizzato per ricompensare {F#la Cavaliere Onoraria}{M#il Cavaliere Onorario} che ha salvato Varka, oppure affidarlo a {F#lei}{M#lui} per ricompensare ogni amico che ha contribuito all'impresa.",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Scorta segreta di Mora di Varka",
+    "Description": "#Soldi che Varka ha messo da parte per pagarsi da bere, nascosti spudoratamente in un cassetto della scrivania.\n\"Il posto più pericoloso è in realtà il più sicuro!\" Così direbbe lui, ma la verità è che probabilmente tiene lì i soldi perché crede che la Gran Maestra Reggente non li spenderà né rivelerà il loro nascondiglio.\nEra stato messo da parte per acquistare del vino di denti di leone come offerta all'Archon, ma alla fine è stato utilizzato per ricompensare {F#la Cavaliere Onoraria}{M#il Cavaliere Onorario} che ha salvato Varka. {F#La}{M#Il} Cavaliere, comunque, potrebbe averlo impiegato per ricompensare ogni amico che ha contribuito all'impresa.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -50940,7 +51164,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Betta",
-    "Description": "Un pesce agile e impetuoso con pinne spinose e una bocca che ricorda una lancia, in grado di fendere l'acqua quando nuota a tutta velocità. Le sue caratteristiche gli sono valse i soprannomi di \"Taglierino\" e \"Imprendibile\".\nTra i pesci della famiglia dei Gasterosteidi, il Betta è decisamente un pesce superbo. Particolarmente irritabile durante il corteggiamento, quando anche il minimo movimento dell'acqua può fargli saltare in nervi. Un appassionato ha osservato un esemplare attaccare un'alga, come se ne avesse interpretato il movimento come una provocazione.\n\"Se ne incontri uno sott'acqua, non guardarlo negli occhi\" ― Manuale di pesca, Capitolo del Betta",
+    "Description": "Un pesce agile e impetuoso con pinne spinose e una bocca che ricorda una lancia, in grado di fendere l'acqua quando nuota a tutta velocità. Le sue caratteristiche gli sono valse i soprannomi di \"Taglierino\" e \"Imprendibile\".\nTra i pesci della famiglia dei gasterosteidi, il Betta è un pesce decisamente orgoglioso, nonché particolarmente irritabile durante il corteggiamento, quando anche il minimo movimento dell'acqua può fargli saltare in nervi. Un appassionato ne ha osservato un esemplare attaccare un'alga, come se ne avesse interpretato il movimento come una provocazione.\n\"Se ne incontri uno sott'acqua, non guardarlo negli occhi\" ― Manuale di pesca, Capitolo del Betta",
     "TypeDescription": "Pesce",
     "Icon": "UI_ItemIcon_131007"
   },
@@ -56049,6 +56273,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fotokamera rilevatrice",
+    "Description": "La Fotokamera che Paimon porta con sé. Usala per registrare le discrepanze che saltano all'occhio stavolta!",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tasti armonici",
+    "Description": "Uno strumento delicato che può essere usato nelle esibizioni.\nSecondo gli antichi dibattiti filosofici, le melodie del mondo mortale non sono che una grezza imitazione della sinfonia dell'universo. Tuttavia, il Re degli Immortali colse gli insoliti motivi nell'esibizione del musicista, e ordinò all'armonista di fissare la musica eterna su ogni tasto, affinché chiunque suonasse lo strumento potesse unirsi alla più grande delle sinfonie.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -56751,6 +56997,17 @@
     "Description": "Questo rotolo di tessuto di Natlan, in cui sono dipinti paesaggi unici e che contiene poteri segreti, è stato portato come ricordo di Natlan da Tondo, il Venditore itinerante della Serenteiera.\nLe scene al suo interno rievocano immagini che è possibile manipolare col potere della Creazione di Mondi alternativi, per ricreare i meravigliosi panorami di Natlan nel tuo Regno interiore...",
     "TypeDescription": "Consumabile",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sfera dell'Ombra sfuggente",
+    "Description": "Un meccanismo sferico a Kuuvahki di Nod-Krai, in grado di riprodurre musica ed emettere effetti di luce abbaglianti. È un souvenir portato da Nod-Krai da Tondo, il Venditore itinerante della Serenteiera.\nBasta uno sguardo alle luci mutevoli proiettate dalla sfera perché flebili immagini prendano forma nella tua mente. Tali immagini possono essere manipolate col potere della Creazione di Mondi alternativi per ricreare nel Regno interiore il meraviglioso scenario di Nod-Krai...",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58036,6 +58293,127 @@
     "ItemType": 2,
     "Name": "Rifugio dei compagni",
     "Description": "Un ambiente pulito e ordinato, arredato con mobili adatti ai Saurici, provato e approvato dagli abitanti di Natlan. È un'abitazione perfetta tanto per i Saurici quanto per altre creature di grandi dimensioni.\nPer i guerrieri di Natlan, i Saurici non sono solo degli amici, ma veri e propri familiari con cui condividono gioie e dolori. Con un Saurico al proprio fianco, ogni problema sembra svanire.\nQuesto set decorativo piace particolarmente a Ifa.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Una stanza accogliente per visitatori da ogni dove",
+    "Description": "Una stanza completamente arredata, ispirata alle camere per gli ospiti dell'Ammiraglia, la più grande taverna di Nasha. Sono stati apportati miglioramenti mirati per soddisfare al meglio le esigenze dei suoi ospiti.\nI visitatori dell'Ammiraglia provengono da contesti molto diversi, e ognuno ha la propria idea di \"comfort\". Trovare un equilibrio tra tutte queste diverse aspettative non è un compito facile. Alla fine, l'Ammiraglia ha optato per una soluzione unica: arredare le sue stanze con ogni comodità di cui un cliente potrebbe aver bisogno, per poi rimuovere gli oggetti non necessari in base al loro feedback. Sebbene la stanza possa risultare un po' disordinata, fornisce tutto ciò di cui un ospite potrebbe aver bisogno, permettendogli di trovare il comfort a modo suo.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Dolce sonno al chiaro di luna",
+    "Description": "Una camera da letto semplice ma elegante, arredata con pezzi accuratamente selezionati dagli Eredi della Luna gelata. L'atmosfera generale è di raffinata semplicità e calore. Si dice che un ambiente tranquillo e naturale aiuti a rilassarsi meglio, e questa camera da letto sembra essere la perfetta incarnazione di tale principio. Con la luce della lampada delicata come il tenue bagliore della luna e il profumo di frutta fresca nell'aria, chi soggiorna qui può sentire la stanchezza e il dolore svanire lentamente, mentre la pace e la calma di un dolce riposo prendono silenziosamente il sopravvento...",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "La griglia ordinata dei segreti",
+    "Description": "Uno spazio di lavoro unico, con una disposizione ispirata al Consiglio dei segreti. È una fedele riproduzione dell'ambiente di lavoro quando il suo capo lavora duramente, dove tutto è ben organizzato e in perfetto ordine.\nL'analisi delle informazioni è un compito complesso e impegnativo. Quando questi fili di dati s'intrecciano, è facile non sapere cosa fare. Eppure, in una stanza in cui ogni mobile è al suo posto e si ha a portata di mano una serie completa di strumenti, il pensiero può diventare più chiaro e, di conseguenza, si può lavorare in modo più efficiente...",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Una casa calda e accogliente",
+    "Description": "Una camera da letto in stile Nod-Krai la cui disposizione evoca una sensazione di calore e accoglienza. È il posto ideale per scrollarsi di dosso la stanchezza dopo una giornata impegnativa. Tutti gli arredi di questa camera da letto, accuratamente selezionati dalla \"madre\" in persona presso il Laboratorio di Krumkake Tin-Tin, sono i mobili migliori, più caldi e più pratici del mondo intero. Tuttavia, questo comfort eccezionale ha un rovescio della medaglia: i suoi occupanti a volte dormono troppo, perdendo persino appuntamenti importanti perché la stanza è semplicemente troppo comoda. Potrebbe essere necessario un metodo di sveglia deciso ma premuroso per assicurarsi che tutti si alzino in tempo.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Riposo pre-battaglia",
+    "Description": "Una sala comune completamente arredata. Ispirata alla disposizione delle stanze di Piramida, ricrea i tranquilli momenti di riposo che i Ratniki si concedono prima di ogni battaglia. I Ratniki veterani sanno che la guerra contro la Caccia selvaggia è lunga e spietata. Quando le condizioni lo permettono, il riposo è una necessità essenziale per mantenere la massima prontezza al combattimento. Inoltre, una sala ben allestita dà ai Ratniki anche il tempo di conoscersi. Sul campo di battaglia, combattere al fianco di compagni fidati, piuttosto che con degli sconosciuti, infonde molta più sicurezza e permette una coordinazione migliore. Per questo motivo, la costruzione di sale in cui poter riposare è da tempo una priorità per gli Starsina.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lande selvagge dell'Estremo Nord",
+    "Description": "Un'area selvaggia che riunisce la vegetazione e le formazioni geologiche tipiche di Nod-Krai, nonché un'autentica riproduzione del paesaggio unico dell'Isola di Hiisi.\nNod-Krai gode di un'abbondanza di Kuuvahki, che a sua volta ha dato origine a piante dai colori vivaci, a creature dalle abitudini peculiari e a formazioni geologiche dalle forme insolite. Per i naturalisti, quest'area custodisce innumerevoli tesori di nuova conoscenza, mentre per i turisti comuni offre panorami meravigliosi che richiedono una pausa per essere ammirati.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Vivace città di frontiera",
+    "Description": "Un paesaggio regionale incentrato su vari edifici caratteristici, con negozi di vario genere. È una riproduzione perfetta di un angolo della città di Nasha.\nDicono che la città di Nasha si differenzi dalle altre perché non ha un vero amministratore né una chiara struttura urbanistica. Questo ha portato alla nascita di innumerevoli passaggi stretti e spazi vuoti quasi impercettibili tra gli edifici della città. Per la maggior parte dei residenti, questi passaggi sono solo canali per il rumore; per coloro che si concentrano sulla raccolta di informazioni, invece, fungono da vie per la diffusione di segreti e da scorciatoie per spostarsi più facilmente.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Placida preghiera sotto la luna",
+    "Description": "Un allestimento all'aperto ispirato all'Enclave della Luna gelata, con vari strumenti disposti secondo le usanze degli Eredi della Luna gelata e una vegetazione piantata per completare ogni elemento. Entrando in questo spazio percepirai immediatamente la tranquillità e armonia che tanto definisce gli Eredi della Luna gelata. È come se inni dolci e melodici echeggiassero dolcemente, portando via con la brezza ogni problema e sofferenza, lasciando dietro di sé solo uno stato d'animo sereno e pacifico.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Luce solitaria nella lunga notte",
+    "Description": "Un insediamento di case robuste, la cui planimetria e architettura sono ispirate alle roccaforti difensive dei Guardaluce. Costruito per resistere al vento e alla pioggia, ha formidabili capacità difensive persino contro la Caccia selvaggia. Come recita il giuramento dei Guardaluce: \"Siamo i Guardaluce, coloro che illuminano le pianure per sempre innevate con la speranza eterna\".\nNelle vaste pianure fuori Piramida, roccaforti come questa si ergono alte e luminose, portando con sé la luce della speranza.",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Laboratori promettenti",
+    "Description": "Un piccolo insediamento ispirato al Laboratorio di Krumkake Tin-Tin, con una comoda casa emisferica di ferro e un edificio a forma di nave di ferro. Queste strutture sono più che sufficienti a soddisfare le esigenze di base dei proprietari dei laboratori.\nTutti i grandi laboratori hanno origine da una singola e semplice struttura. Con questi edifici come fondamenta, e con una pianificazione e dei materiali adeguati, trasformare il tuo Regno interiore in un gigantesco laboratorio diventa una possibilità molto concreta...",
+    "TypeDescription": "Progetto per set decorativo",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Serenità della mezzaluna",
+    "Description": "Un cortile ispirato alla Sala della Luna d'argento. Il suo stile trasmette quiete e serenità, come una dimensione onirica quasi irraggiungibile.\nLa luce lunare guida sempre con gentilezza tutti gli esseri viventi. Forse, i seguaci della Dea della Luna si sono chiesti una volta: quale panorama o scenario potrebbe guidare la Luna nuova al suo sonno tranquillo?\nL'unico modo per conoscere la risposta è visitare la Sala della Luna d'argento e contemplare ogni fiore e filo d'erba...",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -71753,6 +72131,413 @@
     "ItemType": 2,
     "Name": "Lanterna Xiao vivace Un incontro con gli amici",
     "Description": "Un progetto con istruzioni passo dopo passo per realizzare una lanterna Xiao vivace Un incontro con gli amici.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Biscotondo",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Biscotondo.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Casa magazzino Tin-Tin",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare la Casa magazzino Tin-Tin.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tavolo rotondo della Luna gelata Cielo blu soffice",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un tavolo rotondo della Luna gelata Cielo blu soffice.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Appunti di qualcuno",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Appunti di qualcuno.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tavolino della Luna gelata Aroma della frutta fresca",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un tavolino della Luna gelata Aroma della frutta fresca.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rami contro il cielo blu",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Rami contro il cielo blu.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sedia con schienale in legno di farnia Riposo lunare",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una sedia con schienale in legno di farnia Riposo lunare.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Barlume Cornabrina",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Barlume Cornabrina.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fungo sinuoso",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Fungo sinuoso.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Il nido più bello",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Il nido più bello.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Letto di pietra della Luna gelata Fresco e refrigerante",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un letto di pietra della Luna gelata Fresco e refrigerante.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tavolino basso da interno Importanza unica",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un tavolino basso da interno Importanza unica.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Libreria da interno Svago da lettori",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una libreria da interno Svago da lettori.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bancone da interno Benvenuto del visitatore",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un bancone da interno Benvenuto del visitatore.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Armadietto torreggiante",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un armadietto torreggiante.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Guardaroba da hotel Camera extra",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un guardaroba da hotel Camera extra.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tappeto della Luna gelata Limpidezza",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un tappeto della Luna gelata Limpidezza.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tappetino morbido e soffice",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un tappetino morbido e soffice.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Saldezza ferrea",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Saldezza ferrea.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Stendardo dei Guardaluce",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare uno stendardo dei Guardaluce.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lampada da parete della taverna Luce fluttuante del corridoio",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una lampada da parete della taverna Luce fluttuante del corridoio.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Edificio della base ausiliario Serra multiuso",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un edificio della base ausiliario Serra multiuso.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Edificio della base ausiliario Spazio segreto",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un edificio della base ausiliario Spazio segreto.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Edificio della base ausiliario Torre idrica",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un edificio della base ausiliario Torre idrica.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ruota eolica della base Potenza ausiliaria",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una ruota eolica della base Potenza ausiliaria.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Porta della base Logica di accesso",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una porta della base Logica di accesso.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Piattaforma della base Fondamenta solide",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una piattaforma della base Fondamenta solide.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Muro della base Linea ostruttiva",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un muro della base Linea ostruttiva.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pilastro della base Faro universale",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un pilastro della base Faro universale.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tenero abbraccio",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Tenero abbraccio.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ringhiera cittadina Panchina improvvisata",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una ringhiera cittadina Panchina improvvisata.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ringhiera cittadina Onde bluastre",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una ringhiera cittadina Onde bluastre.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Statua gigante Schizzi e scintille",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una statua gigante Schizzi e scintille.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Segreto rinfrescante della base",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Segreto rinfrescante della base.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Soffitto a pannelli della base",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare un soffitto a pannelli della base.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pavimentazione in lega della base",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una pavimentazione in lega della base.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tenue placidità della base",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare Tenue placidità della base.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
     "TypeDescription": "Progetto per decorazione",
     "Icon": "UI_ItemIcon_Home_Common"
   }

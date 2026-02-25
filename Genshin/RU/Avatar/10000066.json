@@ -1180,5 +1180,11 @@
     "Description": "Именная карта.\nЛёгкой зыбью откликнулся пруд, когда на зеркальную гладь опустилась камелия.",
     "Icon": "UI_NameCardIcon_Ayato",
     "PicturePrefix": "UI_NameCardPic_Ayato"
+  },
+  "TraceEffect": {
+    "Id": 215019,
+    "Name": "Эхо: Оплот стойкости",
+    "Description": "Эхо фантазии Камисато Аято. «Кто сказал, что осенняя вода холодна, ведь за ней всегда следуют опавшие цветы».",
+    "Icon": "UI_TraceEffectIcon_Ayato"
   }
 }

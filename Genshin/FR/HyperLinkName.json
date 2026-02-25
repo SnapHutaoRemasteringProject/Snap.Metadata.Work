@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Bénédiction venteuse Électro</color>",
-    "Description": "Les DGT infligés par les réactions de Dispersion déclenchées par les personnages augmentent de <color=#f39001>80 %</color> et chaque obtention d'une <color=#f39001>bénédiction venteuse Électro</color> restaure <color=#f39001>1.5</color> pts d'énergie élémentaire à tous les personnages de l'équipe."
+    "Description": "Les DGT infligés par les réactions de Dispersion déclenchées par les personnages augmentent de <color=#f39001>80 %</color> et chaque obtention d'une <color=#f39001>bénédiction venteuse Électro</color> restaure <color=#f39001>2</color> pts d'énergie élémentaire à tous les personnages de l'équipe."
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Grâce de cristal Cryo</color>",
-    "Description": "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Cryo et Géo de <color=#f39001>50 %</color>. De plus, ils collectent les fragments proches qui ont été générés par des réactions de Cristallisation toutes les <color=#f39001>4</color> s."
+    "Description": "Tous les personnages de l'équipe bénéficient d'un bonus de DGT Cryo et Géo de <color=#f39001>70 %</color>. De plus, ils collectent les fragments proches qui ont été générés par des réactions de Cristallisation toutes les <color=#f39001>4</color> s."
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>Ohm</color>",
-    "Description": "Les RÉS Cryo et Électro des ennemis concernés diminuent de <color=#f39001>3 %</color> et la RÉS physique de <color=#f39001>6 %</color>. Cet effet peut être cumulé <color=#f39001>6</color> fois maximum."
+    "Description": "Les RÉS Cryo et Électro des ennemis concernés diminuent de <color=#f39001>5 %</color> et la RÉS physique de <color=#f39001>10 %</color>. Cet effet peut être cumulé <color=#f39001>6</color> fois maximum."
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Bénédiction venteuse Cryo</color>",
-    "Description": "Les DGT infligés par les réactions de Dispersion des personnages augmentent de <color=#f39001>80 %</color> et leurs DGT CRIT de <color=#f39001>12 %</color>."
+    "Description": "Les DGT infligés par les réactions de Dispersion des personnages augmentent de <color=#f39001>80 %</color> et leurs DGT CRIT de <color=#f39001>16 %</color>."
   },
   {
     "Id": 211902,
@@ -422,11 +422,21 @@
   {
     "Id": 11270001,
     "Name": "Chant de rossignol",
-    "Description": "Illuga bénéfice des effets du chant de rossignol après avoir utilisé son déchaînement élémentaire <color=#FFD780FF>Reflet sans ombre</color>, augmentant ainsi les <color=#FFE699FF>DGT Géo</color> infligés par le personnage déployé."
+    "Description": "Illuga bénéficie des effets du chant de rossignol après avoir utilisé son déchaînement élémentaire <color=#FFD780FF>Reflet sans ombre</color>, augmentant ainsi les <color=#FFE699FF>DGT Géo</color> infligés par le personnage déployé."
   },
   {
     "Id": 11260001,
     "Name": "Déphasage lunaire",
     "Description": "Zibai active le mode Déphasage lunaire après avoir utilisé sa compétence élémentaire <color=#FFD780FF>Ciel et terre manifestés</color>, mode qui dure un maximum de {PARAM#P1263201|4S1} s et possède les propriétés suivantes :\n· Les attaques normales et chargées de Zibai sont converties pour infliger des <color=#FFE699FF>DGT Géo</color> ne pouvant pas être enchantés.\n· La compétence élémentaire <color=#FFD780FF>Ciel et terre manifestés</color> de Zibai est convertie en la compétence élémentaire spéciale <color=#FFD780FF>Foulée de destrier spirituel</color> : lorsque Zibai possède au moins 70 pts de <color=#FFD780FF>rayonnage de déphasage</color>, elle en consomme 70 pts pour déclencher une foulée de destrier spirituel qui inflige deux fois des <color=#FFE699FF>DGT Géo</color>, les DGT de la seconde fois étant considérés comme des DGT de réaction de Sélénocristallisation.\n\nZibai peut accumuler un maximum de 100 pts de <color=#FFD780FF>rayonnage de déphasage</color> des manières suivantes : \n· Pendant son <color=#FFD780FF>déphasage lunaire</color>, Zibai obtient 10 pts de rayonnage de déphasage toutes les secondes.\n· En touchant un ennemi avec une attaque normale, Zibai obtient 5 pts de rayonnage de déphasage, Zibai pouvant cumuler du rayonnage une fois toutes les 0,5 s de cette manière.\n\n<color=#FFD780FF>Signelune « Lueur ascendante »</color>\nLorsqu'un personnage de l'équipe à proximité déclenche une réaction de Sélénocristallisation, Zibai obtient 35 pts de <color=#FFD780FF>rayonnage de déphasage</color>, Zibai pouvant cumuler du rayonnage une fois toutes les 4 s de cette manière. Utiliser la compétence élémentaire spéciale <color=#FFD780FF>Foulée de destrier spirituel</color> réinitialise le TdR du <color=#FFD780FF>rayonnage de déphasage</color> cumulé de cette manière.\n\nLe déphasage lunaire prend fin après avoir utilisé 4 <color=#FFD780FF>foulées de destrier spirituel</color> ou à la fin de la durée."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Charge de tempête",
+    "Description": "Varka active son mode Charge de tempête après avoir utilisé sa compétence élémentaire <color=#FFD780FF>Exécution liée au vent</color> avec un appui simple.\nDans ce mode, les DGT infligés par les attaques normales et chargées de Varka augmentent, Varka ne peut plus effectuer d'attaques plongeantes, et les deux lames de ses attaques normales et chargées infligent chacune des DGT élémentaires ne pouvant pas être enchantés selon les éléments des personnages de l'équipe.\n· La lame de sa main gauche est convertie pour infliger des <color=#80FFD7FF>DGT Anémo</color> ne pouvant pas être enchantés.\n· Lorsque l'équipe contient un personnage <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Électro</color> ou <color=#99FFFFFF>Cryo</color>, la lame de sa main droite inflige des DGT élémentaires correspondants ne pouvant pas être enchantés, selon ce même ordre de priorité.\n\nDe plus, si l'équipe contient un personnage <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Électro</color> ou <color=#99FFFFFF>Cryo</color> pendant que Varka est dans ce mode, sa compétence élémentaire <color=#FFD780FF>Exécution liée au vent</color> est convertie en la compétence élémentaire spéciale <color=#FFD780FF>Ascension des quatre vents</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Ascension des quatre vents",
+    "Description": "Cette compétence élémentaire spéciale de Varka inflige des DGT de zone ne pouvant pas être enchantés de l'élément correspondant à la lame de sa main droite, ainsi que des <color=#80FFD7FF>DGT Anémo de zone</color>.\nVarka possède 2 utilisations disponibles après un TdR initial.\nLorsque Varka touche un ennemi avec une attaque normale pendant sa <color=#FFD780FF>charge de tempête</color>, le TdR de son <color=#FFD780FF>Ascension des quatre vents</color> diminue de 0,5 s, cet effet pouvant être déclenché 15 fois maximum pendant chaque <color=#FFD780FF>charge de tempête</color>.\nDe plus, Varka peut consommer les utilisations de son <color=#FFD780FF>Ascension des quatre vents</color> pour effectuer son attaque chargée spéciale <color=#FFD780FF>Dévoreur azur</color> qui ne consomme pas d'endurance, infligeant 2 fois des DGT ne pouvant pas être enchantés de l'élément correspondant à la lame de sa main droite, ainsi que 2 fois des <color=#80FFD7FF>DGT Anémo</color>."
   }
 ]

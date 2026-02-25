@@ -4777,6 +4777,59 @@
     ]
   },
   {
+    "Id": 12515,
+    "PromoteId": 12515,
+    "Sort": 5211,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Cantar de Gesta del Lobo",
+    "Description": "Cuenta la leyenda que esta es la gran espada que forjó Ravenwood, aquel que heredó el título de “Boreas”, con sus propias manos antes de convertirse en caballero.",
+    "Icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+    "AwakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Caballería indómita",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un <color=#99FFFFFF>7.5%</color>. Este efecto dura 4{NON_BREAK_SPACE}s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01{NON_BREAK_SPACE}s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un <color=#99FFFFFF>7.5%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "#La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un <color=#99FFFFFF>9.5%</color>. Este efecto dura 4{NON_BREAK_SPACE}s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01{NON_BREAK_SPACE}s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un <color=#99FFFFFF>9.5%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "#La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un <color=#99FFFFFF>11.5%</color>. Este efecto dura 4{NON_BREAK_SPACE}s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01{NON_BREAK_SPACE}s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un <color=#99FFFFFF>11.5%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "#La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un <color=#99FFFFFF>13.5%</color>. Este efecto dura 4{NON_BREAK_SPACE}s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01{NON_BREAK_SPACE}s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un <color=#99FFFFFF>13.5%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "#La Vel. de Ataque aumenta en un 10%. Al golpear a un enemigo con un Ataque Normal/usar la Habilidad Elemental/iniciar un Ataque Cargado, el portador de esta arma obtendrá 1/2/2 acumulación(es) del efecto de “himno de los Cuatro Vientos” respectivamente, el cual aumenta el daño infligido en un <color=#99FFFFFF>15.5%</color>. Este efecto dura 4{NON_BREAK_SPACE}s, puede acumularse hasta 4 veces y solo puede activarse una vez cada 0.01{NON_BREAK_SPACE}s.\nAdemás, si el equipo tiene el efecto de “taumaturgia: rito secreto”, cada carga de himno de los Cuatro Vientos también aumentará el Daño CRIT del portador de esta arma en un <color=#99FFFFFF>15.5%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114008,
+      112139,
+      112034
+    ]
+  },
+  {
     "Id": 13101,
     "PromoteId": 13101,
     "Sort": 1301,

@@ -1794,6 +1794,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Varka",
+    "Description": "Matériau d'activation de la constellation de Varka.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3023,6 +3034,17 @@
     "Description": "Matériau d'activation de la constellation d'Illuga.",
     "TypeDescription": "Matériau d'activation de constellation",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Varka",
+    "Description": "Matériau d'activation de la constellation de Varka.",
+    "TypeDescription": "Matériau d'activation de constellation",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -4789,7 +4811,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Baie du solstice",
-    "Description": "Un fruit qui pousse dans les régions chaudes de Nod-Krai, apprécié des animaux en hiver et des enfants affamés.\nDans les traditions des Descendants de givrelune, les baies du solstice sont considérées comme un symbole de vie et d'abondance, car elles ne fleurissent que pendant la chaleur du printemps et de l'été.\nIl existe également une légende qui raconte l'interminable lutte de pouvoir entre le roi du houx d'hiver et le roi du chêne d'été, des monarques jumeaux qui s'entretuent à tour de rôle au fil des saisons, revenant des enfers pour régner sur leur saison encore et encore jusqu'à la fin des temps. La plupart des chercheurs snezhnayiens rejettent cette idée, la considérant comme une métaphore de l'alternance des saisons dans une religion primitive, ou du moins c'est ce dont ils se sont convaincus.",
+    "Description": "Un fruit qui pousse dans les régions chaudes de Nod-Krai, apprécié des animaux en hiver et des enfants affamés.\nDans les traditions des Descendants de givrelune, les baies du solstice sont considérées comme un symbole de vie et d'abondance, car elles ne fleurissent que pendant la chaleur du printemps et de l'été.\nIl existe également une légende qui raconte l'interminable lutte de pouvoir entre le roi de la glacelée d'hiver et le roi du chêne de solstice, des monarques jumeaux qui s'entretuent à tour de rôle au fil des saisons, revenant des enfers pour régner sur leur saison encore et encore jusqu'à la fin des temps. La plupart des chercheurs snezhnayiens rejettent cette idée, la considérant comme une métaphore de l'alternance des saisons dans une religion primitive, ou du moins c'est ce dont ils se sont convaincus.",
     "TypeDescription": "Ingrédient",
     "Icon": "UI_ItemIcon_101265"
   },
@@ -31578,6 +31600,54 @@
     "Icon": "UI_ItemIcon_108867"
   },
   {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 18 % des PV max, puis 300 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Jade trempé doré (suspect)",
+    "Description": "Un plat de poulet typique de Liyue. La peau du poulet est d'un jaune vif plutôt alléchant qui contraste magnifiquement avec la viande blanche. Mais si l'on en mange une bouchée, le regret s'installe aussitôt, car la chair sèche et coriace du poulet se coince immédiatement entre les dents...",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 20 % des PV max, puis 390 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Jade trempé doré",
+    "Description": "Un plat de poulet typique de Liyue. Il est préparé avec un minimum d'épices et d'assaisonnements afin de préserver les saveurs naturelles de la volaille. Il en résulte une peau soyeuse et une chair tendre et savoureuse, particulièrement délicieuse accompagnée d'une sauce.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restaure immédiatement 22 % des PV max, puis 470 PV toutes les 5 s pendant 30 s au personnage sélectionné.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Jade trempé doré (délicieux)",
+    "Description": "Un plat de poulet typique de Liyue. La peau est d'une fermeté remarquable et la viande est tendre et savoureuse. La gélatine naturelle du poulet, prise en gelée, concentre de riches arômes de graisse de volaille, jusqu'à imprégner les os d'une subtile douceur. Ce plat est une véritable symphonie de saveurs, qui ne manquera pas de ravir les palais les plus exigeants.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "Restaure 80 pts d'endurance.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Indulgence sucrée",
+    "Description": "Le généreux morceau de cuisse de poulet fumé, le grand verre de cidre de pomme et le dressage rustique et bien garni montrent clairement à qui l'on a affaire, à savoir à quelqu'un qui ne recule devant rien, que ce soit sur le champ de bataille ou à table.",
+    "TypeDescription": "Nourriture",
+    "Icon": "UI_ItemIcon_108870"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34467,6 +34537,17 @@
     "ItemType": 2,
     "Name": "Recette : Fantôme de champignon",
     "Description": "Étapes de préparation du fantôme de champignon.",
+    "TypeDescription": "Recette",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Recette : Jade trempé doré",
+    "Description": "Étapes de préparation du jade trempé doré.",
     "TypeDescription": "Recette",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37433,6 +37514,17 @@
     "Description": "Une relique osseuse d'un noir profond, prélevée sur la corruption persistante laissée après la défaite du Seigneur chuchoteur de cauchemars qui avait envahi notre monde depuis l'au-delà.\nCette bête informe qui planait dans le vide sans étoiles n'aurait jamais dû avoir besoin d'organes que ce monde nomme « ailes ». Ces appendices grotesques et profanes sont peut-être apparus pour s'adapter aux lois sous la lune, ou ne sont-ils que le fragment déformé de sa véritable forme que les yeux mortels peuvent percevoir.",
     "TypeDescription": "Matériau d'amélioration de personnage",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Queue coupée prismatique",
+    "Description": "Une vertèbre de queue cristallisée laissée par un Lunigecko radieux vaincu alors qu'il tentait de s'enfuir.\nEn toute logique, un lézard qui a évolué jusqu'à atteindre une telle force ne devrait plus être confronté à la menace de prédateurs naturels. Pourtant, il a conservé cet instinct de survie qui le pousse à se débarrasser de sa queue. Peut-être qu'à l'époque où le clair de lune recouvrait ces terres, des prédateurs encore plus terrifiants rôdaient ici.",
+    "TypeDescription": "Matériau d'amélioration de personnage",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50351,6 +50443,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Insigne d'accès",
+    "Description": "Un insigne important détenu par plusieurs membres des Fatui. Ce n'est qu'en les réunissant tous les trois que l'on peut activer le mécanisme permettant d'accéder à la chambre intérieure. Quant à savoir pourquoi il en fallait trois, une sorcière s'est contentée de répondre que c'était pour « créer un sentiment de participation ».",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Larme cristallisée gravement contaminée",
+    "Description": "Provient d'un Dvalin complètement corrompu par l'Abîme. L'état de cette larme traduit le fait que le Dvalin dont il est question dans l'histoire n'a plus aucun espoir de guérir.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50470,6 +50584,17 @@
     "Description": "Un coffret spécial de sculpture en sucre fait sur mesure, apparemment conçu pour quelqu'un de particulier. À déguster de préférence avant que ça ne commence à fondre !",
     "TypeDescription": "Consommable",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Outil de négociation polyvalent",
+    "Description": "Une épaisse sacoche pleine de trésors susceptibles d'influencer ceux qui « valorisent les richesses par-dessus tout ». Pour certains, c'est la définition la plus pure du mot « sincérité ».",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50660,6 +50785,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Invitation d'événement",
+    "Description": "Une invitation envoyée par Jean, Grande maîtresse intérimaire de l'Ordre de Favonius. Le message est bref et ne mentionne pas les détails de l'événement.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mora léger",
+    "Description": "Un mora trouvé au Lac Tombétoile. Bien qu'identique à un mora ordinaire en apparence, il ne pèse qu'un dixième de son poids. La joie que procure le fait d'acquérir des richesses est donc dix fois moins importante.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Chair de poisson très élastique",
+    "Description": "De la viande de poisson trouvée au Lac Tombétoile. Bien qu'elle ressemble à du poisson ordinaire, elle est exceptionnellement élastique. Peu importe la force avec laquelle vous la pétrissez, elle reprend sa forme initiale en un rien de temps. Mieux vaut éviter de la cuisiner... Cependant, elle peut faire office de jouet anti-stress plutôt efficace.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bonbon enchanté de Dodoco",
+    "Description": "#Un souvenir offert par Klee pendant que vous donniez un coup de main au stand de boissons des chevaliers.\n« On met tout sur la table de synthèse, on pense très fort à la forme qu'on veut, on récite l'incantation de maman, et... pouf ! Des bonbons en forme de Dodoco{NON_BREAK_SPACE}!{NON_BREAK_SPACE}»\nComme on pouvait s'y attendre d'une création de mademoiselle Alice, même s'ils sont fabriqués à partir d'ingrédients ordinaires de Teyvat, ces bonbons ont un merveilleux goût sucré et raffiné. Il suffit d'en mettre un dans la bouche pour entendre résonner une douce incantation magique dans sa tête... Malheureusement, cette friandise est disponible en quantité limitée, alors gardez-en une en souvenir{NON_BREAK_SPACE}!",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50690,6 +50859,61 @@
     "Description": "Un recueil de poèmes relatant les exploits des différents starshynas. La majeure partie de son contenu a été perdue lors de catastrophes passées et seule une petite fraction des fragments originaux a pu être retrouvée.",
     "TypeDescription": "Objet de quête",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Lettre portée par le vent",
+    "Description": "Une lettre qui s'est retrouvée dans votre sac à un moment donné. C'est peut-être le vent qui l'a portée jusque là.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Billet d'invitation de Varka",
+    "Description": "Un billet d'invitation dessiné à la main par Varka. Peut être échangé au Bon Chasseur contre un copieux festin à base de viande.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Billet d'invitation de Varka",
+    "Description": "#Un billet d'invitation dessiné à la main par Varka. Peut être échangé au Bon Chasseur contre un copieux festin à base de viande. Un petit tampon portant la mention «{NON_BREAK_SPACE}Utilisé{NON_BREAK_SPACE}» est apposé dans un coin au dos.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cachette secrète d'argent de Varka",
+    "Description": "De l'argent que Varka a mis de côté pour acheter à boire, caché sans vergogne dans un tiroir de son bureau.\n« L'endroit le plus dangereux est en fait le plus sûr ! » C'est ce qu'il prétend, mais en réalité, il garde probablement cet argent ici parce qu'il pense que la Grande Maîtresse intérimaire ne va ni le dépenser ni révéler sa cachette.\nCet argent a été initialement mis de côté pour acheter du vin de dent-de-lion destiné à être offert en offrande aux divinités. Mais maintenant que les choses ont changé, il pourrait peut-être servir à récompenser le chevalier honoraire pour avoir sauvé Varka, ou être distribué à tous ceux qui ont participé à son sauvetage.",
+    "TypeDescription": "Consommable",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cachette secrète d'argent de Varka",
+    "Description": "De l'argent que Varka a mis de côté pour acheter à boire, caché sans vergogne dans un tiroir de son bureau.\n« L'endroit le plus dangereux est en fait le plus sûr ! » C'est ce qu'il prétend, mais en réalité, il garde probablement cet argent ici parce qu'il pense que la Grande Maîtresse intérimaire ne va ni le dépenser ni révéler sa cachette.\nCet argent a été initialement mis de côté pour acheter du vin de dent-de-lion destiné à être offert en offrande aux divinités. Il a finalement été utilisé pour récompenser le chevalier honoraire pour avoir sauvé Varka, ainsi que pour récompenser ceux qui ont participé à son sauvetage.",
+    "TypeDescription": "Objet de quête",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -51259,7 +51483,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Épinoche combattante",
-    "Description": "Une espèce de poisson rapide aux nageoires couvertes d'épines, qui lancé à pleine allure, n'est pas sans rappeler une lance capable de séparer les eaux. C'est d'ailleurs de là que lui viennent les surnoms d'« épine des eaux » ou encore de « flèche des courants ».\nAucune autre épinoche ne possède son amour-propre. Cela se voit particulièrement pendant la période d'accouplement, durant laquelle le moindre remous dans l'eau est susceptible de déclencher son hostilité, et elle a été observée en train de charger violemment des algues mouvantes, prenant visiblement les ondulations pour la provocation de quelque mâle alpha.\n« Fuyez comme la peste si vous le rencontrez dans l'eau. » – « Guide de la pêche sauvage - Épinoche combattante »",
+    "Description": "Une espèce de poisson rapide aux nageoires couvertes d'épines, qui, lancé à pleine allure, n'est pas sans rappeler une lance capable de séparer les eaux. C'est d'ailleurs de là que lui viennent les surnoms d'« épine des eaux » ou encore de « flèche des courants ».\nAucune autre épinoche ne possède son amour-propre. Cela se voit particulièrement pendant la période d'accouplement, durant laquelle le moindre remous dans l'eau est susceptible de déclencher son hostilité, et elle a été observée en train de charger violemment des algues mouvantes, prenant visiblement les ondulations pour la provocation de quelque mâle alpha.\n« Fuyez comme la peste si vous le rencontrez dans l'eau. » – « Guide de la pêche sauvage - Épinoche combattante »",
     "TypeDescription": "Poisson",
     "Icon": "UI_ItemIcon_131007"
   },
@@ -56368,6 +56592,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Daguerréotype d'observation",
+    "Description": "Le Daguerréotype que Paimon a toujours sur elle. Utilisez-le pour documenter les divergences notables que vous découvrirez cette fois-ci !",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Touches harmoniques",
+    "Description": "Un instrument raffiné pouvant être joué une fois qu'il a été utilisé.\nAux yeux des sages d'une civilisation ancienne, les mélodies du monde des mortels ne sont qu'une pâle imitation de la symphonie de l'univers. Cependant, le roi des immortels a su capter les éléments inhabituels de l'interprétation du musicien, puis a demandé à l'harmoniste de transposer la musique éternelle sur chaque touche, de sorte que chacun puisse se joindre à cette symphonie grandiose rien qu'en jouant de cet instrument.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -57070,6 +57316,17 @@
     "Description": "Ce rouleau tissé de Natlan représente des paysages uniques et contient des pouvoirs cachés. Il s'agit d'un souvenir rapporté de Natlan par Toby, l'esprit itinérant de la théière.\nLes motifs du rouleau vous rappellent certaines images que vous pouvez manipuler grâce à l'énergie dimensionnelle pour recréer les merveilles de Natlan dans votre royaume intérieur...",
     "TypeDescription": "Consommable",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sphère d'ombre éphémère",
+    "Description": "Une sphère kuuvahkique de Nod-Krai capable de jouer de la musique et de produire des effets lumineux éblouissants. C'est un souvenir ramené de Nod-Krai par Toby, l'esprit itinérant.\nEn regardant les effets de lumière projetés par la sphère, de vagues images semblent se dessiner dans votre esprit. Seul le pouvoir de l'énergie dimensionnelle permet de recréer les merveilleux paysages de Nod-Krai à l'intérieur du royaume intérieur...",
+    "TypeDescription": "Consommable",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58355,6 +58612,127 @@
     "ItemType": 2,
     "Name": "Refuge des compagnons",
     "Description": "Une habitation propre et bien entretenue, équipée de dispositifs adaptés aux sauriens qui ont été testés et approuvés par les Natlanois. Il s'agit d'une maison idéale pour les sauriens et les autres créatures de grande taille.\nLes sauriens sont beaucoup plus que de simples compagnons pour les guerriers de Natlan : ce sont leur famille, avec qui ils partagent leurs épreuves et leurs victoires. Avec un saurien à ses côtés, tous les problèmes semblent disparaître.\nCompagnon préférant ce set : Ifa.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chambre confortable pour les invités venus de près et de loin",
+    "Description": "Une chambre entièrement meublée inspirée des chambres d'hôtes du Navire amiral, la plus grande taverne du Village de Nasha. Des améliorations ciblées ont été apportées pour mieux répondre aux besoins de ses occupants.\nLes clients du Navire amiral viennent de divers horizons, chacun ayant sa propre idée de ce que signifie le « confort ». Trouver un équilibre entre toutes ces attentes différentes n'est pas une tâche facile. Finalement, le Navire amiral a trouvé une solution unique : meubler ses chambres avec tous les équipements dont un client pourrait avoir besoin, puis retirer les objets superflus en fonction de leurs retours. La chambre peut sembler un peu encombrée, mais elle propose tout ce dont un client pourrait avoir besoin, lui permettant de trouver le confort à sa manière.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Doux sommeil sous la lune",
+    "Description": "Une chambre simple mais élégante, meublée de pièces soigneusement sélectionnées par les Descendants de givrelune. L'atmosphère générale est celle d'une simplicité raffinée et chaleureuse. On dit qu'un environnement tranquille et naturel aide à mieux se détendre, et cette chambre semble être l'incarnation parfaite de ce principe. Avec une lumière de lampe aussi douce que le clair de lune diffusant sa lueur apaisante et le parfum de fruits frais dans l'air, ceux qui séjournent ici peuvent sentir leur fatigue et leur douleur s'estomper lentement, tandis que la paix et le calme d'un doux repos prennent tranquillement le dessus...",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Coordonnées harmonieuses des secrets",
+    "Description": "Un espace de travail unique dont l'agencement s'inspire véritablement du Curatorium des secrets. Il s'agit d'une reproduction fidèle de l'environnement de travail de la patronne Nefer, où tout est bien organisé et dans un ordre parfait.\nL'analyse de renseignements est une tâche fastidieuse et difficile, avec d'innombrables fils d'informations et souvent aucun indice clair par où commencer. Pourtant, dans une pièce où chaque chose est à sa place et où tous les outils nécessaires sont à portée de main, la réflexion devient plus claire, et on travaille naturellement de manière plus efficace...",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Meilleure et plus chaleureuse des maisons",
+    "Description": "Une chambre de style nod-kraïen avec un agencement qui évoque une sensation de chaleur et de confort. C'est l'endroit idéal pour se délasser après une journée bien remplie. Tous les meubles de cette chambre, soigneusement sélectionnés par la « cheffe de famille » de la Knieperterie Cling-clang, sont les meilleurs, les plus chaleureux et les plus pratiques du monde entier. Cependant, ce confort exceptionnel présente un inconvénient : ses occupants font parfois la grasse matinée et manquent même des rendez-vous importants, tant la pièce est agréable. Une méthode de réveil ferme mais délicate pourrait s'avérer nécessaire pour garantir que tout le monde se lève à l'heure.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Répit d'avant-bataille",
+    "Description": "Un salon communautaire entièrement équipé, conçu d'après les pièces de Piramida où les ratnikis prennent une pause rapide avant de partir au combat. Les vétérans savent pertinemment que, compte tenu de la longue et éprouvante guerre contre la Chasse sauvage, ils doivent se reposer dès que possible pour maintenir leur efficacité au combat à son maximum. De plus, un salon bien conçu permet également aux ratnikis de mieux se connaître en dehors des combats, développant ainsi la confiance et l'esprit d'équipe indispensables à la réussite sur le champ de bataille. C'est pourquoi les starshynas ont toujours fait en sorte de construire des salons comme celui-ci.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Terres sauvages du grand nord",
+    "Description": "Une zone sauvage regroupant la végétation et les reliefs que l'on trouve communément à Nod-Krai, notamment une reconstitution authentique du paysage unique de l'Île de Hiisi.\nLa région de Nod-Krai bénéficie d'une abondance de kuuvahki, ce qui a donné naissance à des plantes aux couleurs vives, à des créatures aux habitudes singulières et à des reliefs aux formes distinctives. Pour les naturalistes, cette zone recèle d'innombrables trésors de connaissances nouvelles, tandis que pour les touristes ordinaires, elle propose des paysages merveilleux qui invitent à s'arrêter pour les admirer.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ville frontalière animée",
+    "Description": "Un paysage régional centré sur divers bâtiments distinctifs, avec des boutiques de toutes sortes. C'est une reconstitution parfaite d'un quartier du Village de Nasha.\nSelon la légende, le Village de Nasha se distingue des autres cités par l'absence de véritable administrateur et de structure de planification claire. Cela a conduit à l'apparition d'innombrables passages étroits et d'interstices à peine remarqués entre les bâtiments du village. Pour la plupart des résidents, ces passages ne sont que des conduits pour le bruit, mais il s'agit d'un moyen de propager des secrets et de raccourcis afin faciliter les déplacements pour ceux qui collectent des renseignements.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prière paisible sous la lune",
+    "Description": "Un décor en plein air inspiré de l'Enclave de givrelune, où divers objets sont disposés selon les coutumes des Descendants de givrelune, et où la végétation plantée est pour complémenter chaque élément. En pénétrant dans cet espace, vous ressentirez immédiatement cette impression de tranquillité et d'harmonie qui définit si bien les Descendants de givrelune. On dirait que de doux hymnes mélodieux résonnent doucement, emportant au loin tous les tourments et les souffrances dans la brise, ne laissant derrière eux qu'un état d'esprit serein et paisible.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lumière solitaire dans la longue nuit",
+    "Description": "Une colonie dotée de maisons robustes, dont l'agencement et l'architecture s'inspirent des forteresses extérieures des Gardiens de lumière. Cette architecture lui permet de résister au vent et à la pluie, et d'offrir une formidable défense, même face à la Chasse sauvage. Comme le dit le serment des Gardiens de lumière : « Nous sommes les Gardiens de lumière qui se tiennent dans les plaines enneigées sans fin et portent des lanternes allumées par un espoir éternel. »\nSur les vastes plaines à l'extérieur de Piramida, des forteresses comme celle-ci se dressent fièrement et brillent de mille feux, portant avec elles la lumière de l'espoir.",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ateliers prometteurs",
+    "Description": "Une petite colonie inspirée de la Knieperterie Cling-clang, avec de confortables maisons de fer hémisphériques et des bâtiments en forme de navires de fer. Ces structures sont plus que suffisantes pour répondre aux besoins fondamentaux des propriétaires d'ateliers.\nTous les grands ateliers trouvent leur origine dans une simple structure. Avec ces bâtiments comme fondation, et une planification et des matériaux adéquats, transformer le royaume intérieur en un atelier géant devient une possibilité bien réelle...",
+    "TypeDescription": "Plan de set de décorations",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sérénité du croissant de lune",
+    "Description": "Une cour inspirée du Hall d'argenlune. Son style dégage tranquillité et sérénité, comme un royaume onirique juste hors de portée.\nLe clair de lune guide toujours délicatement tous les êtres vivants. Peut-être que les fidèles de la Déesse de la lune se sont-ils déjà demandé : quel genre de paysage ou de décor pourrait guider la nouvelle lune vers son propre sommeil paisible ?\nLe seul moyen d'en être sûr est de visiter le Hall d'argenlune et de contempler chaque fleur et chaque brin d'herbe qui s'y trouve...",
     "TypeDescription": "Plan de set de décorations",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -72072,6 +72450,413 @@
     "ItemType": 2,
     "Name": "Lanterne céleste éclatante « À la prochaine, mes amis »",
     "Description": "Étapes de fabrication de la lanterne céleste éclatante « À la prochaine, mes amis ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Biscuit rond »",
+    "Description": "Étapes de fabrication du « Biscuit rond ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Maison de rangement Cling-clang",
+    "Description": "Étapes de fabrication de la maison de rangement Cling-clang.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Table ronde de givrelune « Doux ciel azuré »",
+    "Description": "Étapes de fabrication de la table ronde de givrelune « Doux ciel azuré ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Notes de quelqu'un",
+    "Description": "Étapes de fabrication des notes de quelqu'un.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Petite table de givrelune « Arôme de fruits frais »",
+    "Description": "Étapes de fabrication de la petite table de givrelune « Arôme de fruits frais ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Branches contre le ciel bleu",
+    "Description": "Étapes de fabrication des branches contre le ciel bleu.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chaise à dossier « Lune reposante » en chêne blanc",
+    "Description": "Étapes de fabrication de la chaise à dossier « Lune reposante » en chêne blanc.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lueur de corne givrée",
+    "Description": "Étapes de fabrication de la lueur de corne givrée.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Champignon tortueux",
+    "Description": "Étapes de fabrication du champignon tortueux.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "« Meilleur des meilleurs petits lits »",
+    "Description": "Étapes de fabrication du « Meilleur des meilleurs petits lits ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lit de givrelune « Fraîcheur givrée »",
+    "Description": "Étapes de fabrication du lit de givrelune « Fraîcheur givrée ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Table basse d'intérieur « Importance unique »",
+    "Description": "Étapes de fabrication de la table basse d'intérieur « Importance unique ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bibliothèque d'intérieur « Repos studieux »",
+    "Description": "Étapes de fabrication de la bibliothèque d'intérieur « Repos studieux ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Comptoir d'intérieur « Bienvenue aux visiteurs »",
+    "Description": "Étapes de fabrication du comptoir d'intérieur « Bienvenue aux visiteurs ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Armoire imposante",
+    "Description": "Étapes de fabrication de l'armoire imposante.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Armoire d'hôtel « Espace supplémentaire »",
+    "Description": "Étapes de fabrication de l'armoire d'hôtel « Espace supplémentaire ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "#Tapis de givrelune « Teinte limpide{NON_BREAK_SPACE}»",
+    "Description": "Étapes de fabrication du tapis de givrelune « Teinte limpide ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Petit tapis duveteux",
+    "Description": "Étapes de fabrication du petit tapis duveteux.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Dur comme le fer »",
+    "Description": "Étapes de fabrication de « Dur comme le fer ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bannière des Gardiens de lumière",
+    "Description": "Étapes de fabrication de la bannière des Gardiens de lumière.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lampe murale de taverne « Lumière flottante de couloir »",
+    "Description": "Étapes de fabrication de la lampe murale de taverne « Lumière flottante de couloir ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bâtiment auxiliaire de base « Serre polyvalente »",
+    "Description": "Étapes de fabrication du bâtiment auxiliaire de base « Serre polyvalente ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bâtiment auxiliaire de base « Espace secret »",
+    "Description": "#Étapes de fabrication du bâtiment auxiliaire de base « Espace secret{NON_BREAK_SPACE}».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bâtiment auxiliaire de base « Tour d'eau »",
+    "Description": "Étapes de fabrication du bâtiment auxiliaire de base « Tour d'eau ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base de moulin « Puissance auxiliaire »",
+    "Description": "Étapes de fabrication de lq base de moulin « Puissance auxiliaire ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Portail de base « Logique de transport »",
+    "Description": "Étapes de fabrication du portail de base « Logique de transport ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Plateforme de base « Fondation solide »",
+    "Description": "Étapes de fabrication de la plateforme de base « Fondation solide ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mur de base « Ligne défensive »",
+    "Description": "Étapes de fabrication du mur de base « Ligne défensive ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pilier de base « Balise universelle »",
+    "Description": "Étapes de fabrication du pilier de base « Balise universelle ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Étreinte bienveillante",
+    "Description": "Étapes de fabrication de l'étreinte bienveillante.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rambarde de ville « Banc pratique »",
+    "Description": "#Étapes de fabrication de la rambarde de ville « Banc pratique{NON_BREAK_SPACE}».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rambarde de ville « Vagues bleu azur »",
+    "Description": "Étapes de fabrication de la rambarde de ville « Vagues bleu azur ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Statue de fleur bombardier",
+    "Description": "Étapes de fabrication de la statue de fleur bombardier.\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Secret de refroidissement de la Base »",
+    "Description": "Étapes de fabrication du « Secret de refroidissement de la Base ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Plafond robuste de la Base »",
+    "Description": "Étapes de fabrication du « Plafond robuste de la Base ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Plancher en alliage de la Base »",
+    "Description": "Étapes de fabrication du « Plancher en alliage de la Base ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
+    "TypeDescription": "Plan de décoration",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "« Tranquillité douce de la Base »",
+    "Description": "Étapes de fabrication de la « Tranquillité douce de la Base ».\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations.",
     "TypeDescription": "Plan de décoration",
     "Icon": "UI_ItemIcon_Home_Common"
   }

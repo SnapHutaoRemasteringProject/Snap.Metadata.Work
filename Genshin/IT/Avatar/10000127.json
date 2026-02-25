@@ -866,7 +866,7 @@
     "VisionBefore": "Geo",
     "VisionOverrideUnlocked": "Visione",
     "ConstellationBefore": "Oriolus",
-    "CvChinese": "Mace",
+    "CvChinese": "昱头",
     "CvJapanese": "梅田修一朗",
     "CvEnglish": "Jonathon Ha",
     "CvKorean": "Hwang Dong-hyun",
@@ -882,6 +882,10 @@
     },
     "Fetters": [
       {
+        "Title": "Presentazione",
+        "Context": "#Ehilà! Sono Illuga, capo della squadra investigativa dei Guardaluce. Ti sei {F#persa}{M#perso}, eh? Ahah, non preoccuparti... Capita spesso. Questi sentieri non sono esattamente adatti a chi viaggia, neanche nelle giornate migliori. Seguimi, ti illuminerò la via."
+      },
+      {
         "Title": "Dialogo: In guardia",
         "Context": "Dicono che più le cose appaiano calme in superficie, più è probabile che si nasconda un pericolo nell'ombra... Non so se sia sempre vero, ma non fa mai male stare all'erta."
       },
@@ -892,10 +896,6 @@
       {
         "Title": "Dialogo: Avversità",
         "Context": "Fare solo ciò in cui si è bravi non basta, sai. A volte, l'unico modo per diventare più forti è uscire dal proprio guscio."
-      },
-      {
-        "Title": "Presentazione",
-        "Context": "#Ehilà! Sono Illuga, capo della squadra investigativa dei Guardaluce. Ti sei {F#persa}{M#perso}, eh? Ahah, non preoccuparti... Capita spesso. Questi sentieri non sono esattamente adatti a chi viaggia, neanche nelle giornate migliori. Seguimi, ti illuminerò la via."
       },
       {
         "Title": "Dopo la pioggia",

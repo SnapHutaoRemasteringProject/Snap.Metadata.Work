@@ -8772,7 +8772,7 @@
     "DescribeId": 41001,
     "MonsterName": "Gastrobot_01",
     "Name": "강펀치 오리",
-    "Title": "공방 주인의 야심작",
+    "Title": "공방 야심작의 허상",
     "Description": "폐기된 금속과 기관 베어링을 조립해 제작한 기묘한 형태의 달의 힘 장치, 제작자의 취향 때문인지 부분적으로 「오리」의 외형적 특징이 반영되어 있다.\n우인단의 최첨단 전쟁 병기와 비교해도 출력과 내구성 면에서 뒤지지 않지만, 결국은 적에게 강펀치를 날리는 장난감 오리일 뿐이다. 제작자의 취향은 피조물의 형태를 결정짓고, 진흙은 제작자가 선택한 틀에 대해 의문을 제기할 권리가 없다. 지금의 달 아래 세계는 사람들의 상식에 맞게 구성되어 있지만, 이 세계의 원래 주민들은 달 아래 세계 역시 강펀치 오리처럼 제작자의 기묘한 취향이 반영됐다고 느낄지도 모른다.\n물론, 파란 머리를 한 메이드는 이런 말을 크룸카케 공방 주인에게 절대 하지 않을 것이다. 세상의 모습에 비하면, 오리가 더 귀여우니까",
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 2,
@@ -12064,7 +12064,7 @@
   {
     "Id": 0,
     "DescribeId": 55152,
-    "Name": "노련한 어룡 무사·파도타기",
+    "Name": "노련한 파도잡이",
     "Title": "???",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
     "Type": 0,
@@ -16679,7 +16679,7 @@
     "Id": 0,
     "DescribeId": 63005,
     "Name": "노련한 달빛 서리 늑대",
-    "Title": "달빛 짐승",
+    "Title": "노련한 서리 늑대",
     "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
     "Type": 0,
     "Arkhe": 0
@@ -16728,6 +16728,66 @@
       "WindSubHurt": 0.1,
       "IceSubHurt": 0.1,
       "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26302101,
+    "DescribeId": 63021,
+    "MonsterName": "Monster_Magbeast_Gecko_01",
+    "Name": "달빛 바위 도마뱀붙이",
+    "Title": "달빛을 갈망하는 도마뱀",
+    "Description": "달빛이 그리운 고대 도마뱀붙이. 깊은 바위층에 서식한다.\n오랜 세월 축적된 달의 힘으로 인해 육체가 결정화되어, 마치 기계 부품처럼 정밀한 마디를 형성했으며, 바위 가시로 변형해 적을 공격할 수도 있다.\n어떤 학자는 이들의 조상이 천 년에 걸친 격변을 피해 지하에 살면서 달빛을 잊게 되었지만, 보름달마다 본능적으로 달빛에 침식된 흙을 먹으며 혈통을 이어 왔다고 주장한다",
+    "Icon": "UI_MonsterIcon_Magbeast_Gecko",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "多层护盾G教学关联词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113085,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 285.264,
+      "AttackBase": 87.92,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.7,
       "PhysicalSubHurt": 0.1
     },
     "GrowCurves": [
@@ -16820,6 +16880,15 @@
     "GrowCurves": []
   },
   {
+    "Id": 0,
+    "DescribeId": 90102,
+    "Name": "열공의 마룡",
+    "Title": "몬드를 덮친 폭풍",
+    "Icon": "UI_MonsterIcon_Dvalin",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 29020101,
     "DescribeId": 90201,
     "MonsterName": "Monster_Wolf_LupiBoreas",
@@ -16859,6 +16928,27 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90202,
+    "Name": "북풍의 왕랑, 울프의 영주",
+    "Title": "몬드를 덮친 폭풍",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0,
+    "Affixes": [
+      "北风狼试炼-循环标记"
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90203,
+    "Name": "???",
+    "Title": "몬드를 덮친 폭풍",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 29030101,

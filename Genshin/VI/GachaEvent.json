@@ -5101,7 +5101,7 @@
   },
   {
     "Name": "Sung Túc Hài Hòa",
-    "Version": "6.2",
+    "Version": "6.3",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/07475c885b1e1522be79911ce2f2e5df_3820793059946173553_transformed.jpg",
     "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/07475c885b1e1522be79911ce2f2e5df_3820793059946173553_transformed.jpg",
@@ -5119,7 +5119,7 @@
   },
   {
     "Name": "Pháp Lệnh Biển Sâu",
-    "Version": "6.2",
+    "Version": "6.3",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/817d3210558d93d6d669b0004cfe4823_623579223489291961_transformed.jpg",
     "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/817d3210558d93d6d669b0004cfe4823_623579223489291961_transformed.jpg",
@@ -5133,6 +5133,149 @@
       10000127,
       10000121,
       10000055
+    ]
+  },
+  {
+    "Name": "Thân Hình Thần Đúc",
+    "Version": "6.3",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/3d8a66cac7faa77730615b2f97e89eb8_7646563147859792491_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/3d8a66cac7faa77730615b2f97e89eb8_7646563147859792491_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11519,
+      14514
+    ],
+    "UpPurpleList": [
+      11418,
+      12401,
+      13401,
+      14409,
+      15401
+    ]
+  },
+  {
+    "Name": "Gió Bắc Khải Hoàn",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/06/dc7f8f3d79941185fb324181c03b8641_7762446862041422557_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/06/dc7f8f3d79941185fb324181c03b8641_7762446862041422557_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000128
+    ],
+    "UpPurpleList": [
+      10000032,
+      10000023,
+      10000043
+    ]
+  },
+  {
+    "Name": "Ánh Đèn Đêm Đen",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/05/d383c1e92e80ba6a3ff91d4ee43344ae_8069788300518083890_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/05/d383c1e92e80ba6a3ff91d4ee43344ae_8069788300518083890_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000120
+    ],
+    "UpPurpleList": [
+      10000032,
+      10000023,
+      10000043
+    ]
+  },
+  {
+    "Name": "Thân Hình Thần Đúc",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/05/c44316411882e1718569636c2d0f849d_7484327670301471334_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/05/c44316411882e1718569636c2d0f849d_7484327670301471334_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12515,
+      13516
+    ],
+    "UpPurpleList": [
+      13434,
+      11401,
+      12401,
+      14403,
+      15403
+    ]
+  },
+  {
+    "Name": "Áng Thơ Gió Sớm",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/12/97be3c41ee6ebfba7cb13e22e06a1d2f_3218547972769959510_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/12/97be3c41ee6ebfba7cb13e22e06a1d2f_3218547972769959510_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 500,
+    "UpOrangeList": [
+      10000051,
+      10000041,
+      10000038,
+      10000029,
+      10000016,
+      10000003,
+      11502,
+      11501,
+      12503,
+      12502,
+      12501,
+      13502,
+      14502,
+      14501,
+      15503,
+      15501
+    ],
+    "UpPurpleList": [
+      10000115,
+      10000080,
+      10000045,
+      10000043,
+      10000039,
+      10000034,
+      10000032,
+      10000031,
+      10000021,
+      10000020,
+      10000015,
+      10000014,
+      10000006,
+      11410,
+      11405,
+      11403,
+      11402,
+      11401,
+      12405,
+      12403,
+      12402,
+      12401,
+      13407,
+      13401,
+      14410,
+      14409,
+      14403,
+      14402,
+      14401,
+      15412,
+      15410,
+      15405,
+      15403,
+      15402,
+      15401
     ]
   }
 ]

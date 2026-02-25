@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "ファルカ",
+    "Description": "塵歌壺入居キャラクター",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10657,7 +10678,7 @@
     ],
     "Id": 379008,
     "Name": "バトルトゲウオ",
-    "Description": "珍しい観賞魚、「霊沼雲池」と「清波游影」で飼うことができる。\nトゲに満ちたヒレを持つ猛魚。全速力で泳ぐときに、槍のような鼻は水流を切り裂くことができる。そのため「水切針」、「飛箭」などの別名がある。\nトゲウオの中では最も高レベルなプライドを持つ。特に求愛中では、風や水のわずかな揺れでさえ彼らを怒らせる。ある愛好家は、バトルトゲウオが揺らぐ水草に向かって突進しているのを見たことがある。どうやら、トゲウオの王にとって、水草の放蕩な踊りは挑発行為であるらしい。\n「水の中で遭っても、目を合わせてはいけない。」——『釣りガイド·バトルトゲウオ編』",
+    "Description": "珍しい観賞魚、「霊沼雲池」と「清波游影」で飼うことができる。\nトゲに満ちたヒレを持つ猛魚。全速力で泳ぐときに、槍のような鼻は水流を切り裂くことができる。そのため「水切針」、「飛箭」などの別名がある。\nトゲウオの中では最も高レベルなプライドを持つ。特に求愛中では、風や水のわずかな揺れでさえ彼らを怒らせる。ある愛好家は、バトルトゲウオが揺らぐ水草に向かって突進しているのを見たことがある。どうやら、トゲウオの王にとって、水草の放蕩な踊りは挑発行為であるらしい。\n「水の中で遭っても、目を合わせてはいけない。」——『釣りガイド・バトルトゲウオ編』",
     "Icon": "UI_Homeworld_Fishable_Maritime_Aspidorhynchus_02",
     "Rank": 200100
   },
@@ -34763,7 +34784,7 @@
     ],
     "Id": 373397,
     "Name": "演劇のポスター-「密林の中の古城」",
-    "Description": "「ヴェルーリヤ·ミラージュ」のアトラクション「ダイアの三日空想」の宣伝ポスター。演劇「呪いの瞳に固まりて」の大まかなイメージが描かれている。イラストのメインは月夜に照らされた不気味な古城。古城を覆う巨木を見るに、最初の想定だと劇中に登場する「幽霊」は森の樹妖と関係があったのかもしれない。ただ、フクロウも森の樹上に棲んでいるため、作品としては最終的に問題ないだろう…",
+    "Description": "「ヴェルーリヤ·ミラージュ」のアトラクション「ダイアの三日空想」の宣伝ポスター。演劇「呪いの瞳に固まりて」の大まかなイメージが描かれている。イラストのメインは月夜に照らされた不気味な古城。古城を覆う巨木を見るに、最初の想定だと劇中に登場する「幽霊」は森の木の精と関係があったのかもしれない。ただ、フクロウも森の樹上に棲んでいるため、作品としては最終的に問題ないだろう…",
     "Icon": "UI_Homeworld_Exterior_Penumbra_Decoration_Prop_Poster_02_Vo",
     "Rank": 90400
   },
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "月を守る仙人をモチーフに作られた特大の霄灯。純白の馬が山の隙間から飛び越える姿を象っており、綿雲が寄り添い、色鮮やかな夕焼け雲が連なっている。今では、皆が霄灯に願いを書き記すようになった。そうすれば、あの白馬の仙人が玉で造られた立派な車に乗って月から降り立ち、人々の願いを叶えてくれるかもしれない。",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361345,
+    "Name": "「まんまるビスケット」",
+    "Description": "「カチャカチャ・クルムカケ工房」でよく見かける背の低い丸いテーブル。本体は鉄板で作られており、丈夫な構造をしている。その形は、こんがりと焼けた丸いビスケットのようだ。\nこのテーブルに綺麗なテーブルクロスを敷くかどうかで悩む人は多い——「でもテーブルクロスを敷くと、落ちたクルムカケの食べこぼしを掃除するのが面倒なんだよな！」。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361346,
+    "Name": "「カチャカチャみんなのおうち」",
+    "Description": "「カチャカチャ・クルムカケ工房」でよく見られる収納。明確に区分けされており、小さな家が立ち並んでいるようにも見える。\n「ここはハンマーのおうち、あそこは釘のおうち…」この収納を使う主は、そう語る。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361347,
+    "Name": "霜月の円卓-「柔らかな蒼穹」",
+    "Description": "「霜月の里」でよく見かける円卓。靭性と防水性に優れたサマーオーク材で作られており、汎用性が高い。\n霜月の子の職人は夜空に懸かる明月から着想を得て、月輪のようなこの円卓に柔らかなスカイブルーのテーブルクロスを組み合わせ、夜空のような静けさと温もりを与えた。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363414,
+    "Name": "「誰かの手記」",
+    "Description": "「霜月の里」にある、気ままに積み重ねられた書籍の山。その多くは丁寧に装丁されたものではなく、無名の制作者による手記である。\n往々にして、この手の書籍には波乱万丈で素晴らしい物語が隠されているものだ。乱雑な筆跡や混乱した語順、あるいはページに残る痕跡が、執筆時の制作者のありのままの状態を物語っているようだ。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363415,
+    "Name": "霜月の側卓-「弾ける果実の香り」",
+    "Description": "「霜月の里」の室内でよく見られる小さなテーブル。その上にはいつも最も新鮮な旬の果物が置かれている。\nテーブルに置かれた果物は食用としてだけでなく、芳香としての役割も果たしている——ほのかな果実の香りが室内に漂い、強すぎることなく、温かく心地よい雰囲気を醸し出している。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363511,
+    "Name": "「紺碧の枝」",
+    "Description": "決して枯れない機械の花。ライトキーパーたちが好む室内用の盆栽。\n「世話をする暇がない…日光も当たらない…肥沃な土なんて一すくいだって手に入らない！」\nだからこそ、手先の器用なライトキーパーが廃棄された材料を使って、このかなり本格的な盆栽を作り上げた時、誰もが歓喜した——空のようなあざやかな紺碧は、長く深夜に身を置いてきた人々が切望していた色でもあったのだ。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 362134,
+    "Name": "サマーオークの椅子「枕月」",
+    "Description": "サマーオーク材で作られた椅子で、「霜月の里」でよく見かける。\n背もたれには彫刻が施され、くり抜かれた部分はまるで満月のようだ。室内に置くと、座面に敷かれた柔らかな空色のクッションが、温かみのある自然な雰囲気を醸し出す。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363119,
+    "Name": "「微かな凛光」",
+    "Description": "「霜月の里」の室内でよく見られる木製ランプ。ツノシカからひらめきを得たその造形は、実に特徴的だ。\n手提げ用の取っ手はあるものの、自重があるため、定位置に置かれていることが多い。「霜月の里」では、多くの人がこれを常夜灯として使っている。その光は夜道を照らしつつも、友好的な動物たちを驚かせることはない。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 363120,
+    "Name": "「曲がりキノコ」",
+    "Description": "ライトキーパーの拠点で見られる、キノコのような形をしたランプ。\n市場に出回る「キノコ」をモチーフにした多くのランプとは異なり、このランプの発光部分は「カサ」ではなく、くねくねと曲がった「柄」の部分である。さらに独特なのはその光だ——半分は陽光のように温かく、半分は月光のように清らかで冷たい。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361413,
+    "Name": "「とっておきの小さなベッド」",
+    "Description": "「カチャカチャ・クルムカケ工房」で見かける小さなベッド。頑丈な金属フレームをベースに、可愛い模様のピンク色のシーツとふかふかの枕がしつらえてある。広々としたサイズと適度な高さのおかげで、どんな体勢でもぐっすりと眠りにつくことができ、極上の睡眠を味わえる。\n「今まで寝た中で、世界一最高のベッドだ！」ベッドの創造者は誇らしげに語った。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361414,
+    "Name": "霜月の石の寝台-「身に沁みる涼」",
+    "Description": "「霜月の里」でよく見られる石の寝台。表面には柔らかい敷物が敷かれているが、やはり少々硬く感じられる。\n暑い日には、この寝台に横たわると身に染みるような涼しさを味わえる。一方、極寒の冬には、分厚い布団を敷いてから横になるのがよいだろう。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361121,
+    "Name": "ローテーブル-「独自の価値」",
+    "Description": "ライトキーパーの拠点でよく使われるローテーブル。比較的ゆとりのある収納スペースを備えている。\n棚としての役割も持ち、そこには使い手の「趣味」が表れる——花を愛する者は鮮やかな花の鉢を並べ、本を愛する者は書籍を積み上げ、美食を愛する者は食べ物を詰め込む。だがライトキーパーにとって、ベッドから最も近い家具であるこのテーブルに最もよく置かれるのは、彼らが第二の命と見なし、常に持ち歩くランプである。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361122,
+    "Name": "本棚-「憩いの読書」",
+    "Description": "ライトキーパーの拠点でよく使われている本棚。比較的独特なデザインで、様々な寸法の書籍を簡単に収納できる。\nライトキーパーにとって、知識は貴重な財産だ。偶然得たわずかな知識が、いざという時に命を救うこともある。それゆえ、手が空いた時には多くのライトキーパーが本棚の前に集まって英知を養い、休息しながら次の戦いに備えている。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361123,
+    "Name": "カウンター-「正式な訪問」",
+    "Description": "ライトキーパーの拠点でよく見られるカウンター。全体が鉄板で作られており、頑丈でしっかりした造りをしている。カウンターの後ろには交代制の責任者が立ち、見知らぬ訪問者の対応にあたる。\n一見すると簡素で無骨な外観だが、それこそがライトキーパーの狙いだ。軽率に危険な場所へ足を踏み入れようとする「招かれざる客」を追い返すのに、これほど適したものはない。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361124,
+    "Name": "「タワーキャビネット」",
+    "Description": "「カチャカチャ・クルムカケ工房」で見られる棚。下部が広く上部が狭い構造で、まるで多くの階層を持つ塔のようだ。この一風変わった形状は、優れた収納力を提供するだけでなく、重心を安定させ、外部からの大きな衝撃を受けても倒れにくくしている。「それぞれの階には違う住人がいるの。大きいのは下、小さいのは上。塔みたいでしょ！」——そんな考えのもと、制作者はこのユニークな外観の棚を作り上げたのだ。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 361125,
+    "Name": "客室のクローゼット-「大容量」",
+    "Description": "「フラッグシップ」でよく見られるクローゼット。大容量であり、美しく上品な配色が特徴。\n元々このクローゼットの容量は現在の二分の一ほどだったが、「フラッグシップ」には長期滞在の顧客も少なくない。あらゆる天候に対応できる衣服を常備する必要が生じれば、容量への需要も高まるというものだ。顧客たちが連名で拡張を要望した結果、今では一般的なクローゼットを上回る容量を持つに至った。今後、いつまた拡張が行われることになるのかは、誰にもわからない。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 362322,
+    "Name": "霜月の絨毯-「明澄一色」",
+    "Description": "「霜月の里」でよく見られるカーペット。青をメインに、目を引く鮮やかな橙色がアクセントになっている。対称的なデザインは、視覚的な美しさだけでなく、秩序と心の安らぎをもたらす。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 362323,
+    "Name": "「もふもふラグ」",
+    "Description": "「カチャカチャ・クルムカケ工房」で見られる円形カーペット。温かみのある色合いで、可愛らしく心温まる模様が描かれている。\nまた、カーペットには柔らかくきめ細かい織物が使用されており、もふもふな肌触り。まるで猫を撫でているよう…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 364227,
+    "Name": "「堅鉄の守り」",
+    "Description": "ライトキーパーの拠点でよく見られる壁掛けの装飾。交差した剣と盾で構成され、外敵と戦い家族を守るというライトキーパーたちの決心と不屈の精神を体現している。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 364228,
+    "Name": "「ライトキーパーの旗」",
+    "Description": "ライトキーパーの拠点でよく見られる旗。ライトキーパーの灯台のマークが描かれている。決して退くことなく、闇夜の中で灯台を守り続ける——そんなライトキーパーたちの意志がよく表れている。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 364229,
+    "Name": "酒場の壁掛けランプ-「回廊の光」",
+    "Description": "「フラッグシップ」でよく見られる壁掛けランプ。明るい光を放ち、廊下の照明によく使われている。吊り下げ用の紐は純白のロープで、遠くから眺めると、光が廊下に浮いているかのよう。それゆえ、ランプは揺れやすい。熟練のバーテンダーは、この光の揺れ具合から客席の異変を察知し、起こりうるトラブルを未然に防ぐことができる。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371022,
+    "Name": "拠点の別棟-「多目的温室」",
+    "Description": "「ガチャガチャ風車基地」の付属建築物。厚い壁と特殊な排煙パイプを備え、外部から熱を供給するボイラーとリンクしているため、室温を安定して維持できる。ゲストをもてなす臨時寝室、一定の温度を保つ浴室、あるいは持続的な熱供給が必要な特殊工房として、この種の建築物は理想的な選択肢だ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371023,
+    "Name": "拠点の別棟-「秘密の空間」",
+    "Description": "「ガチャガチャ風車基地」の付属建築物。大きな口を開けた巨大魚のような外観をしている。その分厚い屋根と壁が織りなす頼もしい障壁は、内部に優れた防音と遮光効果をもたらしている。このような設計は、光や音を遮断する特殊な実験室としても、貴重品を保管する金庫としても最適である。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371024,
+    "Name": "拠点の別棟-「そびえ立つ給水塔」",
+    "Description": "「ガチャガチャ風車基地」の付属建築物。高くそびえ立つ巨大な構造で、液体の貯蔵と分配機能を備えており、時には監視塔を兼ねることもある。その高さを利用し、外部動力を必要とせずに液体の静圧で送水することで、基地の給水需要を満たしている。暑い季節には水霧を噴霧し、基地に涼しく快適な環境をもたらすこともできる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371025,
+    "Name": "拠点の風車-「補助動力」",
+    "Description": "「ガチャガチャ風車基地」の景観用風車の内部には補助タービンが備え付けられており、どんな天候でも安定して回転するように設計されている。強風が吹き荒れる時も悠然と回り、庭に静寂と平和な空気をもたらす。一方で空気が淀み、耐え難い暑さの時には、その軽やかな回転が一筋の爽やかな風を届けてくれる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371026,
+    "Name": "拠点のゲート-「アクセス・ロジック」",
+    "Description": "「ガチャガチャ風車基地」に使用されているゲートは、特殊な円形の金属製のドアフレームを採用し、煌びやかで目を引く発光ランプの装飾が施されている。\n円形のドアフレームを採用する利点は、枠のどの位置からでも中心までの距離が等しいため、規格外の形状をしたパーツの搬入が容易なことだ。そして「ガチャガチャ風車基地」はその上に、ゲートが夜でも目立つように、照明の看板を追加した。人員や物資のスムーズな出入りを確保している。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371027,
+    "Name": "拠点の足場-「礎」",
+    "Description": "「ガチャガチャ風車基地」の金属製の足場は、ナド・クライの一部建築土台に見られるクラシックな構造設計を踏襲しており、その飾り気のない外観の下には、驚くべき耐荷重性能が秘められている。これらの足場は普通の環境であらゆる重量を軽々と支えるだけでなく、柔らかい地面でも大型工事マシナリーの稼働をしっかりと支えることができる。「ガチャガチャ風車基地」の繁栄は、まさにこれらの堅固な土台の上に成り立っていると言っても過言ではない。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371028,
+    "Name": "拠点の壁-「防衛線」",
+    "Description": "「ガチャガチャ風車基地」の金属製の低い壁。堅固な金属板で造られており、そのデザインはナド・クライとワイルドハントの対戦時の経験に着想を得ている。この低い壁は防護性能、経済性、設置の利便性を兼ね備え、射手に信頼性が高く十分な射撃用遮蔽物を提供する。\n現在「ガチャガチャ風車基地」において、この低い壁には新たな使命が与えられている。それは空間を仕切るツールとして、基地内のレイアウトを明確にしつつ、開放的で見通しの良い視覚効果を保つことである。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 371029,
+    "Name": "拠点の柱-「万能ビーコン」",
+    "Description": "「ガチャガチャ風車基地」の金属製の柱。頑丈でまっすぐにそびえ立っている。独立した景観として配置すれば、庭にパワー感とハイテク感を与えてくれる。同時に高い実用性も備えており、側面には旗を掲げるための昇降装置が設置され、柱の先端は様々な実用設備に対応しているため、「万能」ビーコンと呼ばれている。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 373940,
+    "Name": "「優しき抱擁」",
+    "Description": "ナド・クライのヒーシ島一帯でよく見られる銀白色の石像。抱擁に似た姿勢をしており、見る者に温もりを感じさせる。\n「迷いし子よ。北の果ての末裔の名において、光明の恩寵を祈り願う。願わくは、霜月の慈しみ、その恵みをもって、寒夜の荒ぶる烈風を鎮め、凍土にうずくまる雛鳥をやわらかに包み温め給え。」\n病を払い、すべての人を苦しみから遠ざけたいという願いを抱いていたからこそ、石像の職人はこの造形に安らぎに満ちた象徴的な意味を込めたのかもしれない。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 374129,
+    "Name": "町の柵-「便利な椅子」",
+    "Description": "町でよく見かける背の低い石造りの柵。平らで頑丈、手すりも比較的幅広いため、臨時の椅子として使うことさえできる。だが注意してほしい。手すりの上を決して歩かないこと。それはとても危険だ…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 374130,
+    "Name": "町の柵-「蒼き波濤」",
+    "Description": "町で見られる木製の低い柵。その造形は独特で、まるでうねる青い波のようだ。\nこの柵に通行を遮る機能はあまりないが、その独特な美しさから、エリアを区切る道具としてよく使われている。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「秘話回顧録」クリア後に獲得"
+    ],
+    "Id": 374822,
+    "Name": "「ゆらゆらプランターフィッシュ」",
+    "Description": "アイノが作った機械の魚。少し歪んだ字で手書きの説明書が添えられており、いくつかの注意事項が読み取れる。\n1.水やりは必要ないよ！\n2.クルムカケはあげちゃダメだよ！\n3.仲良くしてあげてね！",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "紀行・真珠の歌の購入"
+    ],
+    "Id": 374823,
+    "Name": "「ドッカン花火大神像」",
+    "Description": "モンド城のある有名な「火花騎士」をモチーフに作られた神像。爆発の火花の中で、万物を灰にする彼女の威風堂々たる姿を再現しているようだ。\nモンド城の最強戦力は誰か？ジンだと答える者もいれば、遠征中の大団長ファルカの名を挙げる者もいる。だが一部の人々にとっての最強戦力は、最強の「至宝」を持つ謎の赤い服の女の子だ…",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372521,
+    "Name": "「揺らめく月の色」",
+    "Description": "全体が白銀色の植物。「銀月の庭」でよく見かける。\n曲がり長い茎と月の形をした枝を持つこの植物は、夜風が吹くたびに静かに揺れ、まるで月の光が揺らめいているかのようだ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372522,
+    "Name": "「ピカピカユラユラ」",
+    "Description": "群生して淡い蛍光を放つ植物。生命力が強く、光がなくても、水分が不足していても、自由に伸び伸びと成長することができる。\n「ユラユラ揺れるのな～んだ？ピカピカ光るのな～んだ？」\n子供たちは簡単で分かりやすいなぞなぞを作り、いつか見知らぬ異邦人と出会った時に、思う存分クイズ遊びができる日を待っている。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372523,
+    "Name": "「ふわっふわ」",
+    "Description": "ふわふわの毛玉のような紫色の低木。美しく生命力も強い、良質な観賞用植物である。\n枝は剪定しやすく、器用な庭師の手によって様々な形に姿を変える——元気な子犬、可愛い子猫、あるいはぴょんぴょん跳ねる小鳥…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372524,
+    "Name": "「賞金稼ぎ」",
+    "Description": "ふわふわの毛玉のような緑色の低い低木。極めて強い環境適応能力を持ち、非常に過酷な環境下でも生存できる。\nなんでも、この植物の中には十万分の一という稀なケースが存在し、生息環境の長期的な影響によって枝葉の色を変えるのだという。それはまるで、大局の変化に合わせて自らの生き方を調整する「賞金稼ぎ」のようである。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372359,
+    "Name": "風を望む紫木",
+    "Description": "ナド・クライの野外でよく見られる木。細長く曲がった幹と比較的薄い樹冠を持つ。\nこの種の木は環境に適応する特性があり、風の流れに沿って成長する——つまり、強風に吹かれても、折れることはない。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372360,
+    "Name": "「蒼林の囁き」",
+    "Description": "「銀月の庭」付近でよく見られる木。普通の樹木とは異なる独特の外形をしている。\n「風が吹く時、銀の杯に注いだ祝福の清水で蒼林の穂を潤し、神を喜ばせる…」\n人々が囁く願掛けが聞き届けられたのかは定かではないが、蒼林の穂はクーヴァキを注がれ、溢れんばかりの生気を育んでいる…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372361,
+    "Name": "光浴びる金月樹",
+    "Description": "ナド・クライのヒーシ島一帯でよく見られる木。細長く曲がった幹と黄金色の樹冠を持つ。\n「霜月の子」は、その葉の色が月光の黄金色に近いことから、この木をとりわけ好んでいるという。そのため、彼らは浴光の台地へと続くルートの両側にこの木を植え、神への敬虔さを示している。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372362,
+    "Name": "折れぬ緑枝",
+    "Description": "ナド・クライの野外でよく見られる木。比較的太い幹と新緑の樹冠を持つ。\nこの木とその近縁種は異常なほど頑強な生命力を持つと言われている。根が発達しており、素早く大地に根を張って栄養を吸収できる。小枝を一本折って土に挿すだけでも、やがて発芽し根付くことから、その名が付けられた。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372236,
+    "Name": "「新月の潮」",
+    "Description": "「銀月の庭」内でよく見られる山石。波のような独特な形状をしている。\n「恒月の運行が潮の満ち引きを導く。」引力によって彫り出されたこれらの波のような山石には、「月の少女」のどのような想いが刻まれているのだろうか…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372237,
+    "Name": "「お宝ガーディアン」",
+    "Description": "ナド・クライの野外でよく見られる山石。重く堅固で、武器を手にした屈強な男でさえ動かすことは難しい。そのため家屋の建設やルートの敷設においては、厄介な障害物と見なされることが多い。だが穴掘りが得意な小動物にとっては、大型動物ですら動かせないこの山石こそが、最高の「お宝ガーディアン」なのだ。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品を購入"
+    ],
+    "Id": 372238,
+    "Name": "「大地のノロツノ」",
+    "Description": "ナド・クライの野外でよく見られる山石。堅固かつ滑らかな外見をしている。サイズが小さく、生い茂る草木の中に隠れて見つけにくいため、経験豊富な冒険者は新人にこう注意を促す——「足元に気をつけろ！こいつにつまずくのは、ノロツノライノにぶつかられるより痛いぞ。」",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363387,
+    "Name": "基地のゲート-「頼れるイタチ」",
+    "Description": "人目を引く華麗な金属製の基地ゲート。頼もしい構造強度を持ち、魔物たちの度重なる衝撃にも耐えることができる。\n「青霆」によると、このゲートの威風堂々たる姿は、天才発明家が彼女のイタチの仲間「あかたましっぽ」を参考に設計したものだそうだ。立てられた二本の親指と自信に満ちた表情は、「安心して、全部私に任せて！」と約束しているかのよう。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363388,
+    "Name": "「狼と鉄」",
+    "Description": "豪放磊落な特製ドリンクのサンプル。これは「栄誉騎士の特製バー」運営期間中、「棘の鏡湖」をベースに、ファルカのために特別に開発された傑作だ。\n数多の美酒を味わってきた大団長は、手加減なしの一戦を挑んできた。天才的な発想を思う存分発揮することを期待されているようだ。ならば、こちらも一風変わった「攻勢」を仕掛けよう——\n口に入れた瞬間に広がるミントの清涼感とハーブの香りは、最初の襲撃だ。そして、あえて残した層の重なりにより、次は強烈な炎水で決定的な一撃を与える。サワークリームには殿を務めてもらうことで、一分の隙も見せずに部隊をまとめあげた…\n大団長とモンドに敬意を表して、これを「狼と鉄」と名付けた。いくつもの層に分かれた特別な味わいに、彼は大いに満足したようで、豪快に飲み干した…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363389,
+    "Name": "「ドドコ晴れ晴れコーラス」",
+    "Description": "甘酸っぱくて美味しい、情熱溢れる特製ドリンクのサンプル。これは「栄誉騎士の特製バー」運営期間中、「いいお天気」をベースに、クレーのために特別に開発された傑作だ。\n元々の「いいお天気」は紫色で、陽気さが足りなかった。そこで、陽光とふわふわの雲で幸せな気分をプラス！\n甘さは不可欠だが、健康が一番だ。なので、ジン団長も認める果汁を選び、糖分はバブルオレンジ由来のものを使用した！\n何より重要なドドコキャンディは、美味しそうな魔法をかけてくれるから、絶対に雲の真ん中に置かないと！\nクレーが「いいお天気に、いい気分。ドドコが歌えば、クレーも歌うよ！」と言ったので、このドリンクは「ドドコ晴れ晴れコーラス」と名付けられた。",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363390,
+    "Name": "「波花の剣舞曲」",
+    "Description": "氷のように澄み切った爽やかさとアルコール度数を併せ持つ特製ドリンクのサンプル。これは「栄誉騎士の特製バー」運営期間中、「星月のきらめき」をベースに、エウルアのために特別に開発された傑作だ。\n「星月のきらめき」をベースに、エウルアのために特別に作った新作。\nエウルアの剣術は両手剣の旋舞のようだ。触れると同時に雪崩のような衝撃をもたらすが…幕引きは実にあっさりとしているのである。彼女自身の飲み物の好みも同様に、強い刺激を重視しているようだ。\nそこで、氷のように余計な味を含まない炎水、記念としての意味深いロマリタイムフラワーの果汁、そしてエネルギーを補給し疲れを癒やすココア、これら全てをグラスの中の舞踏会に詰め込んだ。\n波花騎士の剣術のために作った特製ドリンク——その名も「波花の剣舞曲」。エウルアは三杯も飲み干して、彼女なりの承認の気持ちを示してくれた…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363391,
+    "Name": "「夢薔薇」",
+    "Description": "気怠げな雰囲気が漂う特製ドリンクのサンプル。これは「栄誉騎士の特製バー」運営期間中、「雪の調べと朝の輝き」をベースに、リサのために特別に開発された傑作だ。\n忙しい一日を終えた図書館司書に、元気を出してもらいたいけど、眠れなくなったら困るはず。眠気を覚ますものは抜いて、カラメルソースの甘味と軽やかな酸味の間に、絶妙なバランス点を見つけ出した…\n目標は「安らかで深い眠り」。「夢薔薇」という名前を提案したら、リサから「満点」をもらった。",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363392,
+    "Name": "「のんびり雷光」",
+    "Description": "のんびりとしつつも厳格さを失わない特製ドリンクのサンプル。これは「栄誉騎士の特製バー」運営期間中、「フレイム・キャラメル・ポエム」をベースに、クロリンデのために特別に開発された傑作だ。\n「フレイム・キャラメル・ポエム」をベースに、クロリンデのために特別に作った新作。\n雷霆の如き決闘代理人は「テーブルトークシアター」の印象を辿りながらモンドを回った。彼女は金属の気配を感知する力が驚くほど鋭敏で、塩気のあるフレーバーを好むらしい。一方、彼女が日頃好む飲み物は、ほのかな酸味があり、後味がさっぱりとしたものが多いようだ。これらの要求をバランスよく満たすには慎重な調整が必要だが、「エンジェルズシェア」と「フラッグシップ」で研鑽したこの腕をもってすれば、配合の比率を正確にコントロールできるはずだ。\nクロリンデに気楽なモンドの旅を楽しんでもらうべく、この特製ドリンクを「のんびり雷光」と名付けた。クロリンデにとっても、モンドでのいい思い出となったことだろう。",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "期間限定イベントで獲得"
+    ],
+    "Id": 363393,
+    "Name": "「風雲の残り香」",
+    "Description": "優雅で静謐、格別な香りを持つ特製ドリンクのサンプル。これは「栄誉騎士の特製バー」運営期間中、「七時のルミドゥース」をベースに、エミリエのために特別に開発された傑作だ。\nフォンテーヌの調香師曰く、過度な甘さは人をまどろませてしまうそうだ。そんな彼女は節度あるほろ酔いを好むという。確かに、バーテンダーたるもの、客をカウンターの前で倒れさせてはならない…\n風が穏やかで空が澄み渡る日には、人々の感覚はいっそう鋭敏になり、「渾然一体」となったドリンクの風味を何倍にも引き立てる。\n調香の考え方に倣って開発したのが、この淡く優雅な傑作だ。エミリエは香水の名付け方に基づいて、これに「風雲の残り香」という優雅な名を与えた…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 360107,
+    "Name": "「拠点の涼しさの秘訣」",
+    "Description": "「ガチャガチャ風車基地」の標準的な内壁。ナド・クライで常用されるリサイクル金属材料で造られており、冷たく硬質な色合いと優れた熱伝導性を持つ。この壁のおかげで、灼熱の太陽の下でも室内は快適かつ涼しく保たれると言われている。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 360307,
+    "Name": "「拠点の頑丈な天井」",
+    "Description": "「ガチャガチャ風車基地」の標準的な天井。均質な金属板材を丁寧に切断して作られており、設置が便利で掃除もしやすく、優れた機能性と安全性を兼ね備えている。クーヴァキ機械の外殻と同じ金属材料を使用していると言われ、高い強度を確保しつつ軽量化を実現し、安全上のリスクを徹底的に排除した。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 360207,
+    "Name": "「拠点の合金床」",
+    "Description": "「ガチャガチャ風車基地」の標準的なタイル。形状の異なる金属板を組み合わせることで、奥行きのある美しい見た目に仕上げている。その不規則なデザインは、室内に明るく活発な雰囲気を与え、独特なスタイルを際立たせる。革新的なデザインにより設置やメンテナンスの難易度とコストは増加したが、リサイクルされた金属を使用することで、その欠点が補われているそうだ。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百貨で調度品設計図を購入して習得"
+    ],
+    "Id": 360507,
+    "Name": "「拠点の静かな光」",
+    "Description": "「ガチャガチャ風車基地」の標準的な吊りランプ。金属製の吊り具と複数のランプを組み合わせたもので、全体的に無骨でシンプルなスタイルとなっている。夜の帳が下りて光が交わると、柔らかな拡散光が織りなされ、まるで居住環境を静寂と温もりのある天地へと変え、すべての疲れと悩みを持ち去ってくれるかのようだ。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "「拠点の宝庫の扉」",
+    "Description": "「ガチャガチャ風車基地」の標準的な扉。多層の金属材料を溶接して作られており、宝物庫の扉を参考に設計されたため、美しさと実用的な破壊防止機能を兼ね備えている。ドリルやこじ開け、打撃などのツールによる破壊を効果的に防ぐことができ、本来はあらゆる招かれざる客を防ぐために設計されたものである。もちろん、安全な「壺洞天」において、これほどの防御性能は些か過剰かもしれないが、実際のところ、動物に爪とぎ板として使われて傷つくのを防ぐためなのかもしれない。",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "「拠点のエコー」",
+    "Description": "「ガチャガチャ風車基地」の標準的な金属製かね折れ階段。高強度、高耐久、軽量さを誇る。この鋼鉄で出来た階段を踏むと、澄んだ音が響き渡り、反響構造を持つ家屋と組み合わさることで、激しいドラムのビートを奏でるかもしれない。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "「ガチャガチャ風車基地」",
+    "Description": "「朧な影の球体装置」が塵歌壺の中でナド・クライの風景を再現するために築いた大型総合基地。これまでも使ってきた金属フレーム構造を採用し、充実した輸送システムを備えている。その型にはまらないワイルドな雰囲気は、まさしく「カチャカチャ・クルムカケ工房」のデザイン理念を受け継いだものだ。しかし、「カチャカチャ・クルムカケ工房」とは違い、「ガチャガチャ風車基地」は生産機能がなく、ランプの使用数も減らしている。それでも、屋根の上で絶えず回転する風車は、工房の忙しさを思い起こさせ、胸の内に力強い思いを湧き上がらせてくれる。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

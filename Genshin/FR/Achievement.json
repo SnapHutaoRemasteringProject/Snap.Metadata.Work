@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "Ainsi les choses devaient être",
-    "Description": "Soyez témoin du retour de la lune du cauchemar.",
+    "Description": "Soyez témoin du retour de la fausse lune.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "Marche sur la lune",
+    "Description": "Détruisez l'ancre de pierre lunaire pour interrompre un Lunigecko radieux en train de préparer sa réverbération du vide.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

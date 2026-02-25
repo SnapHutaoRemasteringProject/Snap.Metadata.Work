@@ -5101,7 +5101,7 @@
   },
   {
     "Name": "Bereketin Ahengi Etkinlik Dileği",
-    "Version": "6.2",
+    "Version": "6.3",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/206768ad3bd42552048a7a03e4de856a_1242862317231737283_transformed.jpg",
     "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/206768ad3bd42552048a7a03e4de856a_1242862317231737283_transformed.jpg",
@@ -5119,7 +5119,7 @@
   },
   {
     "Name": "Derinliklerin Fermanı Etkinlik Dileği",
-    "Version": "6.2",
+    "Version": "6.3",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/f08040a7f1358a7a04ed7a6b335a03b9_1159590037931397959_transformed.jpg",
     "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/f08040a7f1358a7a04ed7a6b335a03b9_1159590037931397959_transformed.jpg",
@@ -5133,6 +5133,149 @@
       10000127,
       10000121,
       10000055
+    ]
+  },
+  {
+    "Name": "İlahi Çağrı Etkinlik Dileği",
+    "Version": "6.3",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/0d6dbb646d5e610042f50f78b7e924ad_2112401890873557036_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/0d6dbb646d5e610042f50f78b7e924ad_2112401890873557036_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11519,
+      14514
+    ],
+    "UpPurpleList": [
+      11418,
+      12401,
+      13401,
+      14409,
+      15401
+    ]
+  },
+  {
+    "Name": "Kuzey Rüzgarının Zafer Şarkısı",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/06/bac7c1c125f1cb962e49e65524c6aa06_157536924430558906_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/06/bac7c1c125f1cb962e49e65524c6aa06_157536924430558906_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000128
+    ],
+    "UpPurpleList": [
+      10000032,
+      10000023,
+      10000043
+    ]
+  },
+  {
+    "Name": "Yalnız Işığın Gece Ziyareti",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/05/125f3ac915facd785d628424df72fec4_3064992957867007669_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/05/125f3ac915facd785d628424df72fec4_3064992957867007669_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000120
+    ],
+    "UpPurpleList": [
+      10000032,
+      10000023,
+      10000043
+    ]
+  },
+  {
+    "Name": "İlahi Çağrı Etkinlik Dileği",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/05/be5668bcea2f53f4e4f7fe4d00b53c7a_2751417079706169303_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/05/be5668bcea2f53f4e4f7fe4d00b53c7a_2751417079706169303_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12515,
+      13516
+    ],
+    "UpPurpleList": [
+      13434,
+      11401,
+      12401,
+      14403,
+      15403
+    ]
+  },
+  {
+    "Name": "Şafak Meltemi Kasidesi",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/12/ee4624070f2578ecde0add52358af805_515175602066844996_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/12/ee4624070f2578ecde0add52358af805_515175602066844996_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 500,
+    "UpOrangeList": [
+      10000051,
+      10000041,
+      10000038,
+      10000029,
+      10000016,
+      10000003,
+      11502,
+      11501,
+      12503,
+      12502,
+      12501,
+      13502,
+      14502,
+      14501,
+      15503,
+      15501
+    ],
+    "UpPurpleList": [
+      10000115,
+      10000080,
+      10000045,
+      10000043,
+      10000039,
+      10000034,
+      10000032,
+      10000031,
+      10000021,
+      10000020,
+      10000015,
+      10000014,
+      10000006,
+      11410,
+      11405,
+      11403,
+      11402,
+      11401,
+      12405,
+      12403,
+      12402,
+      12401,
+      13407,
+      13401,
+      14410,
+      14409,
+      14403,
+      14402,
+      14401,
+      15412,
+      15410,
+      15405,
+      15403,
+      15402,
+      15401
     ]
   }
 ]

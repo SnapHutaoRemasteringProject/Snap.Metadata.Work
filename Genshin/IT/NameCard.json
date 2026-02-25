@@ -1653,7 +1653,7 @@
     "Id": 210141,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Layla: sogno a occhi aperti",
+    "Name": "Layla: Sogno a occhi aperti",
     "Description": "Stile per la carta giocatore.\n\"Il cielo stellato dei tuoi sogni illuminerà il tuo cammino, a patto che la luce riflessa dal cristallo nel tuo cuore sia chiara.\"",
     "Icon": "UI_NameCardIcon_Layla",
     "Pictures": [
@@ -3260,6 +3260,31 @@
     "Pictures": [
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
+    ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka: Capobranco",
+    "Description": "Stile per la carta giocatore.\nIl branco di lupi inseguiva il vento del Nord, ma solo il capobranco sapeva che il vento aveva già iniziato a soffiare tra le loro zampe all'inizio della corsa.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Appunti di viaggio: Venti del Nord",
+    "Description": "Stile per la carta giocatore.\nEra qualcosa che il vento poteva portare da nord: un pizzico di freddo, l'ultima debole fragranza dei fiori prima che cadessero dai loro rami, e la notizia che un viaggiatore da lontano sarebbe presto tornato.",
+    "SpecialDescription": "Stile per la carta giocatore Appunti di viaggio: Venti del Nord",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
     ]
   }
 ]

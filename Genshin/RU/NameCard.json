@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Вожак стаи",
+    "Description": "Именная карта.\nСтая волков преследует ветер, идущий с севера, но только вожак стаи знает, что ещё до начала погони ветер уже кружил у них под ногами.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Северный ветер",
+    "Description": "Именная карта.\nЭто то, что северный ветер может принести с собой: лёгкую прохладу, последний аромат цветов перед опаданием и весть о возвращении странника издалека.",
+    "SpecialDescription": "Именная карта «Северный ветер».",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

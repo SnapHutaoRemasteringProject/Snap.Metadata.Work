@@ -910,7 +910,7 @@
     "VisionOverrideLocked": "月之轮",
     "VisionOverrideUnlocked": "月之轮",
     "ConstellationBefore": "白驹座",
-    "CvChinese": "昱头",
+    "CvChinese": "Mace",
     "CvJapanese": "福圆美里",
     "CvEnglish": "劳拉·韦尔什",
     "CvKorean": "千花",
@@ -926,6 +926,10 @@
     },
     "Fetters": [
       {
+        "Title": "初次见面…",
+        "Context": "我名兹白，凡人曾呼我为白马仙人，但我如今既已降地为仙，你直呼我为兹白就是。"
+      },
+      {
         "Title": "闲聊·月",
         "Context": "天下从来共云雨，明月何曾是他乡…"
       },
@@ -936,10 +940,6 @@
       {
         "Title": "闲聊·仙法",
         "Context": "仙法的确神奇，但修法前若不修心，万事只会如水中镜月，触之即碎。"
-      },
-      {
-        "Title": "初次见面…",
-        "Context": "我名兹白，凡人曾呼我为白马仙人，但我如今既已降地为仙，你直呼我为兹白就是。"
       },
       {
         "Title": "下雨的时候…",

@@ -1794,6 +1794,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Varka",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Varka",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3023,6 +3034,17 @@
     "Description": "Nguyên liệu kích hoạt cung mệnh Illuga",
     "TypeDescription": "Kích Hoạt Cung Mệnh",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Varka",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Varka",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -31622,6 +31644,54 @@
     "Icon": "UI_ItemIcon_108867"
   },
   {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Lập tức hồi 18% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 300 HP.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Ngọc Lạnh Luyện Vàng Kỳ Lạ",
+    "Description": "Món thịt gà của Liyue. Da vàng thịt trắng, trông có vẻ khá ngon. Nhưng chỉ cần thử một miếng, cảm giác hối hận lập tức dâng trào, bởi kẽ răng sẽ ngay lập tức bị thịt gà khô như rơm tranh nhau lấp đầy...",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Lập tức hồi 20% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 390 HP.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Ngọc Lạnh Luyện Vàng",
+    "Description": "Món thịt gà của Liyue. Khi chế biến không cần thêm gia vị phức tạp, cố gắng tôn lên hương vị tự nhiên của nguyên liệu tươi ngon. Thành phẩm có lớp da mịn, thịt mềm, vị ngon tự nhiên, chấm kèm nước sốt đúng là tuyệt hảo.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Lập tức hồi 22% giới hạn HP cho nhân vật được chọn, trong 30s tiếp theo, mỗi 5s hồi 470 HP.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Ngọc Lạnh Luyện Vàng Ngon",
+    "Description": "Món thịt gà của Liyue. Da gà giòn mà vẫn có độ dai, phần thịt đông tỏa ra hương thơm béo ngậy, thịt săn chắc lại mặn mà, ngay cả xương gà cũng có vị thanh ngọt... Hương vị hòa quyện, chinh phục vị giác.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 80 điểm Thể Lực.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sảng Khoái",
+    "Description": "Món ăn độc quyền của Varka. Miếng đùi gà xông khói to bự cùng cốc rượu táo đầy ắp, kèm theo cách bày trí phóng khoáng hào sảng, tất cả đều thể hiện triết lý sống của anh: Dù chiến đấu hay dùng bữa, đều phải thật thoải mái và đầy khí thế.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108870"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34511,6 +34581,17 @@
     "ItemType": 2,
     "Name": "Công Thức: Nấm Kỳ Ảo",
     "Description": "Công thức món ăn, ghi lại cách làm món \"Nấm Kỳ Ảo\".",
+    "TypeDescription": "Công Thức",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Công Thức: Ngọc Lạnh Luyện Vàng",
+    "Description": "Công thức món ăn, ghi lại cách làm món \"Ngọc Lạnh Luyện Vàng\".",
     "TypeDescription": "Công Thức",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37477,6 +37558,17 @@
     "Description": "Xương đen thu được từ tàn tích Chúa Tể Ác Mộng U Ám, kẻ xâm lược đến từ thế giới khác.\nLoài thú vô hình bay lượn giữa biển sao đen kịt, lẽ ra không cần đến thứ mà thế giới này gọi là \"cánh\". Đôi cánh quái dị kia có lẽ là để thích nghi với quy luật dưới ánh trăng, hoặc cũng có thể đó chỉ là một góc chân thân méo mó của nó trong mắt người phàm mà thôi.",
     "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Đuôi Đứt Của Thằn Lằn",
+    "Description": "Phần đuôi kết tinh mà Thằn Lằn Ánh Trăng Bức Xạ để lại khi cố gắng trốn thoát sau khi bị đánh bại.\nTheo lẽ thường, loài thằn lằn tiến hóa mạnh mẽ như vậy lẽ ra không còn phải chịu uy hiếp từ thiên địch nữa, nhưng nó vẫn giữ lại bản năng cắt đuôi để sinh tồn. Có lẽ là vì trong thời đại ánh trăng chiếu rọi khắp mặt đất, nơi đây từng tồn tại những kẻ săn mồi đáng sợ hơn nhiều.",
+    "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50395,6 +50487,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Phù Hiệu Quyền Hạn",
+    "Description": "Phù hiệu quan trọng được giao cho nhiều thành viên Fatui bảo quản riêng biệt, chỉ khi tập hợp đủ ba cái mới có thể khởi động cơ quan dẫn đến căn phòng sâu bên trong. Còn về lý do tại sao nhất định phải có ba phù hiệu, thì ma nữ giải thích là để cho có \"cảm giác tham gia\".",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Kết Tinh Nước Mắt Ô Nhiễm Nặng",
+    "Description": "Đến từ Dvalin đã bị ô nhiễm hoàn toàn bởi Vực Sâu. Từ trạng thái của giọt nước mắt có thể thấy, Dvalin trong câu chuyện đã không còn khả năng được chữa lành.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50514,6 +50628,17 @@
     "Description": "Chiếc hộp đựng kẹo điêu khắc đường đặc biệt, dường như được làm riêng cho ai đó. Để tránh nó bị tan chảy, hãy ăn càng sớm càng tốt.",
     "TypeDescription": "Vật Phẩm Tiêu Hao",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Đạo Cụ Đàm Phán Vạn Năng",
+    "Description": "Chiếc túi nặng trĩu chứa đầy những con át chủ bài có thể lay động những người \"yêu tiền như mạng\", hình như được gọi là \"thành ý\"?",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50704,6 +50829,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Thư Mời Sự Kiện",
+    "Description": "Thư mời do Đội Trưởng Đại Diện Jean của Đội Kỵ Sĩ Tây Phong gửi đến. Nội dung ngắn gọn, không hề đề cập đến nội dung cụ thể của sự kiện.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mora Nhẹ Tênh",
+    "Description": "Mora tìm được ở Hồ Sao Rơi, tuy trông giống hệt nhưng trọng lượng chỉ bằng một phần mười Mora thông thường, khiến niềm vui khi có được của cải cũng chỉ còn một phần mười.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Thịt Cá Đàn Hồi",
+    "Description": "Thịt cá tìm được ở Hồ Sao Rơi, mặc dù nhìn giống hệt thịt cá thông thường, nhưng lại có độ đàn hồi cực kỳ tốt. Dù bóp mạnh đến đâu, khi thả ra nó cũng sẽ nhanh chóng trở lại hình dạng ban đầu. Gọi là đồ chơi giải tỏa căng thẳng còn đúng hơn là nguyên liệu nấu ăn... Tốt nhất là đừng thử nấu nó lên.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kẹo Ma Thuật Dodoco",
+    "Description": "Món quà lưu niệm Klee tặng trong thời gian hỗ trợ vận hành quầy pha chế của Đội Kỵ Sĩ.\n\"Cho nguyên liệu vào Đài Giả Kim, cầu nguyện một hình dạng, niệm theo thần chú của mẹ. Bùm một tiếng, thế là kẹo hình Dodoco hiện ra!\"\nQuả không hổ danh là tác phẩm của quý cô Alice, dù sử dụng nguyên liệu thường thấy ở Teyvat, vẫn có vị ngọt kỳ diệu. Khi nếm thử một viên, trong đầu dường như thực sự vang lên tiếng vọng của câu thần chú ngọt ngào...\nTiếc là số lượng có hạn, để lại một viên làm kỷ niệm vậy!",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50734,6 +50903,61 @@
     "Description": "Tập thơ ghi chép giai thoại về các đời Starshyna. Phần lớn nội dung đã thất lạc trong thảm họa trước đây, những chương rời rạc thu thập được hiện nay chỉ chiếm một phần nhỏ trong bản gốc.",
     "TypeDescription": "Đạo Cụ Nhiệm Vụ",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Lá Thư Gió Mang Đến",
+    "Description": "Lá thư không biết xuất hiện trong túi từ khi nào, có lẽ là do gió thổi đến.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Vé Mời Của Varka",
+    "Description": "Vẽ mời dùng bữa do Varka tự tay vẽ, có thể đổi lấy một bữa tiệc thịnh soạn tại quán Người Săn Hươu.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Vé Mời Của Varka",
+    "Description": "Vẽ mời dùng bữa do Varka tự tay vẽ, có thể đổi lấy một bữa tiệc thịnh soạn tại quán Người Săn Hươu. Mặt sau có một dấu \"Đã Dùng\" nho nhỏ ở góc.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Quỹ Đen Của Varka",
+    "Description": "Khoản quỹ đen mà Varka dùng để mua rượu, được cất giấu công khai trong ngăn kéo bàn làm việc.\n\"Nơi nguy hiểm nhất chính là nơi an toàn nhất!\" Dù nói vậy, nhưng ý định ban đầu khi giấu ở đây có lẽ vẫn là vì nghĩ rằng dù Đội Trưởng Đại Diện có phát hiện ra thì cũng sẽ không lấy đi xài, hơn nữa cũng sẽ không để người khác phát hiện.\nBan đầu định dùng để mua rượu bồ công anh dâng lên thần linh, nhưng giờ kế hoạch đã thay đổi. Có lẽ có thể dùng để thưởng cho Kỵ Sĩ Danh Dự đã giải cứu Varka, hoặc để vị kỵ sĩ này dùng nó thưởng cho từng người bạn đã giải cứu mình.",
+    "TypeDescription": "Vật Phẩm Tiêu Hao",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Quỹ Đen Của Varka",
+    "Description": "Khoản quỹ đen mà Varka dùng để mua rượu, được cất giấu công khai trong ngăn kéo bàn làm việc.\n\"Nơi nguy hiểm nhất chính là nơi an toàn nhất!\" Dù nói vậy, nhưng ý định ban đầu khi giấu ở đây có lẽ vẫn là vì nghĩ rằng dù Đội Trưởng Đại Diện có phát hiện ra thì cũng sẽ không lấy đi xài, hơn nữa cũng sẽ không để người khác phát hiện.\nBan đầu định dùng để mua rượu bồ công anh dâng lên thần linh, hiện giờ được dùng để khao thưởng cho Kỵ Sĩ Danh Dự đã giải cứu Varka, hoặc có thể để vị kỵ sĩ này dùng nó thưởng cho từng người bạn đã giải cứu mình.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -56412,6 +56636,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Máy Ảnh Truy Vết",
+    "Description": "Máy ảnh mà Paimon luôn mang theo bên mình. Lần này hãy dùng nó để ghi lại những điểm khác biệt đáng chú ý nhé.",
+    "TypeDescription": "Đạo Cụ Nhỏ",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Đàn Hòa Âm",
+    "Description": "Nhạc cụ tinh xảo, sau khi dùng sẽ có thể diễn tấu.\nTrong mắt các nhà biện luận của nền văn minh cũ, âm luật vang lên giữa trần thế âu cũng chỉ là sự mô phỏng thô sơ của bản nhạc phổ quát. Nhưng vị vua của sự bất diệt đã nắm bắt được ý tưởng âm nhạc dị thường từ màn trình diễn của nhạc công. Theo chỉ thị của ngài, người chỉnh âm đã cố định âm thanh vĩnh cửu trên từng phím đàn, bất kỳ ai cũng có thể tham gia vào buổi hòa tấu hoành tráng nhất bằng cách chơi nó.",
+    "TypeDescription": "Đạo Cụ Nhỏ",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -57114,6 +57360,17 @@
     "Description": "Cuộn dệt Natlan mô tả khung cảnh độc đáo, ẩn chứa sức mạnh đặc biệt, là món quà kỷ niệm mà Chubby đã mang về từ Natlan.\nNhìn kỹ hình ảnh trên đó, trong đầu dường như sẽ hiện ra một cảnh tượng nào đó. Mượn \"sức mạnh ngoại cảnh\" sẽ có thể tái hiện khung cảnh Natlan trong cuộn tranh tại Ấm Trần Ca...",
     "TypeDescription": "Vật Phẩm Tiêu Hao",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Quả Cầu Cơ Quan Ảo Ảnh",
+    "Description": "Quả cầu cơ quan Kuuvahki Nod-Krai có khả năng phát nhạc và tạo hiệu ứng ánh sáng rực rỡ, là quà lưu niệm mà Tiên Ấm Chu Du Chubby mang về từ Nod-Krai.\nKhi nhìn vào ánh sáng và bóng tối phát ra từ quả cầu này, trong đầu dường như hiện lên một cảnh tượng nào đó. Mượn sức mạnh ngoại cảnh sẽ có thể xây dựng nên cảnh sắc Nod-Krai kỳ diệu...",
+    "TypeDescription": "Vật Phẩm Tiêu Hao",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58399,6 +58656,127 @@
     "ItemType": 2,
     "Name": "Đồng Đội Và Mái Nhà",
     "Description": "Gian nhà sạch sẽ ngăn nắp, đặt nhiều món đồ trang trí mà Saurian thường dùng đã được người Natlan kiểm chứng từ lâu, cho dù dùng làm nơi ở cho Saurian hay bất kỳ loài động vật cỡ lớn khác thì đều vô cùng thích hợp.\nTại Natlan, Saurian chính là đồng đội và cũng là người thân của các chiến binh, cùng họ đồng cam cộng khổ, trưởng thành cùng nhau. Khi có chúng ở bên, mọi u ám trong lòng đều sẽ tan biến.\nBạn đồng hành thích bộ trang trí này: Ifa",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nhà Thoải Mái Cho Khách Phương Xa",
+    "Description": "Phòng ngủ được bài trí đầy đủ tiện nghi, lấy cảm hứng từ thiết kế phòng khách của quán rượu lớn nhất Thị Trấn Nasha - Soái Hạm, đồng thời được tối ưu hóa theo nhu cầu của người ở.\nKhách của Quán Rượu Soái Hạm có nhiều bối cảnh phức tạp khác nhau, định nghĩa về sự thoải mái cũng vậy. Việc cân bằng giữa các kỳ vọng khác nhau không hề dễ dàng, cuối cùng Soái Hạm đã chọn một giải pháp độc đáo: Bố trí tất cả vật dụng mà khách có thể sẽ cần vào trong phòng, sau đó loại bỏ những thứ không cần thiết dựa trên ý kiến của khách. Dù bố cục có phần chật chội vì chứa đầy đồ đạc, nhưng ưu điểm là đầy đủ chức năng, mỗi vị khách đều có thể tìm thấy sự thoải mái riêng của mình.",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Giấc Ngủ Dưới Trăng",
+    "Description": "Phòng ngủ giản dị và trang nhã, bày trí những món đồ nội thất được Dòng Dõi Sương Nguyệt tuyển chọn kỹ lưỡng, tổng thể mang không khí tao nhã và ấm cúng. Tương truyền rằng, môi trường thiên nhiên yên tĩnh có thể giúp con người thư giãn tâm trí tốt hơn, và căn phòng ngủ này chính là hiện thân hoàn hảo của câu nói ấy. Gối đầu lên ánh đèn dịu dàng như ánh trăng vàng nhạt, không khí thoang thoảng hương thơm trái cây tươi mát, người sống nơi đây dường như cảm nhận được sự mệt mỏi và khổ sở dần được xoa dịu, sự an yên và tĩnh lặng của màn đêm lặng lẽ gọi mời giấc ngủ...",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tọa Độ Trật Tự Của Bí Mật",
+    "Description": "Phòng làm việc với phong cách đặc trưng, bố cục được tham khảo sâu từ Hội Đồng Bí Mật, tái hiện chân thực khung cảnh khi chủ nhân làm việc, mọi thứ đều ngăn nắp trật tự.\nPhân tích tình báo là một công việc phức tạp và đầy thách thức, tình huống rối ren thường khiến người ta không biết bắt đầu từ đâu. Khi đặt mình trong căn phòng được sắp xếp hợp lý với đầy đủ công cụ hỗ trợ như vậy, tư duy của mọi người có lẽ sẽ trở nên sáng suốt hơn, hiệu suất công việc cũng sẽ được nâng lên theo...",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Mái Nhà Tuyệt Vời Ấm Áp Nhất",
+    "Description": "Phòng ngủ phong cách Nod-Krai, bố cục tổng thể mang lại cảm giác ấm cúng và thoải mái, là nơi lý tưởng để xua tan mệt mỏi sau một ngày bận rộn. Tất cả vật dụng trong phòng ngủ đều đến từ Xưởng Krumkake Clink-Clank, được chính vị \"phụ huynh\" tỉ mỉ lựa chọn, là những món nội thất tuyệt vời nhất, ấm áp nhất và tiện dụng nhất trên thế gian. Tuy nhiên, sự thoải mái này cũng mang đến một rắc rối nhỏ, người sử dụng thường ngủ quên vì quá thư giãn, thậm chí bỏ lỡ những việc quan trọng. Có lẽ cần một phương pháp đánh thức mạnh mẽ nhưng chu đáo để đảm bảo người sử dụng thức dậy đúng giờ.",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nghỉ Ngơi Trước Trận Chiến",
+    "Description": "Phòng nghỉ tập thể đầy đủ tiện nghi, được thiết kế dựa theo bố cục phòng ở Thành Piramida, tái hiện khung cảnh nghỉ ngơi trước trận chiến của các Ratnik. Những Ratnik dày dạn kinh nghiệm hiểu rõ rằng, cuộc chiến với Cuộc Săn Hoang Dã kéo dài và gian nan, cần phải nghỉ ngơi tối đa khi điều kiện cho phép để duy trì trạng thái chiến đấu tốt nhất. Ngoài ra, phòng nghỉ được bố trí hợp lý còn giúp các Ratnik tăng cường sự quen thuộc với nhau trước trận đánh, trên chiến trường, sát cánh cùng đồng đội quen thuộc sẽ mang lại sự tin tưởng và ăn ý hơn so với người lạ. Chính vì vậy, việc xây dựng phòng nghỉ luôn được các Starshyna vô cùng coi trọng.",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Thảo Nguyên Vùng Cực Bắc",
+    "Description": "Cánh đồng tập hợp các loại thảm thực vật và địa hình phổ biến ở khu vực Nod-Krai, tái hiện khá chân thực phong cảnh hoang dã độc đáo của Đảo Hiisi.\nKhu vực Nod-Krai có nguồn Kuuvahki dồi dào, sản sinh ra những loài thực vật màu sắc rực rỡ, động vật có tập tính kỳ lạ cùng địa hình độc đáo. Đối với các nhà nghiên cứu tự nhiên học, vùng đất này ẩn chứa vô số kho báu mang tên tri thức mới. Còn đối với du khách bình thường, cảnh quan kỳ diệu như vậy cũng khiến người ta không khỏi dừng chân chiêm ngưỡng.",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Thị Trấn Biên Giới Nhộn Nhịp",
+    "Description": "Cảnh quan khu vực lấy các công trình kiến trúc đặc sắc làm cốt lõi, bố trí các cửa hàng với chức năng khác nhau, tái hiện hoàn hảo một góc phong cảnh của Thị Trấn Nasha.\nTương truyền, Thị Trấn Nasha khác biệt với các thành phố khác, nơi đây không có người quản lý thực sự, cũng thiếu cấu trúc quy hoạch rõ ràng. Điều này khiến khoảng không giữa các tòa nhà trong thị trấn chứa đựng vô số lối đi hẹp và khe hở bí mật. Đối với cư dân bình thường, những lối đi này cũng chỉ là công cụ lan truyền tiếng ồn. Nhưng với những người lưu tâm giỏi nắm bắt thông tin, những lối đi này lại là một trong những đường dẫn để truyền tải bí mật, và còn là lối tắt để di chuyển nhanh chóng...",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cầu Nguyện Tĩnh Lặng Dưới Trăng",
+    "Description": "Cảnh quan ngoài trời được bố trí dựa trên phong cảnh ở Sương Nguyệt Phường, các vật dụng được sắp xếp theo quy tắc của Dòng Dõi Sương Nguyệt, đồng thời trồng thêm cây cối phù hợp với từng vật dụng. Bước vào đây, ta có thể cảm nhận được bầu không khí sống yên bình an nhiên đặc trưng của Dòng Dõi Sương Nguyệt, khúc cầu nguyện du dương dịu dàng dường như lặng lẽ vang lên trong tâm trí, mọi phiền muộn và đau khổ tan theo gió, chỉ còn lại một tâm hồn tĩnh lặng và thư thái.",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ngọn Đèn Cô Độc Giữa Đêm",
+    "Description": "Thôn xóm được xây dựng từ những ngôi nhà kiên cố, bố cục và kiến trúc tham khảo từ các cứ điểm phòng thủ ngoài trời mà Người Giữ Đèn thường sử dụng. Thiết kế này giúp chống chịu mưa gió, thậm chí khi đối mặt với Cuộc Săn Hoang Dã ồ ạt kéo đến thì vẫn sở hữu khả năng phòng thủ đáng nể. Như lời thề mà Người Giữ Đèn đã lập: \"Chúng ta là Người Giữ Đèn, bảo vệ niềm hy vọng cháy bất diệt trên cánh đồng tuyết vô tận.\"\nTrên cánh đồng bao la ngoài Thành Piramida, những cứ điểm này tựa như ngọn đuốc, cứ thế truyền đi ánh sáng của hy vọng.",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Công Xưởng Đang Lên",
+    "Description": "Khu dân cư nhỏ được xây dựng theo mô hình Xưởng Krumkake Clink-Clank, trang bị những ngôi nhà sắt hình bán cầu tiện nghi thoải mái, cùng với các công trình mang kiểu dáng thuyền sắt, đủ để đáp ứng nhu cầu cơ bản của các chủ xưởng.\nNhững công xưởng vĩ đại trên đời, không có xưởng nào mà không khởi đầu từ những đơn vị kiến trúc cơ bản. Có những công trình này làm nền tảng, thêm vào đó là quy hoạch hợp lý, vật liệu đầy đủ, việc cải tạo toàn bộ Thế Giới Trong Ấm thành một công xưởng khổng lồ cũng không phải là điều không thể...",
+    "TypeDescription": "Bản Vẽ Bộ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cảnh Lặng Của Tân Nguyệt",
+    "Description": "Khu vườn được lấy cảm hứng từ Sảnh Trăng Bạc, tổng thể mang phong cách tĩnh lặng và yên bình, như một khung cảnh ảo mộng xa vời không thể chạm tới.\nÁnh trăng luôn dẫn dắt chúng sinh một cách dịu dàng, có lẽ từng có tín đồ của Nguyệt Thần nghiêm túc suy nghĩ rằng... Cảnh sắc thế nào mới có thể đưa Tân Nguyệt chìm vào giấc mơ yên bình chỉ thuộc về nàng?\nChỉ có thực sự ghé thăm Sảnh Trăng Bạc, tĩnh tâm thưởng thức từng cánh hoa ngọn cỏ nơi đó, mới có thể tìm ra câu trả lời...",
     "TypeDescription": "Bản Vẽ Bộ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -72116,6 +72494,413 @@
     "ItemType": 2,
     "Name": "Đèn Tiêu Rực Rỡ - Bằng Hữu Hội Ngộ",
     "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Tiêu Rực Rỡ - Bằng Hữu Hội Ngộ\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bánh Quy Tròn Xoe",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bánh Quy Tròn Xoe\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nhà Lưu Trữ Clink-Clank",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nhà Lưu Trữ Clink-Clank\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bàn Tròn Sương Nguyệt - Xanh Dương Mềm Mại",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Tròn Sương Nguyệt - Xanh Dương Mềm Mại\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ghi Chú Của Ai Đó",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghi Chú Của Ai Đó\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bàn Nhỏ Sương Nguyệt - Hương Thơm Trái Cây",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Nhỏ Sương Nguyệt - Hương Thơm Trái Cây\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nhánh Xanh Lam Nổi Bật",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nhánh Xanh Lam Nổi Bật\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ghế Tựa Lưng \"Gối Nguyệt\" Gỗ Sồi Hè",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ghế Tựa Lưng 'Gối Nguyệt' Gỗ Sồi Hè\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ánh Sáng Sừng Lạnh",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ánh Sáng Sừng Lạnh\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nấm Rơm Xiêu Vẹo",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nấm Rơm Xiêu Vẹo\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tổ Ấm Tuyệt Vời Nhất",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tổ Ấm Tuyệt Vời Nhất\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Giường Đá Sương Nguyệt - Mát Mẻ Sảng Khoái",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Giường Đá Sương Nguyệt - Mát Mẻ Sảng Khoái\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bàn Thấp Trong Nhà - Giá Trị Độc Nhất",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bàn Thấp Trong Nhà - Giá Trị Độc Nhất\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kệ Sách Trong Nhà - Nhàn Rỗi Đọc Sách",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Kệ Sách Trong Nhà - Nhàn Rỗi Đọc Sách\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Quầy Trong Nhà - Chính Thức Ghé Thăm",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Quầy Trong Nhà - Chính Thức Ghé Thăm\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tháp Cao Cao",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tháp Cao Cao\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tủ Áo Quán Trọ - Tăng Dung Lượng",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tủ Áo Quán Trọ - Tăng Dung Lượng\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Thảm Sương Nguyệt - Trong Veo",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thảm Sương Nguyệt - Trong Veo\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Thảm Mềm Mại",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Thảm Mềm Mại\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kiên Cường Như Sắt Thép",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Kiên Cường Như Sắt Thép\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ngọn Cờ Giữ Đèn",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ngọn Cờ Giữ Đèn\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Đèn Tường Quán Rượu - Hành Lang Ánh Sáng",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Đèn Tường Quán Rượu - Hành Lang Ánh Sáng\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lầu Căn Cứ - Nhà Kính Đa Năng",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lầu Căn Cứ - Nhà Kính Đa Năng\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lầu Căn Cứ - Không Gian Bí Mật",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lầu Căn Cứ - Không Gian Bí Mật\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lầu Căn Cứ - Tháp Nước Cao Vút",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lầu Căn Cứ - Tháp Nước Cao Vút\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cối Xay Gió Căn Cứ - Động Lực Phụ Trợ",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cối Xay Gió Căn Cứ - Động Lực Phụ Trợ\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cổng Căn Cứ - Logic Vận Chuyển",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cổng Căn Cứ - Logic Vận Chuyển\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nền Căn Cứ - Nền Móng Vững Chắc",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nền Căn Cứ - Nền Móng Vững Chắc\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tường Căn Cứ - Phòng Tuyến Ngăn Chặn",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tường Căn Cứ - Phòng Tuyến Ngăn Chặn\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Trụ Căn Cứ - Tín Hiệu Vạn Năng",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Trụ Căn Cứ - Tín Hiệu Vạn Năng\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cái Ôm Dịu Dàng",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Cái Ôm Dịu Dàng\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lan Can Thị Trấn - Ghế Tiện Lợi",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lan Can Thị Trấn - Ghế Tiện Lợi\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lan Can Thị Trấn - Sóng Xanh Biếc",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Lan Can Thị Trấn - Sóng Xanh Biếc\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tượng Thần Tia Lửa Mãnh Liệt",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tượng Thần Tia Lửa Mãnh Liệt\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bí Quyết Mát Mẻ Của Căn Cứ",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Bí Quyết Làm Mát Căn Cứ\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mái Vững Chắc Của Căn Cứ",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Mái Vững Chắc Của Căn Cứ\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sàn Hợp Kim Của Căn Cứ",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Sàn Hợp Kim Của Căn Cứ\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ánh Sáng Tĩnh Lặng Của Căn Cứ",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Ánh Sáng Tĩnh Lặng Của Căn Cứ\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
     "TypeDescription": "Bản Vẽ Đồ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Common"
   }

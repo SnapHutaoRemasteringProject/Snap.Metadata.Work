@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Quarto Confortável para Convidados de Longe e de Perto",
+    "Description": "Um quarto totalmente mobiliado, inspirado pelos quartos no Navio-Chefe, a maior taverna na Cidade de Nasha. Melhorias direcionadas foram feitas para atender melhor às necessidades dos ocupantes.\nOs convidados do Navio-Chefe vêm de uma variedade de origens, cada um com a própria ideia de conforto. Alcançar o equilíbrio entre todas essas expectativas diferentes não é fácil. Eventualmente, o Navio-Chefe decidiu uma solução única: mobiliar os quartos com cada amenidade que um cliente poderia precisar, então remover itens desnecessários com base nos comentários deles. Embora o quarto possa ficar um pouco desordenado por isso, também fornece tudo que um convidado poderia precisar, permitindo que ele encontre o conforto à própria maneira.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Doce Sono Sob a Lua",
+    "Description": "Um quarto simples e elegante, mobiliado com peças cuidadosamente selecionados pelos Filhos da Lua Gelada. A atmosfera daquela é de simplicidade refinada e acolhedora. Dizem que um ambiente natural tranquilo pode ajudar a relaxar, e esse quarto parece ser a corporificação perfeita desse princípio. Com uma luminária gentil como o luar, e o cheiro fresco de frutas no ar, aqueles que ficarem aqui sentirão seu cansaço e dor lentamente desaparecerem, a medida que a paz e tranquilidade lentamente toma conta...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "A Rede Ordenada de Segredos",
+    "Description": "Uma oficina distinta com um layout inspirado na Curadoria dos Segredos. É uma réplica fidedigna do ambiente de trabalho da chefe Nefer, em que tudo está organizado e em perfeita ordem.\nAnalisar inteligência é algo entediante e desafiador, já que existem incontáveis fios de informação e nenhuma noção de onde começar. Ainda assim, em uma sala em que tudo está em seu lugar, e com um conjunto de ferramentas na mão, pensar se torna mais fácil, e naturalmente passa a se trabalhar com maior eficiência...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "A Melhor e Mais Quente Casa",
+    "Description": "Um quarto ao estilo de Nod-Krai com uma disposição que evoca uma sensação quente e aconchegante. É o lugar ideal para se acabar com a fadiga após um dia cheio. Todas as mobílias desse quarto, selecionadas cuidadosamente pela própria \"mãe\" da Oficina de Rolinho de Ovo Trilimlim, são as melhores, mais quentinhas e mais práticas no mundo inteiro. Contudo, esse conforto excepcional vem com um lado negativo: seus ocupantes às vezes dormem demais, até perdendo compromissos importantes porque o quarto é confortável demais. Um método firme, porém considerado de despertar pode ser necessário para garantir que todos acordem na hora certa.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Descanso Antes da Batalha",
+    "Description": "Um salão comunal completamente equipado, modelado com base nos quartos em Piramida, onde os Ratniki descansam antes de ir para batalha. Ratniki veteranos sabem muito bem que, considerando a longa e árdua guerra contra a Caçada Feroz, eles devem descansar sempre que possível para manter a melhor forma para combate. Além disso, uma área de descanso bem projetada também ajuda os Ratniki a se conhecerem melhor fora de batalha, construindo a confiança e trabalho em equipe necessários para sucesso no campo de batalha. Por esse motivo, os Starshynas sempre construíram salões assim.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Natureza do Extremo Norte",
+    "Description": "Uma natureza que reúne vegetação e topografias vistas comumente em Nod-Krai, especificamente uma recriação autêntica da paisagem única da Ilha Hiisi.\nA região de Nod-Krai desfruta de uma abundância de Kuuvahki que, por sua vez, deu origem a plantas de cores vivas, criaturas de hábitos distintos e topografias de formatos incomuns. Para naturalistas, essa área possui incontáveis tesouros de novo conhecimento, enquanto para turistas comuns, oferece paisagens maravilhosas que exigem uma pausa para admiração.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Cidade Fronteiriça Agitada",
+    "Description": "Uma paisagem regional centrada em vários prédios distintos, com lojas de vários tipos. É uma réplica perfeita de uma esquina da Cidade de Nasha.\nAs lendas dizem que a Cidade de Nasha é diferente das outras cidades porque não possui nenhum administrador e nenhuma estrutura clara de planejamento. Isso levou a incontáveis passagens estreitas e vãos discretos surgindo entre os prédios da cidade. Para a maioria dos habitantes, essas passagens são apenas espaços para que o barulho se espalhe. Para aqueles focados em reunir informações, entretanto, servem como caminhos em que segredos se espalham, e atalhos para viagens mais rápidas.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Oração Tranquila Sob a Lua",
+    "Description": "Um cenário aberto modelado na Oficina da Lua Gelada, contendo vários implementos organizados de acordo com os costumes dos Filhos da Lua Gelada, e a vegetação complementa cada coisa. Pise nesse espaço, e você imediatamente sentirá a tranquilidade e harmonia dos Filhos da Lua Gelada. É como se hinos gentis e melódicos estivessem ecoando levemente, levando todos os problemas e sofrimentos embora na brisa, deixando apenas uma paz serena para trás.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Luz Solitária na Noite Longa",
+    "Description": "Um assentamento com casas resistentes. Sua disposição e arquitetura são inspiradas nas fortalezas dos Portadores da Lâmpada. Esse desenho permite que ele suporte o vento e a chuva, e mesmo quando enfrente a Caçada Feroz, possui capacidades de defesa formidáveis. É como o juramento dos Portadores da Lâmpada diz: \"Somos os Portadores da Lâmpada, aqueles que iluminam a luz eterna da esperança nas planícies infinitas nevadas.\"\nNas vastas planícies fora de Piramida, fortalezas como essa erguem-se altamente, carregando a luz da esperança.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Oficinas Esperançosas",
+    "Description": "Um assentamento pequeno inspirado na Oficina de Rolinho de Ovo Trilimlim, com casas esféricas de ferro, e prédios na forma de navios de ferro. Essas estruturas são mais do que suficientes para atender as necessidades básicas dos donos de oficinas.\nTodas as grandes oficinas possuem sua origem em uma estrutura única e simples. Com esses edifícios como fundação, e um planejamento próprio com materiais, transformar o Paraíso Mágico em uma oficina gigante se torna uma possibilidade real...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Serenidade da Lua Crescente",
+    "Description": "Um pátio inspirado pelo Saguão da Lua Prateada. Seu estilo exala tranquilidade e serenidade, como um reino onírico além do alcance.\nO luar sempre guia gentilmente todos os seres vivos. Talvez, os seguidores da Deusa da Lua já se perguntaram: Que tipo de vista ou paisagem poderia guiar a nova lua ao próprio sono pacífico?\nO único jeito de responder é visitar o Saguão da Lua Prateada e observar cada flor e grama lá...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

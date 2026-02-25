@@ -17889,8 +17889,8 @@
     "Id": 82299,
     "Goal": 0,
     "Order": 2299,
-    "Title": "Bozzolo splendente",
-    "Description": "Guarisci i tuoi personaggi e rimuovi il Bozzolo splendente.",
+    "Title": "Bozzolo radioso",
+    "Description": "Guarisci i tuoi personaggi e rimuovi il Bozzolo radioso.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "Come avrebbe dovuto essere",
-    "Description": "Sii testimone del ritorno della Luna dell'incubo.",
+    "Description": "Sii testimone del ritorno della Luna falsa.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "Camminatore lunare",
+    "Description": "Distruggi l'Ancora lunare mentre il Gecoluna radioso si prepara a scatenare Riverbero del Vuoto per interrompere la sua carica.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

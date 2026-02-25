@@ -788,7 +788,7 @@
         },
         "Id": 1262101,
         "Name": "A Adeptus Lunar Desce",
-        "Description": "Ao lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11262}Céu e Terra Manifestados{/LINK}</color>, ou quando aliados próximos da equipe desencadearem Sonata da Jaula Lunar, Zibai obtém o efeito {LINK#N11260001}Descida Lunar{/LINK} por 4s: aumenta o Dano do 2º ataque causado por {LINK#N11260001}<color=#FFD780FF>Passos do Alazão Espiritual</color>{/LINK} em 60% da DEF de Zibai.",
+        "Description": "Ao lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11262}Céu e Terra Manifestados{/LINK}</color>, ou quando aliados próximos da equipe desencadearem Sonata da Jaula Lunar, Zibai obtém o efeito <color=#FFD780FF>Descida Lunar</color> por 4s: aumenta o Dano do 2º ataque causado por {LINK#N11260001}<color=#FFD780FF>Passos do Alazão Espiritual</color>{/LINK} em 60% da DEF de Zibai.",
         "Icon": "UI_Talent_S_Zibai_05"
       },
       {
@@ -856,7 +856,7 @@
       {
         "Id": 1261,
         "Name": "Avance Vigorosa e Silenciosamente",
-        "Description": "Depois de lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11262}Céu e Terra Manifestados{/LINK}</color>, Zibai acumula 100 de {LINK#N11260001}<color=#FFD780FF>Radiância da Conversão</color>{/LINK} e o número máximo de usos de <color=#FFD780FF>Conversão de Fase Lunar</color> é aumentado para 5.\nAlém disso, cada vez que trocar para o modo Conversão de Fase Lunar, aumenta o Dano de Cristalização Lunar do 2º Ataque da primeira vez que lançar <color=#FFD780FF>Passos do Alazão Espiritual</color> em 220%.",
+        "Description": "Depois de lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11262}Céu e Terra Manifestados{/LINK}</color>, Zibai acumula 100 de {LINK#N11260001}<color=#FFD780FF>Radiância da Conversão</color>{/LINK} e o número máximo de usos de <color=#FFD780FF>Passos do Alazão Espiritual</color> de <color=#FFD780FF>Conversão de Fase Lunar</color> é aumentado para 5.\nAlém disso, cada vez que trocar para o modo Conversão de Fase Lunar, aumenta o Dano de Cristalização Lunar do 2º Ataque da primeira vez que lançar <color=#FFD780FF>Passos do Alazão Espiritual</color> em 220%.",
         "Icon": "UI_Talent_S_Zibai_01"
       },
       {
@@ -878,7 +878,7 @@
       {
         "Id": 1264,
         "Name": "O Espírito Passa, a Forma Segue",
-        "Description": "Quando está no modo {LINK#N11260001}<color=#FFD780FF>Conversão de Fase Lunar</color>{/LINK}, o combo de Ataque Normal de Zibai não é redefinido, e quando <color=#FFD780FF>Passos do Alazão Espiritual</color> atinge um inimigo, Zibai obtém o efeito <color=#FFD780FF>Dissipação Lunar</color>: o 4º golpe do próximo Ataque Normal realize um ataque adicional e causa 250% do Dano original de Cristalização Lunar.",
+        "Description": "Quando está no modo {LINK#N11260001}<color=#FFD780FF>Conversão de Fase Lunar</color>{/LINK}, o combo de Ataque Normal de Zibai não é redefinido, e quando <color=#FFD780FF>Passos do Alazão Espiritual</color> atinge um inimigo, Zibai obtém o efeito <color=#FFD780FF>Dissipação Lunar</color>: o 4º golpe do próximo Ataque Normal realiza um ataque adicional e causa 250% do Dano original de Cristalização Lunar.",
         "Icon": "UI_Talent_S_Zibai_03"
       },
       {
@@ -910,7 +910,7 @@
     "VisionOverrideLocked": "Disco Lunar",
     "VisionOverrideUnlocked": "Disco Lunar",
     "ConstellationBefore": "Equa Alba",
-    "CvChinese": "昱头",
+    "CvChinese": "Mace",
     "CvJapanese": "福圓美里",
     "CvEnglish": "Laura Welsh",
     "CvKorean": "Chun Song-e",
@@ -926,6 +926,10 @@
     },
     "Fetters": [
       {
+        "Title": "Olá...",
+        "Context": "Meu nome é Zibai. Os mortais outrora me chamavam de Adeptus Cavalo Branco, mas agora que desci ao plano mortal, pode simplesmente me chamar de Zibai."
+      },
+      {
         "Title": "Bate-papo - A Lua",
         "Context": "O mundo inteiro compartilha a generosidade dos céus, a chuva e as nuvens que abençoam a terra abaixo. A lua nunca foi destinada a ser um reino distante..."
       },
@@ -936,10 +940,6 @@
       {
         "Title": "Bate-papo - Arte do Adeptus",
         "Context": "As Artes dos Adepti são de fato milagrosas, mas se alguém não cultivar primeiro a mente antes de cultivar tais artes, todos os seus feitos serão como o reflexo da lua na água, quebrando-se ao menor toque."
-      },
-      {
-        "Title": "Olá...",
-        "Context": "Meu nome é Zibai. Os mortais outrora me chamavam de Adeptus Cavalo Branco, mas agora que desci ao plano mortal, pode simplesmente me chamar de Zibai."
       },
       {
         "Title": "Quando Está Chovendo...",
@@ -1035,7 +1035,7 @@
       },
       {
         "Title": "Sobre Lan Yan...",
-        "Context": "Lan Yan deve certamente ser descendente do Leitor dos Ventos, uma das Três Feras de Tao Du. Lembro-me de que o Leitor do Vento viajou por um tempo com a Asa Prateada de Jade, criando uma história encantadora. Tenho certeza de que ambos ficariam felizes ao ver quão sábios e talentosos seus descendentes se tornaram."
+        "Context": "Lan Yan deve certamente ser descendente do Leitor do Vento. Lembro-me de que o Leitor do Vento viajou por um tempo com a Asa Prateada de Jade, criando uma história encantadora. Tenho certeza de que ambos ficariam felizes ao ver quão sábios e talentosos seus descendentes se tornaram."
       },
       {
         "Title": "Sobre Hutao...",

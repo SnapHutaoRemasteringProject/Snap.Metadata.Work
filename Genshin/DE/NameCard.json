@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka – Leitwolf",
+    "Description": "Ein Motiv für Namenskärtchen.\nDas Rudel jagt den Nordwind, aber nur sein Leitwolf ist sich bewusst, dass derselbe Wind seit Beginn ihrer Jagd um ihre Beine kreist.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Erlebnispass – Nordwind",
+    "Description": "Ein Motiv für Namenskärtchen.\nEtwas, das der Wind aus dem Norden mit sich bringen konnte: ein Hauch von Kälte, der letzte schwache Duft von Blütenblättern, bevor sie von ihren Zweigen fielen, und die Kunde, dass ein Reisender aus der Ferne bald zurückkehren würde.",
+    "SpecialDescription": "Motiv „Erlebnispass – Nordwind“ für Namenskärtchen",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

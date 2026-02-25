@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Character In-Residence",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "A giant Xiao Lantern created in the likeness of a certain Adeptus who watches over the moon. It depicts a pale white horse leaping from a cliff face through wisps of clouds, against a background of brilliant sunset hues. Today, people inscribe their wishes on the lantern, perhaps in the hope that the White Horse Adeptus will descend from the moon on a jade chariot to grant their wishes.",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361345,
+    "Name": "Cookie Round",
+    "Description": "A low round table commonly found at the Clink-Clank Krumkake Craftshop. It is mostly made out of tin, with a sturdy structure and an appearance resembling a nice, round cookie.\nPeople often struggle with whether to put a pretty tablecloth on this table — \"But if we use a tablecloth, it'll be such a hassle to clean up all the krumkake crumbs that fall on it!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361346,
+    "Name": "Clink-Clank House of Storage",
+    "Description": "A storage table commonly found at the Clink-Clank Krumkake Craftshop. It's built with clearly defined sections that together resemble a cluster of houses of varying heights.\n\"This is the hammer's little house, and that is the tacks' little house...\" so says the person organizing items with this table.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361347,
+    "Name": "Frost Moon Round Table: A Soft Blue Sky",
+    "Description": "A round table commonly seen around Frostmoon Enclave. Crafted from pedunculate oak wood, offers superior durability and water resistance, making it useful for a wide range of settings.\nThe craftspeople of the Frostmoon Scions, drawing inspiration from the bright moon hanging high in the night sky, paired this moon-like round table with a soft sky-blue tablecloth, giving it the tranquility and warmth of the night sky.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363414,
+    "Name": "Someone's Notes",
+    "Description": "A haphazardly stacked pile of books at Frostmoon Enclave, most of which are not carefully bound volumes but rather handwritten journals by an unknown author.\nOften, books like these contain gripping stories full of twists and turns. The messy handwriting, chaotic sentence structure, and the marks left on the pages here all seem to speak of the author's true state of mind while writing.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363415,
+    "Name": "Frost Moon Small Table: Aroma of Fresh Fruit",
+    "Description": "A small table commonly found indoors around Frostmoon Enclave. You can usually find the freshest seasonal fruits on it.\nThe fruit on the table isn't just for eating — it doubles as a natural perfume. Its subtle aroma of the fruit fills the room, striking a perfect balance that makes the room feel instantly warm and cozy.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363511,
+    "Name": "Branches Against the Blue Sky",
+    "Description": "A mechanical flower that never withers. It is a favored indoor bonsai ornament among the Ratniki.\n\"No time to care for it... no sunlight... can't even dig up a shovelful of soil!\"\nImagine the delight of the Ratniki when a particularly crafty member among them created this fairly decent-looking ornament after tinkering with some scrap materials. The blue color of this ornament, reminiscent of the sky, is also a hue that those who have long spent their waking hours in the night long to see.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 362134,
+    "Name": "Pedunculate Oak Wood \"Moonrest\" Backed Chair",
+    "Description": "A chair made primarily from pedunculate oak wood that is often seen around Frostmoon Enclave.\nIts backrest has a carved hollow section that resembles a full moon. When placed indoors with a soft sky-blue cushion on its seat, it creates a warm and natural feel.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363119,
+    "Name": "Rimehorn Glimmer",
+    "Description": "A wooden lamp commonly found indoors in Frostmoon Enclave. Its distinctive appearance is inspired by the Rimehorn Deer.\nAlthough it comes with a carrying handle, its considerable weight means it is usually parked in a fixed location. Most folks in Frostmoon Enclave use it as a night light, as it is bright enough to illuminate without disturbing small friendly animals.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 363120,
+    "Name": "Twisty Mushroom",
+    "Description": "A lamp shaped like a mushroom that can be found at Lightkeeper camps.\nUnlike most lamps on the market that use mushrooms as their design inspiration, the part of this lamp that emits light is not the mushroom's \"cap,\" but rather its winding \"stem.\" Even more unusual is the light it emits — half of it warm as sunlight, the other half as cool as the light of the moon.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361413,
+    "Name": "Bestest Little Nest",
+    "Description": "A small bed that can be seen at the Clink-Clank Krumkake Craftshop. It has a sturdy metal bed frame and pink bedding with a cute pattern and a soft pillow. It offers an excellent experience as its generous dimensions and height allow the user to sleep soundly in any position.\n\"This is the best bed I've ever slept in!\" said the proud creator who crafted this bed with their very own hands.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361414,
+    "Name": "Frost Moon Stone Bed: Fresh & Cool",
+    "Description": "A stone bed commonly seen around Frostmoon Enclave. While it is covered with a soft blanket, those who lie on it will still find it rather hard.\nOn hot days, the user will find the refreshing coolness of this bed very welcome. During winter, however, it would be best to lay a thick mattress on it before lying down.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361121,
+    "Name": "Indoor Low Table: Unique Importance",
+    "Description": "A low table with ample storage space that is commonly used in Lightkeeper camps.\nAs a table with a rack, it often reflects the owner's interests — flower enthusiasts tend to adorn it with potted plants, book lovers pile books on it, and food aficionados will laden it with all kinds of delicacies. For the Ratniki, this is the piece of furniture that is closest to their beds, where they usually place the most important item to them, the thing they carry with them at all times: their lantern.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361122,
+    "Name": "Indoor Bookshelf: Readerly Leisure",
+    "Description": "A bookshelf with a unique design that can easily accommodate books of various sizes. It is often found in Lightkeeper camps.\nFor the Ratniki, knowledge is a precious treasure, as a sliver of knowledge gained by chance may save one's life at a critical moment. Therefore, whenever they have spare time, many Ratniki flock to the bookshelf to absorb more wisdom while they rest between battles.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361123,
+    "Name": "Indoor Counter: Visitor's Welcome",
+    "Description": "A counter made entirely of sheet metal, solid and sturdy that is often used in Lightkeeper camps. A duty officer typically stands behind the counter to tend to unknown visitors.\nThis counter has a rather rough-hewn even crude appearance, which is exactly the Ratniki's intention. It works well in discouraging \"uninvited visitors\" who often enter dangerous territory without careful consideration.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361124,
+    "Name": "Towering Cabinet",
+    "Description": "A multi-tiered cabinet that resembles a tower, featuring a broad base that tapers elegantly toward the top. It can be found at the Clink-Clank Krumkake Craftshop. Its unique design not only provides excellent storage capacity but also ensures a stable center of gravity, meaning the cabinet is less likely to topple over even when subjected to significant external force. \"Each 'floor' has different residents. The big ones live below, and the small ones live above. It's just like a tower!\" This design concept served as the blueprint for its distinctive appearance.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 361125,
+    "Name": "Hotel Wardrobe: Extra Room",
+    "Description": "A wardrobe with enormous capacity and an elegant color scheme that can be found all over The Flagship.\nThis wardrobe's capacity used to be only half of what it is today. However, it was later expanded in response to collective guest feedback, as The Flagship's many long-term guests required clothing suitable for all types of weather. While it now has a capacity that is already larger than most wardrobes, who knows when it will be expanded again?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 362322,
+    "Name": "Frost Moon Carpet: Limpid Hue",
+    "Description": "A carpet primarily featuring blue tones and accented with eye-catching orange-red that can be seen around Frostmoon Enclave. The symmetry of its overall design is not only visually pleasing but also conveys a sense of order and inner peace.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 362323,
+    "Name": "Fluffy Little Rug",
+    "Description": "A circular rug in warm colors and decorated with a cute and cozy pattern that can be seen at the Clink-Clank Krumkake Craftshop.\nThe soft and fine material the rug is woven from gives it a fluffy hand feel. Touch it, and you might even thinking that you're petting a kitty...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 364227,
+    "Name": "Steadfast as Iron",
+    "Description": "A wall-mounted decoration composed of crossed swords and a shield that is often seen in Lightkeeper camps. It symbolizes the Ratniki's determination to repel the enemy and safeguard their families.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 364228,
+    "Name": "Banner of the Lightkeepers",
+    "Description": "A banner emblazoned with the Lightkeepers' lighthouse icon that is often seen in Lightkeeper camps. It symbolizes the Ratniki's unwavering will to stand guard at the lighthouse throughout the night, without ever faltering.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 364229,
+    "Name": "Tavern Wall Lamp: Hovering Hallway Light",
+    "Description": "A bright wall-mounted lamp that is all around The Flagship. It is typically hung along the hallways for illumination. Suspended by pure white cords, it can give the impression from a distance that it is hovering in the hallway. Such design makes the lamp susceptible to surrounding vibrations, which can cause it to sway slightly. Experienced bartenders can even keep an eye out for trouble brewing at the tavern simply by observing the flickering of the lamp's light.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371022,
+    "Name": "Base Auxiliary Building: Multipurpose Greenhouse",
+    "Description": "An auxiliary building on the Kerplunk-a-tron Windmill Base built with thick walls and special exhaust pipes. It is connected to an external boiler that keeps the indoor temperature stable. A building of this type is perfect for use as a temporary guestroom, a bathroom maintained at a constant temperature, or a special heated workshop alike.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371023,
+    "Name": "Base Auxiliary Building: Secret Space",
+    "Description": "An auxiliary building on the Kerplunk-a-tron Windmill Base shaped like a giant fish with its mouth wide open. Its thick roof and walls together create a reliable barrier that provides excellent sound- and light-proofing effects for the interior. A design like this one is particularly suitable for use as a lab requiring light- and soundproofing or as a vault for the safekeeping of valuable items.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371024,
+    "Name": "Base Auxiliary Building: Water Tower",
+    "Description": "An auxiliary building on the Kerplunk-a-tron Windmill Base characterized by its commanding height and large capacity. It can be used for the storage and dispensing of liquids, and can sometimes also serve as a watchtower. Its towering height allows it to naturally pressurize the base's water supply without the need for external power. During the hot season, it can also spray water mist to keep the base cool and comfortable.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371025,
+    "Name": "Base Windwheel: Auxiliary Power",
+    "Description": "Inside the windwheel at the Kerplunk-a-tron Windmill Base are auxiliary turbines which ensure its smooth operation in all weather conditions. Even during strong winds, the windwheel can operate smoothly, bringing a sense of serenity to the yards. And when the air is sweltering and still, the swift rotation stirs up a refreshing breath of gentle air.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371026,
+    "Name": "Base Gate: Access Logic",
+    "Description": "This gate, which is in use at the Kerplunk-a-tron Windmill Base, features a special circular metal door frame adorned with eye-catching illuminated signs.\nThe advantage of the circular door frame design lies in the equal distance from any point on the frame to the center, which makes it easier to transport irregularly shaped parts. The base has also installed illuminated signs here, making the gate easy to spot at night and ensuring convenient access for both personnel and materials alike.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371027,
+    "Name": "Base Platform: Solid Foundation",
+    "Description": "This metal platform at the Kerplunk-a-tron Windmill Base uses a classic structural design found in some building foundations in Nod-Krai, and its plain appearance belies its impressive load-bearing capacity. A platform like this can not only support objects of varying weights under standard conditions but also serve as a solid foundation for the operation of large engineering machinery on soft ground. It is no exaggeration to say that the present bustle and prosperity of the Kerplunk-a-tron Windmill Base is built upon this solid foundation.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371028,
+    "Name": "Base Wall: Line of Obstruction",
+    "Description": "A low wall surrounding the Kerplunk-a-tron Windmill Base, crafted from sturdy metal panels. Its design was inspired by Nod-Krai's hard-fought battles against the Wild Hunt. Striking a balance between performance, cost-effectiveness, and ease of installation, this wall provides reliable and ample cover for shooters.\nToday, at the Kerplunk-a-tron Windmill Base, this type of low wall has been repurposed as a divider, creating distinct areas while preserving a clear line of sight throughout the base.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 371029,
+    "Name": "Base Pillar: Universal Beacon",
+    "Description": "A metal pillar from the Kerplunk-a-tron Windmill Base. Its sturdy, upright form adds a sense of strength and technological vibe when used as a standalone feature. At the same time, it is highly practical, featuring a flag-hoisting mechanism on the side and a top section compatible with various equipment — hence its name, the \"Universal Beacon.\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 373940,
+    "Name": "Gentle Embrace",
+    "Description": "A silvery-white stone statue often seen around Hiisi Island in Nod-Krai. This statue evokes a warm, fuzzy feeling, as if it's about to embrace anyone who approaches.\n\"O lost child, in the name of the descendants of the Far North, I pray for the blessing of light. May the Frost Moon's grace still the wild winds of the cold night and bring warmth to the young birds huddled on the frozen earth.\"\nPerhaps it was the craftsman's wish to ward off disease and spare all from suffering that inspired this comforting symbolism.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 374129,
+    "Name": "Town Railing: Convenient Bench",
+    "Description": "A low stone railing often seen in the towns. It has a flat and sturdy design, coupled with a rather wide handrail that can even be temporarily used as a bench. But be warned: Do not try to walk on the handrail, for that would be too dangerous...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 374130,
+    "Name": "Town Railing: Blue, Blue Waves",
+    "Description": "A low wooden railing often seen in the towns. Its unique design resembles the undulating waves of the blue ocean.\nWhile this railing does little to obstruct movement, its distinctive and attractive appearance makes it a popular choice for partitioning different areas.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained by completing \"Anecdote Chronicles\""
+    ],
+    "Id": 374822,
+    "Name": "Wibbly Wobbly Fishie Pot",
+    "Description": "A mechanical fish made by Aino that comes with an instruction manual written by hand. The writing is a bit wobbly, but the following reminders are still legible:\n1. It doesn't need watering!\n2. Do not feed it krumkake!\n3. Treat it well!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Battle Pass: Gnostic Chorus"
+    ],
+    "Id": 374823,
+    "Name": "Jumbo Sparks 'n' Splash Statue",
+    "Description": "A statue modeled after a certain famous \"Spark Knight\" of Mondstadt. It seems to capture her imposing figure as she is standing amidst bursting flames, reducing all things to ash.\nWho is the strongest in Mondstadt? Some would say it's the renowned Jean, while others would suggest Grand Master Varka, who is currently away on an expedition. However, in the hearts of some, the strongest of them all is that mysterious girl in red who wields the most powerful \"treasure\"...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372521,
+    "Name": "Moonlight Swaying",
+    "Description": "A silvery-white plant often seen around Silvermoon Hall.\nThis plant has a slender curved stem and moon-shaped branches. It always sways oh-so-gently in the night breeze, like moonlight shimmering in the wind.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372522,
+    "Name": "Shimmer-o-Sway",
+    "Description": "A cluster of plants that give off a faint glow. These plants are incredibly tough and resilient and can grow freely and vigorously even with little light or water.\n\"What sways and what shines so bright?\"\nThe children have come up with a simple riddle, waiting for the day when they meet a stranger from afar with whom they can enjoy a nice little quiz.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372523,
+    "Name": "Fluffy Fuzzball",
+    "Description": "A purple low shrub that is fluffy like a pom-pom. Its aesthetic qualities and hardiness make it an excellent ornamental plant.\nThis plant has branches that are easy to trim. Hence, in the hands of a skillful gardener, it can appear in a variety of forms: a lively puppy, an adorable kitten, or a bouncy little bird...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372524,
+    "Name": "Bounty Hunter",
+    "Description": "A green low shrub that is fluffy like a pom-pom. Its ability to adapt to various environments allows it to survive in even the harshest conditions.\nIt is said that among these plants, there is a one in 100,000 chance that the color of their branches and leaves will change over time influenced by their environment, much like a bounty hunter who adapts their survival methods to the shifting situation.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372359,
+    "Name": "Windward Purple Tree",
+    "Description": "A tree often found in the wilds of Nod-Krai. It has a slender curved trunk with a rather sparse canopy.\nThis species of trees adapts to their environment by growing in the direction of the wind, which allows them to stand firm even in the strongest gales without breaking.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372360,
+    "Name": "Whispers of the Verdant Grove",
+    "Description": "A tree often found near Silvermoon Hall. It has a unique appearance that makes it easily distinguishable from other trees.\n\"When the wind begins to stir, anoint the Verdant Crest with the blessed mixture from the silver cup to honor the divinity.\"\nWhile whether the whispered wishes of the people can be heard remains unknown, the Verdant Crest, nourished by kuuvahki, is already flourishing with abundant life force...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372361,
+    "Name": "Moonlight Citrine Tree",
+    "Description": "A tree often seen around Hiisi Island in Nod-Krai. It is characterized by its slender curved trunk and golden crown.\nIt is said that the Frostmoon Scions are especially fond of this tree as the hue of its leaves resemble the golden glow of moonlight. Thus, as an expression of their devotion to the divine, they have planted these trees along both sides of the path leading to the Light-Bathed Platform.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372362,
+    "Name": "Twigsprout Tree",
+    "Description": "A tree often found in the wilds of Nod-Krai. It has a relatively thick trunk and fresh green canopy.\nIt is said that this tree and its close relatives are exceptionally hardy, with strong root systems that quickly grow deep into the soil to absorb nutrients. Its name comes from the fact that even the smallest twig from this tree planted in the ground can sprout and survive within a short period of time.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372236,
+    "Name": "Crescent Moon Wave",
+    "Description": "A type of rock often seen at Silvermoon Hall. It has a unique appearance that resembles tidal waves.\n\"The Eternal Moon's orbit guides the rise and fall of the tides.\" One cannot help but wonder what thoughts of the Moon Maiden have been carved into these tidal rocks shaped by gravity...?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372237,
+    "Name": "Treasure Guardians",
+    "Description": "A mountain rock often seen in the wilds of Nod-Krai. The rocks are so heavy that even a strong man with a sharp tool would struggle to move them. As a result, they are often considered troublesome obstacles during home construction or road-paving. Yet for those small creatures skilled at digging, these rocks, immovable even to larger creatures, are undoubtedly the best \"Treasure Guardians.\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Purchased from Realm Depot: Furnishings"
+    ],
+    "Id": 372238,
+    "Name": "Knuckle-rock",
+    "Description": "A mountain rock with a solid and smooth exterior that is commonly found in the wilds of Nod-Krai. Due to its small size, it often lays hidden beneath dense vegetation. Therefore, experienced adventurers often warn newcomers: \"Watch your step! Tripping over one of these hurts more than being rammed by a Blunthorn Rhino.\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363387,
+    "Name": "Stronghold Gate: Reliable Pal",
+    "Description": "A striking metal gate that combines an impressive appearance with reliable strength capable of withstanding repeated monster attacks.\nAccording to Blue Bolt, the gate's majestic appearance was inspired by \"Sproutie,\" the weasel companion of its designer — a genius inventor. The two raised \"thumbs\" and \"expression\" brimming with confidence seem to be saying, \"Don't worry, you can leave everything to me!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363388,
+    "Name": "Iron Wolf",
+    "Description": "A special drink bold and unrestrained in spirit. This is a masterpiece that was crafted for Varka with \"Thorny Lake\" serving as the creative inspiration when The Honorary Knight's Cocktail Shack was in operation.\nHaving tasted countless fine drinks, the Grand Master invites you to go all out and let your creativity run free. So you launch an unconventional kind of \"offensive\" just for him.\nThe first impact comes from mint's cool freshness and herbal notes, striking the palate on entry. Carefully preserved layers then move in to mask the raw strength of the Fire-Water at the core, delivering the decisive blow. Finally, Smetana brings up the rear, anchoring the finish with precision and leaving no loose ends.\nIn honor of the Grand Master and Mondstadt, you named this drink \"Iron Wolf.\" The extraordinary, richly layered flavors of the drink were such a delight to the Grand Master, he then proceeded to guzzle it with unrestrained enjoyment.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363389,
+    "Name": "Dodoco's Duet",
+    "Description": "A special drink brimming with the sweet and tangy flavors of passion. This is a masterpiece that was crafted for Klee with \"Fairweather Frolic\" serving as the creative inspiration when The Honorary Knight's Cocktail Shack was in operation.\nThe original \"Fairweather Frolic\" had a purple hue, but it wasn't quite cheerful enough. So let's add a touch of sunshine and a few fluffy clouds to capture that warm, happy feeling!\nSweetness is a must, but staying healthy matters too. That's why the juice was carefully chosen with Master Jean's approval, with sweetness coming from Bulle Fruits.\nAnd most important of all — the Dodoco Candy! Its tasty magic has to be placed right at the center of the \"clouds\"!\nSaid Klee: \"Good weather, good mood, Dodoco will sing, and Klee will join in!\" This is why this drink was named \"Dodoco's Duet.\"",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363390,
+    "Name": "Seafoam Swordsong",
+    "Description": "A special drink that balances icy-cool freshness with the satisfying kick of a proper tipple. This is a masterpiece that was crafted for Eula with \"Twinkling Starlight\" serving as the creative inspiration when The Honorary Knight's Cocktail Shack was in operation.\nHer swordsmanship, like the dance of a claymore, strikes with the force of an avalanche yet finishes cleanly and elegantly, and her preference in drinks is just as bold.\nTo match her style, the drink brings together ice-pure Fire-Water, commemorative Romaritime Flower fruit juice, and cocoa to restore energy and banish fatigue, creating a true dance of flavors in the cup.\nAs this is a drink that was specially crafted in honor of the Spindrift Knight's swordsmanship, you decided to name it \"Seafoam Swordsong.\" Eula's approval of the name is clear from the three glasses of the drink she then imbibed after...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363391,
+    "Name": "Slumbering Rose",
+    "Description": "A special drink with a laid-back vibe. This is a masterpiece that was crafted for Lisa with \"Snow-Kissed Dawn\" serving as the creative inspiration when The Honorary Knight's Cocktail Shack was in operation.\nAfter a long day, the librarian needs to recharge without risking sleeplessness. In making this drink, you skipped any stimulating ingredients and found a delicate balance between the sweetness of caramel and a gentle tang.\nAs the goal was \"peaceful, restful sleep,\" you proposed the name \"Slumbering Rose\" for this drink, a proposal that met with Lisa's enthusiastic approval.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363392,
+    "Name": "Leisuretime Lightning",
+    "Description": "A special drink that offers a sense of ease and relaxation while maintaining a polished character. This is a masterpiece that was crafted for Clorinde with \"Caramel Blaze\" serving as the creative inspiration when The Honorary Knight's Cocktail Shack was in operation.\nAfter visiting Mondstadt with impressions shaped by the Tabletop Troupe, the lightning-swift Champion Duelist is especially sensitive to metallic notes, showing a clear preference for flavors with a hint of salt. In her everyday choices, she also favors drinks with a gentle tartness to cut through richness. For most bartenders, balancing these two demands would require extreme care. But after honing your craft at the Angel's Share and The Flagship, you can precisely control every note in the cup.\nTo help Clorinde get into a relaxed mood on her tour of Mondstadt, you named this drink \"Leisuretime Lightning,\" and it has since become one of her defining memories of the city.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtained from Limited-Time Event"
+    ],
+    "Id": 363393,
+    "Name": "Windborne Bouquet",
+    "Description": "A special drink that exudes a quiet elegance with its exquisite aroma. This is a masterpiece that was crafted for Emilie with \"Lumidouce Twilight\" serving as the creative inspiration when The Honorary Knight's Cocktail Shack was in operation.\nThe perfumer from Fontaine told you that excessive sweetness makes people drowsy, and she prefers to enjoy just a light touch of tipsiness. Clearly, knocking a guest out at the bar isn't a bartender's main goal...\nOn days of gentle wind and clear skies, heightened senses can amplify the flavor of a perfectly harmonious drink.\nInspired by the art of fragrance, you developed this subtle, elegant masterpiece, and Emilie decided to name it \"Windborne Bouquet\" like the perfumer she is...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 360107,
+    "Name": "Base's Cooling Secret",
+    "Description": "A standard interior wall from the Kerplunk-a-tron Windmill Base that is made from recycled metal materials commonly used in Nod-Krai. It has a cold, hard luster and excellent heat conductivity. It is said that this type of wall allows buildings to remain comfortably cool even under the scorching sun.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 360307,
+    "Name": "Base Paneled Ceiling",
+    "Description": "This standard ceiling at the Kerplunk-a-tron Windmill Base is made out of uniform cut metal plates. It is easy to install and clean, and offers excellent functionality and safety. As it is reputedly made from the same material as the outer shell of kuuvahki mechanisms, it is strong and relatively light, which obviates various safety risks.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 360207,
+    "Name": "Base Alloy Flooring",
+    "Description": "Standard floor tiles used at the Kerplunk-a-tron Windmill Base. They are made up of metal plates of various shapes fitted together to create a visually appealing floor with a sense of depth. Use these tiles to create a mottled, staggered design for a unique and lively interior look. Although this innovative design does increase the difficulty and cost of installation and maintenance, it is a drawback that is effectively offset by the use of recycled metal materials.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Learned from Realm Depot Furnishing Blueprint"
+    ],
+    "Id": 360507,
+    "Name": "Base's Soft Tranquility",
+    "Description": "A standard chandelier at the Kerplunk-a-tron Windmill Base that consists of a metal suspension fixture fitted with multiple lamps. Its overall style is simple and sturdy. When night falls and the lights come on, the soft glow of these lamps transforms the interior into a warm, tranquil haven, easing away all of one's fatigue and worries.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "Base Vault Door",
+    "Description": "A standard door from the Kerplunk-a-tron Windmill Base, crafted by welding together multiple layers of metal. Its vault-door-inspired design combines aesthetic appeal with a practical anti-destruction function. Such a door can effectively resist damage from tools such as drills, prying bars, and hammers, reflecting its original purpose of guarding against all unwelcome intrusions. Of course, this may seem somewhat excessive for a place like The Realm Within, where the greatest threat is likely the occasional small animal using it as a scratching post.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "Clear Echoes on the Base",
+    "Description": "A standard L-shaped metal staircase from the Kerplunk-a-tron Windmill Base, known for its strength, durability, and relative light weight. Every step on these metal stairs rings sharply, the sound bouncing off the walls and beams of the building to form a rhythmic beat.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "Kerplunk-a-tron Windmill Base",
+    "Description": "A mega integrated facility created by the Sphere of Fleeting Shadow inside the Serenitea Pot, based on the natural scenery of Nod-Krai. Built with a proven metal frame structure and a comprehensive transport network, it radiates a bold, untamed energy that perfectly reflects the design philosophy of the Clink-Clank Krumkake Craftshop. Unlike the Clink-Clank Krumkake Craftshop, however, the base uses far less lighting as zero production takes place here. Still, the windwheels atop the roofs evoke the craftshop's bustling energy, and watching them can fill one with a surge of excitement.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

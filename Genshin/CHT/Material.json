@@ -1937,6 +1937,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "法爾伽的命星",
+    "Description": "法爾伽的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3166,6 +3177,17 @@
     "Description": "葉洛亞的命之座啟用素材",
     "TypeDescription": "命之座啟用",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "法爾伽的命星",
+    "Description": "法爾伽的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -31765,6 +31787,54 @@
     "Icon": "UI_ItemIcon_108867"
   },
   {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "立即為選取的角色恢復生命值上限的18%，並在之後的30秒內，每5秒恢復300點生命值。",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "奇怪的淬金冷玉",
+    "Description": "璃月的雞肉菜餚。皮黃肉白，看起來似乎不錯。吃下一口，悔意立刻湧上心頭，因為牙縫立刻被乾柴的雞肉爭先恐後地填滿了…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "立即為選取的角色恢復生命值上限的20%，並在之後的30秒內，每5秒恢復390點生命值。",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "淬金冷玉",
+    "Description": "璃月的雞肉菜餚。烹煮時並不會加入複雜的香料調味，力求最大程度凸顯新鮮食材的原汁原味。成品皮滑、肉嫩、味鮮，佐以蘸料，風味尤佳。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "立即為選取的角色恢復生命值上限的22%，並在之後的30秒內，每5秒恢復470點生命值。",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "美味的淬金冷玉",
+    "Description": "璃月的雞肉菜餚。雞皮爽脆中帶有韌性，肉凍釋放出豐腴的油脂香氣，肉塊緊實又兼具鹹鮮，就連雞骨都透出一絲鮮甜…諸味交織，征服了每一寸味蕾。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "恢復80點體力。",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "「酣暢」",
+    "Description": "法爾伽的特色料理。大塊的煙燻雞腿與大杯的蘋果釀，配上粗獷豪邁的擺盤，無一不彰顯著他的人生信條——無論是戰鬥，還是用餐，都要酣暢淋漓。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108870"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34654,6 +34724,17 @@
     "ItemType": 2,
     "Name": "食譜：蘑幻之菇",
     "Description": "步驟詳實的食譜，記載著「蘑幻之菇」的製作方法。",
+    "TypeDescription": "食譜",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "食譜：淬金冷玉",
+    "Description": "步驟詳實的食譜，記載著「淬金冷玉」的製作方法。",
     "TypeDescription": "食譜",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37620,6 +37701,17 @@
     "Description": "擊敗自異界侵入此世的魘語之主，從其留下的殘穢中取得的深黯骨骸。\n翱翔於漆黑星海間的無形之獸，本不應需要被這個世界稱作「羽翼」的器官。那怪誕而褻瀆的翅膀，或許是為了適應月下的法則而生；又或許它不過是凡夫眼中所見的，其真身擲下的扭曲一角罷了。",
     "TypeDescription": "角色培養素材",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "稜光的斷尾",
+    "Description": "擊敗蘊光月守宮之後，其試圖逃脫時遺留下的晶化尾椎。\n以常理而言，演化至如此強大的蜥類本不應再受到天敵的威脅，然而牠卻依舊保留了斷尾求生的本能。或許是因為在月光遍照大地的時代，此地曾存在著更加可怕的掠食者吧。",
+    "TypeDescription": "角色培養素材",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50538,6 +50630,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "權限徽記",
+    "Description": "由複數「愚人眾」分別保管的重要徽記，只有集齊三枚徽記才能啟動通向深處房間的裝置——至於為什麼一定要三枚？魔女的解釋是「參與感」。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "深度汙染的淚滴結晶",
+    "Description": "來自徹底被深淵汙染的特瓦林。從淚滴的狀態能判斷故事中的特瓦林已無被治癒的可能。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50657,6 +50771,17 @@
     "Description": "裝有特製糖雕的匣子。裡面裝著的糖雕似乎是針對某人訂製的。無論如何，為了避免糖雕融化，還請盡快食用。",
     "TypeDescription": "消耗品",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "萬能談判道具",
+    "Description": "沉甸甸的袋子，裡面裝滿了能夠打動「視財如命」之人的籌碼，好像叫「誠意」吧？",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50847,6 +50972,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "活動邀請函",
+    "Description": "由西風騎士團代理團長琴寄出的邀請函，內容簡短，並未提及活動的實際內容。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "輕飄飄的摩拉",
+    "Description": "在星落湖尋獲的摩拉，雖然看起來和普通的摩拉完全一致，但重量只有正常摩拉的十分之一，導致獲得財富的喜悅也變成了十分之一。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "極富彈性的魚肉",
+    "Description": "在星落湖尋獲的魚肉，雖然看起來和普通的魚肉完全一致，但具有非常好的彈性，無論怎麼用力揉捏，放開之後都會迅速恢復原狀。與其說是食材，不如說是某種舒壓玩具…還是不要試圖烹飪為好。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「嘟嘟可魔法糖果」",
+    "Description": "協助經營騎士團的調飲小站期間，可莉贈送的紀念品。\n「把材料放在煉金臺上，許願一個形狀，跟著媽媽念咒語，『砰~』的一聲，嘟嘟可樣子的糖果就出現了！」\n不愧是艾莉絲女士的作品，即便使用了提瓦特常見的材料，也蘊含著奇妙的複合甜味，淺嚐一顆時，腦袋裡似乎真的響起了甜美魔法咒語的迴響…\n可惜數量有限，還是留下一顆當作紀念吧！",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50877,6 +51046,61 @@
     "Description": "載有歷代執燈長事蹟的詩集。大部分內容都在先前的災厄中佚失，如今能收集的殘篇只有原本的一小部分。",
     "TypeDescription": "任務道具",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "由風捎來的信",
+    "Description": "不知何時出現在背包裡的信，或許是風吹來的吧。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "法爾伽的請客券",
+    "Description": "法爾伽手繪的請客券，可以在「獵鹿人」餐館兌換一頓豐盛豪邁的肉食大餐。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "法爾伽的請客券",
+    "Description": "法爾伽手繪的請客券，可以在「獵鹿人」餐館兌換一頓豐盛豪邁的肉食大餐。背面角落裡蓋了「已使用」的小章。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "法爾伽的私房錢",
+    "Description": "法爾伽用來買酒的私房錢，堂而皇之地藏在辦公桌的抽屜之內。\n「最危險的地方，就是最安全的地方！」——話是這麼說，藏於這裡的初衷，大概還是覺得那位代理團長就算發現了也不會拿去花，更不會讓其他人發現吧。\n原計劃用於購買獻予神明的蒲公英酒，但既然現在計畫有變，或許可以拿來犒勞救出了法爾伽的榮譽騎士，又或者是由這位騎士拿去犒勞救出他的每一位朋友。",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "法爾伽的私房錢",
+    "Description": "法爾伽用來買酒的私房錢，堂而皇之地藏在辦公桌的抽屜之內。\n「最危險的地方，就是最安全的地方！」——話是這麼說，藏於這裡的初衷，大概還是覺得那位代理團長就算發現了也不會拿去花，更不會讓其他人發現吧。\n原計劃用於購買獻予神明的蒲公英酒，現在已被用於犒勞救出了法爾伽的榮譽騎士，又或者可以由這位騎士拿去犒勞救出他的每一位朋友。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -51446,7 +51670,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "鬥棘魚",
-    "Description": "長滿刺狀鰭的迅猛魚類，全速游動時矛般尖吻甚至能劈開水流。因此又得名「劈水刺」、「箭難追」等。\n有著棘魚中數一數二的自尊心。尤其在求偶期間，任何一點風吹水皺能有可能激怒牠們。曾有愛好者觀察到一條鬥棘魚正向著搖曳的水草發起衝鋒，顯然牠認為如此放蕩形骸的舞姿是對棘魚王者的嚴重挑釁。\n「若在水下相遇，請勿與牠們對視。」——《野釣手冊·鬥棘魚篇》",
+    "Description": "長滿刺狀鰭的迅猛魚類，全速游動時矛般尖吻甚至能劈開水流。因此又得名「劈水刺」、「箭難追」等。\n有著棘魚中數一數二的自尊心。尤其在求偶期間，任何一點風吹水皺都有可能激怒牠們。曾有愛好者觀察到一條鬥棘魚正向著搖曳的水草發起衝鋒，顯然牠認為如此放蕩形骸的舞姿是對棘魚王者的嚴重挑釁。\n「若在水下相遇，請勿與牠們對視。」——《野釣手冊·鬥棘魚篇》",
     "TypeDescription": "魚",
     "Icon": "UI_ItemIcon_131007"
   },
@@ -56555,6 +56779,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "尋跡留影機",
+    "Description": "派蒙隨身攜帶的記錄用留影機，這次就用來記錄那些值得注意的不同之處吧。",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "諧律鍵琴",
+    "Description": "使用後可以演奏的精妙樂器。\n在舊日文明的智辯家眼中，塵世奏響的音律不過是對普世樂章的粗糙描摹。然而，不朽者之王卻從樂者的演奏中捕獲了異調的樂想。在他的指示下，調律師將永恆的樂聲固定在每一個琴鍵上，任何人都能彈奏它來加入到最宏大的合奏中。",
+    "TypeDescription": "小道具",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -57257,6 +57503,17 @@
     "Description": "繪有獨特風光，隱含著獨特力量的納塔織卷，是周遊壺靈阿嘟從納塔帶回的紀念品。\n注視繪卷上的圖案，腦海中似乎就有某種意象浮現而出。藉由「外景之能」，方可將繪卷上的納塔景致呈現在「塵歌壺」之中…",
     "TypeDescription": "消耗品",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「掠影之球機」",
+    "Description": "具有播放音樂與製造炫麗光效功能的挪德卡萊月矩力機關球，是周遊壺靈阿嘟從挪德卡萊帶回的紀念品。\n注視機關球上放出的光影，腦海中似乎就有某種意象浮現而出。藉由「外景之能」，方可在壺中洞天構築奇妙的挪德卡萊景致…",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58542,6 +58799,127 @@
     "ItemType": 2,
     "Name": "夥伴與家園",
     "Description": "乾淨整潔的房舍，置有久經納塔人驗證的龍用陳設，無論是作為龍的小窩還是其他大型動物的居所，都十分適合。\n在納塔，龍是戰士們的夥伴與家人，與戰士們同甘共苦，共同成長。有牠們相伴時，心頭的陰霾總會被一掃而空。\n偏好這套擺設的同伴：伊法",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "各方來客的舒心居室",
+    "Description": "陳設齊全的臥室，借鑑了那夏鎮最大酒館「旗艦」的客房設計，並針對居住者的需求做出改良。\n「旗艦」酒館的客人背景複雜多樣，對舒適的定義也各不相同。要在各方期待之間找到平衡並非易事，最終「旗艦」選擇了一種獨特的解決方案：將客人可能需要的一切陳設配置到客房之中，再根據客人的看法減去不必要的物品。儘管房間佈置因堆滿東西而稍顯擁擠，但勝在功能齊備，每一位客人都能從中找到屬於自己的舒適。",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "月下的安眠",
+    "Description": "樸素大方的臥室，擺放著霜月之子遴選過的家具，整體氣氛素雅且溫馨。據傳，悠靜的自然環境能夠幫助人們更加放鬆身心，而這間臥室恰似這句話的完美體現——枕著昏黃月光般溫柔的燈影，空氣中瀰漫著果香的清新氣息，住在此間的人似乎能感覺到疲憊和痛楚被緩緩撫平，夜晚的安詳與平靜悄然喚來睡意…",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "秘聞的有序經緯",
+    "Description": "特色鮮明的工作間，設計深度參考了「秘聞館」，忠實還原老闆工作時的場景，一切都井井有條。\n情報分析是一項繁瑣且富有挑戰性的事務，千頭萬緒的狀況往往讓人無從下手。而置身於這樣陳設擺放得當，且輔助工具齊全的房間中，人們的思維或許會更加清晰，工作的效率也會相應提升…",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "最棒最溫暖的家",
+    "Description": "挪德卡萊風格的臥室，整體設計給人溫馨舒適的觀感，是忙碌一天後卸除疲憊的理想場所。臥室內所有用具均來自「叮鈴哐啷蛋捲工坊」，由「家長」本人仔細挑選，是全世界最棒最溫暖最好用的家具。然而，這份舒適也帶來了一個小麻煩——使用者常因過於放鬆睡過頭，甚至錯過重要事項。或許，需要強勁而貼心的喚醒手段，來確保使用者按時起床。",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "戰前的小憩",
+    "Description": "功能齊全的集體休息室，參考了皮達米拉城的房間設計，還原執燈士戰前小憩的場景。經驗豐富的執燈士深知與狂獵的戰爭漫長且艱難，必須在條件允許時盡可能休息，以保持最佳戰鬥狀態。此外，佈置得當的休息室，還能讓執燈士們在戰前增進彼此的熟悉度——在戰場上，與熟悉的同伴並肩作戰比陌生人更能帶來信賴與默契，也因此，休息室的建設歷來受到執燈長們的重視。",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "終北之地的原野",
+    "Description": "雲集了挪德卡萊地區常見植被與地貌的原野，較為真實地還原了希汐島野外的獨特風光。\n挪德卡萊地區有著豐沛的月矩力，催生了色彩鮮豔的植物、習性奇特的動物，以及形態獨特的地貌。對於博物學家而言，這片區域蘊藏著無數名為新知的寶藏。而對於普通遊客而言，這樣的奇妙景致也令人不禁駐足欣賞。",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "繁忙的邊地小鎮",
+    "Description": "以多種特色建築為核心的區域景觀，設立了功能各異的店鋪，完美還原那夏鎮一角的風貌。\n據傳，那夏鎮有別於其他城市，沒有真正的管理者，也缺乏明確的規劃結構，使得鎮上的建築之間充滿了無數狹窄的通道與隱秘縫隙。對普通居民而言，這些通道只不過是噪音傳播的工具，然而對於善於捕捉資訊的有心者而言，這些通道卻是秘聞傳播的路徑之一，還有靈巧穿行的捷徑…",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "月下的恬靜禱歌",
+    "Description": "以霜月之坊的景色為藍本所佈置的露天風貌，依照「霜月之子」的規則陳列了各式器具，並根據器具種植了相稱的植被。踏入其中，便可感受到霜月之子特有的安寧與祥和生活氛圍——悠揚溫柔的禱歌似乎悄然從腦內響起，所有煩惱與苦痛隨風而去，只餘一片靜謐悠然的心境。",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "漫漫長夜中的孤燈",
+    "Description": "築有厚重房屋的聚落，設計與建築樣式以執燈人慣用的野外防禦據點為參考。這樣的設計能夠抵禦風雨侵襲，即使面對洶湧而至的狂獵，也具備不俗的防禦能力。正如執燈人所立的誓言：「我們是執燈人，無盡雪原中執燈守護永燃的希望。」\n在皮拉米達城外的廣闊原野上，這樣的據點宛如火炬，傳遞著希望的光芒。",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "方興未艾的工坊",
+    "Description": "參考「叮鈴哐啷蛋捲工坊」建造的小型聚落，配備了舒適便利的半球形鐵屋，以及鐵船造型的建築，足以滿足工坊主人們的基本需求。\n世上的偉大工坊們無不是由一個個基本建築單元起步，有了這些作為基石的建築，再輔以得當的規劃、充足的材料，將整個「壺中洞天」改造成一座巨大的工坊，也並非沒有可能…",
+    "TypeDescription": "擺設套裝圖紙",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "新月的謐景",
+    "Description": "以「銀月之庭」為靈感設計的庭院，整體風格寧靜而安詳，彷彿遙不可及的夢幻之境。\n月光總能溫柔地引導眾生，或許，曾有月神的信徒認真思考——怎樣的景致，才能將新月引入獨屬於她的安恬夢鄉？\n唯有真正造訪「銀月之庭」，靜心欣賞那裡的一花一草，才能知曉答案…",
     "TypeDescription": "擺設套裝圖紙",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -72259,6 +72637,413 @@
     "ItemType": 2,
     "Name": "明彩霄燈-「與友相約」",
     "Description": "步驟詳實的圖紙，記載著「明彩霄燈-『與友相約』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「圓圓餅乾」",
+    "Description": "步驟詳實的圖紙，記載著「『圓圓餅乾』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「叮鈴哐啷收納屋」",
+    "Description": "步驟詳實的圖紙，記載著「『叮鈴哐啷收納屋』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "霜月圓桌-「柔軟天藍」",
+    "Description": "步驟詳實的圖紙，記載著「霜月圓桌-『柔軟天藍』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「某人的手札」",
+    "Description": "步驟詳實的圖紙，記載著「『某人的手札』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "霜月小桌-「果香四溢」",
+    "Description": "步驟詳實的圖紙，記載著「霜月小桌-『果香四溢』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「連枝蔚藍」",
+    "Description": "步驟詳實的圖紙，記載著「『連枝蔚藍』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "夏櫟木「枕月」靠背椅",
+    "Description": "步驟詳實的圖紙，記載著「夏櫟木『枕月』靠背椅」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「凜角微光」",
+    "Description": "步驟詳實的圖紙，記載著「『凜角微光』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「扭扭蘑菇」",
+    "Description": "步驟詳實的圖紙，記載著「『扭扭蘑菇』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「最最好小窩」",
+    "Description": "步驟詳實的圖紙，記載著「『最最好小窩』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "霜月石床-「沁人涼意」",
+    "Description": "步驟詳實的圖紙，記載著「霜月石床-『沁人涼意』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "室內矮桌-「獨有價值」",
+    "Description": "步驟詳實的圖紙，記載著「室內矮桌-『獨有價值』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "室內書架-「閒暇品讀」",
+    "Description": "步驟詳實的圖紙，記載著「室內書架-『閒暇品讀』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "室內櫃檯-「正式拜訪」",
+    "Description": "步驟詳實的圖紙，記載著「室內櫃檯-『正式拜訪』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「高高塔樓」",
+    "Description": "步驟詳實的圖紙，記載著「『高高塔樓』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "旅館衣櫃-「加大容量」",
+    "Description": "步驟詳實的圖紙，記載著「旅館衣櫃-『加大容量』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "霜月地毯-「明澄一色」",
+    "Description": "步驟詳實的圖紙，記載著「霜月地毯-『明澄一色』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「絨絨小毯」",
+    "Description": "步驟詳實的圖紙，記載著「『絨絨小毯』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「如堅鐵般駐守」",
+    "Description": "步驟詳實的圖紙，記載著「『如堅鐵般駐守』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「執燈之幟」",
+    "Description": "步驟詳實的圖紙，記載著「『執燈之幟』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "酒館壁燈-「廊道懸光」",
+    "Description": "步驟詳實的圖紙，記載著「酒館壁燈-『廊道懸光』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地輔樓-「多用溫室」",
+    "Description": "步驟詳實的圖紙，記載著「基地輔樓-『多用溫室』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地輔樓-「秘密空間」",
+    "Description": "步驟詳實的圖紙，記載著「基地輔樓-『秘密空間』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地輔樓-「高聳水塔」",
+    "Description": "步驟詳實的圖紙，記載著「基地輔樓-『高聳水塔』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地風車-「輔助動力」",
+    "Description": "步驟詳實的圖紙，記載著「基地風車-『輔助動力』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地門庭-「輸運邏輯」",
+    "Description": "步驟詳實的圖紙，記載著「基地門庭-『輸運邏輯』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地平臺-「堅強地基」",
+    "Description": "步驟詳實的圖紙，記載著「基地平臺-『堅強地基』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地圍牆-「攔阻陣線」",
+    "Description": "步驟詳實的圖紙，記載著「基地圍牆-『攔阻陣線』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "基地立柱-「萬用信標」",
+    "Description": "步驟詳實的圖紙，記載著「基地立柱-『萬用信標』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「溫柔的懷抱」",
+    "Description": "步驟詳實的圖紙，記載著「『溫柔的懷抱』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "城鎮欄杆-「便捷座椅」",
+    "Description": "步驟詳實的圖紙，記載著「城鎮欄杆-『便捷座椅』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "城鎮欄杆-「藍藍波濤」",
+    "Description": "步驟詳實的圖紙，記載著「城鎮欄杆-『藍藍波濤』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「轟轟火花大神像」",
+    "Description": "步驟詳實的圖紙，記載著「『轟轟火花大神像』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「基地的清涼秘方」",
+    "Description": "步驟詳實的圖紙，記載著「『基地的清涼秘方』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「基地的堅實頂板」",
+    "Description": "步驟詳實的圖紙，記載著「『基地的堅實頂板』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「基地的合金地坪」",
+    "Description": "步驟詳實的圖紙，記載著「『基地的合金地坪』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「基地的沉靜漫射」",
+    "Description": "步驟詳實的圖紙，記載著「『基地的沉靜漫射』」的製作方法。\n使用後可進入製作介面查看。",
     "TypeDescription": "擺設圖紙",
     "Icon": "UI_ItemIcon_Home_Common"
   }

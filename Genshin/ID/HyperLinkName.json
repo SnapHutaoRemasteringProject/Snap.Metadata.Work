@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Windblessing: Electro</color>",
-    "Description": "DMG reaksi Swirl yang dipicu oleh Karakter +<color=#f39001>80%</color>, dan setiap kali mendapatkan <color=#f39001>Windblessing: Electro</color>, akan memulihkan <color=#f39001>1.5</color> poin Energy seluruh anggota party."
+    "Description": "DMG reaksi Swirl yang dipicu oleh Karakter +<color=#f39001>80%</color>, dan setiap kali mendapatkan <color=#f39001>Windblessing: Electro</color>, akan memulihkan <color=#f39001>2</color> poin Energy seluruh anggota party."
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Cryo Crystal's Boon</color>",
-    "Description": "Seluruh anggota party mendapatkan <color=#f39001>50%</color> Cryo dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
+    "Description": "Seluruh anggota party mendapatkan <color=#f39001>70%</color> Cryo dan Geo DMG Bonus. Selain itu, kamu akan mendapatkan shard dari reaksi Crystallize di sekitar setiap <color=#f39001>4</color> detik."
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>Yielding</color>",
-    "Description": "Cryo dan Electro RES musuh -<color=#f39001>3%</color>, Physical RES musuh -<color=#f39001>6%</color>, dapat ditumpuk sampai <color=#f39001>6</color> lapis."
+    "Description": "Cryo dan Electro RES musuh -<color=#f39001>5%</color>, Physical RES musuh -<color=#f39001>10%</color>, dapat ditumpuk sampai <color=#f39001>6</color> lapis."
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Windblessing: Cryo</color>",
-    "Description": "DMG reaksi Swirl yang dipicu oleh Karakter +<color=#f39001>80%</color>, CRIT DMG Karakter +<color=#f39001>12%</color>."
+    "Description": "DMG reaksi Swirl yang dipicu oleh Karakter +<color=#f39001>80%</color>, CRIT DMG Karakter +<color=#f39001>16%</color>."
   },
   {
     "Id": 211902,
@@ -407,7 +407,7 @@
   {
     "Id": 11250001,
     "Name": "Gravity Ripple",
-    "Description": "Setelah melancarkan Elemental Skill <color=#FFD780FF>Eternal Tides</color>, Columbina akan memanggil <color=#FFD780FF>Gravity Ripple</color>.\nGravity Ripple akan mengikuti Karakter aktif dan terus mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> terhadap musuh di sekitar.\n\nSelain itu, selama Gravitational Ripple aktif, jika ada Karakter party di sekitar yang memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar, maka Columbina akan mendapatkan efek New Moon's Omen selama 2 detik dan akan terus mengakumulasi nilai <color=#FFD780FF>Gravity</color> sebesar 20 poin setiap 2 detik.\nNilai maksimum Gravity adalah 60 poin dan akan dihapus saat durasi Gravity Ripple berakhir.\nKetika nilai Gravity mencapai maksimum, akan memicu <color=#FFD780FF>Gravity Interference</color> spesial yang akan menghasilkan efek berbeda berdasarkan reaksi Lunar yang paling banyak mengakumulasi nilai Gravity untuk Columbina. Jika reaksi Lunar yang paling banyak mengakumulasi Gravity untuk Columbina adalah:\n·<color=#FFD780FF>Lunar-Charged</color>: Gravity Interference akan mengakibatkan satu kali <color=#FFACFFFF>Electro DMG Area</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Charged.\n·<color=#FFD780FF>Lunar-Bloom</color>: Gravity Interference akan menembakkan 5 Moondew Sigil terhadap musuh di sekitar dan mengakibatkan <color=#99FF88FF>Dendro DMG</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Bloom.\n·<color=#FFD780FF>Lunar-Crystallize</color>: Gravity Interference akan mengakibatkan satu kali <color=#FFE699FF>Geo DMG Area</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Crystallize."
+    "Description": "Setelah melancarkan Elemental Skill <color=#FFD780FF>Eternal Tides</color>, Columbina akan memanggil <color=#FFD780FF>Gravity Ripple</color>.\nGravity Ripple akan mengikuti Karakter aktif dan terus mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> terhadap musuh di sekitar.\n\nSelain itu, selama Gravity Ripple aktif, jika ada Karakter party di sekitar yang memicu reaksi Lunar atau mengakibatkan DMG reaksi Lunar, maka Columbina akan mendapatkan efek New Moon's Omen selama 2 detik dan akan terus mengakumulasi nilai <color=#FFD780FF>Gravity</color> sebesar 20 poin setiap 2 detik.\nNilai maksimum Gravity adalah 60 poin dan akan dihapus saat durasi Gravity Ripple berakhir.\nKetika nilai Gravity mencapai maksimum, akan memicu <color=#FFD780FF>Gravity Interference</color> spesial yang akan menghasilkan efek berbeda berdasarkan reaksi Lunar yang paling banyak mengakumulasi nilai Gravity untuk Columbina. Jika reaksi Lunar yang paling banyak mengakumulasi Gravity untuk Columbina adalah:\n·<color=#FFD780FF>Lunar-Charged</color>: Gravity Interference akan mengakibatkan satu kali <color=#FFACFFFF>Electro DMG Area</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Charged.\n·<color=#FFD780FF>Lunar-Bloom</color>: Gravity Interference akan menembakkan 5 Moondew Sigil terhadap musuh di sekitar dan mengakibatkan <color=#99FF88FF>Dendro DMG</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Bloom.\n·<color=#FFD780FF>Lunar-Crystallize</color>: Gravity Interference akan mengakibatkan satu kali <color=#FFE699FF>Geo DMG Area</color>, DMG ini dianggap sebagai DMG reaksi Lunar-Crystallize."
   },
   {
     "Id": 11250002,
@@ -428,5 +428,15 @@
     "Id": 11260001,
     "Name": "Lunar Phase Shift",
     "Description": "Zibai akan berganti ke mode ini setelah melancarkan Elemental Skill <color=#FFD780FF>Heaven and Earth Made Manifest</color>. Mode ini berlangsung selama maksimum {PARAM#P1263201|4S1} detik dan memiliki karakteristik berikut:\n·Normal Attack dan Charged Attack akan dikonversi menjadi <color=#FFE699FF>Geo DMG</color> yang tidak bisa ditimpa Elemental Infusion lainnya.\n·Elemental Skill <color=#FFD780FF>Heaven and Earth Made Manifest</color> akan berubah menjadi Elemental Skill khusus <color=#FFD780FF>Spirit Steed's Stride</color>: Saat Zibai memiliki minimum 70 poin <color=#FFD780FF>Phase Shift Radiance</color>, dia dapat mengonsumsi 70 poin Phase Shift Radiance untuk melancarkan Spirit Steed's Stride yang mengakibatkan dua kali <color=#FFE699FF>Geo DMG</color>. DMG tahap keduanya dianggap sebagai DMG reaksi Lunar-Crystallize.\n\nBatas maksimum <color=#FFD780FF>Phase Shift Radiance</color> adalah 100 poin, dan Zibai dapat mengakumulasi Phase Shift Radiance melalui cara-cara berikut:\n·Saat berada dalam mode <color=#FFD780FF>Lunar Phase Shift</color>, Zibai akan mengakumulasi 10 poin Phase Shift Radiance setiap detiknya.\n·Zibai akan mendapatkan 5 poin Phase Shift Radiance saat Normal Attack-nya mengenai musuh. Ia bisa mendapatkan Phase Shift Radiance dari cara ini maksimum 1 kali setiap 0,5 detik.\n\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>\nSaat Karakter party di sekitar memicu reaksi Lunar-Crystallize, Zibai juga akan mendapatkan 35 poin <color=#FFD780FF>Phase Shift Radiance</color>. Zibai bisa mendapatkan Phase Shift Radiance dari cara ini maksimum 1 kali setiap 4 detik. Melancarkan Elemental Skill Khusus <color=#FFD780FF>Spirit Steed's Stride</color> akan mengulang durasi CD <color=#FFD780FF>Phase of Shift Radiance</color> yang terakumulasi.\n\nZibai akan keluar dari mode ini setelah melancarkan <color=#FFD780FF>Spirit Steed's Stride</color> 4 kali atau saat durasinya berakhir."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Sturm und Drang",
+    "Description": "Varka akan berganti ke mode ini setelah melancarkan Elemental Skill <color=#FFD780FF>Windbound Execution</color> dalam Mode Tekan.\nSaat berada dalam mode ini, DMG Normal Attack dan Charged Attack Varka akan meningkat, tetapi tidak bisa melancarkan Plunging Attack. Saat melancarkan Normal Attack dan Charged Attack, pedang claymore di kedua tangan Varka akan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai berdasarkan jenis elemen Karakter dalam party (Elemental DMG ini tidak bisa ditimpa Elemental Infusion lainnya):\n·DMG dari pedang claymore di tangan kirinya akan dikonversi menjadi <color=#80FFD7FF>Anemo DMG</color> yang tidak bisa ditimpa Elemental Infusion lainnya.\n·Jika ada Karakter <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> dalam party, maka pedang claymore di tangan kanannya akan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai berdasarkan urutan prioritas elemen yang disebutkan di atas.\n\nSelain itu, saat dalam mode ini, jika ada Karakter <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> dalam party, maka Elemental Skill Varka <color=#FFD780FF>Windbound Execution</color> akan dikonversi menjadi Elemental Skill Khusus <color=#FFD780FF>Four Winds' Ascension</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Four Winds' Ascension",
+    "Description": "Elemental Skill Khusus milik Varka. Mengakibatkan Elemental DMG Area yang tidak bisa ditimpa Elemental Infusion lainnya dan memiliki jenis elemen yang sesuai dengan pedang claymore di tangan kanan Varka, dan juga mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color>.\nAkan dimulai dengan cooldown dan memiliki jumlah penggunaan 2 kali.\nSaat Normal Attack Varka dalam mode <color=#FFD780FF>Sturm und Drang</color> mengenai musuh, maka CD <color=#FFD780FF>Four Winds' Ascension</color> akan berkurang 0,5 detik. Setiap kali berganti ke mode <color=#FFD780FF>Sturm und Drang</color>, efek ini dapat terpicu maksimum 15 kali.\nSelain itu, Varka dapat mengonsumsi jumlah penggunaan <color=#FFD780FF>Four Winds' Ascension</color> untuk melancarkan Charged Attack khusus yang tidak mengonsumsi Stamina, <color=#FFD780FF>Azure Devour</color>, untuk mengakibatkan 2 kali Elemental DMG (tidak bisa ditimpa Elemental Infusion lainnya) dengan jenis elemen yang sesuai dengan pedang claymore di tangan kanannya dan juga 2 kali <color=#80FFD7FF>Anemo DMG</color>."
   }
 ]

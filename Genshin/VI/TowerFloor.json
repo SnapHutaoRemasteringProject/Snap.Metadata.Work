@@ -1249,5 +1249,28 @@
     "SecondDescriptions": [
       "Tăng 75% sát thương Nguyệt-Kết Tinh."
     ]
+  },
+  {
+    "Id": 1124,
+    "Index": 11,
+    "LevelGroupId": 124,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tất cả thành viên trong đội nhận được 60% buff sát thương Nguyên Tố Phong.",
+      "Tất cả thành viên trong đội nhận 60% buff sát thương nguyên tố Băng."
+    ]
+  },
+  {
+    "Id": 1125,
+    "Index": 12,
+    "LevelGroupId": 125,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Tăng 75% Sát Thương Nguyên Tố Phong của nhân vật trong trận hiện tại gây ra."
+    ],
+    "SecondDescriptions": [
+      "Tăng 75% Sát Thương Nguyên Tố Băng gây ra bởi Tấn Công Thường của nhân vật."
+    ]
   }
 ]

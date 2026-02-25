@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Lời Chúc Của Gió: Lôi</color>",
-    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, đồng thời mỗi lần nhận <color=#f39001>Lời Chúc Của Gió: Lôi</color> sẽ hồi phục <color=#f39001>1.5</color> điểm Năng Lượng Nguyên Tố cho tất cả nhân vật trong đội"
+    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, đồng thời mỗi lần nhận <color=#f39001>Lời Chúc Của Gió: Lôi</color> sẽ hồi phục <color=#f39001>2</color> điểm Năng Lượng Nguyên Tố cho tất cả nhân vật trong đội"
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Phù Hộ Băng Tinh</color>",
-    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>50%</color> buff Sát Thương Nguyên Tố Băng và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
+    "Description": "Khiến tất cả nhân vật trong đội nhận <color=#f39001>70%</color> buff Sát Thương Nguyên Tố Băng và Nham. Ngoài ra, mỗi <color=#f39001>4</color>s sẽ nhận mảnh tinh thể sinh ra từ phản ứng Kết Tinh ở gần"
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>Chịu Đựng</color>",
-    "Description": "Kháng Nguyên Tố Băng và Lôi của kẻ địch giảm <color=#f39001>3%</color>, Kháng Vật Lý giảm <color=#f39001>6%</color>, tối đa cộng dồn <color=#f39001>6</color> tầng"
+    "Description": "Kháng Nguyên Tố Băng và Lôi của kẻ địch giảm <color=#f39001>5%</color>, Kháng Vật Lý giảm <color=#f39001>10%</color>, tối đa cộng dồn <color=#f39001>6</color> tầng"
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Lời Chúc Của Gió: Băng</color>",
-    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, Sát Thương Bạo Kích của nhân vật tăng <color=#f39001>12%</color>"
+    "Description": "Sát thương gây ra khi nhân vật kích hoạt phản ứng Khuếch Tán tăng <color=#f39001>80%</color>, Sát Thương Bạo Kích của nhân vật tăng <color=#f39001>16%</color>"
   },
   {
     "Id": 211902,
@@ -428,5 +428,15 @@
     "Id": 11260001,
     "Name": "Thời Khắc Nguyệt Chuyển",
     "Description": "Sau khi thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Thiên Địa Hốt Nhiên Thân</color>, Zibai sẽ chuyển sang chế độ này. Chế độ này tối đa duy trì {PARAM#P1263201|4S1}s và mang đặc tính sau:\n·Khi thực hiện Tấn Công Thường và Trọng Kích, sẽ chuyển sang gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color> không thể bị thay thế.\n·Kỹ Năng Nguyên Tố <color=#FFD780FF>Thiên Địa Hốt Nhiên Thân</color> sẽ được thay thế bằng Kỹ Năng Nguyên Tố đặc biệt <color=#FFD780FF>Linh Câu Phi Đạp</color>: Khi Zibai có ít nhất 70 điểm <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color>, Zibai có thể tiêu hao 70 điểm Ánh Sáng Lưu Chuyển, thi triển Linh Câu Phi Đạp để gây hai lần <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color>, trong đó sát thương đòn thứ hai được xem là sát thương phản ứng Nguyệt-Kết Tinh.\n\nGiới hạn <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color> là 100 điểm, Zibai có thể thông qua những cách thức sau để tích lũy Ánh Sáng Lưu Chuyển:\n·Khi trong chế độ <color=#FFD780FF>Thời Khắc Nguyệt Chuyển</color>, mỗi giây sẽ tích lũy 10 điểm Ánh Sáng Lưu Chuyển.\n·Khi Tấn Công Thường trúng kẻ địch, sẽ tích lũy 5 điểm Ánh Sáng Lưu Chuyển, Zibai mỗi 0.5s tối đa tích lũy một lần Ánh Sáng Lưu Chuyển theo cách này.\n\n<color=#FFD780FF>Nguyệt Triệu - Rực Sáng</color>\nKhi nhân vật trong đội ở gần kích hoạt phản ứng Nguyệt-Kết Tinh, sẽ tích lũy 35 điểm <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color> cho Zibai, mỗi 4s tối đa tích lũy một lần Ánh Sáng Lưu Chuyển theo cách này. Thi triển Kỹ Năng Nguyên Tố đặc biệt <color=#FFD780FF>Linh Câu Phi Đạp</color>, sẽ đặt lại CD tích lũy <color=#FFD780FF>Ánh Sáng Lưu Chuyển</color> theo cách này.\n\nSau khi thi triển 4 lần <color=#FFD780FF>Linh Câu Phi Đạp</color> hoặc kết thúc thời gian duy trì, Zibai sẽ thoát chế độ này."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Bão Táp Đột Kích",
+    "Description": "Sau khi nhấn thi triển Kỹ Năng Nguyên Tố <color=#FFD780FF>Cuồng Phong Ập Đến</color>, Varka sẽ chuyển sang chế độ này.\nTrong chế độ này, Varka sẽ tăng sát thương Tấn Công Thường và Trọng Kích, không thể thực hiện Tấn Công Khi Đáp. Khi Varka thực hiện Tấn Công Thường và Trọng Kích, sẽ căn cứ vào Loại Nguyên Tố của nhân vật trong đội, khiến hai thanh trọng kiếm lần lượt gây sát thương nguyên tố tương ứng không thể bị thay thế:\n·Trọng kiếm tay trái sẽ chuyển sang gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> không thể bị thay thế.\n·Khi trong đội có nhân vật nguyên tố <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color> hoặc <color=#99FFFFFF>Băng</color>, trọng kiếm tay phải sẽ gây sát thương nguyên tố tương ứng không thể bị thay thế dựa trên độ ưu tiên nguyên tố kể trên.\n\nNgoài ra, khi trong chế độ này, nếu trong đội có nhân vật nguyên tố <color=#FF9999FF>Hỏa</color>, <color=#80C0FFFF>Thủy</color>, <color=#FFACFFFF>Lôi</color> hoặc <color=#99FFFFFF>Băng</color>, Kỹ Năng Nguyên Tố <color=#FFD780FF>Cuồng Phong Ập Đến</color> của Varka sẽ còn được thay thế bởi Kỹ Năng Nguyên Tố đặc biệt <color=#FFD780FF>Tứ Phong Trỗi Dậy</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Tứ Phong Trỗi Dậy",
+    "Description": "Kỹ Năng Nguyên Tố đặc biệt của Varka, gây cho kẻ địch sát thương phạm vi nguyên tố tương ứng không thể bị thay thế từ trọng kiếm tay phải của Varka và <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>.\nBan đầu sẽ trong trạng thái chờ hồi chiêu, tối đa có 2 lần khả dụng.\nKhi Varka trong chế độ <color=#FFD780FF>Bão Táp Đột Kích</color> và Tấn Công Thường trúng kẻ địch, thời gian chờ của <color=#FFD780FF>Tứ Phong Trỗi Dậy</color> sẽ rút ngắn 0.5s. Sau mỗi lần chuyển sang chế độ <color=#FFD780FF>Bão Táp Đột Kích</color>, hiệu quả này tối đa kích hoạt 15 lần.\nNgoài ra, Varka có thể tiêu hao số lần khả dụng của <color=#FFD780FF>Tứ Phong Trỗi Dậy</color> để thực hiện Trọng Kích đặc biệt <color=#FFD780FF>Trời Xanh Cắn Xé</color> không tiêu hao thể lực, gây 2 lần sát thương nguyên tố tương ứng không thể bị thay thế từ trọng kiếm tay phải của Varka và 2 lần <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>."
   }
 ]

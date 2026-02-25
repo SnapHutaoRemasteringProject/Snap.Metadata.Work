@@ -1249,5 +1249,28 @@
     "SecondDescriptions": [
       "달 결정 피해가 75% 증가한다"
     ]
+  },
+  {
+    "Id": 1124,
+    "Index": 11,
+    "LevelGroupId": 124,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "파티 내 모든 캐릭터가 바람 원소 피해 보너스를 60% 획득한다",
+      "파티 내 모든 캐릭터가 얼음 원소 피해 보너스를 60% 획득한다"
+    ]
+  },
+  {
+    "Id": 1125,
+    "Index": 12,
+    "LevelGroupId": 125,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "현재 필드 위 캐릭터가 주는 바람 원소 피해가 75% 증가한다"
+    ],
+    "SecondDescriptions": [
+      "캐릭터가 일반 공격으로 주는 얼음 원소 피해가 75% 증가한다"
+    ]
   }
 ]

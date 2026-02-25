@@ -1794,6 +1794,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Varka's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi Varka",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3023,6 +3034,17 @@
     "Description": "Material Aktivasi Konstelasi untuk Illuga",
     "TypeDescription": "Aktivasi Konstelasi",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Varka's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi Varka",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -31193,7 +31215,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Suspicious Berry Herbal Candy",
-    "Description": "Permen Nod-Krai dengan rasa asin dan sepat yang unik. Sulit dipercaya sebuah permen bisa menghasilkan sensasi seperti ini. Rasanya begitu mengejutkan sampai membuat siapa pun menjerit kecewa dan terkejut.",
+    "Description": "Permen Nod-Krai dengan rasa asin dan sepat yang unik. Sulit dipercaya sebuah permen bisa menghasilkan sensasi seperti ini. Rasanya begitu mengejutkan sampai membuat siapa pun menjerit kecewa dan tercengang.",
     "TypeDescription": "Makanan",
     "Icon": "UI_ItemIcon_108858"
   },
@@ -31400,6 +31422,54 @@
     "Description": "Roti dengan isian sayuran tumis. Dimasak dengan teknik seadanya dan api yang tidak dikontrol, sehingga jadilah \"jamur arang\" hitam yang sangat mengintimidasi ini. Memaksakan diri untuk memakannya mungkin bisa berakibat keracunan makanan ....",
     "TypeDescription": "Makanan",
     "Icon": "UI_ItemIcon_108867"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 18% Max HP Karakter yang dipilih dan memberikan regenerasi 300 HP setiap 5 detik selama 30 detik.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Suspicious Golden-Tempered Jade",
+    "Description": "Hidangan ayam khas Liyue. Kulit ayamnya berwarna kuning cerah yang menggoda dan kontras dengan indah terhadap daging putih pucatnya. Namun, penyesalan langsung muncul setelah menggigitnya, karena daging ayam yang kering dan alot langsung tersangkut di sela-sela gigi ...",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 20% Max HP Karakter yang dipilih dan memberikan regenerasi 390 HP setiap 5 detik selama 30 detik.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Golden-Tempered Jade",
+    "Description": "Hidangan ayam khas Liyue yang dimasak dengan bumbu dan sedikit rempah untuk mempertahankan cita rasa alami ayamnya. Hasilnya adalah kulit yang lembut dan daging yang empuk serta beraroma, terutama sangat menggugah selera bila dicocol dengan saus.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Memulihkan 22% Max HP Karakter yang dipilih dan memberikan regenerasi 470 HP setiap 5 detik selama 30 detik.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Delicious Golden-Tempered Jade",
+    "Description": "Hidangan ayam dingin khas Liyue. Kulitnya memiliki kekenyalan yang terasa memuaskan, dan dagingnya empuk serta kaya rasa. Gelatin alami dari ayamnya membeku menjadi bentuk jeli, dipenuhi aroma kaya lemak ayam yang meleleh, dan bahkan tulangnya pun memiliki sedikit rasa manis. Hidangan ini adalah simfoni rasa sejati, pasti akan menyenangkan bahkan penikmat kuliner yang paling pemilih sekalipun.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "Memulihkan 80 Stamina.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Hearty Indulgence",
+    "Description": "Masakan andalan Varka. Paha ayam asap berukuran besar dan secangkir besar Apple Cider, disajikan dengan agak berantakan dan berani, semuanya menegaskan prinsip hidupnya. Baik dalam pertempuran maupun saat makan, semuanya harus dilakukan dengan penuh semangat dan tanpa menahan diri.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108870"
   },
   {
     "Rank": 300501,
@@ -34291,6 +34361,17 @@
     "ItemType": 2,
     "Name": "Resep: Mushroom Phantasm",
     "Description": "Resep yang berisi langkah-langkah untuk membuat Mushroom Phantasm.",
+    "TypeDescription": "Resep",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Resep: Golden-Tempered Jade",
+    "Description": "Resep langkah demi langkah yang mendetail untuk membuat Golden-Tempered Jade.",
     "TypeDescription": "Resep",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37257,6 +37338,17 @@
     "Description": "Relik tulang hitam pekat yang diambil dari sisa-sisa kerusakan yang tersisa setelah mengalahkan Whisperer of Nightmares yang menyerbu dunia ini dari alam lain.\nMakhluk tak berwujud yang terbang menembus kehampaan tak berbintang seharusnya tidak membutuhkan organ yang oleh dunia ini dinamakan \"sayap\". Sayap-sayap mengerikan dan nista itu mungkin muncul untuk beradaptasi dengan hukum di bawah bulan, atau mungkin itu hanyalah fragmen terdistorsi yang dapat dilihat oleh mata fana kita dari wujud aslinya.",
     "TypeDescription": "Material Penguatan Karakter",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prismatic Severed Tail",
+    "Description": "Tulang ekor mengkristal yang ditinggalkan Radiant Moongecko saat hendak melarikan diri.\nSecara logika, kadal yang telah berevolusi menjadi begitu kuat seharusnya tidak lagi terancam oleh predator alami, namun ia masih mempertahankan naluri untuk memutuskan ekornya demi bertahan hidup. Mungkin ini terjadi karena di era ketika cahaya bulan menyinari bumi, terdapat predator yang jauh lebih menakutkan di tempat ini.",
+    "TypeDescription": "Material Penguatan Karakter",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50175,6 +50267,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Lencana Akses",
+    "Description": "Lencana penting yang disimpan oleh sekelompok Fatui. Kamu harus mengumpulkan ketiganya untuk mengaktifkan perangkat yang mengarah ke ruangan yang lebih dalam. Kalau soal kenapa ada tiga, penyihir itu menjelaskan bahwa itu untuk memberikan nuansa \"partisipasi\".",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Kristal Air Mata yang Terkontaminasi Parah",
+    "Description": "Dari Dvalin yang terkena kontaminasi Abyss penuh. Kalau dilihat dari kondisi air matanya, Dvalin yang ada di dalam cerita ini sudah sama sekali tidak bisa disembuhkan.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50294,6 +50408,17 @@
     "Description": "Kotak berisi permen gulali spesial yang tampaknya dibuat khusus untuk seseorang. Untuk mencegahnya meleleh, harap segera habiskan.",
     "TypeDescription": "Konsumsi",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Alat Negosiasi Serbaguna",
+    "Description": "Sebuah kantong berisi benda yang mampu memengaruhi mereka yang \"mementingkan kekayaan di atas segalanya\". Bagi sebagian orang, inilah yang disebut \"ketulusan\".",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50484,6 +50609,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Undangan Acara",
+    "Description": "Surat undangan singkat dari Jean, Acting Grand Master Knights of Favonius. Tidak disebutkan apa isi kegiatan acaranya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mora Seringan Bulu",
+    "Description": "Mora yang ditemukan di Starfell Lake. Meski terlihat sama persis dengan Mora biasa, tapi beratnya cuma sepersepuluh Mora biasa, sehingga kegembiraan mendapatkan kekayaan yang diperoleh juga sepersepuluh dari yang semestinya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Daging Ikan yang Sangat Elastis",
+    "Description": "Daging ikan yang ditemukan di Starfell Lake, tampak persis seperti daging ikan biasa, tapi sangat elastis. Seberapa keras pun diremas, dagingnya akan langsung kembali ke bentuk aslinya setelah dilepaskan. Lebih mirip mainan pereda stres daripada bahan makanan ... Sebaiknya jangan mencoba memasaknya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Permen Ajaib Dodoco",
+    "Description": "Suvenir dari Klee saat membantu stan minuman Knights of Favonius.\n\"Taruh semuanya di meja alkimia, berharap bentuk yang kamu inginkan, lalu ucapkan mantra Mama, dan ... voila! Permen berbentuk Dodoco!\"\nSeperti yang diharapkan dari ciptaan Nona Alice. Meskipun menggunakan bahan umum yang ditemukan di Teyvat, permen ini mengandung rasa manis yang kompleks dan menakjubkan. Saat kamu menggigit sedikit, gema mantra ajaib yang manis sepertinya terdengar di kepala ... Sayangnya, jumlahnya terbatas. Lebih baik simpan satu sebagai suvenir!",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50514,6 +50683,61 @@
     "Description": "Kumpulan puisi yang merinci perbuatan para Starshyna sepanjang sejarah. Sebagian besar isinya hilang dalam bencana di masa lalu. Hanya sebagian kecil dari fragmen aslinya yang telah ditemukan kembali.",
     "TypeDescription": "Item Quest",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Surat yang Terbawa Angin",
+    "Description": "Sebuah surat yang entah bagaimana masuk ke dalam tasmu. Mungkin surat itu terbawa angin.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Tiket Undangan Varka",
+    "Description": "Tiket undangan yang digambar langsung oleh Varka. Dapat ditukar dengan makanan nikmat dan mengenyangkan di Good Hunter.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Tiket Undangan Varka",
+    "Description": "Tiket undangan yang digambar langsung oleh Varka. Dapat ditukar dengan makanan nikmat dan mengenyangkan di Good Hunter. Ada stempel kecil yang bertuliskan \"TERPAKAI\" di bagian belakangnya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Uang Simpanan Pribadi Varka",
+    "Description": "Uang pribadi Varka yang digunakan untuk membeli minuman, disimpan dengan terang-terangan di dalam laci meja kerjanya.\n\"Tempat paling berbahaya adalah tempat paling aman!\", begitulah katanya. Tapi niat awal menyimpan di sini mungkin karena dia yakin Acting Grand Master tidak akan menggunakannya meskipun menemukannya, dan lebih tidak akan membiarkan orang lain mengetahuinya.\nAwalnya uang ini disimpan untuk membeli Dandelion Wine sebagai persembahan kepada para dewa, tapi karena rencananya berubah, mungkin bisa digunakan untuk memberi imbalan kepada Honorary Knight yang menyelamatkan Varka, atau bisa digunakan untuk memberi imbalan kepada setiap teman yang menyelamatkannya.",
+    "TypeDescription": "Konsumsi",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Uang Simpanan Pribadi Varka",
+    "Description": "Uang pribadi Varka yang digunakan untuk membeli minuman, disimpan dengan terang-terangan di dalam laci meja kerjanya.\n\"Tempat paling berbahaya adalah tempat paling aman!\", begitulah katanya. Tapi niat awal menyimpan di sini mungkin karena dia yakin Acting Grand Master tidak akan menggunakannya meskipun menemukannya, apalagi membiarkan orang lain mengetahuinya.\nAwalnya uang ini disimpan untuk membeli Dandelion Wine sebagai persembahan kepada para dewa, tapi sekarang digunakan untuk memberi imbalan kepada Honorary Knight yang menyelamatkan Varka, atau bisa digunakan untuk memberi imbalan kepada setiap teman yang menyelamatkannya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -56192,6 +56416,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Spotter Kamera",
+    "Description": "Kamera yang Paimon bawa ke mana-mana. Kali ini akan dipakai untuk menangkap titik-titik perbedaan yang mencolok.",
+    "TypeDescription": "Peralatan",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Harmonic Keys",
+    "Description": "Instrumen ringkih yang dapat dimainkan setelah digunakan.\nDi mata para filsuf-pendebat kuno, melodi dunia fana hanyalah tiruan kasar dari simfoni alam semesta. Namun, Raja Para Abadi menangkap motif yang tidak biasa dalam penampilan musisi itu, lalu memerintahkan sang penyetel nada untuk menetapkan musik abadi ke setiap notnya, sehingga siapa pun dapat bergabung dengan simfoni terbesar hanya dengan memainkan ini.",
+    "TypeDescription": "Peralatan",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -56894,6 +57140,17 @@
     "Description": "Gulungan tenun Natlan yang melukiskan pemandangan unik dan mengandung kekuatan tersembunyi ini merupakan suvenir yang dibawa kembali dari Natlan oleh Pedagang Dalam Poci, Chubby. Pola pada gulungan ini menghadirkan gambaran tertentu dalam pikiran, yang dapat kamu manipulasikan melalui kekuatan Penciptaan Sub-Ruang untuk menciptakan kembali pemandangan Natlan yang menakjubkan di Serenitea Pot milikmu ....",
     "TypeDescription": "Konsumsi",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sphere of Fleeting Shadow",
+    "Description": "Sebuah bola kuuvahki Nod-Krai yang dapat memainkan musik dan memancarkan efek cahaya yang memukau. Benda ini adalah suvenir yang dibawa pulang dari Nod-Krai oleh Pedagang Dalam Poci, Chubby.\nSaat kamu menatap cahaya yang berubah-ubah yang dipancarkan oleh bola tersebut, gambar-gambar samar tampak terbentuk di benakmu. Hanya melalui kekuatan Penciptaan Sub-Ruang seseorang dapat menciptakan kembali pemandangan Nod-Krai yang menakjubkan di Alam Poci ....",
+    "TypeDescription": "Konsumsi",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58179,6 +58436,127 @@
     "ItemType": 2,
     "Name": "Partner dan Rumah",
     "Description": "Hunian yang bersih dan terawat dengan baik, dilengkapi dengan fitur-fitur yang ramah bagi Saurian dan telah diuji coba oleh penduduk Natlan. Hunian ini menjadi rumah yang ideal bagi Saurian dan makhluk besar lainnya.\nBagi seorang pejuang Natlan, Saurian lebih dari sekadar teman — mereka dianggap sebagai keluarga yang berbagi perjuangan dan kemenangan. Dengan adanya Saurian di sisi seseorang, semua masalah tampaknya akan sirna.\nRekan yang menyukai set perabot ini: Ifa",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Kamar Nyaman Bagi Semua Tamu",
+    "Description": "Sebuah kamar berperabot lengkap, terinspirasi oleh kamar-kamar tamu di The Flagship, kedai terbesar di Kota Nasha. Renovasi yang dikerjakan tujuannya untuk lebih memenuhi kebutuhan penghuninya.\nPara tamu The Flagship berasal dari latar belakang yang bervariasi, masing-masing memiliki gagasannya sendiri tentang apa arti \"kenyamanan\". Mencari titik tengah dari semua harapan yang beragam ini bukanlah tugas yang mudah. Akhirnya, The Flagship memutuskan sebuah solusi yang unik: melengkapi setiap kamarnya dengan fasilitas-fasilitas yang mungkin dibutuhkan klien, kemudian mengurangi barang-barang yang tidak dibutuhkan berdasarkan umpan balik mereka. Meskipun tata letaknya mungkin tampak sedikit sempit karena banyaknya fasilitas, tapi kini segala yang dibutuhkan menjadi ada, dan di situlah letak keindahannya — sebuah pelayanan yang mengutamakan kenyamanan dari sudut pandang konsumen itu sendiri.",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tidur Nyenyak di Bawah Bulan",
+    "Description": "Kamar tidur yang sederhana namun elegan, dilengkapi dengan perabotan yang dipilih dengan cermat oleh para Bani Bulan Embun. Suasana keseluruhan di sini adalah kesederhanaan dan kehangatan yang anggun. Konon, lingkungan yang tenang dan alami dapat membantu seseorang lebih rileks, dan kamar tidur ini tampaknya merupakan perwujudan sempurna dari prinsip tersebut. Dengan cahaya lampu yang lembut seperti cahaya bulan yang memancarkan sinarnya yang halus, dan aroma buah segar di udara, mereka yang menginap di sini mungkin merasakan kelelahan dan rasa sakit mereka perlahan-lahan hilang, saat kedamaian dan ketenangan istirahat perlahan mengambil alih ....",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Struktur Rahasia yang Teratur",
+    "Description": "Ruang kerja yang unik dengan tata letak yang benar-benar terinspirasi oleh Curatorium of Secrets. Ini adalah hiburan yang menyenangkan dari lingkungan kerja Bos Nefer, di mana semuanya tertata rapi dan dalam keadaan sempurna. Analisis intelijen adalah tugas yang membosankan dan menantang, dengan banyaknya informasi yang saling terkait dan seringkali tidak ada petunjuk yang jelas untuk memulainya. Namun, di ruangan yang tertib dan lengkap oleh segala perangkat yang dibutuhkan, pikiran dapat menjadi lebih jernih, dan sebagai hasilnya, orang secara alami akan bekerja lebih efisien ....",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Rumah Terbaik dan Terhangat",
+    "Description": "Kamar tidur bergaya Nod-Krai dengan tata letak yang membangkitkan perasaan hangat dan nyaman. Ini adalah tempat ideal untuk menghilangkan kepenatan setelah seharian beraktivitas. Semua perabotan di kamar tidur yang dipilih dengan cermat oleh \"Orang Tua\" sendiri dari Clink-Clank Krumkake Craftshop ini adalah perabotan yang terbaik, terhangat, dan terpraktis di seluruh dunia. Namun, kenyamanan luar biasa ini ada kekurangannya: penghuninya terkadang kesiangan, bahkan melewatkan janji penting karena kamar ini terlalu nyaman. Metode bangun tidur yang tegas tapi bijaksana mungkin diperlukan untuk memastikan semua orang bangun tepat waktu.",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Istirahat Sebelum Pertempuran",
+    "Description": "Ruang santai komunal yang lengkap, yang dirancang berdasarkan tata letak ruangan Piramida, dapat menghadirkan kembali momen-momen tenang istirahat yang dinikmati para Ratnik sebelum bertempur. Para Ratnik veteran memahami bahwa perang melawan Perburuan Liar adalah perang yang panjang dan tanpa ampun. Kapan pun selagi sempat, istirahat adalah kunci, penting untuk menjaga kesiapan tempur puncak. Selain itu, ruang santai yang tertata dengan baik juga memberikan para Ratnik waktu untuk saling mengenal. Di medan tempur, bertempur bersama rekan-rekan terpercaya tentunya menumbuhkan kepercayaan diri dan koordinasi yang jauh lebih serasi daripada bersama orang asing. Karena alasan ini, pembangunan ruang istirahat sudah dari dulu menjadi prioritas bagi Starshyna.",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Hutan Belantara di Ujung Utara",
+    "Description": "Suatu kawasan liar yang menyatukan vegetasi dan bentang alam yang biasa dijumpai di Nod-Krai, khususnya rekreasi otentik dari lanskap unik Pulau Hiisi.\nWilayah Nod-Krai berlimpah dengan kuuvahki, dan dengan hal itu telah menghasilkan tanaman berwarna cerah, makhluk dengan kebiasaan yang unik, dan bentang alam dengan bentuk yang menakjubkan. Bagi para naturalis, daerah ini mengandung banyak sekali harta karun pengetahuan baru, sementara bagi para wisatawan biasa, daerah ini menawarkan pemandangan memesona yang patut dikagumi.",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Kota Perbatasan yang Ramai",
+    "Description": "Lanskap regional yang berpusat pada berbagai bangunan khas, dengan berbagai macam toko. Ini adalah rekreasi sempurna dari sudut Kota Nasha.\nMenurut legenda, Kota Nasha berbeda dari kota-kota lain karena tidak memiliki pengurus resmi dan struktur perencanaan yang jelas. Hal ini menyebabkan munculnya lorong-lorong sempit yang tak terhitung jumlahnya dan celah-celah yang hampir tidak terlihat di antara bangunan-bangunan kota. Bagi sebagian besar penduduk, lorong-lorong ini hanyalah saluran untuk kebisingan; namun, bagi mereka yang fokus mengumpulkan informasi, lorong-lorong ini berfungsi sebagai jalur penyebaran rahasia dan jalan pintas untuk memudahkan perjalanan.",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Doa yang Tenang di Bawah Rembulan",
+    "Description": "Sebuah lingkungan terbuka yang dirancang menyerupai Enklave Bulan Embun, menampilkan berbagai peralatan yang disusun sesuai dengan adat istiadat Bani Bulan Embun dan vegetasi yang ditanam untuk melengkapi setiap item. Masuklah ke ruang ini, dan ketenangan serta harmoni yang begitu mendefinisikan Bani Bulan Embun akan langsung terasa. Rasanya seolah-olah himne-himne lembut dan merdu bergema perlahan, membawa pergi semua masalah dan penderitaan bersama embusan angin, hanya menyisakan keadaan pikiran yang tenang dan damai.",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cahaya Tunggal di Malam yang Panjang",
+    "Description": "Sebuah pemukiman dengan rumah-rumah kokoh, tata letak dan arsitekturnya terinspirasi oleh benteng pertahanan luar ruangan para Lightkeeper. Desain ini memungkinkannya untuk menahan angin dan hujan, bahkan ketika menghadapi Perburuan Liar pun, ia memiliki kemampuan pertahanan yang tangguh. Seperti yang dinyatakan dalam sumpah para Lightkeeper: \"Kami adalah Lightkeeper yang menyinari cahaya harapan abadi ke dataran bersalju yang tak berujung.\"\nDi dataran luas di luar Piramida, benteng-benteng seperti ini berdiri tegak dan terang, membawa cahaya harapan bersamanya.",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lokakarya yang Penuh Harapan",
+    "Description": "Sebuah pemukiman kecil yang terinspirasi oleh Clink-Clank Krumkake Craftshop, dengan rumah-rumah besi berbentuk setengah bola yang nyaman dan bangunan-bangunan yang menyerupai perahu besi. Struktur-struktur ini lebih dari cukup untuk memenuhi kebutuhan dasar para pemilik bengkel.\nSemua bengkel besar berawal dari satu struktur sederhana. Dengan adanya bangunan-bangunan ini sebagai fondasi dan perencanaan serta material yang tepat, tampaknya mengubah Alam Poci menjadi bengkel raksasa bukanlah perkara yang mustahil ....",
+    "TypeDescription": "Blueprint Set Perabotan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ketenangan Bulan Sabit",
+    "Description": "Sebuah halaman yang terinspirasi oleh Silvermoon Hall. Gayanya memancarkan ketenangan dan kedamaian, seperti alam mimpi yang berada di luar jangkauan.\nCahaya bulan selalu membimbing semua makhluk hidup dengan lembut. Mungkin, para pengikut Dewi Bulan pernah bertanya pada diri mereka sendiri: pemandangan seperti apa yang dapat membimbing bulan baru ke dalam tidurnya yang damai?\nSatu-satunya cara untuk mengetahui jawabannya adalah dengan mengunjungi Silvermoon Hall dan menatap setiap bunga dan rumput di sana ....",
     "TypeDescription": "Blueprint Set Perabotan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -71896,6 +72274,413 @@
     "ItemType": 2,
     "Name": "Lentera Xiao Cerah: Sampai Jumpa Kawanku",
     "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Lentera Xiao Cerah: Sampai Jumpa Kawanku\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sebulat Biskuit",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Sebulat Biskuit\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rak Penyimpanan Klontang-Klonteng",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Rak Penyimpanan Klontang-Klonteng\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Meja Bundar Bulan Embun: Langit Biru yang Lembut",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Meja Bundar Bulan Embun: Langit Biru yang Lembut\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Catatan Seseorang",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Catatan Seseorang\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Meja Kecil Bulan Embun: Aroma Buah Segar",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Meja Kecil Bulan Embun: Aroma Buah Segar\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ranting di Langit Biru",
+    "Description": "Diagram yang berisi langkah-langkah untuk membuat \"Ranting di Langit Biru\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kursi Sandar \"Bulan Bantal\" Kayu Pedunculate Oak",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat Kursi Sandar \"Bulan Bantal\" Kayu Pedunculate Oak.\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Secercah Cahaya di Sudut Dingin",
+    "Description": "Diagram yang berisi langkah-langkah untuk membuat \"Secercah Cahaya di Sudut Dingin\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Jamur Berliku",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Jamur Berliku\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sarang Kecil Terbaik",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Sarang Kecil Terbaik\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ranjang Batu Bulan Embun: Segar dan Sejuk",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Ranjang Batu Bulan Embun: Segar dan Sejuk\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Meja Rendah Dalam Ruangan: Nilai Unik",
+    "Description": "Diagram yang berisi langkah-langkah untuk membuat \"Meja Rendah Dalam Ruangan: Nilai Unik\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rak Buku Dalam Ruangan: Kesenangan Membaca",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Rak Buku Dalam Ruangan: Kesenangan Membaca\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Meja Resepsionis Dalam Ruangan: Kunjungan Resmi",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Meja Resepsionis Dalam Ruangan: Kunjungan Resmi\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kabinet Menjulang",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Kabinet Menjulang\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lemari Pakaian Hotel: Ruang Tambahan",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Lemari Pakaian Hotel: Ruang Tambahan\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Karpet Bulan Embun: Warna Jernih",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Karpet Bulan Embun: Warna Jernih\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Karpet Kecil Lembut",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Karpet Kecil Lembut\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Seteguh Besi",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Seteguh Besi\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Panji Lightkeeper",
+    "Description": "Diagram yang berisi langkah-langkah untuk membuat \"Panji Lightkeeper\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lampu Dinding Kedai: Cahaya Koridor",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Lampu Dinding Kedai: Cahaya Koridor\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bangunan Pendukung Markas: Rumah Kaca Serbaguna",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Bangunan Pendukung Markas: Rumah Kaca Serbaguna\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bangunan Pendukung Markas: Ruang Rahasia",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Bangunan Pendukung Markas: Ruang Rahasia\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bangunan Pendukung Markas: Menara Air",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Bangunan Pendukung Markas: Menara Air\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kincir Angin Markas: Daya Bantu",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Kincir Angin Markas: Daya Bantu\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gerbang Markas: Logika Transmisi",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Gerbang Markas: Logika Transmisi\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Platform Markas: Dasar Kokoh",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Platform Markas: Dasar Kokoh\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Dinding Markas: Garis Penghalang",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Dinding Markas: Garis Penghalang\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pilar Markas: Suar Serbaguna",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Pilar Markas: Suar Serbaguna\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pelukan Lembut",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Pelukan Lembut\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pagar Kota: Kursi Praktis",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Pagar Kota: Kursi Praktis\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pagar Kota: Ombak Biru dan Biru",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Pagar Kota: Ombak Biru dan Biru\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Patung Sparks 'n' Splash Jumbo",
+    "Description": "Diagram yang berisi langkah-langkah untuk membuat \"Patung Sparks 'n' Splash Jumbo\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rahasia Pendinginan Markas",
+    "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Rahasia Pendinginan Markas\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Plafon Berpanel Markas",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Plafon Berpanel Markas\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Lantai Paduan Logam Markas",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Lantai Paduan Logam Markas\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ketenangan Lembut Markas",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Ketenangan Lembut Markas\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
     "TypeDescription": "Blueprint Perabotan",
     "Icon": "UI_ItemIcon_Home_Common"
   }

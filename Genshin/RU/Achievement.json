@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "Как и должно быть",
-    "Description": "Станьте свидетелем возвращения Кошмарной луны.",
+    "Description": "Станьте свидетелем возвращения ложной луны.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "Лунная походка",
+    "Description": "В тот самый момент, когда лучезарный лунный геккон собирается применить Шаг в пустоту, уничтожьте якорный лунный камень, чтобы прервать его накопление энергии.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka - Chef de meute",
+    "Description": "Thème.\nLa meute de loups traque le vent du nord, mais seul leur chef sait que ce même vent tourbillonne le long de leurs pattes depuis qu'ils ont commencé à courir.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "PB - Vents du nord",
+    "Description": "Thème.\nCe que les vents pouvaient ramener du nord. Un soupçon de froid, le parfum des dernières fleurs avant qu'elles ne tombent de leurs perchoirs et les nouvelles du retour imminent d'un voyageur venu de loin.",
+    "SpecialDescription": "Thème PB - Vents du nord",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

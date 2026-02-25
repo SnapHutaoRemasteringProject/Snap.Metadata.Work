@@ -1249,5 +1249,28 @@
     "SecondDescriptions": [
       "月結晶ダメージ+75%。"
     ]
+  },
+  {
+    "Id": 1124,
+    "Index": 11,
+    "LevelGroupId": 124,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "チーム全員の風元素ダメージ+60%。",
+      "チーム全員の氷元素ダメージ+60%。"
+    ]
+  },
+  {
+    "Id": 1125,
+    "Index": 12,
+    "LevelGroupId": 125,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "フィールド上キャラクターの与える風元素ダメージ+75%。"
+    ],
+    "SecondDescriptions": [
+      "キャラクターの通常攻撃による氷元素ダメージ+75%。"
+    ]
   }
 ]

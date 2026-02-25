@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Karakter di Dalam Rumah",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "Sebuah Lentera Xiao raksasa yang terinspirasi oleh sosok Adeptus penjaga Rembulan, menggambarkan seekor kuda putih yang melompat melewati celah tebing dengan anggun, dikelilingi awan-awan lembut dan langit senja yang indah. Kini, semua orang suka menulis harapan mereka di Lentera Xiao. Mungkin dengan begitu, sang Adeptus Kuda Putih akan turun dari Rembulan dengan kereta gioknya untuk mengabulkan harapan semua orang.",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361345,
+    "Name": "Sebulat Biskuit",
+    "Description": "Meja bundar pendek yang umum ditemukan di \"Clink-Clank Krumkake Craftshop\", struktur utamanya terbuat dari lembaran besi yang kokoh, bentuknya menyerupai kue bundar yang renyah dan harum.\nSering ada orang yang bingung apakah harus menutup meja ini dengan taplak meja yang cantik atau tidak. \"Tapi kalau pakai taplak meja, akan repot buat bersihkan remah-remah krumkake yang jatuh di atasnya!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361346,
+    "Name": "Rak Penyimpanan Klontang-Klonteng",
+    "Description": "Meja penyimpanan yang biasa ditemukan di Clink-Clank Krumkake Craftshop, memiliki area yang jelas dan terpisah, seperti deretan rumah dengan ketinggian yang berbeda-beda.\n\"Ini adalah rumah si palu, itu rumah si paku ...\" begitulah kata orang yang sedang merapikan barang-barang di meja ini.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361347,
+    "Name": "Meja Bundar Bulan Embun: Langit Biru yang Lembut",
+    "Description": "Meja bundar yang biasa ditemukan di \"Enklave Bulan Embun\", terbuat dari Pedunculate Oak Wood yang memiliki ketahanan dan sifat tahan air yang sangat baik, sehingga cocok digunakan untuk berbagai keperluan.\nPengrajin Bani Bulan Embun mengambil inspirasi dari bulan purnama yang tinggi menggantung di langit malam, dan memasangkan meja bundar yang berbentuk seperti bulan ini dengan taplak biru langit yang lembut, memberikannya ketenangan dan kehangatan seperti langit malam.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363414,
+    "Name": "Catatan Seseorang",
+    "Description": "Tumpukan buku-buku yang disusun secara acak di \"Enklave Bulan Embun\", sebagian besar bukanlah buku yang dijilid dengan rapi, melainkan catatan-catatan dari para penulis yang tidak dikenal.\nSeringkali dalam jenis buku seperti ini, tersembunyi cerita-cerita yang penuh lika-liku dan sangat menakjubkan. Tulisan tangan yang berantakan, urutan kata yang kacau, atau jejak-jejak yang tertinggal di halaman buku, semuanya seolah menceritakan kondisi sesungguhnya sang penulis saat menulis.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363415,
+    "Name": "Meja Kecil Bulan Embun: Aroma Buah Segar",
+    "Description": "Meja kecil yang umum ditemukan di dalam ruangan \"Enklave Bulan Embun\", di atasnya sering kali diletakkan buah-buahan musiman yang paling segar.\nBuah-buahan yang diletakkan di meja tamu tidak hanya untuk dimakan, tapi juga sering berfungsi sebagai pengharum ruangan. Aroma buah yang lembut akan menyebar ke seluruh ruangan, tidak terlalu kuat, namun tetap bisa menciptakan suasana yang hangat dan nyaman.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363511,
+    "Name": "Ranting di Langit Biru",
+    "Description": "Bunga mekanis yang tidak pernah layu. Ini adalah tanaman pot dalam ruangan yang disukai para Ratnik.\n\"Tidak ada waktu untuk merawatnya ... tidak ada cahaya matahari ... bahkan tidak bisa menemukan segenggam tanah yang subur!\"\nJadi, ketika ada Ratnik yang pandai membuat kerajinan tangan menciptakan tanaman pot yang cukup bagus dari bahan-bahan bekas, semua orang pun jadi sangat senang. warna biru seperti langit juga merupakan warna yang ingin dilihat oleh orang-orang yang sudah lama tinggal di kegelapan malam.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 362134,
+    "Name": "Kursi Sandar \"Bulan Bantal\" Kayu Pedunculate Oak",
+    "Description": "Kursi yang badan utamanya terbuat dari Pedunculate Oak Wood, biasa ditemukan di Enklave Bulan Embun.\nSandaran punggungnya yang telah diukir, bagian yang berlubang tampak seperti bulan purnama. Setelah ditempatkan di dalam ruangan, permukaan kursinya dilapisi bantal empuk berwarna biru langit, menciptakan suasana yang hangat dan natural di dalam ruangan.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363119,
+    "Name": "Secercah Cahaya di Sudut Dingin",
+    "Description": "Lampu kayu yang sering ditemukan di dalam ruangan \"Enklave Bulan Embun\", desainnya terinspirasi dari Rimehorn Deer dan memiliki ciri khas tersendiri.\nMeskipun dirancang dengan pegangan untuk dibawa, tapi lampu ini terlalu berat sehingga biasanya tidak dipindah-pindahkan. Sebagian besar orang di \"Enklave Bulan Embun\" menggunakannya sebagai lampu malam, cahayanya cukup menerangi jalan di malam hari tanpa mengejutkan hewan-hewan kecil yang ramah.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 363120,
+    "Name": "Jamur Berliku",
+    "Description": "Lampu yang dapat dilihat di perkemahan Lightkeeper, memiliki bentuk seperti jamur.\nBerbeda dengan kebanyakan lampu di pasaran yang menggunakan jamur sebagai acuan desainnya, bagian yang bercahaya dari lampu ini bukanlah \"payung\" jamur, melainkan \"batang\"nya yang bengkok dan berliku-liku. Yang lebih istimewa adalah cahaya yang dapat dipancarkannya, karena setengahnya menghangatkan seperti sinar matahari, setengahnya lagi dingin seperti cahaya bulan.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361413,
+    "Name": "Sarang Kecil Terbaik",
+    "Description": "Tempat tidur kecil yang dapat dilihat di \"Clink-Clank Krumkake Craftshop\", dengan rangka logam yang kokoh sebagai dasarnya, dilengkapi sprei berwarna pink dengan motif lucu dan bantal yang empuk. Ukurannya yang lebar dan tingginya yang pas membuat penggunanya dapat tidur nyenyak dalam posisi apa pun, menikmati pengalaman tidur yang luar biasa.\n\"Ini adalah tempat tidur terbaik yang pernah kucoba di dunia!\" ujar sang pencipta yang membuat tempat tidur ini dengan bangganya.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361414,
+    "Name": "Ranjang Batu Bulan Embun: Segar dan Sejuk",
+    "Description": "Ranjang batu yang sering ditemukan di Enklave Bulan Embun. Permukaannya dilapisi selimut yang lembut, tetapi bagi orang yang berbaring di atasnya, ranjang ini akan terasa cukup keras.\nJika berbaring di ranjang ini pada hari yang panas, kamu akan merasakan kesejukan yang menenangkan. Namun, jika musim dingin telah tiba, sebaiknya tambahkan lapisan kasur tebal sebelum berbaring di atasnya.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361121,
+    "Name": "Meja Rendah Dalam Ruangan: Nilai Unik",
+    "Description": "Meja pendek yang biasa digunakan di kamp Lightkeeper, memiliki ruang penyimpanan yang cukup luas.\nSebagai meja yang dilengkapi rak, meja ini sering kali mencerminkan minat penggunanya. Pecinta bunga akan mengisinya dengan pot bunga segar, pecinta buku akan menumpuknya dengan koleksi bukunya, pecinta kuliner akan mengisinya dengan makanan. Namun bagi seorang Ratnik, meja pendek ini sebagai furnitur terdekat dari tempat tidur, yang paling sering diletakkan di atasnya adalah lentera yang mereka anggap sebagai nyawa kedua dan selalu dibawa ke mana-mana.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361122,
+    "Name": "Rak Buku Dalam Ruangan: Kesenangan Membaca",
+    "Description": "Rak buku yang sering digunakan di perkemahan Lightkeeper, dengan desain yang cukup unik dan mampu menampung berbagai ukuran buku dengan mudah.\nBagi seorang Ratnik, pengetahuan adalah kekayaan yang berharga. Pengetahuan yang diperoleh secara kebetulan mungkin dapat menyelamatkan nyawa di saat-saat kritis. Oleh karena itu, saat ada waktu luang, banyak Ratnik berkumpul di depan rak buku untuk menyerap kebijaksanaan dan mempersiapkan diri untuk pertempuran berikutnya sambil beristirahat.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361123,
+    "Name": "Meja Resepsionis Dalam Ruangan: Kunjungan Resmi",
+    "Description": "Konter yang biasa digunakan di kamp Lightkeeper. Seluruhnya terbuat dari lembaran besi, kokoh dan tangguh. Biasanya ada seorang penanggung jawab shift yang berdiri di belakang konter untuk menerima para tamu asing yang ingin berkunjung.\nDari penampilan luarnya, konter ini terlihat sederhana dan kasar, dan itulah yang dimaksudkan oleh para Ratnik. Konter ini mampu mengusir \"tamu tak diundang\" yang secara sembrono memasuki tempat berbahaya tanpa pertimbangan yang matang.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361124,
+    "Name": "Kabinet Menjulang",
+    "Description": "Lemari yang dapat ditemukan di \"Clink-Clank Krumkake Craftshop\". Bentuknya lebar di bawah dan sempit di atas, seperti menara dengan banyak lantai. Desain unik ini tidak hanya memberikan kapasitas penyimpanan yang sangat baik, tetapi juga membuat titik gravitasi stabil, sehingga lemari tidak mudah terbalik meskipun menerima benturan eksternal yang besar. \"Setiap lantai memiliki penghuni yang berbeda, yang besar tinggal di bawah, yang kecil tinggal di atas, seperti menara yang tinggi!\" Dengan pemikiran desain seperti ini, pembuatnya menyelesaikan pembuatan lemari dengan bentuk yang sangat istimewa ini.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 361125,
+    "Name": "Lemari Pakaian Hotel: Ruang Tambahan",
+    "Description": "Lemari pakaian yang umum ditemukan di The Flagship ini berkapasitas besar dengan kombinasi warna yang indah dan elegan.\nAwalnya, kapasitas lemari pakaian ini hanya setengah dari kapasitas saat ini. Namun, karena The Flagship memiliki banyak pelanggan yang tinggal lama, dan mereka perlu menyimpan berbagai pakaian untuk segala cuaca, kebutuhan akan kapasitas lemari pakaian pun meningkat. Para pelanggan mengajukan petisi bersama untuk memperluas kapasitas lemari pakaian tersebut. Kini, kapasitasnya sudah melebihi lemari pakaian pada umumnya. Namun, tidak diketahui kapan lemari ini akan diperluas lagi.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 362322,
+    "Name": "Karpet Bulan Embun: Warna Jernih",
+    "Description": "Karpet yang umum ditemukan di \"Enklave Bulan Embun\", menggunakan warna biru sebagai warna utama, dengan sentuhan warna oranye kemerahan yang mencolok dan menarik perhatian. Secara keseluruhan, menggunakan desain simetris yang tidak hanya menghadirkan keindahan visual, tetapi juga memberikan rasa keteraturan dan ketenangan jiwa.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 362323,
+    "Name": "Karpet Kecil Lembut",
+    "Description": "Karpet bulat yang bisa dilihat di \"Clink-Clank Krumkake Craftshop\", warnanya hangat dan dilukis dengan pola yang imut dan menghangatkan.\nKarpet ini menggunakan kain yang lembut dan padat, secara keseluruhan memberikan tekstur yang berbulu-bulu. Bahkan saat disentuh, rasanya seperti sedang mengelus kucing ....",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 364227,
+    "Name": "Seteguh Besi",
+    "Description": "Dekorasi dinding yang biasa ditemukan di kamp Lightkeeper, terdiri dari pedang dan perisai yang disilangkan. Benda ini melambangkan tekad dan kegigihan para Ratnik dalam melawan musuh dan melindungi keluarga mereka.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 364228,
+    "Name": "Panji Lightkeeper",
+    "Description": "Bendera yang umum terlihat di perkemahan Lightkeeper, dilukis dengan ikon menara mercusuar Lightkeeper, menunjukkan tekad Ratnik yang menjaga mercusuar dalam kegelapan malam dan tidak akan pernah mundur.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 364229,
+    "Name": "Lampu Dinding Kedai: Cahaya Koridor",
+    "Description": "Lampu dinding yang umum ditemukan di The Flagship, cahayanya terang dan sering digantung di koridor sebagai alat penerangan. Tali gantung lampu menggunakan desain tali putih bersih, dari kejauhan, cahaya lampu terlihat seolah melayang di atas koridor. Desain ini membuat lampu mudah terpengaruh getaran di sekitarnya dan sedikit berayun. Bartender yang berpengalaman bahkan bisa mengetahui keributan di meja bar melalui ayunan cahaya lampu untuk mencegah konflik yang mungkin terjadi.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371022,
+    "Name": "Bangunan Pendukung Markas: Rumah Kaca Serbaguna",
+    "Description": "Bangunan tambahan yang dibangun di atas Markas Kincir Kerplunk-a-tron, dilengkapi dengan dinding tebal dan pipa pembuangan khusus, serta terhubung dengan boiler pemanas eksternal yang dapat menjaga suhu ruangan secara stabil. Baik digunakan sebagai kamar tidur sementara untuk menjamu tamu, kamar mandi bersuhu konstan, atau bengkel khusus dengan pemanas berkelanjutan, bangunan jenis ini adalah pilihan yang ideal.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371023,
+    "Name": "Bangunan Pendukung Markas: Ruang Rahasia",
+    "Description": "Bangunan tambahan yang dibangun di atas Markas Kincir Kerplunk-a-tron. Bentuknya menyerupai ikan raksasa yang membuka mulutnya lebar-lebar. Atap dan dindingnya yang tebal membentuk penghalang yang andal, memberikan efek kedap suara dan kedap cahaya yang sangat baik untuk interior bangunan. Desain seperti ini sangat cocok digunakan sebagai laboratorium khusus yang memerlukan perlindungan dari cahaya dan suara, maupun sebagai brankas untuk menyimpan barang-barang berharga.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371024,
+    "Name": "Bangunan Pendukung Markas: Menara Air",
+    "Description": "Bangunan tambahan yang dibangun di atas Markas Kincir Kerplunk-a-tron. Memiliki struktur yang menjulang tinggi dan kapasitas yang besar, dilengkapi dengan fitur penyimpanan dan distribusi cairan, kadang-kadang juga dapat berfungsi sebagai menara pengawas. Berkat ketinggiannya, tanpa memerlukan tenaga eksternal, bangunan ini dapat memanfaatkan tekanan hidrostatik cairan untuk mengalirkan sumber air guna memenuhi kebutuhan pasokan air markas. Pada musim panas, bangunan ini juga dapat menyemprotkan kabut air untuk menghadirkan lingkungan yang sejuk dan nyaman bagi markas.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371025,
+    "Name": "Kincir Angin Markas: Daya Bantu",
+    "Description": "Kincir di bagian dalam Markas Kincir Kerplunk-a-tron dilengkapi dengan turbin-turbin di dalamnya yang memastikan rotasi yang stabil dalam berbagai kondisi cuaca. Saat angin kencang bertiup, kincir ini beroperasi dengan tenang, menghadirkan suasana damai dan tenteram ke halaman. Sedangkan saat udara stagnan dan panas yang menyengat, putaran lembutnya akan menghadirkan semilir angin yang menyegarkan.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371026,
+    "Name": "Gerbang Markas: Logika Transmisi",
+    "Description": "Gerbang yang digunakan oleh Markas Kincir Kerplunk-a-tron mengadopsi bingkai pintu logam berbentuk bulat khusus, dilengkapi dengan papan lampu bercahaya yang mencolok dan menarik.\nKeunggulan desain bingkai bulat adalah jarak dari posisi mana pun pada bingkai ke pusat adalah sama, memudahkan pengangkutan komponen dengan bentuk yang tidak biasa. Desain Markas Kincir Kerplunk-a-tron menambahkan papan lampu di atas dasar ini, membuat gerbang tetap mencolok di malam hari, memastikan kemudahan keluar masuk personel dan material.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371027,
+    "Name": "Platform Markas: Dasar Kokoh",
+    "Description": "Platform logam dari Markas Kincir Kerplunk-a-tron, mengadopsi desain struktur klasik fondasi sebagian bangunan Nod-Krai. Di balik penampilan sederhana dan polosnya, tersembunyi performa daya dukung yang menakjubkan. Platform ini tidak hanya mampu menopang berbagai beban dengan mudah di lingkungan normal, tetapi juga dapat menopang operasi perangkat teknik besar dengan kokoh di tanah yang lunak. Tanpa berlebihan, pemandangan yang makmur dari Markas Kincir Kerplunk-a-tron dibangun di atas fondasi kokoh ini.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371028,
+    "Name": "Dinding Markas: Garis Penghalang",
+    "Description": "Dinding rendah yang terbuat dari plat logam di \"Markas Kincir Kerplunk-a-tron\". Desain ini terinspirasi dari pengalaman Nod-Krai saat melawan Perburuan Liar. Dinding pendek ini memiliki fitur perlindungan, sangat ekonomis dan mudah dipasang, menyediakan tempat berlindung yang dapat diandalkan dan cukup untuk penembak jitu.\nSekarang, dinding pendek ini diberi tugas baru di Markas Kincir Kerplunk-a-tron: yaitu digunakan sebagai alat pemisahan ruang agar struktur di dalam markas terlihat jelas, dengan efek visual yang terbuka dan transparan.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 371029,
+    "Name": "Pilar Markas: Suar Serbaguna",
+    "Description": "Tiang logam dari \"Markas Kincir Kerplunk-a-tron\" yang memiliki desain kokoh dan tegak. Saat digunakan sebagai pemandangan yang berdiri sendiri, dapat menambahkan kesan kekuatan dan teknologi pada halaman. Pada saat yang sama, tiang ini sangat praktis dengan alat pengangkat bendera yang terpasang di bagian samping, sementara bagian atasnya kompatibel dengan berbagai peralatan praktis, sehingga disebut sebagai suar \"serbaguna\".",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 373940,
+    "Name": "Pelukan Lembut",
+    "Description": "Patung batu putih keperakan yang umum ditemukan di area Pulau Hiisi, Nod-Krai, memiliki postur yang menyerupai pelukan dan dapat memberikan kehangatan visual kepada orang yang melihatnya.\n\"Anak yang tersesat, atas nama keturunan ujung utara, aku memohon berkah cahaya terang, semoga anugerah Bulan Embun meredakan angin dingin malam dan menghangatkan anak burung yang menggigil di tanah beku.\"\nMungkin dengan harapan untuk mengusir penyakit dan menjauhkan semua orang dari penderitaan, pengrajin patung tersebut memberikan makna simbolis yang penuh penghiburan pada bentuk ini.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 374129,
+    "Name": "Pagar Kota: Kursi Praktis",
+    "Description": "Pagar rendah berbahan batu yang umum ditemukan di kota. Permukaannya rata dan kokoh dengan sandaran tangan yang cukup lebar sehingga dapat dijadikan kursi sementara. Tapi perlu diingat, jangan berjalan di atas sandaran tangannya karena itu berbahaya ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 374130,
+    "Name": "Pagar Kota: Ombak Biru dan Biru",
+    "Description": "Pagar kayu rendah yang dapat ditemukan di kota, bentuknya unik, seperti ombak biru yang bergelombang.\nPagar ini tidak memiliki banyak fitur pembatas, tetapi keunggulannya terletak pada bentuknya yang unik dan indah, sehingga sering digunakan sebagai properti pemisah wilayah.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari menyelesaikan Kronik Anekdot"
+    ],
+    "Id": 374822,
+    "Name": "Pot Ikan Goyang Dombret",
+    "Description": "Ikan mekanis buatan Aino. Dilengkapi dengan buku petunjuk tulisan tangan, tulisannya agak berantakan, tetapi masih bisa dibaca. Berisi beberapa catatan:\n1. Tidak perlu disiram!\n2. Jangan dikasih makan krumkake!\n3. Harus dirawat baik-baik!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari membeli Gnostic Chorus Battle Pass"
+    ],
+    "Id": 374823,
+    "Name": "Patung Sparks 'n' Splash Jumbo",
+    "Description": "Patung yang dibuat berdasarkan sosok \"Spark Knight\" yang terkenal di Mondstadt. Sepertinya menangkap sosok gagahnya ketika mengubah segala sesuatu menjadi abu dengan ledakan-ledakan api.\nSiapakah kekuatan terkuat di Mondstadt? Ada yang bilang Jean yang terkenal itu, ada yang menyebut Grand Master Varka yang sedang dalam ekspedisi, tapi ada juga beberapa orang yang dalam hatinya merasa bahwa kekuatan terkuat masih gadis kecil misterius berbaju merah yang memiliki \"harta karun\" terkuat ....",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372521,
+    "Name": "Cahaya Bulan nan Gemulai",
+    "Description": "Tanaman berwarna putih perak yang sering ditemukan di \"Aula Bulan Perak\".\nTanaman ini memiliki batang yang ramping dan melengkung serta cabang berbentuk seperti Rembulan. Setiap kali angin malam berembus, tanaman ini akan bergoyang lembut, seolah sinar bulan tengah bergoyang.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372522,
+    "Name": "Goyangan Berkilau",
+    "Description": "Tumbuhan yang tumbuh rimbun dan memancarkan cahaya redup memiliki vitalitas yang kuat. Bahkan tanpa cahaya matahari atau kekurangan air, ia tetap dapat tumbuh dengan leluasa dan subur.\n\"Benda apa yang bergoyang-goyang dan juga berkilau-kilau?\"\nAnak-anak menciptakan teka-teki yang sederhana dan mudah dipahami, menunggu kapan mereka bisa bertemu dengan orang asing dari negeri jauh untuk bermain permainan tanya jawab dengannya.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372523,
+    "Name": "Bola-Bola Bulu",
+    "Description": "Semak pendek berwarna ungu yang menyerupai bola bulu lembut. Tanaman ini memiliki penampilan yang menarik dan daya tahan yang kuat, menjadikannya tanaman hias berkualitas tinggi.\nTanaman jenis ini memiliki ranting yang mudah dipangkas, sehingga dengan tangan terampil para tukang kebun, sering kali dapat muncul dalam berbagai bentuk. Contohnya anjing yang lincah, kucing yang lucu, atau burung yang melompat-lompat ....",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372524,
+    "Name": "Pemburu Bayaran",
+    "Description": "Semak hijau pendek yang menyerupai bola bulu halus dengan daya adaptasi lingkungan yang sangat kuat, dapat bertahan hidup di lingkungan yang sangat keras.\nKonon, di antara jenis tanaman ini, ada satu dari seratus ribu kasus spesial yang akan mengubah warna daun dan rantingnya karena pengaruh lingkungan tempat tinggalnya dalam jangka panjang, seperti \"Pemburu Bayaran\" yang menyesuaikan cara bertahan hidupnya mengikuti perubahan situasi.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372359,
+    "Name": "Pohon Ungu Pengejar Angin",
+    "Description": "Pohon yang umum ditemukan di alam liar Nod-Krai, memiliki batang yang ramping dan melengkung serta tajuk yang relatif tipis.\nPohon jenis ini memiliki karakteristik yang sangat beradaptasi dengan lingkungan, yaitu tumbuh mengikuti arah angin. Dengan begitu, meski angin kencang berembus, pohon-pohon ini tetap terhindar dari kerusakan.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372360,
+    "Name": "Bisikan Hutan Rimbun",
+    "Description": "Pohon yang umum ditemukan di sekitar Aula Bulan Perak, memiliki bentuk unik yang berbeda dari pohon pada umumnya.\n\"Saat angin berhembus, sirami Verdant Crest dengan air suci yang diberkati dari cawan perak, untuk menyenangkan para dewa ...\"\nApakah bisikan harapan orang-orang dapat didengar masih belum diketahui, namun Verdant Crest yang disiram dengan kuuvahki telah menumbuhkan kehidupan yang subur ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372361,
+    "Name": "Pohon Citrine Bercahaya Rembulan",
+    "Description": "Pohon yang umum ditemukan di sekitar Pulau Hiisi, Nod-Krai, memiliki batang yang ramping dan melengkung serta mahkota pohon berwarna kuning keemasan.\nKonon, \"Bani Bulan Embun\" sangat menyukai pohon ini karena warna daunnya yang menyerupai warna keemasan cahaya bulan. Oleh karena itu, mereka menanam pohon ini di kedua sisi jalan menuju Light-Bathed Platform untuk mengungkapkan pengabdian mereka kepada para dewa.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372362,
+    "Name": "Pohon Twigsprout",
+    "Description": "Pohon yang umum ditemukan di alam liar Nod-Krai, memiliki batang yang cukup kokoh dan mahkota berwarna hijau segar.\nKonon, pohon ini dan kerabat dekatnya memiliki vitalitas yang sangat kuat. Sistem akarnya berkembang dengan baik dan dapat dengan cepat meresap ke dalam tanah untuk menyerap nutrisi. Bahkan hanya dengan mematahkan ranting kecil dan menancapkannya ke tanah, tidak lama kemudian akan tumbuh tunas dan menjadi pohon baru. Nama pohon ini berasal dari fenomena tersebut.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372236,
+    "Name": "Ombak Bulan Sabit",
+    "Description": "Sejenis batu pegunungan yang umum ditemukan di dalam \"Aula Bulan Perak\", memiliki bentuk unik menyerupai gelombang pasang.\n\"Pergerakan Bulan Abadi mengendalikan pasang surut air.\" Entah apa yang ada di pikiran Gadis Bulan saat batu-batu ini terkikis oleh gravitasi ...?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372237,
+    "Name": "Penjaga Harta Karun",
+    "Description": "Bebatuan gunung yang umum ditemukan di alam liar Nod-Krai ini berat dan kokoh. Bahkan pria kekar yang memegang senjata tajam pun akan kesulitan memindahkannya. Oleh karena itu, bebatuan ini sering dianggap sebagai hambatan yang merepotkan dalam pembangunan rumah atau pembangunan jalan. Namun, bagi hewan-hewan kecil yang ahli dalam menggali, bebatuan gunung yang bahkan tidak dapat digerakkan oleh hewan besar ini tidak diragukan lagi merupakan \"Penjaga Harta Karun\" terbaik.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Perabot"
+    ],
+    "Id": 372238,
+    "Name": "Tinju Bebatuan",
+    "Description": "Batu gunung yang umum ditemukan di alam liar Nod-Krai, memiliki permukaan yang kokoh dan licin. Karena ukurannya yang relatif kecil, sering kali tersembunyi di tengah vegetasi lebat dan tidak mudah ditemukan. Oleh karena itu, petualang berpengalaman akan mengingatkan pendatang baru: \"Hati-hati saat berpijak! Tersandung batu ini lebih sakit daripada ditabrak Blunthorn Rhino.\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363387,
+    "Name": "Gerbang Benteng: Paling Bisa Diandalkan",
+    "Description": "Gerbang Titik Kendali logam yang mencolok dan megah, dengan struktur yang kuat dan dapat diandalkan, mampu menahan serangan beruntun dari para monster.\nMenurut Blue Bolt, sosok gerbang yang gagah perkasa ini dirancang oleh penemu jenius yang terinspirasi dari partner Bangboo-nya, \"Sproutie\". Dua jempol yang teracung dan ekspresi penuh percaya diri itu seakan memberikan jaminan: \"Tenang saja, serahkan semuanya padaku!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363388,
+    "Name": "Iron Wolf",
+    "Description": "Sampel minuman spesial yang terkesan liar dan bebas. Minuman ini adalah mahakarya yang dikembangkan khusus untuk Varka berdasarkan \"Thorny Lake\" selama \"The Honorary Knight's Cocktail Shack\" beroperasi.\nSang Grand Master, yang sudah sangat sering mencicipi anggur berkualitas tinggi, mendesakmu untuk menunjukkan kejeniusanmu dan mengembangkan imajinasimu tanpa batas dalam sebuah minuman. Jadi, kamu pun melancarkan \"serangan\" yang luar biasa kepada sang Grand Master!\nSerangan gelombang pertama dari kesegaran daun mint dan aroma tumbuhan, dengan berbagai lapisan rasa yang sengaja dipertahankan, cukup untuk menutupi rasa utama yang kuat dari Fire-Water yang melancarkan \"serangan\" utamanya. Di sisi lain, Smetana ditempatkan di barisan belakang, menjaga bagian akhirnya dengan teliti, tanpa celah sedikit pun ....\nKamu menamai minuman ini \"Iron Wolf\", nama yang diambil berdasarkan ciri khas Grand Master dan Mondstadt. Lapisan demi lapisan rasa yang luar biasa ini membuat sang Grand Master sangat puas dan meminumnya tanpa henti ....",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363389,
+    "Name": "Dodoco's Duet",
+    "Description": "Sampel minuman spesial rasa asam manis yang penuh semangat. Minuman ini adalah karya istimewa yang dikembangkan khusus untuk Klee berdasarkan \"Fairweather Frolic\" selama \"The Honorary Knight's Cocktail Shack\" beroperasi.\n\"Fairweather Frolic\" yang aslinya berwarna ungu dan terasa kurang semangat. Jadi, kita tambahkan sinar matahari dan awan putih agar bisa membuat suasana hati lebih ceria!\nRasa manis adalah hal yang wajib, tapi kesehatan juga adalah prioritas utama. Oleh karena itu, dipilihlah jus yang disetujui oleh Master Jean. Kandungan gulanya berasal dari Bulle Fruit!\nBagian yang paling paling penting adalah permen Dodoco-nya! Ini harus diletakkan di tengah \"awan\"-nya dong!\nKlee berkata, \"Cuaca bagus, suasana hati bagus, Dodoco nyanyi, Klee ikut nyanyi juga!\", itulah kenapa minuman ini diberi nama Dodoco's Duet.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363390,
+    "Name": "Seafoam Swordsong",
+    "Description": "Sampel racikan khusus yang menyegarkan dan kuat, adalah karya agung yang dikembangkan khusus untuk Eula berdasarkan \"Twinkling Starlight\" selama \"The Honorary Knight's Cocktail Shack\" beroperasi.\nKemampuan pedang Eula bagaikan tarian pusaran angin dengan senjata Claymore-nya. Serangannya dahsyat seperti salju longsor, dan diakhiri dengan tebasan yang tegas nan elegan. Sementara preferensi pribadinya untuk minuman juga sangat berani.\nOleh karena itu, minuman ini merupakan campuran antara Fire-Water yang murni, ditambah ekstrak jus Romaritime Flower sebagai tanda kenang-kenangan, serta kakao yang menyegarkan untuk menghilangkan segala rasa lelah. Semua bahan ini berperan dalam menciptakan sebuah pesta tarian yang sedang berlangsung di dalam gelas ini.\nDengan mempertimbangkan bahwa ini adalah racikan khusus yang dibuat untuk kemampuan pedang Spindrift Knight, kamu memberi nama \"Seafoam Swordsong\" untuk minuman ini. Eula pun langsung meneguk tiga gelas untuk menunjukkan pengakuannya ....",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363391,
+    "Name": "Slumbering Rose",
+    "Description": "Sampel racikan khusus yang memancarkan aura santai ini adalah karya istimewa yang dibuat khusus untuk Lisa berdasarkan \"Snow-Kissed Dawn\" selama \"The Honorary Knight's Cocktail Shack\" beroperasi.\nSetelah beraktivitas seharian, pustakawan ini perlu mengisi ulang energi tapi tidak ingin susah tidur. Oleh karena itu, dalam proses pembuatannya, kamu menghindari penggunaan bahan-bahan yang meningkatkan energi, juga berusaha mencari keseimbangan tepat antara rasa manis karamel dan rasa asam yang segar ...\nTujuannya adalah agar peminumnya bisa \"tidur nyenyak dan damai\". Kamu pun menyarankan untuk memberinya nama \"Slumbering Rose\", dan langsung mendapatkan nilai seratus dari Lisa.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363392,
+    "Name": "Leisuretime Lightning",
+    "Description": "Sampel racikan khusus yang santai namun tetap penuh dengan detail. Minuman ini merupakan karya istimewa yang dikembangkan khusus untuk Clorinde berdasarkan \"Caramel Blaze\" selama \"The Honorary Knight's Cocktail Shack\" beroperasi.\nSang Petarung Juara yang menggebu-gebu mengunjungi Mondstadt karena terkesan dengan Klub Sandiwara Meja. Dia sangat peka terhadap aroma logam, yang berarti lebih sensitif terhadap rasa \"asin\". Minuman kesukaannya seringkali sedikit asam dan menyegarkan. Bagi seorang bartender biasa, menyeimbangkan kedua persyaratan ini membutuhkan kehati-hatian yang maksimal. Tapi setelah mengasah keterampilanmu di Angel's Share dan The Flagship, kamu jelas mampu mengontrol perbandingan setiap senyawa rasa dengan tepat.\nAgar Clorinde dapat menikmati perjalanan santai di Mondstadt, kamu menamai racikan khusus ini sebagai \"Leisuretime Lightning\", dan akhirnya menjadi salah satu ingatan yang sangat berkesan di hati Clorinde tentang Mondstadt.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Event Waktu Terbatas"
+    ],
+    "Id": 363393,
+    "Name": "Windborne Bouquet",
+    "Description": "Sampel racikan yang elegan, tenang, dan beraroma khas ini merupakan mahakarya yang dikembangkan khusus untuk Emilie berdasarkan \"Lumidouce Twilight\" selama \"The Honorary Knight's Cocktail Shack\" beroperasi.\nSeorang ahli parfum dari Fontaine memberitahukan kepadamu kalau rasa manis yang berlebihan dapat membuat orang mengantuk. Emilie juga lebih suka sensasi yang lembut dan menyenangkan. Jelas, membuat pelanggan tertidur di bar bukanlah tujuan utama seorang bartender ....\nPada hari yang cerah dan tenang, indra orang-orang yang lebih tajam dapat memperkuat cita rasa minuman yang tercampur sempurna.\nDengan mengikuti filosofi pembuatan parfum ini, kamu pun meracik mahakarya yang lembut dan elegan ini ... Sedangkan Emilie memberikan nama baru yang elegan \"Windborne Bouquet\" berdasarkan pola pikirnya sebagai seorang ahli parfum ....",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 360107,
+    "Name": "Rahasia Pendinginan Markas",
+    "Description": "Dinding dalam standar dari \"Markas Kincir Kerplunk-a-tron\" yang terbuat dari material logam daur ulang yang biasa digunakan di Nod-Krai. Memiliki warna dingin yang keras dan konduktivitas termal yang sangat baik. Konon, dinding seperti ini membuat bangunan tetap sejuk dan nyaman meskipun dipanggang oleh terik matahari.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 360307,
+    "Name": "Plafon Berpanel Markas",
+    "Description": "Langit-langit standar \"Markas Kincir Kerplunk-a-tron\" yang dibuat dari plat logam homogen yang dipotong dengan cermat, mudah dipasang, mudah dibersihkan, dan memiliki fitur serta keamanan yang luar biasa. Konon, bahan yang digunakan sama dengan kerangka luar mesin kuuvahki, memastikan kekuatan tinggi sekaligus mengurangi berat secara efektif, sehingga dapat dengan sepenuhnya menghilangkan risiko keamanan.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 360207,
+    "Name": "Lantai Paduan Logam Markas",
+    "Description": "Ubin standar dari \"Markas Kincir Kerplunk-a-tron\". Terbuat dari berbagai plat logam dengan bentuk yang berbeda-beda yang digabungkan bersama, memberikan lantai kesan visual yang berlapis dan indah. Desain yang bervariasi dan tidak beraturan membuat suasana dalam ruangan terasa hidup dan ceria, sekaligus menampilkan gaya yang unik. Meskipun desain inovatif ini meningkatkan kesulitan dan biaya pemasangan serta perawatan, namun berkat penggunaan material logam daur ulang, kekurangan tersebut dapat diimbangi secara efektif.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Dari Depot Realm: Blueprint"
+    ],
+    "Id": 360507,
+    "Name": "Ketenangan Lembut Markas",
+    "Description": "Lampu gantung standar dari \"Markas Kincir Kerplunk-a-tron\" ini terdiri dari kombinasi perlengkapan gantung logam dengan beberapa lampu. Gaya keseluruhannya kokoh dan simpel. Setiap kali malam tiba, cahaya lampu bertemu dan cahaya lembut yang tersebar seperti kain, seolah mengubah lingkungan tempat tinggal menjadi dunia yang tenang dan hangat, menghilangkan semua kelelahan dan kekhawatiran.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "Pintu Brankas Markas",
+    "Description": "Pintu standar dari \"Markas Kincir Kerplunk-a-tron\" ini terbuat dari beberapa lapisan material logam yang dilas, desainnya mengacu pada pintu ruang harta karun, yaitu menggabungkan fungsi anti-rusak yang indah dan praktis. Pintu seperti ini dapat secara efektif menahan kerusakan dari alat seperti bor, pengungkit, dan palu. Tujuan awal desain ini adalah untuk mencegah segala tamu tak diundang. Tentu saja, untuk Alam Poci yang aman, performa pertahanan seperti ini tampaknya berlebihan. Lebih sering, mungkin hanya untuk menghindari hewan-hewan kecil yang menggunakannya sebagai papan cakaran.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "Gema Nyaring di Markas",
+    "Description": "Tangga logam sudut yang standar dari \"Markas Kincir Kerplunk-a-tron\". Terkenal dengan kekuatan tinggi, daya tahan tinggi, dan bobot rendah. Ketika langkah kaki menginjakkan tangga baja ini, suara nyaring akan terdengar, dan jika dikombinasikan dengan struktur bangunan yang memiliki gema, mungkin akan menghasilkan irama drum yang penuh semangat.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "Markas Kincir Kerplunk-a-tron",
+    "Description": "Fondasi besar dan komprehensif yang dibangun oleh Sphere of Fleeting Shadow di Serenitea Pot untuk mereproduksi pemandangan Nod-Krai, menggunakan struktur rangka logam yang telah teruji waktu dan dilengkapi dengan sistem transportasi yang lengkap, memancarkan suasana liar yang tidak terikat aturan, sejalan dengan filosofi desain \"Clink-Clank Krumkake Craftshop\". Namun, dibandingkan dengan Clink-Clank Krumkake Craftshop, \"Markas Kincir Kerplunk-a-tron\" menghilangkan fungsi produksi dan mengurangi penggunaan pencahayaan. Meski begitu, kincir angin yang terus berputar di atap tetap membuat orang merasakan kesibukan bengkel, memunculkan tenaga yang menggebu-gebu di dalam dada.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

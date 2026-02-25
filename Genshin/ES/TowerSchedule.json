@@ -1,37 +1,5 @@
 [
   {
-    "Id": 114,
-    "FloorIds": [
-      1110,
-      1111,
-      1118,
-      1119
-    ],
-    "Open": "2025-12-16T04:00:00+08:00",
-    "Close": "2026-01-16T03:59:59+08:00",
-    "BuffName": "Luna tormentosa",
-    "Descriptions": [
-      "#Cuando el personaje en uso golpea a un enemigo con la reacción de Torbellino, <color=#F39000>libera una onda de choque</color> en la ubicación del enemigo que inflige Daño Verdadero. Este efecto solo se puede activar una vez cada 2{NON_BREAK_SPACE}s."
-    ],
-    "Icon": "UI_TowerBlessing_100"
-  },
-  {
-    "Id": 115,
-    "FloorIds": [
-      1110,
-      1111,
-      1120,
-      1121
-    ],
-    "Open": "2026-01-16T04:00:00+08:00",
-    "Close": "2026-02-16T03:59:59+08:00",
-    "BuffName": "Luna insurgente",
-    "Descriptions": [
-      "#Cuando el personaje golpea a un enemigo con una Reacción Lunar (Florecimiento Lunar, Electrocargado Lunar o Cristalización Lunar), <color=#F39000>libera una onda de choque</color> en la ubicación del enemigo que inflige Daño Verdadero. Este efecto solo se puede activar una vez cada 3{NON_BREAK_SPACE}s."
-    ],
-    "Icon": "UI_TowerBlessing_101"
-  },
-  {
     "Id": 116,
     "FloorIds": [
       1110,
@@ -46,6 +14,22 @@
       "#Cuando el personaje inflige daño de Cristalización Lunar a un enemigo, <color=#F39000>libera una onda de choque</color> en la ubicación del enemigo que inflige Daño Verdadero. Este efecto solo se puede activar una vez cada 3{NON_BREAK_SPACE}s."
     ],
     "Icon": "UI_TowerBlessing_102"
+  },
+  {
+    "Id": 117,
+    "FloorIds": [
+      1110,
+      1111,
+      1124,
+      1125
+    ],
+    "Open": "2026-03-16T04:00:00+08:00",
+    "Close": "2026-04-16T03:59:59+08:00",
+    "BuffName": "Luna azotaviento",
+    "Descriptions": [
+      "#Cuando el personaje cause una reacción de Torbellino contra un enemigo, obtendrá 1 carga de “ferocidad del viento”. Al alcanzar 4 cargas, se <color=#F39000>liberará una onda de choque</color> en la ubicación del enemigo que inflige Daño Verdadero y consume todas las acumulaciones de ferocidad del viento. Como máximo, se puede obtener 1 carga de ferocidad del viento cada 0.1{NON_BREAK_SPACE}s y liberar una onda de choque de esta forma cada 6{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_100"
   },
   {
     "Id": 1,
@@ -1865,5 +1849,37 @@
       "Cuando el valor del pacto vital del personaje en uso aumenta o disminuye, se <color=#F39000>libera una onda de choque</color> que inflige Daño Verdadero a los enemigos cercanos."
     ],
     "Icon": "UI_TowerBlessing_99"
+  },
+  {
+    "Id": 114,
+    "FloorIds": [
+      1110,
+      1111,
+      1118,
+      1119
+    ],
+    "Open": "2025-12-16T04:00:00+08:00",
+    "Close": "2026-01-16T03:59:59+08:00",
+    "BuffName": "Luna tormentosa",
+    "Descriptions": [
+      "#Cuando el personaje en uso golpea a un enemigo con la reacción de Torbellino, <color=#F39000>libera una onda de choque</color> en la ubicación del enemigo que inflige Daño Verdadero. Este efecto solo se puede activar una vez cada 2{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Luna insurgente",
+    "Descriptions": [
+      "#Cuando el personaje golpea a un enemigo con una Reacción Lunar (Florecimiento Lunar, Electrocargado Lunar o Cristalización Lunar), <color=#F39000>libera una onda de choque</color> en la ubicación del enemigo que inflige Daño Verdadero. Este efecto solo se puede activar una vez cada 3{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_101"
   }
 ]

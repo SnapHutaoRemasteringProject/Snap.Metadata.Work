@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka - Lobo alfa",
+    "Description": "Diseño de tarjeta de presentación.\nLa manada persigue al viento que viene del norte, pero solo el líder sabe que, desde el momento en que empezaron a correr, el viento ya rodeaba sus patas.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "PB - Viento del Norte",
+    "Description": "Diseño de tarjeta de presentación.\nEsto es lo que el viento puede traer del norte: un poco de frío, la última fragancia de las flores antes de desprenderse de sus ramas y la noticia de que un viajero lejano pronto regresará a casa.",
+    "SpecialDescription": "#Diseño de tarjeta de presentación: PB{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Viento del Norte",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

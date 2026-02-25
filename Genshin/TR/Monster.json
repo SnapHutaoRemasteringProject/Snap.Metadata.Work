@@ -8772,7 +8772,7 @@
     "DescribeId": 41001,
     "MonsterName": "Gastrobot_01",
     "Name": "Demir Yumruk Ördek",
-    "Title": "Mekaniğin Gururu",
+    "Title": "Şaheserin Gölgesi",
     "Description": "Hurda metal ve mekanik rulmanlardan yapılmış, tuhaf şekilli bir Kuuvahki cihazı. Yaratıcısının tercihleri doğrultusunda kısmen bir \"ördeği\" andırıyor gibi duruyor.\nÜrettiği güç ve hasara karşı direnci, Fatui'nin en son teknoloji savaş silahlarıyla boy ölçüşebilir nitelikte... Ama yine de, rakiplerini yalnızca çok ama çok sert bir şekilde yumruklayabilen bir oyuncak ördekten öteye geçemiyor. Bir yaratıcının tercihleri, yaratılan eserin görünümünü büyük ölçüde belirler. Zira kil, çömlekçinin onu hangi kalıplarda şekillendireceğini sorgulayacak yetkiye sahip değildir. Ayın altındaki dünya, insanların uzun zamandır kanıksadığı bir biçime sokulmuş olsa da ilk sakinlerinin gözünde bu biçim, yaratıcısının tuhaf tercihleriyle şekillendirilmiş o garip ördeğe benziyor olmalı.\nMavi saçlı hizmetçi, Krumkake Atölyesinin hanımına böyle bir şey söylemeyecektir elbette. Ne de olsa ördekler, özellikle dünyanın mevcut haliyle karşılaştırıldığında oldukça sevimli canlılardır.",
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 2,
@@ -12064,7 +12064,7 @@
   {
     "Id": 0,
     "DescribeId": 55152,
-    "Name": "Kudretli Koholazor Savaşçısı: Dalga Dokuyan",
+    "Name": "Savaş Uzmanı Dalga Dokuyan",
     "Title": "???",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
     "Type": 0,
@@ -16679,7 +16679,7 @@
     "Id": 0,
     "DescribeId": 63005,
     "Name": "Savaş Uzmanı Parlak Buzul Kurdu",
-    "Title": "Parıltılı Yaratık",
+    "Title": "Savaş Uzmanı Buzul Kurdu",
     "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
     "Type": 0,
     "Arkhe": 0
@@ -16728,6 +16728,66 @@
       "WindSubHurt": 0.1,
       "IceSubHurt": 0.1,
       "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26302101,
+    "DescribeId": 63021,
+    "MonsterName": "Monster_Magbeast_Gecko_01",
+    "Name": "Parıltılı Ay Gekosu",
+    "Title": "Ay Arayan Ejder",
+    "Description": "Ay ışığına çekilen antik bir canavar olan bu geko, kaya katmanlarının derinliklerinde yaşar.\nKuuvahki enerjisinin kademeli birikimi bu gekonun vücudunu kristalleştirerek mekanizma benzeri hassas parçalara dönüştürmüştür. Bu parçalar sertleşerek davetsiz misafirleri püskürtmek için kullanılan taş dikenler oluşturabilir.\nBazı alimler, bu sıra dışı kertenkelenin atalarının bir zamanlar yüzeyde dolaştığına inanmaktadır. Çağlar boyunca dünyada yaşanan büyük değişiklikler onları yerin altına sürüklemiş ve o zamandan beri sayısız nesil boyunca karanlıkta yaşamışlardır. Gerçek ay ışığının anısı solmuş olsa da içgüdüleri devam etmektedir. Bu içgüdü, onları dolunay gecelerinde soylarını korumak için ayın parlaklığıyla dolu kaya ve toprakla beslenmeye zorlar.",
+    "Icon": "UI_MonsterIcon_Magbeast_Gecko",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "多层护盾G教学关联词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113085,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 285.264,
+      "AttackBase": 87.92,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.7,
       "PhysicalSubHurt": 0.1
     },
     "GrowCurves": [
@@ -16820,6 +16880,15 @@
     "GrowCurves": []
   },
   {
+    "Id": 0,
+    "DescribeId": 90102,
+    "Name": "Fırtına Dehşeti",
+    "Title": "Mondstadt'ın Muazzam Kasırgası",
+    "Icon": "UI_MonsterIcon_Dvalin",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 29020101,
     "DescribeId": 90201,
     "MonsterName": "Monster_Wolf_LupiBoreas",
@@ -16859,6 +16928,27 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90202,
+    "Name": "Poyraz Kurdu, Kurtların Hakimi",
+    "Title": "Mondstadt'ın Muazzam Kasırgası",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0,
+    "Affixes": [
+      "北风狼试炼-循环标记"
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90203,
+    "Name": "???",
+    "Title": "Mondstadt'ın Muazzam Kasırgası",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 29030101,

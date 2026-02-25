@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "Vốn Nên Như Vậy",
-    "Description": "Chứng kiến sự trở về của Trăng Ác Mộng.",
+    "Description": "Chứng kiến sự trở lại của Mặt Trăng Giả.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "Bước Đi Trên Trăng",
+    "Description": "Khi Thằn Lằn Ánh Trăng Bức Xạ chuẩn bị thi triển \"Đạp Bước Hư Không\", hãy phá hủy \"Đá Neo Mặt Trăng\" để gián đoán việc tích tụ năng lượng của nó.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

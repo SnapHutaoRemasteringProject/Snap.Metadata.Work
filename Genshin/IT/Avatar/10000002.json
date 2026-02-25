@@ -1153,5 +1153,11 @@
     "Description": "Stile per la carta giocatore.\nAyaka porta con sé un ventaglio sempre diverso. Se vuoi regalargliene uno, ricorda di evitare i ventagli estivi o da lancio. Quelli per la danza o per il tè, invece, sono ottime scelte.",
     "Icon": "UI_NameCardIcon_Ayaka",
     "PicturePrefix": "UI_NameCardPic_Ayaka"
+  },
+  "TraceEffect": {
+    "Id": 215018,
+    "Name": "Eco: Airone dei ghiacci",
+    "Description": "L'Eco immaginario di Kamisato Ayaka. \"Non parlare dell'inverno come se fosse privo di colori: la neve bianca cade e riempie ogni angolo\".",
+    "Icon": "UI_TraceEffectIcon_Ayaka"
   }
 }

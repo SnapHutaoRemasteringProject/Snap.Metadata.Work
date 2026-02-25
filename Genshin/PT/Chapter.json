@@ -3648,6 +3648,20 @@
     "QuestType": 7
   },
   {
+    "Id": 2087,
+    "GroupId": 0,
+    "BeginQuestId": 1600901,
+    "EndQuestId": 1601112,
+    "NeedPlayerLevel": 40,
+    "Number": "Capítulo de Lupus Majoris: Ato I",
+    "Title": "Para Aqueles Que Embarcam na Expedição",
+    "Icon": "UI_ChapterIcon_Varka",
+    "ImageTitle": "Varka",
+    "SerialNumberIcon": "UI_QuestType_Chapter_1",
+    "CityId": 1,
+    "QuestType": 2
+  },
+  {
     "Id": 10048,
     "GroupId": 10048,
     "BeginQuestId": 4021703,
@@ -4137,6 +4151,45 @@
     "QuestType": 3
   },
   {
+    "Id": 10174,
+    "GroupId": 10174,
+    "BeginQuestId": 4022901,
+    "EndQuestId": 4022910,
+    "NeedPlayerLevel": 0,
+    "Number": "Prólogo? - Ato I",
+    "Title": "O Forasteiro que Voa a Favor do Vento",
+    "Icon": "UI_ChapterIcon_Mengde",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10175,
+    "GroupId": 10174,
+    "BeginQuestId": 4023001,
+    "EndQuestId": 4023021,
+    "NeedPlayerLevel": 0,
+    "Number": "O Viajante que Persegue o Vento: Parte II",
+    "Title": "Por um Reencontro Sem Lágrimas",
+    "Icon": "UI_ChapterIcon_BubbleDrama",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10176,
+    "GroupId": 10174,
+    "BeginQuestId": 4023101,
+    "EndQuestId": 4023115,
+    "NeedPlayerLevel": 0,
+    "Number": "O Viajante que Persegue o Vento: Parte III",
+    "Title": "Variação do Dragão e Liberdade",
+    "Icon": "UI_ChapterIcon_BubbleDrama",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
     "Id": 10177,
     "GroupId": 10177,
     "BeginQuestId": 7609930,
@@ -4238,6 +4291,18 @@
     "Icon": "UI_ChapterIcon_Fontaine",
     "SerialNumberIcon": "",
     "CityId": 5,
+    "QuestType": 7
+  },
+  {
+    "Id": 10189,
+    "GroupId": 0,
+    "BeginQuestId": 7007401,
+    "EndQuestId": 7007409,
+    "NeedPlayerLevel": 0,
+    "Title": "Tarefa da Bruxa: Sem Título",
+    "Icon": "UI_ChapterIcon_Hexenzirkel",
+    "SerialNumberIcon": "",
+    "CityId": 1,
     "QuestType": 7
   },
   {

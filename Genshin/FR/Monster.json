@@ -8772,7 +8772,7 @@
     "DescribeId": 41001,
     "MonsterName": "Gastrobot_01",
     "Name": "Canard à torgnoles",
-    "Title": "Fierté de la patronne de l'atelier",
+    "Title": "Fantôme de chef-d'œuvre",
     "Description": "Un mécanisme kuuvahkique de fabrication particulière, assemblé à partir de ferraille et d'articulations mécaniques. Sa vague ressemblance avec un canard est due aux préférences de sa créatrice.\nSa force de frappe et sa robustesse sont comparables à celles des armes de guerre les plus sophistiquées des Fatui... Malgré cela, il ne s'agit que d'un jouet en forme de canard capable de frapper ses adversaires très, très fort. Les préférences d'un créateur déterminent toujours en grande partie l'apparence du produit fini, tout comme l'argile n'a pas l'autorité nécessaire pour remettre en question le choix des moules dans lesquels son créateur l'a coulée. Le monde sous le clair de lune a depuis longtemps été modelé pour prendre une forme que les gens considèrent comme une évidence. Mais aux yeux de ses habitants d'origine, cette apparence doit certainement faire le même effet que ce drôle de canard façonné selon les étranges lubies de sa créatrice.\nBien entendu, la domestique aux cheveux bleus ne tiendra jamais de tels propos devant la maîtresse de la Knieperterie Cling-clang. Les canards restent d'adorables animaux, surtout comparés à l'aspect actuel du monde.",
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 2,
@@ -12064,7 +12064,7 @@
   {
     "Id": 0,
     "DescribeId": 55152,
-    "Name": "Guerrière koholasaure vétérane : Navette à vagues",
+    "Name": "Navette à vagues vétérane",
     "Title": "???",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
     "Type": 0,
@@ -16679,7 +16679,7 @@
     "Id": 0,
     "DescribeId": 63005,
     "Name": "Loup glacial radieux vétéran",
-    "Title": "Bête radieuse",
+    "Title": "Loup glacial vétéran",
     "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
     "Type": 0,
     "Arkhe": 0
@@ -16728,6 +16728,66 @@
       "WindSubHurt": 0.1,
       "IceSubHurt": 0.1,
       "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26302101,
+    "DescribeId": 63021,
+    "MonsterName": "Monster_Magbeast_Gecko_01",
+    "Name": "Lunigecko radieux",
+    "Title": "Drake cherche-lune",
+    "Description": "Monstre ancestral attiré par la lumière de la lune, ce gecko vit enfoui au plus profond des couches rocheuses.\nL'accumulation progressive d'énergie kuuvahkique a cristallisé son corps en segments finement articulés, semblables à un mécanisme. Ces segments peuvent se durcir et former des pointes de pierre utilisées pour repousser les intrus.\nCertains chercheurs pensent que les ancêtres de ce lézard inhabituel parcouraient autrefois la surface de la terre. Au fil des âges, de profonds bouleversements les ont contraints à s'enfoncer sous terre, où ils vivent maintenant dans l'obscurité depuis d'innombrables générations. Bien que le souvenir de la véritable lumière lunaire se soit estompé, leur instinct demeure, les poussant, les nuits de pleine lune, à se nourrir de roches et de terre imprégnées de rayonnement lunaire afin de préserver leur lignée.",
+    "Icon": "UI_MonsterIcon_Magbeast_Gecko",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "多层护盾G教学关联词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113085,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 285.264,
+      "AttackBase": 87.92,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.7,
       "PhysicalSubHurt": 0.1
     },
     "GrowCurves": [
@@ -16820,6 +16880,15 @@
     "GrowCurves": []
   },
   {
+    "Id": 0,
+    "DescribeId": 90102,
+    "Name": "Stormterror",
+    "Title": "Ouragan hurlant de Mondstadt",
+    "Icon": "UI_MonsterIcon_Dvalin",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 29020101,
     "DescribeId": 90201,
     "MonsterName": "Monster_Wolf_LupiBoreas",
@@ -16859,6 +16928,27 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90202,
+    "Name": "Loup du Nord, Seigneur du Territoire des loups",
+    "Title": "Ouragan hurlant de Mondstadt",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0,
+    "Affixes": [
+      "北风狼试炼-循环标记"
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90203,
+    "Name": "???",
+    "Title": "Ouragan hurlant de Mondstadt",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 29030101,

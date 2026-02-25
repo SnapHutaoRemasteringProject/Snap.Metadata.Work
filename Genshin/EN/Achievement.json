@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "As It Should Have Been",
-    "Description": "Witness the return of the Nightmare Moon.",
+    "Description": "Witness the return of the False Moon.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "Moonwalker",
+    "Description": "Destroy the Moonstone Anchor while the Radiant Moongecko is preparing to unleash \"Voidstep Reverberation\" to disrupt its charging.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

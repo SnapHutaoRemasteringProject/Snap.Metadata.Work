@@ -843,7 +843,7 @@
       {
         "Id": 1256,
         "Name": "Nuit lugubre, lune à travers",
-        "Description": "Lorsqu'un personnage dans un {LINK#N11250002}<color=#FFD780FF>champ lunaire</color>{/LINK} a déclenché une réaction sélène, les DGT CRIT des éléments correspondants au type de réaction augmentent de 80 % pendant 8 s. L'effet d'augmentation des DGT CRIT d'un même type élémentaire ne peut pas être cumulé.\n\nLes DGT de réaction sélène infligés par tous les personnages de l'équipe à proximité bénéficient d'une {LINK#N11190007}<color=#FFD780FF>élévation</color>{/LINK} de 7 %.",
+        "Description": "Lorsqu'un personnage dans un {LINK#N11250002}<color=#FFD780FF>domaine lunaire</color>{/LINK} a déclenché une réaction sélène, les DGT CRIT des éléments correspondants au type de réaction infligés par tous les personnages de l'équipe augmentent de 80 % pendant 8 s. L'effet d'augmentation des DGT CRIT d'un même type élémentaire ne peut pas être cumulé.\n\nLes DGT de réaction sélène infligés par tous les personnages de l'équipe à proximité bénéficient d'une {LINK#N11190007}<color=#FFD780FF>élévation</color>{/LINK} de 7 %.",
         "Icon": "UI_Talent_S_Columbina_04"
       }
     ]
@@ -877,6 +877,10 @@
     },
     "Fetters": [
       {
+        "Title": "Première rencontre...",
+        "Context": "Vous pouvez m'appeler Columbina, Kuutar, ou encore Déesse de la lune... Comme vous préférez. J'ai l'habitude d'avoir plusieurs noms. La bénédiction de la lune vous accompagnera chaque fois que vous en aurez besoin."
+      },
+      {
         "Title": "Bavardage - Chant",
         "Context": "Je ne chante pour personne en particulier. Mais si quelqu'un s'arrête pour écouter, j'espère que cela lui apportera quand même un moment de paix."
       },
@@ -887,10 +891,6 @@
       {
         "Title": "Bavardage - Longues promenades",
         "Context": "J'avais l'habitude de faire chaque jour de longues promenades dans le Hall d'argenlune, alors ne vous inquiétez pas pour moi. Je peux suivre le rythme."
-      },
-      {
-        "Title": "Première rencontre...",
-        "Context": "Vous pouvez m'appeler Columbina, Kuutar, ou encore Déesse de la lune... Comme vous préférez. J'ai l'habitude d'avoir plusieurs noms. La bénédiction de la lune vous accompagnera chaque fois que vous en aurez besoin."
       },
       {
         "Title": "Quand il pleut...",

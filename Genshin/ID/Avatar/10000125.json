@@ -817,7 +817,7 @@
       {
         "Id": 1253,
         "Name": "Dreamlike Glow Across Tranquil Waters",
-        "Description": "Meningkatkan 3 level Elemental Skill <color=#FFD780FF>{LINK#S11252}Eternal Tides{/LINK}</color>.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 1,5%.",
+        "Description": "Meningkatkan 3 level Elemental Skill <color=#FFD780FF>{LINK#S11252}Eternal Tides{/LINK}</color>.\nMaksimum: Lv. 15.\n\nDMG reaksi Lunar yang diakibatkan seluruh anggota party di sekitar {LINK#N11190007}<color=#FFD780FF>bertumbuh</color>{/LINK} 1,5%.",
         "Icon": "UI_Talent_U_Columbina_01",
         "ExtraLevel": {
           "Index": 2,
@@ -877,6 +877,10 @@
     },
     "Fetters": [
       {
+        "Title": "Halo",
+        "Context": "Kamu bisa memanggilku Columbina, atau Kuutar, atau Dewi Bulan ... terserah kamu saja. Aku sudah terbiasa dipanggil apa pun. Berkat rembulan menyertaimu, kapan pun kamu membutuhkannya."
+      },
+      {
         "Title": "Berbincang: Bernyanyi",
         "Context": "Aku bernyanyi bukan untuk siapa-siapa, tapi jika ada yang berhenti untuk mendengarkan, kuharap lagu ini bisa memberikan sedikit kedamaian baginya."
       },
@@ -887,10 +891,6 @@
       {
         "Title": "Berbincang: Jalan Panjang",
         "Context": "Aku dulu sering berjalan lama di Aula Bulan Perak setiap hari, jadi tidak perlu khawatir. Aku bisa mengimbangimu."
-      },
-      {
-        "Title": "Halo",
-        "Context": "Kamu bisa memanggilku Columbina, atau Kuutar, atau Dewi Bulan ... terserah kamu saja. Aku sudah terbiasa dipanggil apa pun. Berkat rembulan menyertaimu, kapan pun kamu membutuhkannya."
       },
       {
         "Title": "Ketika Turun Hujan",

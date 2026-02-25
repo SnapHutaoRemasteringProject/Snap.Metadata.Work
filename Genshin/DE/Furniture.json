@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Figur im Kannenreich",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54494,7 +54515,7 @@
     ],
     "Id": 361344,
     "Name": "„Geflüster im Mondlicht“",
-    "Description": "Ein Tisch, wie er der häufig in Piramida zu finden ist. Er ist schlicht, quadratisch und besteht komplett aus Blech.\nJeden stillen Abend saßen die Ratniki um einen Tisch wie diesen herum und sprachen mit gedämpften Stimmen. Ob sie wohl so vermeiden wollten, herumstreunende Geister zu stören, die sich in der Nähe aufhielten?",
+    "Description": "Ein Tisch, wie er häufig in Piramida zu finden ist. Er ist schlicht, quadratisch und besteht komplett aus Blech.\nJeden stillen Abend saßen die Ratniki um einen Tisch wie diesen herum und sprachen mit gedämpften Stimmen. Ob sie wohl so vermeiden wollten, herumstreunende Geister zu stören, die sich in der Nähe aufhielten?",
     "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYRzhuozi_01_Vo",
     "Rank": 20300
   },
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -54869,7 +54890,7 @@
     ],
     "Id": 374333,
     "Name": "Sandkasten – „Simulation“",
-    "Description": "Ein einfacher, praktischer Sandkasten, der dem echten Sandkasten von Großmeister Varka nachempfunden ist.\n„Mit jeder Stunde des Zögerns verschlang der Abgrund das Leben unzähliger Menschen. Je früher wir aufbrachen, desto eher konnten wir ihr Schicksal wenden.“ Intelligenz ist der Grundstein einer jeden Operation oder Expedition. Durch die vorherige Simulation möglicher Szenarien im Sandkasten sollten die Verluste durch Märsche oder Kämpfe erheblich reduziert werden können ...",
+    "Description": "Ein einfacher, praktischer Sandkasten, der dem echten Sandkasten von Großmeister Varka nachempfunden ist.\n„Mit jeder Stunde des Zögerns verschlang der Abgrund das Leben unzähliger Menschen. Je früher wir aufbrachen, desto eher konnten wir ihr Schicksal wenden.“ Informationen sind der Grundstein einer jeden Operation oder Expedition. Durch die vorherige Simulation möglicher Szenarien im Sandkasten sollten die Verluste durch Märsche oder Kämpfe erheblich reduziert werden können ...",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
     "Rank": 130300
   },
@@ -55397,6 +55418,1472 @@
     "Description": "Eine gigantische Laterne, die einem bestimmten Adepten nachempfunden ist, der über den Mond wacht. Sie zeigt einen Schimmel, der vor dem Hintergrund eines strahlenden Sonnenuntergangs von einer Klippe durch Wolkenschwaden springt. Heutzutage schreiben die Menschen ihre Wünsche auf die Laterne, möglicherweise in der Hoffnung, dass die Adeptin des weißen Pferdes auf einem Jade-Wagen vom Mond herabsteigt, um ihre Wünsche zu erfüllen.",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361345,
+    "Name": "„Runder Keks“",
+    "Description": "Ein niedriger Rundtisch, wie man ihn häufig in der „Krumkake-Werkstatt Kling-Klang“ findet. Der Korpus besteht aus Blech, die Konstruktion ist stabil, und seine Form erinnert an einen runden, knusprig gebackenen Keks.\nOft wird darüber gestritten, ob man eine hübsche Tischdecke auflegen sollte – denn liegt erst eine Decke darauf, wird das Entfernen der herabgefallenen Krumkake-Krümel schnell zur Mühe!",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361346,
+    "Name": "„Aufbewahrungshäuschen Kling-Klang“",
+    "Description": "Ein Aufbewahrungstisch, der häufig in der „Krumkake-Werkstatt Kling-Klang“ zu finden ist. Er besitzt klar abgegrenzte Fächer, die an eine Ansammlung kleiner Häuschen unterschiedlicher Höhe erinnern.\n„Das ist das Häuschen für den Hammer, das dort das Häuschen für die Nägel ...“ – so beschreiben es jene, die an diesem Tisch Ordnung schaffen.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361347,
+    "Name": "Frostmond-Rundtisch – „Sanftes Himmelblau“",
+    "Description": "Ein Rundtisch, der oft in der „Enklave des Frostmonds“ zu finden ist. Gefertigt aus widerstandsfähigem, wasserabweisendem Sommereichenholz, ist er vielseitig einsetzbar.\nInspiriert vom hoch am Nachthimmel schwebenden Mond legten die Handwerker der Nachkommen des Frostmonds eine weiche, himmelblaue Tischdecke auf diese mondgleiche Platte und verliehen ihr so die Ruhe und Wärme des Nachthimmels.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363414,
+    "Name": "„Aufzeichnungen eines Unbekannten“",
+    "Description": "Lose aufgeschichtete Bücherstapel, wie man sie in der „Enklave des Frostmonds“ findet. Die meisten sind keine sorgfältig gebundenen Werke, sondern Handschriften namenloser Verfasser.\nIn solchen Seiten verbergen sich oft bewegende Geschichten voller Wendungen. Unordentliche Schrift, verschlungene Satzfolgen oder verblasste Spuren auf dem Papier scheinen leise vom Zustand ihres Autors während des Schreibens zu erzählen.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363415,
+    "Name": "Frostmond-Tischchen – „Fruchtiger Duft“",
+    "Description": "Ein kleiner Tisch, der häufig in den Innenräumen der „Enklave des Frostmonds“ zu finden ist und meist mit frischen, saisonalen Früchten bestückt wird.\nDiese Früchte dienen nicht nur zum Verzehr, sondern erfüllen den Raum zugleich mit einem sanften Duft, der unaufdringlich bleibt und eine warme, behagliche Atmosphäre schafft.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363511,
+    "Name": "„Verbundenes Azurblau“",
+    "Description": "Eine mechanische Blume, die niemals verwelkt – ein beliebtes Dekorationsstück unter den Ratniki.\n„Keine Zeit für Pflege ... kein Licht ... nicht einmal ein Spaten voll fruchtbarer Erde!“\nAls schließlich ein handwerklich begabter Ratnik aus ausrangierten Materialien diese ansehnliche Topfpflanze fertigte, freuten sich alle – denn das himmlische Blau ist eine Farbe, nach der sich jene sehnen, die lange in der Nacht leben.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 362134,
+    "Name": "Sommereichenstuhl – „Mondkissen“",
+    "Description": "Ein Stuhl aus Sommereichenholz, wie man ihn häufig in der „Enklave des Frostmonds“ findet.\nDie Rückenlehne ist kunstvoll geschnitzt, ihr Durchbruch erinnert an eine runde Mondscheibe. Auf der Sitzfläche liegt ein weiches, himmelblaues Kissen, das dem Raum eine warme und natürliche Note verleiht.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363119,
+    "Name": "„Rauhorn-Schimmer“",
+    "Description": "Eine Holzleuchte, die häufig in der „Enklave des Frostmonds“ zu finden ist. Ihr markantes Design ist vom Rauhorn-Hirsch inspiriert.\nObwohl sie mit einem Tragegriff versehen ist, wird sie aufgrund ihres Gewichts meist an einem festen Platz aufgestellt. Die meisten Bewohner nutzen sie als Nachtlicht – ihr sanfter Schein erhellt den Weg, ohne freundliche kleine Tiere zu stören.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 363120,
+    "Name": "„Kringelpilz“",
+    "Description": "Eine Leuchte aus den Lagern der Lichthüter mit pilzähnlicher Gestalt.\nAnders als bei den meisten pilzförmigen Lampen liegt die Lichtquelle nicht im „Schirm“, sondern im gewundenen „Stiel“. Besonders ist auch ihr Licht – zur Hälfte warm wie Sonnenlicht, zur Hälfte kühl wie Mondschein.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361413,
+    "Name": "„Allerbestes Nestchen“",
+    "Description": "Ein kleines Bett aus der „Krumkake-Werkstatt Kling-Klang“ mit stabilem Metallrahmen, bezogen mit rosafarbener Bettwäsche mit niedlichen Mustern und weichen Kissen. Seine großzügige Liegefläche und angenehme Höhe ermöglichen erholsamen Schlaf – ganz gleich in welcher Position.\n„Das ist das beste Bett der Welt, in dem ich je geschlafen habe!“, so die stolze Schöpferin dieses handgefertigten Stücks.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361414,
+    "Name": "Frostmond-Steinbett – „Erfrischende Kühle“",
+    "Description": "Ein Steinbett, wie man es häufig in der „Enklave des Frostmonds“ findet. Zwar ist seine Oberfläche mit einer weichen Decke bedeckt, doch wer darauf ruht, spürt noch immer seine feste Beschaffenheit.\nAn warmen Tagen spendet es wohltuende Kühle, in der klirrenden Winterkälte empfiehlt es sich hingegen, zunächst eine dicke Unterlage aufzulegen.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361121,
+    "Name": "Niedriger Innentisch – „Eigener Wert“",
+    "Description": "Ein niedriger Tisch aus den Lagern der Lichthüter mit großzügigem Stauraum.\nAls Ablage spiegelt er oft die „Interessen“ seines Besitzers wider – Blumenfreunde stellen Pflanzen darauf, Bücherliebhaber stapeln Werke und Feinschmecker füllen ihn mit Köstlichkeiten. Für die Ratniki jedoch ist er das Möbelstück, das dem Bett am nächsten steht – und trägt meist das, was sie als ihr zweites Leben betrachten: ihre stets mitgeführte Leuchte.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361122,
+    "Name": "Innenregal – „Mußestundenlektüre“",
+    "Description": "Ein Bücherregal aus den Lagern der Lichthüter mit ungewöhnlicher Konstruktion, die das mühelose Verstauen von Büchern unterschiedlichster Größe erlaubt.\nFür die Ratniki ist Wissen ein kostbarer Schatz – ein zufällig erlangter Funke Erkenntnis kann in entscheidenden Momenten Leben retten. Daher versammeln sich viele von ihnen in ruhigen Stunden vor diesem Regal, um Weisheit zu sammeln und sich im Stillen auf kommende Kämpfe vorzubereiten.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361123,
+    "Name": "Innentheke – „Formeller Empfang“",
+    "Description": "Ein Tresen aus den Lagern der Lichthüter, vollständig aus Eisenblech gefertigt, fest und standhaft. Dahinter steht meist ein diensthabender Verantwortlicher, um fremde Besucher zu empfangen.\nSein schlichtes, grobes Erscheinungsbild ist durchaus beabsichtigt – es schreckt jene „ungebetenen Gäste“ ab, die sich ohne reifliche Überlegung in gefährliche Gebiete wagen.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361124,
+    "Name": "„Hoher Turm“",
+    "Description": "Ein Schrank aus der „Krumkake-Werkstatt Kling-Klang“, unten breit und nach oben hin schmal wie ein mehrstöckiger Turm. Diese besondere Form bietet nicht nur reichlich Stauraum, sondern verleiht dem Möbelstück auch große Standfestigkeit, sodass es selbst bei starken Erschütterungen kaum ins Wanken gerät. „Auf jeder Etage wohnen andere Bewohner: Die Großen unten, die Kleinen oben, genau wie in einem hohen Turm!“ Nach diesem Gedanken gestaltete der Hersteller dieses außergewöhnliche Möbelstück.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 361125,
+    "Name": "Hotelkleiderschrank – „Großraum“",
+    "Description": "Ein Kleiderschrank, wie man ihn häufig im „Flaggschiff“ findet. Er bietet außergewöhnlich viel Stauraum und überzeugt mit einer harmonischen Farbgebung.\nUrsprünglich besaß er nur die Hälfte seines heutigen Volumens. Doch da im „Flaggschiff“ viele Gäste über längere Zeit verweilen und Kleidung für unterschiedlichste Wetterlagen bereithalten müssen, wurde eine Erweiterung angeregt. Auf gemeinsamen Wunsch der Gäste wurde der Schrank schließlich vergrößert. Inzwischen übertrifft er gewöhnliche Kleiderschränke deutlich – und wer weiß, ob er nicht eines Tages erneut erweitert wird.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 362322,
+    "Name": "Frostmond-Teppich – „Klarer Einklang“",
+    "Description": "Ein Teppich aus der „Enklave des Frostmonds“, dessen Hauptfarbton Blau ist und der von leuchtendem Orangerot akzentuiert wird. Das symmetrische Muster wirkt nicht nur ästhetisch, sondern vermittelt zugleich ein Gefühl von Ordnung und innerer Ruhe.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 362323,
+    "Name": "„Flauschteppich“",
+    "Description": "Ein runder Teppich aus der „Krumkake-Werkstatt Kling-Klang“ in warmen Farbtönen mit niedlichen, gemütlichen Mustern.\nGefertigt aus weichem, dichtem Gewebe, besitzt er eine flauschige Textur – fast so, als würde man über das Fell einer Katze streichen ...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 364227,
+    "Name": "„Standhaft wie Stahl“",
+    "Description": "Eine Wanddekoration aus den Lagern der Lichthüter, bestehend aus gekreuzten Schwertern und Schilden. Sie verkörpert den unbeugsamen Willen der Ratniki, äußeren Feinden zu trotzen und ihre Heimat zu schützen.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 364228,
+    "Name": "„Banner der Lichthüter“",
+    "Description": "Eine Flagge aus den Lagern der Lichthüter, verziert mit dem Leuchtturm-Symbol ihrer Gemeinschaft. Sie steht für den Schwur der Ratniki, auch in tiefster Nacht die Wacht zu halten und niemals zurückzuweichen.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 364229,
+    "Name": "Tavernen-Wandleuchte – „Schwebender Korridorschein“",
+    "Description": "Eine Wandleuchte, wie man sie häufig im „Flaggschiff“ findet. Ihr helles Licht dient der Ausleuchtung von Fluren und Gängen. Die Aufhängung besteht aus reinweißem Seil, sodass die Leuchte aus der Ferne zu schweben scheint. Dieses Design lässt sie bei Erschütterungen leicht pendeln. Erfahrene Wirte erkennen daran selbst die kleinste Unruhe an den Tischen und können mögliche Konflikte frühzeitig unterbinden.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371022,
+    "Name": "Basis-Nebengebäude – „Mehrzweck-Gewächshaus“",
+    "Description": "#Ein Anbau der „Klick-Klick-Windmühlen-Basis“ mit dicken Wänden, speziellen Abzugsrohren und einem extern angebundenen Heizkessel, der eine stabile Innentemperatur gewährleistet. Ob als provisorisches Gästezimmer, gleichmäßig beheiztes Bad oder dauerhaft temperierte Werkstatt{NON_BREAK_SPACE}– dieses Gebäude erweist sich in vielerlei Hinsicht als ideale Wahl.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371023,
+    "Name": "Basis-Nebengebäude – „Geheimer Raum“",
+    "Description": "Ein Anbau der „Klick-Klick-Windmühlen-Basis“, dessen äußere Form an einen riesigen Fisch mit weit geöffnetem Maul erinnert. Das massive Dach und die dicken Wände bilden eine verlässliche Barriere und sorgen im Inneren für hervorragende Abschirmung gegen Licht und Lärm. Ganz gleich, ob als abgeschirmtes Labor oder als sicherer Aufbewahrungsort für Wertgegenstände – dieser Raum ist dafür bestens geeignet.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371024,
+    "Name": "Basis-Nebengebäude – „Hoher Wasserturm“",
+    "Description": "Ein hoch aufragender Anbau der „Klick-Klick-Windmühlen-Basis“ mit großem Fassungsvermögen, der der Speicherung und Verteilung von Flüssigkeiten dient und gelegentlich auch als Aussichtsturm genutzt wird. Dank seiner Höhe kann er Wasser allein durch statischen Druck fördern und so die Versorgung der Basis sicherstellen. In heißen Jahreszeiten sorgt feiner Sprühnebel zudem für eine angenehm kühle Umgebung.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371025,
+    "Name": "Basiswindmühle – „Hilfsantrieb“",
+    "Description": "Die Zierwindmühle der „Klick-Klick-Windmühlen-Basis“ ist im Inneren mit einer Hilfsturbine ausgestattet, die einen gleichmäßigen Betrieb bei jeder Witterung gewährleistet. Bei heulendem Sturm dreht sie sich ruhig und verleiht dem Hof eine friedliche Atmosphäre; steht die Luft still und lastet Hitze über dem Gelände, bringt ihr leichtes Rotieren eine erfrischende Brise.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371026,
+    "Name": "Basistor – „Runde Logik“",
+    "Description": "Das Tor der „Klick-Klick-Windmühlen-Basis“ besitzt einen besonderen runden Metallrahmen, ergänzt durch auffällige Leuchtschilder.\nDer runde Rahmen sorgt dafür, dass jeder Punkt gleich weit vom Zentrum entfernt ist, wodurch sich auch ungewöhnlich geformte Bauteile mühelos hindurchtransportieren lassen. Ergänzt durch Leuchtschilder bleibt das Tor selbst bei Nacht gut sichtbar und ermöglicht einen reibungslosen Durchgang für Personal und Material.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371027,
+    "Name": "Basisplattform – „Festes Fundament“",
+    "Description": "Metallplattformen der „Klick-Klick-Windmühlen-Basis“, deren Aufbau auf klassischen Fundamentstrukturen aus Nod-Krai beruht. Hinter ihrem schlichten Äußeren verbirgt sich eine beeindruckende Tragfähigkeit. Sie tragen nicht nur im gewöhnlichen Umfeld mühelos verschiedenste Lasten, sondern ermöglichen auch auf weichem Untergrund den stabilen Betrieb großer Maschinen. Ohne Übertreibung lässt sich sagen, dass der heutige Betrieb der „Klick-Klick-Windmühlen-Basis“ auf diesen festen Fundamenten ruht.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371028,
+    "Name": "Basismauer – „Sperrlinie“",
+    "Description": "Eine niedrige Metallmauer der „Klick-Klick-Windmühlen-Basis“, gefertigt aus widerstandsfähigen Metallplatten. Ihr Entwurf geht auf die Erfahrungen Nod-Krais im Kampf gegen die Wilde Jagd zurück. Sie vereint Schutzwirkung, Wirtschaftlichkeit und einfache Montage und bietet Schützen verlässliche Deckung in ausreichendem Umfang.\nZugleich übernimmt sie innerhalb der Basis eine neue Aufgabe: als Raumteiler verleiht sie dem Gelände klare Struktur, ohne dessen offene und weite Wirkung zu beeinträchtigen.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 371029,
+    "Name": "Basispfeiler – „Allzweckbake“",
+    "Description": "Ein metallener Pfeiler der „Klick-Klick-Windmühlen-Basis“ mit kraftvoller, aufrechter Silhouette, der als eigenständiges Element dem Hof eine markante, technikbetonte Ausstrahlung verleiht. Zugleich ist er äußerst praktisch: An seiner Seite befindet sich eine Vorrichtung zum Hissen von Flaggen, während die Spitze mit verschiedenen nützlichen Geräten kompatibel ist – daher sein Beiname „Allzweckbake“.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 373940,
+    "Name": "„Sanfte Umarmung“",
+    "Description": "Eine silberne Steinfigur, wie man sie häufig auf der Insel Hiisi in Nod-Krai antrifft. Ihre umarmende Haltung verleiht ihr eine warme, tröstende Ausstrahlung.\n„Verirrtes Kind, im Namen der Nachkommen des hohen Nordens erbitte ich den Segen des lichten Scheins. Möge die Gnade des Frostmonds die Stürme der kalten Nacht besänftigen und die Küken wärmen, die sich auf dem gefrorenen Boden zusammenkauern.“\nVielleicht war es der Wunsch, Krankheit zu vertreiben und Leid zu lindern, der den Handwerker dazu bewog, dieser Statue eine so sinnbildhafte Gestalt voller Trost zu verleihen.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 374129,
+    "Name": "Stadtgeländer – „Bequemer Sitz“",
+    "Description": "Ein niedriges Steingeländer, wie man es oft in Städten sieht. Eben, stabil und mit breiter Auflage, eignet es sich sogar als provisorische Sitzgelegenheit. Doch Vorsicht, auf dem Geländer zu balancieren ist gefährlich.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 374130,
+    "Name": "Stadtgeländer – „Bläuliche Wogen“",
+    "Description": "Ein niedriges Holzgeländer mit ungewöhnlicher Form, die an sanft wogende blaue Wellen erinnert.\nEs bietet kaum Absperrwirkung, wird jedoch aufgrund seines ansprechenden Erscheinungsbildes häufig zur Abgrenzung von Bereichen genutzt.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Durch Abschluss der „Anekdoten-Chroniken“ zu erhalten"
+    ],
+    "Id": 374822,
+    "Name": "„Wackel-Zappel-Fischtopf“",
+    "Description": "Ein mechanischer Fisch von Aino. Beigelegt ist eine handgeschriebene Anleitung. Die Schrift wirkt etwas krakelig, doch die Hinweise sind gut zu erkennen.\n1. Er braucht kein Wasser!\n2. Bitte nicht mit Krumkake füttern!\n3. Geh freundlich mit ihm um!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Durch Kauf von Erlebnispass – Gnostiker-Erlebnisbündel zu erhalten"
+    ],
+    "Id": 374823,
+    "Name": "Götzenstatue „Funkelfunken“",
+    "Description": "Eine Statue nach dem Vorbild einer berühmten „Funkenritterin“ aus Mondstadt, die ihre eindrucksvolle Erscheinung inmitten explodierender Funken einzufangen scheint, als würde sie alles vor sich in Asche legen.\nWer ist die stärkste Kraft Mondstadts? Manche nennen da die angesehene Jean, andere den auf Expedition befindlichen Großmeister Varka, doch in den Augen einiger ist es noch immer jenes geheimnisvolle Mädchen in Rot, das den mächtigsten „Schatz“ besitzt ...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372521,
+    "Name": "„Mondschimmer“",
+    "Description": "Eine vollständig silberweiße Pflanze, wie man sie häufig im „Silbermondhof“ findet.\nMit ihrem schlanken, gebogenen Stängel und den mondförmigen Zweigspitzen wiegt sie sich im nächtlichen Wind sanft hin und her, als würde das Mondlicht selbst leise tanzen.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372522,
+    "Name": "„Wackelnd und Glänzend“",
+    "Description": "#Dicht wachsende Pflanzen, die ein sanftes Leuchten verströmen und erstaunlich widerstandsfähig sind{NON_BREAK_SPACE}– selbst ohne Licht und mit nur wenig Wasser gedeihen sie weiterhin.\n„Was wackelt hin und her? Was schimmert und glänzt?“\nEin einfaches Rätsel, das sich Kinder ausgedacht haben, um mit vorbeiziehenden Fremden ein kleines Frage-und-Antwort-Spiel zu spielen.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372523,
+    "Name": "„Flauschiger Knäuel“",
+    "Description": "Ein niedriger, violetter Strauch, so flauschig wie ein Wollknäuel – hübsch anzusehen und zugleich äußerst robust.\nSeine Zweige lassen sich leicht schneiden, sodass er in den Händen geschickter Gärtner allerlei Formen annehmen kann: ein munterer Hund, ein niedliches Kätzchen oder ein hüpfender kleiner Vogel ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372524,
+    "Name": "„Kopfgeldjäger“",
+    "Description": "Ein niedriger, grüner Strauch von knäuelartiger Gestalt mit bemerkenswerter Anpassungsfähigkeit, der selbst in rauen Umgebungen überlebt.\nMan sagt, dass unter hunderttausend Exemplaren eines seine Farbe ändert, wenn es lange genug von seiner Umgebung geprägt wird – ganz wie ein „Kopfgeldjäger“, der seine Überlebensweise den Umständen anpasst.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372359,
+    "Name": "Sturmwacht-Purpurwipfelbaum",
+    "Description": "Ein Baum, wie man ihn häufig in der Wildnis von Nod-Krai antrifft. Er besitzt einen schlanken, gebogenen Stamm und eine eher lichte Krone.\nDiese Baumart passt sich ihrer Umgebung auf bemerkenswerte Weise an: Sie wächst stets in Windrichtung, sodass sie selbst bei heftigem Sturm nur selten bricht.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372360,
+    "Name": "„Flüstern des blassgrünen Hains“",
+    "Description": "Ein Baum, den man häufig in der Nähe des „Silbermondhofs“ findet und dessen Gestalt sich deutlich von gewöhnlichen Arten unterscheidet.\n„Wenn der Wind aufkommt, benetze die Ähren des blassgrünen Hains mit gesegnetem, klarem Wasser aus einem Silberkelch, um die Götter zu erfreuen ...“\nOb die leisen Wünsche erhört werden, bleibt ungewiss. Doch die Ähren des blassgrünen Hains, genährt von Kuuvahki, zeugen bereits von üppigem Leben ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372361,
+    "Name": "Lichtbad-Citringelber Baum",
+    "Description": "Ein Baum, der häufig auf der Insel Hiisi in Nod-Krai vorkommt, mit schlankem, gebogenem Stamm und goldgelber Krone.\nEs heißt, die Nachkommen des Frostmonds schätzen diese Bäume besonders, da das Blattwerk dem goldenen Schimmer des Mondlichts gleicht. Daher pflanzten sie sie entlang der Wege zur Lichtbadterrasse, um ihre Ehrfurcht vor den Göttern zum Ausdruck zu bringen.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372362,
+    "Name": "Grünzweig-Baum",
+    "Description": "Ein Baum, wie man ihn häufig in der Wildnis von Nod-Krai antrifft. Er besitzt einen kräftigen Stamm und eine frischgrüne Krone.\nMan sagt, diese Art und ihre nahen Verwandten verfügten über eine außergewöhnliche Lebenskraft. Ihr starkes Wurzelwerk dringt rasch in den Boden vor, um Nährstoffe aufzunehmen – selbst ein in die Erde gesteckter Zweig kann schon bald Wurzeln schlagen und austreiben. So erhielt der Baum seinen Namen.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372236,
+    "Name": "„Wellen des Neumonds“",
+    "Description": "Felsen, die man häufig im „Silbermondhof“ findet und deren Gestalt an aufgewühlte Wellen erinnert.\n„Die Bahn des Ewigen Mondes lenkt Ebbe und Flut.“ Wer weiß, welche Gedanken des „Mondmädchens“ in diese von der Schwerkraft geformten Steine eingeschrieben sind ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372237,
+    "Name": "„Schatzwächter“",
+    "Description": "Schwere, widerstandsfähige Felsen aus der Wildnis von Nod-Krai, die selbst für kräftige Männer mit Werkzeugen kaum zu bewegen sind. Beim Hausbau oder beim Anlegen von Wegen gelten sie daher oft als lästige Hindernisse. Für grabfreudige kleine Tiere jedoch sind gerade diese selbst von großen Tieren unbeweglichen Steine die besten „Schatzwächter“.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekoration“ zu erhalten"
+    ],
+    "Id": 372238,
+    "Name": "„Stumpfer Winkel der Erde“",
+    "Description": "Ein Fels, wie man ihn häufig in der Wildnis von Nod-Krai findet, mit harter, glatter Oberfläche. Aufgrund seiner geringen Größe bleibt er oft im dichten Bewuchs verborgen und ist leicht zu übersehen. Daher warnen erfahrene Abenteurer Neulinge: „Achte auf deine Schritte! Darüber zu stolpern tut mehr weh, als von einem Stumpfnashorn gerammt zu werden.“",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363387,
+    "Name": "Stützpunkttor – „Zuverlässiger Schatzmarder“",
+    "Description": "Ein auffälliges, prächtig gestaltetes Metalltor für den Stützpunkt mit hoher struktureller Festigkeit, das wiederholten Angriffen von Monstern standhält.\nWie „Blauer Blitz“ berichtet, orientierte sich die geniale Erfinderin beim Entwurf an ihrem Schatzmarder-Gefährten „Zwiebelchen“. Die beiden erhobenen Daumen und der selbstsichere Ausdruck scheinen zu versprechen: „Keine Sorge, überlass das mir!“",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363388,
+    "Name": "„Eiserner Wolf“",
+    "Description": "#Eine kühne Spezialmischung, die während des Betriebs der „Ehrenritter{F#in}-Mixstube“ auf Grundlage des „Dornensees“ eigens für Varka entwickelt wurde.\nNachdem er bereits unzählige edle Tropfen verkosten konnte, fordert der Großmeister dich auf, alles zu geben und deiner Kreativität freien Lauf zu lassen. Also gehst du in die Offensive, und bist dabei auch noch ziemlich unkonventionell.\nDen ersten Eindruck hinterlässt die kühle Frische und Kräuternote der Minze, die den Gaumen beim ersten Schluck umspielt. Die rohe Kraft des Feuerwassers im Kern wird dann von sorgfältig konservierten Schichten überdeckt, die den entscheidenden Schlag liefern. Den Abschluss bildet schließlich Schmand, der den Abgang präzise abrundet und keine Wünsche offen lässt.\nZu Ehren des Großmeisters und ganz im Sinne von Mondstadt hast du ihm den Namen „Eiserner Wolf“ gegeben. Varka ist mehr als zufrieden mit diesem kühnen, vielschichtigen Erlebnis und gönnt sich einen großen, herzhaften Schluck ...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363389,
+    "Name": "„Dodocos Duett“",
+    "Description": "#Eine süß-säuerliche Spezialmischung voller Lebensfreude, die während des Betriebs der „Ehrenritter{F#in}-Mixstube“ auf Grundlage von „Schönwetter-Spaß“ eigens für Klee entwickelt wurde.\nDer ursprüngliche „Schönwetter-Spaß“ hatte einen violetten Farbton, der jedoch nicht fröhlich genug war. Fügen wir also einen Hauch von Sonnenschein und ein paar fluffig-flauschige Wölkchen hinzu, um dieses warme, glückliche Gefühl einzufangen!\nDie Süße ist dabei ein Muss, aber gesund sollte er auch sein. Deshalb wurde der Saft sorgfältig In Abstimmung mit Jean ausgewählt, wobei die Süße von Blasenmandarinen stammt.\nUnd das Allerwichtigste: Die Dodoco-Bonbons! Ihre köstliche Magie gehört genau dorthin, genau, mitten in die „Wolken“!\nKlee sagte einmal: „Gutes Wetter, gute Laune. Dodoco singt und Klee stimmt mit ein!“ Und so wurde dieses Getränk „Dodocos Duett“ genannt.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363390,
+    "Name": "„Meeresschaum-Schwertgesang“",
+    "Description": "#Eine eisklare, erfrischende und zugleich kraftvolle Spezialmischung, die während des Betriebs der „Ehrenritter{F#in}-Mixstube“ auf Grundlage des Getränks „Funkelndes Sternenlicht“ eigens für Eula entwickelt wurde.\nIhre Schwertkunst gleicht dem Tanz eines Zweihänders; sie schlägt mit der Kraft einer Lawine zu und endet dennoch sauber und geschwind. Das Gleiche lässt sich auch zu ihrer Vorliebe für Mixgetränke sagen.\nPassend zu ihrem Stil vereint dieser Drink eiskaltes Feuerwasser, einen nicht zu verachtenden Teil Saft der Romaritime-Blume sowie Kakao, um neue Energie zu spenden und Müdigkeit zu vertreiben. Was hier entsteht, ist ein wahrhaftiger Tanz der Aromen im Glas.\nDa die Inspiration für dieses Mixgetränk auf dem Schwerttanz der Gischtritterin basiert, trifft „Meeresschaum-Schwertgesang“ als Name den Nagel doch ziemlich auf den Kopf ...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363391,
+    "Name": "„Schlummernde Rose“",
+    "Description": "#Eine sanfte Spezialmischung mit träumerischem Flair, die während des Betriebs der „Ehrenritter{F#in}-Mixstube“ auf Grundlage von „Morgendämmerung im Schnee“ eigens für Lisa entwickelt wurde.\nNach einem langen Arbeitstag braucht eine Bibliothekarin ganz einfach neue Energie. Gleichzeitig will sie aber auch keine Probleme beim Einschlafen bekommen. Daher hast du bei der Zubereitung auf belebende Zutaten verzichtet und auf eine feine Balance zwischen der Süße von Karamell und einem kleinen Kick von Säuerlichkeit geachtet ...\nDas Ziel: ein ruhiger und erholsamer Schlaf. Kurzerhand schlägst du also den Namen „Schlummernde Rose“ vor. Ein Name, der bei Lisa auf begeisterte Zustimmung stößt.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363392,
+    "Name": "„Freizeit-Blitz“",
+    "Description": "#Eine entspannte und zugleich präzise abgestimmte Spezialmischung, die während des Betriebs der „Ehrenritter{F#in}-Mixstube“ auf Grundlage von „Karamellflamme“ eigens für Clorinde entwickelt wurde.\nSeit ihrem Besuch in Mondstadt, wo vor allem die Spielbrett-Truppe bei ihr einen bleibenden Eindruck hinterlassen hat, hat die blitzschnelle Duellrepräsentantin ein besonderes Gespür für metallische Noten entwickelt und zeigt seitdem eine klare Vorliebe für Aromen mit einem Hauch von Salz. Auch im Alltag bevorzugt sie Getränke mit einer sanften Säuerlichkeit, die die Reichhaltigkeit der Speisen unterstreicht. Ebenso verhält es sich bei ihr im Alltag; sie bevorzugt Getränke mit einer leichten Säure, die die Reichhaltigkeit durchbricht. Für die meisten Wirte würde diese Balance zwischen zwei Anforderungen äußerste Sorgfalt erfordern. Doch nachdem du dein Handwerk in der „Engelsgabe“ und im „Flaggschiff“ zur Perfektion gebracht hast, ist es kein Problem mehr für dich, jede noch so kleine Nuance im Glas präzise zu kontrollieren.\nUm Clorinde dabei zu helfen, sich auf ihrer Tour durch Mondstadt zu entspannen, hast du diesem Getränk den Namen „Freizeit-Blitz“ gegeben. Seitdem ist er zu einer ihrer prägenden Erinnerungen an die Stadt geworden.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei zeitlich begrenzter Aktion zu erhalten"
+    ],
+    "Id": 363393,
+    "Name": "„Bouquet des Windes“",
+    "Description": "#Eine elegante, ruhige Spezialmischung mit feiner Duftnote, die während des Betriebs der „Ehrenritter{F#in}-Mixstube“ auf Grundlage von „Lumidouce-Dämmerung“ eigens für Émilie entwickelt wurde.\nDie Parfümeurin aus Fontaine hat dir einmal erzählt, dass übermäßige Süße Menschen schläfrig mache und sie lieber nur einen Hauch von Beschwingtheit genießen würde. Eines dürfte da wohl glasklar sein: Die Aufgabe eines Wirtes besteht nicht darin, seinen Gästen an der Bar mit nur einem Drink die Lichter auszublasen ...\nAn Tagen, an denen ein sanfter Wind weht und der Himmel klar ist, können geschärfte Sinne die Aromen eines perfekt komponierten Getränks sogar noch mehr zur Geltung bringen.\nUnd so hast du, inspiriert von der Kunst der Parfümerie, dieses subtile und doch elegante Meisterwerk aus der Taufe gehoben. Ganz in diesem Sinne ist dann Émilie auch auf den Namen gekommen: „Bouquet des Windes“.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 360107,
+    "Name": "„Kühle Formel der Basis“",
+    "Description": "Eine Standard-Innenwand der „Klick-Klick-Windmühlen-Basis“, gefertigt aus in Nod-Krai gebräuchlichem Recyclingmetall. Ihre kühle Anmutung und gute Wärmeleitfähigkeit sorgen dafür, dass Innenräume selbst unter sengender Sonne angenehm temperiert bleiben.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 360307,
+    "Name": "„Solide Basis-Decke“",
+    "Description": "Die Standarddecke der „Klick-Klick-Windmühlen-Basis“ besteht aus präzise geschnittenen, gleichmäßigen Metallplatten. Sie lässt sich leicht montieren, ist einfach zu reinigen und vereint Funktionalität mit hoher Sicherheit. Es heißt, dass dabei dasselbe Metall verwendet wurde wie für die Gehäuse der Kuuvahki-Mechanismen – stark, zugleich leicht und frei von versteckten Risiken.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 360207,
+    "Name": "„Legierungsboden der Basis“",
+    "Description": "Standardboden der „Klick-Klick-Windmühlen-Basis“, zusammengesetzt aus Metallplatten unterschiedlicher Formen. So entsteht eine lebendige, vielschichtige Optik, die dem Innenraum einen eigenständigen Charakter verleiht. Das aufwendigere Design erhöht zwar Montage- und Pflegeaufwand, doch der Einsatz von Recyclingmetall gleicht diesen Nachteil wirkungsvoll aus.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bei „Schatzkammer: Dekorationsbauplan“ zu erhalten"
+    ],
+    "Id": 360507,
+    "Name": "„Stilles Streulicht der Basis“",
+    "Description": "Eine Standard-Deckenleuchte der „Klick-Klick-Windmühlen-Basis“, bestehend aus Metallaufhängung und mehreren Lichtquellen in schlichtem, kraftvollem Stil. Wenn die Nacht hereinbricht, verschmelzen die Lichter zu sanftem Streulicht und hüllen den Raum in ruhige Wärme, die Müdigkeit und Sorgen leise davonträgt.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "„Tresortor der Basis“",
+    "Description": "Eine Standardtür der „Klick-Klick-Windmühlen-Basis“, aus mehreren Metallschichten verschweißt und am Design von Tresortüren orientiert. Sie verbindet ansprechende Optik mit zuverlässigem Schutz gegen Zerstörung und hält Bohren, Hebeln und Schlägen stand. Gedacht ist sie, um ungebetene Gäste fernzuhalten – auch wenn diese Sicherheitsstufe im geschützten Kannenreich fast übertrieben wirkt. Meist verhindert sie wohl eher, dass kleine Tiere sie als Kratzfläche missbrauchen.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "„Klarer Widerhall der Basis“",
+    "Description": "Eine Standard-Metalltreppe für Ecken in der „Klick-Klick-Windmühlen-Basis“, bekannt für hohe Festigkeit, Langlebigkeit und geringes Eigengewicht. Wenn Schritte auf die stählernen Stufen treffen, erklingt ein heller Ton, der sich mit der hallenden Bauweise des Gebäudes verbindet – vielleicht wie ein kurzer, kraftvoller Trommelschlag.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "„Klick-Klick-Windmühlen-Basis“",
+    "Description": "Eine große, vielseitige Basis, die von der „Schattenschneid-Ballmaschine“ errichtet wurde, um in der Kanne der Vergänglichkeit die Landschaft Nod-Krais nachzubilden. Sie nutzt eine bewährte Metallrahmenkonstruktion und verfügt über ein ausgereiftes Transportsystem, wodurch sie eine ungezähmte, eigenständige Atmosphäre ausstrahlt – ganz im Geist der „Krumkake-Werkstatt Kling-Klang“. Im Gegensatz zur „Krumkake-Werkstatt Kling-Klang“ verzichtet die „Klick-Klick-Windmühlen-Basis“ auf Produktionsfunktionen und setzt sparsamere Beleuchtung ein. Dennoch vermitteln die unablässig rotierenden Windmühlen auf den Dächern weiterhin den Eindruck geschäftigen Treibens und lassen ein Gefühl von Tatendrang aufkommen.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

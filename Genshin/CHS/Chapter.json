@@ -3657,6 +3657,20 @@
     "QuestType": 7
   },
   {
+    "Id": 2087,
+    "GroupId": 0,
+    "BeginQuestId": 1600901,
+    "EndQuestId": 1601112,
+    "NeedPlayerLevel": 40,
+    "Number": "天狼之章 第一幕",
+    "Title": "致予远征之人",
+    "Icon": "UI_ChapterIcon_Varka",
+    "ImageTitle": "法尔伽",
+    "SerialNumberIcon": "UI_QuestType_Chapter_1",
+    "CityId": 1,
+    "QuestType": 2
+  },
+  {
     "Id": 10048,
     "GroupId": 10048,
     "BeginQuestId": 4021703,
@@ -4146,6 +4160,45 @@
     "QuestType": 3
   },
   {
+    "Id": 10174,
+    "GroupId": 10174,
+    "BeginQuestId": 4022901,
+    "EndQuestId": 4022910,
+    "NeedPlayerLevel": 0,
+    "Number": "序章？ 第一幕",
+    "Title": "捕风的异乡人",
+    "Icon": "UI_ChapterIcon_Mengde",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10175,
+    "GroupId": 10174,
+    "BeginQuestId": 4023001,
+    "EndQuestId": 4023021,
+    "NeedPlayerLevel": 0,
+    "Number": "捕风的归客 其二",
+    "Title": "为了没有眼泪的重逢",
+    "Icon": "UI_ChapterIcon_BubbleDrama",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10176,
+    "GroupId": 10174,
+    "BeginQuestId": 4023101,
+    "EndQuestId": 4023115,
+    "NeedPlayerLevel": 0,
+    "Number": "捕风的归客 其三",
+    "Title": "巨龙与自由的变奏",
+    "Icon": "UI_ChapterIcon_BubbleDrama",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
     "Id": 10177,
     "GroupId": 10177,
     "BeginQuestId": 7609930,
@@ -4247,6 +4300,18 @@
     "Icon": "UI_ChapterIcon_Fontaine",
     "SerialNumberIcon": "",
     "CityId": 5,
+    "QuestType": 7
+  },
+  {
+    "Id": 10189,
+    "GroupId": 0,
+    "BeginQuestId": 7007401,
+    "EndQuestId": 7007409,
+    "NeedPlayerLevel": 0,
+    "Title": "魔女的课业·无题之题",
+    "Icon": "UI_ChapterIcon_Hexenzirkel",
+    "SerialNumberIcon": "",
+    "CityId": 1,
     "QuestType": 7
   },
   {

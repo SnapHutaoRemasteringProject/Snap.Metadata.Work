@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Ein behagliches Gemach für alle Gäste",
+    "Description": "Dieses vollständig ausgestattete Schlafzimmer orientiert sich am Design der Gästezimmer der Taverne „Flaggschiff“ in Nasha und wurde gezielt an die Bedürfnisse seiner Bewohner angepasst.\nDie Gäste des „Flaggschiffs“ stammen aus den unterschiedlichsten Gegenden und bringen entsprechend verschiedene Vorstellungen von Komfort mit sich. Ein Ausgleich all dieser Erwartungen war keine leichte Aufgabe. Schließlich entschied sich das „Flaggschiff“ für einen ungewöhnlichen Ansatz: Man vereinte alles, was ein Gast womöglich benötigen könnte, in einem Raum und entfernte Überflüssiges erst nach dessen Urteil. Trotz der stellenweise dichten Anordnung liegt gerade darin die Stärke dieses Konzepts, denn in dieser funktionalen Fülle findet jeder Gast seine ganz persönliche Form von Behaglichkeit.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Schlummer im Mondschein",
+    "Description": "Ein schlichtes, harmonisch wirkendes Schlafzimmer mit sorgfältig ausgewählten Möbeln der Nachkommen des Frostmonds. Die Atmosphäre ist warm, zurückhaltend und von sanfter Eleganz geprägt. Man sagt, eine ruhige natürliche Umgebung helfe dabei, Körper und Geist zur Ruhe kommen zu lassen, und dieses Schlafzimmer scheint dies still zu bestätigen. Im milden Schein der Lampen, weich wie fahler Mondschein, liegt ein frischer Duft nach reifen Früchten in der Luft. Wer hier verweilt, spürt, wie Müdigkeit und Schmerz allmählich von ihm abfallen, während die nächtliche Stille sanft den Schlaf herbeiruft ...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Das geordnete Geflecht der Geheimnisse",
+    "Description": "Ein Arbeitsraum von markantem Charakter, dessen Anordnung sich eng am „Kuratorium der Geheimnisse“ orientiert und die Arbeitsszene der Besitzerin detailgetreu widerspiegelt. Alles folgt einer klaren Ordnung.\nDie Analyse von Informationen ist eine anspruchsvolle und oft verwirrende Aufgabe. Doch in einem Raum, dessen Einrichtung wohlüberlegt ist und der über sämtliche notwendigen Hilfsmittel verfügt, scheint sich der Geist leichter zu ordnen, und mit ihm steigt auch die Effizienz der Arbeit.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Das beste und wärmste Zuhause",
+    "Description": "Ein Schlafzimmer im Nod-Krai-Stil, dessen Gestaltung Wärme und Geborgenheit ausstrahlt – ein idealer Ort, um nach einem langen Tag zur Ruhe zu kommen. Sämtliche Einrichtungsgegenstände stammen aus der „Krumkake-Werkstatt Kling-Klang“ und wurden vom „Familienoberhaupt“ persönlich ausgewählt: Möbel, die als die besten, wärmsten und praktischsten gelten. Doch diese Behaglichkeit bringt auch eine kleine Schwierigkeit mit sich – wer sich hier allzu sehr entspannt, verschläft leicht und verpasst mitunter sogar wichtige Angelegenheiten. Vielleicht bedarf es daher einer ebenso entschlossenen wie fürsorglichen Weckmethode, um rechtzeitig in den Tag zu starten.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Ruhepause vor dem Kampf",
+    "Description": "Ein funktional ausgestatteter Gemeinschaftsraum, dessen Gestaltung sich an den Räumlichkeiten von Piramida orientiert und die kurze Rast der Ratniki vor der Schlacht widerspiegelt. Erfahrene Ratniki wissen, dass der Krieg gegen die Wilde Jagd langwierig und entbehrungsreich ist und jede Gelegenheit zur Erholung genutzt werden muss, um die eigene Kampfkraft zu bewahren. Zugleich fördert ein gut eingerichteter Ruheraum den Austausch untereinander, denn an der Seite vertrauter Gefährten zu kämpfen, schafft mehr Vertrauen und Zusammenhalt als mit Fremden. Aus diesem Grund messen die Starshynas der Errichtung solcher Räume seit jeher große Bedeutung bei.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Die Ebenen des hohen Nordens",
+    "Description": "Eine weitläufige Landschaft, die typische Vegetation und Geländeformen der Nod-Krai-Region vereint und die besondere Wildnis der Insel Hiisi authentisch nachzeichnet.\nDurch das reiche Vorkommen an Kuuvahki dieser Region gedeihen farbenprächtige Pflanzen, Tiere mit ungewöhnlichen Charakteristika und eigenwillige Landschaftsformen. Für Naturkundler birgt dieses Gebiet zahllose Schätze neuen Wissens – doch auch gewöhnliche Besucher können kaum anders, als innezuhalten und die wunderbare Szenerie auf sich wirken zu lassen.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Geschäftiges Grenzstädtchen",
+    "Description": "Eine Gebietslandschaft, geprägt von markanten Gebäuden und unterschiedlich ausgerichteten Geschäften, die einen typischen Winkel von Nasha lebendig nachzeichnet.\nDer Überlieferung nach unterscheidet sich Nasha von anderen Städten: Es fehlt an einem wirklichen Verwalter ebenso wie an einer klaren städtebaulichen Ordnung. So entstanden zwischen den Häusern zahllose schmale Durchgänge und verborgene Zwischenräume. Für die meisten Bewohner sind sie kaum mehr als Wege, auf denen sich Lärm ausbreitet. Für aufmerksame Beobachter jedoch dienen sie als Routen für geheime Nachrichten und als geschickte Abkürzungen durch die Stadt.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Stiller Bittgesang im Mondschein",
+    "Description": "Eine offene Szenerie, gestaltet nach dem Vorbild der Enklave des Frostmonds. Gerätschaften und Pflanzen sind gemäß den Regeln der „Nachkommen des Frostmonds“ aufeinander abgestimmt und angeordnet. Wer diesen Ort betritt, spürt die Ruhe und Harmonie, die ihr Leben prägen. Ein sanfter Bittgesang scheint leise im Inneren nachzuklingen, während Sorgen und Schmerzen vom Wind davongetragen werden. Zurück bleibt eine stille, gelassene Klarheit.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Die einsame Leuchte in der langen Nacht",
+    "Description": "Eine Siedlung mit schweren Gebäuden, deren Anordnung und Baustil sich an den Feldbefestigungen der Lichthüter orientieren. Dieses Design trotzt Wind und Wetter und bietet selbst gegen die heranstürmende Wilde Jagd verlässlichen Schutz – so, wie es im Schwur der Lichthüter heißt: „Wir sind die Lichthüter, die in den endlosen schneebedeckten Ebenen stehen und Laternen tragen, die ewige Hoffnung verbreiten.“\nAuf den weiten Ebenen vor Piramida gleichen solche Posten Fackeln, die das Licht der Hoffnung in die Dunkelheit tragen.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Die aufstrebende Werkstatt",
+    "Description": "Eine kleine Siedlung nach dem Vorbild der „Krumkake-Werkstatt Kling-Klang“, ausgestattet mit komfortablen, halbkugelförmigen Eisenhäusern und Gebäuden in Schiffsform, die die grundlegenden Bedürfnisse der Werkstattbetreiber erfüllen.\nAlle großen Werkstätten der Welt begannen einst mit einfachen Baueinheiten. Mit diesen als Fundament, durchdachter Planung und ausreichend Material ist es durchaus vorstellbar, das gesamte „Kannenreich“ eines Tages in eine riesige Werkstatt zu verwandeln ...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Stille Szenerie des Neumonds",
+    "Description": "Ein nach dem „Silbermondhof“ gestalteter Garten, dessen Erscheinung von Ruhe und sanfter Abgeschiedenheit geprägt ist, wie ein fernes Traumreich.\nMondlicht führt alle Wesen mit leiser Milde. Vielleicht haben einst Anhänger der Mondgöttin darüber nachgesonnen, welche Szenerie den Neumond in ein ihr allein gehörendes, friedliches Traumland geleiten könne.\nNur wer den „Silbermondhof“ selbst betritt und dort jede Blüte und jeden Grashalm in stiller Betrachtung würdigt, vermag die Antwort zu erahnen ...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

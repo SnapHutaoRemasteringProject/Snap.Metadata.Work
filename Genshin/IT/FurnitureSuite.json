@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Una stanza accogliente per visitatori da ogni dove",
+    "Description": "Una stanza completamente arredata, ispirata alle camere per gli ospiti dell'Ammiraglia, la più grande taverna di Nasha. Sono stati apportati miglioramenti mirati per soddisfare al meglio le esigenze dei suoi ospiti.\nI visitatori dell'Ammiraglia provengono da contesti molto diversi, e ognuno ha la propria idea di \"comfort\". Trovare un equilibrio tra tutte queste diverse aspettative non è un compito facile. Alla fine, l'Ammiraglia ha optato per una soluzione unica: arredare le sue stanze con ogni comodità di cui un cliente potrebbe aver bisogno, per poi rimuovere gli oggetti non necessari in base al loro feedback. Sebbene la stanza possa risultare un po' disordinata, fornisce tutto ciò di cui un ospite potrebbe aver bisogno, permettendogli di trovare il comfort a modo suo.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Dolce sonno al chiaro di luna",
+    "Description": "Una camera da letto semplice ma elegante, arredata con pezzi accuratamente selezionati dagli Eredi della Luna gelata. L'atmosfera generale è di raffinata semplicità e calore. Si dice che un ambiente tranquillo e naturale aiuti a rilassarsi meglio, e questa camera da letto sembra essere la perfetta incarnazione di tale principio. Con la luce della lampada delicata come il tenue bagliore della luna e il profumo di frutta fresca nell'aria, chi soggiorna qui può sentire la stanchezza e il dolore svanire lentamente, mentre la pace e la calma di un dolce riposo prendono silenziosamente il sopravvento...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "La griglia ordinata dei segreti",
+    "Description": "Uno spazio di lavoro unico, con una disposizione ispirata al Consiglio dei segreti. È una fedele riproduzione dell'ambiente di lavoro quando il suo capo lavora duramente, dove tutto è ben organizzato e in perfetto ordine.\nL'analisi delle informazioni è un compito complesso e impegnativo. Quando questi fili di dati s'intrecciano, è facile non sapere cosa fare. Eppure, in una stanza in cui ogni mobile è al suo posto e si ha a portata di mano una serie completa di strumenti, il pensiero può diventare più chiaro e, di conseguenza, si può lavorare in modo più efficiente...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Una casa calda e accogliente",
+    "Description": "Una camera da letto in stile Nod-Krai la cui disposizione evoca una sensazione di calore e accoglienza. È il posto ideale per scrollarsi di dosso la stanchezza dopo una giornata impegnativa. Tutti gli arredi di questa camera da letto, accuratamente selezionati dalla \"madre\" in persona presso il Laboratorio di Krumkake Tin-Tin, sono i mobili migliori, più caldi e più pratici del mondo intero. Tuttavia, questo comfort eccezionale ha un rovescio della medaglia: i suoi occupanti a volte dormono troppo, perdendo persino appuntamenti importanti perché la stanza è semplicemente troppo comoda. Potrebbe essere necessario un metodo di sveglia deciso ma premuroso per assicurarsi che tutti si alzino in tempo.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Riposo pre-battaglia",
+    "Description": "Una sala comune completamente arredata. Ispirata alla disposizione delle stanze di Piramida, ricrea i tranquilli momenti di riposo che i Ratniki si concedono prima di ogni battaglia. I Ratniki veterani sanno che la guerra contro la Caccia selvaggia è lunga e spietata. Quando le condizioni lo permettono, il riposo è una necessità essenziale per mantenere la massima prontezza al combattimento. Inoltre, una sala ben allestita dà ai Ratniki anche il tempo di conoscersi. Sul campo di battaglia, combattere al fianco di compagni fidati, piuttosto che con degli sconosciuti, infonde molta più sicurezza e permette una coordinazione migliore. Per questo motivo, la costruzione di sale in cui poter riposare è da tempo una priorità per gli Starsina.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Lande selvagge dell'Estremo Nord",
+    "Description": "Un'area selvaggia che riunisce la vegetazione e le formazioni geologiche tipiche di Nod-Krai, nonché un'autentica riproduzione del paesaggio unico dell'Isola di Hiisi.\nNod-Krai gode di un'abbondanza di Kuuvahki, che a sua volta ha dato origine a piante dai colori vivaci, a creature dalle abitudini peculiari e a formazioni geologiche dalle forme insolite. Per i naturalisti, quest'area custodisce innumerevoli tesori di nuova conoscenza, mentre per i turisti comuni offre panorami meravigliosi che richiedono una pausa per essere ammirati.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Vivace città di frontiera",
+    "Description": "Un paesaggio regionale incentrato su vari edifici caratteristici, con negozi di vario genere. È una riproduzione perfetta di un angolo della città di Nasha.\nDicono che la città di Nasha si differenzi dalle altre perché non ha un vero amministratore né una chiara struttura urbanistica. Questo ha portato alla nascita di innumerevoli passaggi stretti e spazi vuoti quasi impercettibili tra gli edifici della città. Per la maggior parte dei residenti, questi passaggi sono solo canali per il rumore; per coloro che si concentrano sulla raccolta di informazioni, invece, fungono da vie per la diffusione di segreti e da scorciatoie per spostarsi più facilmente.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Placida preghiera sotto la luna",
+    "Description": "Un allestimento all'aperto ispirato all'Enclave della Luna gelata, con vari strumenti disposti secondo le usanze degli Eredi della Luna gelata e una vegetazione piantata per completare ogni elemento. Entrando in questo spazio percepirai immediatamente la tranquillità e armonia che tanto definisce gli Eredi della Luna gelata. È come se inni dolci e melodici echeggiassero dolcemente, portando via con la brezza ogni problema e sofferenza, lasciando dietro di sé solo uno stato d'animo sereno e pacifico.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Luce solitaria nella lunga notte",
+    "Description": "Un insediamento di case robuste, la cui planimetria e architettura sono ispirate alle roccaforti difensive dei Guardaluce. Costruito per resistere al vento e alla pioggia, ha formidabili capacità difensive persino contro la Caccia selvaggia. Come recita il giuramento dei Guardaluce: \"Siamo i Guardaluce, coloro che illuminano le pianure per sempre innevate con la speranza eterna\".\nNelle vaste pianure fuori Piramida, roccaforti come questa si ergono alte e luminose, portando con sé la luce della speranza.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Laboratori promettenti",
+    "Description": "Un piccolo insediamento ispirato al Laboratorio di Krumkake Tin-Tin, con una comoda casa emisferica di ferro e un edificio a forma di nave di ferro. Queste strutture sono più che sufficienti a soddisfare le esigenze di base dei proprietari dei laboratori.\nTutti i grandi laboratori hanno origine da una singola e semplice struttura. Con questi edifici come fondamenta, e con una pianificazione e dei materiali adeguati, trasformare il tuo Regno interiore in un gigantesco laboratorio diventa una possibilità molto concreta...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Serenità della mezzaluna",
+    "Description": "Un cortile ispirato alla Sala della Luna d'argento. Il suo stile trasmette quiete e serenità, come una dimensione onirica quasi irraggiungibile.\nLa luce lunare guida sempre con gentilezza tutti gli esseri viventi. Forse, i seguaci della Dea della Luna si sono chiesti una volta: quale panorama o scenario potrebbe guidare la Luna nuova al suo sonno tranquillo?\nL'unico modo per conoscere la risposta è visitare la Sala della Luna d'argento e contemplare ogni fiore e filo d'erba...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

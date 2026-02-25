@@ -817,7 +817,7 @@
       {
         "Id": 1253,
         "Name": "Brilho Onírico Sobre Águas Tranquilas",
-        "Description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11252}Maré Eterna{/LINK}</color> em 3.\nNível máximo de elvação é 15.\n\nDano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+        "Description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11252}Maré Eterna{/LINK}</color> em 3.\nNível máximo de elevação é 15.\n\nDano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
         "Icon": "UI_Talent_U_Columbina_01",
         "ExtraLevel": {
           "Index": 2,
@@ -843,7 +843,7 @@
       {
         "Id": 1256,
         "Name": "Atravessando a Escuridão com o Luar",
-        "Description": "Nos 8s após todos os personagens causarem uma Reação Lunar dentro de um {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK}, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 7%.",
+        "Description": "Nos 8s após os personagens causarem uma Reação Lunar dentro de um {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK}, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\n\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 7%.",
         "Icon": "UI_Talent_S_Columbina_04"
       }
     ]
@@ -877,6 +877,10 @@
     },
     "Fetters": [
       {
+        "Title": "Olá...",
+        "Context": "Pode me chamar de Columbina, ou Kuutar, ou Deusa da Lua... O que preferir. Já estou acostumada a ter muitos nomes. A bênção da lua é sua, sempre que precisar dela."
+      },
+      {
         "Title": "Bate-papo - Cantar",
         "Context": "Minhas canções não são para ninguém. Mas se alguém parar para escutar, espero que encontre nelas um instante de paz."
       },
@@ -887,10 +891,6 @@
       {
         "Title": "Bate-papo - Longas Caminhadas",
         "Context": "Eu costumava passear pelo Saguão da Lua Prateada todos os dias, então não se preocupe comigo. Posso acompanhar o ritmo."
-      },
-      {
-        "Title": "Olá...",
-        "Context": "Pode me chamar de Columbina, ou Kuutar, ou Deusa da Lua... O que preferir. Já estou acostumada a ter muitos nomes. A bênção da lua é sua, sempre que precisar dela."
       },
       {
         "Title": "Quando Está Chovendo...",

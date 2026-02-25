@@ -5101,7 +5101,7 @@
   },
   {
     "Name": "華黍由儀",
-    "Version": "6.2",
+    "Version": "6.3",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/8a873fbc2fd860f62536e33c9f3f3287_7832254766490914787_transformed.jpg",
     "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/8a873fbc2fd860f62536e33c9f3f3287_7832254766490914787_transformed.jpg",
@@ -5119,7 +5119,7 @@
   },
   {
     "Name": "淵海界令",
-    "Version": "6.2",
+    "Version": "6.3",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/01/05/342cb618a43197b5fc3983e76f2c24e6_8030353015538310449_transformed.jpg",
     "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/01/05/342cb618a43197b5fc3983e76f2c24e6_8030353015538310449_transformed.jpg",
@@ -5133,6 +5133,149 @@
       10000127,
       10000121,
       10000055
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.3",
+    "Order": 2,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2025/12/30/fca31c931999a453b8eb113b3db6e6db_4065845648939320041_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2025/12/30/fca31c931999a453b8eb113b3db6e6db_4065845648939320041_transformed.jpg",
+    "From": "2026-02-03T18:00:00+08:00",
+    "To": "2026-02-24T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11519,
+      14514
+    ],
+    "UpPurpleList": [
+      11418,
+      12401,
+      13401,
+      14409,
+      15401
+    ]
+  },
+  {
+    "Name": "北風的凱旋歌",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/06/285566514b0408ad728f4906d7e9212e_5583459840604798130_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/06/285566514b0408ad728f4906d7e9212e_5583459840604798130_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000128
+    ],
+    "UpPurpleList": [
+      10000032,
+      10000023,
+      10000043
+    ]
+  },
+  {
+    "Name": "孤燈夜訪",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/05/f07a46b2abee7c28324dfdf39be28955_6202180020230527169_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/05/f07a46b2abee7c28324dfdf39be28955_6202180020230527169_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000120
+    ],
+    "UpPurpleList": [
+      10000032,
+      10000023,
+      10000043
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/05/0e1393f5b564e9fa2d559bc2dd813469_1907644867769712770_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/05/0e1393f5b564e9fa2d559bc2dd813469_1907644867769712770_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12515,
+      13516
+    ],
+    "UpPurpleList": [
+      13434,
+      11401,
+      12401,
+      14403,
+      15403
+    ]
+  },
+  {
+    "Name": "晨風之詩",
+    "Version": "6.4",
+    "Order": 1,
+    "Banner": "https://sdk.hoyoverse.com/upload/ann/2026/02/12/4ef78c13f294a33d4af7ede32021dbcd_7379273650525848783_transformed.jpg",
+    "Banner2": "https://cnb.cool/DGP-Studio/CurrentBannerWatcher/-/git/raw/main/upload/ann/2026/02/12/4ef78c13f294a33d4af7ede32021dbcd_7379273650525848783_transformed.jpg",
+    "From": "2026-02-25T06:00:00+08:00",
+    "To": "2026-03-17T17:59:00+08:00",
+    "Type": 500,
+    "UpOrangeList": [
+      10000051,
+      10000041,
+      10000038,
+      10000029,
+      10000016,
+      10000003,
+      11502,
+      11501,
+      12503,
+      12502,
+      12501,
+      13502,
+      14502,
+      14501,
+      15503,
+      15501
+    ],
+    "UpPurpleList": [
+      10000115,
+      10000080,
+      10000045,
+      10000043,
+      10000039,
+      10000034,
+      10000032,
+      10000031,
+      10000021,
+      10000020,
+      10000015,
+      10000014,
+      10000006,
+      11410,
+      11405,
+      11403,
+      11402,
+      11401,
+      12405,
+      12403,
+      12402,
+      12401,
+      13407,
+      13401,
+      14410,
+      14409,
+      14403,
+      14402,
+      14401,
+      15412,
+      15410,
+      15405,
+      15403,
+      15402,
+      15401
     ]
   }
 ]

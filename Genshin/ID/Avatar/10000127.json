@@ -866,7 +866,7 @@
     "VisionBefore": "Geo",
     "VisionOverrideUnlocked": "Vision",
     "ConstellationBefore": "Oriolus",
-    "CvChinese": "Mace",
+    "CvChinese": "昱头",
     "CvJapanese": "梅田修一朗",
     "CvEnglish": "Jonathon Ha",
     "CvKorean": "Hwang Dong-hyun",
@@ -882,6 +882,10 @@
     },
     "Fetters": [
       {
+        "Title": "Halo",
+        "Context": "Halo, namaku Illuga, pemimpin tim penyelidik Lightkeeper. Kamu nyasar? Ha, jangan malu ... sering terjadi kok. Jalanan di sini tidak ramah pengelana, bahkan saat cuaca bersahabat sekali pun. Ikuti saja, biar aku yang terangi jalan ke depan."
+      },
+      {
         "Title": "Berbincang: Waspada",
         "Context": "Katanya semakin luarnya terlihat tenang, justru bahaya mengintai dari balik bayang-bayang. Belum tentu selamanya begitu, tapi jaga-jaga tidak ada salahnya, kan."
       },
@@ -892,10 +896,6 @@
       {
         "Title": "Berbincang: Kesulitan",
         "Context": "Melakukan apa yang kita bisa saja belum cukup. Kadang, untuk menjadi lebih kuat, kita harus bisa keluar dari zona nyaman."
-      },
-      {
-        "Title": "Halo",
-        "Context": "Halo, namaku Illuga, pemimpin tim penyelidik Lightkeeper. Kamu nyasar? Ha, jangan malu ... sering terjadi kok. Jalanan di sini tidak ramah pengelana, bahkan saat cuaca bersahabat sekali pun. Ikuti saja, biar aku yang terangi jalan ke depan."
       },
       {
         "Title": "Setelah Hujan",

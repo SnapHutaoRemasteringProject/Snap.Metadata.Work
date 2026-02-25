@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Windgebet – Elektro</color>",
-    "Description": "#Erhöht den mit der Reaktion Verwirbelung durch die Figur verursachten Schaden um <color=#f39001>80{NON_BREAK_SPACE}%</color> und stellt jedes Mal beim Erhalten von <color=#f39001>Windgebet – Elektro</color> allen Truppenmitgliedern <color=#f39001>1.5</color> Punkte Elementarenergie wieder her."
+    "Description": "#Erhöht den mit der Reaktion Verwirbelung durch die Figur verursachten Schaden um <color=#f39001>80{NON_BREAK_SPACE}%</color> und stellt jedes Mal beim Erhalten von <color=#f39001>Windgebet – Elektro</color> allen Truppenmitgliedern <color=#f39001>2</color> Punkte Elementarenergie wieder her."
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Kryo-Kristall-Schutz</color>",
-    "Description": "#Erhöht den Kryo- und Geo-Schaden aller Truppenmitglieder um <color=#f39001>50{NON_BREAK_SPACE}%</color>. Gibt ihnen außerdem alle <color=#f39001>4</color>{NON_BREAK_SPACE}s durch Kristallisation entstehende Splitter aus der Nähe."
+    "Description": "#Erhöht den Kryo- und Geo-Schaden aller Truppenmitglieder um <color=#f39001>70{NON_BREAK_SPACE}%</color>. Gibt ihnen außerdem alle <color=#f39001>4</color>{NON_BREAK_SPACE}s durch Kristallisation entstehende Splitter aus der Nähe."
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>Minimalwiderstand</color>",
-    "Description": "#Verringert den Kryo- sowie Elektro-WDS von Gegnern um <color=#f39001>3{NON_BREAK_SPACE}%</color> und den phys. WDS um <color=#f39001>6{NON_BREAK_SPACE}%</color>, <color=#f39001>6</color>-fach stapelbar."
+    "Description": "#Verringert den Kryo- sowie Elektro-WDS von Gegnern um <color=#f39001>5{NON_BREAK_SPACE}%</color> und den phys. WDS um <color=#f39001>10{NON_BREAK_SPACE}%</color>, <color=#f39001>6</color>-fach stapelbar."
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Windgebet – Kryo</color>",
-    "Description": "#Erhöht den mit der Reaktion Verwirbelung durch die Figur verursachten Schaden um <color=#f39001>80{NON_BREAK_SPACE}%</color> und den kritischen Schaden der Figur um <color=#f39001>12{NON_BREAK_SPACE}%</color>."
+    "Description": "#Erhöht den mit der Reaktion Verwirbelung durch die Figur verursachten Schaden um <color=#f39001>80{NON_BREAK_SPACE}%</color> und den kritischen Schaden der Figur um <color=#f39001>16{NON_BREAK_SPACE}%</color>."
   },
   {
     "Id": 211902,
@@ -428,5 +428,15 @@
     "Id": 11260001,
     "Name": "Wechsel des Mondabschnitts",
     "Description": "#Versetzt Zibai nach dem Anwenden der Elementarfähigkeit <color=#FFD780FF>Himmel und Erde in Gestalt</color> in diesen Modus. Dieser Modus dauert bis zu {PARAM#P1263201|4S1}{NON_BREAK_SPACE}s und verfügt über folgende Eigenschaften:\n· Wandelt Schaden von Standardangriffen und heftigen Schlägen in <color=#FFE699FF>Geo-SCH</color> um, der nicht von anderen Elementen überdeckt werden kann.\n· Ersetzt die Elementarfähigkeit <color=#FFD780FF>Himmel und Erde in Gestalt</color> durch die besondere Elementarfähigkeit <color=#FFD780FF>Galopp des Geisterrosses</color>: Wenn Zibai über mindestens 70 Punkte <color=#FFD780FF>Abschnittswechsel-Glanz</color> verfügt, kann sie 70 Punkte Abschnittswechsel-Glanz verbrauchen, um Galopp des Geisterrosses anzuwenden und zweimal <color=#FFE699FF>Geo-SCH</color> zu verursachen, wobei der Schaden der zweiten Phase als Schaden durch die Reaktion Mond-Kristallisation gewertet wird.\n\nDie Obergrenze von <color=#FFD780FF>Abschnittswechsel-Glanz</color> beträgt 100 Punkte. Zibai kann auf folgende Art und Weise Abschnittswechsel-Glanz sammeln:\n· Sammelt im Modus <color=#FFD780FF>Wechsel des Mondabschnitts</color> jede Sekunde 10 Punkte Abschnittswechsel-Glanz.\n· Sammelt beim Treffen von Gegnern mit Standardangriffen 5 Punkte Abschnittswechsel-Glanz. Auf diese Art und Weise kann alle 0,5{NON_BREAK_SPACE}s einmal Abschnittswechsel-Glanz für Zibai gesammelt werden.\n\n<color=#FFD780FF>Mondomen – Reifer Glanz</color> \nSammelt, wenn ein Truppenmitglied in der Nähe die Reaktion Mond-Kristallisation auslöst, 35 Punkte <color=#FFD780FF>Abschnittswechsel-Glanz</color> für Zibai. Auf diese Art und Weise kann alle 4{NON_BREAK_SPACE}s einmal Abschnittswechsel-Glanz für Zibai gesammelt werden. Wenn die besondere Elementarfähigkeit <color=#FFD780FF>Galopp des Geisterrosses</color> ausgelöst wird, wird die Abklingzeit fürs Ansammeln des <color=#FFD780FF>Abschnittswechsel-Glanzes</color> auf diese Weise zurückgesetzt.\n\nNach viermaligem Anwenden von <color=#FFD780FF>Galopp des Geisterrosses</color> oder nach dem Ende der Wirkungsdauer verlässt Zibai diesen Modus."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Ansturm der Winde",
+    "Description": "Versetzt Varka nach dem Drücken der Elementarfähigkeit <color=#FFD780FF>Abflauender Sturm</color> in diesen Modus.\nErhöht, wenn Varka sich in diesem Modus befindet, den durch seine Standardangriffe und heftigen Schläge verursachten Schaden. Er kann dabei keine Angriffe aus dem Fall ausführen. Bei Standardangriffen und heftigen Schlägen verursachen seine beiden Großschwerter je nach Elementartyp der Figuren in der Truppe entsprechenden Elementar-Schaden, der nicht von anderen Elementen überdeckt werden kann:\n– Das Großschwert in der linken Hand verursacht <color=#80FFD7FF>Anemo-SCH</color>, der nicht von anderen Elementen überdeckt werden kann.\n– Wenn sich <color=#FF9999FF>Pyro</color>-, <color=#80C0FFFF>Hydro</color>-, <color=#FFACFFFF>Elektro</color>- oder <color=#99FFFFFF>Kryo</color>-Figuren in der Truppe befinden, verursacht das Großschwert in der rechten Hand gemäß der oben genannten Elementepriorität Schaden, der nicht von anderen Elementen überdeckt werden kann.\n\nErsetzt zudem, wenn sich in diesem Modus <color=#FF9999FF>Pyro</color>-, <color=#80C0FFFF>Hydro</color>-, <color=#FFACFFFF>Elektro</color>- oder <color=#99FFFFFF>Kryo</color>-Figuren in der Truppe befinden, Varkas Elementarfähigkeit <color=#FFD780FF>Abflauender Sturm</color> durch die besondere Elementarfähigkeit <color=#FFD780FF>Aufkommen der vier Winde</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Aufkommen der vier Winde",
+    "Description": "Varkas besondere Elementarfähigkeit, die Gegnern Flächenschaden des Elements des Großschwerts, das er in der rechten Hand hält, sowie <color=#80FFD7FF>Anemo-Flächenschaden</color> zufügt, die nicht von anderen Elementen überdeckt werden können.\nBefindet sich anfänglich in der Abklingzeit und kann max. 2-mal angewendet werden.\nVerkürzt, wenn Varkas Standardangriffe im Modus <color=#FFD780FF>Ansturm der Winde</color> Gegner treffen, die Abklingzeit von <color=#FFD780FF>Aufkommen der vier Winde</color> um 0,5 s. Dieser Effekt kann nach jedem Wechsel in den Modus <color=#FFD780FF>Ansturm der Winde</color> bis zu 15-mal ausgelöst werden.\nAußerdem kann Varka die Anwendungsmöglichkeiten von <color=#FFD780FF>Aufkommen der vier Winde</color> verbrauchen, um den besonderen heftigen Schlag <color=#FFD780FF>Azurbiss</color> auszuführen, der keine Ausdauer verbraucht und 2-mal Schaden des Elements des Großschwerts, das er in der rechten Hand hält, sowie 2-mal <color=#80FFD7FF>Anemo-Schaden</color> verursacht, die nicht von anderen Elementen überdeckt werden können."
   }
 ]

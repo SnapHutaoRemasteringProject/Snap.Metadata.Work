@@ -4777,6 +4777,59 @@
     ]
   },
   {
+    "Id": 12515,
+    "PromoteId": 12515,
+    "Sort": 5211,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Chiến Hùng Ca Của Sói",
+    "Description": "Theo truyền thuyết, đây là thanh đại kiếm được người kế thừa danh hiệu \"Bắc Phong\" - Ravenwood đích thân rèn đúc trước khi trở thành kỵ sĩ.",
+    "Icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+    "AwakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Đạo Kỵ Sĩ Bất Diệt",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng <color=#99FFFFFF>7.5%</color>. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng <color=#99FFFFFF>7.5%</color> Sát Thương Bạo Kích."
+        },
+        {
+          "Level": 1,
+          "Description": "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng <color=#99FFFFFF>9.5%</color>. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng <color=#99FFFFFF>9.5%</color> Sát Thương Bạo Kích."
+        },
+        {
+          "Level": 2,
+          "Description": "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng <color=#99FFFFFF>11.5%</color>. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng <color=#99FFFFFF>11.5%</color> Sát Thương Bạo Kích."
+        },
+        {
+          "Level": 3,
+          "Description": "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng <color=#99FFFFFF>13.5%</color>. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng <color=#99FFFFFF>13.5%</color> Sát Thương Bạo Kích."
+        },
+        {
+          "Level": 4,
+          "Description": "Tốc Độ Tấn Công tăng 10%. Khi Tấn Công Thường trúng kẻ địch/thi triển Kỹ Năng Nguyên Tố/bắt đầu Trọng Kích, người trang bị sẽ lần lượt nhận được 1/2/2 tầng \"Hệ Thơ Tứ Phong\": Sát thương gây ra tăng <color=#99FFFFFF>15.5%</color>. Hiệu quả này duy trì 4s, tối đa cộng dồn 4 lần, mỗi 0.01s tối đa kích hoạt một lần.\nNgoài ra, khi đội có hiệu ứng \"Hexerei - Nghi Thức Bí Mật\", mỗi tầng Hệ Thơ Tứ Phong sẽ còn khiến người trang bị tăng <color=#99FFFFFF>15.5%</color> Sát Thương Bạo Kích."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114008,
+      112139,
+      112034
+    ]
+  },
+  {
     "Id": 13101,
     "PromoteId": 13101,
     "Sort": 1301,

@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "法爾伽",
+    "Description": "家園入住角色",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10657,7 +10678,7 @@
     ],
     "Id": 379008,
     "Name": "鬥棘魚",
-    "Description": "珍貴的觀賞魚，可飼養於「靈沼雲池」和「澄波游影」中。長\n滿刺狀鰭的迅猛魚類，全速游動時矛般尖吻甚至能劈開水流。因此又得名「劈水刺」、「箭難追」等。\n有著棘魚中數一數二的自尊心。尤其在求偶期間，任何一點風吹水皺能有可能激怒牠們。曾有愛好者觀察到一條鬥棘魚正向著搖曳的水草發起衝鋒，顯然牠認為如此放蕩形骸的舞姿是對棘魚王者的嚴重挑釁。\n「若在水下相遇，請勿與牠們對視。」——《野釣手冊·鬥棘魚篇》",
+    "Description": "珍貴的觀賞魚，可飼養於「靈沼雲池」和「澄波游影」中。\n長滿刺狀鰭的迅猛魚類，全速游動時矛般尖吻甚至能劈開水流。因此又得名「劈水刺」、「箭難追」等。\n有著棘魚中數一數二的自尊心。尤其在求偶期間，任何一點風吹水皺都有可能激怒牠們。曾有愛好者觀察到一條鬥棘魚正向著搖曳的水草發起衝鋒，顯然牠認為如此放蕩形骸的舞姿是對棘魚王者的嚴重挑釁。\n「若在水下相遇，請勿與牠們對視。」——《野釣手冊·鬥棘魚篇》",
     "Icon": "UI_Homeworld_Fishable_Maritime_Aspidorhynchus_02",
     "Rank": 200100
   },
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -54869,7 +54890,7 @@
     ],
     "Id": 374333,
     "Name": "作戰沙盤-「預先展示」",
-    "Description": "以大團長法爾迦的沙盤為原型製作的模型，簡約但實用。\n「在我們猶猶豫豫的時候，深淵也正戕害無數人的性命。早一刻出征，就能早一刻改變他們的命運。」情報是行軍的基礎，若能夠在沙盤中預演未來可能發生的場景，那麼行進或者戰鬥帶來的損傷，應當都會大大減少吧…",
+    "Description": "以大團長法爾伽的沙盤為原型製作的模型，簡約但實用。\n「在我們猶猶豫豫的時候，深淵也正戕害無數人的性命。早一刻出征，就能早一刻改變他們的命運。」情報是行軍的基礎，若能夠在沙盤中預演未來可能發生的場景，那麼行進或者戰鬥帶來的損傷，應當都會大大減少吧…",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
     "Rank": 130300
   },
@@ -55397,6 +55418,1472 @@
     "Description": "以一位守護月亮的仙人為原型製作的巨大霄燈，造型為一匹皎潔的白馬從山崖的縫隙間躍過，絮雲纏抱，彩霞迤邐。如今，大家都願意將心願寫在霄燈上，或許如此，那白馬仙人就願意駕著玉製的高車從月亮上下凡，回應人們的心願呢？",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361345,
+    "Name": "「圓圓餅乾」",
+    "Description": "常見於「叮鈴哐啷蛋捲工坊」的低矮圓桌，主體由鐵皮打造而成，結構穩固，造型如同圓圓的焦香餅乾。\n時常有人因為是否要為這張桌子鋪上漂亮的桌布而糾結——「但是如果鋪了桌布，清理那些掉在桌布上的蛋捲碎屑就很麻煩！」",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361346,
+    "Name": "「叮鈴哐啷收納屋」",
+    "Description": "常見於「叮鈴哐啷蛋捲工坊」的收納桌，有著明確的分區，就像連片高低錯落的房屋一般。\n「這個是錘子的小屋，那個是釘子的小屋…」在這張桌子上做分類收納的人如是說。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361347,
+    "Name": "霜月圓桌-「柔軟天藍」",
+    "Description": "常見於「霜月之坊」的圓桌，由韌性和防水性能俱佳的夏櫟木打造，有很廣泛的適用性。\n霜月之子的工匠藉高懸夜空的明月為靈感，為這如月輪般的圓桌搭配了一張柔軟的天藍色桌布，賦予它夜空般的寧靜與溫馨。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 363414,
+    "Name": "「某人的手札」",
+    "Description": "「霜月之坊」中隨意堆疊著的書籍堆，其中大多都不是仔細裝訂的書籍，而是一些籍籍無名作者的手札。\n這類書籍中往往會藏著跌宕起伏、精彩絕倫的故事，凌亂的字跡、混亂的語序亦或著是留在書頁上的痕跡，似乎都在訴說作者書寫時的真實狀態。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 363415,
+    "Name": "霜月小桌-「果香四溢」",
+    "Description": "常見於「霜月之坊」室內的小桌，上面常常擺放著最為新鮮的時令水果。\n擺放在茶几上的水果除了用來食用，往往還有著作為香氛的作用——悠悠的果香瀰漫室內，既不濃烈，又能營造溫馨愜意的氛圍。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 363511,
+    "Name": "「連枝蔚藍」",
+    "Description": "永不凋謝的機械花，是執燈士們偏愛的室內盆栽擺飾。\n「沒空照料…沒有光照…甚至連一鏟肥沃的土壤都挖不出來！」\n所以，當執燈士中善於做手工藝的人用廢棄材料弄出這樣一盆頗具模樣的盆栽時，所有人都很高興——如同天空一般蔚藍的顏色，也是久居深夜中的人渴望見到的色彩。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 362134,
+    "Name": "夏櫟木「枕月」靠背椅",
+    "Description": "主體由夏櫟木打造而成的椅子，常見於「霜月之坊」。\n靠背經過雕刻後，鏤空的部分如同一輪圓月。當被擺放到室內時，椅面上鋪設的柔軟天藍色軟墊，便為室內營造出一種溫馨自然的氣氛。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 363119,
+    "Name": "「凜角微光」",
+    "Description": "常見於「霜月之坊」室內的木製燈具，造型以凜角鹿為靈感來源，頗具特色。\n雖說設計了用於手提的把手，但由於自重較重，常被擺放在固定位置。「霜月之坊」中的大部分人都拿來作為夜燈使用，其光線既能點亮夜路，又不會驚擾友善的小動物。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 363120,
+    "Name": "「扭扭蘑菇」",
+    "Description": "可見於執燈人營地的燈具，有著蘑菇般的外形。\n與市面上大部分以「蘑菇」為造型來源的燈具不同，此燈具發光的部分並非蘑菇的「傘蓋」，而是它歪歪扭扭的「傘柄」。更為特別的是其能發出的燈光——一半如陽光般溫暖，一半如月光般清冷。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361413,
+    "Name": "「最最好小窩」",
+    "Description": "可見於「叮鈴哐啷蛋捲工坊」的小床，以穩固的金屬床架為基礎，鋪上可愛圖案的粉色床單與柔軟枕頭。寬大的尺寸和適宜的高度讓使用者無論採取何種睡姿都能安然入眠，享受絕佳的睡眠體驗。\n「這是我睡過的、世界上最好的床！」親手打造這張床的創造者驕傲地說道。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361414,
+    "Name": "霜月石床-「沁人涼意」",
+    "Description": "常見於「霜月之坊」的石床，表面鋪著柔軟的毯子，但對於躺在上面的人而言，仍會感到較為堅硬。\n若是在天氣炎熱的日子躺在這張床上，就能體會到沁人的涼意——但若是嚴寒的冬季，最好還是鋪上一層厚厚的被子之後再躺上去比較好。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361121,
+    "Name": "室內矮桌-「獨有價值」",
+    "Description": "執燈人營地中常用的矮桌，有著較為充裕的儲物空間。\n作為一個架子，往往承載著使用者的「興趣」——愛花的人會在上面擺滿鮮花盆栽，愛書的人堆滿書籍，熱愛美食的人則填充食物。而對於執燈士，這張矮桌作為離床鋪最近的家具，其上最常擺放的，是被他們視作第二生命且永遠隨身攜帶的提燈。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361122,
+    "Name": "室內書架-「閒暇品讀」",
+    "Description": "執燈人營地中常用的書架，設計較為獨特，能夠輕鬆擺放下多種尺寸的書籍。\n對執燈士而言，知識是一項寶貴的財富，偶然間獲得的一點知識，或許能夠在關鍵時刻拯救生命。因此，當得空時，許多執燈士都會聚集在書架前汲取智慧，在休息中為下一場戰鬥做好準備。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361123,
+    "Name": "室內櫃檯-「正式拜訪」",
+    "Description": "執燈人營地中常用的櫃檯，通體由鐵皮打造而成，堅實穩重。櫃檯後方往往會站著輪班負責人，以便於接待那些想要拜訪的陌生人士。\n從外觀上看，這個櫃檯看起來簡陋且粗獷——這正是執燈士的用意。它能有效勸退那些沒有經過深思熟慮，就貿然進入險境的「不速之客」。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361124,
+    "Name": "「高高塔樓」",
+    "Description": "可見於「叮鈴哐啷蛋捲工坊」的櫃子，下寬上窄，如同有許多樓層的塔樓一般。這種別具一格的造型不僅帶來極佳的收納能力，還使重心穩固，讓櫃子在受到巨大的外力衝擊時也不易傾覆。「每一層都有不同的住戶，大大的住底下，小小的住上面，就像高高的塔樓一樣！」出於這樣的設計方針，製作者將這個外形堪稱特別的櫃子打造完成。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 361125,
+    "Name": "旅館衣櫃-「加大容量」",
+    "Description": "常見於「旗艦」中的衣櫃，容量巨大，有著美觀雅緻的色彩搭配。\n原先此衣櫃的容量只有現在的二分之一，但因為「旗艦」中不乏久居的顧客，一旦需要常備各種天氣下都能穿的衣物時，對於衣櫃容量的需求就提高了。顧客們聯名提出意見要求將原先的衣櫃擴容，如今，它已經超過通常衣櫃的容量，只是不知道何時還會再一次擴容呢？",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 362322,
+    "Name": "霜月地毯-「明澄一色」",
+    "Description": "常見於「霜月之坊」的地毯，以藍色為主要色調，點綴了亮眼吸睛的橙紅色。整體採用了對稱的設計，不僅帶來了視覺上的美感，還能帶來秩序感與心靈上的安寧。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 362323,
+    "Name": "「絨絨小毯」",
+    "Description": "可見於「叮鈴哐啷蛋捲工坊」的圓形地毯，色澤溫暖，並且繪製上了可愛溫馨的圖案。\n地毯使用了柔軟細密的織物，整體呈現出毛絨絨的質感，甚至摸起來還會有種摸到貓貓的感覺呢…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 364227,
+    "Name": "「如堅鐵般駐守」",
+    "Description": "常見於執燈人營地內的壁掛裝飾，由交叉擺放的劍和盾牌構成，體現了執燈士們對戰外敵、保衛家人的決心與毅力。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 364228,
+    "Name": "「執燈之幟」",
+    "Description": "常見於執燈人營地內的旗幟，其上繪有執燈人的燈塔圖示，展現了執燈士們在黑夜中駐守燈塔，永不退縮的意志。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 364229,
+    "Name": "酒館壁燈-「廊道懸光」",
+    "Description": "常見於「旗艦」中的壁掛燈，燈光明亮，常常懸掛在走廊中用作照明工具。燈具的吊線採用純白線繩設計，遠遠望去，燈光似乎懸浮在廊道之上。這種設計讓燈具易受周邊振動影響而輕微擺動。熟練的酒保甚至能透過燈光的晃動掌握酒桌上的異動，以預防可能發生的衝突。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371022,
+    "Name": "基地輔樓-「多用溫室」",
+    "Description": "「喀噠喀噠風車基地」的附屬建築，配備了厚實的牆壁和特殊的排煙管道，並連接了外部供熱的鍋爐，能夠穩定維持室內溫度。無論用作招待客人的臨時臥房、恆溫的浴室，或持續供熱的特殊工坊，這類建築都是理想之選。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371023,
+    "Name": "基地輔樓-「秘密空間」",
+    "Description": "「喀噠喀噠風車基地」的附屬建築，外形宛若一條張開大口的巨魚。厚實的屋頂與牆壁織就了一道可靠的屏障，為建築內部提供了極佳的隔音與遮光效果。這樣的設計，無論是用作避光避聲的特殊實驗室，還是用作存放貴重物品的保險庫，均無比適合。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371024,
+    "Name": "基地輔樓-「高聳水塔」",
+    "Description": "「喀噠喀噠風車基地」的附屬建築，結構高聳且容積巨大，擁有儲存與分配液體功能，有時還可兼作瞭望塔。憑藉自身高度，無需外部動力即可利用液體靜態壓力輸送水源，滿足基地的供水需求。在炎熱季節，此建築還能藉由噴灑水霧為基地帶來清涼舒適的環境。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371025,
+    "Name": "基地風車-「輔助動力」",
+    "Description": "「喀噠喀噠風車基地」的景觀風車內部配備了輔助輪機，確保在各種天候下都能穩定旋轉。強風呼嘯時，它從容運行，為庭院帶來安靜祥和之氣；空氣停滯、炙熱難耐時，它的靈動旋轉則將送來一縷輕快的微風。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371026,
+    "Name": "基地門庭-「輸運邏輯」",
+    "Description": "「喀噠喀噠風車基地」所使用的大門，採用了特殊的圓形金屬門框，並搭配有絢麗醒目的發光燈牌裝飾。\n圓形門框設計的優勢在於框架任一位置到中心的距離相等，方便搬運非常規形狀的零件。而「喀噠喀噠風車基地」的設計在此基礎上增添了燈牌，使大門在夜晚依然醒目，確保人員和物資出入時的便利。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371027,
+    "Name": "基地平臺-「堅強地基」",
+    "Description": "「喀噠喀噠風車基地」的金屬平臺，沿用了挪德卡萊部分建築地基的經典結構設計，樸實無華的外觀之下，隱藏著令人驚嘆的承重效能。這些平臺不僅能夠在普通環境中輕鬆支撐各種重量，還能在鬆軟地面上穩固地支撐大型工程機關的運作。毫不誇張地說，「喀噠喀噠風車基地」的繁榮景象，正建立在這些堅實地基之上。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371028,
+    "Name": "基地圍牆-「攔阻陣線」",
+    "Description": "「喀噠喀噠風車基地」的金屬矮牆，以堅固的金屬板材打造，設計靈感源自挪德卡萊與狂獵對抗時的經驗。這款矮牆兼具防護性能、經濟性和安裝便利性，能為射手提供可靠且充足的射擊掩體。\n如今在「喀噠喀噠風車基地」內，這種矮牆被賦予了新的使命：用作空間劃分工具，讓基地內的格局既層次分明，又保有開闊與通透的視覺效果。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 371029,
+    "Name": "基地立柱-「萬用信標」",
+    "Description": "「喀噠喀噠風車基地」的金屬立柱，造型堅毅挺拔。作為獨立景觀時，可為庭院增添力量感與科技感，同時也具有高度實用性，側面安裝了懸掛旗幟的升降裝置，柱頭則與多種實用設備相容，因此被稱為「萬用」信標。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 373940,
+    "Name": "「溫柔的懷抱」",
+    "Description": "常見於挪德卡萊希汐島一帶的銀白石質雕像，有著類似於擁抱的姿勢，能夠為人帶來溫暖的觀感。\n「迷途的孩子啊，我以終北的後嗣之名，祈求明光的恩澤，願霜月的慈惠平息寒夜的狂風，溫暖凍土上蜷縮的雛鳥。」\n或許正是懷著祛除疾病，讓所有人遠離折磨的心願，雕像的工匠才賦予了這一造型充滿慰藉的象徵意義。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 374129,
+    "Name": "城鎮欄杆-「便捷座椅」",
+    "Description": "城鎮中常見的石質低矮欄杆，平整而牢固，有著較為寬大的扶手，甚至可以作為臨時的座椅來使用。但注意，切勿在扶手上行走，那很危險…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 374130,
+    "Name": "城鎮欄杆-「藍藍波濤」",
+    "Description": "城鎮中可見的木質低矮欄杆，造型奇特，就如起伏的藍色波濤一般。\n此欄杆並沒有多少阻斷功能，但勝在造型獨特美觀，因此常常作為分隔區域的道具來使用。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "完成「逸聞紀事」獲得"
+    ],
+    "Id": 374822,
+    "Name": "「晃晃悠悠盆盆魚」",
+    "Description": "愛諾製作的機械魚。附帶了一張手寫的說明書，字有些歪歪扭扭，但可以辨認出是一些注意事項。\n1.它不需要澆水啦！\n2.不能餵它蛋捲哦！\n3.和它好好相處吧！",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "購買紀行·珍珠之歌獲得"
+    ],
+    "Id": 374823,
+    "Name": "「轟轟火花大神像」",
+    "Description": "以蒙德城內某位著名的「火花騎士」為原型打造的神像，似乎還原了她在爆裂的火光中讓萬物化成灰燼，那威風凜凜的姿態。\n蒙德城的最強戰力是誰？有人會說是大名鼎鼎的琴，有人會提名遠征的大團長法爾伽，但還有一些人的心中，最強戰力還是那一位擁有最強「至寶」的神秘紅衣小女孩…",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372521,
+    "Name": "「月色搖曳」",
+    "Description": "通體銀白的植物，常見於「銀月之庭」。\n此植物有著彎曲細長的莖稈以及形如月亮的枝頭，每當夜間的微風拂過便會輕輕晃動，如同月色在搖曳。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372522,
+    "Name": "「搖搖閃閃亮亮擺」",
+    "Description": "叢生且散發著淡淡螢光的植物，生命力頑強，即使沒有光照、缺少水分，也能自如且舒展地生長。\n「什麼東西搖搖擺擺？什麼東西閃閃亮亮？」\n孩童們編織出了簡單易懂的謎語，只等什麼時候遇到一個陌生的異鄉人時，能好好和對方玩一陣問答遊戲。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372523,
+    "Name": "「蓬蓬毛團」",
+    "Description": "如蓬鬆毛團一般的紫色低矮灌木，美觀且生命力強，是優質的觀賞植物。\n此類植物有著易於修剪的枝條，所以在園丁的巧手下，往往能以各式各樣的造型出現——活潑的小狗、可愛的小貓或者蹦蹦跳跳的小鳥…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372524,
+    "Name": "「賞金獵人」",
+    "Description": "如蓬鬆毛團一般的綠色低矮灌木，有著極強的環境適應力，可以在非常惡劣的環境下生存。\n據說這類植物之中有十萬分之一的特例，會因棲息環境的長期影響而改變枝葉的顏色，就像會隨大局的變化調整自身生存方式的「賞金獵人」一樣。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372359,
+    "Name": "望風紫杪樹",
+    "Description": "常見於挪德卡萊野外的樹木，有著細長彎曲的樹幹和較為單薄的樹冠。\n此類樹有著一個相當適應環境的特性，它們會順著風的方向生長——如此，即使是強風肆虐，它們也能避免被折斷。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372360,
+    "Name": "「蒼林的輕語」",
+    "Description": "常見於「銀月之庭」附近的樹木，有著不同於一般樹木的獨特外形。\n「在起風的時刻，用銀盃中受祝福的清水澆灌蒼林之穗，以取悅神明…」\n人們許願的低語是否能被聽見尚未可知，蒼林之穗在月矩力的澆灌下，已滋養出盈盈生機…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372361,
+    "Name": "沐光月黃樹",
+    "Description": "常見於挪德卡萊希汐島一帶的樹木，有著細長彎曲的樹幹和金黃色的樹冠。\n據說，「霜月之子」因其樹葉的色澤近似月光的金黃，對這種樹尤為喜愛。因此，他們將這種樹栽種在通往沐光之臺的道路兩側，以述說對神明的虔敬。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372362,
+    "Name": "綠枝碧蘗樹",
+    "Description": "常見於挪德卡萊野外的樹木，有著較為粗壯的樹幹和新綠色的樹冠。\n據說，這種樹與它的近親擁有異常頑強的生命力，根系發達，能迅速扎入土地汲取營養。甚至只需折下一根小枝插入土中，不久後便能發芽成活，名字亦由此而來。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372236,
+    "Name": "「新月的浪潮」",
+    "Description": "常見於「銀月之庭」內的山石，有著浪潮一般的獨特形貌。\n「恆月的運行牽引著潮起潮落。」不知這些被引力雕琢而成的浪潮山石上，又鐫刻著「月之少女」怎樣的思緒…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372237,
+    "Name": "「寶藏守衛」",
+    "Description": "常見於挪德卡萊野外的山石，沉重且堅固，即使是手持利器的壯漢也很難移動，因此在房屋建設或道路鋪設中往往被視為棘手的障礙。但對於擅長挖掘的小動物而言，這些連大型動物都無法撼動的山石，無疑是最好的「寶藏守衛」。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設購買獲得"
+    ],
+    "Id": 372238,
+    "Name": "「大地的鈍角」",
+    "Description": "常見於挪德卡萊野外的山石，有著堅固且光滑的外表。因尺寸較小，往往隱藏在茂密的植被中，不易被發現。因此，經驗豐富的冒險家會提醒新人：「留意腳下！被絆倒的話比被鈍角犀撞到還痛。」",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 363387,
+    "Name": "據點大門-「可靠鼬鼬」",
+    "Description": "醒目而華麗的金屬據點大門，有著可靠的結構強度，可以抵禦魔物們的輪番衝擊。\n據「青霆」說，大門這威風凜凜的形象，正是天才發明家參考她的鼬鼬夥伴「洋蔥尾巴」設計的。那兩根豎起的拇指和滿溢著自信的神情，彷彿是在承諾：「放心好了，一切就交給我吧！」",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 363388,
+    "Name": "「狼與鐵」",
+    "Description": "#豪放不羈的特調樣品，是在「榮譽騎士特調屋」營運期間根據「帶刺鏡湖」為法爾伽特別開發的傑作。\n品嚐過萬杯佳釀的大團長希望{F#妳}{M#你}放手一戰，盡情發揮天才的想法——那就給大團長來一次不同尋常的「攻勢」：\n以薄荷的清涼和植物香氣作為入口時的初次衝擊，刻意保留的層次感，足以掩護火水的烈性主力，一錘定音。酸奶油則是陣線末尾的部隊，負責嚴謹殿後，不留疏漏…\n根據大團長與蒙德的特點，{F#妳}{M#你}命名它為「狼與鐵」。這種非同尋常的多層口感，讓大團長十分滿意，盡情豪飲…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 363389,
+    "Name": "「嘟嘟可晴天合唱」",
+    "Description": "酸甜可口、熱情滿溢的特調樣品，是在「榮譽騎士特調屋」營運期間根據「好天氣」為可莉特別開發的傑作。\n原本的「好天氣」有著紫色的外觀，還不夠熱情，陽光與白雲，更能帶來溫暖的好心情！\n甜度必不可少，健康也是首要課題，因此選用琴團長也認可的果汁，糖分來自泡泡桔！\n最最重要的嘟嘟可糖果——帶來美味的魔法——必須放在雲朵的中心！\n可莉說：「天氣好，心情好，嘟嘟可會唱歌，可莉也會合唱！」所以這杯飲料就叫「嘟嘟可晴天合唱」！",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 363390,
+    "Name": "「浪花劍鋒曲」",
+    "Description": "#冰淨清爽與烈度並重的特調樣品，是在「榮譽騎士特調屋」營運期間根據「星月閃亮飲」為優菈特別開發的傑作。\n優菈的劍術如同雙手劍的旋舞，接觸之時，有著雪崩般的衝擊，收尾則乾淨俐落，而她本人在飲品上的偏好，同樣強調烈性。\n為此，如酒中冰塊一般不含多餘味道的火水、紀念意義頗深的海露花果漿，以及補充能量消除疲憊的可可，全都加入了杯中的舞會。\n考慮到這是為了浪花騎士的劍術所製作的特調，{F#妳}{M#你}為這杯特調取了「浪花劍鋒曲」一名，優菈則以多達三杯的暢飲表達了她的絕對認可…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 363391,
+    "Name": "「安夢薔薇」",
+    "Description": "#散發著慵懶氣息的特調樣品，是在「榮譽騎士特調屋」營運期間根據「雪韻晨暉」為麗莎特別開發的傑作。\n經過一天的忙碌，圖書管理員既需要恢復元氣，又不想失眠。因此，調製過程中，{F#妳}{M#你}不再選用提神的成分，並於焦糖醬的甜味和靈動的微酸之間找到了巧妙的平衡點…\n目標是「安穩踏實的睡夢」，{F#妳}{M#你}提議叫它「安夢薔薇」，獲得了麗莎「滿分」的好評。",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 363392,
+    "Name": "「悠閒雷光」",
+    "Description": "#悠閒中不失嚴謹的特調樣品，是在「榮譽騎士特調屋」營運期間根據「烈焰焦糖長詩」為克洛琳德特別開發的傑作。\n雷霆般的決鬥代理人循著「桌上劇團」的印象造訪蒙德後，對於金屬氣息的感知異常敏銳，更傾向於「鹽」的調性。而她日常偏好的飲品，大多有著微酸解膩的特點。對於普通調飲師而言，平衡這兩大要求，需要慎之又慎。而經歷了「天使的饋贈」與「旗艦」磨礪的{F#妳}{M#你}，顯然能夠精確掌握每種風味物質的比例。\n為了讓克洛琳德享受輕輕鬆鬆的蒙德之旅，{F#妳}{M#你}將這杯特調命名為「悠閒雷光」，成了克洛琳德對蒙德的關鍵記憶之一。",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限時活動獲得"
+    ],
+    "Id": 363393,
+    "Name": "「雲風芳跡」",
+    "Description": "#典雅靜美，香氛別緻的特調樣品，是在「榮譽騎士特調屋」營運期間根據「七時柔燈」為艾梅莉埃特別開發的傑作。\n來自楓丹的調香師告訴{F#妳}{M#你}，過度的甜膩會使人昏昏欲睡，她更習慣點到即止的微醺。讓顧客倒在吧檯前，顯然不是調飲師的第一任務…\n而在風輕雲淨之日，人們更為敏銳的感官能使「渾然一體」的飲品風味成倍增色。\n{F#妳}{M#你}循著調香的方向，開發了這杯淡雅的傑作，而艾梅莉埃根據命名香水的方法，給了它「雲風芳跡」這個優雅的新名字…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 360107,
+    "Name": "「基地的清涼秘方」",
+    "Description": "「喀噠喀噠風車基地」的標準內牆，由挪德卡萊常用的回收金屬材料打造，色澤冷硬且導熱效果優異。據說，這種牆體使房屋在烈陽炙烤下也能保持舒適涼爽。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 360307,
+    "Name": "「基地的堅實頂板」",
+    "Description": "「喀噠喀噠風車基地」的標準天花板由均質金屬板材精心切割製成，安裝便利、易於清潔，同時兼具出色的功能性與安全性。據說，它選用了與月矩力機關外殼金屬相同的材料，在確保高強度的同時有效減輕重量，徹底避免了安全隱患。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 360207,
+    "Name": "「基地的合金地坪」",
+    "Description": "「喀噠喀噠風車基地」的標準地磚，採用了多種形狀各異的金屬板材嵌合而成，令地板呈現出富有層次的視覺美感。斑駁而錯落的設計使得室內氣氛活潑明快，更顯獨特風格。雖然這種創新設計增加了安裝和維護的難度與成本，但得益於使用了回收金屬材料，有效平衡了這一缺點。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百寶·擺設圖紙購買習得"
+    ],
+    "Id": 360507,
+    "Name": "「基地的沉靜漫射」",
+    "Description": "「喀噠喀噠風車基地」的標準吊燈，由金屬吊具配合多盞燈具組合而成，整體風格硬朗簡約。每當夜幕降臨，燈光交會，柔和的漫射光如織，彷彿將居住環境化作一片靜謐溫暖的天地，帶走所有疲憊與煩惱。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "「基地的寶庫大門」",
+    "Description": "「喀噠喀噠風車基地」的標準房門，採用多層金屬材料焊接打造，設計參考了寶庫大門，兼具美觀與實用的防毀功能。這種房門能有效抵禦鑽、撬、砸等工具的破壞，設計初衷是為了防範一切不速之客。當然對於安全的「壺中洞天」而言，這樣的防禦性能似乎有些大材小用，多數時候恐怕只是為了避免小動物拿它當磨爪板磨壞罷了。",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "「基地的清脆回聲」",
+    "Description": "「喀噠喀噠風車基地」的標準轉角金屬階梯，以高強度、高耐久和低自重著稱。當腳步踏上這些鋼鐵構成的階梯時，清脆的聲響隨之而起，與回聲結構的房屋結合，或許能奏出一段激昂的鼓點。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "「喀噠喀噠風車基地」",
+    "Description": "「掠影之球機」在塵歌壺中重現挪德卡萊風光所築的大型綜合基地，採用久經考驗的金屬框架結構，並配備完善的運輸系統，呈現出不拘一格的狂野氣息，與「叮鈴哐啷蛋捲工坊」的設計理念一脈相承。不過，與「叮鈴哐啷蛋捲工坊」相比，「喀噠喀噠風車基地」取消了生產功能，也減少了燈光的使用。即便如此，屋頂上旋轉不息的風車仍然讓人感受到工坊的忙碌氣息，使胸臆間湧現澎湃動力。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "ตัวละครที่เข้าสู่อาณาจักร",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "โคม Xiao ขนาดใหญ่ที่สร้างขึ้นตามต้นแบบของเซียนผู้พิทักษ์ดวงจันทร์ มีรูปทรงเป็นม้าขาวบริสุทธิ์กำลังกระโดดข้ามช่องเขา ท่ามกลางเมฆหมอกที่โอบล้อมและแสงอรุณสีสันสวยงามที่ทอดยาว ปัจจุบัน ผู้คนต่างนิยมเขียนคำอธิษฐานลงบนโคม Xiao บางทีด้วยวิธีนี้ เซียนม้าขาวอาจจะยอมขับรถม้าหยกจากดวงจันทร์ ลงมาตอบรับคำอธิษฐานของผู้คนก็เป็นได้?",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361345,
+    "Name": "\"คุกกี้กลม ๆ\"",
+    "Description": "โต๊ะกลมเตี้ยที่มักพบเห็นได้ใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" ตัวโต๊ะทำจากแผ่นเหล็กเป็นหลัก มีโครงสร้างที่มั่นคง และมีรูปทรงเหมือนคุกกี้กลม ๆ ที่อบจนหอมกรุ่น\nบ่อยครั้งที่ผู้คนมักจะลังเลว่า จะปูผ้าปูโต๊ะสวย ๆ ให้กับโต๊ะตัวนี้ดีรึเปล่า... \"แต่ถ้าปูผ้าปูโต๊ะแล้ว การทำความสะอาดเศษ Krumkake ที่ตกลงบนผ้าปูโต๊ะคงจะยุ่งยากมากแน่!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361346,
+    "Name": "\"ห้องเก็บของกรุ๊งกริ๊ง\"",
+    "Description": "โต๊ะเก็บของที่มักพบเห็นได้ใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" มีการแบ่งสัดส่วนที่ชัดเจน ราวกับบ้านที่เรียงรายสูงต่ำไม่เท่ากัน\n\"นี่คือบ้านเล็ก ๆ ของค้อน นั่นคือบ้านเล็ก ๆ ของตะปู...\" ผู้ที่จัดเก็บสิ่งของบนโต๊ะตัวนี้กล่าวไว้",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361347,
+    "Name": "โต๊ะกลมจันทราน้ำค้างแข็ง - \"ฟ้าครามอ่อนนุ่ม\"",
+    "Description": "โต๊ะกลมที่มักจะพบเห็นได้ใน \"หอจันทราน้ำค้างแข็ง\" สร้างขึ้นจากไม้โอ๊กฤดูร้อน ที่มีความเหนียวและกันน้ำที่ดีเยี่ยม จึงสามารถใช้งานได้อย่างหลากหลาย\nช่างฝีมือของลูกหลานจันทราน้ำค้างแข็ง ได้รับแรงบันดาลใจจากดวงจันทร์สว่างไสว ที่ลอยเด่นอยู่บนท้องฟ้ายามค่ำคืน จึงได้จับคู่โต๊ะกลมที่ดูคล้ายกับวงล้อดวงจันทร์นี้ กับผ้าปูโต๊ะสีฟ้าอ่อนนุ่ม เพื่อมอบความสงบและความอบอุ่น ของท้องฟ้ายามค่ำคืนให้แก่โต๊ะตัวนี้",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363414,
+    "Name": "\"บันทึกของใครสักคน\"",
+    "Description": "กองหนังสือที่สุมกันอยู่ใน \"หอจันทราน้ำค้างแข็ง\" ส่วนใหญ่ไม่ใช่หนังสือที่เข้าเล่มอย่างประณีต แต่เป็นบันทึกที่เขียนด้วยลายมือ ของนักเขียนนิรนามบางคน\nหนังสือประเภทนี้ มักจะซ่อนเรื่องราวที่น่าตื่นเต้นและน่าดึงดูดเอาไว้ ลายมือที่ยุ่งเหยิง ลำดับคำที่สับสน หรือแม้กระทั่งร่องรอยที่ทิ้งไว้บนหน้ากระดาษ ดูเหมือนจะบอกเล่าถึงสภาพที่แท้จริงของผู้เขียนในขณะนั้น",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363415,
+    "Name": "โต๊ะเล็กจันทราน้ำค้างแข็ง - \"อวลกลิ่นผลไม้\"",
+    "Description": "โต๊ะเล็กที่พบเห็นได้ทั่วไปใน \"หอจันทราน้ำค้างแข็ง\" ซึ่งมักจะวางผลไม้ตามฤดูกาลที่สดใหม่ที่สุดไว้ด้านบน\nนอกจากจะใช้รับประทานแล้ว ผลไม้ที่วางอยู่บนโต๊ะน้ำชา ยังมักถูกใช้เป็นเครื่องหอมอีกด้วย... กลิ่นผลไม้อ่อน ๆ ที่อบอวลไปทั่วห้องนั้นไม่รุนแรงจนเกินไป แต่สามารถสร้างบรรยากาศที่อบอุ่นและสบายได้",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363511,
+    "Name": "\"กิ่งก้านเชื่อมสีคราม\"",
+    "Description": "ดอกไม้จักรกลที่ไม่เคยร่วงโรย เป็นกระถางต้นไม้ประดับในร่ม ที่เหล่าทหารประภาคารโปรดปราน\n\"ไม่มีเวลาดูแล... ไม่มีแสงแดด... แม้แต่ดินที่อุดมสมบูรณ์สักพลั่วก็ยังหาไม่ได้!\"\nดังนั้น เมื่อทหารประภาคารที่มีฝีมือในงานช่าง ได้ใช้วัสดุเหลือใช้สร้างกระถางต้นไม้ที่ดูดีเช่นนี้ขึ้นมา ทุกคนต่างก็ดีใจกันถ้วนหน้า... สีฟ้าครามราวกับท้องฟ้า ก็เป็นสีสันที่ผู้คนที่อาศัยอยู่ในค่ำคืนอันยาวนานโหยหาเช่นกัน",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 362134,
+    "Name": "เก้าอี้พนักพิงไม้โอ๊กฤดูร้อน \"หนุนจันทร์\"",
+    "Description": "เก้าอี้ที่โครงสร้างหลักทำจากไม้โอ๊กฤดูร้อน พบได้ทั่วไปใน \"หอจันทราน้ำค้างแข็ง\"\nพนักพิงได้ผ่านการแกะสลักมาแล้ว ส่วนที่ฉลุลายกลวงจะคล้ายพระจันทร์เต็มดวง เมื่อวางไว้ในอาคาร ที่นั่งจะถูกปูด้วยเบาะรองนั่งนุ่ม ๆ สีฟ้าคราม ทำให้บรรยากาศภายในห้องอบอุ่นและเป็นธรรมชาติ",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363119,
+    "Name": "\"ประกายแสงริบหรี่\"",
+    "Description": "โคมไฟไม้ที่มักพบเห็นได้ภายใน \"หอจันทราน้ำค้างแข็ง\" รูปทรงได้รับแรงบันดาลใจมาจากกวางเขาน้ำแข็ง ทำให้มีเอกลักษณ์ที่โดดเด่น\nถึงแม้จะมีการออกแบบหูหิ้วสำหรับถือ แต่เนื่องจากน้ำหนักที่ค่อนข้างมาก จึงมักถูกวางไว้ในที่ประจำ ผู้คนส่วนใหญ่ใน \"หอจันทราน้ำค้างแข็ง\" ใช้มันเป็นโคมไฟกลางคืน แสงของมันสามารถส่องสว่างเส้นทางในยามค่ำคืนได้ และไม่รบกวนสิ่งมีชีวิตตัวน้อยที่เป็นมิตร",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 363120,
+    "Name": "\"เห็ดบิดเกลียว\"",
+    "Description": "โคมไฟที่พบเห็นได้ในค่ายของผู้เฝ้าประภาคาร มีรูปร่างคล้ายกับเห็ด\nแตกต่างจากโคมไฟส่วนใหญ่ในท้องตลาดที่ใช้ \"เห็ด\" เป็นต้นแบบในการออกแบบ ส่วนที่เปล่งแสงของโคมไฟนี้ไม่ใช่ \"หมวกเห็ด\" แต่เป็น \"ก้านเห็ด\" ที่บิดเบี้ยวแทน สิ่งที่พิเศษยิ่งกว่าคือแสงที่ส่องออกมา... ครึ่งหนึ่งอบอุ่นเหมือนแสงแดด อีกครึ่งหนึ่งเยือกเย็นเหมือนแสงจันทร์",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361413,
+    "Name": "\"รังน้อยที่ดีที่สุด\"",
+    "Description": "เตียงเล็ก ๆ ที่พบได้ใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" โครงเตียงทำจากโลหะที่มั่นคง ปูด้วยผ้าปูที่นอนสีชมพูลายน่ารักและหมอนนุ่ม ๆ ขนาดที่กว้างขวางและความสูงที่เหมาะสม ทำให้ผู้ใช้สามารถนอนหลับได้อย่างสบายในทุกท่วงท่า และเพลิดเพลินไปกับประสบการณ์การนอนหลับที่ยอดเยี่ยม\n\"นี่คือเตียงที่ดีที่สุดในโลกที่ฉันเคยนอนมาเลย!\" ผู้สร้างที่ทำเตียงนี้ด้วยมือของตัวเอง กล่าวอย่างภาคภูมิใจ",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361414,
+    "Name": "เตียงหินจันทราน้ำค้างแข็ง - \"ความเย็นฉ่ำชุ่มใจ\"",
+    "Description": "เตียงหินที่มักจะพบเห็นได้ใน \"หอจันทราน้ำค้างแข็ง\" พื้นผิวปูด้วยผ้าห่มนุ่ม ๆ แต่สำหรับคนที่นอนอยู่ด้านบนแล้ว ยังคงรู้สึกว่ามันค่อนข้างแข็งไปหน่อย\nหากเป็นวันที่อากาศร้อน การนอนบนเตียงนี้จะสัมผัสได้ถึงความเย็นสดชื่น แต่หากเป็นฤดูหนาวที่หนาวเหน็บ ทางที่ดีควรปูที่นอนหนา ๆ สักชั้นก่อน แล้วค่อยลงไปนอนจะดีกว่า",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361121,
+    "Name": "โต๊ะเตี้ยในร่ม - \"คุณค่าที่ไม่เหมือนใคร\"",
+    "Description": "โต๊ะเตี้ยที่ใช้กันทั่วไปในค่ายของผู้เฝ้าประภาคาร มีพื้นที่เก็บของที่ค่อนข้างกว้างขวาง\nในฐานะชั้นวางของ มันมักจะบรรจุ \"ความสนใจ\" ของผู้ใช้เอาไว้เสมอ... คนรักดอกไม้จะวางกระถางดอกไม้ไว้เต็มโต๊ะ คนรักหนังสือจะกองหนังสือไว้มากมาย และคนที่รักอาหาร ก็จะเติมเต็มโต๊ะนั้นด้วยของกิน สำหรับเหล่าทหารประภาคารแล้ว โต๊ะเตี้ยตัวนี้เป็นเฟอร์นิเจอร์ที่อยู่ใกล้เตียงมากที่สุด สิ่งที่พวกเขาวางไว้บนโต๊ะบ่อยที่สุด ก็คือตะเกียงที่พกติดตัวตลอดเวลา ซึ่งเปรียบเสมือนชีวิตที่สองของพวกเขานั่นเอง",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361122,
+    "Name": "ชั้นวางหนังสือในร่ม - \"อ่านยามว่าง\"",
+    "Description": "ชั้นหนังสือที่ใช้กันทั่วไปในค่ายของผู้เฝ้าประภาคาร มีดีไซน์ค่อนข้างเป็นเอกลักษณ์ สามารถวางหนังสือขนาดต่าง ๆ ได้อย่างง่ายดาย\nสำหรับทหารประภาคารแล้ว ความรู้คือสมบัติอันล้ำค่า ความรู้เพียงน้อยนิดที่ได้รับมาโดยบังเอิญ อาจสามารถช่วยชีวิตในยามคับขันได้ ดังนั้น เมื่อมีเวลาว่าง ทหารประภาคารจำนวนมาก จะมารวมตัวกันที่หน้าชั้นหนังสือเพื่อซึมซับความรู้ และเตรียมพร้อมสำหรับการต่อสู้ครั้งต่อไประหว่างพักผ่อน",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361123,
+    "Name": "เคาน์เตอร์ในร่ม - \"มาเยือนอย่างเป็นทางการ\"",
+    "Description": "เคาน์เตอร์ที่มักใช้ในค่ายของผู้เฝ้าประภาคาร สร้างขึ้นจากแผ่นเหล็กทั้งชิ้น แข็งแกร่งและมั่นคง ด้านหลังเคาน์เตอร์มักจะมีผู้รับผิดชอบประจำเวรยืนอยู่ เพื่ออำนวยความสะดวกในการต้อนรับคนแปลกหน้าที่ต้องการมาเยี่ยมเยือน\nจากรูปลักษณ์ภายนอก เคาน์เตอร์นี้ดูเรียบง่ายและหยาบกระด้าง ซึ่งนี่เป็นความตั้งใจของเหล่าทหารประภาคาร เพราะมันสามารถขับไล่ \"แขกที่ไม่ได้รับเชิญ\" ที่เข้ามาในสถานการณ์อันตรายโดยไม่ได้คิดให้รอบคอบได้",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361124,
+    "Name": "\"หอคอยสูงตระหง่าน\"",
+    "Description": "ตู้ที่พบได้ใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" ด้านล่างกว้างด้านบนแคบ เหมือนกับหอคอยที่มีหลายชั้น รูปร่างอันมีเอกลักษณ์นี้ ไม่เพียงแต่ให้พื้นที่จัดเก็บที่ยอดเยี่ยมเท่านั้น แต่ยังช่วยให้จุดศูนย์ถ่วงมั่นคง ทำให้ตู้ไม่ล้มง่ายเมื่อโดนแรงกระแทกจากภายนอก \"ในแต่ละชั้นมีผู้อยู่อาศัยที่แตกต่างกัน ของชิ้นใหญ่อยู่ด้านล่าง ของชิ้นเล็กอยู่ด้านบน เหมือนกับหอคอยสูง ๆ เลย!\" ด้วยแนวคิดการออกแบบเช่นนี้ ผู้ผลิตจึงได้สร้างสรรค์ตู้เก็บของ ที่มีรูปลักษณ์พิเศษนี้ขึ้นมา",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 361125,
+    "Name": "ตู้เสื้อผ้าโรงแรม - \"ขยายความจุ\"",
+    "Description": "ตู้เสื้อผ้าที่มักพบเห็นได้ใน \"เรือธง\" มีความจุมหาศาล และมีการจับคู่สีสันที่สวยและสง่างาม\nเดิมทีตู้เสื้อผ้านี้มีพื้นที่เก็บของเพียงครึ่งหนึ่งของขนาดปัจจุบัน แต่เนื่องจากใน \"เรือธง\" มีลูกค้าที่พักอาศัยระยะยาวอยู่ไม่น้อย เมื่อมีความจำเป็นต้องเตรียมเสื้อผ้า ที่สามารถสวมใส่ได้ในทุกสภาพอากาศ ความต้องการด้านความจุของตู้เสื้อผ้าก็เพิ่มสูงขึ้น เหล่าลูกค้าจึงร่วมกันลงชื่อเสนอความคิดเห็น เพื่อขอขยายความจุของตู้เสื้อผ้าเดิม ปัจจุบันตู้เสื้อผ้านี้มีความจุมากกว่าตู้เสื้อผ้าทั่วไปแล้ว แต่ไม่รู้ว่าเมื่อไหร่ที่มันจะถูกขยายความจุอีกครั้ง?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 362322,
+    "Name": "พรมจันทราน้ำค้างแข็ง - \"สีสันอันกระจ่าง\"",
+    "Description": "พรมที่พบได้ทั่วไปใน \"หอจันทราน้ำค้างแข็ง\" ใช้สีฟ้าเป็นโทนสีหลัก และตกแต่งด้วยสีส้มแดงที่สะดุดตา การออกแบบโดยรวมนั้นใช้ดีไซน์ที่สมมาตร ซึ่งไม่เพียงแต่สร้างความสวยงามทางสายตาเท่านั้น แต่ยังให้ความรู้สึกถึงความเป็นระเบียบ และความสงบสุขภายในจิตใจอีกด้วย",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 362323,
+    "Name": "\"พรมผืนน้อยขนนุ่ม\"",
+    "Description": "พรมทรงกลมที่พบได้ใน \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" มีสีสันที่อบอุ่นและถูกวาดด้วยลวดลายที่น่ารักและอบอุ่นเอาไว้\nพรมผืนนี้ใช้สิ่งทอที่นุ่มและละเอียด โดยรวมแล้วให้สัมผัสที่นุ่มฟู แม้กระทั่งตอนที่สัมผัส ยังให้ความรู้สึกเหมือนกำลังลูบแมวอยู่เลย...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 364227,
+    "Name": "\"ประจำการดุจเหล็กกล้า\"",
+    "Description": "ของตกแต่งที่แขวนบนผนัง มักพบได้ในค่ายของผู้เฝ้าประภาคาร ประกอบขึ้นจากดาบและโล่ที่วางไขว้กัน แสดงให้เห็นถึงความมุ่งมั่น และความอุตสาหะของเหล่าทหารประภาคาร ในการต่อสู้กับศัตรูภายนอก และปกป้องครอบครัวของพวกเขา",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 364228,
+    "Name": "\"ธงของทหารประภาคาร\"",
+    "Description": "ธงที่มักพบเห็นได้ในค่ายของผู้เฝ้าประภาคาร บนธงปักสัญลักษณ์ประภาคารของผู้เฝ้าประภาคารไว้ แสดงถึงเจตจำนงของเหล่าทหารประภาคาร ที่คอยปกป้องประภาคารในยามค่ำคืนอย่างไม่ย่อท้อ",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 364229,
+    "Name": "โคมไฟติดผนังร้านเหล้า - \"แสงลอยกลางโถง\"",
+    "Description": "โคมไฟติดผนังที่พบเห็นได้ทั่วไปใน \"เรือธง\" แสงไฟสว่างจ้า และมักจะแขวนไว้ในโถงทางเดิน เพื่อเป็นอุปกรณ์ให้แสงสว่าง สายแขวนโคมไฟใช้การออกแบบเชือกสีขาวบริสุทธิ์ เมื่อมองจากระยะไกล ดูเหมือนแสงไฟจะลอยอยู่เหนือโถงทางเดิน การออกแบบนี้ทำให้โคมไฟแกว่งไกวเล็กน้อยได้ง่าย เมื่อได้รับผลกระทบจากแรงสั่นสะเทือนโดยรอบ บาร์เทนเดอร์ที่ชำนาญสามารถรับรู้ถึงความผิดปกติบนโต๊ะได้ จากการแกว่งของแสงไฟ ซึ่งช่วยป้องกันความขัดแย้งที่อาจเกิดขึ้นได้",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371022,
+    "Name": "อาคารเสริมฐาน - \"เรือนกระจกสารพัดประโยชน์\"",
+    "Description": "อาคารเสริมของ \"ฐานกังหันลมแคล็กแคล็ก\" ที่มีกำแพงหนาและท่อระบายควันแบบพิเศษ และเชื่อมต่อกับหม้อต้มน้ำที่ให้ความร้อนจากภายนอก ทำให้สามารถรักษาอุณหภูมิภายในอาคารให้คงที่ได้ ไม่ว่าจะใช้เป็นห้องนอนชั่วคราวสำหรับแขก, ห้องน้ำที่รักษาอุณหภูมิคงที่ หรือเวิร์กช็อปพิเศษที่ต้องการความร้อนอย่างต่อเนื่อง อาคารประเภทนี้ก็เป็นตัวเลือกที่เหมาะสมที่สุด",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371023,
+    "Name": "อาคารเสริมฐาน - \"พื้นที่ลับ\"",
+    "Description": "อาคารเสริมของ \"ฐานกังหันลมแคล็กแคล็ก\" มีรูปร่างภายนอกเหมือนปลาตัวมหึมาที่กำลังอ้าปากกว้าง หลังคาและผนังที่หนาของมันได้สร้างบาเรียที่แข็งแกร่ง ซึ่งช่วยป้องกันเสียงและแสงจากภายนอกได้อย่างดีเยี่ยม การออกแบบเช่นนี้ ไม่ว่าจะใช้เป็นห้องทดลองพิเศษ ที่ต้องการหลีกเลี่ยงแสงและเสียงรบกวน หรือใช้เป็นห้องนิรภัยสำหรับเก็บของล้ำค่าก็เหมาะสมอย่างยิ่ง",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371024,
+    "Name": "อาคารเสริมฐาน - \"หอคอยน้ำสูงตระหง่าน\"",
+    "Description": "อาคารเสริมของ \"ฐานกังหันลมแคล็กแคล็ก\" โครงสร้างสูงตระหง่านและมีความจุขนาดใหญ่ มีฟังก์ชันกักเก็บและจ่ายของเหลว และบางครั้งก็สามารถใช้เป็นหอสังเกตการณ์ได้ ด้วยความสูงของมัน จึงสามารถใช้น้ำและแรงดันสถิตของของเหลว เพื่อส่งน้ำได้โดยไม่ต้องใช้พลังงานจากภายนอก ซึ่งช่วยตอบสนองความต้องการน้ำของฐานได้ ในฤดูร้อน อาคารยังสามารถสร้างสภาพแวดล้อมที่เย็นสบาย ให้กับฐานได้ด้วยการพ่นละอองน้ำ",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371025,
+    "Name": "กังหันลมฐาน - \"พลังงานเสริม\"",
+    "Description": "กังหันลมสำหรับตกแต่งของ \"ฐานกังหันลมแคล็กแคล็ก\" ได้ติดตั้งกังหันเสริมเอาไว้ภายใน เพื่อให้แน่ใจว่า มันสามารถหมุนได้อย่างมั่นคงในทุกสภาพอากาศ เมื่อลมแรงพัดกระหน่ำ กังหันลมจะทำงานอย่างสงบนิ่ง นำความสงบและความผ่อนคลายมาสู่ลานบ้าน และเมื่ออากาศนิ่งและร้อนอบอ้าว การหมุนที่คล่องแคล่วของมัน ก็จะพัดพาลมแผ่วเบามาให้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371026,
+    "Name": "ประตูฐาน - \"ตรรกะการขนส่ง\"",
+    "Description": "ประตูใหญ่ที่ใช้ใน \"ฐานกังหันลมแคล็กแคล็ก\" ใช้กรอบประตูโลหะทรงกลมแบบพิเศษ และตกแต่งด้วยป้ายไฟเรืองแสงที่งดงามและสะดุดตา\nข้อดีของการออกแบบกรอบประตูทรงกลมคือ ระยะห่างจากตำแหน่งใด ๆ บนกรอบไปยังจุดศูนย์กลางจะเท่ากัน ซึ่งสะดวกต่อการขนย้ายชิ้นส่วนที่มีรูปร่างไม่เสมอกัน และ \"ฐานกังหันลมแคล็กแคล็ก\" ยังได้ออกแบบเพิ่มป้ายไฟบนพื้นฐานนี้ ทำให้ประตูใหญ่ยังคงสะดุดตาในเวลากลางคืน และรับประกันความสะดวกในการเข้าออกของบุคลากรและวัสดุ",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371027,
+    "Name": "แท่นฐาน - \"รากฐานที่แข็งแกร่ง\"",
+    "Description": "แท่นโลหะของ \"ฐานกังหันลมแคล็กแคล็ก\" ได้นำการออกแบบโครงสร้างสุดคลาสสิก ของฐานรากสิ่งก่อสร้างบางส่วนของ Nod-Krai มาปรับใช้ ภายใต้รูปลักษณ์ที่เรียบง่าย กลับซ่อนประสิทธิภาพในการรับน้ำหนักที่น่าทึ่งเอาไว้ แท่นเหล่านี้ไม่เพียงแต่สามารถรองรับน้ำหนักต่าง ๆ ได้อย่างง่ายดายในสภาพแวดล้อมปกติเท่านั้น แต่ยังรองรับการทำงานของกลไกทางวิศวกรรมขนาดใหญ่ บนพื้นที่อ่อนนุ่มได้อย่างมั่นคงอีกด้วย หากจะพูดว่าภาพความเจริญรุ่งเรืองของ \"ฐานกังหันลมแคล็กแคล็ก\" สร้างขึ้นบนฐานรากที่มั่นคงเหล่านี้ ก็คงไม่เกินจริงเลย",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371028,
+    "Name": "กำแพงรั้วฐาน - \"แนวป้องกัน\"",
+    "Description": "กำแพงโลหะเตี้ยของ \"ฐานกังหันลมแคล็กแคล็ก\" สร้างขึ้นจากแผ่นโลหะที่แข็งแรงทนทาน โดยได้รับแรงบันดาลใจในการออกแบบ มาจากประสบการณ์ของ Nod-Krai ในการต่อสู้กับ \"การล่าอันบ้าคลั่ง\" กำแพงเตี้ยรุ่นนี้มีประสิทธิภาพในการป้องกัน ราคาประหยัด และติดตั้งได้ง่าย สามารถใช้เป็นที่กำบังที่เชื่อถือได้และเพียงพอสำหรับมือปืน\nปัจจุบันภายใน \"ฐานกังหันลมแคล็กแคล็ก\" กำแพงเตี้ยนี้เหล่านี้ได้มีบทบาทใหม่ นั่นคือใช้เป็นเครื่องมือในการแบ่งพื้นที่ ทำให้รูปแบบภายในฐานมีลำดับชั้นที่ชัดเจน ในขณะที่ยังคงให้ความรู้สึกที่เปิดกว้างและโปร่งสบาย",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 371029,
+    "Name": "เสาหลักของฐาน - \"สัญญาณอเนกประสงค์\"",
+    "Description": "เสาโลหะของ \"ฐานกังหันลมแคล็กแคล็ก\" มีรูปทรงที่แข็งแกร่งและตั้งตรง เพิ่มความรู้สึกถึงพลังและเทคโนโลยีให้กับลานบ้านได้ เมื่อใช้เป็นองค์ประกอบภูมิทัศน์แบบเดี่ยว ๆ ในขณะเดียวกัน ก็มีประโยชน์ใช้สอยสูง ด้านข้างติดตั้งอุปกรณ์ยกสำหรับแขวนธง และส่วนบนของเสาสามารถรองรับอุปกรณ์ใช้งานได้หลากหลาย ดังนั้นจึงถูกเรียกว่าสัญญาณ \"อเนกประสงค์\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 373940,
+    "Name": "\"อ้อมกอดอันอ่อนโยน\"",
+    "Description": "รูปปั้นหินสีขาวเงินที่พบได้ทั่วไปในบริเวณเกาะ Hiisi ของ Nod-Krai มีลักษณะท่าทางคล้ายอ้อมกอด สามารถทำให้ผู้คนรู้สึกอบอุ่นได้\n\"เด็กผู้หลงทางเอ๋ย ในนามของทายาทแห่งสุดเขตแดนเหนือ ข้าวิงวอนขอพรจากแสงสว่าง ขอให้ความเมตตาของจันทราน้ำค้างแข็ง ทำให้พายุในค่ำคืนอันหนาวเหน็บสงบลง มอบความอบอุ่นให้นกน้อยที่ขดตัวอยู่บนดินเยือกแข็ง\"\nบางทีอาจเป็นเพราะความปรารถนาที่จะขจัดโรคภัยไข้เจ็บ และทำให้ทุกคนห่างไกลจากความทุกข์ทรมาน ช่างฝีมือผู้สร้างรูปปั้น จึงได้มอบความหมายเชิงสัญลักษณ์ที่เปี่ยมไปด้วยการปลอบประโลมให้แก่รูปปั้นนี้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 374129,
+    "Name": "รั้วกั้นในเมือง - \"ที่นั่งแสนสะดวก\"",
+    "Description": "รั้วหินเตี้ย ๆ ที่พบเห็นได้ทั่วไปในเมือง มีความเรียบและแข็งแรง และมีราวจับที่ค่อนข้างกว้าง ถึงขนาดที่สามารถใช้เป็นที่นั่งชั่วคราวได้ แต่โปรดระวัง อย่าเดินบนราวจับเด็ดขาด เพราะมันอันตรายมาก...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 374130,
+    "Name": "รั้วกั้นในเมือง - \"ระลอกคลื่นสีคราม\"",
+    "Description": "รั้วไม้เตี้ย ๆ ที่พบเห็นได้ในเมือง มีรูปทรงแปลกตา ราวกับคลื่นสีฟ้าที่ซัดสาด\nรั้วกั้นนี้ไม่ได้มีคุณสมบัติในการกั้นอะไรมากนัก แต่โดดเด่นตรงรูปทรงที่เป็นเอกลักษณ์และสวยงาม ดังนั้นจึงมักจะถูกนำมาใช้เป็นเครื่องมือสำหรับแบ่งพื้นที่",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับเมื่อสำเร็จ \"บันทึกเกร็ดน่ารู้\""
+    ],
+    "Id": 374822,
+    "Name": "\"เจ้าปลาในกระถางโยกเยก\"",
+    "Description": "ปลาจักรกลที่สร้างโดย Aino มาพร้อมกับคู่มือการใช้งานที่เขียนด้วยลายมือ แม้ตัวอักษรจะเบี้ยวไปบ้าง แต่ก็พออ่านออกว่าเป็นข้อควรระวังบางอย่าง\n1. ไม่ต้องรดน้ำให้มันนะ!\n2. ห้ามป้อน Krumkake ให้มันเด็ดขาด!\n3. อยู่กับมันดี ๆ นะ!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อ BP เทพเจ้า"
+    ],
+    "Id": 374823,
+    "Name": "\"รูปปั้นเทพเจ้า Sparks 'n' Splash\"",
+    "Description": "รูปปั้นเทพที่สร้างขึ้นโดยมีต้นแบบจาก \"อัศวินดอกไม้เพลิง\" ผู้โด่งดังคนหนึ่งในเมือง Mondstadt ซึ่งดูเหมือนว่าจะถ่ายทอดท่วงท่าอันสง่างามของเธอ ที่เปลี่ยนทุกสิ่งให้กลายเป็นเถ้าถ่าน ท่ามกลางเปลวไฟที่ระเบิดออก\nใครคือกำลังรบที่แข็งแกร่งที่สุดในเมือง Mondstadt? บ้างก็ว่าเป็น Jean ผู้โด่งดัง บ้างก็เสนอชื่อ Varka แกรนด์มาสเตอร์ผู้ยิ่งใหญ่ที่กำลังออกเดินทางสำรวจ แต่ในใจของคนบางกลุ่ม กำลังรบที่แข็งแกร่งที่สุดก็ยังคงเป็นเด็กหญิงในชุดแดงผู้ลึกลับ ที่ครอบครอง \"สมบัติล้ำค่า\" ที่แข็งแกร่งที่สุด...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372521,
+    "Name": "\"จันทราเอนไหว\"",
+    "Description": "พืชพรรณสีขาวเงินทั้งต้น พบเห็นได้ทั่วไปใน \"โถงจันทราสีเงิน\"\nพืชชนิดนี้มีลำต้นที่โค้งงอและเรียวยาว และกิ่งก้านที่มีรูปร่างคล้ายดวงจันทร์ ยามเมื่อสายลมแผ่วเบายามค่ำคืนพัดผ่าน มันจะแกว่งไกวเบา ๆ ราวกับแสงจันทร์ที่กำลังสั่นไหว",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372522,
+    "Name": "\"แกว่งไกวประกายแสง\"",
+    "Description": "พืชที่เติบโตขึ้นเป็นกลุ่มและเปล่งแสงเรืองรองจาง ๆ มีพลังชีวิตที่แข็งแกร่ง แม้จะไม่มีแสงและขาดน้ำ ก็ยังสามารถเติบโตและแผ่ขยายได้อย่างอิสระ\n\"อะไรเอ่ยโยกไปเยกมา? อะไรเอ่ยส่องแสงระยิบระยับ?\"\nพวกเด็ก ๆ ได้แต่งปริศนาง่าย ๆ ขึ้นมา และรอที่จะได้พบกับคนต่างถิ่นที่ไม่คุ้นเคย เพื่อจะได้เล่นเกมทายปัญหากับอีกฝ่าย",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372523,
+    "Name": "\"ก้อนขนปุย\"",
+    "Description": "พุ่มไม้เตี้ยสีม่วงที่ดูเหมือนก้อนขนปุกปุย สวยงามและมีชีวิตชีวา เป็นพืชประดับชั้นเยี่ยม\nพืชชนิดนี้มีกิ่งก้านที่ง่ายต่อการตัดแต่ง ดังนั้นหากอยู่ในมือของคนทำสวนที่มีฝีมือ พวกมันก็สามารถเปลี่ยนรูปร่างได้หลากหลาย... ไม่ว่าจะเป็นลูกสุนัขที่ร่าเริง ลูกแมวที่น่ารัก หรือนกน้อยที่กระโดดโลดเต้น...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372524,
+    "Name": "\"นักล่าเงินรางวัล\"",
+    "Description": "พุ่มไม้เตี้ยสีเขียวที่ดูเหมือนก้อนขนปุกปุย มีความสามารถในการปรับตัวเข้ากับสภาพแวดล้อมได้เป็นอย่างดี สามารถอยู่รอดได้ในสภาพแวดล้อมที่เลวร้ายอย่างยิ่ง\nว่ากันว่าในบรรดาพืชประเภทนี้ มีเพียงหนึ่งในแสนต้นเท่านั้น ที่สีของใบจะเปลี่ยนไปตามกาลเวลา เนื่องจากอิทธิพลระยะยาวของสภาพแวดล้อมที่อยู่อาศัย เหมือนกับ \"นักล่าเงินรางวัล\" ที่ปรับเปลี่ยนวิถีชีวิตของตนเอง ไปตามการเปลี่ยนแปลงของสถานการณ์",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372359,
+    "Name": "ต้นสีม่วงรับสายลม",
+    "Description": "ต้นไม้ที่พบได้ทั่วไปในป่าของ Nod-Krai มีลำต้นที่เรียวยาวและโค้งงอ พร้อมกับเรือนยอดที่ค่อนข้างบาง\nต้นไม้ชนิดนี้มีลักษณะพิเศษที่สามารถปรับตัวเข้ากับสภาพแวดล้อมได้ดี โดยพวกมันจะเติบโตไปตามทิศทางลม ด้วยวิธีนี้ แม้ว่าจะมีลมแรงพัดกระหน่ำ พวกมันก็สามารถหลีกเลี่ยงการหักโค่นได้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372360,
+    "Name": "\"เสียงกระซิบไพรสีคราม\"",
+    "Description": "ต้นไม้ที่พบได้ทั่วไปใกล้กับ \"โถงจันทราสีเงิน\" มีรูปร่างที่เป็นเอกลักษณ์แตกต่างจากต้นไม้ทั่วไป\n\"ในยามที่ลมพัดมา ก็จะใช้น้ำบริสุทธิ์ในถ้วยเงินที่ได้รับพรมารดน้ำรวงแห่งพงไพร เพื่อทำให้เทพเจ้าพอใจ...\"\nยังไม่เป็นที่แน่ชัดว่าเสียงกระซิบแห่งคำอธิษฐานของผู้คนจะไปถึงหรือไม่ แต่ 'รวงแห่งพงไพร' ก็ได้รับการหล่อเลี้ยงจาก \"แรงจันทราผัน\" จนเปี่ยมไปด้วยชีวิตชีวาแล้ว...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372361,
+    "Name": "ต้นไม้จันทราสีทองอาบแสง",
+    "Description": "ต้นไม้ที่พบได้ทั่วไปในแถบเกาะ Hiisi แห่ง Nod-Krai มีลำต้นที่เรียวยาวและโค้งงอ และเรือนยอดสีทองอร่าม\nว่ากันว่า \"ลูกหลานจันทราน้ำค้างแข็ง\" ชื่นชอบต้นไม้ชนิดนี้เป็นพิเศษ เนื่องจากสีของใบไม้คล้ายกับสีทองของแสงจันทร์ ดังนั้นพวกเขาจึงปลูกต้นไม้ชนิดนี้ ไว้สองข้างทางที่มุ่งสู่แท่นอาบแสง เพื่อแสดงความเคารพต่อทวยเทพ",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372362,
+    "Name": "ต้นไม้กิ่งก้านแตกหน่อ",
+    "Description": "ต้นไม้ที่พบเห็นได้ทั่วไปในพื้นที่รกร้างของ Nod-Krai มีลำต้นที่ค่อนข้างหนาและเรือนยอดสีเขียวชอุ่ม\nว่ากันว่า ต้นไม้ชนิดนี้และพืชตระกูลใกล้เคียงกัน มีพลังชีวิตที่แข็งแกร่งเป็นพิเศษ ระบบรากของมันได้รับการพัฒนาเป็นอย่างดี สามารถแทรกซึมลงไปในดิน เพื่อดูดซับสารอาหารได้อย่างรวดเร็ว แม้แต่การหักกิ่งเล็ก ๆ แล้วปักลงไปในดิน ไม่นานก็จะแตกหน่อและเติบโตได้อย่างรวดเร็ว จึงเป็นที่มาของชื่อเรียกนี้",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372236,
+    "Name": "\"คลื่นแห่งจันทราใหม่\"",
+    "Description": "หินภูเขาที่พบได้ทั่วไปใน \"โถงจันทราสีเงิน\" มีรูปร่างที่เป็นเอกลักษณ์เหมือนคลื่น\n\"การโคจรของจันทรานิรันดร์ เหนี่ยวนำให้เกิดน้ำขึ้นน้ำลง\" ไม่รู้ว่าบนหินภูเขารูปคลื่นที่ถูกสลักโดยแรงโน้มถ่วงเหล่านี้ ได้สลักความคิดแบบไหนของ \"เทพธิดาแห่งจันทรา\" เอาไว้กันนะ...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372237,
+    "Name": "\"ผู้พิทักษ์สมบัติ\"",
+    "Description": "หินภูเขาที่พบได้ทั่วไปในป่าของ Nod-Krai นั้นหนักและแข็งแกร่งมาก แม้แต่ชายฉกรรจ์ที่ถืออาวุธคมกริบ ก็ยากที่จะเคลื่อนย้ายมันได้ ดังนั้นในการก่อสร้างบ้านหรือปูถนน จึงมักถูกมองว่าเป็นอุปสรรคที่จัดการได้ยาก แต่สำหรับสิ่งมีชีวิตตัวน้อยที่เก่งกาจในการขุดแล้ว หินภูเขาที่แม้แต่สัตว์ใหญ่ยังไม่สามารถขยับได้เหล่านี้ ก็คือ \"ผู้พิทักษ์สมบัติ\" ที่ดีที่สุดอย่างไม่ต้องสงสัยเลย",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากการซื้อใน \"คลังสมบัติอาณาจักร - เฟอร์นิเจอร์\""
+    ],
+    "Id": 372238,
+    "Name": "\"มุมทู่แห่งผืนดิน\"",
+    "Description": "หินภูเขาที่พบได้ทั่วไปในป่าของ Nod-Krai มีลักษณะภายนอกที่แข็งแรงและเรียบลื่น เนื่องจากมีขนาดค่อนข้างเล็ก จึงมักจะซ่อนตัวอยู่ในพืชพรรณที่หนาแน่น ทำให้สังเกตเห็นได้ยาก ดังนั้น นักผจญภัยที่มากประสบการณ์จึงมักเตือนมือใหม่ว่า: \"ระวังเท้าด้วย! สะดุดมันล้มเจ็บกว่าโดนแรดนอทู่ชนอีกนะ\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363387,
+    "Name": "ประตูใหญ่ฐานที่มั่น - \"วีเซลที่พึ่งพาได้\"",
+    "Description": "ประตูฐานที่มั่นโลหะที่งดงามสะดุดตา มีโครงสร้างที่แข็งแรงและเชื่อถือได้ สามารถต้านทานการโจมตีระลอกแล้วระลอกเล่าของเหล่ามอนสเตอร์ได้\nจากคำบอกเล่าของ \"Blue Bolt\" รูปลักษณ์ที่สง่างามของประตูนี้ ได้รับการออกแบบโดยนักประดิษฐ์อัจฉริยะ ซึ่งมีแรงบันดาลใจมาจากคู่หูวีเซลของเธอที่ชื่อว่า \"เจ้าหางหัวหอม\" นิ้วโป้งสองนิ้วที่ยกขึ้น และสีหน้าที่เต็มไปด้วยความมั่นใจ ราวกับกำลังให้คำมั่นสัญญาว่า: \"วางใจได้เลย ทุกอย่างปล่อยให้เป็นหน้าที่ของฉันเถอะ!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363388,
+    "Name": "Iron Wolf",
+    "Description": "ตัวอย่างเครื่องดื่มสูตรพิเศษที่เต็มไปด้วยจิตวิญญาณไร้ขีดจำกัดนี้ คือผลงานชิ้นเอกที่รังสรรค์ขึ้นเป็นพิเศษสำหรับ Varka โดยมีพื้นฐานมาจาก \"Thorny Lake\" ในช่วงที่ \"ร้านเครื่องดื่มสูตรพิเศษของอัศวินผู้มีเกียรติ\" เปิดให้บริการ\nแกรนด์มาสเตอร์ผู้ได้ลิ้มลองเครื่องดื่มชั้นเลิศมามากมาย อยากให้คุณได้ปลดปล่อยศักยภาพอย่างเต็มที่ และแสดงความคิดอันชาญฉลาดของคุณออกมาอย่างเต็มพิกัด งั้นก็เสิร์ฟ \"การโจมตี\" ที่ไม่ธรรมดาให้แกรนด์มาสเตอร์สักครั้งก็แล้วกัน...\nใช้ความเย็นสดชื่นของมินต์ และกลิ่นหอมของพืชจู่โจมครั้งแรกยามจิบเข้าปาก ชั้นของรสชาติที่จงใจเก็บงำไว้ ก็เพียงพอที่จะปกปิดความแรงของ Fire-Water และยิงเข้าเป้าได้อย่างแม่นยำ ส่วน Smetana เปรียบเสมือนกองหลังที่คอยปกป้องท้ายแนวรบอย่างรัดกุม ไม่ให้มีช่องโหว่ใด ๆ...\nเมื่อคำนึงถึงเอกลักษณ์ของแกรนด์มาสเตอร์และ Mondstadt คุณจึงตั้งชื่อให้เครื่องดื่มแก้วนี้ว่า \"Iron Wolf\" ซึ่งรสชาติที่ซับซ้อนและมีมิติอย่างไม่ธรรมดานี้ ก็ทำให้แกรนด์มาสเตอร์พึงพอใจเป็นอย่างมาก จนดื่มฉลองเต็มที่จนจุใจ...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363389,
+    "Name": "Dodoco's Duet",
+    "Description": "เครื่องดื่มสูตรพิเศษตัวอย่างที่มีรสเปรี้ยวอมหวานและเปี่ยมไปด้วยความกระตือรือร้น เป็นผลงานชิ้นเอกที่พัฒนาขึ้นเป็นพิเศษสำหรับ Klee โดยมีพื้นฐานมาจาก \"Fairweather Frolic\" ในช่วงที่ \"ร้านเครื่องดื่มสูตรพิเศษของอัศวินผู้มีเกียรติ\" เปิดให้บริการ\nเดิมที \"Fairweather Frolic\" มีลักษณะเป็นสีม่วงซึ่งยังไม่ค่อยสดใสเท่าไหร่ แต่แสงแดดและเมฆสีขาวจะทำให้รู้สึกอบอุ่นและอารมณ์ดีขึ้นได้!\nความหวานเป็นสิ่งที่ขาดไม่ได้ แต่สุขภาพก็เป็นสิ่งสำคัญที่สุดเช่นกัน ดังนั้นจึงเลือกใช้น้ำผลไม้ที่หัวหน้ากอง Jean ยอมรับ และใช้ความหวานจาก Bulle Fruit!\nสิ่งที่สำคัญที่สุดคือลูกกวาด Dodoco ที่นำมาซึ่งเวทมนตร์แห่งความอร่อย จะต้องวางไว้ตรงกลางของก้อนเมฆ!\nKlee บอกว่า \"อากาศดี อารมณ์ดี Dodoco จะร้องเพลง Klee ก็จะร้องด้วย!\" ดังนั้นเครื่องดื่มแก้วนี้จึงได้ชื่อว่า \"Dodoco's Duet\"!",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363390,
+    "Name": "Seafoam Swordsong",
+    "Description": "ตัวอย่างเครื่องดื่มสูตรพิเศษนี้ ผสมผสานความเย็นสดชื่น เข้ากับรสชาติเข้มข้นได้อย่างลงตัว เป็นผลงานชิ้นเอกที่รังสรรค์ขึ้นเป็นพิเศษสำหรับ Eula โดยมีพื้นฐานมาจาก \"Twinkling Starlight\" ในช่วงที่ \"ร้านเครื่องดื่มสูตรพิเศษของอัศวินผู้มีเกียรติ\" เปิดให้บริการ\nวิชาดาบของ Eula เหมือนกับระบำหมุนของดาบใหญ่ เมื่อสัมผัสโดน จะมีแรงกระแทกที่รุนแรงราวกับหิมะถล่ม และปิดท้ายอย่างเรียบร้อยหมดจด ส่วนความชอบของเธอในด้านเครื่องดื่มก็เน้นรสชาติที่เข้มข้นเช่นกัน\nด้วยเหตุนี้ Fire-Water ที่ไม่ได้มีรสชาติอะไรมากมายเหมือนก้อนน้ำแข็งในเครื่องดื่ม น้ำผลไม้ Romaritime Flower ที่สื่อความหมายของการระลึกถึงอย่างลึกซึ้ง และโกโก้ที่ช่วยเติมพลังและขจัดความเหนื่อยล้า ได้ถูกใส่ลงในงานเต้นรำในแก้วนี้\nเมื่อคำนึงถึงว่า นี่คือเครื่องดื่มสูตรพิเศษที่ทำขึ้นเพื่อวิชาดาบของอัศวิน Spindrift คุณจึงตั้งชื่อมันว่า \"Seafoam Swordsong\" และ Eula ก็แสดงออกถึงการยอมรับอย่างเต็มที่ ด้วยการดื่มไปถึงสามแก้ว...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363391,
+    "Name": "Slumbering Rose",
+    "Description": "ตัวอย่างเครื่องดื่มสูตรพิเศษที่อบอวลไปด้วยกลิ่นอายแห่งความขี้เกียจและผ่อนคลาย เป็นผลงานชิ้นเอกที่รังสรรค์ขึ้นเป็นพิเศษสำหรับ Lisa โดยมีพื้นฐานมาจาก \"Snow-Kissed Dawn\" ในช่วงที่ \"ร้านเครื่องดื่มสูตรพิเศษของอัศวินผู้มีเกียรติ\" เปิดให้บริการ\nหลังจากวันที่ยุ่งวุ่นวาย บรรณารักษ์ต้องการทั้งการฟื้นฟูพลัง และไม่อยากนอนไม่หลับ ดังนั้น ในระหว่างการปรุง คุณจึงไม่ได้เลือกใช้ส่วนผสมที่ช่วยให้ตื่นตัว และค้นหาจุดสมดุลอันแยบยลระหว่างรสหวานของซอสคาราเมล กับรสเปรี้ยวเล็กน้อยที่มีชีวิตชีวา...\nเป้าหมายคือ \"การนอนหลับสนิท\" คุณจึงเสนอตั้งชื่อมันว่า \"Slumbering Rose\" และได้รับคำชมแบบ \"คะแนนเต็ม\" จาก Lisa",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363392,
+    "Name": "Leisuretime Lightning",
+    "Description": "ตัวอย่างเครื่องดื่มสูตรพิเศษที่พิถีพิถันแต่ก็ยังคงความสบาย ๆ เป็นผลงานชิ้นเอกที่รังสรรค์ขึ้นเป็นพิเศษสำหรับ Clorinde โดยมีพื้นฐานมาจาก \"Caramel Blaze\" ในช่วงที่ \"ร้านเครื่องดื่มสูตรพิเศษของอัศวินผู้มีเกียรติ\" เปิดให้บริการ\nหลังจากที่ตัวแทนประลองผู้เปรียบเสมือนสายฟ้ามาตามรอยความประทับใจจาก \"บอร์ดเกมสวมบทบาท\" ที่ Mondstadt เธอมีประสาทสัมผัสที่ไวต่อกลิ่นโลหะอย่างมาก และมีแนวโน้มว่าจะชอบความ \"เค็ม\" ส่วนเครื่องดื่มที่เธอชอบดื่มในชีวิตประจำวัน ส่วนใหญ่มักมีรสเปรี้ยวนิด ๆ ที่ช่วยตัดเลี่ยนเป็นจุดเด่น สำหรับนักผสมเครื่องดื่มทั่วไป การสร้างความสมดุลระหว่างความต้องการทั้งสองอย่างนี้ต้องใช้ความระมัดระวังอย่างยิ่ง แต่หลังจากที่คุณได้ผ่านการฝึกฝนจาก Angel's Share และเรือธงมาแล้ว เห็นได้ชัดว่าคุณสามารถควบคุมสัดส่วนของเครื่องปรุงรสชาติแต่ละอย่างได้อย่างแม่นยำ\nเพื่อให้ Clorinde สนุกกับการเดินทางใน Mondstadt ได้อย่างผ่อนคลาย คุณจึงตั้งชื่อเครื่องดื่มแก้วนี้ว่า \"Leisuretime Lightning\" และได้กลายเป็นหนึ่งในความทรงจำสำคัญของ Clorinde ที่มีต่อ Mondstadt",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ได้รับจากกิจกรรมจำกัดเวลา"
+    ],
+    "Id": 363393,
+    "Name": "Windborne Bouquet",
+    "Description": "ตัวอย่างเครื่องดื่มสูตรพิเศษที่สง่างาม และกลิ่นหอมอันเป็นเอกลักษณ์ ผลงานชิ้นเอกที่รังสรรค์ขึ้นเป็นพิเศษสำหรับ Emilie โดยมีพื้นฐานมาจาก \"Lumidouce Twilight\" ในช่วงเวลาที่ \"ร้านเครื่องดื่มสูตรพิเศษของอัศวินผู้มีเกียรติ\" เปิดให้บริการ\nนักปรุงน้ำหอมจาก Fontaine บอกคุณว่า ความหวานเลี่ยนเกินพอดีจะทำให้ผู้คนง่วงนอน เธอจึงชอบความรู้สึกเคลิบเคลิ้มนิด ๆ ที่พอเหมาะมากกว่า เพราะท้ายที่สุดแล้ว การปล่อยให้ลูกค้าล้มฟุบที่หน้าบาร์ ย่อมไม่ใช่ภารกิจหลักของนักผสมเครื่องดื่มแน่...\nและในวันที่ลมโชยพัดเมฆปลอดโปร่ง ประสาทสัมผัสของผู้คนจะเฉียบคมยิ่งขึ้น ซึ่งช่วยเสริมรสชาติที่กลมกล่อมอยู่แล้วของเครื่องดื่มให้ดียิ่งขึ้นได้\nด้วยแนวคิดการปรุงน้ำหอมนี้ คุณจึงได้รังสรรค์ผลงานชิ้นเอกที่เรียบหรูและสง่างามแก้วนี้ขึ้นมา และ Emilie ก็ได้มอบชื่อใหม่อันแสนสง่างามอย่าง \"Windborne Bouquet\" โดยอิงตามหลักการตั้งชื่อน้ำหอมของเธอ...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 360107,
+    "Name": "\"เคล็ดลับความเย็นของฐาน\"",
+    "Description": "ผนังด้านในมาตรฐานของ \"ฐานกังหันลมแคล็กแคล็ก\" สร้างขึ้นจากวัสดุโลหะรีไซเคิลที่ Nod-Krai นิยมใช้ มีผิวสัมผัสที่เย็น แข็ง และนำความร้อนได้ดีเยี่ยม ว่ากันว่าผนังชนิดนี้สามารถทำให้บ้านเย็นสบายได้ แม้จะอยู่ท่ามกลางแดดที่ร้อนระอุ",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 360307,
+    "Name": "\"เพดานที่มั่นคงของฐาน\"",
+    "Description": "เพดานมาตรฐานของ \"ฐานกังหันลมแคล็กแคล็ก\" ถูกตัดอย่างพิถีพิถันจากแผ่นโลหะเนื้อเดียวกัน ติดตั้งง่าย ทำความสะอาดสะดวก และยังใช้งานได้ดีและปลอดภัย ว่ากันว่าวัสดุที่ใช้เป็นชนิดเดียวกับ โลหะที่ใช้ทำเปลือกนอกของกลไกแรงจันทราผัน ซึ่งนอกจากจะรับประกันความแข็งแกร่งแล้ว ยังช่วยลดน้ำหนักได้อย่างมีประสิทธิภาพ และขจัดอันตรายที่อาจเกิดขึ้นได้อย่างหมดจด",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 360207,
+    "Name": "\"พื้นโลหะผสมของฐาน\"",
+    "Description": "กระเบื้องปูพื้นมาตรฐานของ \"ฐานกังหันลมแคล็กแคล็ก\" ทำจากแผ่นโลหะที่มีรูปร่างแตกต่างกันหลากหลายชนิดประกบเข้าด้วยกัน ทำให้พื้นดูสวยงามและมีมิติ การออกแบบที่สลับซับซ้อนและไม่สม่ำเสมอ ทำให้บรรยากาศภายในห้องดูมีชีวิตชีวา และมีสไตล์ที่เป็นเอกลักษณ์ แม้ว่านวัตกรรมการออกแบบนี้ จะเพิ่มความยุ่งยากและค่าใช้จ่ายในการติดตั้งและบำรุงรักษา แต่ด้วยการใช้วัสดุโลหะรีไซเคิล ทำให้ช่วยชดเชยข้อเสียนี้ได้อย่างมีประสิทธิภาพ",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "ซื้อได้จาก \"คลังสมบัติอาณาจักร - แบบแปลนเฟอร์นิเจอร์\""
+    ],
+    "Id": 360507,
+    "Name": "\"แสงพร่าอันสงบแห่งฐาน\"",
+    "Description": "โคมระย้ามาตรฐานของ \"ฐานกังหันลมแคล็กแคล็ก\" ประกอบด้วยโครงโลหะสำหรับแขวนและโคมไฟหลายดวง สไตล์โดยรวมดูแข็งแกร่งและเรียบง่าย เมื่อยามค่ำคืนมาเยือน แสงไฟจะมาบรรจบกัน แสงไฟจะสอดประสานและกระจายตัวอย่างนุ่มนวล ราวกับถักทอเส้นใยแสง เปลี่ยนสภาพแวดล้อมที่อยู่อาศัย ให้กลายเป็นโลกที่เงียบสงบและอบอุ่น และขจัดความเหนื่อยล้าและความกังวลทั้งหมดไป",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "\"ประตูคลังสมบัติของฐาน\"",
+    "Description": "ประตูมาตรฐานของ \"ฐานกังหันลมแคล็กแคล็ก\" สร้างขึ้นจากการเชื่อมวัสดุโลหะหลายชั้น การออกแบบได้รับแรงบันดาลใจจากประตูห้องคลังสมบัติ ที่มีทั้งความสวยงาม และฟังก์ชันป้องกันการทำลายที่ใช้งานได้จริง ประตูประเภทนี้ทนทานต่อความเสียหายจากการเจาะ การงัด และการทุบทำลายได้อย่างมีประสิทธิภาพ ซึ่งจุดประสงค์ดั้งเดิมของการออกแบบ คือเพื่อป้องกันแขกที่ไม่ได้รับเชิญ แน่นอนว่าสำหรับ \"อาณาจักรในกาน้ำชา\" ที่ปลอดภัยแล้ว ประสิทธิภาพในการป้องกันระดับนี้ ดูเหมือนจะเกินความจำเป็นไปหน่อย และส่วนใหญ่อาจเป็นเพียงการป้องกัน ไม่ให้เหล่าสิ่งมีชีวิตตัวน้อย มาใช้เป็นที่ลับเล็บจนพังเท่านั้น",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "\"เสียงสะท้อนอันใสกังวานของฐาน\"",
+    "Description": "บันไดโลหะเข้ามุมมาตรฐานของ \"ฐานกังหันลมแคล็กแคล็ก\" ขึ้นชื่อในด้านความแข็งแรง ความทนทาน และน้ำหนักที่เบา เมื่อเดินขึ้นบันไดที่ทำจากเหล็กเหล่านี้ จะมีเสียงใสดังขึ้นมา ซึ่งเมื่อรวมกับโครงสร้างที่ก้องกังวานของสิ่งปลูกสร้างแล้ว อาจจะบรรเลงจังหวะกลองที่น่าตื่นเต้นขึ้นมาได้",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "\"ฐานกังหันลมแคล็กแคล็ก\"",
+    "Description": "ฐานขนาดใหญ่ครบวงจรที่ \"กลไกฉายเงาพราย\" สร้างขึ้น ซึ่งจำลองทิวทัศน์ของ Nod-Krai ใน Serenitea Pot ใช้โครงสร้างกรอบโลหะที่ผ่านการทดสอบมาอย่างยาวนาน และมาพร้อมกับระบบการขนส่งที่สมบูรณ์แบบ ทำให้เกิดกลิ่นอายความดุดันที่ไม่เหมือนใคร ซึ่งสืบทอดปรัชญาการออกแบบของ \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" มาโดยตรง แต่เมื่อเทียบกับ \"เวิร์กชอป Krumkake กรุ๊งกริ๊ง\" แล้ว \"ฐานกังหันลมแคล็กแคล็ก\" ได้ยกเลิกฟังก์ชันการผลิต และลดการใช้แสงไฟลง แต่ถึงอย่างนั้น กังหันลมที่หมุนไม่หยุดบนหลังคา ก็ยังคงทำให้ผู้คนรู้สึกได้ถึงบรรยากาศที่วุ่นวายของเวิร์กชอป และกระตุ้นพลังงานในใจของผู้คน",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

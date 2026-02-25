@@ -1249,5 +1249,28 @@
     "SecondDescriptions": [
       "Lunar-Crystallize DMG is increased by 75%."
     ]
+  },
+  {
+    "Id": 1124,
+    "Index": 11,
+    "LevelGroupId": 124,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "All party members gain a 60% Anemo DMG Bonus.",
+      "All party members gain a 60% Cryo DMG Bonus."
+    ]
+  },
+  {
+    "Id": 1125,
+    "Index": 12,
+    "LevelGroupId": 125,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Anemo DMG dealt by the active character is increased by 75%."
+    ],
+    "SecondDescriptions": [
+      "Characters' Normal Attack Cryo DMG increased by 75%."
+    ]
   }
 ]

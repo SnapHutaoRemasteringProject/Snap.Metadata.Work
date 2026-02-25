@@ -1246,5 +1246,28 @@
     "SecondDescriptions": [
       "月结晶伤害提升75%。"
     ]
+  },
+  {
+    "Id": 1124,
+    "Index": 11,
+    "LevelGroupId": 124,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "队伍中所有角色获得60%风元素伤害加成。",
+      "队伍中所有角色获得60%冰元素伤害加成。"
+    ]
+  },
+  {
+    "Id": 1125,
+    "Index": 12,
+    "LevelGroupId": 125,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "当前场上角色造成的风元素伤害提升75%。"
+    ],
+    "SecondDescriptions": [
+      "角色通过普通攻击造成的冰元素伤害提升75%。"
+    ]
   }
 ]

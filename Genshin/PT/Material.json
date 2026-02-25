@@ -1794,6 +1794,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Varka",
+    "Description": "Material de Ativação da Constelação de Varka",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3023,6 +3034,17 @@
     "Description": "Material de Ativação da Constelação de Illuga",
     "TypeDescription": "Ativação de Constelação",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Varka",
+    "Description": "Material de Ativação da Constelação de Varka",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -19977,7 +19999,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Selo da Lua Iridescente",
-    "Description": "Colete todos os 3 selos para desbloquear o cofre de tesouro na Panorama do Mar Vazio.\n\nVocê obteve essa pedra redonda marcada por acaso enquanto explorava. Se você conseguir encontrar três com a mesma marca, deve conseguir reunir a lua brilhante que já iluminou o mundo.",
+    "Description": "Colete todos os 3 selos para desbloquear o cofre de tesouro no Panorama do Mar Vazio.\n\nVocê obteve essa pedra redonda marcada por acaso enquanto explorava. Se você conseguir encontrar três com a mesma marca, deve conseguir reunir a lua brilhante que já iluminou o mundo.",
     "TypeDescription": "Item de Aventura",
     "Icon": "UI_ItemIcon_121450"
   },
@@ -31452,7 +31474,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Júbilo da Fogueira Estranho",
-    "Description": "Um prato farto de carne. A gordura espessa tem sabor amargo e salgado, atingido seu paladar como um veículo em fuga e deixando um rastro gorduroso para trás. Poucos conseguem aguentar isso.",
+    "Description": "Um prato farto de carne. A gordura espessa tem sabor amargo e salgado, atingindo seu paladar como um veículo em fuga e deixando um rastro gorduroso para trás. Poucos conseguem aguentar isso.",
     "TypeDescription": "Alimento",
     "Icon": "UI_ItemIcon_108860"
   },
@@ -31587,6 +31609,54 @@
     "Description": "Um pão com recheio de vegetais refogados. Preparado com pouca técnica e calor praticamente fora de controle, esse \"cogumelo de carvão\" parece extremamente intimidador. Forçar uma mordida pode levar a intoxicação alimentar...",
     "TypeDescription": "Alimento",
     "Icon": "UI_ItemIcon_108867"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 18% da Vida Máxima do personagem selecionado e regenera 300 de Vida a cada 5s por 30s.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Jade de Preparo Dourado Estranho",
+    "Description": "Um prato de frango nativo de Liyue. A pele do frango tem um amarelo sedutor que contrasta lindamente com a carne pálida e branca. Mas dê uma mordida, e o arrependimento toma de conta de vez, conforme a carne de frango seca e dura se prende rapidamente entre os dentes de quem mordeu...",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 20% da Vida Máxima do personagem selecionado e regenera 390 de Vida a cada 5s por 30s.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Jade de Preparo Dourado",
+    "Description": "Um prato de frago nativo de Liyue, preparado com poucas especiarias e outros temperos para preservar os sabores naturais da ave. O resultado é uma pele sedosa e uma carne saborosa e macia, especialmente deliciosa quando combinada a um molho.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restaura 22% da Vida Máxima do personagem selecionado e regenera 470 de Vida a cada 5s por 30s.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Jade de Preparo Dourado Delicioso",
+    "Description": "Um prato de frango nativo de Liyue. A pele tem uma firmeza satisfatória e a carne é macia e saborosa. A gelatina natural do frango, em forma de geleia, brilha com o aroma intenso da gordura caramelizada do frango, e até os ossos carregam uma nota sutil adocicada. Esse prato é uma verdadeira sinfonia de sabores, garantido de surpreender até os mais sábios conhecedores.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 80 de Stamina.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Desejo do Coração",
+    "Description": "Especialidade de Varka. Pedaços generosos de sobrecoxa de frango defumada, copos altos de Sidra de Maçã, além de um empratamento rústico e ousado, deixa claro com quem você está lidando aqui — alguém que não se segura nunca, seja na batalha ou na mesa.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108870"
   },
   {
     "Rank": 300501,
@@ -34478,6 +34548,17 @@
     "ItemType": 2,
     "Name": "Receita: Cogumelo Fantasma",
     "Description": "Uma receita passo a passo detalhada para fazer Cogumelo Fantasma.",
+    "TypeDescription": "Receita",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Receita: Jade de Preparo Dourado",
+    "Description": "Uma receita passo a passo detalhada para fazer Jade de Preparo Dourado.",
     "TypeDescription": "Receita",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37444,6 +37525,17 @@
     "Description": "Uma relíquia óssea preta retirada da corrupção remanescente deixada para trás após derrotar o Sussurrador de Pesadelos que invadiu este mundo do além.\nA fera sem forma que voou pelo vazio sem estrelas jamais deveria precisar de órgãos que esse mundo chama de \"asas\". Aqueles anexos grotescos e profanos podem ter surgido para adaptar às leis sob a lua, ou talvez sejam meramente o fragmento distorcido que nossos olhos mortais conseguem perceber de sua forma verdadeira.",
     "TypeDescription": "Material de Elevação de Personagem",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cauda Partida Prismática",
+    "Description": "Uma vértebra de cauda cristalizada deixada para trás por uma Lagartixa Radiante derrotada em sua tentativa de fuga.\nPela lógica, um lagarto que evoluiu para uma força tão formidável não deveria mais enfrentar a ameaça de predadores naturais. Mas ele ainda retém o instinto de cortar sua cauda numa tentativa de sobrevivência. Talvez numa era em que o luar cobriu a terra, predadores ainda mais aterrorizantes viajaram por aqui.",
+    "TypeDescription": "Material de Elevação de Personagem",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50362,6 +50454,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Insígnia de Acesso",
+    "Description": "Uma insígnia importante guardada separadamente por múltiplos membros dos Fatui. Somente ao reunir todos os três que o dispositivo levando à câmara interna será ativado. Quanto ao motivo de haver três, a maga explicou meramente ser por um \"senso de participação\".",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Cristal de Lágrima Severamente Contaminado",
+    "Description": "De um Dvalin consumido completamente pelo Abismo. O estado desta lágrima revela que o Dvalin na história está além da esperança de cura.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50481,6 +50595,17 @@
     "Description": "Uma caixa especial contendo esculturas de açúcar feitas sob encomenda, aparentemente esculpidas com alguém em mente. Melhor aproveitadas antes que comecem a derreter.",
     "TypeDescription": "Consumível",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Ferramenta de Negociação Multiuso",
+    "Description": "Uma bolsa pesada cheia de fichas capazes de impressionar aqueles que \"valorizam a riqueza acima de tudo\". Para alguns, isso é o que se chama de \"sinceridade\".",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50671,6 +50796,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Convite para o Evento",
+    "Description": "Convite enviado por Jean, Grande Mestre Intendente dos Cavaleiros de Favonius. A mensagem é breve e não menciona detalhes do evento.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Mora Leve",
+    "Description": "Mora encontrada no Lago Estelar. Embora pareça idêntica à Mora comum, pesa só um décimo dela, fazendo a alegria de acumular riqueza ser apenas um décimo da magnitude.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Peixe Extremamente Elástico",
+    "Description": "Carne de peixe encontrada no Lago Estelar. Embora pareça peixe comum, é excepcionalmente elástica. Não importa quanto você manipule, retorna rapidamente ao formato original. Ao invés de um ingrediente de culinária, é mais como um brinquedo de alívio de estresse... melhor não tentar cozinhar.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Doce Encantado de Dodoco",
+    "Description": "Um lembrança de Klee enquanto ajudava com a barraca de bebidas dos Cavaleiros.\n\"Junte tudo no Balcão de Síntese, deseje o formato que quiser, aí recite o encantamento de mamãe, então... puf! Doce em formato de Dodoco!\"\nComo esperado de uma criação da Srta. Alice. Embora usa materiais comuns encontrados em Teyvat, contêm um adocicado complexo e maravilhoso. Quando você dá uma mordidinha, o eco de um encantamento mágico parece tocar na sua cabeça... Infelizmente, a quantidade é limitada; é melhor guardar um de lembrança!",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50701,6 +50870,61 @@
     "Description": "Uma coleção de poemas contando os atos de sucessivos Starshynas. A maioria do conteúdo foi perdido em calamidades passadas, e somente uma pequena fração dos fragmentos originais podem ser recuperados agora.",
     "TypeDescription": "Item de Missão",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Carta Levada pelo Vento",
+    "Description": "Um carta que encontrou o caminho até sua bolsa em algum momento. Talvez tenha sido levada pelo vento.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Tíquete de Convite de Varka",
+    "Description": "Um tíquete de convite desenhado a mão por Varka. Pode ser resgatado no Caçador de Cervos para um banquete delicioso cheio de carne.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Tíquete de Convite de Varka",
+    "Description": "Um tíquete de convite desenhado a mão por Varka. Pode ser resgatado no Caçador de Cervos para um banquete delicioso cheio de carne. Um pequeno carimbo escrito \"Usado\" está marcado no canto do verso.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Bolsa Privada de Varka",
+    "Description": "#Dinheiro que Varka reserva para bebidas, descaradamente escondido numa gaveta de escrivaninha.\n\"O lugar mais perigoso é, na verdade, o lugar mais seguro!\" Ele pode alegar isso, mas a verdade é que ele deixa provavelmente o dinheiro aqui por acreditar que a Grande Mestre Intendente não gastará os fundos, nem revelará o esconderijo.\nEmbora esse dinheiro tenha sido reservado originalmente para comprar Vinho de Dandelion como oferenda aos deuses, agora que os planos mudaram, talvez possa ser usado para recompensar {M#o}{F#a} Cavaleir{F#a}{M#o} Honorável que salvou Varka, ou ser dado a ele para recompensar cada amigo que ajudou a resgatá-lo.",
+    "TypeDescription": "Consumível",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Bolsa Privada de Varka",
+    "Description": "#Dinheiro que Varka reserva para bebidas, descaradamente escondido numa gaveta de escrivaninha.\n\"O lugar mais perigoso é, na verdade, o lugar mais seguro!\" Ele pode alegar isso, mas a verdade é que ele deixa provavelmente o dinheiro aqui por acreditar que a Grande Mestre Intendente não gastará os fundos, nem revelará o esconderijo.\nEmbora esse dinheiro tenha sido reservado originalmente para comprar Vinho de Dandelion como oferenda aos deuses, agora foi usado para recompensar {M#o}{F#a} Cavaleir{F#a}{M#o} Honorável que salvou Varka, ou ser dado a ele para recompensar cada amigo que ajudou a resgatá-lo.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -56379,6 +56603,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Câmera de Rastros",
+    "Description": "O Aparelho Fotográfico que Paimon carrega com ela. Dessa vez, use-o para registrar diferenças notáveis que encontrar.",
+    "TypeDescription": "Item",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Teclas Harmônicas",
+    "Description": "Um instrumento refinado que pode ser usado para fazer apresentações.\nAos olhos de antigos filósofos debatedores, as melodias do mundo mortal são apenas uma imitação da sinfonia do universo. Contudo, o Rei dos Imortais capturou os temas incomuns na apresentação de um músico, então instruiu que o harmonista fixasse a música eterna em cada tecla, para qualquer um poder se unir à maior sinfonia tocando simplesmente isso.",
+    "TypeDescription": "Item",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -57081,6 +57327,17 @@
     "Description": "Esse pergaminho tecido de Natlan retratando paisagens únicas e contendo poderes ocultos é uma lembrancinha trazida de volta de Natlan pelo Espírito do Bule Viajador, Chubby.\nOs padrões no pergaminho trazem certas imagens à mente, que você pode manipular através do poder do Subespaço de Criação para recriar maravilhosas paisagens de Natlan em seu Bule de Relachá...",
     "TypeDescription": "Consumível",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Esfera da Sombra Passageira",
+    "Description": "Uma esfera de Kuuvahki de Nod-Krai capaz de reproduzir música e produzir efeitos de luzes deslumbrantes. É uma lembrancinha trazida de volta de Nod-Krai pelo Espírito do Bule Viajador, Chubby.\nConforme você observa as luzes em movimento lançadas pela esfera, imagens fracas parecem tomar forma em sua mente. Somente o poder da Criação Subespacial pode recriar uma paisagem maravilhosa de Nod-Krai no Paraíso Mágico do Bule...",
+    "TypeDescription": "Consumíveis",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58366,6 +58623,127 @@
     "ItemType": 2,
     "Name": "Companheiros e Casa",
     "Description": "Uma casa limpa e arrumada com móveis que foram aprovados pelo povo de Natlan há muito tempo. Seja para uma casa de Sauriano ou outro tipo de animal grande, é totalmente adequado.\nEm Natlan, os Saurianos são os companheiros e família dos guerreiros, e passam com eles por tudo. Tendo-os ao seu lado, a escuridão em seu coração será sempre dissipada.\nEsse Conjunto de Decorações é preferido pelos seguintes companheiros: Ifa",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Quarto Confortável para Convidados de Longe e de Perto",
+    "Description": "Um quarto totalmente mobiliado, inspirado pelos quartos no Navio-Chefe, a maior taverna na Cidade de Nasha. Melhorias direcionadas foram feitas para atender melhor às necessidades dos ocupantes.\nOs convidados do Navio-Chefe vêm de uma variedade de origens, cada um com a própria ideia de conforto. Alcançar o equilíbrio entre todas essas expectativas diferentes não é fácil. Eventualmente, o Navio-Chefe decidiu uma solução única: mobiliar os quartos com cada amenidade que um cliente poderia precisar, então remover itens desnecessários com base nos comentários deles. Embora o quarto possa ficar um pouco desordenado por isso, também fornece tudo que um convidado poderia precisar, permitindo que ele encontre o conforto à própria maneira.",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Doce Sono Sob a Lua",
+    "Description": "Um quarto simples e elegante, mobiliado com peças cuidadosamente selecionados pelos Filhos da Lua Gelada. A atmosfera daquela é de simplicidade refinada e acolhedora. Dizem que um ambiente natural tranquilo pode ajudar a relaxar, e esse quarto parece ser a corporificação perfeita desse princípio. Com uma luminária gentil como o luar, e o cheiro fresco de frutas no ar, aqueles que ficarem aqui sentirão seu cansaço e dor lentamente desaparecerem, a medida que a paz e tranquilidade lentamente toma conta...",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "A Rede Ordenada de Segredos",
+    "Description": "Uma oficina distinta com um layout inspirado na Curadoria dos Segredos. É uma réplica fidedigna do ambiente de trabalho da chefe Nefer, em que tudo está organizado e em perfeita ordem.\nAnalisar inteligência é algo entediante e desafiador, já que existem incontáveis fios de informação e nenhuma noção de onde começar. Ainda assim, em uma sala em que tudo está em seu lugar, e com um conjunto de ferramentas na mão, pensar se torna mais fácil, e naturalmente passa a se trabalhar com maior eficiência...",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "A Melhor e Mais Quente Casa",
+    "Description": "Um quarto ao estilo de Nod-Krai com uma disposição que evoca uma sensação quente e aconchegante. É o lugar ideal para se acabar com a fadiga após um dia cheio. Todas as mobílias desse quarto, selecionadas cuidadosamente pela própria \"mãe\" da Oficina de Rolinho de Ovo Trilimlim, são as melhores, mais quentinhas e mais práticas no mundo inteiro. Contudo, esse conforto excepcional vem com um lado negativo: seus ocupantes às vezes dormem demais, até perdendo compromissos importantes porque o quarto é confortável demais. Um método firme, porém considerado de despertar pode ser necessário para garantir que todos acordem na hora certa.",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Descanso Antes da Batalha",
+    "Description": "Um salão comunal completamente equipado, modelado com base nos quartos em Piramida, onde os Ratniki descansam antes de ir para batalha. Ratniki veteranos sabem muito bem que, considerando a longa e árdua guerra contra a Caçada Feroz, eles devem descansar sempre que possível para manter a melhor forma para combate. Além disso, uma área de descanso bem projetada também ajuda os Ratniki a se conhecerem melhor fora de batalha, construindo a confiança e trabalho em equipe necessários para sucesso no campo de batalha. Por esse motivo, os Starshynas sempre construíram salões assim.",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Natureza do Extremo Norte",
+    "Description": "Uma natureza que reúne vegetação e topografias vistas comumente em Nod-Krai, especificamente uma recriação autêntica da paisagem única da Ilha Hiisi.\nA região de Nod-Krai desfruta de uma abundância de Kuuvahki que, por sua vez, deu origem a plantas de cores vivas, criaturas de hábitos distintos e topografias de formatos incomuns. Para naturalistas, essa área possui incontáveis tesouros de novo conhecimento, enquanto para turistas comuns, oferece paisagens maravilhosas que exigem uma pausa para admiração.",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cidade Fronteiriça Agitada",
+    "Description": "Uma paisagem regional centrada em vários prédios distintos, com lojas de vários tipos. É uma réplica perfeita de uma esquina da Cidade de Nasha.\nAs lendas dizem que a Cidade de Nasha é diferente das outras cidades porque não possui nenhum administrador e nenhuma estrutura clara de planejamento. Isso levou a incontáveis passagens estreitas e vãos discretos surgindo entre os prédios da cidade. Para a maioria dos habitantes, essas passagens são apenas espaços para que o barulho se espalhe. Para aqueles focados em reunir informações, entretanto, servem como caminhos em que segredos se espalham, e atalhos para viagens mais rápidas.",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Oração Tranquila Sob a Lua",
+    "Description": "Um cenário aberto modelado na Oficina da Lua Gelada, contendo vários implementos organizados de acordo com os costumes dos Filhos da Lua Gelada, e a vegetação complementa cada coisa. Pise nesse espaço, e você imediatamente sentirá a tranquilidade e harmonia dos Filhos da Lua Gelada. É como se hinos gentis e melódicos estivessem ecoando levemente, levando todos os problemas e sofrimentos embora na brisa, deixando apenas uma paz serena para trás.",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Luz Solitária na Noite Longa",
+    "Description": "Um assentamento com casas resistentes. Sua disposição e arquitetura são inspiradas nas fortalezas dos Portadores da Lâmpada. Esse desenho permite que ele suporte o vento e a chuva, e mesmo quando enfrente a Caçada Feroz, possui capacidades de defesa formidáveis. É como o juramento dos Portadores da Lâmpada diz: \"Somos os Portadores da Lâmpada, aqueles que iluminam a luz eterna da esperança nas planícies infinitas nevadas.\"\nNas vastas planícies fora de Piramida, fortalezas como essa erguem-se altamente, carregando a luz da esperança.",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Oficinas Esperançosas",
+    "Description": "Um assentamento pequeno inspirado na Oficina de Rolinho de Ovo Trilimlim, com casas esféricas de ferro, e prédios na forma de navios de ferro. Essas estruturas são mais do que suficientes para atender as necessidades básicas dos donos de oficinas.\nTodas as grandes oficinas possuem sua origem em uma estrutura única e simples. Com esses edifícios como fundação, e um planejamento próprio com materiais, transformar o Paraíso Mágico em uma oficina gigante se torna uma possibilidade real...",
+    "TypeDescription": "Diagrama de Conjunto de Decorações",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Serenidade da Lua Crescente",
+    "Description": "Um pátio inspirado pelo Saguão da Lua Prateada. Seu estilo exala tranquilidade e serenidade, como um reino onírico além do alcance.\nO luar sempre guia gentilmente todos os seres vivos. Talvez, os seguidores da Deusa da Lua já se perguntaram: Que tipo de vista ou paisagem poderia guiar a nova lua ao próprio sono pacífico?\nO único jeito de responder é visitar o Saguão da Lua Prateada e observar cada flor e grama lá...",
     "TypeDescription": "Diagrama de Conjunto de Decorações",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -72083,6 +72461,413 @@
     "ItemType": 2,
     "Name": "Lanterna Celeste Vibrante: \"Até Logo, Meu Amigo\"",
     "Description": "Um diagrama que descreve passo a passo como fabricar Lanterna Celeste Vibrante: \"Até Logo, Meu Amigo\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Mesinha Biscoito\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Mesinha Biscoito\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Mesa de Armazenamento Plim-Plam\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Mesa de Armazenamento Plim-Plam\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mesa Redonda da Lua Gelada: \"Um Céu Azul Suave\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Mesa Redonda da Lua Gelada: \"Um Céu Azul Suave\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Anotações de Alguém",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Anotações de Alguém.\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mesa Pequena da Lua Gelada - \"O Aroma de Fruta Fresca\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a Mesa Pequena da Lua Gelada - \"O Aroma de Fruta Fresca\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Galhos Contra o Céu Azul\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Galhos Contra o Céu Azul\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cadeira de Encosto \"Repouso Lunar\" de Madeira de Carvalho-roble",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Cadeira de Encosto \"Repouso Lunar\" de Madeira de Carvalho-roble.\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Brilho do Chifre de Gelo\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Brilho do Chifre de Gelo\".\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Cogumelo Curvadinho\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Cogumelo Curvadinho\".\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Melhor Ninhozinho\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Melhor Ninhozinho\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cama de Pedra da Lua Gelada - \"Fresquinha & Refrescante\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Cama de Pedra da Lua Gelada - \"Fresquinha & Refrescante\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mesa Baixa Interna - \"Importância Única\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Mesa Baixa Interna - \"Importância Única\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Estante de Livros Interna - \"Leitura de Lazer\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Estante de Livros Interna - \"Leitura de Lazer\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Balcão Interno - \"Recepção do Visitante\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Balcão Interno - \"Recepção do Visitante\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Armário em Torre\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Armário em Torre\".\nDepois de usar, você pode entrar na interface de produção para vê-lo.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Guarda-Roupa do Hotel - \"Quarto Extra\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Guarda-Roupa do Hotel - \"Quarto Extra\".\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tapete da Lua Gelada: \"Tons Límpidos\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Tapete da Lua Gelada: \"Tons Límpidos\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Tapetinho Felpudo\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Tapetinho Felpudo\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Firme como o Ferro\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Firme como o Ferro\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "\"Bandeira dos Portadores da Lâmpada\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar a \"Bandeira dos Portadores da Lâmpada\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Arandela da Taverna - \"Luz do Corredor Flutuante\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Arandela da Taverna - \"Luz do Corredor Flutuante\".\nDepois de usar, você pode entrar na interface de colocação para vê-la.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Prédio Auxiliar da Base - \"Estufa Multiuso\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Prédio Auxiliar da Base - \"Estufa Multiuso\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Prédio Auxiliar da Base - \"Espaço Secreto\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Prédio Auxiliar da Base - \"Espaço Secreto\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Prédio Auxiliar da Base - \"Torre d'Água\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Prédio Auxiliar da Base - \"Torre d'Água\"\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base do Moinho de Vento - \"Energia Auxiliar\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Base do Moinho de Vento - \"Energia Auxiliar\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Portão da Base - \"Lógica de Transporte\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Portão da Base - \"Lógica de Transporte\".\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Plataforma da Base - \"Fundação Robusta\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Plataforma da Base - \"Fundação Robusta\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Parede da Base - \"Linha Defensiva\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Parede da Base - \"Linha Defensiva\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pilar da Base - \"Sinalizador Universal\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Pilar da Base - \"Sinalizador Universal\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Abraço Gentil",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Abraço Gentil.\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cerca da Cidade: \"Banco Conveniente\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Cerca da Cidade: \"Banco Conveniente\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cerca da Cidade: \"Ondas Azuis\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Cerca da Cidade: \"Ondas Azuis\".\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Estátua de Faíscas Explosivas Jumbo",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Estátua de Faíscas Explosivas Jumbo.\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Segredo do Frescor da Base",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Segredo do Frescor da Base.\nDepois de usar, você pode entrar na interface de colocação para vê-lo.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Painéis de Teto da Base",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Painéis de Teto da Base.\nDepois de usar, você pode entrar na interface de colocação para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Piso de Metal da Base",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Piso de Metal da Base.\nDepois de usar, você pode entrar na interface de produção para ver.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tranquilidade da Base",
+    "Description": "Um diagrama que descreve passo a passo como fabricar Acúmulo do Tranquilidade da Base.\nDepois de usar, você pode entrar na interface de produção para ver.",
     "TypeDescription": "Diagrama de Decoração",
     "Icon": "UI_ItemIcon_Home_Common"
   }

@@ -1153,5 +1153,11 @@
     "Description": "Style Kartu Nama.\nAyaka selalu mengganti kipas yang dibawanya, tentu saja. Jika kamu ingin memberinya hadiah, ingatlah untuk jangan memberinya kipas musim panas atau kipas untuk dilempar seperti senjata. Kipas untuk menari atau minum teh setidaknya adalah pilihan yang baik.",
     "Icon": "UI_NameCardIcon_Ayaka",
     "PicturePrefix": "UI_NameCardPic_Ayaka"
+  },
+  "TraceEffect": {
+    "Id": 215018,
+    "Name": "Echo: Frostflake Heron",
+    "Description": "Envisaged Echoes milik Kamisato Ayaka. \"Jangan menyebut musim dingin sebagai musim tak berwarna, salju putih turun dan memenuhi setiap sudut.\"",
+    "Icon": "UI_TraceEffectIcon_Ayaka"
   }
 }

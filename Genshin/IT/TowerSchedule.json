@@ -1,37 +1,5 @@
 [
   {
-    "Id": 114,
-    "FloorIds": [
-      1110,
-      1111,
-      1118,
-      1119
-    ],
-    "Open": "2025-12-16T04:00:00+08:00",
-    "Close": "2026-01-16T03:59:59+08:00",
-    "BuffName": "Luna vorticosa",
-    "Descriptions": [
-      "#Quando il personaggio attivo scatena Turbinio su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione di quest'ultimo, infliggendo DAN puri. Quest'effetto può attivarsi una volta ogni 2{NON_BREAK_SPACE}s."
-    ],
-    "Icon": "UI_TowerBlessing_100"
-  },
-  {
-    "Id": 115,
-    "FloorIds": [
-      1110,
-      1111,
-      1120,
-      1121
-    ],
-    "Open": "2026-01-16T04:00:00+08:00",
-    "Close": "2026-02-16T03:59:59+08:00",
-    "BuffName": "Luna d'assalto",
-    "Descriptions": [
-      "#Quando un personaggio innesca una reazione lunare (Fioritura lunare, Carica lunare o Cristallizzazione lunare) su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione dell'avversario, che infligge DAN puri. Quest'effetto può attivarsi una volta ogni 3{NON_BREAK_SPACE}s."
-    ],
-    "Icon": "UI_TowerBlessing_101"
-  },
-  {
     "Id": 116,
     "FloorIds": [
       1110,
@@ -46,6 +14,22 @@
       "#Quando un personaggio infligge DAN da Cristallizzazione lunare su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione dell'avversario, che infligge DAN puri. Quest'effetto può attivarsi una volta ogni 3{NON_BREAK_SPACE}s."
     ],
     "Icon": "UI_TowerBlessing_102"
+  },
+  {
+    "Id": 117,
+    "FloorIds": [
+      1110,
+      1111,
+      1124,
+      1125
+    ],
+    "Open": "2026-03-16T04:00:00+08:00",
+    "Close": "2026-04-16T03:59:59+08:00",
+    "BuffName": "Luna sferzante",
+    "Descriptions": [
+      "#Quando un personaggio innesca una reazione di Turbinio su un avversario, ottiene 1 accumulo di Furia ventosa. Una volta raggiunti 4 accumuli, <color=#F39000>si sprigiona un'onda d'urto</color> nella posizione dell'avversario che infligge DAN puri e consuma tutti gli accumuli di Furia ventosa contemporaneamente. Si può ottenere fino a 1 accumulo di Furia ventosa ogni 0,1{NON_BREAK_SPACE}s e sprigionare un'onda d'urto in questo modo ogni 6{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_100"
   },
   {
     "Id": 1,
@@ -1865,5 +1849,37 @@
       "Quando il valore del Legame vitale del personaggio attivo aumenta o diminuisce, <color=#F39000>viene sprigionata un'onda d'urto</color> che infligge DAN puri agli avversari vicini."
     ],
     "Icon": "UI_TowerBlessing_99"
+  },
+  {
+    "Id": 114,
+    "FloorIds": [
+      1110,
+      1111,
+      1118,
+      1119
+    ],
+    "Open": "2025-12-16T04:00:00+08:00",
+    "Close": "2026-01-16T03:59:59+08:00",
+    "BuffName": "Luna vorticosa",
+    "Descriptions": [
+      "#Quando il personaggio attivo scatena Turbinio su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione di quest'ultimo, infliggendo DAN puri. Quest'effetto può attivarsi una volta ogni 2{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Luna d'assalto",
+    "Descriptions": [
+      "#Quando un personaggio innesca una reazione lunare (Fioritura lunare, Carica lunare o Cristallizzazione lunare) su un avversario, si <color=#F39000>sprigiona un'onda d'urto</color> nella posizione dell'avversario, che infligge DAN puri. Quest'effetto può attivarsi una volta ogni 3{NON_BREAK_SPACE}s."
+    ],
+    "Icon": "UI_TowerBlessing_101"
   }
 ]

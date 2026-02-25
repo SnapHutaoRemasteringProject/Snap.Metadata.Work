@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka: Lead Wolf",
+    "Description": "Namecard style.\nThe pack of wolves chased the northern wind, but only the leader knew that the wind had already begun swirling at their paws the moment they started running.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Travel Notes: Northerly Winds",
+    "Description": "Namecard style.\nIt was something the wind could bring from the north: a hint of cold, the last faint scent of the flowers before they would fall from their perches, and the news that a traveler from afar would soon return.",
+    "SpecialDescription": "\"Travel Notes: Northerly Winds\" namecard style",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

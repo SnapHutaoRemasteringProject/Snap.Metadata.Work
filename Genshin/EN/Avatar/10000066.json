@@ -1180,5 +1180,11 @@
     "Description": "Namecard style.\nThe camellia alights upon the mirrored pond, sending ripples throughout the water.",
     "Icon": "UI_NameCardIcon_Ayato",
     "PicturePrefix": "UI_NameCardPic_Ayato"
+  },
+  "TraceEffect": {
+    "Id": 215019,
+    "Name": "Echo: Pillar of Fortitude",
+    "Description": "Kamisato Ayato's Envisaged Echo. \"Who says the autumn streams run cold, fallen blooms still drift and fold.\"",
+    "Icon": "UI_TraceEffectIcon_Ayato"
   }
 }

@@ -1,37 +1,5 @@
 [
   {
-    "Id": 114,
-    "FloorIds": [
-      1110,
-      1111,
-      1118,
-      1119
-    ],
-    "Open": "2025-12-16T04:00:00+08:00",
-    "Close": "2026-01-16T03:59:59+08:00",
-    "BuffName": "Whirlwind Moon",
-    "Descriptions": [
-      "Saat Karakter aktif memicu reaksi Swirl terhadap musuh, akan <color=#F39000>melancarkan sebuah serangan gelombang</color> di posisi musuh yang mengakibatkan True DMG. Efek ini dapat terpicu sekali setiap 2 detik."
-    ],
-    "Icon": "UI_TowerBlessing_100"
-  },
-  {
-    "Id": 115,
-    "FloorIds": [
-      1110,
-      1111,
-      1120,
-      1121
-    ],
-    "Open": "2026-01-16T04:00:00+08:00",
-    "Close": "2026-02-16T03:59:59+08:00",
-    "BuffName": "Surgestrike Moon",
-    "Descriptions": [
-      "Saat Karakter memicu reaksi Lunar (Lunar-Bloom/Lunar-Charged/Lunar-Crystallize) terhadap musuh, akan <color=#F39000>melancarkan serangan gelombang</color> di posisi musuh yang mengakibatkan True DMG. Efek ini dapat terpicu sekali setiap 3 detik."
-    ],
-    "Icon": "UI_TowerBlessing_101"
-  },
-  {
     "Id": 116,
     "FloorIds": [
       1110,
@@ -46,6 +14,22 @@
       "Saat Karakter mengakibatkan DMG Lunar-Crystallize terhadap musuh, akan <color=#F39000>melancarkan serangan gelombang</color> di posisi musuh yang mengakibatkan True DMG. Efek ini dapat terpicu sekali setiap 3 detik."
     ],
     "Icon": "UI_TowerBlessing_102"
+  },
+  {
+    "Id": 117,
+    "FloorIds": [
+      1110,
+      1111,
+      1124,
+      1125
+    ],
+    "Open": "2026-03-16T04:00:00+08:00",
+    "Close": "2026-04-16T03:59:59+08:00",
+    "BuffName": "Windlash Moon",
+    "Descriptions": [
+      "Saat Karakter memicu reaksi Swirl terhadap musuh, akan mendapatkan 1 lapis Windlash. Saat mencapai 4 lapis, akan <color=#F39000>melancarkan serangan gelombang</color> di posisi musuh berada dan mengakibatkan True DMG, juga menghapus seluruh Windlash. Windlash dapat diperoleh sekali setiap 0,1 detik. Maksimum 1 kali serangan gelombang yang bisa dilancarkan setiap 6 detik dengan cara ini."
+    ],
+    "Icon": "UI_TowerBlessing_100"
   },
   {
     "Id": 1,
@@ -1865,5 +1849,37 @@
       "Saat nilai Bond of Life Karakter aktif bertambah atau berkurang, akan <color=#F39000>melancarkan serangan gelombang</color> dan mengakibatkan True DMG terhadap musuh di sekitar."
     ],
     "Icon": "UI_TowerBlessing_99"
+  },
+  {
+    "Id": 114,
+    "FloorIds": [
+      1110,
+      1111,
+      1118,
+      1119
+    ],
+    "Open": "2025-12-16T04:00:00+08:00",
+    "Close": "2026-01-16T03:59:59+08:00",
+    "BuffName": "Whirlwind Moon",
+    "Descriptions": [
+      "Saat Karakter aktif memicu reaksi Swirl terhadap musuh, akan <color=#F39000>melancarkan sebuah serangan gelombang</color> di posisi musuh yang mengakibatkan True DMG. Efek ini dapat terpicu sekali setiap 2 detik."
+    ],
+    "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Surgestrike Moon",
+    "Descriptions": [
+      "Saat Karakter memicu reaksi Lunar (Lunar-Bloom/Lunar-Charged/Lunar-Crystallize) terhadap musuh, akan <color=#F39000>melancarkan serangan gelombang</color> di posisi musuh yang mengakibatkan True DMG. Efek ini dapat terpicu sekali setiap 3 detik."
+    ],
+    "Icon": "UI_TowerBlessing_101"
   }
 ]
