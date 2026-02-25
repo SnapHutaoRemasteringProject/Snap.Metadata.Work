@@ -1695,6 +1695,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Varka'nın Yaşam Yıldızı",
+    "Description": "Varka'nın Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -2924,6 +2935,17 @@
     "Description": "Illuga'nın Takımyıldız Etkinleştirme Malzemesi",
     "TypeDescription": "Takımyıldızı Etkinleştirir",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Varka'nın Yaşam Yıldızı",
+    "Description": "Varka'nın Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -31259,6 +31281,54 @@
     "Icon": "UI_ItemIcon_108867"
   },
   {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %18 yeniler ve 30 saniye boyunca 5 saniyede bir 300 Can verir.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Altın Tavlı Yeşim (Tuhaf)",
+    "Description": "Liyue'ye özgü bir tavuk yemeği. Derisinin göz alıcı parlak sarı rengi, altındaki bembeyaz ve yumuşacık görünen etle harika bir kontrast oluşturuyor. Ancak bir ısırık aldığın an pişman oluyorsun; eti kuru ve sert, inatla dişlerinin arasına sıkışıyor...",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %20 yeniler ve 30 saniye boyunca 5 saniyede bir 390 Can verir.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Altın Tavlı Yeşim",
+    "Description": "Liyue'ye özgü bir tavuk yemeği. Basit baharatlarla hazırlanan ve taze malzemelerin kendine özgü lezzetini öne çıkarmaya çalışan bir yemektir. Bu sayede pürüzsüz bir deri, yumuşak bir et ve ferah bir lezzete kavuşur. Hele bir de yanında bandırmalık bir sos olursa çok daha keyifli bir deneyim sunar.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Seçili karakterin Maks. Canını %22 yeniler ve 30 saniye boyunca 5 saniyede bir 470 Can verir.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Altın Tavlı Yeşim (Lezzetli)",
+    "Description": "Liyue'ye özgü bir tavuk yemeği. Tavuğun derisi tatmin edici bir sertlikte, eti ise yumuşak ve lezzetli. Tavuktan elde edilen doğal jelatin, tavuk yağının yoğun aromasıyla harmanlanıyor ve kemikleri bile hafif bir tatlılık taşıyor. Tam bir lezzet senfonisi olan bu yemek, en seçici gurmeleri bile mest edebilir.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "80 Dayanıklılık yeniler.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Bol Kepçe Ziyafet",
+    "Description": "Varka'nın özel tarifi. İrice kesilmiş füme tavuk budu ve büyük bir bardak dolusu Elma Şırası, sahibinin karakterini yansıtan gösterişsiz ama cesur bir sunumla servis ediliyor. Ne savaşta ne de sofrada, Varka asla dizginleri elden bırakmaz.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108870"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34148,6 +34218,17 @@
     "ItemType": 2,
     "Name": "Tarif: Mantar Hülyası",
     "Description": "Mantar Hülyası yapımını adım adım anlatan detaylı bir tarif.",
+    "TypeDescription": "Tarif",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Tarif: Altın Tavlı Yeşim",
+    "Description": "Altın Tavlı Yeşim yapımını adım adım anlatan detaylı bir tarif.",
     "TypeDescription": "Tarif",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37114,6 +37195,17 @@
     "Description": "Bu dünyanın ötesinden istilaya gelen Kabus Fısıldayanı yendikten sonra geride kalan aşınmadan alınmış, koyu siyah renkli bir kemik kalıntısı.\nYıldızsız boşlukta süzülen şekilsiz canavar, bu dünyanın \"kanat\" dediği organlara hiç ihtiyaç duymamalıydı. Bu garip, kutsala hakaret niteliğindeki uzantılar, ayın altındaki yasalara uyum sağlamak için ortaya çıkmış olabilir ya da belki de ölümlü gözlerin görebildiği gerçek formunun çarpık bir parçasıdır.",
     "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prizmatik Kopmuş Kuyruk",
+    "Description": "Kaçmaya çalışırken yenik düşen bir Parıltılı Ay Gekosunun ardında bıraktığı kristalleşmiş kuyruk omuru.\nMantıken böylesine muazzam bir güce erişmiş bir kertenkelenin artık bir doğal avcısı bulunmaması gerekirdi. Yine de hayatta kalmak uğruna kuyruğunu feda etme içgüdüsünü hâlâ taşıyor. Belki de ay ışığının yeryüzünü sarmaladığı kadim çağlarda buralarda çok daha korkunç yırtıcılar kol geziyordu.",
+    "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -44867,7 +44959,7 @@
     "RankLevel": 5,
     "ItemType": 2,
     "Name": "Cenaze Maskesi",
-    "Description": "Fatui'nin Sekizinci Habercisi Sinyora'yı yenerek aldığın bir ganimet.\nFatui üyeleri dünyaya sıklıkla maskelerinin ardından bakarlar. Bunun nedeni, Fatui olduklarında önceki kişiliklerinin artık hiçbir anlam ifade etmemesiymiş, bu yüzden de gerçek adlarını ve yüzlerini terk etmeleri gerekiyormuş.\n\nYine de kişinin \"benliğini\" oluşturan tüm geçmişini ve bağlarını tümüyle ardında bırakması kolay bir iş değil.\nSanrı seviyesine yakın veya sanrıyı da aşan bir saplantıya sahip olanların, kalan günlerini sanrılar doğrultusunda yaşayan ve kayan bir yıldız gibi yitip gidenlerin Semavi İlkelere karşı bu kadar isyan eden bu gruba katılmaya istekli olabileceklerini söylemek pek de yanlış olmaz.\nKuşkusuz Fatui üyelerinin birçoğu gücün esiri olmuş sadistlerden ibaret ve bu ikisi bir çatışma halinde değil.\n\nGerçek adı Rosalyne-Kruzchka Lohefalter olan kadın zamanında masumane bir hayat sürmüş olabilir.\nAncak bu, gözleri öfkeyle dolup, masumiyet dolu günleri yitip gitmeden önceydi. Soğuk Sanrısı, onu içten içe yiyip bitiren kindar fikirlerin ateşini bastırmadan önceydi. Bir başına, ama şimdikinden daha kararsız değilken ebedi yabancının onu koruyabilecek olan buzu parçalayıp yüreğindeki ateşi tekrar harlamasından önceydi...",
+    "Description": "Fatui'nin Sekizinci Habercisi Sinyora'yı yenerek aldığın bir ganimet.\nFatui üyeleri dünyaya sıklıkla maskelerinin ardından bakarlar. Bunun nedeni, Fatui olduklarında önceki kişiliklerinin artık hiçbir anlam ifade etmemesiymiş, bu yüzden de gerçek adlarını ve yüzlerini terk etmeleri gerekiyormuş.\n\nYine de kişinin \"benliğini\" oluşturan tüm geçmişini ve bağlarını tümüyle ardında bırakması kolay bir iş değil.\nSanrı seviyesine yakın veya sanrıyı da aşan bir saplantıya sahip olanların, kalan günlerini sanrılar doğrultusunda yaşayan ve kayan bir yıldız gibi yitip gidenlerin Semavi İlkeler'e karşı bu kadar isyan eden bu gruba katılmaya istekli olabileceklerini söylemek pek de yanlış olmaz.\nKuşkusuz Fatui üyelerinin birçoğu gücün esiri olmuş sadistlerden ibaret ve bu ikisi bir çatışma halinde değil.\n\nGerçek adı Rosalyne-Kruzchka Lohefalter olan kadın zamanında masumane bir hayat sürmüş olabilir.\nAncak bu, gözleri öfkeyle dolup, masumiyet dolu günleri yitip gitmeden önceydi. Soğuk Sanrısı, onu içten içe yiyip bitiren kindar fikirlerin ateşini bastırmadan önceydi. Bir başına, ama şimdikinden daha kararsız değilken ebedi yabancının onu koruyabilecek olan buzu parçalayıp yüreğindeki ateşi tekrar harlamasından önceydi...",
     "TypeDescription": "Görev Eşyası",
     "Icon": "UI_ItemIcon_100957"
   },
@@ -50032,6 +50124,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Giriş Nişanı",
+    "Description": "Fatui üyelerince ayrı ayrı saklanan önemli nişan setinin bir parçası. İç odaya açılan cihaz, yalnızca üç nişanın bir araya getirilmesiyle etkinleştirilebilir. Neden üç nişan gerektiğine gelince; büyücü, bunun sadece \"herkesin çorbada tuzu olsun\" diye yapıldığını söyleyip geçmişti.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Yoğun Kirlenmiş Gözyaşı Kristali",
+    "Description": "Hiçlik tarafından tamamen ele geçirilmiş Dvalin'den bir parça. Bu gözyaşının durumu, hikayedeki Dvalin'in iyileşmesi için umut kalmadığını gösteriyor.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50151,6 +50265,17 @@
     "Description": "Özel yapım şeker heykelcikler içeren bir kutu. Birisi düşünülerek üretilmiş gibi duruyor. Erimeye başlamadan yense iyi olur.",
     "TypeDescription": "Sarf Malzemesi",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Çok Amaçlı Müzakere Aracı",
+    "Description": "İçi jetonlarla dolu, \"varlığa her şeyden çok değer verenlerin\" bile aklını çelebilecek kadar ağır bir kese. Kimilerine göre bu, \"samimiyet\" denilen şeyin ta kendisi.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50341,6 +50466,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Etkinlik Davetiyesi",
+    "Description": "Favonius Şövalyeleri Büyük Kumandan Vekili Jean tarafından gönderilen bir davetiye. Mesaj kısa ve etkinliğin ayrıntılarından hiç bahsetmiyor.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Kuş Tüyü Kadar Hafif Mora",
+    "Description": "Yıldızdüşen Gölü'nde bulunan Mora. Sıradan Mora ile aynı görünse de ağırlığı sadece onun onda biri kadardır, bu yüzden zenginlik elde etme sevincini de sadece onda biri kadar yaşatır.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Elastik Balık Eti",
+    "Description": "Yıldızdüşen Gölü'nde bulunan balık eti. Sıradan bir balığa benzese de son derece elastiktir; ne kadar sert yoğurursan yoğur hızla eski şekline geri döner. Bir yemek malzemesinden çok stres topuna benziyor... En iyisi bunu yemeye çalışma hiç.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Dodoko'nun Büyülü Şekerlemesi",
+    "Description": "Şövalyelerin içecek tezgahına yardım ederken Klee'den aldığın bir hatıra.\n\"Her şeyi simya tezgahında birleştir, istediğin şekli dile, sonra Annemin büyülü sözlerini söyle ve... Puf! Dodoko şeklinde şekerlemen hazır!\"\nBayan Alice'in eserinden de bu beklenirdi. Teyvat'ta bulunan sıradan malzemeler kullanılarak yapılmış olsa da harika ve karmaşık bir tatlılığa sahip. Ufak bir ısırık aldığında tatlı bir büyü zihninde yankılanıyor sanki...\nMaalesef sınırlı sayıda, o yüzden bir tanesini hatıra olarak saklasan iyi edersin!",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50371,6 +50540,61 @@
     "Description": "Birbiri ardına gelen Starşinaların kahramanlıklarını anlatan bir şiir koleksiyonu. İçeriğinin çoğu geçmiş felaketlerde kaybolmuş ve orijinal parçaların sadece küçük bir bölümü kurtarılabilmiştir.",
     "TypeDescription": "Görev Eşyası",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Rüzgarın Getirdiği Bir Mektup",
+    "Description": "Bir şekilde çantana girmiş bir mektup. Belki de onu buraya rüzgar getirmiştir.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Varka'nın Davet Bileti",
+    "Description": "Varka'dan gelen elle çizilmiş bir davet bileti. Avcının Yeri'nde bol etli, doyurucu bir ziyafet çekmek için kullanılabilir.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Varka'nın Davet Bileti",
+    "Description": "Varka'dan elle çizilmiş bir davet bileti. Avcının Yeri'nde bol etli, doyurucu bir ziyafet çekmek için kullanılabilir. Arkasındaki köşede \"Kullanıldı\" yazan küçük bir damga basılı.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka'nın Gizli Para Zulası",
+    "Description": "Varka'nın içki için ayırıp pervasızca masa çekmecesine tıkıştırdığı para.\n\"En tehlikeli yer aslında en güvenli yerdir!\" Böyle iddia etse de parayı burada tutmasının asıl sebebi muhtemelen Büyük Kumandan Vekili'nin bu parayı harcamayacağına ya da saklandığı yeri açık etmeyeceğine inanması.\nBu para aslında Hükümdar'a sunulacak Karahindiba Şarabına ayrılmıştı ancak artık planlar değiştiğinden Varka'yı kurtaran Fahri Şövalyeyi ödüllendirmek için kullanılabilir. Ya da Varka'nın kurtarılmasına yardım eden her bir dostunu ödüllendirmesi için ona verilebilir.",
+    "TypeDescription": "Sarf Malzemesi",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka'nın Gizli Para Zulası",
+    "Description": "Varka'nın içki için ayırıp pervasızca masa çekmecesine tıkıştırdığı para.\n\"En tehlikeli yer aslında en güvenli yerdir!\" Böyle iddia etse de parayı burada tutmasının asıl sebebi muhtemelen Büyük Kumandan Vekili'nin bu parayı harcamayacağına ya da saklandığı yeri açık etmeyeceğine inanması.\nBu para aslında Hükümdar'a sunulacak Karahindiba Şarabına ayrılmıştı ancak artık Varka'yı kurtaran Fahri Şövalyeyi ödüllendirmek için kullanıldı. Ya da Varka'nın kurtarılmasına yardım eden her bir dostunu ödüllendirmek de isteyebilir.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -50940,7 +51164,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Kavgacı Dikence Balığı",
-    "Description": "Dikenli yüzgeçleri ve dikenli ağzı olan, akıntıya karşı hızla yüzebilen vahşi bir balık. Yetenekleri sayesinde \"Kılıç\" ve \"Zor Lokma\" isimleriyle bilinir.\nDikence balıkları arasında özgüveni en yüksek türlerden biri. Özellikle kur yapma dönemindeyken en ufak bir esinti veya dalga onları kışkırtabilir. Bir defasında sallanan yosunlara saldıran bir dikence balığı gözlemlenmiş. Balık sanki yosunun yaptığı \"dansın\" dikence balıklarının kralına hakaret olduğunu düşünüyor gibi saldırıyormuş...\n\"Bu balıkla su altında karşılaşırsan sakın gözlerinin içine bakma.\" - Balıkçının El Kitabı, Kavgacı Dikence Balığı Bölümü",
+    "Description": "Dikenli yüzgeçleri ve dikenli ağzı olan, akıntıya karşı hızla yüzebilen vahşi bir balık. Yetenekleri, ona \"Kılıç\" ve \"Zor Lokma\" lakaplarının takılmasına sebep olmuştur.\nDikence balıkları arasında özgüveni en yüksek türlerden biridir. Özellikle kur yapma dönemindeyken en ufak bir esinti veya dalga onları kışkırtabilir. Bir defasında sallanan yosunlara saldıran bir dikence balığı görülmüş. Balık sanki yosunun yaptığı \"dansın\" dikence balıklarının kralına hakaret olduğunu düşünüyor gibi saldırıyormuş...\n\"Bu balıkla su altında karşılaşırsan sakın gözlerinin içine bakma.\" - Balıkçının El Kitabı, Kavgacı Dikence Balığı Bölümü",
     "TypeDescription": "Balık",
     "Icon": "UI_ItemIcon_131007"
   },
@@ -56049,6 +56273,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tespit Kamerası",
+    "Description": "Paimon'un yanında taşıdığı Kamera. Bulduğun önemli farklılıkları kaydetmek için onu kullan!",
+    "TypeDescription": "Aygıt",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Armonik Klavye",
+    "Description": "Performanslarda kullanılabilen zarif bir enstrüman.\nKadim filozof münazaracılara göre, fani dünyanın melodileri evrenin o muazzam senfonisinin zayıf birer yankısından ibarettir. Ne var ki Ölümsüzler Kralı, bir müzisyenin eserindeki alışılmışın dışındaki o motifleri fark edip ölümsüz müziği tek tek tüm tuşlara nakşetmesini buyurmuştur. Böylece dileyen herkes, sadece bu enstrümanı çalarak en yüce senfoniye katılabilir.",
+    "TypeDescription": "Aygıt",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -56751,6 +56997,17 @@
     "Description": "Çaydanlık Gezgin Satıcısı Dombili tarafından Natlan'dan getirilen harika manzaralarla ve gizli güçlerle dolu güzel bir dokuma parşömen.\nDokuma parşömenin içindeki manzara insanın aklına bazı görüntüleri getirir. Böylece Alt Uzay Yaratma gücünü kullanarak Çaydanlığında Natlan'ın harika manzaralarını yeniden oluşturabilirsin...",
     "TypeDescription": "Sarf Malzemesi",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Uçup Giden Gölge Küresi",
+    "Description": "Müzik çalabilen ve göz kamaştırıcı ışık efektleri üretebilen bir Nod-Krai Kuuvahki küresi mekanizması. Çaydanlık Gezgin Satıcısı Dombili tarafından Nod-Krai'dan getirilmiş bir hediyeliktir.\nKüreden saçılan değişken ışıklara attığın tek bir bakış bile zihinde belli belirsiz görüntüler canlandırmaya yetiyor. Alt Uzay Yaratma gücü sayesinde bu görüntüleri manipüle edebilir ve Nod-Krai'ın harika manzaralarını Çaydanlık içinde yeniden canlandırabilirsin...",
+    "TypeDescription": "Sarf Malzemesi",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58036,6 +58293,127 @@
     "ItemType": 2,
     "Name": "Yoldaşların Sığınağı",
     "Description": "Natlan halkının bizzat test edip onayladığı, Sürüngen dostu özelliklerle donatılmış temiz ve bakımlı bir yaşam alanı. Sürüngenler ve diğer iri canlılar için kusursuz bir yuvadır.\nNatlanlı bir savaşçı için Sürüngenler sadece bir yoldaş değil, ailenin bir parçasıdır. Sevinci de kederi de onlarla paylaşırlar. Yanlarında bir Sürüngen varsa tüm sıkıntılar buhar olup uçar sanki.\nYoldaşların arasından Ifa bu Dekorasyon Setini tercih eder.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Dört Bir Yandan Gelen Misafirler İçin Rahat Bir Oda",
+    "Description": "Nasha Kasabası'ndaki en büyük han olan Sancak Gemisi'nin misafir odalarından esinlenerek döşenmiş bir oda. Sakinlerinin ihtiyaçlarına nokta atışı cevap verebilmek için özel iyileştirmeler yapılmıştır.\nSancak Gemisi'nde konaklayan birbirinden farklı tüm misafirlerin kendine has bir \"konfor\" anlayışı vardır. Haliyle tüm bu beklentiler arasında bir denge tutturmak hiç de kolay değildir. Nitekim Sancak Gemisi en son kendince bir çözüm buldu: Odaları bir müşterinin ihtiyaç duyabileceği her türlü eşyayla donatıp, ardından aldıkları geri bildirimlere göre gereksiz olanları çıkarıyorlar. Bu yüzden oda biraz dağınık görünse de misafirin ihtiyaç duyabileceği her şeyi elinin altına koyarak kendine göre konforlu bir alan yaratmasına olanak tanıyorlar.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ay Altında Huzurlu Bir Uyku",
+    "Description": "Donuk Ayın Çocukları tarafından özenle seçilen parçalarla döşenmiş, sade ama zarif bir yatak odası. Buradaki genel atmosfer, zarif bir sadelik ve sıcaklık sunuyor. Söylenene göre huzurlu ve doğal bir ortam insanın rahatlamasına yardımcı olurmuş. Bu yatak odası da bu ilkenin mükemmel bir örneği gibi görünüyor. Ay ışığı kadar yumuşak bir parıltı saçan lamba ışığı ve havayı dolduran taze meyve kokusuyla burada kalanlar, dinlenmenin getirdiği huzur ve sükunet sessizce üzerlerine çökerken yorgunluklarının ve acılarının yavaş yavaş hafiflediğini hissedebilirler...",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sırlar Düzeni",
+    "Description": "Bu kendine has çalışma alanının düzeni, büyük ölçüde Sırlar Arşivi'nden esinlenmiştir ve sahibinin yoğun çalışma atmosferinin aslına sadıktır. Her şey titiz bir düzenle yerleştirilmiştir.\nBilgi analizi zorlu ve karmaşık bir görevdir. Veriler birbirine girdiğinde insanın kafası kolay karışır. Ancak her bir mobilyanın özenle yerleştirildiği ve gereken her aracın el altında olduğu bir odada zihin berraklaşır, verimlilik de haliyle artar...",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "En Güzel ve En Sıcak Yuva",
+    "Description": "Sıcaklığıyla insanın içini ısıtan, huzur dolu bir atmosfere sahip Nod-Krai tarzı bir yatak odası. Burası, yoğun bir günün ardından yorgunluk atmak için adeta biçilmiş kaftan. Odadaki her bir parça, bizzat Çın Çın Krumkake Atölyesinin \"Ebeveyn\"i tarafından seçildi ve dünyanın en şahane, en sıcak ve en kullanışlı mobilyaları. Ancak bu benzersiz konforun bir kötü yanı var: Oda o kadar rahat ki, insan bazen uykunun tatlı rehavetine kapılıp önemli işlerini kaçırabiliyor. Herkesin vaktinde ayaklanmasını sağlamak için tatlı-sert bir uyandırma yöntemi şart olabilir.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Savaş Öncesi Mola",
+    "Description": "Piramida'nın oda düzenlerinden esinlenerek tasarlanmış bu tam donanımlı ortak salon, Ratniklerin savaştan önceki o değerli sükunet anlarını yeniden yaşatıyor. Kıdemli Ratnikler, Vahşi Ava karşı verilen mücadelenin uzun ve çetin geçeceğinin farkındadır. Bu yüzden şartlar elverdiği sürece dinlenmek, daima en üst düzeyde savaşa hazırlıklı olmanın anahtarıdır. Dahası, özenle düzenlenmiş bir salon, Ratniklere birbirlerini tanıma ve aralarındaki bağı güçlendirme fırsatı sunar. Ne de olsa savaş meydanında, tanımadığın yabancılar yerine güvendiğin yoldaşlarınla omuz omuza çarpışmak daha fazla cesaret ve koordinasyon sağlar. Bu nedenle dinlenme salonlarının inşası, Starşina için her zaman bir öncelik olmuştur.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Uzak Kuzeyin Yabanı",
+    "Description": "Nod-Krai'da sıkça görülen bitki örtüsünü ve arazi şekillerini bir araya getiren, özellikle de Hiisi Adası'nın eşsiz manzarasını aslına sadık şekilde yeniden canlandıran yaban arazi.\nNod-Krai bölgesi bol miktarda Kuuvahki barındırır. Bu da parlak renkli bitkilerin, kendine özgü alışkanlıklara sahip canlıların ve sıra dışı şekillerdeki arazi oluşumlarının ortaya çıkmasını sağlamıştır. Bu bölge, doğa bilimciler için sayısız yeni bilgi hazinesi barındırırken sıradan turistlere de durup hayranlıkla izleyebilecekleri harika manzaralar sunar.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cıvıl Cıvıl Sınır Kasabası",
+    "Description": "Merkezinde çeşitli özgün binalar yer alan, her türden dükkanın bulunduğu bölgesel bir peyzaj. Nasha Kasabası'nın bir köşesinin bire bir kopyasıdır.\nRivayete göre Nasha Kasabası, ne gerçek bir yöneticisi ne de net bir planlama yapısı olmasıyla diğer şehirlerden ayrılır. Bu durum, binalar arasında sayısız dar geçidin ve göze çarpmayan boşlukların ortaya çıkmasına neden olmuştur. Sakinlerin çoğu için bu geçitler gürültüden başka bir şeyin uğramadığı yerlerdir. Fakat bilginin peşindekiler için sırların yayıldığı, yolcuların ise yollarını kısaltan kestirmelerdir.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ay Altında Huzurlu Dua",
+    "Description": "Donuk Ay Yerleşkesi'nden esinlenilerek tasarlanmış, Donuk Ayın Çocuklarının geleneklerine göre düzenlenmiş çeşitli aletler ve her bir eşyayı tamamlayacak şekilde dikilmiş bitkilerle donatılmış bir açık hava ortamı. Bu alana adım attığında Donuk Ayın Çocuklarını tanımlayan o sükunet ve uyum hissini anında tadacaksın. Sanki nazik, melodik ilahiler usulca yankılanıyor, tüm dertleri ve kederleri esintiyle alıp götürüyor ve geriye yalnızca dingin ve huzurlu bir ruh hali bırakıyor.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Uzun Gecede Yalnız Bir Işık",
+    "Description": "Sağlam hanelere sahip bir yerleşim yeri. Düzeni ve mimarisi Işık Muhafızlarının açık hava savunma kalelerinden esinlenmiştir. Rüzgara ve yağmura dayanıklı olmakla beraber Vahşi Ava karşı bile güçlü bir savunma sunar. Işık Muhafızlarının yeminlerinde de dedikleri gibi: \"Biz Işık Muhafızlarıyız, sonsuz karla kaplı ovaların sislerini aydınlatan ebedi umudun ışığını yayarız.\"\nPiramida'nın dışındaki uçsuz bucaksız ovalarda kale gibi bu evler dimdik ayakta durur ve umut ışığını her daim içlerinde barındırır.",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Gelecek Vadeden Atölyeler",
+    "Description": "Çın Çın Krumkake Atölyesinden ilham alan; konforlu, yarım küre şeklindeki demir evlere ve gemi şeklindeki demir binalara sahip küçük bir yerleşim. Bu yapılar, atölye sahiplerinin temel ihtiyaçlarını fazlasıyla karşılar.\nTüm büyük atölyeler tek bir basit yapının üzerine kuruludur. Bu binaları temel alıp doğru planlama ve malzemelere başvurduğun takdirde Çaydanlığını devasa bir atölyeye dönüştürebilirsin...",
+    "TypeDescription": "Dekorasyon Seti Taslağı",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Hilal Huzuru",
+    "Description": "Gümüş Ay Salonu'ndan ilham alan bir avlu. Tarzı; sanki bir adım ötede ama ulaşılmaz, rüya misali bir diyarın sükunetini ve huzurunu yansıtır.\nAy ışığı, tüm canlılara her daim usulca yol gösterir. Belki de Ay Tanrıçası'nın takipçileri vaktiyle kendilerine şu soruyu sormuşlardır: Yeni Ayı huzur dolu uykusuna hangi manzara uğurlar?\nBu sorunun cevabını bulmanın yegane yolu, Gümüş Ay Salonu'nu ziyaret edip oradaki her bir çiçeği ve çimen tanesini seyre dalmaktır...",
     "TypeDescription": "Dekorasyon Seti Taslağı",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -70332,8 +70710,8 @@
     "Id": 383117,
     "RankLevel": 3,
     "ItemType": 2,
-    "Name": "Minyatür Şamdanlık: Minyatür \"Güneş\"",
-    "Description": "Minyatür Şamdanlık: Minyatür \"Güneş\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "Name": "Minyatür Şamdan: Minyatür \"Güneş\"",
+    "Description": "Minyatür Şamdan: Minyatür \"Güneş\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
     "TypeDescription": "Dekorasyon Taslağı",
     "Icon": "UI_ItemIcon_Home_Common"
   },
@@ -71753,6 +72131,413 @@
     "ItemType": 2,
     "Name": "Renkli Xiao Feneri: \"Arkadaşlarla Buluşma\"",
     "Description": "Renkli Xiao Feneri: \"Arkadaşlarla Buluşma\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Yuvarlak Kurabiye",
+    "Description": "\"Yuvarlak Kurabiye\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Çın Çın Depolama Evi",
+    "Description": "\"Çın Çın Depolama Evi\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Donuk Ay Yuvarlak Masası: Yumuşak Mavi Bir Gökyüzü",
+    "Description": "Donuk Ay Yuvarlak Masası: Yumuşak Mavi Bir Gökyüzü yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Birinin Notları",
+    "Description": "\"Birinin Notları\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Donuk Ay Küçük Masası: Taze Meyve Aroması",
+    "Description": "Donuk Ay Küçük Masası: Taze Meyve Aroması yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mavi Göğe Uzanmış Dallar",
+    "Description": "\"Mavi Göğe Uzanmış Dallar\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Saplı Meşe \"Ay Dinlencesi\" Arkalıklı Sandalye",
+    "Description": "Saplı Meşe \"Ay Dinlencesi\" Arkalıklı Sandalye yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Buzboynuz Pırıltısı",
+    "Description": "\"Buzboynuz Pırıltısı\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kıvrımlı Mantar",
+    "Description": "\"Kıvrımlı Mantar\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Mini Mini Bir Yuva",
+    "Description": "\"Mini Mini Bir Yuva\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Donuk Ay Taş Yatağı: Ferah ve Serin",
+    "Description": "Donuk Ay Taş Yatağı: Ferah ve Serin yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "İç Mekan Alçak Masası: Eşsiz Önem",
+    "Description": "İç Mekan Alçak Masası: Eşsiz Önem yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "İç Mekan Kitaplığı: Okuma Keyfi",
+    "Description": "İç Mekan Kitaplığı: Okuma Keyfi yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "İç Mekan Tezgahı: Misafirleri Karşılama",
+    "Description": "İç Mekan Tezgahı: Misafirleri Karşılama yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kule Dolap",
+    "Description": "Kule Dolap yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Otel Gardırobu: Fazladan Yer",
+    "Description": "Otel Gardırobu: Fazladan Yer yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Donuk Ay Halısı: Duru Renk",
+    "Description": "Donuk Ay Halısı: Duru Renk yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pofuduk Küçük Halı",
+    "Description": "\"Pofuduk Küçük Halı\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Demir Gibi Kararlı",
+    "Description": "\"Demir Gibi Kararlı\" yapımını adım adım anlatan detaylı bir taslak.\nBu eşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Işık Muhafızları Sancağı",
+    "Description": "\"Işık Muhafızları Sancağı\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Han Duvar Lambası: Süzülen Koridor Işığı",
+    "Description": "Han Duvar Lambası: Süzülen Koridor Işığı yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Yardımcı Üs Binası: Çok Amaçlı Sera",
+    "Description": "Yardımcı Üs Binası: Çok Amaçlı Sera yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Yardımcı Üs Binası: Gizli Alan",
+    "Description": "Yardımcı Üs Binası: Gizli Alan yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Yardımcı Üs Binası: Su Kulesi",
+    "Description": "Yardımcı Üs Binası: Su Kulesi yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üs Rüzgar Çarkı: Yardımcı Güç",
+    "Description": "Üs Rüzgar Çarkı: Yardımcı Güç yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üs Kapısı: Erişim Mantığı",
+    "Description": "Üs Kapısı: Erişim Mantığı yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üs Platformu: Sağlam Temel",
+    "Description": "Üs Platformu: Sağlam Temel yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üs Duvarı: Engel Hattı",
+    "Description": "Üs Duvarı: Engel Hattı yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üs Sütunu: Evrensel İşaret Feneri",
+    "Description": "Üs Sütunu: Evrensel İşaret Feneri yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Nazik Bir Sarılma",
+    "Description": "\"Nazik Bir Sarılma\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kasaba Korkuluğu: Kullanışlı Bank",
+    "Description": "Kasaba Korkuluğu: Kullanışlı Bank yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kasaba Korkuluğu: Mavi, Mavi, Masmavi",
+    "Description": "Kasaba Korkuluğu: Mavi, Mavi, Masmavi yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Dev Kıvılcımlar ve Patlama Heykeli",
+    "Description": "\"Dev Kıvılcımlar ve Patlama Heykeli\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üssün Soğutma Sırrı",
+    "Description": "\"Üssün Soğutma Sırrı\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üs Tavan Paneli",
+    "Description": "\"Üs Tavan Paneli\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Alaşım Üs Zemini",
+    "Description": "\"Alaşım Üs Zemini\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Üssün Sakin Huzuru",
+    "Description": "\"Üssün Sakin Huzuru\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
     "TypeDescription": "Dekorasyon Taslağı",
     "Icon": "UI_ItemIcon_Home_Common"
   }

@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Misafir Karakter",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10657,7 +10678,7 @@
     ],
     "Id": 379008,
     "Name": "Kavgacı Dikence Balığı",
-    "Description": "Safir İhtişam Havuzunda ve Gölgeli Berraklıkta evcil hayvan olarak tutulabilen değerli bir Süs Balığı.\nDikenli yüzgeçleri ve dikenli ağzı olan, akıntıya karşı hızla yüzebilen vahşi bir balık. Yetenekleri sayesinde \"Kılıç\" ve \"Zor Lokma\" isimleriyle bilinir.\nDikence balıkları arasında özgüveni en yüksek türlerden biri. Özellikle kur yapma dönemindeyken en ufak bir esinti veya dalga onları kışkırtabilir. Bir defasında sallanan yosunlara saldıran bir dikence balığı gözlemlenmiş. Balık sanki yosunun yaptığı \"dansın\" dikence balıklarının kralına hakaret olduğunu düşünüyor gibi saldırıyormuş...\n\"Bu balıkla su altında karşılaşırsan sakın gözlerinin içine bakma.\" - Balıkçının El Kitabı, Kavgacı Dikence Balığı Bölümü",
+    "Description": "Safir İhtişam Havuzunda ve Gölgeli Berraklıkta evcil hayvan olarak tutulabilen değerli bir Süs Balığı.\nDikenli yüzgeçleri ve dikenli ağzı olan, akıntıya karşı hızla yüzebilen vahşi bir balık. Yetenekleri, ona \"Kılıç\" ve \"Zor Lokma\" lakaplarının takılmasına sebep olmuştur.\nDikence balıkları arasında özgüveni en yüksek türlerden biridir. Özellikle kur yapma dönemindeyken en ufak bir esinti veya dalga onları kışkırtabilir. Bir defasında sallanan yosunlara saldıran bir dikence balığı görülmüş. Balık sanki yosunun yaptığı \"dansın\" dikence balıklarının kralına hakaret olduğunu düşünüyor gibi saldırıyormuş...\n\"Bu balıkla su altında karşılaşırsan sakın gözlerinin içine bakma.\" - Balıkçının El Kitabı, Kavgacı Dikence Balığı Bölümü",
     "Icon": "UI_Homeworld_Fishable_Maritime_Aspidorhynchus_02",
     "Rank": 200100
   },
@@ -37856,7 +37877,7 @@
     ],
     "Id": 371138,
     "Name": "Standart Sıvı Sevkiyat Ünitesi",
-    "Description": "Fontaine limanlarında görülebilen, Çınar Kütüğünden yapılma bir sıvı kabı. Bu iyice mühürlenmiş kap, aslen Fontaine Araştırma Enstitüsü tarafından uzun mesafeli su sevkiyatı için tasarlanmıştır ve bu teknolojinin gelişmesiyle birlikte sıvı sevkiyatında daha sık kullanılan bir yöntem haline gelmiştir.\nTasarımcılarının, şarap fıçıları ile tahta kutuların avantajlarını bir araya getirerek yapısal dayanıklılığını artırdığı ve toplu üretimini kolaylaştırdığı söylenir. Rıhtım çalışanları sıklıkla bu kapların \"kullanışlı\" olmadığından şikayet etse de gemi mürettebatları bunların bazen güvertede yuvarlanan şarap fıçılarından çok daha iyi olduğunu söyler.",
+    "Description": "Fontaine limanlarında görülebilen, Çınar Kütüğünden yapılma bir sıvı kabı. Bu iyice mühürlenmiş kap, aslen Fontaine Araştırma Enstitüsü tarafından uzun mesafeli su sevkiyatı için tasarlanmıştır ve bu teknolojinin gelişmesiyle birlikte sıvı sevkiyatında daha sık kullanılan bir yöntem haline gelmiştir.\nTasarımcılarının, şarap fıçıları ile ahşap kutuların avantajlarını bir araya getirerek yapısal dayanıklılığını artırdığı ve toplu üretimini kolaylaştırdığı söylenir. Rıhtım çalışanları sıklıkla bu kapların \"kullanışlı\" olmadığından şikayet etse de gemi mürettebatları bunların bazen güvertede yuvarlanan şarap fıçılarından çok daha iyi olduğunu söyler.",
     "Icon": "UI_Homeworld_Exterior_Fd_Decoration_Prop_Jizhuangxiang_01_Vo",
     "Rank": 60200
   },
@@ -51043,8 +51064,8 @@
       "\"Güneş\" Satıcısından satın alınır."
     ],
     "Id": 363117,
-    "Name": "Minyatür Şamdanlık: Minyatür \"Güneş\"",
-    "Description": "Taşınabilir, kompakt bir şamdanlık. Işığı zayıf olsa da \"güneş\" gibi parlayarak yolunu kaybedenlere rehberlik eder.\nGecenin pençeleri alabildiğine küstahlaşsa bile insan kaderine müdahale edemezler. \"Yeniden parlak bir ışık doğsun ve geçmişin kirlerini temizlesin.\"",
+    "Name": "Minyatür Şamdan: Minyatür \"Güneş\"",
+    "Description": "Taşınabilir, kompakt bir şamdan. Işığı zayıf olsa da \"güneş\" gibi parlayarak yolunu kaybedenlere rehberlik eder.\nGecenin pençeleri alabildiğine küstahlaşsa bile insan kaderine müdahale edemezler. \"Yeniden parlak bir ışık doğsun ve geçmişin kirlerini temizlesin.\"",
     "Icon": "UI_Homeworld_Interior_Nt_Decoration_Prop_SunZhutai_01_Vo",
     "Rank": 40100
   },
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -54869,7 +54890,7 @@
     ],
     "Id": 374333,
     "Name": "Strateji Masası: \"Ön Gösterim\"",
-    "Description": "Büyük Kumandan Varka'nın kendi strateji masasına göre modellenmiş basit ve pratik bir strateji masası.\n\"Biz tereddüt ederken Hiçlik sayısız can alıyor. Ne kadar erken harekete geçersek, onların kaderini o kadar çabuk değiştirebiliriz.\" İstihbarat, her türlü operasyonun ve keşif gezisinin temel taşıdır. Olası senaryoları önceden strateji masası üzerinde canlandırarak, yolculuk veya savaş sırasında oluşacak kayıplar büyük ölçüde azaltılabilir...",
+    "Description": "Büyük Kumandan Varka'nın kendi strateji masasına göre modellenmiş basit ve pratik bir strateji masası.\n\"Biz tereddüt ederken Hiçlik sayısız can alıyor. Ne kadar erken harekete geçersek, onların kaderini o kadar çabuk değiştirebiliriz.\" İstihbarat, her türlü operasyonun ve keşif seferinin temel taşıdır. Olası senaryoları önceden strateji masası üzerinde canlandırarak, yolculuk veya savaş sırasında oluşacak kayıplar büyük ölçüde azaltılabilir...",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
     "Rank": 130300
   },
@@ -55397,6 +55418,1472 @@
     "Description": "Ayı gözeten Adeptusun suretinde yapılmış devasa bir Xiao Feneri. Fener, parlak gün batımı renklerinden oluşan bir arka planın önünde, bulut kümelerinin arasındaki bir uçurumdan atlayan soluk beyaz bir atı tasvir eder. Günümüzde insanlar, Beyaz At Adeptusun dileklerini yerine getirmek için Aydan yeşim bir at arabasıyla ineceğini umarak dileklerini bu fenere yazarlar.",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361345,
+    "Name": "Yuvarlak Kurabiye",
+    "Description": "Çın Çın Krumkake Atölyesinde sıkça bulunan alçak, yuvarlak bir masa. Çoğunlukla tenekeden yapılmış olup sağlam bir yapıya ve hoş, yuvarlak bir kurabiyeyi andıran bir görünüme sahiptir.\nİnsanlar genellikle bu masanın üzerine güzel bir masa örtüsü serip sermemekte kararsız kalır. \"Ama masa örtüsü kullanırsak üzerine dökülen Krumkake kırıntılarını temizlemek çok zahmetli olur!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361346,
+    "Name": "Çın Çın Depolama Evi",
+    "Description": "Çın Çın Krumkake Atölyesinde sıkça bulunan bir depolama masası. Farklı yüksekliklerdeki bir dizi evi andıran, belirgin şekilde tanımlanmış bölmelere sahiptir.\n\"Bu çekicin küçük evi, şu da raptiyelerin küçük evi...\" diyor bu masayla eşyalarını düzenleyen kişi.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361347,
+    "Name": "Donuk Ay Yuvarlak Masası: Yumuşak Mavi Bir Gökyüzü",
+    "Description": "Donuk Ay Yerleşkesi civarında sıkça görülen yuvarlak bir masa. Saplı Meşe Kütüğünden üretilmiş olup üstün sağlamlık ve suya karşı direnç sunar, dolayısıyla çok çeşitli ortamlar için kullanışlıdır.\nDonuk Ayın Çocuklarının zanaatkarları, gece gökyüzünde parlayan aydan ilham alarak bu ay gibi yuvarlak masaya yumuşak gök mavisi bir masa serip ona gece gökyüzünün sükunetini ve sıcaklığını katmıştır.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363414,
+    "Name": "Birinin Notları",
+    "Description": "Donuk Ay Yerleşkesinde üst üste gelişigüzel yığılmış kitaplar. Bunların çoğu özenle ciltlenmiş kitaplar değil, daha ziyade yazarı bilinmeyen el yazması günlüklerdir.\nBu tür kitaplar genellikle sürprizlerle dolu sürükleyici hikayeler içerir. Dağınık el yazısı, kaotik cümle yapısı ve sayfalarda bırakılan izler, yazarın bunu yazarkenki gerçek ruh halini yansıtıyor gibi görünüyor.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363415,
+    "Name": "Donuk Ay Küçük Masası: Taze Meyve Aroması",
+    "Description": "Donuk Ay Yerleşkesi'ndeki kapalı mekanlarda sıkça görülen küçük bir masa. Üzerinde genellikle en taze mevsim meyveleri bulunur.\nMasadaki meyveler sadece yemek için değildir, doğal bir parfüm görevi de görür. Meyvelerin odayı dolduran hafif aroması, odaya anında sıcak ve rahat bir hava katan mükemmel bir denge oluşturur.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363511,
+    "Name": "Mavi Göğe Uzanmış Dallar",
+    "Description": "Asla solmayan mekanik bir çiçek. Ratnikler arasında popüler bir iç mekan bonsai süsüdür.\n\"Onunla ilgilenecek zaman yok... Güneş ışığı yok... Bir kürek dolusu toprak bile kazılamıyor!\"\nOldukça maharetli bir Ratnik bazı hurda malzemelerle uğraşıp bu hoş görünümlü süsü yarattığında diğer Ratniklerin ne kadar sevindiğini hayal etmek zor değil. Bu süsün gökyüzünü andıran mavi rengi, aynı zamanda uyanık saatlerini uzun süredir geceleyin geçirenlerin görmeye hasret kaldığı bir renktir.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 362134,
+    "Name": "Saplı Meşe \"Ay Dinlencesi\" Arkalıklı Sandalye",
+    "Description": "Ana malzemesi Saplı Meşe Kütüğü olan ve genellikle Donuk Ay Yerleşkesi civarında görülen bir sandalye.\nSırtlığı, dolunayı andıran oyma bir boşluğa sahiptir. İç mekana yerleştirildiğinde ve oturağında gök mavisi yumuşak bir minderle kullanıldığında sıcak ve doğal bir his yaratır.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363119,
+    "Name": "Buzboynuz Pırıltısı",
+    "Description": "Donuk Ay Yerleşkesi'nde iç mekanlarda sıkça bulunan ahşap bir lamba. Kendine has görünümü Buzboynuzlu Geyikten ilham almıştır.\nBir taşıma sapı olsa da hatırı sayılır ağırlığı nedeniyle genellikle sabit bir yere konur. Donuk Ay Yerleşkesi'ndeki çoğu kişi, etrafı aydınlatacak kadar parlak olduğu ve küçük dost canlısı hayvanları rahatsız etmediği için bu lambayı gece lambası olarak kullanır.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 363120,
+    "Name": "Kıvrımlı Mantar",
+    "Description": "Işık Muhafızı kamplarında bulunan mantar şeklinde bir lamba.\nTasarımları için mantarlardan ilham alan piyasadaki çoğu lambanın aksine, bu lambanın ışık yayan kısmı mantarın \"şapkası\" değil, kıvrımlı \"sapı\"dır. Daha da sıra dışı bir diğer özelliği ise yaydığı ışıktır: Yarısı güneş ışığı kadar sıcak, diğer yarısı ise ay ışığı kadar soğuktur.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361413,
+    "Name": "Mini Mini Bir Yuva",
+    "Description": "Çın Çın Krumkake Atölyesinde görülebilen küçük bir yatak. Sağlam metal bir bazası, şirin desenli pembe nevresim takımı ve yumuşak bir yastığı vardır. Cömert boyutları ve yüksekliği kullanıcının her pozisyonda mışıl mışıl uyumasına olanak tanıdığı için mükemmel bir deneyim sunar.\nBu yatağı kendi elleriyle üreten gururlu yaratıcısı, \"Bu şimdiye kadar yattığım en iyi yatak!\" dedi.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361414,
+    "Name": "Donuk Ay Taş Yatağı: Ferah ve Serin",
+    "Description": "Donuk Ay Yerleşkesi civarında sıkça görülen bir taş yatak. Yumuşak bir battaniyeyle örtülü olsa da üzerine uzananlar yatağı yine de oldukça sert bulacaktır.\nSıcak günlerde bu yatağa yatanlar, ferahlatıcı serinliğini çok hoş karşılayacaktır. Ancak kışın üzerine yatmadan önce kalın bir şilte sermek iyi olur.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361121,
+    "Name": "İç Mekan Alçak Masası: Eşsiz Önem",
+    "Description": "Işık Muhafızı kamplarında yaygın olarak kullanılan, geniş depolama alanına sahip alçak bir masa.\nRaflı bir masa olarak genellikle sahibinin ilgi alanlarını yansıtır: Çiçek meraklıları masalarını saksı bitkileriyle süsler, kitap severler üzerine kitaplar yığar, yemek tutkunları da onu birbirinden çeşitli lezzetle doldurur. Ratnikler ise yataklarına en yakın mobilya olduğundan genellikle kendileri için en önemli ve her zaman yanlarında taşıdıkları tek eşyayı, yani fenerlerini buraya koyarlar.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361122,
+    "Name": "İç Mekan Kitaplığı: Okuma Keyfi",
+    "Description": "Farklı boyutlardaki kitapların kolayca yerleştirilebileceği eşsiz tasarımlı bir kitaplık. Genellikle Işık Muhafızı kamplarında bulunur.\nRatnikler için bilgi değerli bir hazinedir, zira şans eseri edinilen ufacık bir bilgi bile kritik bir anda hayat kurtarabilir. Dolayısıyla çoğu Ratnik, savaşlar arasında dinlenirken ne zaman boş vakitleri olsa yeni bilgiler edinmek için kitaplığa akın eder.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361123,
+    "Name": "İç Mekan Tezgahı: Misafirleri Karşılama",
+    "Description": "Tamamen sac metalden yapılmış, Işık Muhafızı kamplarında sıkça kullanılan sağlam ve dayanıklı bir tezgah. Genellikle görevli bir subay, tanınmayan ziyaretçilerle ilgilenmek için tezgahın başında durur.\nBu tezgahın oldukça kaba yontulmuş, hatta ilkel bir görünümü vardır fakat bu Ratniklerin kasıtlı bir tercihidir. Genellikle tehlikeli bölgelere dikkatlice düşünmeden giren \"davetsiz misafirleri\" caydırmada oldukça işe yarar.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361124,
+    "Name": "Kule Dolap",
+    "Description": "Geniş bir tabana sahip olan ve zarif bir şekilde yukarıya doğru daralan, kuleye benzeyen çok katlı bir dolap. Çın Çın Krumkake Atölyesinde bulunabilir. Eşsiz tasarımı yalnızca mükemmel depolama kapasitesi sağlamakla kalmaz, aynı zamanda dengeli bir ağırlık merkezi oluşturarak dolabın önemli dış kuvvetlere maruz kaldığında bile devrilme olasılığını azaltır. \"Her 'katın' farklı sakinleri var. Büyükler altta, küçükler ise üstte yaşar. Tıpkı bir kule gibi!\" Bu tasarım konsepti, dolabın kendine özgü görünümü için taslak görevi görmüştür.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 361125,
+    "Name": "Otel Gardırobu: Fazladan Yer",
+    "Description": "Sancak Gemisi'nin her yerinde bulunabilen, devasa kapasiteli ve zarif renk şemasına sahip bir gardırop.\nBu gardırobun kapasitesi eskiden bugünkünün yarısı kadardı. Ancak daha sonra, Sancak Gemisi'nin uzun süreli misafirlerinin her türlü hava koşuluna uygun kıyafetlere ihtiyaç duyması nedeniyle toplu misafir geri bildirimlerine yanıt olarak genişletildi. Şu anda çoğu gardıroptan daha büyük bir kapasiteye sahip olsa da ne zaman tekrar genişletileceğini kim bilebilir?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 362322,
+    "Name": "Donuk Ay Halısı: Duru Renk",
+    "Description": "Donuk Ay Yerleşkesi civarında görülebilen, ağırlıklı olarak mavi tonlara sahip ve çarpıcı turuncu-kırmızı renkli detaylarla vurgulanmış bir halı. Genel tasarımının simetrisi sadece görsel olarak göz alıcı olmakla kalmaz, aynı zamanda bir düzen ve iç huzur hissi de verir.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 362323,
+    "Name": "Pofuduk Küçük Halı",
+    "Description": "Çın Çın Krumkake Atölyesinde görülebilen, sıcak renklerde, sevimli ve rahat bir desene sahip dairesel bir halı.\nYumuşak ve ince malzemeden dokunan halı pofuduk bir his verir. Hatta ona dokunduğunda yavru bir kedi seviyormuş gibi hissedebilirsin...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 364227,
+    "Name": "Demir Gibi Kararlı",
+    "Description": "Genellikle Işık Muhafızı kamplarında görülen, çapraz kılıçlar ve bir kalkandan oluşan duvara monte bir dekorasyon. Ratniklerin düşmanı kovma ve ailelerini koruma kararlılığını simgeler.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 364228,
+    "Name": "Işık Muhafızları Sancağı",
+    "Description": "Işık Muhafızı kamplarında sıkça görülen ve üzerine Işık Muhafızlarının deniz feneri simgesinin işlendiği bir sancak. Ratniklerin gece boyunca asla yılmayan ve sarsılmayan deniz fenerinde nöbet tutma iradesini simgeler.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 364229,
+    "Name": "Han Duvar Lambası: Süzülen Koridor Işığı",
+    "Description": "Sancak Gemisi'nin her yerinde bulunan parlak, duvara monte bir lamba. Genellikle aydınlatma amacıyla koridorlara asılır. Bu tür lambalar bembeyaz iplerle asılı olduğundan uzaktan bakıldığında koridorda havada süzülüyormuş gibi bir izlenim verebilir. Bu tasarım, lambayı çevredeki titreşimlere karşı hassas hale getirir ve hafifçe sallanmasına neden olabilir. Deneyimli barmenler, sadece ışığın titreşimini gözlemleyerek handa bir olay çıkıp çıkmayacağını anlayabilir.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371022,
+    "Name": "Yardımcı Üs Binası: Çok Amaçlı Sera",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan, kalın duvarlar ve özel egzoz borularıyla inşa edilmiş bir yardımcı bina. İç mekan sıcaklığını sabit tutan harici bir kazana bağlıdır. Bu tür binalar; geçici misafir odası, sabit sıcaklıktaki bir banyo veya özel ısıtmalı bir atölye olarak kullanılmak için idealdir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371023,
+    "Name": "Yardımcı Üs Binası: Gizli Alan",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan, ağzı kocaman açık dev bir balık şeklindeki yardımcı bina. Kalın çatısı ve duvarları, iç mekana mükemmel ses ve ışık yalıtımı etkisi sağlayan güvenilir bir bariyer oluşturur. Bu tür bir tasarım, özellikle ışık ve ses yalıtımı gerektiren bir laboratuvar veya değerli eşyaların muhafazası için bir kasa olarak kullanılmaya çok uygundur.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371024,
+    "Name": "Yardımcı Üs Binası: Su Kulesi",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan, heybetli yüksekliği ve geniş kapasitesiyle öne çıkan yardımcı bir yapı. Sıvıların depolanması ve dağıtılması için kullanılabilir; bazen gözetleme kulesi olarak da hizmet verebilir. Yüksekliği sayesinde harici bir güç kullanmadan üssün su kaynağına doğal olarak basınç uygulayabilir. Sıcak mevsimlerde bu yapı, üssü serin ve konforlu tutmak için su sisi de püskürtebilir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371025,
+    "Name": "Üs Rüzgar Çarkı: Yardımcı Güç",
+    "Description": "Takatukamatik Yel Çarkı Üssünün içindeki rüzgar çarkının her türlü hava koşulunda sorunsuz çalışmasını sağlayan yardımcı türbinleri vardır. Şiddetli rüzgarlarda bile rüzgar çarkı sorunsuz bir şekilde çalışarak avluya huzur getirir. Hava bunaltıcı ve durgunken rüzgar çarkının hızlı dönüşü, canlandırıcı ve hafif bir esinti yaratır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371026,
+    "Name": "Üs Kapısı: Erişim Mantığı",
+    "Description": "Takatukamatik Yel Çarkı Üssünde kullanılan bu kapı; göz alıcı ışıklı tabelalarla süslenmiş, özel, dairesel, metal bir kapı çerçevesine sahiptir.\nDairesel kapı çerçevesi tasarımının avantajı, çerçevenin herhangi bir noktasının merkeze eşit uzaklıkta olmasıdır. Bu da düzensiz şekilli parçaların taşınmasını kolaylaştırır. Üs ayrıca buraya ışıklı tabelalar yerleştirerek kapının geceleri kolayca fark edilmesini sağlamış, böylece hem personelin hem de malzemelerin rahatça giriş çıkış yapabilmesine olanak tanımıştır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371027,
+    "Name": "Üs Platformu: Sağlam Temel",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan bu metal platform, Nod-Krai'daki bazı bina temellerinde bulunan klasik bir yapısal tasarıma sahiptir. Sade görünümü, etkileyici yük taşıma kapasitesini gizler. Bunun gibi bir platform, yalnızca günlük kullanımda çeşitli ağırlıklardaki nesneleri desteklemekle kalmaz, aynı zamanda yumuşak zeminde büyük mühendislik mekanizmalarının çalışması için sağlam bir temel görevi de görür. Takatukamatik Yel Çarkı Üssünün bugünkü hareketliliği ve refahının bu sağlam temel üzerine inşa edildiğini söylemek abartı olmaz.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371028,
+    "Name": "Üs Duvarı: Engel Hattı",
+    "Description": "Takatukamatik Yel Çarkı Üssünü çevreleyen, sağlam metal panellerden yapılmış alçak bir duvar. Tasarımı, Nod-Krai'ın Vahşi Ava karşı verdiği zorlu savaşlardan ilham almıştır. Performans, maliyet verimliliği ve kurulum kolaylığı arasında bir denge kuran bu duvar, atıcılar için güvenilir ve geniş siper sağlar.\nGünümüzde Takatukamatik Yel Çarkı Üssünde bu tip alçak duvarlar, üs genelinde net bir görüş hattını korurken belirgin alanlar yaratacak bir ayırıcı olarak yeniden tasarlanmıştır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 371029,
+    "Name": "Üs Sütunu: Evrensel İşaret Feneri",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan metal bir sütun. Sağlam ve dik yapısı, tek başına bir unsur olarak kullanıldığında güçlü ve teknolojik bir hava katar. Aynı zamanda yan tarafında bir bayrak çekme mekanizmasına ve çeşitli ekipmanlarla uyumlu bir üst kısma sahip olduğu için oldukça pratiktir. Bu nedenle \"Evrensel İşaret Feneri\" adını almıştır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 373940,
+    "Name": "Nazik Bir Sarılma",
+    "Description": "Nod-Krai'daki Hiisi Adası çevresinde sıkça görülen gümüş-beyaz bir taş heykel. Bu heykel, yaklaşan herkese sarılacakmış gibi sıcak ve hoş bir his uyandırır.\n\"Ey kayıp çocuk, Uzak Kuzeyin torunları adına, ışığın lütfu için dua ediyorum. Donuk Ayın merhameti soğuk gecenin vahşi rüzgarlarını dindirsin ve donmuş toprakta mahsur kalan genç kuşlara sıcaklık getirsin.\"\nBelki de bu rahatlatıcı sembole ilham veren, zanaatkarın hastalıkları uzak tutma ve herkesi acıdan kurtarma dileğiydi.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 374129,
+    "Name": "Kasaba Korkuluğu: Kullanışlı Bank",
+    "Description": "Kasabalarda sıkça görülen alçak bir taş korkuluk. Düz ve sağlam bir tasarıma ve geçici süreliğine bank olarak bile kullanılabilecek oldukça geniş bir tırabzana sahiptir. Ancak dikkatli ol, tırabzanın üzerinde yürümeye çalışma, bu çok tehlikeli olabilir...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 374130,
+    "Name": "Kasaba Korkuluğu: Mavi, Mavi, Masmavi",
+    "Description": "Kasabalarda sıkça görülen alçak ahşap bir korkuluk. Eşsiz tasarımı, mavi okyanusun dalgalanan sularını andırır.\nBu korkuluk hareketi engellemek adına pek iş görmese de kendine özgü ve çekici görünümü sayesinde farklı alanları birbirinden ayırmak için popüler bir seçimdir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "\"Anekdot Günlükleri\" tamamlanarak elde edilir"
+    ],
+    "Id": 374822,
+    "Name": "Dingildek Balık Saksısı",
+    "Description": "Aino tarafından üretilen ve elle yazılmış bir kullanım kılavuzuyla gelen mekanik bir balık. Yazı biraz titrek olsa da aşağıdaki uyarılar okunabiliyor:\n1. Sulamaya ihtiyacı yok!\n2. Krumkake ile beslemeyin!\n3. Ona iyi bakın!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Savaş Bileti: Aydınlanma Korosundan satın alınır."
+    ],
+    "Id": 374823,
+    "Name": "Dev Kıvılcımlar ve Patlama Heykeli",
+    "Description": "Mondstadt'taki ünlü \"Kıvılcım Şövalyesi\"nden esinlenilerek yapılmış bir heykel. Patlayan alevlerin ortasında durarak her şeyi küle çeviren heybetli figürünü yansıtıyor gibi görünüyor.\nMondstadt'ın en güçlüsü kim? Bazıları meşhur Jean der, bazıları ise şu anda bir keşif seferinde olan Büyük Kumandan Varka'yı söyler. Ancak bazılarına göre en kudretlileri, en güçlü \"hazineyi\" kullanan gizemli, kırmızı giysili kızdır...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372521,
+    "Name": "Ay Işığının Salınışı",
+    "Description": "Gümüş Ay Salonu'nun etrafında sıkça görülen gümüşi beyaz bir bitki.\nBu bitkinin ince, kavisli bir gövdesi ve ay şeklinde dalları vardır. Tıpkı rüzgarda parıldayan ay ışığı gibi, gece esintisinde her zaman nazikçe salınır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372522,
+    "Name": "Işıltılı Salınış",
+    "Description": "Soluk bir ışıltı yayan bir bitki kümesi. Bu bitkiler inanılmaz derecede dayanıklı ve dirençlidir. Çok az ışık veya suyla bile özgürce ve sağlıklı bir şekilde büyüyebilirler.\n\"Işıltıyla parlayıp bir o yana bir bu yana salınırım. Ben neyim?\"\nÇocuklar, uzaklardan gelen bir yabancıyla tanışıp onunla hoş bir bilgi yarışması yapacakları günü bekleyerek bu basit bilmeceyi buldular.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372523,
+    "Name": "Pofuduk Tüy Yumağı",
+    "Description": "Ponpon gibi pofuduk, mor renkli bodur bir çalı. Estetik özellikleri ve dayanıklılığı, onu mükemmel bir süs bitkisi yapar.\nBu bitkinin dallarını budamak kolaydır. Bu yüzden usta bir bahçıvanın ellerinde canlı bir yavru köpek, sevimli bir yavru kedi veya zıpır bir kuş gibi çeşitli şekillerde görülebilir...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372524,
+    "Name": "Ödül Avcısı",
+    "Description": "Ponpon gibi yumuşak yeşil, bodur bir çalı. Çeşitli ortamlara uyum sağlama yeteneği, en zorlu koşullarda bile hayatta kalmasını sağlar.\nSöylenene göre bu bitkiler arasında, çevrelerinden etkilenerek dallarının ve yapraklarının renginin zamanla değişme ihtimali 100.000'de birdir. Tıpkı hayatta kalma yöntemlerini değişen duruma göre uyarlayan bir canavar avcısı gibi.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372359,
+    "Name": "Rüzgarüstü Mor Ağaç",
+    "Description": "Nod-Krai'ın vahşi doğasında sıkça bulunan bir ağaç. İnce, eğimli bir gövdesi ve seyrek yaprakları vardır.\nBu ağaç, rüzgar yönünde büyüyerek çevresine uyum sağlar. Bu sayede en şiddetli fırtınalarda bile kırılmadan sağlam bir şekilde ayakta kalabilir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372360,
+    "Name": "Yeşil Korunun Fısıltıları",
+    "Description": "Genellikle Gümüş Ay Salonu yakınlarında bulunan bir ağaç. Diğer ağaçlardan kolayca ayırt edilebilen eşsiz bir görünüme sahiptir.\n\"Rüzgar esmeye başladığında tanrıları onurlandırmak adına gümüş kupadaki kutsanmış karışımla Yeşil Armayı mesh et.\"\nİnsanların fısıldadığı dileklerin duyulup duyulmadığı bilinmese de Kuuvahki ile beslenen Yeşil Arma şimdiden bolca yaşam enerjisiyle serpiliyor...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372361,
+    "Name": "Ay Işığı Limon Sarısı Ağaç",
+    "Description": "Nod-Krai'daki Hiisi Adası çevresinde sıkça görülen bir ağaç. İnce, kavisli gövdesi ve altın sarısı tepesi ile tanınır.\nSöylentiye göre Donuk Ayın Çocukları bu ağaca özellikle düşkündür, çünkü yapraklarının rengi ay ışığının altın parıltısını andırır. Bu nedenle, tanrılarına olan adanmışlıklarının bir ifadesi olarak, Işıkla Yıkanmış Platforma giden yolun her iki tarafına da bu ağaçlardan dikmişlerdir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372362,
+    "Name": "Sürgünfiliz Ağacı",
+    "Description": "Nod-Krai'ın vahşi doğasında sıkça bulunan bir ağaç. Nispeten kalın bir gövdeye ve taze yeşil bir tepeye sahiptir.\nBu ağacın ve yakın akrabalarının son derece dayanıklı olduğu, besinleri emmek için toprağın derinliklerine hızla uzanan güçlü kök sistemlerine sahip olduğu söylenir. Adı, bu ağacın en küçük sürgününün bile toprağa dikildiğinde göz açıp kapayıncaya kadar filizlenip hayatta kalabilmesinden gelir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372236,
+    "Name": "Hilal Dalga",
+    "Description": "Gümüş Ay Salonu'nda sıkça görülen bir kaya türü. Gelgit dalgalarını andıran eşsiz bir görünüme sahiptir.\n\"Ebedi Ayın yörüngesi, metcezirin yükselişini ve alçalışını belirler.\" İnsan, yer çekimiyle şekillenen bu gelgit kayalarına Ay Hanımı'nın hangi düşüncelerinin kazındığını merak etmeden duramıyor...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372237,
+    "Name": "Hazine Muhafızları",
+    "Description": "Nod-Krai'ın yabanında sıkça görülen bir kaya türü. Bu kayalar o kadar ağırdır ki, keskin bir alete sahip güçlü bir adam bile onları yerinden oynatmakta zorlanır. Bu yüzden ev inşaatı veya yol yapımı sırasında genellikle zahmetli engeller olarak görülürler. Yine de daha büyük yaratıklar tarafından bile yerinden oynatılamayan bu kayalar, kazmada usta olan küçük yaratıklar için şüphesiz en iyi \"Hazine Muhafızları\"dır.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı: Dekorasyonlardan satın alınır."
+    ],
+    "Id": 372238,
+    "Name": "Boğumtaşı",
+    "Description": "Nod-Krai'ın yabanında yaygın olarak bulunan, sert ve pürüzsüz bir dış yüzeye sahip bir dağ kayası. Küçük boyutu nedeniyle genellikle sık bitki örtüsünün altında gizli kalır. Bundan ötürü deneyimli maceracılar, acemileri sık sık şöyle uyarır: \"Adımına dikkat et! Bunlardan birine takılıp düşmek bir Kör Boynuzlu Gergedanın toslamasından daha çok acıtır.\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363387,
+    "Name": "Kale Kapısı: Güvenilir Dost",
+    "Description": "Etkileyici bir görünüşe sahip, tekrarlanan canavar saldırılarına dayanabilen sağlam bir metal kapı.\nMavi Yıldırım'a göre kapının görkemli görünümü, tasarımcısı olan dahi mucidin gelincik yoldaşı \"Filizcik\"ten ilham almış. Havaya kaldırdığı iki başparmağı ve özgüven dolu ifadesi adeta \"Sıkıntı yok, her şeyi bana bırak!\" der gibi.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363388,
+    "Name": "Demir Kurt",
+    "Description": "Ruhunda cesaret ve özgürlük yatan bir içecek. Bu, Fahri Şövalyenin Kokteyl Kulübesi işletilirken, yaratıcı ilham kaynağı olarak \"Dikenli Göl\" kullanılarak Varka için hazırlanmış bir şaheserdir.\nSayısız kaliteli içki tatmış olan Büyük Kumandan, senden tüm hünerlerini sergilemeni ve yaratıcılığını özgür bırakmanı istiyor. Bu yüzden sen de sırf ona özel, alışılmadık bir \"taarruz\" başlatıyorsun.\nNanenin serinletici ferahlığından ve bitkisel notalarından gelen ilk darbe damağa vuruyor. Ardından özenle korunan katmanlar, özündeki Ateş Suyunun ham gücünü maskelemek için devreye giriyor ve son darbeyi indiriyor. Son olarak Smetana arkadan gelerek bitişi hassasiyetle sabitliyor ve geride hiçbir eksiklik bırakmıyor.\nBüyük Kumandan ve Mondstadt şerefine bu içeceğe \"Demir Kurt\" adını verdin. Büyük Kumandan bu olağanüstü ve çok katmanlı içkiden o kadar memnun kaldı ki bitmek bilmeyen bir keyifle bütün bardağı kafaya dikti.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363389,
+    "Name": "Dodoko'yla Düet",
+    "Description": "Tutkunun tatlı ve mayhoş lezzetleriyle dolu özel bir içecek. Fahri Şövalyenin Kokteyl Kulübesi işletilirken Klee için \"Havadar Havalar\"dan ilham alınarak hazırlanmış bir başyapıt.\nOrijinal \"Havadar Havalar\" mor renkteydi ama yeterince neşeli değildi. O sıcak mutluluk hissini yakalamak için biraz güneş ışığı ve birkaç pofuduk bulut ekleyelim!\nTatlı olması şart ama sağlıklı kalmak da önemli. Bu yüzden meyve suyu, tatlılığını Bulle Meyvelerinden alacak şekilde Kumandan Jean'in onayıyla özenle seçildi.\nVe en önemlisi de Dodoko Şekerlemesi! Lezzetli büyüsü tam \"bulutların\" ortasına yerleştirilmeli!\nKlee şöyle dedi: \"Hava güzel, moraller yüksek, Dodoko şarkı söyleyecek, Klee de eşlik edecek!\" İşte bu nedenle içeceğin adı \"Dodoko'yla Düet\" oldu.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363390,
+    "Name": "Dalgalı Kılıç Şarkısı",
+    "Description": "Buz gibi serinliği sert bir içkinin tatmin edici vuruşuyla dengeleyen özel bir içecek. Fahri Şövalyenin Kokteyl Kulübesi işletilirken \"Yıldız Işıltısı\"ndan ilham alınarak Eula için özel üretilmiş bir şaheserdir.\nEula'nın çift elli bir kılıcın dans edişini andıran kılıç ustalığı, bir çığın gücüyle saldırır ancak temiz ve zarif bir şekilde sonlanır. İçki tercihi de bir o kadar cüretkardır.\nOnun tarzına uyması için bu içecek, buz kadar saf Ateş Suyu, hatıra niteliğindeki Romaritime Çiçeği Suyu ve enerji depolayıp yorgunluğu gidermek için biraz kakao içerir. Bu sayede bardakta gerçek bir lezzet dansı yaratır.\nBu içecek Dalgalar Şövalyesi'nin kılıç ustalığının şerefine özel hazırlandığı için içeceğe \"Dalgalı Kılıç Şarkısı\" adını koydun. Eula'nın bu adı onayladığı, sonrasında içtiği üç bardaktan anlaşılıyor...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363391,
+    "Name": "Uyuyan Gül",
+    "Description": "Rahatlatıcı bir havası olan özel bir içecek. Fahri Şövalyenin Kokteyl Kulübesi işletilirken \"Kar Buseli Şafak\"tan ilham alınarak Lisa için hazırlanmış bir şaheser.\nUzun bir günün ardından kütüphanecinin, uykusuz kalma riskine girmeden enerji toplayabilmesi gerekiyor. Bu içeceği hazırlarken uyarıcı malzemelerden kaçınıp karamelin tatlılığı ve hafif bir mayhoşluk arasında hassas bir denge kurdun.\nAmacın \"huzurlu, dinlendirici bir uyku\" sağlayabilmekti, bu nedenle bu içeceğe \"Uyuyan Gül\" adını önerdin ve Lisa'nın onayını aldın.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363392,
+    "Name": "Aylak Yıldırım",
+    "Description": "Zarif karakterini korurken rahatlık ve gevşeme hissi sunan özel bir içecek. Fahri Şövalyenin Kokteyl Kulübesi işletilirken \"Karamel Alevi\"nden ilham alınarak Clorinde için hazırlanmış bir şaheser.\nYıldırım hızındaki Düello Şampiyonu, Masa Oyunu Topluluğundan edindiği izlenimlerle Mondstadt'ı ziyaret ettikten sonra özellikle metalik tat notalarına karşı hassasiyet kazandı ve artık hafif tuzlu aromaları tercih ediyor. Günlük seçimlerinde zengin tatları dengelemek için hafif ekşi içecekleri de sever. Çoğu barmen için bu iki talebi dengelemek aşırı dikkat gerektirir. Fakat Meleklerin Payı ve Sancak Gemisi'nde ustalığını geliştirdikten sonra, bardaktaki her bir notayı hassasiyetle kontrol edebiliyorsun.\nClorinde'in Mondstadt ziyaretinde rahat bir zaman geçirmesine yardımcı olması için bu içeceğe \"Aylak Yıldırım\" adını verdin. O zamandan beri bu içecek Clorinde'in şehre dair kilit anılarından biri haline geldi.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Süreli Etkinlikten elde edilir."
+    ],
+    "Id": 363393,
+    "Name": "Rüzgarla Gelen Buket",
+    "Description": "Zarif aromasıyla sessiz bir zarafet yayan özel bir içecek. Fahri Şövalyenin Kokteyl Kulübesi işletilirken \"Lumidouce Alacakaranlığı\"ndan ilham alınarak Emilie için hazırlanmış bir şaheser.\nFontaineli parfümcü sana bir keresinde aşırı tatlılığın uyku getirdiğini ve kendisinin sadece hafif bir sarhoşluktan hoşlandığını söylemişti. Bir misafiri barda bayıltmak, bir barmenin asıl amacı değildir tabii...\nYumuşak rüzgarlı ve açık havalı günlerde keskinleşen duyular, mükemmel uyuma sahip bir içeceğin tadını daha da artırabilir.\nKoku sanatından ilham alarak bu zarif ve şık şaheseri geliştirdin. Emilie ise parfümcülüğünü konuşturarak adını \"Rüzgarla Gelen Buket\" koydu...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 360107,
+    "Name": "Üssün Soğutma Sırrı",
+    "Description": "Nod-Krai'da yaygın olarak kullanılan geri dönüştürülmüş metal malzemelerden yapılmış, Takatukamatik Yel Çarkı Üssünde yer alan standart bir iç duvar. Soğuk, sert bir parlaklığa ve mükemmel ısı iletkenliğine sahiptir. Bu tür bir duvarın, yakıcı güneş altında bile binaların rahatça serin kalmasını sağladığı söylenir.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 360307,
+    "Name": "Üs Tavan Paneli",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan bu standart tavan, tek biçim kesilmiş metal plakalardan yapılmıştır. Kurulumu ve temizliği kolaydır, mükemmel işlevsellik ve güvenlik sunar. Kuuvahki mekanizmalarının dış kabuğuyla aynı malzemeden yapıldığı için kuvvetli ve nispeten hafiftir, bu da çeşitli güvenlik tehlikelerinin azaltılmasına yardımcı olur.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 360207,
+    "Name": "Alaşım Üs Zemini",
+    "Description": "Takatukamatik Yel Çarkı Üssünde kullanılan standart zemin karoları. Derinlik hissi veren, görsel olarak çekici bir zemin oluşturmak için bir araya getirilmiş çeşitli şekillerdeki metal plakalardan oluşur. Eşsiz ve canlı bir iç mekan görünümü istiyorsan benekli ve kademeli bir tasarım oluşturmak üzere bu karoları kullan. Bu yenilikçi tasarım, kurulum ve bakım işlemlerinin zorluğunu ve maliyetini artırsa da geri dönüştürülmüş metal malzemelerin kullanılmasıyla bu dezavantaj etkin bir şekilde dengelenir.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Çaydanlık Dükkanı Dekorasyon Taslağından öğrenilebilir."
+    ],
+    "Id": 360507,
+    "Name": "Üssün Sakin Huzuru",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan, birden fazla lambanın takılı olduğu metal bir asma tertibatından oluşan standart bir avize. Basit ve sağlam bir tarza sahiptir. Gece olup ışıklar yandığında bu lambaların yumuşak parıltısı, mekanı sıcak ve huzurlu bir sığınağa dönüştürerek tüm yorgunluğu ve endişeleri ortadan kaldırır.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "Üs Kasa Kapısı",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan standart bir kapı. Birden fazla metal katmanın birbirine kaynaklanmasıyla üretilmiştir. Kasa kapısından esinlenen tasarımı, estetik görünümü pratik bir yıkım önleme işleviyle birleştirir. Böyle bir kapı; matkap, levye ve çekiç gibi aletlerin verdiği hasara karşı etkili bir şekilde direnebilir ve bu da istenmeyen tüm izinsiz girişlere karşı koruma sağlama amacını yansıtır. Öte yandan en büyük tehdidin onu tırmalama tahtası olarak kullanan ve ara sıra ortaya çıkan küçük bir hayvan olduğu Çaydanlık gibi bir yere göre bu kapı biraz aşırı kaçabilir.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "Üsteki Net Yankılar",
+    "Description": "Takatukamatik Yel Çarkı Üssünde yer alan; kuvvetiyle, sağlamlığıyla ve nispeten hafifliğiyle bilinen, L şeklinde standart bir metal merdiven. Bu metal merdivenlerdeki her adım keskin bir çınlama yayar, bu ses binanın duvarlarından ve kirişlerinden yansıyarak ritmik bir vuruş oluşturur.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "Takatukamatik Yel Çarkı Üssü",
+    "Description": "Uçup Giden Gölge Küresi tarafından Nod-Krai'ın doğa manzaralarından esinlenilerek Dinginçay Çaydanlığının içinde oluşturulmuş devasa entegre bir tesis. Güvenilirliği kanıtlanmış bir metal iskelet yapısı ve kapsamlı bir ulaşım ağı ile inşa edilen bu tesis, Çın Çın Krumkake Atölyesinin tasarım felsefesini mükemmel biçimde yansıtan cesur ve asi bir enerji yayar. Ancak Çın Çın Krumkake Atölyesinin aksine, burada üretim yapılmadığı için üs çok daha az aydınlatma kullanır. Yine de çatıların üzerindeki rüzgar çarkları atölyenin hareketli enerjisini çağrıştırır ve onları izlemek insana heyecan verir.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

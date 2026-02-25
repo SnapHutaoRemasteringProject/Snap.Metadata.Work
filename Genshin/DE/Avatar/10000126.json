@@ -788,7 +788,7 @@
         },
         "Id": 1262101,
         "Name": "Ankunft des selenischen Adepten",
-        "Description": "#Verleiht Zibai beim Anwenden von <color=#FFD780FF>{LINK#S11262}Himmel und Erde in Gestalt{/LINK}</color> durch Zibai oder beim Auslösen von „Harmonie der Mondkäfige“ durch Truppenmitglieder in der Nähe 4{NON_BREAK_SPACE}s lang den Effekt <color=#FFD780FF>Selenische Ankunft</color>: Erhöht den durch die zweite Angriffsphase von {LINK#N11260001}<color=#FFD780FF>Galopp des Geisterrosses</color>{/LINK} verursachten Schaden um 60{NON_BREAK_SPACE}% von Zibais VTD.",
+        "Description": "#Verleiht Zibai beim Anwenden der Elementarfähigkeit <color=#FFD780FF>{LINK#S11262}Himmel und Erde in Gestalt{/LINK}</color> durch Zibai oder beim Auslösen von „Harmonie der Mondkäfige“ durch Truppenmitglieder in der Nähe 4{NON_BREAK_SPACE}s lang den Effekt <color=#FFD780FF>Selenische Ankunft</color>: Erhöht den durch die zweite Angriffsphase von {LINK#N11260001}<color=#FFD780FF>Galopp des Geisterrosses</color>{/LINK} verursachten Schaden um 60{NON_BREAK_SPACE}% von Zibais VTD.",
         "Icon": "UI_Talent_S_Zibai_05"
       },
       {
@@ -856,7 +856,7 @@
       {
         "Id": 1261,
         "Name": "Mit großer Kraft auftauchen, doch in völliger Stille eintreten",
-        "Description": "#Sammelt nach dem Anwenden der Elementarfähigkeit <color=#FFD780FF>{LINK#S11262}Himmel und Erde in Gestalt{/LINK}</color> 100 Punkte {LINK#N11260001}<color=#FFD780FF>Abschnittswechsel-Glanz</color>{/LINK} für Zibai an. Erhöht zudem im Modus <color=#FFD780FF>Wechsel des Mondabschnitts</color> die max. Anzahl der Nutzungen von <color=#FFD780FF>Galopp des Geisterrosses</color> auf 5.\nErhöht des Weiteren nach jedem Wechseln in den Modus Wechsel des Mondabschnitts bei der ersten Anwendung von Galopp des Geisterrosses den Mond-Kristallisation-Schaden, der durch die 2. Angriffsphase verursacht wird, um 220{NON_BREAK_SPACE}%.",
+        "Description": "#Zibai sammelt nach dem Anwenden der Elementarfähigkeit <color=#FFD780FF>{LINK#S11262}Himmel und Erde in Gestalt{/LINK}</color> sofort 100 Punkte {LINK#N11260001}<color=#FFD780FF>Abschnittswechsel-Glanz</color>{/LINK} an. Erhöht zudem im Modus <color=#FFD780FF>Wechsel des Mondabschnitts</color> die max. Anzahl der Einsatzmöglichkeit von <color=#FFD780FF>Galopp des Geisterrosses</color> auf 5.\nErhöht des Weiteren nach jedem Wechseln in den Modus Wechsel des Mondabschnitts bei der ersten Anwendung von Galopp des Geisterrosses den Mond-Kristallisation-Schaden, der durch die 2. Angriffsphase verursacht wird, um 220{NON_BREAK_SPACE}%.",
         "Icon": "UI_Talent_S_Zibai_01"
       },
       {
@@ -910,7 +910,7 @@
     "VisionOverrideLocked": "Mondrad",
     "VisionOverrideUnlocked": "Mondrad",
     "ConstellationBefore": "Equa Alba",
-    "CvChinese": "昱头",
+    "CvChinese": "Mace",
     "CvJapanese": "福圓美里",
     "CvEnglish": "Laura Welsh",
     "CvKorean": "Chun Song-e",
@@ -926,6 +926,10 @@
     },
     "Fetters": [
       {
+        "Title": "Schön, dich kennenzulernen.",
+        "Context": "Mein Name ist Zibai. Die Sterblichen kannten mich einst als die Adeptin des weißen Pferdes, aber jetzt, da ich in die sterbliche Welt hinabgestiegen bin, kannst du mich einfach Zibai nennen."
+      },
+      {
         "Title": "Gespräch – Der Mond",
         "Context": "Die ganze Welt teilt die Gaben des Himmels, den Regen und die Wolken, die die Erde unter uns schmücken. Der Mond war nie als fremdes Reich gedacht ..."
       },
@@ -936,10 +940,6 @@
       {
         "Title": "Gespräch – Adeptenkunst",
         "Context": "Die Adeptenkünste sind wirklich wundersam, aber wenn man nicht zuerst den Geist kultiviert, bevor man diese Künste erlernt, werden all ihre Taten wie das Spiegelbild des Mondes im Wasser sein – und schon bei der kleinsten Berührung zerbrechen."
-      },
-      {
-        "Title": "Schön, dich kennenzulernen.",
-        "Context": "Mein Name ist Zibai. Die Sterblichen kannten mich einst als die Adeptin des weißen Pferdes, aber jetzt, da ich in die sterbliche Welt hinabgestiegen bin, kannst du mich einfach Zibai nennen."
       },
       {
         "Title": "Wenn es regnet ...",
@@ -1019,7 +1019,7 @@
       },
       {
         "Title": "Über Xianyun ...",
-        "Context": "Ich habe die Fürstin der stehenden Wolken und des stillen Windesr getroffen — oder „Xianyun“, wie sie sich jetzt nennt. Obwohl sie eine Adeptin ist, nutzt sie ihre besonderen Kräfte nur selten. Stattdessen tüftelt sie lieber an ihren mechanischen Geräten. Sie erklärte mir, dass sie Vorrichtungen erschaffen möchte, die auch gewöhnliche Sterbliche leicht benutzen können. Da erinnerte ich mich an einige mechanische Baupläne aus Lang-Gan und malte sie für sie auf. Allerdings sind diese Mechanismen so alt, dass ich nicht sicher bin, ob sie heutzutage noch von Nutzen sein können ..."
+        "Context": "Ich habe die Fürstin der stehenden Wolken und des stillen Windes bereits getroffen — oder „Xianyun“, wie sie sich jetzt nennt. Obwohl sie eine Adeptin ist, nutzt sie ihre besonderen Kräfte nur selten. Stattdessen tüftelt sie lieber an ihren mechanischen Geräten. Sie erklärte mir, dass sie Vorrichtungen erschaffen möchte, die auch gewöhnliche Sterbliche leicht benutzen können. Da erinnerte ich mich an einige mechanische Baupläne aus Lang-Gan und malte sie für sie auf. Allerdings sind diese Mechanismen so alt, dass ich nicht sicher bin, ob sie heutzutage noch von Nutzen sein können ..."
       },
       {
         "Title": "Über Yanfei ...",
@@ -1031,11 +1031,11 @@
       },
       {
         "Title": "Über Yaoyao ...",
-        "Context": "Eine Schülerin der Fürstin des Singens und des Streunens, wenn ich mich nicht irre. Für eine Sterbliche besitzt sie beachtliche Stärke und Tatkraft. Die Fürstin der stehenden Wolken und des stillen Windes hat auch mehrere Schüler angenommen, nicht wahr? Hmm ... Es ist gut, Nachfolger zu haben. Ich frage mich, warum ich nie gehört habe, dass der Fürst der fließenden Wasser und aufgetürmten Berge oder der Fürst des untergehenden Mondes und der aufgehenden Sonne Interesse daran gezeigt haben, Schüler anzunehmen ... Könnte es sein, dass sie keine geeigneten Kandidaten gefunden haben? Oder sind sie vielleicht zu beschäftigt damit, sich zu vergnügen, um über solche Dinge nachzudenken? Hah ... Jeder der Adepten ist auf seine eigene, einzigartige Weise so rätselhaft ..."
+        "Context": "Eine Schülerin der Fürstin des Singens und des Streunens, wenn ich mich nicht irre. Für eine Sterbliche besitzt sie beachtliche Stärke und Tatkraft. Die Fürstin der stehenden Wolken und des stillen Windes hat auch mehrere Schüler angenommen, nicht wahr? Hmm ... Es ist gut, Nachfolger zu haben. Ich frage mich, warum ich nie gehört habe, dass der Fürst der fließenden Wasser und aufgetürmten Berge oder der Fürst des untergehenden Mondes und der aufgehenden Sonne Interesse daran gezeigt haben, Schüler anzunehmen ... Könnte es sein, dass sie keine geeigneten Kandidaten gefunden haben? Oder sind sie vielleicht zu beschäftigt damit, sich zu vergnügen, um über solche Dinge nachzudenken? Hach ... Jeder der Adepten ist auf seine eigene, einzigartige Weise so rätselhaft ..."
       },
       {
         "Title": "Über Lan Yan ...",
-        "Context": "Lan Yan muss sicherlich eine Nachkommin des Windlesers sein, einer der Drei Bestien von Tao Dou. Ich erinnere mich, dass der Windleser eine Zeit lang mit dem Silbergefiederten Jadevogel reiste und dabei eine bezaubernde Geschichte erschuf. Ich bin mir sicher, beide wären entzückt zu wissen, wie weise und fähig ihre späteren Nachkommen geworden sind."
+        "Context": "Lan Yan muss sicherlich eine Nachkommin des Windlesers sein. Ich erinnere mich, dass der Windleser eine Zeit lang mit dem Silbergefiederten Jadevogel reiste und dabei eine bezaubernde Geschichte erschuf. Ich bin mir sicher, beide wären entzückt zu wissen, wie weise und fähig ihre späteren Nachkommen geworden sind."
       },
       {
         "Title": "Über Hu Tao ...",
@@ -1083,7 +1083,7 @@
       },
       {
         "Title": "Geschenk erhalten I",
-        "Context": "Hätte ich solch feine Delikatessen während meiner Verbannung auf dem Mond kosten können, wäre ich vielleicht etwas länger geblieben. Pah, ich scherze nur."
+        "Context": "Hätte ich solch feine Delikatessen während meiner Verbannung auf dem Mond kosten können, wäre ich vielleicht etwas länger geblieben ... Pff, ich scherze nur."
       },
       {
         "Title": "Geschenk erhalten II",
@@ -1095,7 +1095,7 @@
       },
       {
         "Title": "Dein Geburtstag ...",
-        "Context": "Heute ist dein Geburtstag? Dann müssen wir das feiern. Ich erinnere mich, dass es für die Älteren üblich ist, Langlebigkeitsnudeln zu essen ... Hehe, und auch wenn du jung aussiehst, vermute ich, dass du, wenn wir die Jahre seit deiner Geburt zählen würden, tatsächlich älter als die meisten Menschen in Liyue wärst. In diesem Sinne wäre es keine unangemessene Geste, dir eine Schüssel Langlebigkeitsnudeln zuzubereiten ... Hmm? Natürlich weiß ich, wie man sie macht. Auch wenn ich zu den Himmlischen aufgestiegen bin, wurde ich nicht mit einem silbernen Löffel im Mund geboren ... *seufz* Ehrlich gesagt ist der einzige Grund, warum ich heutzutage kaum noch Appetit habe, wahrscheinlich die ganze Zeit, die ich im Himmel verbracht habe, ohne kochen zu können ... Aber ich schweife ab. Essen ist die zweitwichtigste Angelegenheit der Welt, also müssen wir sicherstellen, dass du vor Ende des Tages eine gute Schüssel Langlebigkeitsnudeln genießen kannst."
+        "Context": "Heute ist dein Geburtstag? Dann müssen wir das feiern. Ich erinnere mich, dass es für die Älteren üblich ist, Langlebigkeitsnudeln zu essen ... Hehe, und auch wenn du jung aussiehst, vermute ich, dass du, wenn wir die Jahre seit deiner Geburt zählen würden, tatsächlich älter als die meisten Menschen in Liyue wärst. In diesem Sinne wäre es keine unangemessene Geste, dir eine Schüssel Langlebigkeitsnudeln zuzubereiten ... Hmm? Natürlich weiß ich, wie man sie macht. Auch wenn ich zu den Himmlischen aufgestiegen bin, wurde ich nicht mit einem silbernen Löffel im Mund geboren ... *seufz* Ehrlich gesagt ist der einzige Grund, warum ich heutzutage kaum noch Appetit habe, wahrscheinlich die ganze Zeit, die ich im Himmel verbracht habe, ohne kochen zu können ... Ich schweife ab. Essen ist die zweitwichtigste Angelegenheit der Welt, also müssen wir sicherstellen, dass du vor Ende des Tages eine gute Schüssel Langlebigkeitsnudeln genießen kannst."
       },
       {
         "Title": "Gedanken über den Aufstieg – Beginn",
@@ -1217,7 +1217,7 @@
       },
       {
         "Title": "Figurenhintergrund 1",
-        "Context": "Nur wenige wissen, dass die Legenden von der Adeptin des weißen Pferdes, die in Liyue kursieren, ihren Ursprung in ihrem Tod haben.\nEinst kam sie aus den hohen Himmeln, eine Botschafterin der Vorzeit, die vor Tausenden von Jahren herabgestiegen war, um die Schritte der Sterblichen zu leiten.\nSie wachte über das alte Jadekönigreich, jenes uralte Reich voller Sandkristalle, Perlen und Edelsteine. Sie war es, die den Menschen das Handwerk des Ackerbaus und Webens brachte. In der Folge blühten sie dank reichhaltiger Ernten auf, und ihre Kornspeicher waren bis zum Rand gefüllt.\nDaher verehrten die Menschen dieses alten Königreichs sie als Göttin des Bodens und des Getreides.\nUnter ihrer weisen Führung blühte das Jadekönigreich regelrecht auf. Es wäre nicht übertrieben, es als eine strahlende Perle in der vereinten Zivilisation zu bezeichnen.\nUnd doch war die Welt einem ständigen Wandel unterworfen. Eine unvorhergesehene Katastrophe, von jenseits der Grenzen, stürzte herab und ein vernichtender Krieg entbrannte in den Himmeln.\nDie Nachwirkungen dieser Katastrophe trafen das Jadekönigreich mit voller Wucht. Was folgte, war die feste Entschlossenheit der hohen Himmel, eine Säuberung zu starten.\nDer heilige Wille traf das alte Königreich, gleich einer göttlichen Strafe, in dem Bestreben, dieses befleckte Land von der Erde zu tilgen.\nUm den Menschen, die sie zu schützen geschworen hatte, einen Funken Hoffnung zu geben, widersetzte sich Zibai dem Willen der Himmel.\nInfolgedessen zerbarst ihre Seele in drei Fragmente. Dies sollte auch das letzte Mal gewesen sein, dass sie auf die Wünsche der sterblichen Welt einging.\nUnd doch, ob aus Mitleid oder vielleicht, um einem Verräter eine schreckliche Strafe aufzuerlegen, streckte ein wachsamer Schatten aus den hohen Himmeln seine Hand nach Zibai aus.\nSeit diesem Tag waren Zibais drei zerbrochene Seelen in einem flüchtigen Augenblick gefangen, erstarrt in einer Millionstelsekunde, bevor sie sich auflösten.\nUnd ihr Wesen wandert auf ewig in einem Traum, in dem sowohl das wahre Leben als auch der wahre Tod gleichermaßen unerreichbar sind."
+        "Context": "Nur wenige wissen, dass die Legenden von der Adeptin des weißen Pferdes, die in Liyue kursieren, ihren Ursprung in ihrem Tod haben.\nEinst kam sie aus den hohen Himmeln, eine Botschafterin der Vorzeit, die vor Tausenden von Jahren herabgestiegen war, um die Schritte der Sterblichen zu leiten.\nSie wachte über das alte Königreich Lang-Gan, jenes uralte Reich voller Sandkristalle, Perlen und Edelsteine. Sie war es, die den Menschen das Handwerk des Ackerbaus und Webens brachte. In der Folge blühten sie dank reichhaltiger Ernten auf, und ihre Kornspeicher waren bis zum Rand gefüllt.\nDaher verehrten die Menschen dieses alten Königreichs sie als Göttin des Bodens und des Getreides.\nUnter ihrer weisen Führung blühte das Königreich Lang-Gan regelrecht auf. Es wäre nicht übertrieben, es als eine strahlende Perle in der vereinten Zivilisation zu bezeichnen.\nUnd doch war die Welt einem ständigen Wandel unterworfen. Eine unvorhergesehene Katastrophe, von jenseits der Grenzen, stürzte herab und ein vernichtender Krieg entbrannte in den Himmeln.\nDie Nachwirkungen dieser Katastrophe trafen Lang-Gan mit voller Wucht. Was folgte, war die feste Entschlossenheit der hohen Himmel, eine Säuberung zu starten.\nDer heilige Wille traf das alte Königreich, gleich einer göttlichen Strafe, in dem Bestreben, dieses befleckte Land von der Erde zu tilgen.\nUm den Menschen, die sie zu schützen geschworen hatte, einen Funken Hoffnung zu geben, widersetzte sich Zibai dem Willen der Himmel.\nInfolgedessen zerbarst ihre Seele in drei Fragmente. Dies sollte auch das letzte Mal gewesen sein, dass sie auf die Wünsche der sterblichen Welt einging.\nUnd doch, ob aus Mitleid oder vielleicht, um einem Verräter eine schreckliche Strafe aufzuerlegen, streckte ein wachsamer Schatten aus den hohen Himmeln seine Hand nach Zibai aus.\nSeit diesem Tag waren Zibais drei zerbrochene Seelen in einem flüchtigen Augenblick gefangen, erstarrt in einer Millionstelsekunde, bevor sie sich auflösten.\nUnd ihr Wesen wandert auf ewig in einem Traum, in dem sowohl das wahre Leben als auch der wahre Tod gleichermaßen unerreichbar sind."
       },
       {
         "Title": "Figurenhintergrund 2",
@@ -1225,7 +1225,7 @@
       },
       {
         "Title": "Figurenhintergrund 3",
-        "Context": "Drei ... Fünf ... Sieben ...\nIm Leeren Mond, dort wo die Zeit stillsteht, scheint alles seinen Lauf eingestellt zu haben.\n... Dreiundfünfzig ... Neunundfünfzig ...\nDoch die Zeit bleibt nie wirklich stehen. Sie verlangsamt sich lediglich bis zur Unmerklichkeit. Ein einziger Tag in der Welt der Sterblichen kommt einem hier wie ein Jahrhundert vor.\n... Einhundertfünfzig ... Einhundertsiebenundfünfzig ... Einhundertsiebenundsechzig ...\nIn der Tat! Die Zeit muss langsam vergehen; wie sonst könnte man das Auslöschen der Erinnerungen erklären, die einst in meinem Gedächtnis eingraviert waren?\nFünfhundertsiebenundfünfzig ...\nZiju.\nFünfhundertdreiundsechzig ...\nJadekönigreich.\nFünfhundertneunundsechzig ...\nIhre Stimmen. Ihre Gesichter.\nWas bedeutet all dies? Es ist, als könnte ich es nicht ertragen, sie zu vergessen, egal, was passiert.\nAber was soll das heißen? Was soll das heißen?\n... Eintausendfünfhundertdreiundfünfzig ...\nStammt das helle Licht dort drüben von dem Feuer einer Laterne? Ich glaube, ich habe es schon einige Male gesehen.\nJemand hat mir das schon einmal gesagt, und zwar mehrmals. Das ist die Richtung nach Hause.\nDer Tag wird anbrechen, an dem ich in meine Heimat zurückkehre. Das darf nicht vergessen werden.\n... Eintausendfünfhundertsiebenundsechzig ...\nWas bedeutet „Heimat“?\n... Dreitausendfünfhundertsiebenundfünfzig ...\nWie einsam sie doch sind ... diese Zahlen ... Sie haben nichts außer sich selbst.\n... Dreitausendfünfhundertneunundfünfzig ...\nJa, ich zähle mich selbst dazu.\nSelbst wenn ich meinen Namen vergesse, werde ich zumindest nicht vergessen, dass ich existiere.\nIch werde es nicht vergessen.\nSechzehntausend einhundertsiebenundzwanzig ...\nWas zähle ich da?\nDrei ... Fünf ... Sieben ..."
+        "Context": "Drei ... Fünf ... Sieben ...\nIm Leeren Mond, dort wo die Zeit stillsteht, scheint alles seinen Lauf eingestellt zu haben.\n... Dreiundfünfzig ... Neunundfünfzig ...\nDoch die Zeit bleibt nie wirklich stehen. Sie verlangsamt sich lediglich bis zur Unmerklichkeit. Ein einziger Tag in der Welt der Sterblichen kommt einem hier wie ein Jahrhundert vor.\n... Einhundertfünfzig ... Einhundertsiebenundfünfzig ... Einhundertsiebenundsechzig ...\nIn der Tat! Die Zeit muss langsam vergehen; wie sonst könnte man das Auslöschen der Erinnerungen erklären, die einst in meinem Gedächtnis eingraviert waren?\nFünfhundertsiebenundfünfzig ...\nZiju.\nFünfhundertdreiundsechzig ...\nLang-Gan.\nFünfhundertneunundsechzig ...\nIhre Stimmen. Ihre Gesichter.\nWas bedeutet all dies? Es ist, als könnte ich es nicht ertragen, sie zu vergessen, egal, was passiert.\nAber was soll das heißen? Was soll das heißen?\n... Eintausendfünfhundertdreiundfünfzig ...\nStammt das helle Licht dort drüben von dem Feuer einer Laterne? Ich glaube, ich habe es schon einige Male gesehen.\nJemand hat mir das schon einmal gesagt, und zwar mehrmals. Das ist die Richtung nach Hause.\nDer Tag wird anbrechen, an dem ich in meine Heimat zurückkehre. Das darf nicht vergessen werden.\n... Eintausendfünfhundertsiebenundsechzig ...\nWas bedeutet „Heimat“?\n... Dreitausendfünfhundertsiebenundfünfzig ...\nWie einsam sie doch sind ... diese Zahlen ... Sie haben nichts außer sich selbst.\n... Dreitausendfünfhundertneunundfünfzig ...\nJa, ich zähle mich selbst dazu.\nSelbst wenn ich meinen Namen vergesse, werde ich zumindest nicht vergessen, dass ich existiere.\nIch werde es nicht vergessen.\nSechzehntausend einhundertsiebenundzwanzig ...\nWas zähle ich da?\nDrei ... Fünf ... Sieben ..."
       },
       {
         "Title": "Figurenhintergrund 4",
@@ -1237,7 +1237,7 @@
       },
       {
         "Title": "Eintausend Meilen von Bergen und Flüssen",
-        "Context": "Alles in Liyue ist der Zibai von heute sowohl vertraut als auch neu.\nDaher macht sie sich die Stabilität ihrer Seele zunutze und bereist die mächtigen Gipfel und fließenden Flüsse von Liyue.\nSie ging zum Qingce-Berg und betrachtete die Wasserfälle, die sich über die Klippen ergossen, die nur so dahin rauschten und sich in klare Quellen entluden.\nSie ging zu den Guyun-Türmen und sah den weiten, hoch emporragenden Himmel, die heulenden Winde und die steinernen Speere, die in gefährlicher Erhabenheit in die Höhe ragten, standhaft und fest entschlossen.\nSie ging zum Jademund, wo unter dem alten Jadering Fischerboote auf dem Wasser schwammen und in der Ferne Berggesänge widerhallten.\nSie ging zum Jueyun-Karst und sah, wie sich ätherische Nebel wogten und wälzten, als wären sie ein Reich aus Seen, das inmitten der Wolkenbänke dahintrieb und sich wie ein umgedrehtes Meer ausbreitete.\n...\nAls der Engel, der dem alten Jadekönigreich die Kunst der Seidenmalerei beigebracht hatte, erlernte sie die Fertigkeiten, die seit Jahrtausenden brach lagen.\nJedes Mal, wenn sie auf eine überwältigende Landschaft stieß, stickte sie das majestätische Landschaftsbild, das ihr ins Auge gefallen war, mit ihrer Adeptenkraft auf die Seide.\nMit der Zeit erstreckten sich Berge und Flüsse auf diesem Seidenbild über Tausende von Kilometern, prächtig und strahlend ...\nIn ruhigen Stunden holte Zibai gerne ihr Seidenbild hervor und bewunderte es. Je länger sie es betrachtete, desto mehr strahlte ihr Gesicht vor Freude und Stolz.\nEs heißt, dass der Herr über Geo, der ihr Verhalten beobachtete, ebenfalls großes Interesse an dem Gemälde zeigte. Er bat wiederholt darum, es sich ausleihen zu dürfen, um es zu betrachten, wurde jedoch stets mit der Begründung abgelehnt, es sei noch nicht fertiggestellt.\nWer weiß, wie großartig und prächtig diese herrliche Landschaftsrolle sein wird, wenn sie sie erst einmal fertiggestellt hat?"
+        "Context": "Alles in Liyue ist der Zibai von heute sowohl vertraut als auch neu.\nDaher macht sie sich die Stabilität ihrer Seele zunutze und bereist die mächtigen Gipfel und fließenden Flüsse von Liyue.\nSie ging zum Qingce-Berg und betrachtete die Wasserfälle, die sich über die Klippen ergossen, die nur so dahin rauschten und sich in klare Quellen entluden.\nSie ging zu den Guyun-Türmen und sah den weiten, hoch emporragenden Himmel, die heulenden Winde und die steinernen Speere, die in gefährlicher Erhabenheit in die Höhe ragten, standhaft und fest entschlossen.\nSie ging zum Jademund, wo unter dem alten Jadering Fischerboote auf dem Wasser schwammen und in der Ferne Berggesänge widerhallten.\nSie ging zum Jueyun-Karst und sah, wie sich ätherische Nebel wogten und wälzten, als wären sie ein Reich aus Seen, das inmitten der Wolkenbänke dahintrieb und sich wie ein umgedrehtes Meer ausbreitete.\n...\nAls der Engel, der dem alten Lang-Gan die Kunst der Seidenmalerei beigebracht hatte, erlernte sie die Fertigkeiten, die seit Jahrtausenden brach lagen.\nJedes Mal, wenn sie auf eine überwältigende Landschaft stieß, stickte sie das majestätische Landschaftsbild, das ihr ins Auge gefallen war, mit ihrer Adeptenkraft auf die Seide.\nMit der Zeit erstreckten sich Berge und Flüsse auf diesem Seidenbild über Tausende von Kilometern, prächtig und strahlend ...\nIn ruhigen Stunden holte Zibai gerne ihr Seidenbild hervor und bewunderte es. Je länger sie es betrachtete, desto mehr strahlte ihr Gesicht vor Freude und Stolz.\nEs heißt, dass der Herr über Geo, der ihr Verhalten beobachtete, ebenfalls großes Interesse an dem Gemälde zeigte. Er bat wiederholt darum, es sich ausleihen zu dürfen, um es zu betrachten, wurde jedoch stets mit der Begründung abgelehnt, es sei noch nicht fertiggestellt.\nWer weiß, wie großartig und prächtig diese herrliche Landschaftsrolle sein wird, wenn sie sie erst einmal fertiggestellt hat?"
       },
       {
         "Title": "Mondrad",

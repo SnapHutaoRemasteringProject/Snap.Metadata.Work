@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Chambre confortable pour les invités venus de près et de loin",
+    "Description": "Une chambre entièrement meublée inspirée des chambres d'hôtes du Navire amiral, la plus grande taverne du Village de Nasha. Des améliorations ciblées ont été apportées pour mieux répondre aux besoins de ses occupants.\nLes clients du Navire amiral viennent de divers horizons, chacun ayant sa propre idée de ce que signifie le « confort ». Trouver un équilibre entre toutes ces attentes différentes n'est pas une tâche facile. Finalement, le Navire amiral a trouvé une solution unique : meubler ses chambres avec tous les équipements dont un client pourrait avoir besoin, puis retirer les objets superflus en fonction de leurs retours. La chambre peut sembler un peu encombrée, mais elle propose tout ce dont un client pourrait avoir besoin, lui permettant de trouver le confort à sa manière.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Doux sommeil sous la lune",
+    "Description": "Une chambre simple mais élégante, meublée de pièces soigneusement sélectionnées par les Descendants de givrelune. L'atmosphère générale est celle d'une simplicité raffinée et chaleureuse. On dit qu'un environnement tranquille et naturel aide à mieux se détendre, et cette chambre semble être l'incarnation parfaite de ce principe. Avec une lumière de lampe aussi douce que le clair de lune diffusant sa lueur apaisante et le parfum de fruits frais dans l'air, ceux qui séjournent ici peuvent sentir leur fatigue et leur douleur s'estomper lentement, tandis que la paix et le calme d'un doux repos prennent tranquillement le dessus...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Coordonnées harmonieuses des secrets",
+    "Description": "Un espace de travail unique dont l'agencement s'inspire véritablement du Curatorium des secrets. Il s'agit d'une reproduction fidèle de l'environnement de travail de la patronne Nefer, où tout est bien organisé et dans un ordre parfait.\nL'analyse de renseignements est une tâche fastidieuse et difficile, avec d'innombrables fils d'informations et souvent aucun indice clair par où commencer. Pourtant, dans une pièce où chaque chose est à sa place et où tous les outils nécessaires sont à portée de main, la réflexion devient plus claire, et on travaille naturellement de manière plus efficace...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Meilleure et plus chaleureuse des maisons",
+    "Description": "Une chambre de style nod-kraïen avec un agencement qui évoque une sensation de chaleur et de confort. C'est l'endroit idéal pour se délasser après une journée bien remplie. Tous les meubles de cette chambre, soigneusement sélectionnés par la « cheffe de famille » de la Knieperterie Cling-clang, sont les meilleurs, les plus chaleureux et les plus pratiques du monde entier. Cependant, ce confort exceptionnel présente un inconvénient : ses occupants font parfois la grasse matinée et manquent même des rendez-vous importants, tant la pièce est agréable. Une méthode de réveil ferme mais délicate pourrait s'avérer nécessaire pour garantir que tout le monde se lève à l'heure.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Répit d'avant-bataille",
+    "Description": "Un salon communautaire entièrement équipé, conçu d'après les pièces de Piramida où les ratnikis prennent une pause rapide avant de partir au combat. Les vétérans savent pertinemment que, compte tenu de la longue et éprouvante guerre contre la Chasse sauvage, ils doivent se reposer dès que possible pour maintenir leur efficacité au combat à son maximum. De plus, un salon bien conçu permet également aux ratnikis de mieux se connaître en dehors des combats, développant ainsi la confiance et l'esprit d'équipe indispensables à la réussite sur le champ de bataille. C'est pourquoi les starshynas ont toujours fait en sorte de construire des salons comme celui-ci.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Terres sauvages du grand nord",
+    "Description": "Une zone sauvage regroupant la végétation et les reliefs que l'on trouve communément à Nod-Krai, notamment une reconstitution authentique du paysage unique de l'Île de Hiisi.\nLa région de Nod-Krai bénéficie d'une abondance de kuuvahki, ce qui a donné naissance à des plantes aux couleurs vives, à des créatures aux habitudes singulières et à des reliefs aux formes distinctives. Pour les naturalistes, cette zone recèle d'innombrables trésors de connaissances nouvelles, tandis que pour les touristes ordinaires, elle propose des paysages merveilleux qui invitent à s'arrêter pour les admirer.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Ville frontalière animée",
+    "Description": "Un paysage régional centré sur divers bâtiments distinctifs, avec des boutiques de toutes sortes. C'est une reconstitution parfaite d'un quartier du Village de Nasha.\nSelon la légende, le Village de Nasha se distingue des autres cités par l'absence de véritable administrateur et de structure de planification claire. Cela a conduit à l'apparition d'innombrables passages étroits et d'interstices à peine remarqués entre les bâtiments du village. Pour la plupart des résidents, ces passages ne sont que des conduits pour le bruit, mais il s'agit d'un moyen de propager des secrets et de raccourcis afin faciliter les déplacements pour ceux qui collectent des renseignements.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Prière paisible sous la lune",
+    "Description": "Un décor en plein air inspiré de l'Enclave de givrelune, où divers objets sont disposés selon les coutumes des Descendants de givrelune, et où la végétation est plantée pour complémenter chaque élément. En pénétrant dans cet espace, vous ressentirez immédiatement cette impression de tranquillité et d'harmonie qui définit si bien les Descendants de givrelune. On dirait que de doux hymnes mélodieux résonnent doucement, emportant au loin tous les tourments et les souffrances dans la brise, ne laissant derrière eux qu'un état d'esprit serein et paisible.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Lumière solitaire dans la longue nuit",
+    "Description": "Une colonie dotée de maisons robustes, dont l'agencement et l'architecture s'inspirent des forteresses extérieures des Gardiens de lumière. Cette architecture lui permet de résister au vent et à la pluie, et d'offrir une formidable défense, même face à la Chasse sauvage. Comme le dit le serment des Gardiens de lumière : « Nous sommes les Gardiens de lumière qui se tiennent dans les plaines enneigées sans fin et portent des lanternes allumées par un espoir éternel. »\nSur les vastes plaines à l'extérieur de Piramida, des forteresses comme celle-ci se dressent fièrement et brillent de mille feux, portant avec elles la lumière de l'espoir.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Ateliers prometteurs",
+    "Description": "Une petite colonie inspirée de la Knieperterie Cling-clang, avec de confortables maisons de fer hémisphériques et des bâtiments en forme de navires de fer. Ces structures sont plus que suffisantes pour répondre aux besoins fondamentaux des propriétaires d'ateliers.\nTous les grands ateliers trouvent leur origine dans une simple structure. Avec ces bâtiments comme fondation, et une planification et des matériaux adéquats, transformer le royaume intérieur en un atelier géant devient une possibilité bien réelle...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Sérénité du croissant de lune",
+    "Description": "Une cour inspirée du Hall d'argenlune. Son style dégage tranquillité et sérénité, comme un royaume onirique juste hors de portée.\nLe clair de lune guide toujours délicatement tous les êtres vivants. Peut-être que les fidèles de la Déesse de la lune se sont-ils déjà demandé : quel genre de paysage ou de décor pourrait guider la nouvelle lune vers son propre sommeil paisible ?\nLe seul moyen d'en être sûr est de visiter le Hall d'argenlune et de contempler chaque fleur et chaque brin d'herbe qui s'y trouve...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

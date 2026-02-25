@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Preghiera del vento: Electro</color>",
-    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio aumentano di un <color=#f39001>80%</color> e, ogni volta che ottengono <color=#f39001>Preghiera del vento: Electro</color>, tutti i membri del gruppo ricevono <color=#f39001>1.5</color> di energia elementale."
+    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio aumentano di un <color=#f39001>80%</color> e, ogni volta che ottengono <color=#f39001>Preghiera del vento: Electro</color>, tutti i membri del gruppo ricevono <color=#f39001>2</color> di energia elementale."
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Dono del Cristallo di Cryo</color>",
-    "Description": "#Tutti i membri del gruppo ottengono un <color=#f39001>50%</color> di bonus DAN da Cryo e Geo. Inoltre, si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
+    "Description": "#Tutti i membri del gruppo ottengono un <color=#f39001>70%</color> di bonus DAN da Cryo e Geo. Inoltre, si materializzano frammenti di Cristallizzazione nelle vicinanze ogni <color=#f39001>4</color>{NON_BREAK_SPACE}s."
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>Arrendevolezza</color>",
-    "Description": "Riduce di un <color=#f39001>3%</color> le RES a Cryo e a Electro degli avversari, e di un <color=#f39001>6%</color> la RES fisica, massimo <color=#f39001>6</color> accumuli."
+    "Description": "Riduce di un <color=#f39001>5%</color> le RES a Cryo e a Electro degli avversari, e di un <color=#f39001>10%</color> la RES fisica, massimo <color=#f39001>6</color> accumuli."
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Preghiera del vento: Cryo</color>",
-    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio e i loro DAN da CRIT aumentano rispettivamente di un <color=#f39001>80%</color> e di un <color=#f39001>12%</color>."
+    "Description": "I DAN inflitti dai personaggi che innescano reazioni di Turbinio e i loro DAN da CRIT aumentano rispettivamente di un <color=#f39001>80%</color> e di un <color=#f39001>16%</color>."
   },
   {
     "Id": 211902,
@@ -428,5 +428,15 @@
     "Id": 11260001,
     "Name": "Cambio delle fasi lunari",
     "Description": "#Dopo aver usato la sua abilità elementale <color=#FFD780FF>Manifestazione di cielo e terra</color>, Zibai entra in questa modalità, che dura al massimo {PARAM#P1263201|4S1}{NON_BREAK_SPACE}s e ha le seguenti proprietà:\n· i DAN degli attacchi normali e caricati vengono convertiti in <color=#FFE699FF>DAN da Geo</color> non influenzabili da altre infusioni elementali;\n· l'abilità elementale <color=#FFD780FF>Manifestazione di cielo e terra</color> viene convertita nell'abilità elementale <color=#FFD780FF>Passo del destriero spirituale</color>. Quando Zibai ha almeno 70 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>, può consumarli per scatenare Passo del destriero spirituale e infliggere due iterazioni di <color=#FFE699FF>DAN da Geo</color>. I DAN della seconda iterazione vengono considerati DAN da Cristallizzazione lunare.\n\nÈ possibile avere un massimo di 100 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>, che Zibai può ottenere nei seguenti modi:\n· 10 per ogni secondo in cui si trova nello stato di <color=#FFD780FF>Cambio delle fasi lunari</color>;\n· 5 quando colpisce un avversario con i suoi attacchi normali, una volta ogni 0,5{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>Presagio lunare: Barlume ascendente</color>\nQuando i membri del gruppo vicini innescano Cristallizzazione lunare, forniscono a Zibai 35 accumuli di <color=#FFD780FF>Cambio di fase splendente</color>. È possibile ottenere accumuli in questo modo una volta ogni 4{NON_BREAK_SPACE}s. Scatenare l'abilità elementale speciale <color=#FFD780FF>Passo del destriero spirituale</color> annulla il suddetto tempo di attesa, permettendo di accumulare immediatamente altro <color=#FFD780FF>Cambio di fase splendente</color> in questo modo.\n\nZibai esce da questa modalità dopo aver scatenato <color=#FFD780FF>Passo del destriero spirituale</color> 4 volte o quando la durata dell'abilità termina."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Sturm und Drang",
+    "Description": "Una modalità che si attiva usando l'abilità elementale di Varka <color=#FFD780FF>Turbine della sentenza</color>.\nMentre è attiva, Varka infligge DAN da attacco normale e da attacco caricato aumentati e non può eseguire attacchi in picchiata. Quando sferra attacchi normali o caricati, le due claymore di Varka infliggono DAN elementali in base ai tipi elementali dei personaggi nel gruppo.\n· I DAN inflitti dalla claymore nella mano sinistra vengono convertiti in <color=#80FFD7FF>DAN da Anemo</color> non influenzabili da altre infusioni elementali.\n· Se nel gruppo sono presenti personaggi di <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, la claymore nella mano destra infligge i rispettivi DAN elementali, non influenzabili da altre infusioni, seguendo il suddetto ordine di priorità dei tipi elementali.\n\nInoltre, mentre questa modalità è attiva, se nel gruppo sono presenti personaggi di <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, l'abilità elementale di Varka <color=#FFD780FF>Turbine della sentenza</color> viene convertita nell'abilità elementale speciale <color=#FFD780FF>Ascensione dei Quattro Venti</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Ascensione dei Quattro Venti",
+    "Description": "#L'abilità elementale speciale di Varka. Infligge DAN elementali ad area corrispondenti all'elemento della claymore impugnata nella mano destra (non influenzabili da altre infusioni) e <color=#80FFD7FF>DAN da Anemo ad area</color> agli avversari.\nHa un TdR iniziale e dispone di un massimo di 2 utilizzi.\nQuando Varka si trova nella modalità <color=#FFD780FF>Sturm und Drang</color> e il suo attacco normale colpisce un avversario, il TdR di <color=#FFD780FF>Ascensione dei Quattro Venti</color> si riduce di 0,5{NON_BREAK_SPACE}s. Quest'effetto può attivarsi fino a un massimo di 15 volte ogni volta che Varka passa alla modalità <color=#FFD780FF>Sturm und Drang</color>.\nInoltre, Varka può consumare le cariche di <color=#FFD780FF>Ascensione dei Quattro Venti</color> per eseguire l'attacco caricato speciale <color=#FFD780FF>Divorazzurro</color>, che non consuma vigore e infligge 2 iterazioni di DAN elementali corrispondenti all'elemento della claymore impugnata nella mano destra (non influenzabili da altre infusioni) e 2 iterazioni di <color=#80FFD7FF>DAN da Anemo</color>."
   }
 ]

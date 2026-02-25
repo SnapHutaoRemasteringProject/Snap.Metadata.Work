@@ -1,37 +1,5 @@
 [
   {
-    "Id": 114,
-    "FloorIds": [
-      1110,
-      1111,
-      1118,
-      1119
-    ],
-    "Open": "2025-12-16T04:00:00+08:00",
-    "Close": "2026-01-16T03:59:59+08:00",
-    "BuffName": "Kasırga Ay",
-    "Descriptions": [
-      "Aktif karakter bir düşman üzerinde Girdap etkisi tetikledikten sonra düşmanın olduğu yerde Gerçek Hasar veren bir <color=#F39000>şok dalgası çıkar</color>. Bu etki 2 saniyede bir tetiklenebilir."
-    ],
-    "Icon": "UI_TowerBlessing_100"
-  },
-  {
-    "Id": 115,
-    "FloorIds": [
-      1110,
-      1111,
-      1120,
-      1121
-    ],
-    "Open": "2026-01-16T04:00:00+08:00",
-    "Close": "2026-02-16T03:59:59+08:00",
-    "BuffName": "Dalgalanan Ay",
-    "Descriptions": [
-      "Bir karakter bir düşmanın üzerinde bir Ay Tepkimesi (Ay Çiçeklenmesi, Ay Yüklü veya Ay Kristalleşmesi) tetiklediğinde düşmanın olduğu yerde Gerçek Hasar veren <color=#F39000>bir şok dalgası çıkar</color>. Bu etki 3 saniyede bir tetiklenebilir."
-    ],
-    "Icon": "UI_TowerBlessing_101"
-  },
-  {
     "Id": 116,
     "FloorIds": [
       1110,
@@ -46,6 +14,22 @@
       "Bir karakter bir düşmana Ay Kristalleşmesi Hasarı verdiğinde düşmanın olduğu yerde Gerçek Hasar veren <color=#F39000>bir şok dalgası çıkar</color>. Bu etki 3 saniyede bir tetiklenebilir."
     ],
     "Icon": "UI_TowerBlessing_102"
+  },
+  {
+    "Id": 117,
+    "FloorIds": [
+      1110,
+      1111,
+      1124,
+      1125
+    ],
+    "Open": "2026-03-16T04:00:00+08:00",
+    "Close": "2026-04-16T03:59:59+08:00",
+    "BuffName": "Rüzgar Darbeli Ay",
+    "Descriptions": [
+      "Bir karakter bir düşman üzerinde Girdap tepkimesi tetiklediğinde 1 Rüzgar Darbesi kademesi kazanır. 4 Rüzgar Darbesi kademesine ulaşıldığında düşmanın konumunda <color=#F39000>bir şok dalgası ortaya çıkar</color> ve Gerçek Hasar verip tüm aktif Rüzgar Darbesi kademelerini tüketir. Her 0,1 saniyede en fazla 1 Rüzgar Darbesi kademesi kazanılabilir. Bu şekilde her 6 saniyede bir şok dalgası ortaya çıkabilir."
+    ],
+    "Icon": "UI_TowerBlessing_100"
   },
   {
     "Id": 1,
@@ -1865,5 +1849,37 @@
       "Aktif karakterin Hayat Bağı değeri arttığında veya azaldığında <color=#F39000>bir şok dalgası çıkar</color> ve yakındaki düşmanlara Gerçek Hasar verir."
     ],
     "Icon": "UI_TowerBlessing_99"
+  },
+  {
+    "Id": 114,
+    "FloorIds": [
+      1110,
+      1111,
+      1118,
+      1119
+    ],
+    "Open": "2025-12-16T04:00:00+08:00",
+    "Close": "2026-01-16T03:59:59+08:00",
+    "BuffName": "Kasırga Ay",
+    "Descriptions": [
+      "Aktif karakter bir düşman üzerinde Girdap etkisi tetikledikten sonra düşmanın olduğu yerde Gerçek Hasar veren bir <color=#F39000>şok dalgası çıkar</color>. Bu etki 2 saniyede bir tetiklenebilir."
+    ],
+    "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Dalgalanan Ay",
+    "Descriptions": [
+      "Bir karakter bir düşmanın üzerinde bir Ay Tepkimesi (Ay Çiçeklenmesi, Ay Yüklü veya Ay Kristalleşmesi) tetiklediğinde düşmanın olduğu yerde Gerçek Hasar veren <color=#F39000>bir şok dalgası çıkar</color>. Bu etki 3 saniyede bir tetiklenebilir."
+    ],
+    "Icon": "UI_TowerBlessing_101"
   }
 ]

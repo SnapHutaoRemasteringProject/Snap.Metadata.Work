@@ -1,0 +1,1538 @@
+{
+  "Id": 10000128,
+  "PromoteId": 128,
+  "Sort": 113,
+  "Body": 4,
+  "Icon": "UI_AvatarIcon_Varka",
+  "SideIcon": "UI_AvatarIcon_Side_Varka",
+  "Name": "Varka",
+  "Description": "Grandmaster Knights of Favonius, Sang Knight of Boreas pelindung Mondstadt.",
+  "BeginTime": "2026-02-24T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 11,
+  "BaseValue": {
+    "HpBase": 981.9196,
+    "AttackBase": 27.4645,
+    "DefenseBase": 61.92405
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12831,
+        "Proud": {
+          "Descriptions": [
+            "DMG Tahap 1|{param1:F1P}",
+            "DMG Tahap 2|{param3:F1P}+{param2:F1P}",
+            "DMG Tahap 3|{param5:F1P}+{param4:F1P}",
+            "DMG Tahap 4|{param6:F1P}+{param7:F1P}",
+            "DMG Tahap 5|{param8:F1P}+{param9:F1P}",
+            "DMG Charged Attack|{param10:F1P}+{param11:F1P}",
+            "Konsumsi Stamina Charged Attack|{param12:F1}",
+            "DMG Selama Plunging|{param13:F1P}",
+            "DMG Plunging Attack Min./Maks.|{param14:P}/{param15:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1283101,
+              "Level": 1,
+              "Parameters": [
+                0.654598,
+                0.445501,
+                0.239885,
+                0.60239,
+                0.324364,
+                0.554316,
+                0.298478,
+                0.697498,
+                0.375576,
+                0.856388,
+                0.461132,
+                50,
+                0.745878,
+                1.49144,
+                1.862889
+              ]
+            },
+            {
+              "Id": 1283102,
+              "Level": 2,
+              "Parameters": [
+                0.707879,
+                0.481762,
+                0.25941,
+                0.651421,
+                0.350765,
+                0.599434,
+                0.322772,
+                0.754271,
+                0.406146,
+                0.926094,
+                0.498666,
+                50,
+                0.806589,
+                1.612836,
+                2.01452
+              ]
+            },
+            {
+              "Id": 1283103,
+              "Level": 3,
+              "Parameters": [
+                0.76116,
+                0.518024,
+                0.278936,
+                0.700453,
+                0.377167,
+                0.644553,
+                0.347067,
+                0.811044,
+                0.436716,
+                0.9958,
+                0.5362,
+                50,
+                0.8673,
+                1.734233,
+                2.16615
+              ]
+            },
+            {
+              "Id": 1283104,
+              "Level": 4,
+              "Parameters": [
+                0.837276,
+                0.569826,
+                0.30683,
+                0.770498,
+                0.414884,
+                0.709008,
+                0.381774,
+                0.892148,
+                0.480388,
+                1.09538,
+                0.58982,
+                50,
+                0.95403,
+                1.907656,
+                2.382765
+              ]
+            },
+            {
+              "Id": 1283105,
+              "Level": 5,
+              "Parameters": [
+                0.890557,
+                0.606088,
+                0.326355,
+                0.81953,
+                0.441285,
+                0.754127,
+                0.406068,
+                0.948921,
+                0.510958,
+                1.165086,
+                0.627354,
+                50,
+                1.014741,
+                2.029052,
+                2.534396
+              ]
+            },
+            {
+              "Id": 1283106,
+              "Level": 6,
+              "Parameters": [
+                0.95145,
+                0.64753,
+                0.34867,
+                0.875566,
+                0.471459,
+                0.805691,
+                0.433834,
+                1.013805,
+                0.545895,
+                1.24475,
+                0.67025,
+                50,
+                1.084125,
+                2.167791,
+                2.707688
+              ]
+            },
+            {
+              "Id": 1283107,
+              "Level": 7,
+              "Parameters": [
+                1.035178,
+                0.704513,
+                0.379353,
+                0.952616,
+                0.512947,
+                0.876592,
+                0.472011,
+                1.10302,
+                0.593934,
+                1.354288,
+                0.729232,
+                50,
+                1.179528,
+                2.358556,
+                2.945964
+              ]
+            },
+            {
+              "Id": 1283108,
+              "Level": 8,
+              "Parameters": [
+                1.118905,
+                0.761495,
+                0.410036,
+                1.029666,
+                0.554435,
+                0.947493,
+                0.510188,
+                1.192235,
+                0.641973,
+                1.463826,
+                0.788214,
+                50,
+                1.274931,
+                2.549322,
+                3.184241
+              ]
+            },
+            {
+              "Id": 1283109,
+              "Level": 9,
+              "Parameters": [
+                1.202633,
+                0.818478,
+                0.440719,
+                1.106716,
+                0.595924,
+                1.018394,
+                0.548366,
+                1.28145,
+                0.690011,
+                1.573364,
+                0.847196,
+                50,
+                1.370334,
+                2.740087,
+                3.422517
+              ]
+            },
+            {
+              "Id": 1283110,
+              "Level": 10,
+              "Parameters": [
+                1.293972,
+                0.880641,
+                0.474191,
+                1.19077,
+                0.641184,
+                1.09574,
+                0.590014,
+                1.378775,
+                0.742417,
+                1.69286,
+                0.91154,
+                50,
+                1.47441,
+                2.948195,
+                3.682455
+              ]
+            },
+            {
+              "Id": 1283111,
+              "Level": 11,
+              "Parameters": [
+                1.385311,
+                0.942804,
+                0.507664,
+                1.274824,
+                0.686444,
+                1.173086,
+                0.631662,
+                1.4761,
+                0.794823,
+                1.812356,
+                0.975884,
+                50,
+                1.578486,
+                3.156303,
+                3.942393
+              ]
+            },
+            {
+              "Id": 1283112,
+              "Level": 12,
+              "Parameters": [
+                1.47665,
+                1.004967,
+                0.541136,
+                1.358879,
+                0.731704,
+                1.250433,
+                0.67331,
+                1.573425,
+                0.847229,
+                1.931852,
+                1.040228,
+                50,
+                1.682562,
+                3.364411,
+                4.202331
+              ]
+            },
+            {
+              "Id": 1283113,
+              "Level": 13,
+              "Parameters": [
+                1.56799,
+                1.067129,
+                0.574608,
+                1.442933,
+                0.776964,
+                1.327779,
+                0.714958,
+                1.670751,
+                0.899635,
+                2.051348,
+                1.104572,
+                50,
+                1.786638,
+                3.572519,
+                4.462269
+              ]
+            },
+            {
+              "Id": 1283114,
+              "Level": 14,
+              "Parameters": [
+                1.659329,
+                1.129292,
+                0.60808,
+                1.526988,
+                0.822224,
+                1.405126,
+                0.756606,
+                1.768076,
+                0.952041,
+                2.170844,
+                1.168916,
+                50,
+                1.890714,
+                3.780627,
+                4.722207
+              ]
+            },
+            {
+              "Id": 1283115,
+              "Level": 15,
+              "Parameters": [
+                1.750668,
+                1.191455,
+                0.641553,
+                1.611042,
+                0.867484,
+                1.482472,
+                0.798254,
+                1.865401,
+                1.004447,
+                2.29034,
+                1.23326,
+                50,
+                1.99479,
+                3.988735,
+                4.982145
+              ]
+            }
+          ]
+        },
+        "Id": 11281,
+        "Name": "Favonius Bladework: Dancing Radiance",
+        "Description": "<color=#FFD780FF>Normal Attack</color>\nMeniru tarian perang knight zaman dulu, Varka mengerahkan dua pedang claymore-nya untuk melancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina, menerjang ke arah depan dan melancarkan satu kali tebasan dua pedang yang sangat kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, menyerang musuh di jalur terjangan dan mengakibatkan DMG Area saat mendarat.",
+        "Icon": "Skill_A_04"
+      },
+      {
+        "GroupId": 12832,
+        "Proud": {
+          "Descriptions": [
+            "DMG Skill|{param1:F1P}",
+            "Cooldown Mode Tekan|{param19:F1} dtk",
+            "Cooldown Mode Tahan|{param20:F1} dtk",
+            "Durasi Sturm und Drang|{param2:F1} dtk",
+            "DMG Tahap 1 Sturm und Drang|{param3:F1P}",
+            "DMG Tahap 2 Sturm und Drang|{param5:F1P}+{param4:F1P}",
+            "DMG Tahap 3 Sturm und Drang|{param7:F1P}+{param6:F1P}",
+            "DMG Tahap 4 Sturm und Drang|{param8:F1P}+{param9:F1P}",
+            "DMG Tahap 5 Sturm und Drang|{param10:F1P}+{param11:F1P}",
+            "DMG Charged Attack Sturm und Drang|{param12:F1P}+{param13:F1P}",
+            "DMG Four Winds' Ascension|{param14:F1P}+{param15:F1P}",
+            "DMG Azure Devour|{param16:F1P}×2+{param17:F1P}×2",
+            "CD Four Winds' Ascension|{param18:F1} dtk"
+          ],
+          "Parameters": [
+            {
+              "Id": 1283201,
+              "Level": 1,
+              "Parameters": [
+                2.784,
+                12,
+                0.818247,
+                0.556876,
+                0.299856,
+                0.752987,
+                0.405455,
+                0.692894,
+                0.373097,
+                0.871872,
+                0.46947,
+                1.070485,
+                0.576415,
+                1.7576,
+                0.9464,
+                0.936,
+                0.504,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283202,
+              "Level": 2,
+              "Parameters": [
+                2.9928,
+                12,
+                0.884848,
+                0.602203,
+                0.324263,
+                0.814277,
+                0.438457,
+                0.749293,
+                0.403465,
+                0.942839,
+                0.507682,
+                1.157618,
+                0.623333,
+                1.88942,
+                1.01738,
+                1.0062,
+                0.5418,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283203,
+              "Level": 3,
+              "Parameters": [
+                3.2016,
+                12,
+                0.95145,
+                0.64753,
+                0.34867,
+                0.875566,
+                0.471459,
+                0.805691,
+                0.433834,
+                1.013805,
+                0.545895,
+                1.24475,
+                0.67025,
+                2.02124,
+                1.08836,
+                1.0764,
+                0.5796,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283204,
+              "Level": 4,
+              "Parameters": [
+                3.48,
+                12,
+                1.046595,
+                0.712283,
+                0.383537,
+                0.963123,
+                0.518605,
+                0.88626,
+                0.477217,
+                1.115186,
+                0.600485,
+                1.369225,
+                0.737275,
+                2.197,
+                1.183,
+                1.17,
+                0.63,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283205,
+              "Level": 5,
+              "Parameters": [
+                3.6888,
+                12,
+                1.113196,
+                0.75761,
+                0.407944,
+                1.024413,
+                0.551607,
+                0.942659,
+                0.507585,
+                1.186152,
+                0.638697,
+                1.456357,
+                0.784192,
+                2.32882,
+                1.25398,
+                1.2402,
+                0.6678,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283206,
+              "Level": 6,
+              "Parameters": [
+                3.8976,
+                12,
+                1.189312,
+                0.809413,
+                0.435837,
+                1.094458,
+                0.589323,
+                1.007114,
+                0.542292,
+                1.267256,
+                0.682369,
+                1.555937,
+                0.837813,
+                2.46064,
+                1.32496,
+                1.3104,
+                0.7056,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283207,
+              "Level": 7,
+              "Parameters": [
+                4.176,
+                12,
+                1.293972,
+                0.880641,
+                0.474191,
+                1.19077,
+                0.641184,
+                1.09574,
+                0.590014,
+                1.378775,
+                0.742417,
+                1.69286,
+                0.91154,
+                2.6364,
+                1.4196,
+                1.404,
+                0.756,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283208,
+              "Level": 8,
+              "Parameters": [
+                4.4544,
+                12,
+                1.398631,
+                0.951869,
+                0.512545,
+                1.287082,
+                0.693044,
+                1.184366,
+                0.637736,
+                1.490293,
+                0.802466,
+                1.829783,
+                0.985267,
+                2.81216,
+                1.51424,
+                1.4976,
+                0.8064,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283209,
+              "Level": 9,
+              "Parameters": [
+                4.7328,
+                12,
+                1.503291,
+                1.023097,
+                0.550899,
+                1.383395,
+                0.744905,
+                1.272992,
+                0.685457,
+                1.601812,
+                0.862514,
+                1.966705,
+                1.058995,
+                2.98792,
+                1.60888,
+                1.5912,
+                0.8568,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283210,
+              "Level": 10,
+              "Parameters": [
+                5.0112,
+                12,
+                1.617465,
+                1.100801,
+                0.592739,
+                1.488463,
+                0.80148,
+                1.369675,
+                0.737517,
+                1.723469,
+                0.928022,
+                2.116075,
+                1.139425,
+                3.16368,
+                1.70352,
+                1.6848,
+                0.9072,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283211,
+              "Level": 11,
+              "Parameters": [
+                5.2896,
+                12,
+                1.731639,
+                1.178505,
+                0.634579,
+                1.593531,
+                0.858055,
+                1.466358,
+                0.789577,
+                1.845125,
+                0.993529,
+                2.265445,
+                1.219855,
+                3.33944,
+                1.79816,
+                1.7784,
+                0.9576,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283212,
+              "Level": 12,
+              "Parameters": [
+                5.568,
+                12,
+                1.845813,
+                1.256208,
+                0.67642,
+                1.698599,
+                0.91463,
+                1.563041,
+                0.841637,
+                1.966782,
+                1.059036,
+                2.414815,
+                1.300285,
+                3.5152,
+                1.8928,
+                1.872,
+                1.008,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283213,
+              "Level": 13,
+              "Parameters": [
+                5.916,
+                12,
+                1.959987,
+                1.333912,
+                0.71826,
+                1.803666,
+                0.971205,
+                1.659724,
+                0.893698,
+                2.088438,
+                1.124544,
+                2.564185,
+                1.380715,
+                3.7349,
+                2.0111,
+                1.989,
+                1.071,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283214,
+              "Level": 14,
+              "Parameters": [
+                6.264,
+                12,
+                2.074161,
+                1.411615,
+                0.760101,
+                1.908734,
+                1.02778,
+                1.756407,
+                0.945758,
+                2.210095,
+                1.190051,
+                2.713555,
+                1.461145,
+                3.9546,
+                2.1294,
+                2.106,
+                1.134,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283215,
+              "Level": 15,
+              "Parameters": [
+                6.612,
+                12,
+                2.188335,
+                1.489319,
+                0.801941,
+                2.013802,
+                1.084355,
+                1.85309,
+                0.997818,
+                2.331751,
+                1.255559,
+                2.862925,
+                1.541575,
+                4.1743,
+                2.2477,
+                2.223,
+                1.197,
+                11,
+                16,
+                8
+              ]
+            }
+          ]
+        },
+        "Id": 11282,
+        "Name": "Windbound Execution",
+        "Description": "Menampilkan esensi dari Favonius Bladework dengan kekuatan mutlaknya. Talenta ini akan menghasilkan efek yang berbeda berdasarkan Mode Tekan atau Mode Tahan.\n\n<color=#FFD780FF>Mode Tekan</color>\nMelompat ke arah depan dan melakukan tebasan dalam satu gerakan mulus, mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color> dan berganti ke mode {LINK#N11280001}<color=#FFD780FF>Sturm und Drang</color>{/LINK}.\nSaat dalam mode <color=#FFD780FF>Sturm und Drang</color>, DMG Normal Attack dan Charged Attack Varka akan meningkat, tetapi tidak bisa melancarkan Plunging Attack. Saat melancarkan Normal Attack dan Charged Attack, pedang claymore di kedua tangan Varka akan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai berdasarkan jenis elemen Karakter dalam party. Elemental DMG ini tidak bisa ditimpa Elemental Infusion lainnya.\nSelain itu, saat berada dalam mode <color=#FFD780FF>Sturm und Drang</color>, jika ada Karakter <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> di dalam party, maka Elemental Skill Varka <color=#FFD780FF>Windbound Execution</color> akan dikonversi menjadi Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK} yang mengakibatkan Elemental DMG dengan jenis elemen yang sesuai dan juga <color=#80FFD7FF>Anemo DMG</color>. Selain itu, Varka juga dapat mengonsumsi jumlah penggunaan Elemental Skill Khusus <color=#FFD780FF>Four Winds' Ascension</color> untuk melancarkan Charged Attack khusus yang tidak mengonsumsi Stamina, yaitu <color=#FFD780FF>Azure Devour</color>. Charged Attack khusus ini akan mengakibatkan Elemental DMG dengan jenis elemen yang sesuai dan juga <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Mode Tahan</color>\nMelompat ke depan setelah mengisi energi. Jarak lompatannya akan bertambah seiring dengan waktu pengisian energi.",
+        "Icon": "Skill_S_Varka_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1285101,
+              "Level": 1,
+              "Parameters": [
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1285101,
+        "Name": "Witch's Eve Rite: Dawn's Return",
+        "Description": "Setelah menyelesaikan <color=#FFD780FF>PR Penyihir: Tentang Tugas Tanpa Judul</color>, Varka akan berubah menjadi Karakter <color=#FFD780FF>Hexerei</color>. Saat ada setidaknya 2 Karakter Hexerei di dalam party, akan mendapatkan efek <color=#FFD780FF>Hexerei: Secret Rite</color> yang memperkuat Karakter Hexerei.\n\n<color=#FFD780FF>Hexerei: Secret Rite</color>\nElemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK} diperkuat: Saat Varka berada dalam mode {LINK#N11280001}<color=#FFD780FF>Sturm und Drang</color>{/LINK} dan Normal Attack-nya mengenai musuh, maka CD <color=#FFD780FF>Four Winds' Ascension</color> berkurang 1 detik.",
+        "Icon": "UI_Talent_S_Varka_08"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12839,
+      "Proud": {
+        "Descriptions": [
+          "DMG Skill Tahap 1|{param1:F1P}",
+          "DMG Skill Tahap 2|{param2:F1P}",
+          "Cooldown|{param3:F1} dtk",
+          "Konsumsi Energy|{param4:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1283901,
+            "Level": 1,
+            "Parameters": [
+              3.3696,
+              1.8144,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283902,
+            "Level": 2,
+            "Parameters": [
+              3.62232,
+              1.95048,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283903,
+            "Level": 3,
+            "Parameters": [
+              3.87504,
+              2.08656,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283904,
+            "Level": 4,
+            "Parameters": [
+              4.212,
+              2.268,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283905,
+            "Level": 5,
+            "Parameters": [
+              4.46472,
+              2.40408,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283906,
+            "Level": 6,
+            "Parameters": [
+              4.71744,
+              2.54016,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283907,
+            "Level": 7,
+            "Parameters": [
+              5.0544,
+              2.7216,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283908,
+            "Level": 8,
+            "Parameters": [
+              5.39136,
+              2.90304,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283909,
+            "Level": 9,
+            "Parameters": [
+              5.72832,
+              3.08448,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283910,
+            "Level": 10,
+            "Parameters": [
+              6.06528,
+              3.26592,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283911,
+            "Level": 11,
+            "Parameters": [
+              6.40224,
+              3.44736,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283912,
+            "Level": 12,
+            "Parameters": [
+              6.7392,
+              3.6288,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283913,
+            "Level": 13,
+            "Parameters": [
+              7.1604,
+              3.8556,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283914,
+            "Level": 14,
+            "Parameters": [
+              7.5816,
+              4.0824,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283915,
+            "Level": 15,
+            "Parameters": [
+              8.0028,
+              4.3092,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11285,
+      "Name": "Northwind Avatar",
+      "Description": "Dengan mengatasnamakan Knight of Boreas terkuat, Varka melancarkan dua kali tebasan beruntun yang kuat ke arah depan dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\nJika ada Karakter <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> di dalam party, maka tebasan pertama akan dikonversi menjadi Elemental DMG dengan jenis elemen yang sesuai berdasarkan urutan prioritas elemen yang disebutkan di atas.",
+      "Icon": "Skill_E_Varka_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12821,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1282101,
+              "Level": 1,
+              "Parameters": [
+                0.1,
+                0.25,
+                1.4,
+                2.2
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1282101,
+        "Name": "Dawn Wind's March",
+        "Description": "Saat ada Karakter <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> dalam party, untuk setiap 1.000 poin ATK yang dimiliki Varka, ia akan mendapatkan <color=#80FFD7FF>10%</color> Anemo DMG Bonus dan Elemental DMG Bonus untuk jenis elemen yang sesuai berdasarkan urutan prioritas elemen yang disebutkan di atas (maksimum 1 jenis elemen dari elemen yang disebutkan di atas yang bisa diperoleh dengan cara ini), hingga maksimum 25%.\n\nSelain itu, saat ada setidaknya 2 Karakter <color=#80FFD7FF>Anemo</color> dalam party, atau ada setidaknya 2 Karakter <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> dengan jenis elemen yang sama, maka Normal Attack, Charged Attack, Charged Attack Khusus <color=#FFD780FF>Azure Devour</color>, dan Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK} Varka yang dilancarkan dalam mode {LINK#N11280001}<color=#FFD780FF>Sturm und Drang</color>{/LINK} akan mengakibatkan 140% dari DMG awalnya. Jika party memiliki setidaknya 2 Karakter <color=#80FFD7FF>Anemo</color> dan setidaknya 2 Karakter <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, atau <color=#99FFFFFF>Cryo</color> dengan jenis elemen yang sama, maka efek di atas meningkat menjadi 220%.",
+        "Icon": "UI_Talent_S_Varka_06"
+      },
+      {
+        "GroupId": 12822,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1282201,
+              "Level": 1,
+              "Parameters": [
+                8,
+                0.075,
+                4,
+                1
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1282201,
+        "Name": "Wind's Vanguard",
+        "Description": "Saat Karakter party di sekitar memicu reaksi Swirl, Varka mendapatkan 1 lapis <color=#FFD780FF>Azure Fang's Oath</color> yang akan meningkatkan DMG Normal Attack, Charged Attack, Charged Attack Khusus <color=#FFD780FF>Azure Devour</color>, dan Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK} milik Varka sebesar 7,5% selama 8 detik. Efek ini dapat ditumpuk sampai 4 lapis. Setiap Karakter dapat memberikan 1 lapis <color=#FFD780FF>Azure Fang's Oath</color> untuk Varka sekali setiap detik dengan cara ini.",
+        "Icon": "UI_Talent_S_Varka_05"
+      },
+      {
+        "GroupId": 12823,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1282301,
+              "Level": 1,
+              "Parameters": [
+                0.05
+              ]
+            }
+          ]
+        },
+        "Id": 1282301,
+        "Name": "Homebound Wind's Paean",
+        "Description": "Untuk setiap 1 Karakter Mondstadt dalam party, CD untuk Elemental Skill Mode Tahan <color=#FFD780FF>Windbound Execution</color> berkurang 5%.\nEfek ini tidak aktif dalam Domain, Trounce Domain, atau Spiral Abyss.",
+        "Icon": "UI_Talent_S_Varka_07"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1281,
+        "Name": "\"Come, Friend, Let Us Dance Beneath the Moon's Soft Glow\"",
+        "Description": "Saat Varka beralih ke mode {LINK#N11280001}<color=#FFD780FF>Sturm und Drang</color>{/LINK}, akan mendapatkan 1 kali kesempatan penggunaan Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK}.\nSelain itu, setelah berganti ke mode <color=#FFD780FF>Sturm und Drang</color>, Varka akan mendapatkan efek <color=#FFD780FF>Lyrical Libation</color>: Saat melancarkan Elemental Skill Khusus <color=#FFD780FF>Four Winds' Ascension</color> atau melancarkan Charged Attack khusus <color=#FFD780FF>Azure Devour</color>, Varka akan mengonsumsi efek ini dan membuat <color=#FFD780FF>Four Winds' Ascension</color> atau <color=#FFD780FF>Azure Devour</color> mengakibatkan 200% dari DMG awalnya.",
+        "Icon": "UI_Talent_S_Varka_01"
+      },
+      {
+        "Id": 1282,
+        "Name": "\"When Dawn Breaks, Our Journey Shall Take Flight\"",
+        "Description": "Saat melancarkan Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK} atau Charged Attack Khusus <color=#FFD780FF>Azure Devour</color>, Varka akan melancarkan satu kali serangan tambahan yang mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color> sebesar 800% ATK-nya.",
+        "Icon": "UI_Talent_S_Varka_02"
+      },
+      {
+        "Id": 1283,
+        "Name": "\"O Friend, Quaff Not the Bitter Wine That Brings Tears of Woe\"",
+        "Description": "Meningkatkan 3 level Elemental Skill <color=#FFD780FF>{LINK#S11282}Windbound Execution{/LINK}</color>.\nMaksimum: Lv. 15.",
+        "Icon": "UI_Talent_U_Varka_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1284,
+        "Name": "\"For None May Take From Us Our Freedom of Song\"",
+        "Description": "Saat Varka memicu reaksi Swirl, seluruh Karakter party di sekitar akan mendapatkan 20% <color=#80FFD7FF>Anemo DMG Bonus</color> dan juga Elemental DMG Bonus untuk jenis elemen yang terlibat dalam reaksi tersebut, berlangsung selama 10 detik.",
+        "Icon": "UI_Talent_S_Varka_03"
+      },
+      {
+        "Id": 1285,
+        "Name": "\"Fill High the Cup With Fine Wine, for Tyrants Come and Go\"",
+        "Description": "Meningkatkan 3 level Elemental Burst <color=#FFD780FF>{LINK#S11285}Northwind Avatar{/LINK}</color>.\nMaksimum: Lv. 15.",
+        "Icon": "UI_Talent_U_Varka_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1286,
+        "Name": "\"Beloved Mondstadt, Steadfast You Shall Shine\"",
+        "Description": "Mode {LINK#N11280001}<color=#FFD780FF>Sturm und Drang</color>{/LINK} diperkuat:\n·Selama beberapa saat setelah melancarkan Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK}, Varka dapat menekan Elemental Skill atau menahan tombol Normal Attack untuk melancarkan satu kali Charged Attack Khusus <color=#FFD780FF>Azure Devour</color> tambahan tanpa mengonsumsi jumlah penggunaan Four Winds' Ascension.\n·Selama beberapa saat setelah melancarkan Charged Attack Khusus <color=#FFD780FF>Azure Devour</color>, Varka bisa menekan Elemental Skill untuk melancarkan satu kali <color=#FFD780FF>Four Winds' Ascension</color> tambahan tanpa mengonsumsi jumlah penggunaan Four Winds' Ascension.\nCharged Attack Khusus tambahan, Azure Devour, atau Elemental Skill Khusus tambahan, Four Winds' Ascension yang dilancarkan dengan cara di atas tidak akan dapat memicu efek di atas lagi.\n\nSelain itu, efek <color=#FFD780FF>Azure Fang's Oath</color> dari Talenta Ascension <color=#FFD780FF>{LINK#P1282201}Wind's Vanguard{/LINK}</color> diperkuat: Setiap lapis <color=#FFD780FF>Azure Fang's Oath</color> akan meningkatkan 20% CRIT DMG Varka.",
+        "Icon": "UI_Talent_S_Varka_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Knight of Boreas",
+    "Detail": "Grandmaster Knights of Favonius, Sang Knight of Boreas pelindung Mondstadt.",
+    "Association": 1,
+    "Native": "Knights of Favonius",
+    "BirthMonth": 2,
+    "BirthDay": 17,
+    "VisionBefore": "Anemo",
+    "VisionOverrideUnlocked": "Vision",
+    "ConstellationBefore": "Lupus Majoris",
+    "CvChinese": "郝祥海",
+    "CvJapanese": "杉田智和",
+    "CvEnglish": "Joseph May",
+    "CvKorean": "Park Sang-hoon",
+    "CookBonus": {
+      "OriginItemId": 108035,
+      "ItemId": 108958,
+      "InputList": [
+        110003,
+        100076,
+        100018
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Halo",
+        "Context": "Biar aku perkenalkan diri sekali lagi, meski kamu mungkin sudah bosan dengarnya. Aku Varka, Grand Master Knights of Favonius, Knights of Boreas Mondstadt. Aku ada di sini untuk menggenapkan sumpah Favonius: Aku bersumpah atas pedangku, kamu tak akan kalah selama aku masih berdiri tegak!"
+      },
+      {
+        "Title": "Berbincang: Ngobrol",
+        "Context": "Aku suka minum kalau lagi ada kesempatan ... Di setiap kesempatan sih. Ha! Haha, bagus!"
+      },
+      {
+        "Title": "Berbincang: Senjata",
+        "Context": "Senjata harus dirawat berkala. Jaga senjatamu, dan dia akan menjagamu di saat paling penting."
+      },
+      {
+        "Title": "Berbincang: Istirahat",
+        "Context": "*huff* Pasti enak rasanya kalau bisa jauh dari meja kerjanya. Tempat tidur siang yang asyik di mana ya?"
+      },
+      {
+        "Title": "Setelah Hujan",
+        "Context": "Hujan sudah berhenti. Ayo lanjutkan perjalanan."
+      },
+      {
+        "Title": "Ketika Turun Salju",
+        "Context": "Melihat salju turun selalu mengingatkanku tentang ekspedisi yang pernah kujalani ...."
+      },
+      {
+        "Title": "Ketika Angin Berembus",
+        "Context": "Wah! Anginnya kencang banget! Mau coba menjatuhkanku ya?"
+      },
+      {
+        "Title": "Selamat Pagi",
+        "Context": "Pagi! Loh, kamu kok kayak lesu? Mau minum dulu biar semangat?"
+      },
+      {
+        "Title": "Selamat Siang",
+        "Context": "Siang! Kita punya waktu, pastikan istirahat cukup, kalau tidak kamu pasti kelelahan sore nanti!"
+      },
+      {
+        "Title": "Selamat Malam",
+        "Context": "Malam! Hari yang melelahkan ya? Mau coba minuman malam untuk membantumu minum?"
+      },
+      {
+        "Title": "Selamat Tidur",
+        "Context": "Selamat tidur. Angin saja butuh istirahat. Aku akan jaga di luar tenda ... Tidak perlu jaga malam? Oh ... Benar juga, ya. Kita bukan sedang di alam liar. Kebiasaan buruk, heh ...."
+      },
+      {
+        "Title": "Tentang Varka: Knight of Boreas",
+        "Context": "Knight of Boreas menjadi perantara antara manusia dan Lupus Boreas. Tapi hanya sedikit dari kaum kita yang benar-benar bisa mendapatkan pengakuan dari raja serigala dalam seribu tahun terakhir ... Aku? Pastinya termasuk juga dong, hahahah."
+      },
+      {
+        "Title": "Tentang Varka: Ekspedisi",
+        "Context": "Aku sudah melakukan banyak ekspedisi untuk menjaga ketenangan di Mondstadt, meskipun tidak ada yang bisa dibandingkan dengan yang ini ... Suatu kali, kami membersihkan Dadaupa Gorge. Ada juga, kami bergabung dengan kekuatan Millelith untuk mendamaikan  Stone Gate. Pernah sekali, kami berangkat dari Falcon Coast untuk menyerang monster di lepas pantai ... Hmm? Pantes kamu tidak pernah ketemu monster kuat di sana? ... Serius? Aku yakin ada meninggalkan beberapa monster di sana sini untuk keperluan latihanku ...."
+      },
+      {
+        "Title": "Tentang Kita: Orang Luar",
+        "Context": "Mondstadt itu kota kebebasan. Tempat yang bisa disebut \"rumah\" oleh siapa pun, entah kamu anak pendosa, dewa yang mengembara, atau pengembara dari jauh. Jadi, tidak perlu terlalu kaku begitu denganku, kamu kan Honorary Knight!"
+      },
+      {
+        "Title": "Tentang Kita: Menangkap Angin",
+        "Context": "\"Fokus pada satu pikiran di antara ribuan angin, tangkap secercah cahaya unik itu sebelum dia terbawa angin.\"\nItu yang Barbatos bilang kepadaku waktu dia menjelaskan bagaimana cara membalikkan proses asimilasi. Kecuali kamu bisa membagi dirimu sendiri dari Lupus Boreas, tidak mungkin kamu tidak bersatu dengan Ley Line ... Saat mendengar kata-katanya waktu itu, aku tidak mengerti, tapi setelah melewatinya sendiri ... Tidak sih, masih tetap tidak ngerti, haha! Setidaknya aku tidak perlu melewati hal itu lagi.\nKalau dipikir-pikir lagi, aku masih belum pernah berterima kasih secara resmi kepadamu sejak kembali dari Ley Line. Ini sepertinya waktu yang pas, ehem ....\nKamu berhasil menangkapku, \"Pengembara yang Menangkap Angin.\""
+      },
+      {
+        "Title": "Tentang Vision",
+        "Context": "Aku masih ingat hari aku mendapatkan Vision. Waktu itu aku masih bocah yang ceroboh. Duh, aku terkejut sekali Archon Anemo sampai bisa perhatikan aku ... Sampai aku akhirnya bisa kenal Barbatos secara langsung dan baru sadar kalau semua itu tidak seperti yang kubayangkan. Mimpi masa mudaku hancur berantakan! Tapi kekuatan dan aspirasi yang diberikannya sepanjang perjalananku ... tidak akan pernah berubah."
+      },
+      {
+        "Title": "Berbagi Cerita: The Four Winds",
+        "Context": "Sebenarnya ya, aku tidak pernah sama sekali mengerti logika di balik The Four Winds. Coba ya, Dragon of the East, Falcon of the West, Lion of the South, semua itu jelas, kan? Tapi \"Wolf of the North\" itu bisa berarti aku, atau Boreas. Dan \"Knights of Favonius\" bisa termasuk Lionfang Knight dan Knight of Boreas, yang berarti Angin Barat Favonius sebenarnya merangkap \"Selatan\" dan \"Utara\". Mana masuk logika sih?\nHmm? Menurutmu si penyair itu pilih angka 4 biar kelihatan keren saja? Yah, masuk sih kalau begitu ...."
+      },
+      {
+        "Title": "Kisah Menarik: Kucing dan Anjing",
+        "Context": "Pernah terjadi debat antara \"kubu kucing\" dan \"kubu anjing\" di Mondstadt. Kamu pasti yakin Knight of Boreas bakal memihak anjing, kan? Tapi sebenarnya, aku juga jatuh hati sama kucing loh. Anak anjing memang lucu, energetik dan bisa diajak main, tapi kucing yang diam juga bisa jadi pendamping yang baik ... Duh, kalau saja aku boleh mengadopsi peliharan. Aku bakal pelihara semuanya!"
+      },
+      {
+        "Title": "Tentang Venti",
+        "Context": "Barbatos? Dia mungkin terlihat bebas dan santai pada pandangan pertama. Tapi waktu suasananya serius, dia juga ikut serius. Aku harus akui dia hebat sih, kalau soal minum-minum, dia itu memang sudah dewanya di Mondstadt. Hmm? Maksudmu aku sedang memuji diri sendiri? Hahaha, bisa saja kamu! Aku tidak ada apa-apanya kalau dibandingkan sama Archon Anemo."
+      },
+      {
+        "Title": "Tentang Razor",
+        "Context": "Waktu aku pertama kali bertemu Razor, dia hanya beberapa inci lebih tinggi dari Wolf Pup di Wolvendom. Heh, bahkan dia masih belum bisa mengangkat pedangnya! Tapi waktu itu, lebih mudah mengajarinya untuk memakai pedang daripada belajar untuk berbicara dengannya. Kayaknya aku menghabiskan hampir setengah tahun untuk belajar berkomunikasi dengannya. Dan setelah sekian lama, akhirnya dia punya teman-temannya sendiri. Waktu berlalu cepat ...."
+      },
+      {
+        "Title": "Tentang Rosaria",
+        "Context": "Uh ... Aku tutup mulut saja deh kalau bahas soal dia. Aku tidak mau diomelin mulut lebar. Soalnya tatapan matanya dingin banget kayak es ... Kalau kamu penasaran sama dia, langsung tanyakan saja. Aku rasa per sekarang, harusnya dia sudah siap untuk cerita masa lalunya kepadamu."
+      },
+      {
+        "Title": "Tentang Diluc",
+        "Context": "Jadi dia masih belum mau kembali ke Knights of Favonius? Haha, wajar sih, angin Mondstadt kan selalu pergi dan pulang dengan bebas. Tapi di posisi yang sama, aku juga bebas untuk memintanya kembali lagi. Tapi tetap sih, aku tidak boleh terlalu memaksa ... Kalau terlalu didesak, dia bisa taruh aku di daftar hitam Dawn Winery. Itu kacau sih!"
+      },
+      {
+        "Title": "Tentang Kaeya",
+        "Context": "Aku tahu seberapa penting Master Crepus bagi Kaeya. Kejadian tragis itu sama menyedihkannya dengan adik angkatnya ... Tapi setelah semua ketidakadilan dan perselisihan persaudaraan ... dia masih tetap memilih bersama Knights of Favonius. Bahkan berperan penting dalam membongkar kasus korupsi Eroch. Karena dia memilih untuk percaya kepada kami, aku juga memilih percaya kepadanya, terlepas dari apa pun masa lalunya."
+      },
+      {
+        "Title": "Tentang Jean",
+        "Context": "Asal tahu saja ya, aku selalu merasa Jean punya bakat dan tabiat yang lebih cocok untuk jadi Grand Master dibandingkan aku. Tapi sesusah apa pun aku berusaha meyakinkannya, dia selalu memaksa kalau dia tidak berkualifikasi. Heh, dia dan aku! Waktu menerima jabatan ini, aku masih sangat muda. Honorary Knight, kalau ada kesempatan, mau coba bujuk dia? Hmm? Aku lagi berusaha untuk melemparkan tanggung jawabku ke Jean? Sama sekali bukan, hapus pikiran itu. Aku tidak akan pernah! Serius! ... Bersumpah atas nama segelas anggur? Umm, tidak perlu seformal itu, kan? Ya, kan?"
+      },
+      {
+        "Title": "Tentang Noelle",
+        "Context": "Bahkan aku saja bisa terkejut dengan kekuatannya dari lahir. Aku dengar dia sedang belajar teknik pedang dari Jean sekarang. Setelah dia menguasai gaya pedang satu-tangan dan dua-tangan, apa mungkin dia bisa mewarisi ... Eh? Pedangnya pernah langsung terbang ke langit-langit? Baiklah ... Berarti kita harus jadwalkan beberapa kali sesi latihan lagi dengannya."
+      },
+      {
+        "Title": "Tentang Lohen",
+        "Context": "Kayaknya si bocah itu selalu ada saja gebrakannya beberapa hari sekali ... Aku selalu merasa dia itu versi diriku yang lebih muda, penasaran mau melawan musuh kuat dan menang ... Tapi ternyata, dia cuma suka bagian gebuk-gebuknya saja, tidak peduli menang dan kalah. *huff* Yah setidaknya waktu sedang melawan musuh, waktunya jadi tersita. Kalau tidak, dia pasti bakal membuat perangkap untuk menjebakku cuma karena dia bosan!"
+      },
+      {
+        "Title": "Tentang Mika",
+        "Context": "Saat tersesat dalam hidup, kamu perlu pembimbing untuk menuntunmu. Waktu kamu tersesat dalam barisan, kamu perlu peta. Dengan logika itu, Mika itu bisa saja dianggap sebagai pembimbingku, haha! Aku pernah mencoba bercanda dengan Mika, tapi mukanya jadi pucat kayak kertas ... Jujur ya, harusnya dia lebih pede sama dirinya sendiri, soalnya tidak semua orang bisa jadi knight!"
+      },
+      {
+        "Title": "Tentang Eula",
+        "Context": "Awalnya aku berencana kirim orang ke Dermaga Dornman untuk menyambut pasukan, tapi Eula bilang sudah diaturnya. Aku lihat jadwalnya, semuanya sempurna. Aku tidak sangka dia seteliti ini, dan kali ini dia tidak ungkit soal balas dendam. Haha, tidak ada yang membuatku lebih bahagia daripada menyaksikan knight kami bertumbuh."
+      },
+      {
+        "Title": "Tentang Amber",
+        "Context": "Dia itu energinya enggak ada habisnya deh. Sebagai Outrider dan Gliding Champion, dia biasanya aktif di pinggiran Mondstadt untuk membantu orang-orang. Dia itu Knight of Favonius pertama yang ditemui orang-orang, yang berarti, dia itu wajah organisasi kami di publik. Hmm? Dia yang pertama kamu temui juga? Haha, begitulah Amber!"
+      },
+      {
+        "Title": "Tentang Albedo",
+        "Context": "Waktu Albedo pertama tiba di Mondstadt, aku punya perasaan dia itu tipe anak idaman yang didambakan semua orang tua. Begitu sederhana, begitu sopan ... Tapi di sisi lain, sepertinya dia itu pendiam dan berhati-hati. Aku harap sih dia bisa lebih santai sedikit ya. Soalnya, mana mungkin sih kota ini dipanggil Kota Kebebasan kalau kamu tidak nyaman jadi diri sendiri? Yah, mungkin aku terlalu banyak meminta, soalnya sekarang dia bahkan mencuri kemampuan melukisku! Hahaha!"
+      },
+      {
+        "Title": "Tentang Durin",
+        "Context": "Aku jujur saja, waktu pertama kali aku dapat laporan soal kemunculan Durin, jantungku sempat mau copot. Aku hampir mau bentuk tim kembali untuk melindungi Mondstadt. Untung saja, Durin yang baru bukan Durin yang lama. Dan salah satu ancaman terbesar Mondstadt di zaman dulu sekarang sudah jadi sekutu yang paling bisa diandalkan ... Takdir itu memang tak bisa diprediksi ya? Heh, kamu tidak tahu ke mana arah angin akan berembus ...."
+      },
+      {
+        "Title": "Tentang Klee",
+        "Context": "Spark Knight kita sudah jadi makin ahli dalam hal kabur dari ruang tahanan, ya? Sepertinya dia benar-benar menjalankan \"pelajaran\" yang kutinggalkan. Mungkin aku bisa belajar sedikit darinya ... Uh, maksudnya ... Yah, lupakan saja deh! Aku lagi bahas soal, eh ... teknik melukis! Ya! Kamu tidak bakal ngasih tahu Albedo atau Jean soal ini, kan? Um ... Tolong jangan kasih tahu Alice juga, makasih."
+      },
+      {
+        "Title": "Tentang Alice",
+        "Context": "Dari semua gelar yang dimiliki Alice, yang paling aku kagumi adalah \"Petualang Hebat yang Pernah Berkunjung ke Berbagai Dunia\". Aku banyak bertualang waktu masih muda, tapi waktu aku dengar dia mendeskripsikan semua yang pernah dilaluinya, kebanyakan di luar imajinasiku. Apa mungkin aku bakal dapat kesempatan untuk memperluas wawasanku setelah aku tidak jadi Grand Master lagi ... Meski bakal jadi pertanyaan, apa aku masih punya energi lagi sampai saatnya tiba nanti, haha!"
+      },
+      {
+        "Title": "Tentang Nicole",
+        "Context": "Ada banyak hal yang bisa aku pelajari dari Nicole. Dengan intuisi arahnya yang tajam, aku tidak pernah takut tersesat dalam ekspedisi. Dan komunikasi telepati pasti akan mempermudah pengiriman pesan rahasia di medan perang. Eh? Menyia-nyiakan kekuatan hebat? Lah, itu kan praktik lapangan yang paling berguna!"
+      },
+      {
+        "Title": "Tentang Barbeloth",
+        "Context": "Pernah sekali aku melihat refleksi masa depan dari kaca ramalan Barbeloth. Dia bilang itu adalah penglihatan yang ingin ditunjukkan takdir kepadaku langsung ... Tapi, apakah takdir juga memprediksi kalau aku berusaha mengubahnya? Dan memprediksi bagaimana semuanya akan berakhir?\nHmph, jawabanku sih, tidak perlu dipikirkan. Memikirkannya terlalu banyak cuma akan memperlambat pedangku. Apa pun yang ditunjukkan takdirku, aku akan lakukan apa pun yang kuanggap benar."
+      },
+      {
+        "Title": "Tentang Aino",
+        "Context": "Waktu pertama bertemu Aino, aku khawatir tentang dia. Sepertinya ada yang salah kalau anak sekecil dia tumbuh sendiri di Nod-Krai ... Tapi ternyata aku salah. Dia tidak sendirian, dan tidak ada yang perlu mengkhawatirkan dia. Setiap anak punya cara sendiri untuk bertumbuh, dan mengkhawatirkan mereka dengan ide-ide yang kita tanamkan tidak akan berguna sama sekali."
+      },
+      {
+        "Title": "Tentang Ineffa",
+        "Context": "Waktu aku minta dia kirimkan surat untukmu, aku sama sekali tidak tahu apa yang dia lalui. Jiwa yang terlahir dalam tahanan, yang melampaui kutukannya dan akhirnya meraih kebebasannya ... Aku kasih tahu ya, waktu ceritanya tersebar sampai di Mondstadt, itu bakal jadi salah satu kisah legendaris! Entah Vennessa atau Bunga Bersayap, orang-orang pasti akan terinspirasi dengan cerita melepaskan diri dari belenggu untuk mengejar kebebasan."
+      },
+      {
+        "Title": "Tentang Flins",
+        "Context": "Banyak orang yang sulit bedakan semangat kesatria dengan bangsawan. Mengingat bagaimana bangsawan Mondstadt Kuno bertindak di zaman dulu, ada saatnya juga aku tidak izinkan ide seperti itu lewat. Tapi kalau semua bangsawan kayak Flins? Haha, aku bahkan bisa minum setiap minggu dengan mereka."
+      },
+      {
+        "Title": "Tentang Nefer",
+        "Context": "Jaringan Intelijen Utara benar-benar membantu pasukan ekspedisi waktu kami tiba di Nod-Krai. Aku berencana untuk mempertahankan hubungan kerja sama ini di masa mendatang, meski aku punya nama samaran untuk diriku sendiri: \"Lupus Majoris\"! Keren, kan?"
+      },
+      {
+        "Title": "Tentang Jahoda",
+        "Context": "Mungkin dia sering mengeluh, tapi begitu bekerja, dia itu efisien sekali. Kamu tahu orang itu tidak main-main kalau mereka menjuluki dirinya sebagai pemburu harta karun di tempat yang sulit seperti Nod-Krai. Aku bahkan sempat terpikir untuk merekrutnya ke Knights of Favonius, tapi itu berarti aku harus pisahkan dia dari bosnya sekarang, dan ... Aku rasa dia tidak mau ganti kerjaan sih, haha. Aku bahkan sempat kepikiran untuk menawarkan dua kali gajinya, tapi lebih baik aku tutup mulut saja."
+      },
+      {
+        "Title": "Tentang Mavuika",
+        "Context": "Entah sebagai manusia atau dewi, Archon Pyro itu benar-benar pejuang yang pantas dikagumi. Kalau aku terlahir di Natlan, apa aku punya kesempatan untuk adu pedang dengannya waktu dia masih jadi manusia ya ... Hmm, tapi kalau begitu, aku jadi tidak bisa lindungi Mondstadt dong? Hmm, tidak bisa begitu ... *huff* Biarin saja deh kalau begitu."
+      },
+      {
+        "Title": "Tentang The Captain",
+        "Context": "Aku cuma pernah ketemu dia sekali, tapi ... Seriusan? Knight Khaenri'ah ... \"Knight Penyangga Langit\" Thrain ... Sepertinya dia memutuskan untuk mengatur hidupnya sendiri."
+      },
+      {
+        "Title": "Mengenal Varka: I",
+        "Context": "Eh? Aku? Maksudnya apa? Kamu penasaran sama apa? ... tunggu dulu, di perpustakaan ada buku yang judulnya \"Seratus Fakta Tentang Varka yang Tak Kamu Ketahui\"? Oke, sekarang aku ikutan penasaran. Aku bahkan tidak tahu kalau ada buku itu. Oke, kita cek faktanya."
+      },
+      {
+        "Title": "Mengenal Varka: II",
+        "Context": "\"Tidak ada Knight of Boreas yang pernah menyatakan dirinya sebagai yang terkuat sepanjang masa, karena kerendahan hati dan kejujuran adalah kebajikan seorang knight - hingga Varka muncul. Karena saat dia menyatakan ini, dia sedang bersikap rendah hati dan jujur.\" Huff ...."
+      },
+      {
+        "Title": "Mengenal Varka: III",
+        "Context": "\"The Four Winds Mondstadt pernah merujuk pada pedang utama Varka, pedang di tangan kirinya, tendangan terbang kiri, dan tinju kanan. Tetapi tak ada yang menyaksikan rangkaian lengkapnya dan berhasil selamat untuk menceritakan kisahnya, jadi hanya versi frasa saat ini yang tersisa.\" ... Ehem, itu agak berlebihan sih. Tidak mungkin aku bisa menangani semua pekerjaan The Four Winds sendirian."
+      },
+      {
+        "Title": "Mengenal Varka: IV",
+        "Context": "Singkirkan buku itu deh, lucu sekali ... Mungkin ditulis sama orang yang mabuk. Seperti yang kamu lihat, Varka dalam hidup nyata sama dengan semua manusia lainnya. Aku bisa merasakan sakit, aku berdarah, aku menua ... Jadi, sama seperti teman yang lain, kamu bisa kenal denganku lebih dekat melalui ngobrol santai di kedai daripada mendengarkan semua rumor dan desas-desus. Gimana? Mau minum sekarang?"
+      },
+      {
+        "Title": "Mengenal Varka: V",
+        "Context": "Ayo minum! Segelas lagi! Hahaha ... Sampai di mana tadi? Oh ya, luka ini terjadi waktu aku melawan Boreas. Dia cakar aku! Aku berteriak lebih kuat daripada lolongannya ... Yang ini waktu aku sedang mengikuti tantangan Hexenzirkel seorang diri ... Kalau manusia fana ingin melindungi semuanya, mereka harus siap untuk mengorbankan segalanya. Itulah kenapa aku bisa jadi \"Knight of Boreas Terkuat\". Yah, begitulah yang terjadi ...."
+      },
+      {
+        "Title": "Hobi Varka",
+        "Context": "Aku rasa dulu aku itu bisa dibilang petualang deh. Pergi ke tempat baru, melawan musuh baru ... Kamu selalu merasa berapi-api, kan? Tapi sekarang ... Yah, ada banyak hal yang lebih penting dalam hidupku. Yang harus aku lindungi."
+      },
+      {
+        "Title": "Kekhawatiran Varka",
+        "Context": "Aku pikir dulu ya ... Membangun benteng di Nod-Krai, alokasikan pertahanan di Dermaga Dornman, mengatur kembalinya pasukan ekspedisi, membuat rincian pengeluaran Knights of Favonius ... Duhhh ... Kok kayaknya siksaan baru kerasa setelah ekspedisinya selesai ya?"
+      },
+      {
+        "Title": "Makanan Favorit",
+        "Context": "Tentu saja— Eh? Maksudmu, selain anggur? Tunggu, apa bola nasi ketan yang difermentasi anggur dan minuman keras dari cokelat termasuk? Tidak ya? Hmm ... Baiklah. Berarti daging besar yang dipanggang dengan api besar, ditemani dengan makanan pembuka yang lezat, keju dan kacang ... hahaha."
+      },
+      {
+        "Title": "Makanan yang Tidak Disukai",
+        "Context": "Ada minuman di luar yang kelihatan seperti anggur, baunya seperti anggur, tapi waktu diminum ... sama sekali tidak ada rasa anggurnya sama sekali! Itu penipuan dong!"
+      },
+      {
+        "Title": "Menerima Hadiah: I",
+        "Context": "Wow! Ini mahakarya! Ini makanan yang pantas ditemani dengan Dandelion Wine terbaik!"
+      },
+      {
+        "Title": "Menerima Hadiah: II",
+        "Context": "Makanannya enak. Divisi Logistik harus banyak belajar darimu."
+      },
+      {
+        "Title": "Menerima Hadiah: III",
+        "Context": "Ini ... makanan yang biasa kamu makan? Duh. Petualangan kayak kalian hidupnya sekeras kami di ekspedisi ... Kita makan yang enak-enak deh."
+      },
+      {
+        "Title": "Ulang Tahun",
+        "Context": "Selamat Ulang Tahun! Jangan ke mana-mana, Knights of Favonius sudah siap untuk menyanyikan lagu ulang tahun untukmu. Biar jelas saja ya, ini bukan penyalahgunaan wewenang ya. Mereka yang minta! Aku cuma bantu aturkan semuanya dan atur tempat. Kamu tahu kami membanggakan kamu kan, Honorary Knight? Ayo, ayo, semua orang sudah menunggu bintang ulang tahun dan vokalis kita!"
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Permulaan",
+        "Context": "Kebajikan knight yang pertama adalah \"kerendahan hati.\" Kamu hanya bisa bertumbuh setiap hari dengan melepaskan ego dan bersedia belajar."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Persiapan",
+        "Context": "Kebajikan knight yang kedua adalah \"kejujuran.\" Kata-kata yang menipu dan licik mungkin memberikan keuntungan sesaat, tapi kemenangan yang diraih dengan pedang tak pernah bisa berbohong."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Klimaks",
+        "Context": "Kebajikan knight yang ketiga adalah \"integritas.\" Setiap knight harus hidup sesuai berdasarkan hati nuraninya sendiri dan menempuh jalannya sendiri. Tempuhlah jalanmu dengan tekad baja, jangan pernah goyah."
+      },
+      {
+        "Title": "Perasaan Tentang Ascension: Konklusi",
+        "Context": "Ingat tiga kebajikan knight? Bagus, sekarang lupakan semuanya. Kita ingin menjadi knight seperti apa, jalan seperti apa yang ingin kita tempuh, itu semua terserah kita!"
+      },
+      {
+        "Title": "Charged Attack: I",
+        "Context": "Hancurkan mereka!"
+      },
+      {
+        "Title": "Charged Attack: II",
+        "Context": "Tebas!"
+      },
+      {
+        "Title": "Elemental Skill: I",
+        "Context": "Terjang!"
+      },
+      {
+        "Title": "Elemental Skill: II",
+        "Context": "Membara!"
+      },
+      {
+        "Title": "Elemental Skill: III",
+        "Context": "Membeku!"
+      },
+      {
+        "Title": "Elemental Skill: IV",
+        "Context": "Sambar!"
+      },
+      {
+        "Title": "Elemental Skill: V",
+        "Context": "Angin badai!"
+      },
+      {
+        "Title": "Elemental Skill: VI",
+        "Context": "Terbelah!"
+      },
+      {
+        "Title": "Elemental Skill: VII",
+        "Context": "Lebih kuat lagi!"
+      },
+      {
+        "Title": "Elemental Skill: VIII",
+        "Context": "Ahh!!"
+      },
+      {
+        "Title": "Elemental Skill: IX",
+        "Context": "Jangan sampai ketinggalan!"
+      },
+      {
+        "Title": "Elemental Burst: I",
+        "Context": "HRAAAAH!!"
+      },
+      {
+        "Title": "Elemental Burst: II",
+        "Context": "Boreas, masuk!"
+      },
+      {
+        "Title": "Elemental Burst: III",
+        "Context": "Majuuu!"
+      },
+      {
+        "Title": "Mulai Lari: I",
+        "Context": "Ikuti aku!"
+      },
+      {
+        "Title": "Membuka Peti Harta: I",
+        "Context": "Ada anggur? Tuangkan segelas untukku ya."
+      },
+      {
+        "Title": "Membuka Peti Harta: II",
+        "Context": "Kalau mau, untukmu saja."
+      },
+      {
+        "Title": "Membuka Peti Harta: III",
+        "Context": "Hadiah untuk petualangnya. Ini semua untukmu."
+      },
+      {
+        "Title": "HP Rendah: I",
+        "Context": "Hah ... waktunya serius!"
+      },
+      {
+        "Title": "HP Rendah: II",
+        "Context": "Lawan yang menantang!"
+      },
+      {
+        "Title": "HP Rendah: III",
+        "Context": "Lengah sedikit ...."
+      },
+      {
+        "Title": "HP Rekan Rendah: I",
+        "Context": "Melindungi sekutu adalah kewajiban seorang knight!"
+      },
+      {
+        "Title": "HP Rekan Rendah: II",
+        "Context": "Mundur, aku akan ambil alih."
+      },
+      {
+        "Title": "Gugur: I",
+        "Context": "Boreas ... tak bisa berakhir di sini ...."
+      },
+      {
+        "Title": "Gugur: II",
+        "Context": "Huh ... Aku bisa gugur juga ...."
+      },
+      {
+        "Title": "Gugur: III",
+        "Context": "Lindungi Mondstadt ... untukku ...."
+      },
+      {
+        "Title": "Menerima Serangan Ringan: I",
+        "Context": "Cuma goresan kecil saja!"
+      },
+      {
+        "Title": "Menerima Serangan Ringan: II",
+        "Context": "Tidak masalah!"
+      },
+      {
+        "Title": "Menerima Serangan Hebat: I",
+        "Context": "Pasti akan membekas."
+      },
+      {
+        "Title": "Bergabung ke Party: I",
+        "Context": "Oke, ayo berangkat!"
+      },
+      {
+        "Title": "Bergabung ke Party: II",
+        "Context": "Hari ini, ke arah mana Boreas akan berembus?"
+      },
+      {
+        "Title": "Bergabung ke Party: III",
+        "Context": "Knight of Boreas, bergabung."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Info Karakter",
+        "Context": "Ketika menceritakan kisah legenda Varka di kedai, biasanya orang akan memulai dari cerita kelahirannya yang legendaris.\nAda yang bilang waktu dia masih bayi, dua ular berbisa mencoba membunuh dia yang akan menjadi sang pahlawan di masa depan, tapi bayi yang belum genap sebulan itu malah melempar keduanya keluar dari buaian seperti mainan, dari situlah dia menguasai rahasia menggunakan pedang ganda!\nAda yang bilang pada hari kelahirannya, Mondstadt yang biasanya cerah dan tenang tiba-tiba dilanda angin utara, yang belum pernah terjadi dalam seabad terakhir, dan seluruh Wolvendom bergema dengan lolongan serigala, sambung-menyambung, seakan pertanda bahwa \"Angin Utara\" akan kembali ke posisi terkuat di antara The Four Winds!\nAda yang bilang dia sudah menjadi knight sejak lahir, dia terpilih oleh takdir, dan ditakdirkan untuk menjadi luar biasa sejak dilahirkan ... tentu saja, semua itu cuma omong kosong belaka.\nTidak ada ular berbisa yang suka menyerang bayi di Mondstadt, atau kerumunan serigala yang terus melolong tanpa henti.\nItu cuma kisah yang digubah oleh para penyair di Tavern untuk menambah kesan dramatis tentang takdir dan malapetaka demi hiburan semata.\nTidak setiap legenda harus dimulai dengan awal yang legendaris, dan tidak setiap mitos harus memiliki campur tangan dewa di balik layarnya.\nDi sebuah hari yang biasa, tanpa angin maupun hujan, di keluarga biasa yang tak miskin maupun kaya, Varka lahir dengan sangat biasa.\nTanpa bahaya, tanpa pertanda ajaib. Di hari-hari setelahnya, dia tumbuh besar seperti anak-anak lain di Mondstadt.\nMendengarkan para penyair menceritakan legenda knight dan dewa-dewa, sambil membayangkan suatu hari nanti dia juga bisa seperti karakter utama dalam cerita itu, menerjang di medan perang.\nTapi setiap kali cerita selesai dan anak-anak bubar berkelompok, dia selalu tinggal di tempat, dan bertanya dengan gigih:\n— Kenapa tokoh utama dalam cerita itu, kalau bukan keturunan dari keluarga kuno tertentu, pasti sudah dapat berkah dari dewa kuno?\nPara penyair hanya bisa tersenyum canggung dan menjawab bahwa: \"Memang seperti itulah kisah yang diceritakan dari zaman dulu.\"\n— Terus siapa yang buat garis keturunan kuno itu? Dan sebelum para dewa menjadi dewa, siapa yang berkati mereka?\nKebanyakan penyair akan langsung terdiam sampai tahap ini, sebagian akan menunjuk ke arah perpustakaan Knights of Favonius.\n— Pertanyaan-pertanyaan semacam itu tidak bisa dijawab dengan \"kisah\", tapi harus dicari di dalam \"sejarah\".\nSebagian kecil dari mereka yang sudah terlalu bosan ditanya, akan menunjuk ke arah padang belantara tanpa batas yang ada di luar kota ....\n— Aku cuma seorang penyair. Mana kutahu? Tanya saja sama Barbatos!\n....\nBertahun-tahun kemudian, Varka akhirnya menjadi \"Knight Legendaris\" generasi baru, pahlawan dalam ceritanya sendiri, dan akhirnya memahami kesulitan yang dihadapi para penyair.\nKenyataan itu tidak perlu dijelaskan kepada siapa pun, tapi sebuah cerita harus bisa dipercaya oleh orang yang mendengarnya.\nDan bagi pendengar biasa, sangat sulit untuk membayangkan. Mana mungkin seorang manusia biasa, tanpa perlu darah keturunan apa pun, tanpa perlu berkah dari dewa mana pun, hanya bermodalkan latihan tanpa henti dan tekad kuat, bisa menjadi seseorang yang legendaris?"
+      },
+      {
+        "Title": "Kisah Karakter 1",
+        "Context": "Saat Varka masih muda dan mengikuti ujian knight untuk pertama kalinya, ia membuat semua penguji tak bisa berkata-kata. Secara harfiah, karena semuanya ditumbangkan olehnya.\nSaat Varka sedang bersemangat dan bersiap menerima penunjukan resmi menjadi seorang knight. Dia justru mendapat sebuah surat penolakan dan semua impiannya pun hancur lebur.\n\"Kepada Varka: Pertama-tama, terima kasih telah mengikuti ujian ini. Kekuatan dan keinginanmu untuk menjadi seorang knight sangat mengesankan bagi kami.\n\"Namun setelah pertimbangan matang dan diskusi secara menyeluruh, dengan berat hati kami informasikan bahwa ...\"\nVarka tidak melanjutkan membaca surat itu. Dia langsung meremas kertas surat itu dan melemparnya ke tempat sampah. Kemudian ia menarik selembar kertas kosong dan mulai merencanakan langkah selanjutnya.\nMalam itu, Valentine—Grand Master generasi sebelumnya dan juga mantan \"Lionfang Knight\" Valentine—diserang oleh seseorang dalam perjalanannya pulang setelah minum-minum.\nSemua pengawal yang menemaninya pingsan, hanya menyisakan Valentine seorang diri. Dia kagum sekaligus kehilangan kata-kata.\nKagum karena potensi orang itu ternyata jauh lebih besar dari yang dibayangkannya. Kecepatannya dalam merencanakan sebuah penyergapan dan mengeksekusinya hanya dalam waktu kurang dari setengah hari sungguh pantas diacungi jempol.\nYang membuatnya terdiam adalah karena motivasi konyol yang dia ungkapkan: Kalau Knights of Favonius tidak bisa melindungi Grand Master-nya sendiri, bagaimana mereka bisa melindungi Mondstadt? Lebih baik serahkan pekerjaan ini kepadanya saja!\n\"Kamu ... tidak baca surat yang aku kirim sampai habis?\" \"Hm? Memangnya surat penolakan harus dibaca sampai selesai?\" \"Biasanya aku menuliskan hal penting di bagian catatan kaki.\"\nUntungnya, Valentine memang berencana untuk bertemu langsung dengan Varka, seperti yang ditulisnya di bagian catatan kaki suratnya. Hanya saja Varka terlalu cepat berasumsi dan mengambil tindakan, sehingga pertemuan mereka jadi jauh lebih cepat dari yang seharusnya.\nJadi, setelah membangunkan pengawal dan meminta maaf kepada mereka satu per satu, Varka mengikuti Valentine untuk minum-minum ronde kedua pada malam itu, sekaligus mendengar alasannya ditolak masuk.\nKeduanya berbincang banyak sambil minum, tapi singkatnya begini: Angin yang terlahir bebas seharusnya tidak boleh terkurung di dalam tembok kota secepat itu.\nValentine merasa, daripada hanya menjaga Mondstadt dan berpatroli di sekitarnya, Varka lebih baik keluar dan menjelajahi berbagai bagian bangsa, gunung, dan lautan.\nSeperti kata pepatah lama: Setelah memainkan ribuan lagu, barulah seorang penyair bisa menciptakan partitur yang luar biasa. Setelah melihat ribuan bilah pedang, barulah seorang pandai besi bisa menempa senjata yang mengagumkan.\n\"Apalagi, kalau kamu benar-benar dipaksa duduk di kantor selama tiga tahun ... eh, tiga bulan deh, kamu pasti langsung mengundurkan diri. Benar, kan?!\"\nMenghadapi pertanyaan tajam Valentine, Varka tertawa canggung sambil menelan kembali kata-katanya yang sebenarnya ingin diucapkannya bersama anggur yang diteguknya: \"Mungkin malah cuma tiga hari.\"\n\"Makanya, aku lebih berharap kamu bisa menemukan alasanmu sendiri untuk menjadi seorang knight.\" Valentine menarik kembali senyumnya dan berkata dengan serius, \"Bukan karena rasa kagum, apalagi karena mendengar cerita dari seorang penyair. Kalau kamu sudah menemukan alasan itu, kembalilah ke Mondstadt.\"\nKeesokan harinya, Varka memulai perjalanannya untuk mencari alasan yang bisa membuat angin yang bebas rela tinggal di dalam tembok kota ... untuk menjadi seorang \"knight\" sejati.\n\"... Bahkan jika suatu hari nanti, kamu harus melakukan pekerjaan yang paling kamu benci demi menjadi seorang knight, hari demi hari.\"\nSambil menikmati angin laut yang asin dari Dermaga Dornman dan memandang matahari yang perlahan terbit, pemuda itu menyipitkan matanya, kembali mengingat nasihat tulus dari knight tua itu.\n\"... Bahkan jika suatu hari nanti, kamu harus melepaskan kebanggaan dan kehormatan yang paling kamu junjung tinggi ... demi menjadi seorang knight.\""
+      },
+      {
+        "Title": "Kisah Karakter 2",
+        "Context": "Sejatinya, tidak ada kampung halaman di dunia ini, sampai tanah asing yang menentukan batasnya.\nSejatinya, tidak ada kerinduan di dunia ini, sampai perpisahan yang menyadarkannya.\n....\nKetika Seamus Pegg menyalin bait puisi pendek ini di catatannya, Varka sedang jongkok di samping api unggun untuk menghangatkan anggur.\n\"Kalau menurutku, kamu harus ke Mondstadt. Dengan kemampuan menyanyi dan berceritamu, kamu dijamin bakal populer di sana!\"\n\"Nanti dulu deh,\" Seamus menerima gelas yang diberikan Varka, mengangkat bahunya dengan biasa. \"... Tapi setidaknya Dandelion Wine yang kamu bilang itu, sepertinya layak dicoba.\"\nDua petualang yang sedang naik daun, jauh dari tanah air masing-masing, bertemu di malam musim dingin di bangsa asing.\nPada waktu itu, Varka sudah mengunjungi banyak bangsa.\nDia pernah melihat monster paling buas, bersembunyi di pegunungan, menggulung ombak besar di laut. Dia juga pernah melihat manusia paling berani yang hanya berbekal tombak dan baju besi biasa, berani berhadapan dengan musuh berjumlah banyak demi melindungi kampung halaman mereka. Millelith, Garde ... orang-orang yang berbeda, di bangsa yang berbeda, dengan nama yang berbeda, menjalankan semangat yang sama.\nNamun, antara dirinya dengan jawaban yang ingin ditemukannya, sepertinya masih terpisah oleh sebuah tabir. Sudah bertahun-tahun meninggalkan kampung halaman, hanya kerinduan akan kampung halamannya yang semakin kuat dan tak kunjung hilang.\n\"Master Crepus sudah pulang untuk mewarisi penyulingan anggur keluarganya, atau dia sudah berhasil mewujudkan cita-citanya menjadi seorang knight ya?\"\n\"Lalu si Frederica yang suka menatap dengan pandangan sinis itu, sudah bertahun-tahun, sudah ada cowok beruntung yang menarik perhatiannya belum ya?\"\nSi Eroch yang selalu suka mengomentari ini-itu tentang aturan kesatriaan, sudah jadi lebih fleksibel belum ya sekarang?\n\"Kira-kira minuman anggur di kampung halamanku, masih sama seperti yang kuingat tidak ya? Keluargaku kangen sama aku seperti aku kangen mereka tidak ya ...?\"\n\"Kalau kamu memang penasaran begitu, kenapa tidak langsung pulang saja?\" Seamus memotong ocehan Varka dengan nada yang terkesan tak berperasaan. \"Kamu kan tidak seperti aku, yang sudah tidak punya orang yang dikhawatirkan di Nod-Krai.\"\n\"Pulang? Tapi aku masih harus mencari jawaban ....\"\n\"Bukannya ... orang-orang yang kamu sebutkan tadi bisa jadi jawabannya???\"\nVarka terdiam, bahkan anggur yang sudah menempel di bibirnya pun tidak diteguknya. Di dalam hatinya, seolah ada satu lapis tirai yang dirobek dengan kasar.\n\"Kampung halaman\" itu bukan sekadar konsep abstrak. Alasan untuk menjadi \"knight\" pun tidak perlu didefinisikan oleh idealisme yang muluk-muluk.\nTapi ... kenapa aku butuh waktu bertahun-tahun untuk menyadari hal sesederhana ini? Apa aku bakal diejek habis-habisan sama mereka kalau pulang nanti?\nBukankah kesadaran seorang pahlawan itu seharusnya terjadi saat momen legendaris, lalu dia kembali dengan penuh kejayaan di masa kejayaannya? Bukannya begitu yang tertulis di cerita-cerita?\nTapi prinsip ini tidak sesederhana yang dibayangkan orang, kan? Orang-orang harus meninggalkan kampung halamannya dulu sebelum bisa merindukan kampung halamannya ....\nSeolah memahami kekacauan pikiran Varka, Seamus berdeham sekali dan menutup catatan di tangannya.\n\"Ehem ... Kalau kamu bersikeras butuh alasan, anggap saja antarkan aku ke Mondstadt. Kebetulan aku juga ingin lihat sendiri seberapa hebat ... Dandelion Wine yang kamu ceritakan itu!\""
+      },
+      {
+        "Title": "Kisah Karakter 3",
+        "Context": "Sejak Varka resmi mewarisi gelar \"Knight of Boreas\", setiap pertempuran yang dipimpinnya tidak pernah mengalami kekalahan.\nJika Lionfang adalah berkah yang tersebar luas di bumi, maka Boreas adalah semangat yang menyokong kekuatan luar biasa. Entah itu perampok yang penuh dosa, monster besar yang menyebabkan malapetaka, sampai Abyss yang mengintai di kegelapan, semuanya tak berdaya di bawah pedang yang tajam seperti angin utara.\nSetelah beberapa kali ekspedisi, semua ancaman di dalam wilayah berhasil dibersihkan. Mondstadt pun memasuki era kedamaian yang belum pernah terjadi sebelumnya.\nKedamaian sepertinya datang dengan begitu mudah, sampai-sampai banyak pihak mulai berpikir bahwa ini adalah kondisi yang seharusnya. Ini berarti para knight di masa damai seharusnya menurunkan persenjataan mereka dan melewati hari-hari mereka untuk mencari kucing, atau anjing hilang ....\nSetelah menjadi Grand Master, Varka mengabaikan suara-suara itu dan terus melanjutkan persiapan ekspedisi berikutnya.\nPengalaman petualangan di masa mudanya selalu mengingatkannya bahwa kedamaian saat ini hanyalah kebetulan semata. Krisis yang terlihat bukan berarti krisis itu tidak ada.\nDi wilayah utara, Abyss masih belum sepenuhnya diberantas. Di laut, para monster masih bersembunyi. \"Durin\" di pegunungan bersalju, serta \"Ursa\" yang tertidur ... Sewaktu-waktu, semua itu bisa menghancurkan kedamaian yang telah susah payah diraih.\nPara senior yang dulu pernah membimbingnya kini sudah menua: Lionfang Knight Valentine, Kapten Kavaleri Feroux, Kapten Pasukan Jarak Jauh Adorno ... Sementara generasi knight yang baru masih butuh waktu untuk berkembang.\nVarka sadar bahwa masa kejayaannya akan memudar seiring berjalannya waktu suatu hari nanti.\nSebagai Grand Master, dia ingin menyisakan lebih banyak waktu bagi generasi penerusnya. Secara pribadi, dia ingin menantang musuh yang lebih kuat di masa primanya.\nMaka dari itu, setelah menyerahkan segala urusan besar dan kecil di Mondstadt kepada para anggota senior dan Inspektur Eroch yang ditunjuk oleh Valentine, Varka pun kembali melakukan ekspedisi.\n... Namun kali ini, Varka mengalami kekalahan yang paling menyakitkan.\nKnight yang terlalu bersinar ini tidak melihat kecemburuan dan obsesi yang bergejolak di balik bayang-bayang yang diciptakannya.\nVarka tidak pernah menyadari bahwa sejak hari dia kembali ke Mondstadt dan bergabung dengan Knights of Favonius, benih-benih kegelapan telah tumbuh di hati Eroch.\nDan ketika fragmen The Doctor berbisik di telinganya, menjanjikan kekuatan dan kewenangan yang melampaui segalanya, emosi gelap mulai membanjir seperti air bah:\nSeorang petualang yang selalu berkeliaran tanpa tujuan, kenapa justru dia yang menjadi Knight of Boreas terkuat?\nSeorang perusuh yang tak pernah mematuhi pedoman seorang knight, malah menjadi knight yang memimpin semua knight lain?\nObsesi yang terdistorsi dan waktu yang berjalan bisa mengubah teman menjadi musuh, sesederhana layaknya angin yang mengubah arahnya.\nInspektur yang seharusnya menjaga ketertiban atas nama Varka, malah menginjak-injak semua prinsip dan keadilan.\nEroch yang ditugaskan untuk memastikan keamanan segel, justru membangunkan monster kuno yang sedang tertidur. Ia berusaha membagi kekuatan langit dengan The Doctor.\nKetika Varka sekali lagi mengalahkan musuh yang tangguh dan melindungi Mondstadt dari ancaman luar, kabar buruk datang dari kampung halamannya. Sahabatnya Crepus gugur di medan perang, dan Inspektur Eroch berkhianat.\nVarka langsung memimpin pasukannya kembali dan langsung membereskan antek-antek Eroch tanpa henti ... Tapi luka yang ditinggalkan Eroch di Mondstadt selama bertahun-tahun sudah terlalu banyak.\nEroch yang sudah terdesak oleh Varka mengakhiri nyawanya sendiri sambil tertawa terbahak-bahak.\nTawa itu tanpa kata-kata, namun dengan jelas mengejek \"Knight of Boreas yang Tak Pernah Kalah\", \"Grand Master yang Setara Dengan Dewa\":\n— Lihat, kamu telah gagal, kamu kalah.\n— Kamu hanya seorang ... manusia biasa."
+      },
+      {
+        "Title": "Kisah Karakter 4",
+        "Context": "Sekuat apa pun seseorang, dia tidak bisa melindungi segalanya, bahkan dengan kekuatan yang setara dengan dewa pun.\nDunia ini terlalu luas, akan selalu ada sudut yang luput dari pandangannya. Kondisi di dunia tak dapat diprediksi, akan selalu ada konspirasi yang tak terduga.\nKebebasan dan kedamaian Mondstadt tidak mudah diperoleh, dan melindunginya juga bukan hal yang bisa dilakukan oleh satu orang atau satu dewa saja. Sebanyak apa pun persiapan dan rencana cadangan yang dibuat tidak akan pernah berlebihan.\nJadi, Knights of Favonius harus terus berinovasi mengikuti perkembangan zaman.\nPasukan Jarak Jauh perlu dilengkapi dengan senjata api yang baru untuk menutupi kekurangan daya tembak mereka, sedangkan Pasukan Pendukung perlu mengembangkan benteng pertahanan yang baru untuk beradaptasi dengan perubahan medan perang ....\nKita tidak perlu menaruh harapan pada satu atau dua pahlawan saja. Perkembangan taktik dan peralatan juga bisa memberikan manfaat nyata bagi setiap knight dalam pertempuran dan kelangsungan hidup mereka.\nKarena itu, Knights of Favonius harus terus melanjutkan warisan ini.\nGenerasi knight baru di bawah pengawasannya mulai mandiri, banyak di antara mereka yang telah menjadi pilar baru.\nTapi ada juga yang belum benar-benar memahami arti menjadi seorang knight dan belum siap menanggung beban dari nama seorang knight. Sama layaknya dulu waktu Varka masih muda.\nKarena itu, Mondstadt butuh sekutu yang tangguh dan dapat diandalkan.\nAtas rekomendasi Archon Anemo, Varka berhasil mendapatkan kursi di Konferensi Tiga Arah. Dengan karisma dan kepandaiannya bersilat lidah, dia pun berusaha meyakinkan sang penyihir yang kekuatannya melampaui nalar dunia biasa.\n\"Tidak kusangka ada seorang knight yang begitu pintar bertutur kata. Hampir kukira Barbatos yang memberinya naskah untuk dihapal.\" Begitulah komentar Alice tentang Varka setelah semuanya berakhir.\nAkhirnya para penyihir menandatangani perjanjian aliansi. Mungkin mereka tidak terbujuk oleh kata-katanya, melainkan ... mereka punya tujuan sendiri?\nTapi dengan adanya perjanjian ini, seharusnya masa depan Mondstadt menjadi lebih terjamin.\n...\nBerdasarkan perjanjian aliansi ini, ujian yang dibuat dengan gabungan kekuatan para penyihir akhirnya selesai dibuat. Varka yang sudah lama tidak melepaskan semua kekuatannya, akhirnya bisa meninggalkan semua beban pikirannya dan bertarung sepuasnya.\nDi akhir ujian, sang penyihir menawarkan knight untuk membuat satu permohonan, tapi knight itu sudah tidak punya keinginan apa pun. Kota yang ingin dilindunginya sudah aman, sedangkan kekuatan yang diinginkannya ... ingin diraihnya sendiri.\nLalu Varka bertanya tanpa berpikir panjang, apakah dia boleh melihat kaca ramalan milik Barbeloth? Hanya untuk memuaskan rasa penasaran yang tiba-tiba muncul saat itu.\nSebelum sempat menikmati sisa-sisa pertempuran, Varka sudah berhasil mengintip sekilas bagian takdirnya dalam pantulan kaca ramalan.\nYang terpantul dalam kaca ramalan adalah kemuliaan tanpa batas, sekaligus penderitaan tanpa akhir.\nDia melihat dirinya sendiri bertarung melawan naga raksasa yang sejati, layaknya yang didambakannya selama ini sejak kecil, melampaui puncak kemampuannya dalam pertempuran berdarah, dan menjadi pahlawan impiannya di tengah sorak-sorai orang-orang.\nDia juga melihat bencana hitam yang menyebar di tanah Nod-Krai dan Snezhnaya, mendengar ratapan orang-orang yang belum pernah ditemuinya dari kedalaman tanah bersalju.\nKenapa dia harus menjadi seorang knight? Pada awalnya, Varka pernah memberikan jawaban untuk dirinya sendiri: untuk melindungi orang-orang yang dicintainya dan yang mencintainya.\nTapi kini takdir mengantarkan pertanyaan yang lebih kejam lagi: Sebagai seorang knight, apakah kamu masih akan berjuang demi melindungi orang-orang yang bahkan tidak tahu namamu?\nKalau takdir sudah memberikan pertanda seperti ini, kenapa tidak mengikuti pengaturannya saja? Bahkan jika masa depan akan memengaruhi Mondstadt, kenapa harus meninggalkan impian dan bergegas ke utara sekarang?\nTidak perlu ragu. Angin utara yang liar dan bebas hanya mengikuti keinginannya sendiri. Setiap warga Mondstadt yang terlahir bebas pasti sudah memiliki jawaban yang sama di dalam hatinya.\n\"Kami tidak akan tunduk pada tiran mana pun, bahkan jika tiran itu adalah ... takdir!\""
+      },
+      {
+        "Title": "Kisah Karakter 5",
+        "Context": "\"Klub Sandiwara Meja\" yang populer di berbagai negara sebenarnya punya banyak gaya permainan. Untuk melatih pemikiran taktis para knight, pasukan ekspedisi juga sering memainkannya di waktu luang mereka.\nPara sesepuh menganggap bermain peran dan narasi adalah inti dari permainan ini. Tapi namanya kan permainan, pasti ada aturan. Selama ada aturan, pasti ada pemain yang mencoba mencari celah dalam aturan tersebut.\n\"Karakterku adalah seorang knight yang jujur dan baik hati, tapi pernah menemukan pedang iblis! Untuk menekan aura jahatnya, aku terpaksa membawanya bersamaku ....\"\n\"Meskipun aku hanya penyair biasa, aku pernah mendengar banyak rahasia sihir yang tidak diketahui banyak orang dari rumor-rumor di kedai pinggir kota ....\"\nLebih dalam lagi, akan muncul orang-orang yang saling membandingkan berbagai \"Karakter\" mereka.\n\"Ahli Tenaga Qi tingkat tinggi bisa menyerang lima kali dalam satu ronde? Dan juga bisa melompat ke atas atap? Keren banget!\"\n\"Tapi kalau sampai ketemu sihir, bukankah dia bakal menjadi sasaran? Penyihir yang bisa mengubah segalanya itu tetap jauh lebih kuat!\"\n\"Tidak, coba lihat yang ini: Penyair pemberani dapat melancarkan sihir sambil menyerang, lalu menggunakan teknik-teknik .... Dia bisa melancarkan sihir, dan juga bisa menyerang lebih dari dua puluh kali dalam satu ronde lho!\"\n\"Kamu nih nyari celah di buku aturan ya!\", \"Tapi memang begitu yang ditulis di buku peraturannya kan!\"\nSetiap kali menghadapi situasi sulit seperti ini di meja pasukan ekspedisi, semua perdebatan selalu berujung ke satu kalimat ini:\n\"Grand Master, menurutmu bagaimana?\"\nVarka yang bertugas sebagai \"Grand Master\" sekaligus \"Game Master\", tentunya memberi respons yang terus terang:\n\"Ekbert, Ahli Tenaga Qi-mu terperangkap di dalam dindin enam sisi yang tidak terlihat.\", \"Ugh!\"\n\"Winfried, seekor Bathysmal Vishap menyeretmu ke dasar laut, sekarang kamu sudah tidak bisa membaca mantra.\", \"Ugggh!\"\n\"Leifhelm ... sesuai aturan, kamu bisa menyerang sambil menggunakan mantra.\", \"Ha! Ternyata aku memang yang terkuat!\"\n\"Nah, sekarang kamu bertemu monster raksasa yang bisa memantulkan mantra-mantra itu. Jadi, silakan pelan-pelan saja.\"\nSetelah beberapa jeritan putus asa, ketiga karakter knight mereka pun \"dibantai\".\n\"... Kekuatan seseorang itu terbatas, tapi ancaman yang kita hadapi itu tidak ada batasnya. Untungnya ini hanya permainan di atas meja, bukan pertarungan melawan Abyss.\"\nVarka menjatuhkan bidak terakhir yang mewakili Karakter tanpa ampun.\n\"Lain kali ingat untuk pahami musuh dulu, dan bagi tugas sebelum terjun ke medan perang! Bahkan Lohen saja tahu kalau Sandiwara Meja ini bukan permainan untuk satu orang!\"\n....\nDengan umur dan pengetahuan yang terbatas, tidak ada manusia yang bisa berdiri sendiri, apalagi saat menghadapi musuh yang terus berubah.\nHanya dengan mengumpulkan api yang tersebar, yang masing-masing menerangi ruang kecilnya sendiri, pada akhirnya setelah mereka menyatu, itu bisa menyaingi bintang-bintang dan cahaya bulan.\n\"Berkah Archon bukanlah hadiah bagimu, melainkan racun mematikan ... kekuatan manusia itu tidak didapat dengan mudah, apa kamu yakin mau melakukan ini?\"\nMalam sebelum keberangkatan pasukan ekspedisi, Dominator of Wolves pernah bertanya seperti itu kepada knight yang datang berkunjung.\n\"Orang yang bisa membunuh Andrius, God of the North Wind, bukan hanya aku saja.\"\nVarka tersenyum seperti biasa, seolah-olah apa yang akan dia hadapi hanyalah hal biasa.\n\"Tapi dari dulu sampai sekarang, hanya Knight of Boreas yang bisa \"menjawab\" Andrius, God of the North Wind kan?\"\n\"... Sepertinya kamu sudah berubah.\"\nSang Wolf of the North memejamkan matanya, seolah-olah melihat kembali sosok knight muda yang penuh semangat itu, yang berulang kali menantang dirinya demi mencapai puncak kekuatan.\n\"Kamu yang dulu tidak akan mengorbankan kekuatanmu seperti ini.\"\n\"Karena dibandingkan dengan kekuatan, aku sekarang memiliki sesuatu yang lebih penting untuk dilindungi.\"\nCahaya fajar menyinari baju zirah para knight menembus dedaunan dan kabut di Wolvendom. Mungkin hanya ilusi saja, tapi suara dari dalam kota terdengar dari angin di pinggiran kota.\nKeriangan anak-anak, tawa dan teguran orang tua. Dentingan logam di landasan tempa, dentingan gelas minuman. Bendera sudah berkibar dengan gagah, para knight sudah berbaris panjang.\n\"Lagi pula, 'kekuatan'ku ....\"\nVarka mengayunkan pedang besarnya yang sudah usang, lalu membawanya sekali lagi ke pundaknya.\n\"— adalah semua orang yang ada di belakangku.\""
+      },
+      {
+        "Title": "\"Lagu Kepulangan Sang Serigala\"",
+        "Context": "Konon, knight yang pertama kali dijuluki \"Boreas\" itu selalu menyanyikan lagu yang sama di kedai setiap kali kembali dari perburuan monster.\nAsal usul lagu itu seperti nama knight tersebut, tidak diketahui dan misterius. Mungkin saja lagu yang masih terngiang-ngiang yang dibawa dari luar bangsa, juga mungkin dia mendengar alunan yang terbawa oleh angin, atau mungkin itu adalah melodi yang diberikan oleh seorang musisi sebagai hadiah setelah diselamatkan oleh knight tersebut.\nBagaimanapun juga, sang knight pasti sangat menyukai lagu ini, dia tidak pernah bosan meski sudah menyanyikannya ribuan kali. Dan karena dia selalu menyanyikan lagu ini setelah kembali dari perburuan monster, para tamu di kedai pun tahu knight kembali dengan kemenangan. Begitu juga dengan penduduk kota, mereka tahu monster-monster di luar kota sudah dikalahkan saat mendengar melodi tersebut.\nKemudian, teman seperjalanannya pun menetap di bangsa Angin, sedangkan knight itu sendiri melanjutkan perjalanan barunya, melodi ini pun dilupakan seiring waktu berjalan.\nKemudian, anak pandai besi bernama Ravenwood kembali mengayunkan pedang besar dengan nama \"Boreas\", dan kerumunan yang bersorak menyanyikan pujian untuk knight yang pulang.\nSejak itu, lagu ini selamanya tersimpan di Mondstadt bersama nama \"Boreas\", diturunkan dari generasi ke generasi oleh para penyair, menampilkan berbagai versi dan kisah yang tak terhitung banyaknya.\nKonon, pasukan Arundolyn sang \"Lion of Light\" pernah menyanyikan lagu kemenangan dengan penuh semangat, sampai mengusir bencana di utara.\nKonon, \"Wolf Pup\" Rostam pernah mendengarkan melodi malam yang lembut di bawah cahaya bintang, dan kembali ke alam mimpi dengan tenang.\nKarena itu, lirik lagu ini semakin panjang seiring waktu berlalu, bagaikan epik pahlawan yang tidak pernah habis-habis.\n....\nWaktunya adalah ketika ekspedisi pertama Varka sejak dia menjadi Grand Master. Para knight berkumpul di lapangan latihan dan menyanyikan lagu-lagu kuno sesuai tradisi, berdoa untuk kemenangan di masa depan dan kembali dengan selamat.\nSetelah mengakhiri pidato singkatnya, Varka membuka pintu kantornya dan menemukan kotak hadiah yang panjang dan lebar di atas meja.\n\"Pedang yang kamu gunakan sebelumnya sudah tidak bisa diperbaiki lagi kan? Mending ganti pedang yang baru sekarang.\"\n\"Dengan gaya bertarung kamu, pedang sebagus apa pun nantinya akan rusak juga .... Semoga pedang ini bisa bertahan lebih lama di tanganmu.\"\n\"Oh ya, selamat ulang tahun. Mungkin kamu lupa, tapi kami semua masih ingat.\"\nDi balik kertasnya, ada tanda tangan dan catatan tambahan.\n\"Seamus, Frederica, Valentine, dan semua Knights of Favonius.\"\n\"Lagi-lagi, kita sudah lama berdebat soal nama pedang ini, tapi tidak ada yang cocok ... mending kita serahkan saja kepada pemiliknya.\"\nNyanyian para knight di tempat latihan masih terdengar jelas meski terhalang tembok-tembok tinggi.\nDia menggenggam erat gagang pedang dan mengarahkannya ke sinar bulan yang jauh di luar jendela. Puisi dan nyanyian yang tak pernah berhenti, bergema kuat di dalam hati Varka:\nAyo raih kemenangan! Untuk keadilan, untuk kesatriaan yang abadi!"
+      },
+      {
+        "Title": "Vision",
+        "Context": "Bahkan tanpa Vision pun, manusia tetap bisa meraih pencapaian yang luar biasa.\nRaja manusia Natlan memimpin pahlawan menuju takhta dewa, para jenius Fontaine pernah menggunakan numerologi untuk menyimpulkan dunia, dan guru agung Liyue menguasai dunia dengan tombak dan pedangnya.\nDalam waktu yang tak terhitung, di antara manusia yang tak kalah banyak jumlahnya, selalu ada beberapa variabel yang melampaui akal sehat.\nDi Mondstadt, ada seorang knight tanpa Vision, yang hanya mengandalkan kekuatan dan kecepatan untuk mencapai puncak kekuatan. Dengan pedang di masing-masing tangannya, dia menciptakan tarian pedang yang luar biasa.\nNamun, kemampuannya yang luar biasa ini hanyalah suatu kebetulan. Sejak \"Lion of Light\" tiada, Mondstadt tidak pernah lagi ada seseorang dengan bakat seperti itu. \"Knight Sempurna\" yang dipercaya oleh \"Wolf Pup\" dan \"Lion of Light\" pun sudah menempuh perjalanan yang berlumuran darah sebelum dia sempat menguasai tarian pedang tersebut.\nDi antara knight generasi berikutnya, seringkali ada individu-individu yang kuat seperti mereka, yang mahir menggunakan dua pedang. Namun, tidak ada satu individu yang mampu menggunakan keduanya secara bersamaan dengan mudah.\n....\nKetika pertanyaan ini muncul di hadapan Varka, bahkan dia pun kesulitan untuk menjawabnya:\nDia memang punya kekuatan yang sebanding dengan \"Lion of Light\", tapi dia tahu bahwa menggunakan dua pedang secara bersamaan itu tidak hanya membutuhkan kekuatan yang sangat besar, namun juga keterampilan yang luar biasa. Kalau tidak, tenaga sekuat apa pun pasti akan sering kewalahan dan tidak mampu menangani semuanya, lebih baik langsung gunakan satu pedang saja.\nDalam penelitian dan catatan Knights of Favonius tentang tarian pedang, tidak ada deskripsi tentang teknik tersebut. Tampaknya para pendahulu meremehkan keanggunan tarian pedang ini.\nTapi itu bukan masalah besar. Meskipun tidak ada lagi manusia yang memahami bentuk utuh tarian pedang ini, tapi di Wolvendom ada seseorang yang mungkin pernah menyaksikan \"Lion of Light\" di masa kejayaannya.\nKnight yang masih muda dan arogan selalu melakukan apa pun yang terlintas di pikirannya. Dengan membawa seguci anggur dan dua pedang di punggungnya, dia berjalan masuk ke dalam hutan.\n....\nHari pertama dan kedua, Great Wolf King of the North meraung-raung, dan Varka pun dihajar mati-matian.\nHari ketiga dan keempat, suara jeritan semakin berkurang, dan bunyi pedang serta cakar yang bertabrakan terdengar semakin jelas.\nBahkan dalam ingatan Lupus Boreas yang berusia ribuan tahun, penantang seperti ini masih bisa dihitung dengan jari.\nMeskipun sudah lulus ujian, dia masih terus melancarkan serangan. Meskipun sudah mendapat pengakuan dari dewa, dia masih belum mengakui teknik pedangnya sendiri.\nSelain itu, ada satu pertanyaan lain di dalam hati Lupus Boreas.\nSetelah pertarungan yang sengit, Lupus Boreas melihat ke arah knight yang sedang mabuk parah.\n\"Manusia ... kekuatanmu sudah matang, dan keinginanmu sudah membara ... gelar Boreas di era ini adalah milikmu.\" Lupus Boreas terdiam sesaat, \"... Tapi kenapa kamu masih belum diperhatikan oleh langit?\"\n\"Diperhatikan langit? ... ah, maksudmu Vision ya? Ini dia.\"\nVarka mengangkat bahu, lalu mengeluarkan sebuah permata yang berkilau dari belakang pinggangnya.\n\"Kayaknya dulu pas lagi minum-minum, tiba-tiba muncul di dasar gelasnya ... atau mungkin waktu lagi beresin barang-barang setelah kembali dari petualangan?\"\n\"Kamu ... sudah lama diperhatikan? Lalu kenapa kamu tidak menggunakan kekuatannya?\"\n\"Kalau Arundolyn dulu bisa menciptakan tarian pedang tanpa Vision, tentu saja aku juga harus mengulangnya dengan cara yang sama.\"\nVarka bangkit dengan tenang, meregangkan lengannya, lalu mengangkat kedua pedangnya kembali.\n\"Sudah selesai istirahat kan, Lupus Boreas?\"\nKedua pedang bersilangan, dan Vision di pinggangnya bersinar dengan cemerlang.\n\"Langkah selanjutnya, aku akan melampauinya.\"\nBelajar, mewarisi, dan melampaui.\nSejak dahulu kala, inilah keahlian terbaik manusia."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212800,
+      "Name": "Oath to the North Wind",
+      "Description": "Model pakaian Varka. Keyakinan seorang knight lebih kuat dari zirahnya, keteguhan angin utara lebih tajam dari ujung pedangnya. Pakailah baju besi ini dan ucapkan sumpahnya. Rasanya baru saja berlalu, tapi sudah berlalu bertahun-tahun.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104154,
+    113085,
+    100021,
+    112124,
+    104303,
+    113074
+  ],
+  "NameCard": {
+    "Name": "Varka: Lead Wolf",
+    "Description": "Style Kartu Nama.\nSekumpulan serigala mengejar angin yang datang dari utara, tetapi hanya pemimpin kawanan serigala ini yang tahu bahwa sejak mereka mulai berlari, angin itu telah mengelilingi kaki mereka semua.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "PicturePrefix": "UI_NameCardPic_Varka"
+  }
+}

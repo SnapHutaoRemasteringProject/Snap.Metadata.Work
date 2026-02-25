@@ -1410,7 +1410,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Nhật Ký Hành Trình - Thiên Mệnh",
-    "Description": "Hoa văn danh thiếp.\n\"Xưa có trung hồn, như cánh nhạn li tán đông tây\", \"Nay ta dẫn đèn, chỉ mong linh hồn đừng chia cách\".",
+    "Description": "Hoa văn danh thiếp.\n\"Xưa có trung hồn, như cánh nhạn ly tán đông tây\". \"Nay ta dẫn đèn, mong linh hồn chẳng còn lạc lối\".",
     "SpecialDescription": "Hoa văn danh thiếp \"Nhật Ký Hành Trình - Thiên Mệnh\"",
     "Icon": "UI_NameCardIcon_Bp15",
     "Pictures": [
@@ -3260,6 +3260,31 @@
     "Pictures": [
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
+    ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka - Sói Đầu Đàn",
+    "Description": "Hoa văn danh thiếp.\nBầy sói đuổi theo cơn gió đến từ phương bắc, nhưng chỉ có thủ lĩnh bầy sói mới biết rằng, ngay từ khi bắt đầu chạy, cơn gió đã quấn quanh chân của mọi người rồi.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Nhật Ký Hành Trình - Bắc Phong",
+    "Description": "Hoa văn danh thiếp.\nĐó là những gì mà gió có thể mang đến từ phương bắc: Chút giá lạnh nhẹ nhàng, hương thơm cuối cùng của bông hoa trước khi lìa cành, và tin tức về người con xa xứ sắp trở về.",
+    "SpecialDescription": "Hoa văn danh thiếp \"Nhật Ký Hành Trình - Bắc Phong\"",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
     ]
   }
 ]

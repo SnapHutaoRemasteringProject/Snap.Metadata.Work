@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "Memang Begitulah Seharusnya",
-    "Description": "Menyaksikan kembalinya Bulan Mimpi Buruk.",
+    "Description": "Menyaksikan kembalinya Bulan Palsu.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "Pelangkah Bulan",
+    "Description": "Saat Radiant Moongecko sedang bersiap melancarkan Voidstep Reverberation, hancurkan Moonstone Anchor untuk mencegah pengisian dayanya.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

@@ -4648,7 +4648,7 @@
         },
         {
           "Level": 1,
-          "Description": "Increases ATK by <color=#99FFFFFF>25%</color>. When party members obtain Elemental Shards from Crystallize or Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>22.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
+          "Description": "Increases ATK by <color=#99FFFFFF>25%</color>. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>22.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
         },
         {
           "Level": 2,
@@ -4656,7 +4656,7 @@
         },
         {
           "Level": 3,
-          "Description": "Increases ATK by <color=#99FFFFFF>35%</color>. When party members obtain Elemental Shards from Crystallize or Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>31.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
+          "Description": "Increases ATK by <color=#99FFFFFF>35%</color>. When party members obtain Elemental Shards from Crystallize or trigger Lunar-Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>31.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG. Up to 1 Seal may be obtained every second through the Lunar-Crystallize reaction."
         },
         {
           "Level": 4,
@@ -4774,6 +4774,59 @@
       114064,
       112115,
       112103
+    ]
+  },
+  {
+    "Id": 12515,
+    "PromoteId": 12515,
+    "Sort": 5211,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Gest of the Mighty Wolf",
+    "Description": "Legend has it that this greatsword was forged by the hand of Ravenwood, who inherited the name of Boreas, prior to his ascension to knighthood.",
+    "Icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+    "AwakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Indomitable Chivalry",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Increase ATK SPD by 10%. Every time the equipping character's Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds' Hymn respectively: DMG dealt is increased by <color=#99FFFFFF>7.5%</color> for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds' Hymn also increases the equipping character's CRIT DMG by <color=#99FFFFFF>7.5%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "Increase ATK SPD by 10%. Every time the equipping character's Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds' Hymn respectively: DMG dealt is increased by <color=#99FFFFFF>9.5%</color> for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds' Hymn also increases the equipping character's CRIT DMG by <color=#99FFFFFF>9.5%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "Increase ATK SPD by 10%. Every time the equipping character's Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds' Hymn respectively: DMG dealt is increased by <color=#99FFFFFF>11.5%</color> for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds' Hymn also increases the equipping character's CRIT DMG by <color=#99FFFFFF>11.5%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "Increase ATK SPD by 10%. Every time the equipping character's Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds' Hymn respectively: DMG dealt is increased by <color=#99FFFFFF>13.5%</color> for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds' Hymn also increases the equipping character's CRIT DMG by <color=#99FFFFFF>13.5%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "Increase ATK SPD by 10%. Every time the equipping character's Normal Attack(s) hit opponent(s), when they cast their Elemental Skill, or when they begin their Charged Attack(s), gain 1/2/2 stacks of Four Winds' Hymn respectively: DMG dealt is increased by <color=#99FFFFFF>15.5%</color> for 4s. Max 4 stacks. This effect can be triggered once every 0.01s.\nAdditionally, when the party has the \"Hexerei: Secret Rite\" effect, each stack of Four Winds' Hymn also increases the equipping character's CRIT DMG by <color=#99FFFFFF>15.5%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114008,
+      112139,
+      112034
     ]
   },
   {
@@ -7296,7 +7349,7 @@
         },
         {
           "Level": 4,
-          "Description": "After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>80%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>16s</color>."
+          "Description": "After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>80%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>16</color>s."
         }
       ]
     },

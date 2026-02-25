@@ -1153,5 +1153,11 @@
     "Description": "Thème.\nAyaka change constamment d'éventail. Si vous voulez en donner en cadeau, évitez un éventail d'été ou un éventail de lancer. Les éventails de danse ou pour le thé sont de bons choix cependant.",
     "Icon": "UI_NameCardIcon_Ayaka",
     "PicturePrefix": "UI_NameCardPic_Ayaka"
+  },
+  "TraceEffect": {
+    "Id": 215018,
+    "Name": "Écho : Héron de givre",
+    "Description": "L'écho peinturé de Kamisato Ayaka. « Il ne faut pas dire que l'hiver est dépourvu de couleurs tandis qu'une neige d'un blanc immaculé recouvre le moindre recoin. »",
+    "Icon": "UI_TraceEffectIcon_Ayaka"
   }
 }

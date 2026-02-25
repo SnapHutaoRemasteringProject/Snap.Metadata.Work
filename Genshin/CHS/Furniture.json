@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "法尔伽",
+    "Description": "家园入住角色",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -10657,7 +10678,7 @@
     ],
     "Id": 379008,
     "Name": "斗棘鱼",
-    "Description": "珍贵的观赏鱼，可被饲养于「灵沼云池」和「澄波游影」中。\n长满刺状鳍的迅猛鱼类，全速游动时矛般尖吻甚至能劈开水流。因此又得名「劈水刺」、「箭难追」等。\n有着棘鱼中数一数二的自尊心。尤其在求偶期间，任何一点风吹水皱能有可能激怒它们。曾有爱好者观察到一条斗棘鱼正向着摇曳的水草发起冲锋，显然它认为如此放荡形骸的舞姿是对棘鱼王者的严重挑衅。\n「若在水下相遇，请勿与它们对视。」——《野钓手册·斗棘鱼篇》",
+    "Description": "珍贵的观赏鱼，可被饲养于「灵沼云池」和「澄波游影」中。\n长满刺状鳍的迅猛鱼类，全速游动时矛般尖吻甚至能劈开水流。因此又得名「劈水刺」、「箭难追」等。\n有着棘鱼中数一数二的自尊心。尤其在求偶期间，任何一点风吹水皱都有可能激怒它们。曾有爱好者观察到一条斗棘鱼正向着摇曳的水草发起冲锋，显然它认为如此放荡形骸的舞姿是对棘鱼王者的严重挑衅。\n「若在水下相遇，请勿与它们对视。」——《野钓手册·斗棘鱼篇》",
     "Icon": "UI_Homeworld_Fishable_Maritime_Aspidorhynchus_02",
     "Rank": 200100
   },
@@ -54577,7 +54598,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -54893,7 +54914,7 @@
     ],
     "Id": 374333,
     "Name": "作战沙盘-「预先演示」",
-    "Description": "以大团长法尔迦的沙盘为原型而制作的模型，简约但实用。\n「在我们犹犹豫豫的时候，深渊也正戕害无数人的性命。早一刻出征，就能早一刻改变他们的命运。」情报是行军的基础，若能够在沙盘中预先演示未来可能发生的场景，那么行进或者战斗带来的损伤，应当都会大大减少吧…",
+    "Description": "以大团长法尔伽的沙盘为原型而制作的模型，简约但实用。\n「在我们犹犹豫豫的时候，深渊也正戕害无数人的性命。早一刻出征，就能早一刻改变他们的命运。」情报是行军的基础，若能够在沙盘中预先演示未来可能发生的场景，那么行进或者战斗带来的损伤，应当都会大大减少吧…",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
     "Rank": 130300
   },
@@ -55421,6 +55442,1472 @@
     "Description": "以一位守护月亮的仙人为原型而制作的巨大霄灯，造型为一匹皎洁的白马从山崖的缝隙间跃过，絮云缠抱，彩霞迤逦。如今，大家都愿意将心愿写在霄灯上，或许如此，那白马仙人就愿意驾着玉制的高车从月亮上下凡，回应人们的心愿呢？",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361345,
+    "Name": "「圆圆饼干」",
+    "Description": "常见于「叮铃哐啷蛋卷工坊」的低矮圆桌，主体由铁皮打造而成，结构稳固，造型如同圆圆的焦香饼干。\n时常有人因为是否为这张桌子铺上漂亮的桌布而纠结——「但是如果铺了桌布，清理那些掉在桌布上的蛋卷碎屑就很麻烦！」。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361346,
+    "Name": "「叮铃哐啷收纳屋」",
+    "Description": "常见于「叮铃哐啷蛋卷工坊」的收纳桌，有着明确的分区，就像连片高低错落的房屋一般。\n「这个是锤子的小屋，那个是钉子的小屋…」在这张桌子上进行分类收纳的人如是说。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361347,
+    "Name": "霜月圆桌-「柔软天蓝」",
+    "Description": "常见于「霜月之坊」的圆桌，由韧性和防水性能俱佳的夏栎木打造，有很广泛的适用性。\n霜月之子的工匠借高悬夜空的明月为灵感，为这如月轮般的圆桌搭配了一张柔软的天蓝色桌布，赋予它夜空般的宁静与温馨。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 363414,
+    "Name": "「何人的手札」",
+    "Description": "「霜月之坊」中随意堆叠着的书籍堆，其中大多都不是仔细装订的书籍，而是一些岌岌无名作者的手札。\n往往这类书籍中，会藏着跌宕起伏、精彩绝伦的故事，凌乱的字迹、混乱的语序亦或着是留在书页上的痕迹，似乎都在诉说着作者书写时的真实状态。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 363415,
+    "Name": "霜月小桌-「果香四溢」",
+    "Description": "常见于「霜月之坊」室内的小桌，上面常常摆放着最为新鲜的时令水果。\n摆放在茶几上的水果除了用来食用，往往还有着作为香氛的作用——悠悠的果香弥漫室内，既不浓烈，又能营造温馨惬意的氛围。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 363511,
+    "Name": "「连枝蔚蓝」",
+    "Description": "永不凋谢的机械花。是执灯士们偏爱的室内盆栽摆件。\n「没空照料…没有光照…甚至连一铲肥沃的土壤都挖不出来！」\n所以，当执灯士中善于做手工的人用废弃的材料捣鼓出这样一盆颇具模样的盆栽时，所有人都很高兴——如同天空一般蔚蓝的颜色，也是久居深夜中的人渴望见到的色彩。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 362134,
+    "Name": "夏栎木「枕月」靠背椅",
+    "Description": "主体由夏栎木打造而成的椅子，常见于「霜月之坊」。\n其靠背经过雕刻后，镂空的部分如同一轮圆月。当被摆放到室内后，其椅面上铺设了柔软的天蓝色软垫，为室内营造了一种温馨自然的氛围。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 363119,
+    "Name": "「凛角微光」",
+    "Description": "常见于「霜月之坊」室内的木制灯具，造型以凛角鹿为灵感来源，颇具特色。\n虽说设计了用于手提的把手，但其自重较高，常被摆放在固定位置。「霜月之坊」中的大部分人都将其作为夜灯使用，其光线既能点亮夜路，又不会惊扰友善的小动物。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 363120,
+    "Name": "「扭扭蘑菇」",
+    "Description": "可见于执灯人营地的灯具，有着蘑菇般的外形。\n与市面上大部分以「蘑菇」为造型来源的灯具不同，该灯具发光的部分并不为蘑菇的「伞盖」，而是它弯弯扭扭的「伞柄」。更为特别的是其能发出的灯光——一半如阳光般温暖，一半如月光般清冷。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361413,
+    "Name": "「最最好小窝」",
+    "Description": "可见于「叮铃哐啷蛋卷工坊」的小床，以稳固的金属床架为基础，铺上可爱图案的粉色床单与柔软枕头。它宽大的尺寸和适宜的高度，让使用者无论采取何种睡姿都能安然入眠，享受绝佳的睡眠体验。\n「这是我睡过的、世界上最好的床！」亲手打造这张床的创造者骄傲地说道。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361414,
+    "Name": "霜月石床-「沁人凉意」",
+    "Description": "常见于「霜月之坊」的石床，表面铺着柔软的毯子，但对于躺在上面的人而言，仍会感到其较为坚硬。\n若是在天气炎热的日子，躺在这张床上，就能体会到沁人的凉意。但若是严寒的冬季，最好还是铺上一层厚厚的褥子之后，再躺上去才好。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361121,
+    "Name": "室内矮桌-「独有价值」",
+    "Description": "执灯人营地中常用的矮桌，有着较为充裕的储物空间。\n作为一个架子，它往往承载着使用者的「兴趣」——爱花的人会在上面摆满鲜花盆栽，爱书的人堆满书籍，热爱美食的人填充食物。而对于执灯士，这矮桌作为离床铺最近的家具，其上最常摆放的，是被他们视作第二生命、永远随身携带的提灯。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361122,
+    "Name": "室内书架-「闲暇品读」",
+    "Description": "执灯人营地中常用的书架，设计较为独特，能够轻松摆放下多种尺寸的书籍。\n对执灯士而言，知识是一项宝贵的财富，偶然间获得的一点知识，或许能够在关键时刻拯救生命。因此，当得空时，许多执灯士都会聚集在书架前汲取智慧，在休息中为下一场战斗做好准备。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361123,
+    "Name": "室内柜台-「正式拜访」",
+    "Description": "执灯人营地中常用的柜台，通体由铁皮打造而成，坚实稳重。柜台后往往会站着轮值负责人，以便于接待那些陌生的、想要拜访的人士。\n从外观上看，这柜台看起来简陋且粗犷，而这正是执灯士的用意。它能很好地劝退那些没有经过深思熟虑，就贸然进入险境的「不速之客」。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361124,
+    "Name": "「高高塔楼」",
+    "Description": "可见于「叮铃哐啷蛋卷工坊」的柜子，下宽上窄，如同有许多楼层的塔楼一般。这种别具一格的造型不仅带来极佳的收纳能力，还使重心稳固，让柜子在受到巨大的外力冲击时也不易倾覆。「每一层里都有不同的住户，大大的住底下，小小的住上面，就像高高的塔楼一样！」出于这样的设计思路，制作者完成了这个外形堪称特别的柜子的打造。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 361125,
+    "Name": "旅馆衣柜-「加大容量」",
+    "Description": "常见于「旗舰」中的衣柜，容量巨大，有着美观雅致的色彩搭配。\n原先此衣柜的容量只有现在的二分之一，但因为「旗舰」中不乏久居的顾客，一旦需要常备着各种天气下都能穿的衣物时，对于衣柜容量的需求就提高了。顾客们联名提出意见要求将原先的衣柜扩容，如今，它已经超过一般衣柜的容量，只是不知道何时，它会再一次进行扩容呢？",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 362322,
+    "Name": "霜月地毯-「明澄一色」",
+    "Description": "常见于「霜月之坊」的地毯，以蓝色为主要色调，点缀了亮眼吸睛的橙红色。整体采用了对称的设计，不仅带来了视觉上的美感，还能带来秩序感与心灵上的安宁。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 362323,
+    "Name": "「绒绒小毯」",
+    "Description": "可见于「叮铃哐啷蛋卷工坊」的圆形地毯，色泽温暖，并被绘制上了可爱温馨的图案。\n地毯使用了柔软细密的织物，整体呈现出了毛绒绒的质感，甚至摸上去时，还会有种摸到猫猫的感觉呢…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 364227,
+    "Name": "「如坚铁般驻守」",
+    "Description": "常见于执灯人营地内的壁挂装饰，由交叉摆放的剑和盾牌构成，体现了执灯士们对战外敌、保卫家人的决心与毅力。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 364228,
+    "Name": "「执灯之帜」",
+    "Description": "常见于执灯人营地内的旗帜，其上绘有执灯人的灯塔图标，展现了执灯士们在黑夜中驻守灯塔，永不退缩的意志。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 364229,
+    "Name": "酒馆壁灯-「廊道悬光」",
+    "Description": "常见于「旗舰」中的壁挂灯，灯光明亮，常常悬挂在走廊中用作照明工具。灯具的吊线采用纯白线绳设计，远远望去，灯光似乎悬浮在廊道之上。这种设计让灯具易受周边振动影响而轻微摆动。熟练的酒保甚至能通过灯光的晃动，掌握酒桌上的异动，以预防可能发生的冲突。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371022,
+    "Name": "基地辅楼-「多用温室」",
+    "Description": "「咔哒咔哒风车基地」的附属建筑，配备了厚实的墙壁和特殊的排烟管道，并连接有外部供热的锅炉，能够稳定维持室内温度。无论用作招待客人的临时卧房、恒温运行的浴室，或持续供热的特殊工坊，这类建筑都是理想之选。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371023,
+    "Name": "基地辅楼-「秘密空间」",
+    "Description": "「咔哒咔哒风车基地」的附属建筑，外形宛若一条张开大口的巨鱼。其厚实的屋顶与墙壁，织就了一道可靠的屏障，为建筑内部提供了极佳的隔音与隔光效果。这样的设计，无论是用作避光避声的特殊实验室，还是用作存放贵重物品的保险库，均无比合适。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371024,
+    "Name": "基地辅楼-「高耸水塔」",
+    "Description": "「咔哒咔哒风车基地」的附属建筑，结构高耸且容积巨大，拥有储存与分配液体功能，有时还可兼作瞭望塔。凭借自身高度，无需外部动力即可利用液体静态压力输送水源，满足基地的供水需求。在炎热季节，该建筑还能通过喷洒水雾，为基地带来清凉舒适的环境。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371025,
+    "Name": "基地风车-「辅助动力」",
+    "Description": "「咔哒咔哒风车基地」的景观风车内部配备了辅助轮机，确保其在各种天候下都能稳定旋转。强风呼啸时，它从容运行，为庭院带来安静祥和之气；而在空气停滞、炙热难耐时，它的灵动旋转则将送来一缕轻快的微风。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371026,
+    "Name": "基地门庭-「输运逻辑」",
+    "Description": "「咔哒咔哒风车基地」所使用的大门，采用了特殊的圆形金属门框，并搭配有绚丽醒目的发光灯牌装饰。\n圆形门框设计的优势在于其框架任一位置到中心的距离相等，方便搬运非常规形状的零件。而「咔哒咔哒风车基地」的设计在此基础上增添了灯牌，使大门在夜晚依然醒目，确保人员和物资出入时的便捷。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371027,
+    "Name": "基地平台-「坚强地基」",
+    "Description": "「咔哒咔哒风车基地」的金属平台，沿用了挪德卡莱部分建筑地基的经典结构设计，其朴实无华的外观之下，隐藏着令人惊叹的承重性能。这些平台不仅能够在普通环境中轻松支撑各种重量，还能在松软地面上稳固地支撑大型工程机关的运作。毫不夸张地说，「咔哒咔哒风车基地」的繁荣景象，正建立在这些坚实地基之上。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371028,
+    "Name": "基地围墙-「拦阻阵线」",
+    "Description": "「咔哒咔哒风车基地」的金属矮墙，以坚固的金属板材打造，其设计灵感源自挪德卡莱与狂猎对抗时的经验。这款矮墙兼具防护性能、经济性和安装便利性，能为射手提供可靠且足够多的射击掩体。\n如今在「咔哒咔哒风车基地」内，这种矮墙被赋予了新的使命：用作空间划分工具，让基地内的格局既层次分明，又保有开阔与通透的视觉效果。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 371029,
+    "Name": "基地立柱-「万用信标」",
+    "Description": "「咔哒咔哒风车基地」的金属立柱，造型坚毅挺拔，作为独立景观时，可为庭院增添力量感与科技感。同时，它具有高度的实用性，侧面安装了悬挂旗帜的升降装置，柱头则可兼容多种实用设备，因此被称为「万用」信标。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 373940,
+    "Name": "「温柔的怀抱」",
+    "Description": "常见于挪德卡莱希汐岛一带的银白石质雕像，有着类似于拥抱的姿势，能够给人带来温暖的观感。\n「迷途的孩子呀，我以终北的后嗣之名，祈求明光的恩泽，愿霜月的慈惠平息寒夜的狂风，温暖冻土上蜷缩的雏鸟。」\n或许正是怀着祛除疾病，让所有人远离折磨的心愿，雕像的工匠才赋予了这一造型以充满慰藉的象征意义。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 374129,
+    "Name": "城镇栏杆-「便捷座椅」",
+    "Description": "城镇中常见的石质低矮栏杆，平整而牢固，有着较为宽大的扶手，甚至可以作为临时的座椅来使用。但注意，切勿在扶手上行走，那很危险…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 374130,
+    "Name": "城镇栏杆-「蓝蓝波涛」",
+    "Description": "城镇中可见的木质低矮栏杆，造型奇特，就如起伏的蓝色波涛一般。\n此栏杆并没有多少阻断功能，但胜在造型独特美观，因此常常作为分隔区域的道具来使用。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "完成「逸闻纪事」获取"
+    ],
+    "Id": 374822,
+    "Name": "「晃晃悠悠盆盆鱼」",
+    "Description": "爱诺制作的机械鱼。附带了一张手写的说明书，字有些歪歪扭扭，但可以辨认出是一些注意事项。\n1.它不需要浇水啦！\n2.不能喂它蛋卷哦！\n3.和它好好相处吧！",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "购买纪行·珍珠之歌获取"
+    ],
+    "Id": 374823,
+    "Name": "「轰轰火花大神像」",
+    "Description": "以蒙德城内某位著名的「火花骑士」为原型打造的神像，似乎还原了她在爆裂的火光中、让万物化成灰烬的威风凛凛的姿态。\n蒙德城的最强战力是谁？有人会说是大名鼎鼎的琴，有人会提名远征的大团长法尔伽，但还有一些人的心中，最强战力还是那一位拥有最强「至宝」的神秘红衣小女孩…",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372521,
+    "Name": "「月色摇曳」",
+    "Description": "通体银白的植物，常见于「银月之庭」。\n该植物有着弯曲细长的茎秆以及形如月亮的枝头，每当夜间的微风拂过时，它便会轻轻晃动，如同月色在摇曳。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372522,
+    "Name": "「摇摇闪闪亮亮摆」",
+    "Description": "丛生且散发着淡淡荧光的植物，生命力顽强，即使没有光照、缺少水分，也能自如且舒展地生长。\n「什么东西摇摇摆摆？什么东西闪亮亮？」\n孩童们编织出了简单易懂的谜语，只等什么时候遇到一个陌生的异乡人时，能好好和对方玩一阵问答游戏。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372523,
+    "Name": "「蓬蓬毛团」",
+    "Description": "如蓬松毛团一般的紫色低矮灌木，美观且生命力强，是优质的观赏植物。\n此类植物有着易于修剪的枝条，所以在园丁的巧手下，往往能以各种各样的造型出现——活泼的小狗、可爱的小猫或者蹦蹦跳跳的小鸟…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372524,
+    "Name": "「赏金猎人」",
+    "Description": "如蓬松毛团一般的绿色低矮灌木，有着极强的环境适应力，可以在非常恶劣的环境下生存。\n据说，这类植物之中，有十万分之一的特例，会因栖息环境的长期影响而改变枝叶的颜色，就像会随大局的变化调整自身生存方式的「赏金猎人」一般。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372359,
+    "Name": "望风橙杪树",
+    "Description": "常见于挪德卡莱野外的树木，有着细长弯曲的树干和较为单薄的树冠。\n此类树有着一个相当适应环境的特性，它们会顺着风的方向生长——如此，即使是强风肆虐，它们也能避免被折断。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372360,
+    "Name": "「苍林的轻语」",
+    "Description": "常见于「银月之庭」附近的树木，有着不同于一般树木的独特外形。\n「在起风的时刻，用银杯中受祝福的清水浇灌苍林之穗，以取悦神明…」\n人们许愿的低语是否能被听见尚未可知，苍林之穗在月矩力的浇灌下，已滋养出盈盈生机…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372361,
+    "Name": "沐光月黄树",
+    "Description": "常见于挪德卡莱希汐岛一带的树木，有着细长弯曲的树干和金黄色的树冠。\n据说，「霜月之子」因其树叶的色泽近似月光的金黄，对这种树尤为喜爱。因此，他们将这种树栽种在通往沐光之台的道路两侧，以述说对神明的虔敬。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372362,
+    "Name": "绿枝碧枿树",
+    "Description": "常见于挪德卡莱野外的树木，有着较为粗壮的树干和新绿色的树冠。\n据说，这种树与它的近亲拥有异常顽强的生命力，其根系发达，能迅速扎入土地汲取营养。甚至只需折下一根小枝插入土中，不久后便能发芽成活，其名字由此而来。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372236,
+    "Name": "「新月的浪潮」",
+    "Description": "常见于「银月之庭」内的山石，有着浪潮一般的独特形貌。\n「恒月的运行牵引着潮升潮落。」不知，这些被引力雕琢而成的浪潮山石上，又镌刻着「月之少女」怎样的思绪…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372237,
+    "Name": "「宝藏守卫」",
+    "Description": "常见于挪德卡莱野外的山石，沉重且坚固，即使是手持利器的壮汉，也很难将其移动。因此在房屋建设或道路铺设中，往往被视为棘手的障碍。但对于擅长挖掘的小动物而言，这些连大型动物都无法撼动的山石，无疑是最好的「宝藏守卫」。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设购买获取"
+    ],
+    "Id": 372238,
+    "Name": "「大地的钝角」",
+    "Description": "常见于挪德卡莱野外的山石，有着坚固且光滑的外表。因其尺寸较小，往往隐藏在茂密的植被中，不易被发现。因此，经验丰富的冒险家会提醒新人：「留心脚下！被它绊倒可比被钝角犀撞到还疼。」",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限时活动获取"
+    ],
+    "Id": 363387,
+    "Name": "据点大门-「可靠鼬鼬」",
+    "Description": "醒目而华丽的金属据点大门，有着可靠的结构强度，可以抵御魔物们的轮番冲击。\n据「青霆」说，大门这威风凛凛的形象，正是天才发明家参考她的鼬鼬伙伴「洋葱尾巴」设计的。那竖起的两根拇指和满溢着自信的神情，彷如发出承诺：「放心好了，一切就交给我吧！」",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限时活动获取"
+    ],
+    "Id": 363388,
+    "Name": "「狼与铁」",
+    "Description": "豪放不羁的特调样品，是在「荣誉骑士特调屋」运营期间，基于「带刺镜湖」，为法尔伽特别开发的杰作。\n品尝过万杯佳酿的大团长希望你放手一战，尽情发挥天才的想法，那就给大团长来一次不同寻常的「攻势」——\n以薄荷的清凉和植物香气，作为入口时的初次冲击，刻意保留的层次感，足以掩护火水的烈性主力，一锤定音。酸奶油则是阵线末尾的部队，负责严谨殿后，不留疏漏…\n根据大团长与蒙德的特点，你命名它为「狼与铁」。这种非同寻常的多层口感，让大团长十分满意，尽情豪饮…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限时活动获取"
+    ],
+    "Id": 363389,
+    "Name": "「嘟嘟可晴天合唱」",
+    "Description": "酸甜可口，热情满溢的特调样品，是在「荣誉骑士特调屋」运营期间，基于「好天气」，为可莉特别开发的杰作。\n原本的「好天气」有着紫色的外观，还不够热情，阳光与白云，更能带来温暖的好心情！\n甜度必不可少，健康也是首要课题，因此选用琴团长也认可的果汁，糖分来自泡泡桔！\n最最重要的嘟嘟可糖果，带来美味的魔法，必须放在云朵的中心！\n可莉说，「天气好，心情好，嘟嘟可会唱歌，可莉也会合唱！」，所以这杯饮料就叫「嘟嘟可晴天合唱」！",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限时活动获取"
+    ],
+    "Id": 363390,
+    "Name": "「浪花剑锋曲」",
+    "Description": "冰净清爽与烈度并重的特调样品，是在「荣誉骑士特调屋」运营期间，基于「星月闪亮饮」，为优菈特别开发的杰作。\n优菈的剑术如同双手剑的旋舞，接触之时，有着雪崩般的冲击，收尾则干净利落，而她本人在饮品上的偏好，同样强调烈性。\n为此，酒中冰块般不含多余味道的火水，纪念意义颇深的海露花果浆，以及补充能量消除疲惫的可可，全都加入了杯中的舞会。\n考虑到，这是为了浪花骑士的剑术所制作的特调，你为这杯特调起了「浪花剑锋曲」一名，优菈则以多达三杯的畅饮表达了她的绝对认可…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限时活动获取"
+    ],
+    "Id": 363391,
+    "Name": "「安梦蔷薇」",
+    "Description": "散发着慵懒气息的特调样品，是在「荣誉骑士特调屋」运营期间，基于「雪韵晨晖」，为丽莎特别开发的杰作。\n经过一天的忙碌，图书管理员既需要恢复元气，又不想失眠。因此，调制过程中，你不再选用提神的成分，并于焦糖酱的甜味和灵动的微酸之间找到了巧妙的平衡点…\n目标是「安稳踏实的睡梦」，你提议叫它「安梦蔷薇」，获得了丽莎「满分」的好评。",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限时活动获取"
+    ],
+    "Id": 363392,
+    "Name": "「悠闲雷光」",
+    "Description": "悠闲中不失严谨的特调样品，是在「荣誉骑士特调屋」运营期间，基于「烈焰焦糖长诗」，为克洛琳德特别开发的杰作。\n雷霆般的决斗代理人循着「桌上剧团」的印象造访蒙德后，对于金属气息的感知异常敏锐，更倾向于「盐」的调性。而她日常偏好的饮品，大多有着微酸解腻的特点。对于普通调饮师而言，平衡这两大要求，需要慎之又慎，而经历了「天使的馈赠」与「旗舰」磨砺的你，显然能够精确把控每种风味物质的比例。\n为了让克洛琳德享受轻轻松松的蒙德之旅，你将这杯特调命名为「悠闲雷光」，成了克洛琳德对蒙德关键的记忆之一。",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "限时活动获取"
+    ],
+    "Id": 363393,
+    "Name": "「云风芳迹」",
+    "Description": "典雅静美，香氛别致的特调样品，是在「荣誉骑士特调屋」运营期间，基于「七时柔灯」，为艾梅莉埃特别开发的杰作。\n来自枫丹的调香师告诉你，过度的甜腻会使人昏昏欲睡，她更习惯点到即止的微醺。让顾客倒在吧台前，显然不是调饮师的第一任务…\n而在风轻云浄之日，人们更为敏锐的感官，能使「浑然一体」的饮品风味成倍增色。\n循着调香的思路，你开发了这杯淡雅的杰作，而艾梅莉埃基于命名香水的思路，给了它「云风芳迹」这个优雅的新名字…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 360107,
+    "Name": "「基地的清凉秘方」",
+    "Description": "「咔哒咔哒风车基地」的标准内墙，由挪德卡莱常用的回收金属材料打造，色泽冷硬且导热性能优异。据说，这种墙体使房屋在烈阳炙烤下也能保持舒适凉爽。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 360307,
+    "Name": "「基地的坚实顶板」",
+    "Description": "「咔哒咔哒风车基地」的标准天花板由均质金属板材精心切割制成，安装便捷、易于清洁，同时兼具出色的功能性与安全性。据说，它选用了与月矩力机关外壳金属相同的材料，在确保高强度的同时有效减轻重量，彻底规避了安全隐患。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 360207,
+    "Name": "「基地的合金地坪」",
+    "Description": "「咔哒咔哒风车基地」的标准地砖，采用了多种形状各异的金属板材嵌合而成，令地板呈现出富有层次感的视觉美感。斑驳而错落的设计使得室内氛围活泼明快，更显独特风格。虽然这种创新设计增加了安装和维护的难度与成本，但得益于使用了回收金属材料，有效平衡了这一缺点。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "洞天百宝·摆设图纸购买习得"
+    ],
+    "Id": 360507,
+    "Name": "「基地的沉静漫射」",
+    "Description": "「咔哒咔哒风车基地」的标准吊灯，由金属吊具配合多盏灯具组合而成，整体风格硬朗简约。每当夜幕降临，灯光交汇，柔和的漫射光如织，仿佛将居住环境化作一片静谧温暖的天地，带走所有疲惫与烦恼。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "「基地的宝库大门」",
+    "Description": "「咔哒咔哒风车基地」的标准房门，采用多层金属材料焊接打造，其设计参考了宝库大门，兼具美观与实用的防毁功能。这种房门能有效抵御钻、撬、砸等工具的破坏，设计初衷是为了防范一切不速之客。当然对于安全的「壶中洞天」而言，这样的防御性能似乎有些大材小用，更多时候恐怕只是为了避免小动物拿它当磨爪板磨坏罢了。",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "「基地的清脆回声」",
+    "Description": "「咔哒咔哒风车基地」的标准转角金属阶梯，以高强度、高耐久和低自重著称。当脚步踏上这些钢铁构成的阶梯时，清脆的声响随之而起，与回声结构的房屋结合，或许能奏出一段激昂的鼓点。",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "「咔哒咔哒风车基地」",
+    "Description": "「掠影之球机」在尘歌壶中重现挪德卡莱风光所筑的大型综合基地，采用久经考验的金属框架结构，并配备完善的输运系统，呈现出不拘一格的狂野气息，与「叮铃哐啷蛋卷工坊」的设计理念一脉相承。不过，与「叮铃哐啷蛋卷工坊」相比，「咔哒咔哒风车基地」取消了生产功能，减少了灯光的使用。即便如此，屋顶上旋转不息的风车仍然让人感受到工坊的忙碌气息，使胸臆间涌现澎湃动力。",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

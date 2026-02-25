@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "法尔伽·头狼",
+    "Description": "名片纹饰。\n群狼追逐自北而来的风——但唯有群狼的首领知道，早在开始奔跑之时，风就已环绕在大家的脚边了。",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "纪行·北风",
+    "Description": "名片纹饰。\n那是风能从北方带来的东西：些微的寒冷、花朵离枝前最后的幽香和远方游子将归的消息。",
+    "SpecialDescription": "「纪行·北风」名片纹饰",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

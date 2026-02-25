@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Nhà Thoải Mái Cho Khách Phương Xa",
+    "Description": "Phòng ngủ được bài trí đầy đủ tiện nghi, lấy cảm hứng từ thiết kế phòng khách của quán rượu lớn nhất Thị Trấn Nasha - Soái Hạm, đồng thời được tối ưu hóa theo nhu cầu của người ở.\nKhách của Quán Rượu Soái Hạm có nhiều bối cảnh phức tạp khác nhau, định nghĩa về sự thoải mái cũng vậy. Việc cân bằng giữa các kỳ vọng khác nhau không hề dễ dàng, cuối cùng Soái Hạm đã chọn một giải pháp độc đáo: Bố trí tất cả vật dụng mà khách có thể sẽ cần vào trong phòng, sau đó loại bỏ những thứ không cần thiết dựa trên ý kiến của khách. Dù bố cục có phần chật chội vì chứa đầy đồ đạc, nhưng ưu điểm là đầy đủ chức năng, mỗi vị khách đều có thể tìm thấy sự thoải mái riêng của mình.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Giấc Ngủ Dưới Trăng",
+    "Description": "Phòng ngủ giản dị và trang nhã, bày trí những món đồ nội thất được Dòng Dõi Sương Nguyệt tuyển chọn kỹ lưỡng, tổng thể mang không khí tao nhã và ấm cúng. Tương truyền rằng, môi trường thiên nhiên yên tĩnh có thể giúp con người thư giãn tâm trí tốt hơn, và căn phòng ngủ này chính là hiện thân hoàn hảo của câu nói ấy. Gối đầu lên ánh đèn dịu dàng như ánh trăng vàng nhạt, không khí thoang thoảng hương thơm trái cây tươi mát, người sống nơi đây dường như cảm nhận được sự mệt mỏi và khổ sở dần được xoa dịu, sự an yên và tĩnh lặng của màn đêm lặng lẽ gọi mời giấc ngủ...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Tọa Độ Trật Tự Của Bí Mật",
+    "Description": "Phòng làm việc với phong cách đặc trưng, bố cục được tham khảo sâu từ Hội Đồng Bí Mật, tái hiện chân thực khung cảnh khi chủ nhân làm việc, mọi thứ đều ngăn nắp trật tự.\nPhân tích tình báo là một công việc phức tạp và đầy thách thức, tình huống rối ren thường khiến người ta không biết bắt đầu từ đâu. Khi đặt mình trong căn phòng được sắp xếp hợp lý với đầy đủ công cụ hỗ trợ như vậy, tư duy của mọi người có lẽ sẽ trở nên sáng suốt hơn, hiệu suất công việc cũng sẽ được nâng lên theo...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Mái Nhà Tuyệt Vời Ấm Áp Nhất",
+    "Description": "Phòng ngủ phong cách Nod-Krai, bố cục tổng thể mang lại cảm giác ấm cúng và thoải mái, là nơi lý tưởng để xua tan mệt mỏi sau một ngày bận rộn. Tất cả vật dụng trong phòng ngủ đều đến từ Xưởng Krumkake Clink-Clank, được chính vị \"phụ huynh\" tỉ mỉ lựa chọn, là những món nội thất tuyệt vời nhất, ấm áp nhất và tiện dụng nhất trên thế gian. Tuy nhiên, sự thoải mái này cũng mang đến một rắc rối nhỏ, người sử dụng thường ngủ quên vì quá thư giãn, thậm chí bỏ lỡ những việc quan trọng. Có lẽ cần một phương pháp đánh thức mạnh mẽ nhưng chu đáo để đảm bảo người sử dụng thức dậy đúng giờ.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Nghỉ Ngơi Trước Trận Chiến",
+    "Description": "Phòng nghỉ tập thể đầy đủ tiện nghi, được thiết kế dựa theo bố cục phòng ở Thành Piramida, tái hiện khung cảnh nghỉ ngơi trước trận chiến của các Ratnik. Những Ratnik dày dạn kinh nghiệm hiểu rõ rằng, cuộc chiến với Cuộc Săn Hoang Dã kéo dài và gian nan, cần phải nghỉ ngơi tối đa khi điều kiện cho phép để duy trì trạng thái chiến đấu tốt nhất. Ngoài ra, phòng nghỉ được bố trí hợp lý còn giúp các Ratnik tăng cường sự quen thuộc với nhau trước trận đánh, trên chiến trường, sát cánh cùng đồng đội quen thuộc sẽ mang lại sự tin tưởng và ăn ý hơn so với người lạ. Chính vì vậy, việc xây dựng phòng nghỉ luôn được các Starshyna vô cùng coi trọng.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Thảo Nguyên Vùng Cực Bắc",
+    "Description": "Cánh đồng tập hợp các loại thảm thực vật và địa hình phổ biến ở khu vực Nod-Krai, tái hiện khá chân thực phong cảnh hoang dã độc đáo của Đảo Hiisi.\nKhu vực Nod-Krai có nguồn Kuuvahki dồi dào, sản sinh ra những loài thực vật màu sắc rực rỡ, động vật có tập tính kỳ lạ cùng địa hình độc đáo. Đối với các nhà nghiên cứu tự nhiên học, vùng đất này ẩn chứa vô số kho báu mang tên tri thức mới. Còn đối với du khách bình thường, cảnh quan kỳ diệu như vậy cũng khiến người ta không khỏi dừng chân chiêm ngưỡng.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Thị Trấn Biên Giới Nhộn Nhịp",
+    "Description": "Cảnh quan khu vực lấy các công trình kiến trúc đặc sắc làm cốt lõi, bố trí các cửa hàng với chức năng khác nhau, tái hiện hoàn hảo một góc phong cảnh của Thị Trấn Nasha.\nTương truyền, Thị Trấn Nasha khác biệt với các thành phố khác, nơi đây không có người quản lý thực sự, cũng thiếu cấu trúc quy hoạch rõ ràng. Điều này khiến khoảng không giữa các tòa nhà trong thị trấn chứa đựng vô số lối đi hẹp và khe hở bí mật. Đối với cư dân bình thường, những lối đi này cũng chỉ là công cụ lan truyền tiếng ồn. Nhưng với những người lưu tâm giỏi nắm bắt thông tin, những lối đi này lại là một trong những đường dẫn để truyền tải bí mật, và còn là lối tắt để di chuyển nhanh chóng...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Cầu Nguyện Tĩnh Lặng Dưới Trăng",
+    "Description": "Cảnh quan ngoài trời được bố trí dựa trên phong cảnh ở Sương Nguyệt Phường, các vật dụng được sắp xếp theo quy tắc của Dòng Dõi Sương Nguyệt, đồng thời trồng thêm cây cối phù hợp với từng vật dụng. Bước vào đây, ta có thể cảm nhận được bầu không khí sống yên bình an nhiên đặc trưng của Dòng Dõi Sương Nguyệt, khúc cầu nguyện du dương dịu dàng dường như lặng lẽ vang lên trong tâm trí, mọi phiền muộn và đau khổ tan theo gió, chỉ còn lại một tâm hồn tĩnh lặng và thư thái.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Ngọn Đèn Cô Độc Giữa Đêm",
+    "Description": "Thôn xóm được xây dựng từ những ngôi nhà kiên cố, bố cục và kiến trúc tham khảo từ các cứ điểm phòng thủ ngoài trời mà Người Giữ Đèn thường sử dụng. Thiết kế này giúp chống chịu mưa gió, thậm chí khi đối mặt với Cuộc Săn Hoang Dã ồ ạt kéo đến thì vẫn sở hữu khả năng phòng thủ đáng nể. Như lời thề mà Người Giữ Đèn đã lập: \"Chúng ta là Người Giữ Đèn, bảo vệ niềm hy vọng cháy bất diệt trên cánh đồng tuyết vô tận.\"\nTrên cánh đồng bao la ngoài Thành Piramida, những cứ điểm này tựa như ngọn đuốc, cứ thế truyền đi ánh sáng của hy vọng.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Công Xưởng Đang Lên",
+    "Description": "Khu dân cư nhỏ được xây dựng theo mô hình Xưởng Krumkake Clink-Clank, trang bị những ngôi nhà sắt hình bán cầu tiện nghi thoải mái, cùng với các công trình mang kiểu dáng thuyền sắt, đủ để đáp ứng nhu cầu cơ bản của các chủ xưởng.\nNhững công xưởng vĩ đại trên đời, không có xưởng nào mà không khởi đầu từ những đơn vị kiến trúc cơ bản. Có những công trình này làm nền tảng, thêm vào đó là quy hoạch hợp lý, vật liệu đầy đủ, việc cải tạo toàn bộ Thế Giới Trong Ấm thành một công xưởng khổng lồ cũng không phải là điều không thể...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Cảnh Lặng Của Tân Nguyệt",
+    "Description": "Khu vườn được lấy cảm hứng từ Sảnh Trăng Bạc, tổng thể mang phong cách tĩnh lặng và yên bình, như một khung cảnh ảo mộng xa vời không thể chạm tới.\nÁnh trăng luôn dẫn dắt chúng sinh một cách dịu dàng, có lẽ từng có tín đồ của Nguyệt Thần nghiêm túc suy nghĩ rằng... Cảnh sắc thế nào mới có thể đưa Tân Nguyệt chìm vào giấc mơ yên bình chỉ thuộc về nàng?\nChỉ có thực sự ghé thăm Sảnh Trăng Bạc, tĩnh tâm thưởng thức từng cánh hoa ngọn cỏ nơi đó, mới có thể tìm ra câu trả lời...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

@@ -866,7 +866,7 @@
     "VisionBefore": "Nham",
     "VisionOverrideUnlocked": "Vision",
     "ConstellationBefore": "Cung Kim Oanh",
-    "CvChinese": "Mace",
+    "CvChinese": "昱头",
     "CvJapanese": "梅田修一朗",
     "CvEnglish": "Jonathon Ha",
     "CvKorean": "Hwang Dong-hyun",
@@ -882,6 +882,10 @@
     },
     "Fetters": [
       {
+        "Title": "Lần đầu gặp mặt...",
+        "Context": "#Xin chào, tôi là Illuga, đội trưởng đội điều tra của Người Giữ Đèn. {F#Cô}{M#Cậu} đang gặp rắc rối gì phải không? Chuyện này cũng thường xảy ra thôi, đường xá quanh đây quả thật không dễ đi mà. Nhưng đừng lo, hãy đi theo tôi, tôi sẽ giúp {F#cô}{M#cậu} soi sáng con đường phía trước."
+      },
+      {
         "Title": "Nói chuyện phiếm - Cảnh Giác",
         "Context": "Nơi nào càng yên bình thì càng dễ ẩn chứa hiểm nguy... Tôi cũng không biết câu này đúng hay sai, nhưng cẩn thận vẫn hơn."
       },
@@ -892,10 +896,6 @@
       {
         "Title": "Nói chuyện phiếm - Khó Khăn",
         "Context": "Chỉ làm những việc mình giỏi thì không được đâu. Khi ép bản thân làm những việc khó khăn thì mới mạnh mẽ hơn được."
-      },
-      {
-        "Title": "Lần đầu gặp mặt...",
-        "Context": "#Xin chào, tôi là Illuga, đội trưởng đội điều tra của Người Giữ Đèn. {F#Cô}{M#Cậu} đang gặp rắc rối gì phải không? Chuyện này cũng thường xảy ra thôi, đường xá quanh đây quả thật không dễ đi mà. Nhưng đừng lo, hãy đi theo tôi, tôi sẽ giúp {F#cô}{M#cậu} soi sáng con đường phía trước."
       },
       {
         "Title": "Sau cơn mưa trời lại sáng...",

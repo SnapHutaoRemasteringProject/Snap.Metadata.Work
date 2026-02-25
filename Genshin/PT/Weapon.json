@@ -4777,6 +4777,59 @@
     ]
   },
   {
+    "Id": 12515,
+    "PromoteId": 12515,
+    "Sort": 5211,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Balada do Poderoso Lobo",
+    "Description": "Lendas dizem que esse espadão foi forjado pelas mãos de Ravenwood, que herdou o nome de Boreas antes de virar um cavaleiro.",
+    "Icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+    "AwakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Cavalheirismo Indominável",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em <color=#99FFFFFF>7.5%</color> por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em <color=#99FFFFFF>7.5%</color>."
+        },
+        {
+          "Level": 1,
+          "Description": "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em <color=#99FFFFFF>9.5%</color> por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em <color=#99FFFFFF>9.5%</color>."
+        },
+        {
+          "Level": 2,
+          "Description": "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em <color=#99FFFFFF>11.5%</color> por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em <color=#99FFFFFF>11.5%</color>."
+        },
+        {
+          "Level": 3,
+          "Description": "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em <color=#99FFFFFF>13.5%</color> por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em <color=#99FFFFFF>13.5%</color>."
+        },
+        {
+          "Level": 4,
+          "Description": "Aumenta a Vel. de ATQ em 10%. Quando um Ataque Normal atinge um inimigo/lança Habilidade Elemental/inicia Ataque Carregado, o portador obtém 1/2/2 acúmulos de Poema dos Quatro Ventos: aumenta o Dano causado em <color=#99FFFFFF>15.5%</color> por 4s. Acumulável até 4 vezes. Pode ser desencadeado uma vez a cada 0.01s.\nAlém disso, quando a equipe possuir o efeito Mágico: Ritual Secreto, cada acúmulo de Poema dos Quatro Ventos aumenta o Dano CRIT do portador em <color=#99FFFFFF>15.5%</color>."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114008,
+      112139,
+      112034
+    ]
+  },
+  {
     "Id": 13101,
     "PromoteId": 13101,
     "Sort": 1301,
@@ -6810,23 +6863,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>36%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em <color=#99FFFFFF>28%</color> por 6s, e regenera <color=#99FFFFFF>12</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
+          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>36%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em <color=#99FFFFFF>28%</color> por 6s, e regenera <color=#99FFFFFF>12</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
         },
         {
           "Level": 1,
-          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>48%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em <color=#99FFFFFF>35%</color> por 6s, e regenera <color=#99FFFFFF>13</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
+          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>48%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em <color=#99FFFFFF>35%</color> por 6s, e regenera <color=#99FFFFFF>13</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
         },
         {
           "Level": 2,
-          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>60%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em <color=#99FFFFFF>42%</color> por 6s, e regenera <color=#99FFFFFF>14</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
+          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>60%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em <color=#99FFFFFF>42%</color> por 6s, e regenera <color=#99FFFFFF>14</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
         },
         {
           "Level": 3,
-          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>72%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em <color=#99FFFFFF>49%</color> por 6s, e regenera <color=#99FFFFFF>15</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
+          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>72%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em <color=#99FFFFFF>49%</color> por 6s, e regenera <color=#99FFFFFF>15</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
         },
         {
           "Level": 4,
-          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>84%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano do Supremo em <color=#99FFFFFF>56%</color> por 6s, e regenera <color=#99FFFFFF>16</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
+          "Description": "Nos 3.5s depois de lançar o Supremo, aumenta o Dano de Carga Lunar causado pelo personagem que está com essa arma equipada em <color=#99FFFFFF>84%</color>. Além disso, quando o personagem que está com essa arma equipada desencadear Carga Lunar, obtém Canção Desolada: aumenta o Dano CRIT em <color=#99FFFFFF>56%</color> por 6s, e regenera <color=#99FFFFFF>16</color> de Energia Elemental para o personagem que está com essa arma equipada. Esse efeito de regeneração de Energia Elemental pode ser ativado uma vez a cada 14s."
         }
       ]
     },

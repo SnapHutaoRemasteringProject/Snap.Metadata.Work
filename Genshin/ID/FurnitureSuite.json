@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Kamar Nyaman Bagi Semua Tamu",
+    "Description": "Sebuah kamar berperabot lengkap, terinspirasi oleh kamar-kamar tamu di The Flagship, kedai terbesar di Kota Nasha. Renovasi yang dikerjakan tujuannya untuk lebih memenuhi kebutuhan penghuninya.\nPara tamu The Flagship berasal dari latar belakang yang bervariasi, masing-masing memiliki gagasannya sendiri tentang apa arti \"kenyamanan\". Mencari titik tengah dari semua harapan yang beragam ini bukanlah tugas yang mudah. Akhirnya, The Flagship memutuskan sebuah solusi yang unik: melengkapi setiap kamarnya dengan fasilitas-fasilitas yang mungkin dibutuhkan klien, kemudian mengurangi barang-barang yang tidak dibutuhkan berdasarkan umpan balik mereka. Meskipun tata letaknya mungkin tampak sedikit sempit karena banyaknya fasilitas, tapi kini segala yang dibutuhkan menjadi ada, dan di situlah letak keindahannya — sebuah pelayanan yang mengutamakan kenyamanan dari sudut pandang konsumen itu sendiri.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Tidur Nyenyak di Bawah Bulan",
+    "Description": "Kamar tidur yang sederhana namun elegan, dilengkapi dengan perabotan yang dipilih dengan cermat oleh para Bani Bulan Embun. Suasana keseluruhan di sini adalah kesederhanaan dan kehangatan yang anggun. Konon, lingkungan yang tenang dan alami dapat membantu seseorang lebih rileks, dan kamar tidur ini tampaknya merupakan perwujudan sempurna dari prinsip tersebut. Dengan cahaya lampu yang lembut seperti cahaya bulan yang memancarkan sinarnya yang halus, dan aroma buah segar di udara, mereka yang menginap di sini mungkin merasakan kelelahan dan rasa sakit mereka perlahan-lahan hilang, saat kedamaian dan ketenangan istirahat perlahan mengambil alih ....",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Struktur Rahasia yang Teratur",
+    "Description": "Ruang kerja yang unik dengan tata letak yang benar-benar terinspirasi oleh Curatorium of Secrets. Ini adalah hiburan yang menyenangkan dari lingkungan kerja Bos Nefer, di mana semuanya tertata rapi dan dalam keadaan sempurna. Analisis intelijen adalah tugas yang membosankan dan menantang, dengan banyaknya informasi yang saling terkait dan seringkali tidak ada petunjuk yang jelas untuk memulainya. Namun, di ruangan yang tertib dan lengkap oleh segala perangkat yang dibutuhkan, pikiran dapat menjadi lebih jernih, dan sebagai hasilnya, orang secara alami akan bekerja lebih efisien ....",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Rumah Terbaik dan Terhangat",
+    "Description": "Kamar tidur bergaya Nod-Krai dengan tata letak yang membangkitkan perasaan hangat dan nyaman. Ini adalah tempat ideal untuk menghilangkan kepenatan setelah seharian beraktivitas. Semua perabotan di kamar tidur yang dipilih dengan cermat oleh \"Orang Tua\" sendiri dari Clink-Clank Krumkake Craftshop ini adalah perabotan yang terbaik, terhangat, dan terpraktis di seluruh dunia. Namun, kenyamanan luar biasa ini ada kekurangannya: penghuninya terkadang kesiangan, bahkan melewatkan janji penting karena kamar ini terlalu nyaman. Metode bangun tidur yang tegas tapi bijaksana mungkin diperlukan untuk memastikan semua orang bangun tepat waktu.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Istirahat Sebelum Pertempuran",
+    "Description": "Ruang santai komunal yang lengkap, yang dirancang berdasarkan tata letak ruangan Piramida, dapat menghadirkan kembali momen-momen tenang istirahat yang dinikmati para Ratnik sebelum bertempur. Para Ratnik veteran memahami bahwa perang melawan Perburuan Liar adalah perang yang panjang dan tanpa ampun. Kapan pun selagi sempat, istirahat adalah kunci, penting untuk menjaga kesiapan tempur puncak. Selain itu, ruang santai yang tertata dengan baik juga memberikan para Ratnik waktu untuk saling mengenal. Di medan tempur, bertempur bersama rekan-rekan terpercaya tentunya menumbuhkan kepercayaan diri dan koordinasi yang jauh lebih serasi daripada bersama orang asing. Karena alasan ini, pembangunan ruang istirahat sudah dari dulu menjadi prioritas bagi Starshyna.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Hutan Belantara di Ujung Utara",
+    "Description": "Suatu kawasan liar yang menyatukan vegetasi dan bentang alam yang biasa dijumpai di Nod-Krai, khususnya rekreasi otentik dari lanskap unik Pulau Hiisi.\nWilayah Nod-Krai berlimpah dengan kuuvahki, dan dengan hal itu telah menghasilkan tanaman berwarna cerah, makhluk dengan kebiasaan yang unik, dan bentang alam dengan bentuk yang menakjubkan. Bagi para naturalis, daerah ini mengandung banyak sekali harta karun pengetahuan baru, sementara bagi para wisatawan biasa, daerah ini menawarkan pemandangan memesona yang patut dikagumi.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Kota Perbatasan yang Ramai",
+    "Description": "Lanskap regional yang berpusat pada berbagai bangunan khas, dengan berbagai macam toko. Ini adalah rekreasi sempurna dari sudut Kota Nasha.\nMenurut legenda, Kota Nasha berbeda dari kota-kota lain karena tidak memiliki pengurus resmi dan struktur perencanaan yang jelas. Hal ini menyebabkan munculnya lorong-lorong sempit yang tak terhitung jumlahnya dan celah-celah yang hampir tidak terlihat di antara bangunan-bangunan kota. Bagi sebagian besar penduduk, lorong-lorong ini hanyalah saluran untuk kebisingan; namun, bagi mereka yang fokus mengumpulkan informasi, lorong-lorong ini berfungsi sebagai jalur penyebaran rahasia dan jalan pintas untuk memudahkan perjalanan.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Doa yang Tenang di Bawah Rembulan",
+    "Description": "Sebuah lingkungan terbuka yang dirancang menyerupai Enklave Bulan Embun, menampilkan berbagai peralatan yang disusun sesuai dengan adat istiadat Bani Bulan Embun dan vegetasi yang ditanam untuk melengkapi setiap item. Masuklah ke ruang ini, dan ketenangan serta harmoni yang begitu mendefinisikan Bani Bulan Embun akan langsung terasa. Rasanya seolah-olah himne-himne lembut dan merdu bergema perlahan, membawa pergi semua masalah dan penderitaan bersama embusan angin, hanya menyisakan keadaan pikiran yang tenang dan damai.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Cahaya Tunggal di Malam yang Panjang",
+    "Description": "Sebuah pemukiman dengan rumah-rumah kokoh, tata letak dan arsitekturnya terinspirasi oleh benteng pertahanan luar ruangan para Lightkeeper. Desain ini memungkinkannya untuk menahan angin dan hujan, bahkan ketika menghadapi Perburuan Liar pun, ia memiliki kemampuan pertahanan yang tangguh. Seperti yang dinyatakan dalam sumpah para Lightkeeper: \"Kami adalah Lightkeeper yang menyinari cahaya harapan abadi ke dataran bersalju yang tak berujung.\"\nDi dataran luas di luar Piramida, benteng-benteng seperti ini berdiri tegak dan terang, membawa cahaya harapan bersamanya.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Lokakarya yang Penuh Harapan",
+    "Description": "Sebuah pemukiman kecil yang terinspirasi oleh Clink-Clank Krumkake Craftshop, dengan rumah-rumah besi berbentuk setengah bola yang nyaman dan bangunan-bangunan yang menyerupai perahu besi. Struktur-struktur ini lebih dari cukup untuk memenuhi kebutuhan dasar para pemilik bengkel.\nSemua bengkel besar berawal dari satu struktur sederhana. Dengan adanya bangunan-bangunan ini sebagai fondasi dan perencanaan serta material yang tepat, tampaknya mengubah Alam Poci menjadi bengkel raksasa bukanlah perkara yang mustahil ....",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Ketenangan Bulan Sabit",
+    "Description": "Sebuah halaman yang terinspirasi oleh Silvermoon Hall. Gayanya memancarkan ketenangan dan kedamaian, seperti alam mimpi yang berada di luar jangkauan.\nCahaya bulan selalu membimbing semua makhluk hidup dengan lembut. Mungkin, para pengikut Dewi Bulan pernah bertanya pada diri mereka sendiri: pemandangan seperti apa yang dapat membimbing bulan baru ke dalam tidurnya yang damai?\nSatu-satunya cara untuk mengetahui jawabannya adalah dengan mengunjungi Silvermoon Hall dan menatap setiap bunga dan rumput di sana ....",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

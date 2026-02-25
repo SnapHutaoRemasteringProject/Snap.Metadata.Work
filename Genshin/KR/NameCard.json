@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "바르카·우두머리 늑대",
+    "Description": "명함 스킨.\n늑대 무리는 북쪽에서 불어오는 바람을 쫓는다. 그러나 오직 늑대 무리의 우두머리만이 알고 있다. 달리기를 시작했을 때부터, 바람은 이미 모두의 발치를 맴돌고 있었다는 것을",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "기행·북풍",
+    "Description": "명함 스킨.\n미세한 추위, 꽃이 가지에서 떨어지기 전의 마지막 향기와 먼 곳의 나그네가 곧 돌아온다는 소식… 모두 바람이 북쪽에서 가져다주는 것들이다",
+    "SpecialDescription": "「기행·북풍」 명함 스킨",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

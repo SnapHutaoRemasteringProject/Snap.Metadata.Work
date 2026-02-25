@@ -8772,7 +8772,7 @@
     "DescribeId": 41001,
     "MonsterName": "Gastrobot_01",
     "Name": "Puñopato",
-    "Title": "Obra maestra de la mecánica",
+    "Title": "Sombra de obra maestra",
     "Description": "Una máquina de kuuvahki con una forma muy particular y hecha con una amalgama de piezas de metal desechadas y rodamientos mecánicos. Su característico aspecto parece deberse a los peculiares gustos de su creadora.\nAunque no se queda atrás con respecto a las punteras armas de guerra de los Fatui en cuanto a potencia y resistencia, sigue siendo un juguete con forma de pato que ataca dando puñetazos. Puesto que el creador de algo es quien decide qué aspecto darle a su creación, el barro no tiene derecho a cuestionar al artesano que lo moldea. La gente da por hecho la forma en la que el mundo sublunar se moldeó hace tiempo, pero para sus habitantes originales, ese aspecto no deja de ser tan estrafalario como el de este pato, pues refleja los peculiares gustos de quien lo creó.\nEvidentemente, la criada de cabello azul nunca le diría esto a la dueña del Taller de Krumkake, y además, ¿acaso un pato no es más adorable que el actual aspecto del mundo?",
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 2,
@@ -12064,7 +12064,7 @@
   {
     "Id": 0,
     "DescribeId": 55152,
-    "Name": "Soldado Koholasaurio - Caminaolas aguerrida",
+    "Name": "Caminaolas aguerrida",
     "Title": "¿?",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
     "Type": 0,
@@ -16679,7 +16679,7 @@
     "Id": 0,
     "DescribeId": 63005,
     "Name": "Glaciolobo Radiante aguerrido",
-    "Title": "Bestia Radiante",
+    "Title": "Glaciolobo aguerrido",
     "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
     "Type": 0,
     "Arkhe": 0
@@ -16728,6 +16728,66 @@
       "WindSubHurt": 0.1,
       "IceSubHurt": 0.1,
       "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26302101,
+    "DescribeId": 63021,
+    "MonsterName": "Monster_Magbeast_Gecko_01",
+    "Name": "Selenogeco Radiante",
+    "Title": "Lagarto sediento de luz lunar",
+    "Description": "Un antiguo monstruo que se siente atraído por la luz de la luna y habita en las profundidades rocosas.\nLa acumulación gradual de energía kuuvahki ha cristalizado su cuerpo en partes claramente segmentadas con forma de mecanismo. Estas partes pueden endurecerse y formar púas de piedra que usa para repeler a los intrusos.\nAlgunos eruditos creen que estos inusuales antepasados de los lagartos vagaron alguna vez por la superficie. Con el transcurso de las eras, los cambios que se sucedieron en el mundo los llevaron a retirarse al subsuelo, donde han vivido en la oscuridad durante innumerables generaciones. Aunque todo recuerdo sobre la verdadera luz lunar se ha desvanecido, su instinto permanece, lo que le obliga a alimentarse de rocas y tierra infundidas con el fulgor del astro en noches de luna llena para preservar su linaje.",
+    "Icon": "UI_MonsterIcon_Magbeast_Gecko",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "多层护盾G教学关联词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113085,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 285.264,
+      "AttackBase": 87.92,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.7,
       "PhysicalSubHurt": 0.1
     },
     "GrowCurves": [
@@ -16820,6 +16880,15 @@
     "GrowCurves": []
   },
   {
+    "Id": 0,
+    "DescribeId": 90102,
+    "Name": "Stormterror",
+    "Title": "Huracán Aullante de Mondstadt",
+    "Icon": "UI_MonsterIcon_Dvalin",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 29020101,
     "DescribeId": 90201,
     "MonsterName": "Monster_Wolf_LupiBoreas",
@@ -16859,6 +16928,27 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90202,
+    "Name": "Rey Lobo del Norte, Señor de los Lobos",
+    "Title": "Huracán Aullante de Mondstadt",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0,
+    "Affixes": [
+      "北风狼试炼-循环标记"
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90203,
+    "Name": "¿?",
+    "Title": "Huracán Aullante de Mondstadt",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 29030101,

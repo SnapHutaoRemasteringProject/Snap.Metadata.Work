@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Oración del viento: Electro</color>",
-    "Description": "#Aumenta en un <color=#f39001>80%</color> el daño de la reacción de Torbellino de los personajes y, cada vez que se obtenga el efecto de <color=#f39001>oración del viento: Electro</color>, todos los miembros del equipo recuperan <color=#f39001>1.5</color>{NON_BREAK_SPACE}pts. de Energía Elemental."
+    "Description": "#Aumenta en un <color=#f39001>80%</color> el daño de la reacción de Torbellino de los personajes y, cada vez que se obtenga el efecto de <color=#f39001>oración del viento: Electro</color>, todos los miembros del equipo recuperan <color=#f39001>2</color>{NON_BREAK_SPACE}pts. de Energía Elemental."
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Protección criocristalina</color>",
-    "Description": "#Todos los miembros del equipo obtienen un <color=#f39001>50%</color> de Bono de Daño Cryo y Geo. Además, cada <color=#f39001>4</color>{NON_BREAK_SPACE}s obtienes los fragmentos cercanos creados con la reacción de Cristalización."
+    "Description": "#Todos los miembros del equipo obtienen un <color=#f39001>70%</color> de Bono de Daño Cryo y Geo. Además, cada <color=#f39001>4</color>{NON_BREAK_SPACE}s obtienes los fragmentos cercanos creados con la reacción de Cristalización."
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>Merma</color>",
-    "Description": "Reduce en un <color=#f39001>3%</color> las RES Cryo y Electro del enemigo, y la RES Física en un <color=#f39001>6%</color>. Puede acumularse hasta <color=#f39001>6</color> veces."
+    "Description": "Reduce en un <color=#f39001>5%</color> las RES Cryo y Electro del enemigo, y la RES Física en un <color=#f39001>10%</color>. Puede acumularse hasta <color=#f39001>6</color> veces."
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Oración del viento: Cryo</color>",
-    "Description": "Aumenta en un <color=#f39001>80%</color> el daño de la reacción de Torbellino de los personajes y en un <color=#f39001>12%</color> su Daño CRIT."
+    "Description": "Aumenta en un <color=#f39001>80%</color> el daño de la reacción de Torbellino de los personajes y en un <color=#f39001>16%</color> su Daño CRIT."
   },
   {
     "Id": 211902,
@@ -428,5 +428,15 @@
     "Id": 11260001,
     "Name": "Intersticio faselunar",
     "Description": "#Zibai cambia a este modo tras usar su Habilidad Elemental, <color=#FFD780FF>Manifestación terraceleste</color>. Dicho modo dura {PARAM#P1263201|4S1}{NON_BREAK_SPACE}s y posee las siguientes propiedades:\n·El daño de sus Ataques Normales y Cargados se convierte en <color=#FFE699FF>Daño Geo</color>, el cual no puede sustituirse imbuyéndose de otro elemento.\n·La Habilidad Elemental, <color=#FFD780FF>Manifestación terraceleste</color>, se remplaza por la Habilidad Elemental especial <color=#FFD780FF>Pisotón yeguaespiritual</color>, de manera que, cuando Zibai tenga al menos 70{NON_BREAK_SPACE}pts. de fulgor intersticial, podrá consumirlos para usar Pisotón yeguaespiritual e infligir dos golpes de <color=#FFE699FF>Daño Geo</color>. El segundo golpe se considera daño de Cristalización Lunar.\n\nEl límite de puntos de <color=#FFD780FF>fulgor intersticial</color> es 100, y Zibai puede obtenerlos de las siguientes formas:\n·Cuando está en modo <color=#FFD780FF>intersticio faselunar</color>, obtiene 10{NON_BREAK_SPACE}pts. de fulgor intersticial por segundo.\n·Al golpear a un enemigo con un Ataque Normal, obtiene 5{NON_BREAK_SPACE}pts. de fulgor intersticial. Esto solo puede ocurrir una vez cada 0.5{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>Presagio lunar: resplandor ascendente</color>\nCuando un personaje cercano del equipo causa una reacción de Cristalización Lunar, Zibai también obtiene 35{NON_BREAK_SPACE}pts. de <color=#FFD780FF>fulgor intersticial</color>. Esto solo puede ocurrir una vez cada 4{NON_BREAK_SPACE}s. Usar la Habilidad Elemental especial <color=#FFD780FF>Pisotón yeguaespiritual</color> reiniciará el TdE de la obtención de <color=#FFD780FF>fulgor intersticial</color> por medio de esta forma.\n\nZibai saldrá de este modo cuando haya usado cuatro veces <color=#FFD780FF>Pisotón yeguaespiritual</color> o cuando termine su duración."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Sturm und Drang",
+    "Description": "#Varka cambiará a este modo tras usar su Habilidad Elemental, <color=#FFD780FF>Tempestad precipitante</color>, {LAYOUT_MOBILE#tocando una vez}{LAYOUT_PC#pulsando una vez}{LAYOUT_PS#pulsando una vez}.\nMientras esté en dicho modo, el daño infligido por sus Ataques Normales y Cargados aumentará y no podrá realizar Ataques Descendentes. Además, al ejecutar un Ataque Normal o Cargado, empuñará un mandoble en cada mano para infligir daño del elemento correspondiente, el cual no puede sustituirse imbuyéndose de otro elemento, en función de los tipos elementales de los personajes del equipo:\n·Con el mandoble que empuña en la mano izquierda, infligirá <color=#80FFD7FF>Daño Anemo</color>.\n·Si en el equipo hay algún personaje <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, con el mandoble que empuña en la mano derecha infligirá daño del elemento correspondiente según dicho orden de prioridad.\n\nAsimismo, si en el equipo hay algún personaje <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color> mientras Varka está en este modo, su Habilidad Elemental, <color=#FFD780FF>Tempestad precipitante</color>, se remplazará por la Habilidad Elemental especial <color=#FFD780FF>Alzamiento de los Cuatro Vientos</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Alzamiento de los Cuatro Vientos",
+    "Description": "#La Habilidad Elemental especial de Varka. Con el mandoble que empuña en la mano derecha, inflige Daño en el AdE del elemento correspondiente, el cual no puede sustituirse imbuyéndose de otro elemento, así como <color=#80FFD7FF>Daño Anemo en el AdE</color>.\nTiene un máximo de 2 usos y comienza en TdE.\nCuando Varka golpee a un enemigo con un Ataque Normal mientras esté en modo <color=#FFD780FF>Sturm und Drang</color>, el TdE de <color=#FFD780FF>Alzamiento de los Cuatro Vientos</color> se reducirá en 0.5{NON_BREAK_SPACE}s. Este efecto podrá activarse hasta 15 veces cada vez que cambie a dicho modo.\nAdemás, Varka puede consumir los usos de <color=#FFD780FF>Alzamiento de los Cuatro Vientos</color> para ejecutar el Ataque Cargado especial <color=#FFD780FF>Devorazul</color>, el cual no consume Aguante. Este ataque infligirá 2 golpes de daño del elemento correspondiente al mandoble que empuña en la mano derecha, el cual no puede sustituirse imbuyéndose de otro elemento, y 2 golpes de <color=#80FFD7FF>Daño Anemo</color>."
   }
 ]

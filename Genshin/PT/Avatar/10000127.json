@@ -298,7 +298,7 @@
         "Proud": {
           "Descriptions": [
             "Dano de Pressionar|{param1:P} da Proficiência Elemental + {param2:P} da DEF",
-            "Manter pressionado|{param3:P} da Proficiência Elemental + {param4:P} da DEF",
+            "Dano ao Manter pressionado|{param3:P} da Proficiência Elemental + {param4:P} da DEF",
             "Tempo de Recarga|{param5:F1}s"
           ],
           "Parameters": [
@@ -718,7 +718,7 @@
       },
       "Id": 11275,
       "Name": "Reflexo Vazio",
-      "Description": "Acende uma lâmpada, causando <color=#FFE699FF>Dano Geo em AdE</color> e obtendo o efeito Pesadelo de Luscinia por 20s. Nessa duração, Illuga obtém 21 acúmulos de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK}. Quando o Ataque Normal, Carregado, Imersivo, a Habilidade Elemental ou o Supremo do personagem ativo próximo causar <color=#FFE699FF>Dano Geo</color> contra o inimigo, consome 1 acúmulo de Canção de Luscinia, aumentando o Dano causado. O valor do aumento é baseado na Proficiência Elemental de Illuga. Se esse Dano for Dano de Cristalização Lunar, aumenta ainda mais o Dano causado.\nQuando o <color=#FFE699FF>Dano Geo</color> acima atingir mais de um inimigo simultaneamente, consumirá acúmulos de Canção de Luscinia correspondentes a quantidade de inimigos atingidos.\n\nAlém disso, quando Illuga é o personagem ativo e há uma <color=#FFE699FF>Construção Geo</color> criada por um personagem próximo e lançar seu Supremo, ou na duração do Pesadelo de Luscinia, e quando o personagem próximo criar uma <color=#FFE699FF>Construção Geo</color>, cada <color=#FFE699FF>Construção Geo</color> ativa farão Illuga obter 5 acúmulos adicionais de Canção de Luscinia. Illuga pode obter até 15 acúmulos adicionais de Canção de Luscinia nos 20s após lançar um Supremo dessa forma.\n\nQuando os acúmulos de Canção de Luscinia acabarem, ou quando a duração acabar, o efeito Pesadelo de Luscinia será removido.",
+      "Description": "Acende uma lâmpada, causando <color=#FFE699FF>Dano Geo em AdE</color> e obtendo o efeito Pesadelo de Luscinia por 20s. Nessa duração, Illuga obtém 21 acúmulos de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK}. Quando o Ataque Normal, Carregado, Imersivo, a Habilidade Elemental ou o Supremo do personagem ativo próximo causar <color=#FFE699FF>Dano Geo</color> contra o inimigo, consome 1 acúmulo de Canção de Luscinia, aumentando o Dano causado. O valor do aumento é baseado na Proficiência Elemental de Illuga. Se esse Dano for Dano de Cristalização Lunar, aumenta ainda mais o Dano causado.\nQuando o <color=#FFE699FF>Dano Geo</color> acima atingir mais de um inimigo simultaneamente, consumirá acúmulos de Canção de Luscinia correspondentes a quantidade de inimigos atingidos.\n\nAlém disso, quando Illuga é o personagem ativo e há uma <color=#FFE699FF>Construção Geo</color> criada por um personagem próximo e lançar seu Supremo, ou na duração do Pesadelo de Luscinia, e quando o personagem próximo criar uma <color=#FFE699FF>Construção Geo</color>, cada <color=#FFE699FF>Construção Geo</color> ativa fará Illuga obter 5 acúmulos adicionais de Canção de Luscinia. Illuga pode obter até 15 acúmulos adicionais de Canção de Luscinia nos 20s após lançar um Supremo dessa forma.\n\nQuando os acúmulos de Canção de Luscinia acabarem, ou quando a duração acabar, o efeito Pesadelo de Luscinia será removido.",
       "Icon": "Skill_E_Illuga_01"
     },
     "Inherents": [
@@ -744,7 +744,7 @@
         },
         "Id": 1272101,
         "Name": "Juramento do Iluminador",
-        "Description": "Depois que lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11272}Pássaro da Canção Matinal{/LINK}</color> ou o Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color>, todos os outros personagens da equipe obtém o efeito Juramento da Lâmpada por 20s: aumenta a Taxa CRIT em 5% o Dano CRIT em 10% contra os inimigos que sofrerem <color=#FFE699FF>Dano Geo</color>.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nPersonagens afetados por Juramento da Lâmpada obtêm 50 de Proficiência Elemental.",
+        "Description": "Depois que lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11272}Pássaro da Canção Matinal{/LINK}</color> ou o Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color>, todos os outros personagens da equipe obtêm o efeito Juramento da Lâmpada por 20s: para <color=#FFE699FF>Dano Geo</color> causado a oponentes, a Taxa CRIT aumenta em 5% e o Dano CRIT aumenta em 10%.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nPersonagens afetados por Juramento da Lâmpada obtêm 50 de Proficiência Elemental.",
         "Icon": "UI_Talent_S_Illuga_05"
       },
       {
@@ -805,7 +805,7 @@
         },
         "Id": 1272501,
         "Name": "Caminhada do Vigilante Noturno",
-        "Description": "Durante a noite (18:00 - 06:00), os membros do seu grupo ganham o efeito Passos Ágeis: Veloc. Mov. aumenta em 10%.\nNão tem efeito em Domínios, Domínios Dizimados ou Abismo Espiral. O efeito Passos Ágeis não se acumula.\nAlém disso, Illuga parece entender os sussurros da Caçada Feroz...",
+        "Description": "Durante a noite (18:00 - 06:00), os membros do seu grupo ganham o efeito Passos Ágeis: Veloc. Mov. aumenta em 10%.\nNão tem efeito em Domínios, Domínios Dizimados ou Abismo do Espiral. O efeito Passos Ágeis não se acumula.\nAlém disso, Illuga parece entender os sussurros da Caçada Feroz...",
         "Icon": "UI_Talent_S_Illuga_08"
       }
     ],
@@ -866,7 +866,7 @@
     "VisionBefore": "Geo",
     "VisionOverrideUnlocked": "Visão",
     "ConstellationBefore": "Oriolus",
-    "CvChinese": "Mace",
+    "CvChinese": "昱头",
     "CvJapanese": "梅田修一朗",
     "CvEnglish": "Jonathon Ha",
     "CvKorean": "Hwang Dong-hyun",
@@ -882,6 +882,10 @@
     },
     "Fetters": [
       {
+        "Title": "Olá...",
+        "Context": "Olá! Me chamo Illuga, líder do Esquadrão de Investigação dos Portadores da Lâmpada. Se perdeu, não é? Heh, não se preocupe... isso acontece direto. Esses caminhos não são exatamente \"adequado para viajantes\", mesmo nos melhores dias. Apenas me siga — iluminarei o caminho a frente."
+      },
+      {
         "Title": "Bate-papo - De Guarda",
         "Context": "Dizem que quanto mais as coisas aparentam estar calmas, mais provável que o perigo esteja à espreita pelas sombras... Não sei se isso é sempre verdade, mas nunca é má ideia ficar alerta."
       },
@@ -892,10 +896,6 @@
       {
         "Title": "Bate-papo - Adversidade",
         "Context": "Somente fazer o que você é bom não é suficiente, sabe. Às vezes, a única forma de ficar mais forte é sair de sua zona de conforto."
-      },
-      {
-        "Title": "Olá...",
-        "Context": "Olá! Me chamo Illuga, líder do Esquadrão de Investigação dos Portadores da Lâmpada. Se perdeu, não é? Heh, não se preocupe... isso acontece direto. Esses caminhos não são exatamente \"adequado para viajantes\", mesmo nos melhores dias. Apenas me siga — iluminarei o caminho a frente."
       },
       {
         "Title": "Depois da Chuva...",

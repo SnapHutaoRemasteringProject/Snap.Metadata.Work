@@ -1937,6 +1937,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Varka's Stella Fortuna",
+    "Description": "Varka's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3166,6 +3177,17 @@
     "Description": "Illuga's Constellation Activation Material",
     "TypeDescription": "Activates Constellation",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Varka's Stella Fortuna",
+    "Description": "Varka's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -4932,7 +4954,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Midsommar Berry",
-    "Description": "A fruit that grows in the warmer parts of Nod-Krai. It is beloved by animals emerging from winter and hungry children alike.\nIn the legacy of the Frostmoon Scions, Midsommar Berries are regarded as a symbol of life and abundance, for they only flourish during the warmth of spring and summer.\nThere is a tale that tells of the endless struggle between the King of Winter Holly and the King of Summer Oak — twin monarchs that slay each other as the seasons change, returning from the underworld to rule in turn until the end of time. Most Snezhnayan scholars dismiss this as a primitive religious metaphor for the alternating seasons — or at least that's what they tell themselves.",
+    "Description": "A fruit that grows in the warmer parts of Nod-Krai. It is beloved by animals emerging from winter and hungry children alike.\nIn the legacy of the Frostmoon Scions, Midsommar Berries are regarded as a symbol of life and abundance, for they only flourish during the warmth of spring and summer.\nThere is a tale that tells of the endless struggle between the King of Winter Icelea and the King of Midsommar Oak — twin monarchs that slay each other as the seasons change, returning from the underworld to rule in turn until the end of time. Most Snezhnayan scholars dismiss this as a primitive religious metaphor for the alternating seasons — or at least that's what they tell themselves.",
     "TypeDescription": "Cooking Ingredient",
     "Icon": "UI_ItemIcon_101265"
   },
@@ -31776,6 +31798,54 @@
     "Icon": "UI_ItemIcon_108867"
   },
   {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 18% of Max HP to the selected character and regenerates 300 HP every 5s for 30s.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Suspicious Golden-Tempered Jade",
+    "Description": "A chicken dish native to Liyue. Its skin is a tantalizing bright yellow, beautifully contrasting with the pale, tender-looking meat beneath. Yet the moment you take a bite, regret sets in — the meat is dry and tough, wedging itself stubbornly between your teeth...",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 20% of Max HP to the selected character and regenerates 390 HP every 5s for 30s.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Golden-Tempered Jade",
+    "Description": "A chicken dish native to Liyue. Prepared with simple spices, it strives to highlight the authentic flavor of fresh ingredients. The finished dish has smooth skin, tender meat, and a fresh taste, and is especially delightful when paired with a dipping sauce.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "Restores 22% of Max HP to the selected character and regenerates 470 HP every 5s for 30s.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Delicious Golden-Tempered Jade",
+    "Description": "A chicken dish native to Liyue. The skin has a satisfying firmness, and the meat is tender and flavorful. The natural gelatin from the chicken, set into a jelly, brims with the rich aroma of rendered chicken fat, and even the bones carry a subtle hint of sweetness. This dish is a true symphony of flavors, certain to delight even the most discerning gourmand.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "Restores 80 Stamina.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Hearty Indulgence",
+    "Description": "Varka's specialty. Generous cuts of smoked chicken thigh and tall glasses of Apple Cider, laid out in a rugged, bold style, say everything you need to know about its owner: whether in battle or at the table, he never holds back.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108870"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34665,6 +34735,17 @@
     "ItemType": 2,
     "Name": "Recipe: Mushroom Phantasm",
     "Description": "A detailed step-by-step recipe for making Mushroom Phantasm.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Recipe: Golden-Tempered Jade",
+    "Description": "A detailed step-by-step recipe for making Golden-Tempered Jade.",
     "TypeDescription": "Recipe",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37631,6 +37712,17 @@
     "Description": "A deep-black bone relic taken from the lingering corruption left behind after defeating the Whisperer of Nightmares that came invading from beyond this world.\nThe formless beast that soared through the starless void should never have required organs this world calls \"wings.\" Those grotesque, profane appendages may have arisen to adapt to the laws beneath the moon, or perhaps they are merely the distorted fragment of its true form that mortal eyes are able to witness.",
     "TypeDescription": "Character Level-Up Material",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prismatic Severed Tail",
+    "Description": "A crystallized tail vertebra left behind by a defeated Radiant Moongecko in its attempt to escape.\nBy all logic, a lizard that has evolved to such formidable strength should no longer face the threat of natural predators. Yet it still retains the instinct to shed its tail in a bid for survival. Perhaps in an age when moonlight blanketed the land, even more terrifying predators once prowled this place.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50549,6 +50641,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Access Insignia",
+    "Description": "One of a set of important insignia kept in separation by members of the Fatui. Only by gathering all three can the device leading to the inner chamber be activated. As for why there must be three, the mage merely explained that it was to create a \"sense of participation.\"",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Severely Contaminated Teardrop Crystal",
+    "Description": "From a Dvalin completely consumed by the Abyss. The state of this tear reveals that the Dvalin in the story is beyond hope of healing.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50672,6 +50786,17 @@
   {
     "Rank": 10,
     "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Multi-Purpose Negotiation Tool",
+    "Description": "A heavy pouch filled with tokens capable of swaying those who \"value wealth above all else.\" To some, this appears to be what passes for \"sincerity\"...",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
     "Id": 121454,
     "RankLevel": 4,
     "ItemType": 2,
@@ -50742,7 +50867,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Fresh Rye",
-    "Description": "The freshly harvested wheat that carries a warm, comforting scent. Only after grinding and baking does it transform into a rich, full-bodied flavor.",
+    "Description": "The freshly harvested rye that carries a warm, comforting scent. Only after grinding and baking does it transform into a rich, full-bodied flavor.",
     "TypeDescription": "Quest Item",
     "Icon": "UI_ItemIcon_101268"
   },
@@ -50858,6 +50983,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Event Invitation",
+    "Description": "An invitation sent by Jean, Acting Grand Master of the Knights of Favonius. The message is brief and makes no mention of the event's details.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Featherlight Mora",
+    "Description": "Mora found at Starfell Lake. Though it looks identical to ordinary Mora, it weighs only one-tenth as much, making the joy of acquiring wealth feel only one-tenth as great.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Highly Elastic Fish Meat",
+    "Description": "Fish meat found at Starfell Lake. Though it looks like ordinary fish, it is exceptionally elastic — no matter how hard you press it, it quickly returns to its original shape. Rather than a cooking ingredient, it seems more like a method of stress-relief... best not to try eating it.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Dodoco's Enchanted Candy",
+    "Description": "A souvenir from Klee during your time helping run the Knights' drinks stand.\n\"Put everything together on the alchemy table, wish for the shape you want, say Mom's magic words, and... poof! Dodoco-shaped candy!\"\nAs expected of a creation by Ms. Alice. Even using ingredients common across Teyvat, it holds a wonderfully complex sweetness. Take a small bite, and you can almost hear the echo of a sweet magic incantation in your mind...\nUnfortunately, the supply is limited. Better keep one as a souvenir!",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50888,6 +51057,61 @@
     "Description": "A poetry collection chronicling the deeds of successive Starshynas. Most of its contents were lost in past calamities. Only a small fraction of the original fragments have been recovered.",
     "TypeDescription": "Quest Item",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "A Letter Carried by the Wind",
+    "Description": "A letter that found its way into your bag at some point. Perhaps it was carried here by the wind.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Varka's Invitation Ticket",
+    "Description": "A hand-drawn invitation ticket from Varka. Can be redeemed at the Good Hunter for a hearty, meat-filled feast.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Varka's Invitation Ticket",
+    "Description": "A hand-drawn invitation ticket from Varka. Can be redeemed at the Good Hunter for a hearty, meat-filled feast. A small stamp reading \"Used\" is marked in the corner on the back.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka's Secret Stash of Cash",
+    "Description": "Money Varka has set aside for drinks, brazenly tucked away in a desk drawer.\n\"The most dangerous spot is actually the safest spot!\" He might claim that, but the truth is he probably keeps the money here because he believes the acting Grand Master will neither spend it nor reveal its hiding place.\nAlthough this money was originally set aside to buy the Dandelion Wine as an offering to the Archon, now that plans have changed, maybe it can be used to reward the Honorary Knight who saved Varka — or given to the knight to reward each friend who helped rescue Varka instead.",
+    "TypeDescription": "Consumable",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka's Secret Stash of Cash",
+    "Description": "Money Varka has set aside for drinks, brazenly tucked away in a desk drawer.\n\"The most dangerous spot is actually the safest spot!\" He might claim that, but the truth is he probably keeps the money here because he believes the acting Grand Master will neither spend it nor reveal its hiding place.\nThis money was originally set aside to buy the Dandelion Wine as an offering to the Archon, and has now been used to reward the Honorary Knight who saved Varka — or perhaps that knight might use it to treat every friend who helped save Varka.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -56566,6 +56790,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Spotter Kamera",
+    "Description": "The Kamera that Paimon carries with her. Use it to record the noteworthy differences you find this time!",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Harmonic Keys",
+    "Description": "A delicate instrument that can be used in performances.\nIn the eyes of the ancient philosopher-debaters, the melodies of the mortal world are but a rough imitation of the universe's symphony. However, the King of the Immortals captured the unusual motifs within the musician's performance, then instructed the harmonist to fix the eternal music onto every key, allowing anyone who plays it to join in the grandest of symphonies.",
+    "TypeDescription": "Gadget",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -57268,6 +57514,17 @@
     "Description": "This Natlan woven scroll, depicting unique landscapes and containing hidden powers, is a souvenir brought back from Natlan by the Teapot Traveling Salesman, Chubby.\nThe patterns on the scroll bring certain images to mind, which you can manipulate via the power of Sub-Space Creation to recreate the wondrous sights of Natlan in your Realm Within...",
     "TypeDescription": "Consumable",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sphere of Fleeting Shadow",
+    "Description": "A Nod-Krai kuuvahki sphere mechanism, capable of playing music and producing dazzling light effects. It is a souvenir brought back from Nod-Krai by the Teapot Traveling Salesman, Chubby.\nEven a glimpse of the shifting lights cast by the sphere brings faint images to mind, which you can manipulate through the power of Sub-Space Creation to recreate the wondrous landscapes of Nod-Krai in your Realm Within...",
+    "TypeDescription": "Consumable",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58553,6 +58810,127 @@
     "ItemType": 2,
     "Name": "Companions' Haven",
     "Description": "A clean and well-kept dwelling fitted out with saurian-friendly features, tried and tested by the people of Natlan. It makes an ideal home for saurians and other large creatures alike.\nFor a Natlanese warrior, saurians are more than just companions — they are considered family, sharing in both their struggles and triumphs. With a saurian by one's side, all troubles seem to melt away.\nThis Furnishing Set is favored by the following companion: Ifa",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "A Comfy Room for Guests From Near and Far",
+    "Description": "A fully furnished room, inspired by the guest rooms at The Flagship, the largest tavern in Nasha Town. Targeted improvements have been made to better meet the needs of its occupants.\nThe guests of The Flagship come from a variety of backgrounds, each with their own idea of what \"comfort\" means. Striking a balance between all these different expectations is no easy task. Eventually, The Flagship settled on a unique solution: furnish its rooms with every amenity a client might possibly need, then remove the unneeded items based on their feedback. Although the room may feel a little cluttered as a result, it provides everything a guest could need, allowing them to find comfort in their own way.",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sweet Slumber Beneath the Moon",
+    "Description": "A simple-but-elegant bedroom, furnished with pieces carefully selected by the Frostmoon Scions. The overall atmosphere here is that of refined simplicity and warmth. It is said that a tranquil and natural environment can help one relax better, and this bedroom appears to be the perfect embodiment of that principle. With lamp light as gentle as the moonlight casting its soft glow, and the fresh scent of fruit in the air, those who stay here may feel their weariness and pain slowly ease away, as the peace and calm of repose quietly takes over...",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "The Orderly Grid of Secrets",
+    "Description": "This distinctive workspace draws heavily from the layout of the Curatorium of Secrets, faithfully recreating the scene as it appears when its owner is hard at work. Everything is arranged with meticulous order.\nInformation analysis is a demanding and complex task. When threads of data intertwine, it's easy to feel at a loss. Yet in a room where every furnishing is thoughtfully placed and every supporting tool close at hand, the mind may find greater clarity, and productivity is sure to follow...",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "The Bestest and Warmest Home",
+    "Description": "A Nod-Krai-style bedroom with a layout that evokes a warm and cozy feeling. It is the ideal place to shed one's fatigue after a busy day. All the furnishings in this bedroom, which were carefully selected by the \"Parent\" herself from the Clink-Clank Krumkake Craftshop, are the bestest, warmest, and most practical furniture in the whole world. However, this exceptional comfort comes with a downside: its occupants sometimes oversleep, even missing important appointments because the room is just so comfy. A firm but considerate wake-up method might be necessary to ensure everyone gets up on time.",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Pre-Battle Respite",
+    "Description": "A fully equipped communal lounge, modeled after the room layouts of Piramida, recreates the quiet moments of rest the Ratniki take before battle. Veteran Ratniki know that the war against the Wild Hunt is long and unforgiving, and that whenever circumstances allow, rest is essential to maintaining peak combat readiness. Besides, a thoughtfully arranged lounge also gives the Ratniki time to get to know one another. On the battlefield, fighting alongside trusted companions inspires far greater confidence and coordination than fighting beside strangers. For this reason, the construction of rest lounges has long been a priority for the Starshyna.",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Wilderness of the Far North",
+    "Description": "A wilderness that brings together vegetation and landforms that are commonly seen in Nod-Krai, particularly an authentic recreation of the unique landscape of Hiisi Island.\nNod-Krai enjoys an abundance of kuuvahki, which in turn has given rise to brightly colored plants, creatures with distinctive habits, and landforms of unusual shapes. For naturalists, this area holds countless treasures of new knowledge, while for ordinary tourists, it offers wondrous sights that demand a pause to admire.",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Bustling Border Town",
+    "Description": "A regional landscape centered on various distinctive buildings, with shops of various kinds. It is a perfect re-creation of a corner of Nasha Town.\nIt is said that Nasha Town differs from other cities in that it has no true administrator and no clear planning structure. This has led to countless narrow passages and scarcely noticed gaps emerging between the town's buildings. For most residents, these passages are merely conduits for noise. For those focused on gathering information, however, they serve as pathways for the spread of secrets and shortcuts for ease of travel.",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tranquil Prayer Under the Moon",
+    "Description": "An open-air setting modeled after Frostmoon Enclave, featuring various implements arranged according to the customs of the Frostmoon Scions and vegetation planted to complement each item. Step into this space, and you'll immediately sense the tranquility and harmony that so define the Frostmoon Scions. It feels as though gentle, melodic hymns are echoing softly, carrying away all troubles and suffering on the breeze, leaving behind only a serene and peaceful state of mind.",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Solitary Light in the Long Night",
+    "Description": "A settlement of sturdy houses, its layout and architecture inspired by the outdoor defensive strongholds of the Lightkeepers. Built to withstand wind and rain, it retains formidable defensive capabilities even against the Wild Hunt. As the Lightkeepers' oath states: \"We are the Lightkeepers, who shine the eternal light of hope into the endless snow-swept plains.\"\nOn the vast plains outside Piramida, strongholds like this one stand tall and bright, carrying the light of hope with them.",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Promising Workshops",
+    "Description": "A small settlement inspired by the Clink-Clank Krumkake Craftshop, with comfortable hemispherical iron houses and buildings shaped like iron ships. These structures are more than enough to meet the basic needs of workshop owners.\nAll great workshops have their origin in a single, simple structure. With these buildings as a foundation, and proper planning and materials in place, transforming your Realm Within into a giant workshop becomes a very real possibility...",
+    "TypeDescription": "Furnishing Set Blueprint",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Crescent Moon Serenity",
+    "Description": "A courtyard inspired by Silvermoon Hall. Its style exudes tranquility and serenity, like a dreamlike realm just beyond reach.\nThe moonlight always gently guides all living beings. Perhaps, the followers of the Moon Goddess have once asked themselves: what kind of view or scenery could guide the new moon into her own peaceful slumber?\nThe only way to know the answer is to visit Silvermoon Hall and gaze upon every flower and blade of grass there...",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -72270,6 +72648,413 @@
     "ItemType": 2,
     "Name": "Vibrant Xiao Lantern: \"A Meeting With Friends\"",
     "Description": "A detailed step-by-step blueprint for making Vibrant Xiao Lantern: \"A Meeting With Friends.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cookie Round",
+    "Description": "A detailed step-by-step blueprint for making a \"Cookie Round.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Clink-Clank House of Storage",
+    "Description": "A detailed step-by-step blueprint for making the \"Clink-Clank House of Storage.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frost Moon Round Table: A Soft Blue Sky",
+    "Description": "A detailed step-by-step blueprint for making a Frost Moon Round Table: A Soft Blue Sky.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Someone's Notes",
+    "Description": "A detailed step-by-step blueprint for making \"Someone's Notes.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frost Moon Small Table: Aroma of Fresh Fruit",
+    "Description": "A detailed step-by-step blueprint for making a Frost Moon Small Table: Aroma of Fresh Fruit.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Branches Against the Blue Sky",
+    "Description": "A detailed step-by-step blueprint for making \"Branches Against the Blue Sky.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Pedunculate Oak Wood \"Moonrest\" Backed Chair",
+    "Description": "A detailed step-by-step blueprint for making a Pedunculate Oak Wood \"Moonrest\" Backed Chair.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rimehorn Glimmer",
+    "Description": "A detailed step-by-step blueprint for making \"Rimehorn Glimmer.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Twisty Mushroom",
+    "Description": "A detailed step-by-step blueprint for making \"Twisty Mushroom.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Bestest Little Nest",
+    "Description": "A detailed step-by-step blueprint for making \"Bestest Little Nest.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frost Moon Stone Bed: Fresh & Cool",
+    "Description": "A detailed step-by-step blueprint for making a Frost Moon Stone Bed: Fresh & Cool.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Indoor Low Table: Unique Importance",
+    "Description": "A detailed step-by-step blueprint for making an Indoor Low Table: Unique Importance.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Indoor Bookshelf: Readerly Leisure",
+    "Description": "A detailed step-by-step blueprint for making an Indoor Bookshelf: Readerly Leisure.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Indoor Counter: Visitor's Welcome",
+    "Description": "A detailed step-by-step blueprint for making an Indoor Counter: Visitor's Welcome.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Towering Cabinet",
+    "Description": "A detailed step-by-step blueprint for making \"Towering Cabinet.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Hotel Wardrobe: Extra Room",
+    "Description": "A detailed step-by-step blueprint for making a Hotel Wardrobe: Extra Room.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frost Moon Carpet: Limpid Hue",
+    "Description": "A detailed step-by-step blueprint for making a Frost Moon Carpet: Limpid Hue.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Fluffy Little Rug",
+    "Description": "A detailed step-by-step blueprint for making a \"Fluffy Little Rug.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Steadfast as Iron",
+    "Description": "A detailed step-by-step blueprint for making \"Steadfast as Iron.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Banner of the Lightkeepers",
+    "Description": "A detailed step-by-step blueprint for making \"Banner of the Lightkeepers.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tavern Wall Lamp: Hovering Hallway Light",
+    "Description": "A detailed step-by-step blueprint for making a Tavern Wall Lamp: Hovering Hallway Light.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Auxiliary Building: Multipurpose Greenhouse",
+    "Description": "A detailed step-by-step blueprint for making a Base Auxiliary Building: Multipurpose Greenhouse.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Auxiliary Building: Secret Space",
+    "Description": "A detailed step-by-step blueprint for making a Base Auxiliary Building: Secret Space.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Auxiliary Building: Water Tower",
+    "Description": "A detailed step-by-step blueprint for making a Base Auxiliary Building: Water Tower.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Windwheel: Auxiliary Power",
+    "Description": "A detailed step-by-step blueprint for making a Base Windwheel: Auxiliary Power.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Gate: Access Logic",
+    "Description": "A detailed step-by-step blueprint for making a Base Gate: Access Logic.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Platform: Solid Foundation",
+    "Description": "A detailed step-by-step blueprint for making a Base Platform: Solid Foundation.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Wall: Line of Obstruction",
+    "Description": "A detailed step-by-step blueprint for making a Base Wall: Line of Obstruction.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Pillar: Universal Beacon",
+    "Description": "A detailed step-by-step blueprint for making a Base Pillar: Universal Beacon.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gentle Embrace",
+    "Description": "A detailed step-by-step blueprint for making \"Gentle Embrace.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Town Railing: Convenient Bench",
+    "Description": "A detailed step-by-step blueprint for making a Town Railing: Convenient Bench.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Town Railing: Blue, Blue Waves",
+    "Description": "A detailed step-by-step blueprint for making a Town Railing: Blue, Blue Waves.\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Jumbo Sparks 'n' Splash Statue",
+    "Description": "A detailed step-by-step blueprint for making \"Jumbo Sparks 'n' Splash Statue.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base's Cooling Secret",
+    "Description": "A detailed step-by-step blueprint for making \"Base's Cooling Secret.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Paneled Ceiling",
+    "Description": "A detailed step-by-step blueprint for making a \"Base Paneled Ceiling.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base Alloy Flooring",
+    "Description": "A detailed step-by-step blueprint for making \"Base Alloy Flooring.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Base's Soft Tranquility",
+    "Description": "A detailed step-by-step blueprint for making \"Base's Soft Tranquility.\"\nAfter using this item, you can view it in the Creation Screen.",
     "TypeDescription": "Furnishing Blueprint",
     "Icon": "UI_ItemIcon_Home_Common"
   }

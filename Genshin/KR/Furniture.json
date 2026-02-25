@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "바르카",
+    "Description": "MY 홈 입주 캐릭터",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54468,7 +54489,7 @@
       "기간 한정 이벤트 획득"
     ],
     "Id": 374817,
-    "Name": "열헐 눈사람-「히어로」",
+    "Name": "열혈 눈사람-「히어로」",
     "Description": "바레사를 모델로 제작한 눈사람 모형. 그녀를 상징하는 히어로 마스크가 장착되어 있어, 친근하면서도 열정적인 바레사의 모습을 정확하게 재현한다.\n각국 손님들이 편히 즐길 수 있도록, 「눈싸움 놀이」 디자이너가 특별히 이 귀여운 동료를 만들었다고 한다. 이 친구와 함께라면 뼈를 에는 듯한 드래곤 스파인의 추위 속에서도 따스함을 느낄 수 있을 것이다",
     "Icon": "UI_Homeworld_Ani_Exterior_Nt_Thing_Prop_Touhu_01",
     "Rank": 90500
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "달을 수호하는 한 선인을 본떠 제작한 거대한 소등. 절벽의 틈 사이를 뛰어넘는 눈부신 백마의 모습을 하고 있다. 뭉게구름이 감싸안고, 고운 노을이 길게 드리워진다. 지금은 많은 이들이 백마 선인이 달에서 옥으로 만든 마차를 타고 내려와 자신의 소원에 응해 주지 않을까 하는 기대를 품고 소등에 소원을 적어 단다",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361345,
+    "Name": "「동글 쿠키 테이블」",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」에서 흔히 볼 수 있는 낮은 원탁. 양철로 만들어져 구조가 튼튼하고, 모양은 노릇하게 구워진 동그란 쿠키 같다.\n이 탁자에 예쁜 식탁보를 깔지 말지 고민하는 사람들이 많다. 「하지만 식탁보를 깔면 떨어진 크룸카케 부스러기를 치워야 해! 그건 진짜 귀찮아!」",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361346,
+    "Name": "「뚝딱뚝딱 수납장」",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」에서 흔히 볼 수 있는 수납 테이블. 구역이 명확하게 나뉘어 있어, 마치 높낮이가 제각각인 집들이 옹기종기 이어진 모습 같다.\n「여긴 망치네 집, 저긴 못의 집…」 이 테이블에 물건을 정리하는 사람은 이렇게 말하곤 한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361347,
+    "Name": "서리달 원탁-「부드러운 하늘빛」",
+    "Description": "「서리달 마을」에서 흔히 볼 수 있는 원탁. 내구성과 방수성이 뛰어난 로부르참나무 원목으로 제작되어 활용도가 매우 높다.\n서리달 아이의 장인은 밤하늘 높이 뜬 밝은 달에서 영감을 얻어 이 달의 고리 같은 원탁에 부드러운 하늘빛의 식탁보를 더했다. 그 덕분에 원탁은 밤하늘 같은 고요하고 포근한 분위기를 머금게 되었다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363414,
+    "Name": "「누군가의 수첩」",
+    "Description": "「서리달 마을」에 제멋대로 쌓여 있는 책 더미. 대다수는 정식으로 제본된 책이 아니라, 무명 작가들의 수첩이다.\n이런 책들 속에는 종종 파란만장하고 눈부신 이야기들이 숨겨져 있다. 어지러운 글씨체와 뒤엉킨 문장, 혹은 책장에 남겨진 흔적들은 작가가 글을 쓸 당시의 생생한 상태를 증언하는 듯하다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363415,
+    "Name": "서리달 작은 탁자-「과일향」",
+    "Description": "「서리달 마을」 실내에서 흔히 볼 수 있는 작은 탁자. 위에는 늘 가장 신선한 제철 과일이 놓여 있다.\n탁자에 놓인 과일은 먹기 위한 용도뿐 아니라 과일 향을 더하는 역할도 한다. 잔잔한 과일 향이 실내에 퍼져, 과하지 않으면서도 아늑하고 편안한 분위기를 만들어 준다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363511,
+    "Name": "「시들지 않는 쪽빛」",
+    "Description": "절대 시들지 않는 기계 꽃. 등지기들이 좋아하는 실내용 화분 장식이다.\n「돌볼 시간도 없고… 햇빛도 없고… 비옥한 흙 한 삽조차 구할 수 없잖아!」\n그래서 손재주 좋은 등지기가 폐기된 재료로 제법 그럴싸한 화분 하나를 뚝딱 만들어냈을 때, 모두가 기뻐했다. 하늘을 닮은 푸른빛은, 긴 밤속에 머무는 사람들이 오래도록 그리워하던 색이기도 했으니까",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 362134,
+    "Name": "로부르참나무 「달」 등받이 의자",
+    "Description": "로부르참나무 원목을 주재료로 제작된 의자. 「서리달 마을」에서 흔히 볼 수 있다.\n등받이 부분은 정교한 조각으로 속이 비어 있으며, 마치 둥근 달과 같다. 실내에 배치하면 좌면 위에 부드러운 하늘빛 방석이 더해져, 실내 공간에 포근하고 자연스러운 분위기를 만들어 준다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363119,
+    "Name": "「서리뿔의 빛」",
+    "Description": "「서리달 마을」 실내에서 흔히 볼 수 있는 목제 조명. 서리뿔 사슴에서 영감을 얻은 디자인이 꽤 독특하다.\n손잡이가 달려 있긴 하지만 무게가 제법 나가 대부분 한곳에 두고 사용한다. 「서리달 마을」 사람들은 대부분 이를 야간 조명으로 사용하는데, 밤길을 밝히기에 충분하면서 온순한 동물들을 놀라게 하지 않을 만큼 은은한 빛을 낸다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 363120,
+    "Name": "「꼬불꼬불 버섯」",
+    "Description": "등지기 야영지에서 볼 수 있는 조명. 버섯을 닮은 외형을 지녔다.\n시중의 대부분 「버섯」 모양 조명이 「갓」 부분에서 빛을 내는 것과 달리, 이 조명은 구불구불 휘어진 버섯의 「자루」가 발광한다. 더욱 특별한 점은 빛의 성질인데, 절반은 햇살처럼 따뜻하고, 절반은 달빛처럼 서늘하다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361413,
+    "Name": "「제일 좋은 보금자리」",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」에서 볼 수 있는 작은 침대. 튼튼한 금속 침대 프레임 위에 귀여운 패턴의 분홍색 시트와 부드러운 베개를 올려두었다. 넉넉한 크기와 알맞은 높이 덕분에 어떤 자세로 누워도 편안히 잠들 수 있어, 훌륭한 수면 경험을 선사한다.\n「이건 내가 누워본 침대 중에서, 제일 좋은 침대야!」 이 침대를 직접 만든 제작자는 자랑스럽게 말했다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361414,
+    "Name": "서리달 돌침대-「스며드는 한기」",
+    "Description": "「서리달 마을」에서 흔히 볼 수 있는 돌침대. 표면에는 부드러운 담요가 깔려 있지만, 누워 보면 여전히 단단함이 느껴진다.\n무더운 날에는 이 침대에 몸을 누이는 것만으로도 스며드는 시원함을 느낄 수 있다. 하지만 혹독한 겨울철이라면, 두툼한 요를 한 겹 더 깐 뒤 눕는 편이 좋을 것이다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361121,
+    "Name": "실내 낮은 탁자-「각자의 가치」",
+    "Description": "등지기 야영지에서 흔히 쓰이는 낮은 탁자. 비교적 넉넉한 수납공간을 갖추고 있다.\n선반으로서 이 탁자는 종종 사용자의 「취향」을 담아낸다. 꽃을 좋아하는 사람은 화분을 가득 올려두고, 책을 사랑하는 사람은 책을 쌓아두며, 미식을 즐기는 사람은 음식을 채워 넣는다. 그리고 등지기들에게 이 낮은 탁자는 침상과 가장 가까운 가구로서, 그 위에 가장 자주 놓이는 것은 그들이 제2의 생명처럼 여기며 언제나 지니고 다니는 등불이다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361122,
+    "Name": "실내 책장-「한가로운 독서」",
+    "Description": "등지기 야영지에서 흔히 쓰이는 책장. 다양한 크기의 책을 손쉽게 수납할 수 있도록 독특하게 설계되었다.\n등지기에게 지식은 무엇보다 소중한 자산이다. 우연히 얻은 작은 지식 하나가, 결정적인 순간에 생명을 구해줄지도 모른다. 그래서 여유가 생기면 많은 등지기들이 이 책장 앞에 모여 지혜를 쌓으며, 휴식 속에서 다음 전투를 대비하곤 한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361123,
+    "Name": "실내 카운터-「정식 방문」",
+    "Description": "등지기 야영지에서 자주 쓰이는 카운터. 전체가 철판으로 제작되어 단단하고 묵직하다. 카운터 뒤에는 보통 당직 책임자가 서 있어, 낯선 방문객이나 찾아온 이들을 맞이하기에 용이하다.\n외형은 조잡하고 투박해 보이지만, 사실 이는 등지기들이 의도한 바다. 충분한 고민 없이 섣불리 위험한 곳에 발을 들이려는 「초대하지 않은 손님」들을 자연스레 돌려보낼 수 있기 때문이다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361124,
+    "Name": "「높이높이 수납장」",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」에서 볼 수 있는 수납장. 아래는 넓고 위로 갈수록 좁아지는 형태가 마치 여러 층을 가진 탑을 연상시킨다. 이런 독특한 구조는 뛰어난 수납력을 제공할 뿐 아니라 무게 중심을 안정적으로 잡아 주어, 큰 외력이 가해져도 쉽게 넘어지지 않는다. 「층마다 다른 입주자가 살고 있어. 큰 친구는 아래층에, 작은 친구는 위층에 살지. 마치 높은 탑처럼 말이야!」 이런 발상에서 출발해, 제작자는 외형부터 유난히 인상적인 이 수납장을 완성했다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 361125,
+    "Name": "여관 옷장-「대용량」",
+    "Description": "「기함」에서 흔히 볼 수 있는 옷장. 수납 용량이 매우 크고 색감 배합도 단정하고 우아하다.\n처음 이 옷장의 용량은 지금의 절반에 불과했지만, 「기함」에는 장기 투숙객이 적지 않다 보니 사계절에 맞는 옷을 늘 갖춰 두어야 했고, 그에 따라 옷장 용량에 대한 요구도 점점 커졌다. 결국 손님들이 뜻을 모아 기존 옷장의 확장을 요청했고, 그 결과 지금은 일반적인 옷장을 훌쩍 뛰어넘는 수납력을 갖추게 되었다. 다만, 언젠가 또 한 번 확장이 이루어질지는 아무도 모른다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 362322,
+    "Name": "서리달 카펫-「맑고 고른 빛」",
+    "Description": "「서리달 마을」에서 흔히 볼 수 있는 카펫. 푸른색을 주요 색조로 사용하고 선명하게 시선을 끄는 주황빛 붉은색이 포인트로 더해져 있다. 전체적으로 대칭 구조로 디자인되어 시각적인 아름다움을 선사할 뿐만 아니라, 공간에 질서감과 마음의 평온함을 가져다준다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 362323,
+    "Name": "「폭신폭신 미니 카펫」",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」에서 볼 수 있는 원형 카펫. 따뜻한 색감을 바탕으로 귀엽고 포근한 무늬가 그려져 있다.\n부드럽고 촘촘한 직물을 사용하여 전체적으로 복슬복슬한 질감을 자아내며, 손으로 만져 보면 마치 고양이를 쓰다듬는 듯한 느낌이 들기도 한다…",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 364227,
+    "Name": "「강철의 수호」",
+    "Description": "등지기 야영지에서 흔히 볼 수 있는 벽걸이 장식. 교차해 걸린 검과 방패로 이루어져 있다. 이는 외적에 맞서 가족을 지키려는 등지기들의 결의와 굳센 의지를 상징한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 364228,
+    "Name": "「등지기의 깃발」",
+    "Description": "등지기 야영지에서 흔히 볼 수 있는 깃발. 등지기의 등대 표식이 그려져 있다. 어둠 속에서도 늘 등불을 높이 들고 한 걸음도 물러서지 않겠다는 등지기들의 의지를 상징한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 364229,
+    "Name": "주점 벽등-「복도의 빛」",
+    "Description": "「기함」에서 흔히 볼 수 있는 벽걸이 조명. 밝은 불빛을 내며 주로 복도의 조명 도구로 쓰인다. 등기구를 매다는 끈은 하얀색 실줄로 만들어져, 멀리서 보면 빛이 마치 복도 위에 떠 있는 듯한 인상을 준다. 이러한 구조 탓에 주변의 진동에 영향을 받아 조명이 미세하게 흔들리곤 한다. 숙련된 바텐더는 그 흔들림만 보고도 술자리의 미묘한 변화를 감지해, 혹시 모를 충돌을 미리 막아내기도 한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371022,
+    "Name": "기지 별관-「다용도 찜질방」",
+    "Description": "「빙글빙글 풍차 기지」의 부속 건물. 두꺼운 벽과 특수한 배연 파이프를 갖추고 있으며 외부 난방 보일러와 연결되어 실내 온도를 안정적으로 유지할 수 있다. 손님을 맞이하는 임시 침실로 쓰든, 온도 유지가 필요한 욕실로 활용하든, 혹은 지속적인 난방이 요구되는 특수 공방으로 사용하든, 이 건물은 어떤 용도에도 잘 어울리는 이상적인 선택이다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371023,
+    "Name": "기지 별관-「비밀 공간」",
+    "Description": "「빙글빙글 풍차 기지」의 부속 건물. 외형은 마치 입을 크게 벌린 거대한 물고기를 연상시킨다. 두툼한 지붕과 벽이 촘촘한 방어막을 이루어 건물 내부에 뛰어난 방음 및 차광 효과를 제공한다. 이런 설계 덕분에 빛과 소음을 차단해야 하는 특수 실험실로 쓰기에도, 귀중한 물품을 보관하는 금고로 활용하기에도 더없이 적합하다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371024,
+    "Name": "기지 별관-「급수탑」",
+    "Description": "「빙글빙글 풍차 기지」의 부속 건물. 높이 솟은 구조와 넉넉한 용적을 갖추어 액체를 저장하고 분배하는 기능을 지니며, 때로는 망루로도 활용된다. 자체적인 높이를 바탕으로 외부 동력 없이 액체의 정수압을 이용해 물을 공급할 수 있어, 기지의 급수 수요를 충족한다. 무더운 계절에는 물안개를 분사해 기지에 시원하고 쾌적한 환경을 조성하기도 한다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371025,
+    "Name": "기지 풍차-「보조 동력」",
+    "Description": "「빙글빙글 풍차 기지」의 경관용 풍차. 내부에는 보조 회전 장치가 갖춰져 있어, 어떤 기상 조건에도 안정적으로 회전할 수 있다. 거센 바람이 불 때에도 풍차는 차분하게 돌아가며 정원에 고요하고 평온한 분위기를 더하고, 공기가 정체되어 숨이 막힐 듯 더운 날에는 경쾌한 회전으로 산뜻한 바람 한 줄기를 불어넣어 준다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371026,
+    "Name": "기지 대문-「운송 로직」",
+    "Description": "「빙글빙글 풍차 기지」에서 사용하는 대문. 특수한 원형 금속 문틀과 눈에 띄는 화려한 조명 간판 장식을 갖추고 있다.\n원형 문틀은 어느 지점에서든 중심까지의 거리가 동일해, 비정형 부품을 운반하기 쉽다는 장점이 있다. 여기에 조명 간판을 더한 「빙글빙글 풍차 기지」의 설계 덕분에 밤에도 대문이 한눈에 들어와, 인원과 물자의 출입이 언제나 원활하게 이루어진다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371027,
+    "Name": "기지 플랫폼-「굳건한 지반」",
+    "Description": "「빙글빙글 풍차 기지」의 금속 플랫폼. 노드크라이 일부 지반의 고전적인 구조 설계를 채택했다. 소박하고 담백한 외관과 달리, 그 안에는 놀라운 하중 지지 능력이 숨겨져 있다. 이 플랫폼들은 일반적인 환경에서는 물론, 지반이 느슨한 곳에서도 대형 공사 장치를 안정적으로 지탱하며 운용을 가능하게 한다. 과장이 아니라, 「빙글빙글 풍차 기지」의 번영은 바로 이 단단한 지반 위에 세워졌다고 해도 좋을 것이다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371028,
+    "Name": "기지 벽-「전장 엄폐물」",
+    "Description": "「빙글빙글 풍차 기지」의 금속 낮은 담장. 견고한 금속 판재로 제작되었다. 설계에는 노드크라이가 광란의 사냥과 맞서 싸우며 축적한 경험이 반영되어 있다. 이 담장은 방호 성능과 경제성, 설치의 편의성을 모두 갖추고 있어, 사수들에게 믿음직하면서도 충분한 사격 엄폐물을 제공한다.\n오늘날 「빙글빙글 풍차 기지」에서는 이 낮은 담장이 새로운 역할을 맡고 있다. 공간 분할 도구로서 기지의 구조를 명확히 나누면서도 개방적이고 시원한 시야를 유지하게 해 준다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 371029,
+    "Name": "기지 기둥-「만능 비콘」",
+    "Description": "「빙글빙글 풍차 기지」의 금속 기둥. 단단하고 곧게 뻗어 있어, 독립된 경관 요소로 배치하면 정원에 힘 있고 기술적인 분위기를 더해 준다. 또한 실용성도 매우 높다. 기둥 측면에는 깃발을 걸고 올리는 승강 장치가 설치되어 있고, 기둥 꼭대기에는 다양한 실용 장비를 장착할 수 있어 「만능」 비콘이라는 이름으로 불린다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 373940,
+    "Name": "「다정한 포옹」",
+    "Description": "노드크라이 히시섬 일대에서 흔히 볼 수 있는 은백색 석재 조각상. 껴안는 듯한 자세를 하고 있어, 보는 이에게 따뜻한 인상을 준다.\n「길 잃은 아이를 위해 극북 후손의 이름으로 밝은 빛의 은혜를 청하노니. 서리달의 자비로 한겨울 밤의 사나운 바람을 잠재우시고, 얼어붙은 땅 위에 몸을 웅크린 새끼 새를 따뜻하게 감싸 주소서」\n병과 고통이 모두에게서 멀어지길 바라는 마음을 담아, 조각가는 이 조각상에 위로를 상징하는 의미를 부여했다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 374129,
+    "Name": "마을 난간-「간이 의자」",
+    "Description": "마을에서 흔히 볼 수 있는 낮은 돌난간. 표면이 평평하고 견고하며 비교적 넓은 상판을 갖추고 있어 잠시 앉는 임시 의자로도 사용할 수 있다. 다만 난간 위를 걸어 다니는 것은 매우 위험하니, 절대 그러지 말자…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 374130,
+    "Name": "마을 난간-「푸른 파도」",
+    "Description": "마을에서 볼 수 있는 낮은 목제 난간. 독특한 모양이 마치 일렁이는 푸른 파도 같다.\n차단 기능은 그다지 크지 않지만, 독특하고 아름다운 외형 덕분에 주로 공간을 구분하는 장식용 요소로 활용된다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "「일화집」 완료 시 획득"
+    ],
+    "Id": 374822,
+    "Name": "「흔들흔들 물고기 화분」",
+    "Description": "아이노가 만든 기계 물고기. 삐뚤삐뚤한 손 글씨로 적힌 설명서가 함께 딸려 있는데, 자세히 보면 몇 가지 주의 사항을 알아볼 수 있다.\n1. 얘는 물을 안 줘도 돼!\n2. 크룸카케를 먹이면 안 돼!\n3. 사이좋게 지내 줘!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기행·진주의 노래 구매 획득"
+    ],
+    "Id": 374823,
+    "Name": "「쾅쾅 불꽃 신상」",
+    "Description": "몬드성에서 유명한 「불꽃 기사」를 본떠 만든 신상. 폭발하는 불빛 속에서 만물을 재로 만들어버리는 위풍당당한 자태를 그대로 담아낸 듯하다.\n몬드 최강자는 누구일까? 누군가는 명성이 자자한 진을 꼽고, 누군가는 원정을 떠난 대단장 바르카를 떠올린다. 하지만 어떤 이들의 마음속에서, 최강자는 가장 강력한 「보물」을 지닌 정체불명의 붉은 옷 소녀다…",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372521,
+    "Name": "「흔들리는 달빛」",
+    "Description": "온몸이 은백색을 띠는 식물. 「달빛 정원」에서 흔히 볼 수 있다.\n가늘고 길게 휘어진 줄기와 달을 닮은 가지 끝을 지니고 있으며, 밤에 산들바람이 스쳐 지나갈 때마다 부드럽게 흔들려, 마치 달빛이 일렁이는 듯한 모습을 보여 준다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372522,
+    "Name": "「살랑살랑 반짝반짝」",
+    "Description": "무리 지어 자라며 은은한 형광 빛을 내는 식물. 생명력이 매우 강해 햇빛이나 물이 부족해도 유연하게 자라난다.\n「살랑살랑 흔들리는 건 뭐게? 반짝반짝 빛나는 건 또 뭐게?」\n아이들은 언젠가 낯선 이방인을 만나면 함께 신나게 퀴즈를 해 보고 싶어서, 이렇게 단순하고 알기 쉬운 수수께끼를 지어냈다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372523,
+    "Name": "「보송보송 털뭉치」",
+    "Description": "털뭉치를 닮은 보라빛의 낮은 관목. 보기에도 아름답고 생명력도 강해 훌륭한 관상식물이다.\n가지가 손질하기 쉬워 정원사의 솜씨에 따라 다양한 형태로 다듬어지곤 한다. 활기찬 강아지, 사랑스러운 고양이, 혹은 통통 튀는 작은 새까지, 모습도 제각각이다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372524,
+    "Name": "「현상금 사냥꾼」",
+    "Description": "털뭉치를 닮은 초록빛의 낮은 관목. 환경 적응력이 매우 뛰어나 극히 열악한 환경에서도 살아남을 수 있다.\n이런 식물들 가운데 십만 분의 일에 해당하는 극히 드문 개체는 서식 환경의 장기적인 영향으로 가지와 잎의 색이 변하기도 한다고 한다. 마치 시대의 흐름에 맞춰 스스로의 생존 방식을 바꾸는 「현상금 사냥꾼」처럼 말이다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372359,
+    "Name": "바람맞이 나무",
+    "Description": "노드크라이 야외에서 흔히 볼 수 있는 나무. 가늘고 길게 휘어진 줄기와 비교적 빈약한 수관을 지니고 있다.\n이 나무의 가장 큰 특징은 환경에 잘 적응하는 성질로, 바람이 부는 방향을 따라 자라난다는 점이다. 덕분에 거센 강풍이 몰아쳐도 쉽게 꺾이지 않고 버텨낼 수 있다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372360,
+    "Name": "「푸른 숲의 속삭임」",
+    "Description": "「달빛 정원」 근처에서 흔히 볼 수 있는 나무. 일반적인 수목과는 다른 독특한 외형을 지니고 있다.\n「바람이 이는 때 은잔 속 축복받은 물로 푸른 숲의 이삭을 적셔 신을 기쁘게 하라…」\n사람들의 소망 어린 속삭임이 과연 전해졌는지는 알 수 없지만, 달의 힘으로 길러진 푸른 숲의 이삭은 무성하게 자라나고 있다…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372361,
+    "Name": "달빛 황금 나무",
+    "Description": "노드크라이 히시섬 일대에서 흔히 볼 수 있는 나무. 가늘고 길게 휘어진 줄기와 금빛으로 물든 수관을 지니고 있다.\n「서리달 아이」는 이 나무의 잎빛이 달빛을 닮은 황금색이라는 이유로 특히 아꼈다고 한다. 그래서 신에 대한 경건함을 전하기 위해, 이 나무를 눈부신 제단으로 향하는 길 양옆에 심어 두었다고 한다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372362,
+    "Name": "싹트는 푸른 나무",
+    "Description": "노드크라이의 야외에서 흔히 볼 수 있는 나무. 비교적 굵은 줄기와 신록으로 우거진 수관을 지니고 있다.\n이 나무는 동종의 다른 나무들처럼 유난히 강인한 생명력을 가지고 있다고 전해진다. 뿌리 계통이 잘 발달해 땅속으로 빠르게 뻗어 영양분을 흡수하며, 심지어 작은 가지 하나를 꺾어 흙에 꽂아 두기만 해도 머지않아 싹을 틔우고 살아난다. 이러한 특징에서 지금의 이름이 붙었다고 전해진다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372236,
+    "Name": "「새로운 달의 물결」",
+    "Description": "「달빛 정원」 안에서 흔히 볼 수 있는 산석. 파도와 같은 독특한 형상을 하고 있다.\n「영원달의 순환이 밀물과 썰물을 인도한다」 중력에 의해 다듬어진 이 물결 같은 산석 위에는, 과연 「달의 소녀」가 어떤 생각을 새겨두었을까…",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372237,
+    "Name": "「보물 경비병」",
+    "Description": "노드크라이 야외에서 흔히 볼 수 있는 산석. 무겁고 단단해 도구를 든 장정이라 해도 옮기기란 쉽지 않다. 그래서 집을 짓거나 길을 닦을 때면 종종 성가신 장애물로 여겨진다. 하지만 땅을 파는 데 능한 작은 동물들에게는 이야기가 다르다. 대형 동물조차 흔들 수 없는 이 산석들은, 그 무엇보다도 든든한 「보물 경비병」이 되어 준다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 구매 획득"
+    ],
+    "Id": 372238,
+    "Name": "「대지의 둔각」",
+    "Description": "노드크라이 야외에서 흔히 볼 수 있는 산석. 단단하면서도 매끈한 표면을 지니고 있다. 크기가 비교적 작아 울창한 수풀 속에 숨어 있는 경우가 많아 알아차리기 어렵다. 그래서 경험 많은 모험가들은 초보자들에게 이렇게 당부하곤 한다: 「발밑을 잘 봐! 저기에 걸려 넘어지면, 둔각 코뿔소한테 들이받히는 것보다 더 아플 거야」",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363387,
+    "Name": "거점 대문-「믿음직한 족제비」",
+    "Description": "눈에 띄고 화려한 금속제 대문. 구조적 강도가 뛰어나 마물들의 연이은 공격에도 끄떡없다.\n「청정」의 말에 따르면, 이 위풍당당한 대문의 모습은 천재 발명가가 족제비 동료 「양팡」을 참고해 설계한 것이라고 한다. 치켜든 두 엄지와 자신감이 넘치는 표정은 마치 이렇게 약속하는 듯하다: 「걱정 마! 전부 나한테 맡겨!」",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363388,
+    "Name": "「늑대와 강철」",
+    "Description": "호방하고 자유로운 특제 시음용 음료. 「명예 기사의 특제 주점」 운영 기간 동안 「가시 거울 호수」를 베이스로 바르카를 위해 특별히 제조한 걸작.\n수많은 술을 맛본 대단장이 전력을 다해 천재적인 발상을 마음껏 펼쳐보라고 했으니, 대단장에게 색다른 「충격」을 선사하는 수밖에——\n민트의 청량함과 식물 향기를 첫 충격으로 삼고, 의도적으로 불의 물의 주력 맛을 감춰 마지막에 회심의 일격을 날린다. 사워크림은 전선의 엄호 부대처럼 빈틈없이 후방을 지키는 역할을 한다…\n대단장과 몬드의 특징을 따와 「늑대와 강철」이라는 이름을 붙였다. 과연 이 특이하고 다양한 맛을 내는 음료가 대단장을 만족시킬 수 있을까…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363389,
+    "Name": "「도도코의 맑은 날 합창」",
+    "Description": "새콤달콤하고 열정이 넘치는 특제 시음용 음료. 「명예 기사의 특제 주점」 운영 기간 동안 「좋은 날씨」를 베이스로 클레를 위해 특별히 제조한 신메뉴.\n기존 「좋은 날씨」는 보라색이라 열정이 조금 부족했다. 따뜻한 기분을 가져다주는 건 역시 햇살과 흰 구름이니까!\n달콤함은 필수지만 건강도 최우선 과제! 그래서 진 단장이 인정한 주스를 사용하고, 단맛은 풍선귤로 냈다!\n가장 중요한 도도코 사탕은 맛있는 마법을 선사하니, 반드시 구름 한가운데에 놓아야 한다!\n「날씨도 좋고, 기분도 좋고, 도도코는 노래를 부르고, 클레도 같이 불러!」 클레의 얘기를 듣고 이 음료의 이름을 「도도코의 맑은 날 합창」으로 부르기로 했다!",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363390,
+    "Name": "「물보라 검무곡」",
+    "Description": "얼음처럼 맑고 상쾌함과 강렬한 도수를 겸비한 특제 시음용 음료. 「명예 기사의 특제 주점」 운영 기간 동안 「반짝이는 별하늘」을 베이스로 유라를 위해 특별히 제조한 신메뉴.\n유라의 검술은 눈사태처럼 파괴적이면서도 마무리는 깔끔한 검무 같다. 음료 취향 역시 그만큼 강렬하다.\n그래서 술잔에 얼음처럼 깔끔한 맛의 불의 물과, 기념 의미가 깊은 바다 이슬 꽃 과일즙, 에너지를 보충하고 피로를 덜어주는 코코아까지 더해 무도회를 열었다.\n파도 기사의 검술을 위해 만든 특제 음료인 만큼, 「물보라 검무곡」이라는 이름을 붙였다. 유라는 세 잔을 마시는 행동으로 맛에 대한 절대적인 인정을 보여줬다…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363391,
+    "Name": "「장미의 단꿈」",
+    "Description": "나른한 기운이 은은히 감도는 특제 시음용 음료. 「명예 기사의 특제 주점」 운영 기간 동안 「아침 눈꽃」을 베이스로 리사를 위해 특별히 제조한 신메뉴.\n바쁜 하루를 보낸 도서관 사서는 원기를 되찾고 싶지만, 잠을 설치고 싶진 않다고 했다. 그래서 각성 재료를 빼고, 캐러멜 시럽의 달콤함과 경쾌한 산미 사이에서 절묘한 균형을 맞췄다…\n목표는 「단꿈」이니… 「장미의 단꿈」이라고 부르면 어떨까? 리사에게 「만점」이란 좋은 점수를 받았다",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363392,
+    "Name": "「여유로운 뇌광」",
+    "Description": "여유로움 속에서도 엄정함을 잃지 않는 특제 시음용 음료. 「명예 기사의 특제 주점」 운영 기간 동안 「불꽃 캐러멜의 시」를 베이스로 클로린드를 위해 특별히 제조한 신메뉴.\n뇌광 같은 결투 대리인은 「테이블 극단」의 모티브를 따라 몬드에 방문했다. 금속 냄새에 예민해진 그녀는 「소금」의 풍미를 더 찾게 되었고, 평소에도 약간의 산미로 느끼함을 잡아주는 음료를 즐긴다고 한다. 두 조건의 균형은 까다롭지만, 「천사의 몫」과 「기함」에서 단련된 당신이라면 비율을 정확히 맞출 수 있을 것이다.\n클로린드가 여유롭게 몬드 여행을 즐길 수 있도록 이 특제 음료의 이름을 「여유로운 뇌광」이라 붙였다. 클로린드의 몬드 여행에 즐거운 추억 중 하나가 될 것이다…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "기간 한정 이벤트 획득"
+    ],
+    "Id": 363393,
+    "Name": "「구름과 바람의 향기」",
+    "Description": "우아하고 고요한 아름다움에, 향마저 특별한 특제 시음용 음료. 「명예 기사의 특제 주점」 운영 기간 동안 「7시의 등방울」을 베이스로 에밀리를 위해 특별히 제조한 신메뉴.\n폰타인에서 온 조향사는 과한 달콤함은 졸음을 부를 뿐이라며, 적당히 가벼운 취기를 선호한다고 말했다. 하긴 손님을 바 테이블 앞에 쓰러뜨리는 건 바텐더의 최우선 임무가 아니니까…\n바람이 잔잔하고 맑은 날에는 예민해진 감각이 「조화롭게 어우러진」 음료의 풍미를 한층 더 배가시킨다.\n조향의 원리에 착안해, 이 은은한 걸작을 개발해냈다. 에밀리는 향수의 이름을 짓는 방식을 따와 이 음료에 「구름과 바람의 향기」라는 이름을 붙였다…",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 360107,
+    "Name": "「기지의 냉방 비법」",
+    "Description": "「빙글빙글 풍차 기지」의 표준 내벽. 노드크라이에서 흔히 사용하는 재활용 금속 자재로 제작되었다. 차갑고 단단한 색감을 지녔으며 열전도 성능이 뛰어나다. 이 벽체 덕분에 집은 뜨거운 햇볕이 내리쬐는 날에도 쾌적하고 시원함을 유지할 수 있다고 한다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 360307,
+    "Name": "「기지의 견고한 천장」",
+    "Description": "「빙글빙글 풍차 기지」의 표준 천장. 균일한 금속 판재를 정밀하게 절단해 제작되었다. 설치가 간편하고 청소도 쉬우며, 뛰어난 기능성과 안정성을 동시에 갖추고 있다. 달의 힘 장치의 외피 금속과 동일한 소재를 사용해 높은 강도를 확보하는 한편 무게는 효과적으로 줄였다고 한다. 그 결과, 잠재적인 안전 문제를 말끔히 해소했다고 전해진다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 360207,
+    "Name": "「기지의 합금 바닥」",
+    "Description": "「빙글빙글 풍차 기지」의 표준 바닥 타일. 형태가 서로 다른 금속 판재를 맞물리듯 조합해 제작되었다. 덕분에 바닥은 입체적인 느낌이 살아있다. 얼룩지고 어긋난 듯한 디자인은 실내 분위기를 한층 경쾌하고 생동감 있게 만들며, 공간에 독특한 개성을 더한다. 이런 혁신적인 설계는 설치와 유지 관리의 난이도와 비용을 높이지만, 재활용 금속을 활용해 그 단점을 효과적으로 상쇄했다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "선계 보물·장식 도면 구매 습득"
+    ],
+    "Id": 360507,
+    "Name": "「기지의 고요한 빛결」",
+    "Description": "「빙글빙글 풍차 기지」의 표준 샹들리에. 금속 구조물과 여러 개의 조명을 조합한 구조를 갖추고 있으며 전체적인 스타일은 단단하고 간결하다. 밤의 장막이 드리우면, 조명들이 서로 어우러져 부드럽게 퍼지는 빛이 그물처럼 공간을 감싼다. 그 빛은 거주 공간을 고요하고 따뜻한 세계로 바꾸어, 쌓인 피로와 번잡한 마음을 씻어 낸다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "「기지의 보물 창고 대문」",
+    "Description": "「빙글빙글 풍차 기지」의 표준 문. 여러 겹의 금속 재료를 용접해 제작했다. 보물 창고 대문을 참고하여 설계되었으며, 미관과 함께 파손 방지 기능을 겸비했다. 이 문은 드릴, 지렛대, 망치 등 도구에 의한 파괴를 효과적으로 막아내며, 모든 불청객을 대비한다는 취지로 고안되었다. 물론 안전한 「주전자 속 선계」에서는 이런 방어 성능이 다소 과한 감도 있다. 대부분의 경우, 작은 동물들이 발톱을 갈다가 문을 망가뜨리는 일을 막는 데 쓰이는 편일지도 모른다",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "「기지의 경쾌한 메아리」",
+    "Description": "「빙글빙글 풍차 기지」의 표준 코너형 금속 계단. 높은 강도와 내구성, 그리고 가벼운 무게로 유명하다. 강철로 이루어진 계단 위에 발을 디디면 경쾌한 발소리가 울려 퍼지는데, 울림을 고려해 설계된 건물 구조와 어우러져 마치 힘찬 북소리 한 구절을 연주하는 듯한 느낌을 준다",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "「빙글빙글 풍차 기지」",
+    "Description": "「신비한 달의 힘 장치」가 속세의 주전자 속에 노드크라이의 풍경을 재현하고자 조성한 대형 복합 기지. 검증된 금속 가구식 구조를 채택했으며, 완벽한 수송 시스템도 갖추고 있다. 자유분방하고 거친 설계 이념은 「뚝딱뚝딱 크룸카케 공방」과 같지만, 「빙글빙글 풍차 기지」는 생산 기능과 조명 사용을 줄였다. 그럼에도 지붕 위 풍차는 공방의 분주한 기운을 전해 주며, 보는 이의 가슴 속에 힘찬 동력을 불러일으킨다",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

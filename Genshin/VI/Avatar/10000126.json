@@ -910,7 +910,7 @@
     "VisionOverrideLocked": "Vòng Mặt Trăng",
     "VisionOverrideUnlocked": "Vòng Mặt Trăng",
     "ConstellationBefore": "Cung Bạch Câu",
-    "CvChinese": "昱头",
+    "CvChinese": "Mace",
     "CvJapanese": "福圓美里",
     "CvEnglish": "Laura Welsh",
     "CvKorean": "Chun Song-e",
@@ -926,6 +926,10 @@
     },
     "Fetters": [
       {
+        "Title": "Lần đầu gặp mặt...",
+        "Context": "#Tôi tên Zibai, người phàm từng gọi tôi là Bạch Mã Tiên Nhân, nhưng giờ đây tôi đã hạ phàm thành tiên, {F#cô}{M#cậu} cứ gọi thẳng tôi là Zibai nhé."
+      },
+      {
         "Title": "Nói chuyện phiếm - Trăng",
         "Context": "Thiên hạ đó giờ cùng hưởng gió mưa, vầng trăng chưa từng là nơi đất khách..."
       },
@@ -936,10 +940,6 @@
       {
         "Title": "Nói chuyện phiếm - Tiên Pháp",
         "Context": "Tiên pháp quả thật kỳ diệu. Nhưng nếu tu pháp mà không tu tâm trước thì vạn sự chỉ như ánh trăng phản chiếu trên mặt nước, chạm vào là vỡ tan."
-      },
-      {
-        "Title": "Lần đầu gặp mặt...",
-        "Context": "#Tôi tên Zibai, người phàm từng gọi tôi là Bạch Mã Tiên Nhân, nhưng giờ đây tôi đã hạ phàm thành tiên, {F#cô}{M#cậu} cứ gọi thẳng tôi là Zibai nhé."
       },
       {
         "Title": "Khi trời mưa...",
@@ -1035,7 +1035,7 @@
       },
       {
         "Title": "Về Lan Yan...",
-        "Context": "Cô bé Lan Yan này hẳn là hậu duệ của Vạn Tượng Phong Giác Linh Quan, một trong Đào Đô Tam Quái. Tôi nhớ Vạn Tượng Phong Giác Linh Quan từng kết bạn đồng hành cùng Ngân Linh Tiễn Ngọc Huyền Điểu, tạo nên một giai thoại đẹp. Giờ đây có được hậu duệ thông minh lanh lợi như vậy, nếu hai người họ biết được chắc hẳn sẽ rất vui mừng."
+        "Context": "Cô bé Lan Yan này hẳn là hậu duệ của Vạn Tượng Phong Giác Linh Quan. Tôi nhớ Vạn Tượng Phong Giác Linh Quan từng kết bạn đồng hành cùng Ngân Linh Tiễn Ngọc Huyền Điểu, tạo nên một giai thoại đẹp. Giờ đây có được hậu duệ thông minh lanh lợi như vậy, nếu hai người họ biết được chắc hẳn sẽ rất vui mừng."
       },
       {
         "Title": "Về Hu Tao...",

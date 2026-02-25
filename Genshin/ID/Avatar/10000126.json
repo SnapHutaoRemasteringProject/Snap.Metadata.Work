@@ -910,7 +910,7 @@
     "VisionOverrideLocked": "Moon Wheel",
     "VisionOverrideUnlocked": "Moon Wheel",
     "ConstellationBefore": "Equa Alba",
-    "CvChinese": "昱头",
+    "CvChinese": "Mace",
     "CvJapanese": "福圓美里",
     "CvEnglish": "Laura Welsh",
     "CvKorean": "Chun Song-e",
@@ -926,6 +926,10 @@
     },
     "Fetters": [
       {
+        "Title": "Halo",
+        "Context": "Namaku Zibai. Dahulu aku dikenal oleh manusia fana sebagai Adeptus Kuda Putih, tapi sekarang karena aku telah turun ke alam manusia, kamu bisa memanggilku Zibai saja."
+      },
+      {
         "Title": "Berbincang: Bulan",
         "Context": "Seluruh dunia berbagi berkah dari langit, hujan dan awan yang menghiasi bumi di bawahnya. Bulan tidak pernah dikehendaki untuk menjadi alam yang asing ...."
       },
@@ -936,10 +940,6 @@
       {
         "Title": "Berbincang: Seni Adeptus",
         "Context": "Seni Adeptus sungguh menakjubkan, tapi kalau orang tidak melatih batinnya sebelum mempelajarinya, semua pencapaiannya akan seperti pantulan bulan di atas air yang akan langsung pecah sekalipun disentuh dengan sentuhan yang paling lembut."
-      },
-      {
-        "Title": "Halo",
-        "Context": "Namaku Zibai. Dahulu aku dikenal oleh manusia fana sebagai Adeptus Kuda Putih, tapi sekarang karena aku telah turun ke alam manusia, kamu bisa memanggilku Zibai saja."
       },
       {
         "Title": "Ketika Turun Hujan",
@@ -1035,7 +1035,7 @@
       },
       {
         "Title": "Tentang Lan Yan",
-        "Context": "Lan Yan keturunan Pembaca Angin, kan ya? Salah satu dari Tiga Monster Tao Dou. Aku ingat Pembaca Angin pernah melakukan perjalanan bersama Burung Sayap Perak Berbulu Giok beberapa waktu lamanya, dan hal itu melahirkan kisah yang sangat memesona. Kuyakin mereka berdua pasti akan senang kalau tahu keturunan mereka di masa kini tumbuh menjadi orang yang sangat bijak dan cakap."
+        "Context": "Lan Yan keturunan Pembaca Angin, kan ya? Aku ingat Pembaca Angin pernah melakukan perjalanan bersama Burung Sayap Perak Berbulu Giok beberapa waktu lamanya, dan hal itu melahirkan kisah yang sangat memesona. Kuyakin mereka berdua pasti akan senang kalau tahu keturunan mereka di masa kini tumbuh menjadi orang yang sangat bijak dan cakap."
       },
       {
         "Title": "Tentang Hu Tao",

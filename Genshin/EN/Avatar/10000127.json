@@ -866,7 +866,7 @@
     "VisionBefore": "Geo",
     "VisionOverrideUnlocked": "Vision",
     "ConstellationBefore": "Oriolus",
-    "CvChinese": "Mace",
+    "CvChinese": "昱头",
     "CvJapanese": "梅田修一朗",
     "CvEnglish": "Jonathon Ha",
     "CvKorean": "Hwang Dong-hyun",
@@ -882,6 +882,10 @@
     },
     "Fetters": [
       {
+        "Title": "Hello",
+        "Context": "Hey there! I'm Illuga, leader of the Lightkeepers' investigation squad. Lost your way, huh? Heh, don't worry... that happens a lot. These paths aren't exactly \"traveler-friendly,\" even on the best of days. Just follow my lead — I'll light the way ahead."
+      },
+      {
         "Title": "Chat: On Guard",
         "Context": "They say that the calmer things seem on the surface, the more likely that danger lurks in the shadows... Not sure if that's always true, but it never hurts to stay alert."
       },
@@ -892,10 +896,6 @@
       {
         "Title": "Chat: Adversity",
         "Context": "Just doing what you're good at won't cut it, y'know. Sometimes, the only way to grow stronger is to step out of your comfort zone."
-      },
-      {
-        "Title": "Hello",
-        "Context": "Hey there! I'm Illuga, leader of the Lightkeepers' investigation squad. Lost your way, huh? Heh, don't worry... that happens a lot. These paths aren't exactly \"traveler-friendly,\" even on the best of days. Just follow my lead — I'll light the way ahead."
       },
       {
         "Title": "After the Rain",

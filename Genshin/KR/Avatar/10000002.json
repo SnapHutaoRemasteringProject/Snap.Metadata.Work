@@ -1153,5 +1153,11 @@
     "Description": "명함 스킨.\n아야카의 부채는 자주 바뀐다. 부채를 선물로 줄 생각이라면, 하선이나 투선은 피하도록 하자. 무선이나 차선은 꽤 괜찮은 선택이다",
     "Icon": "UI_NameCardIcon_Ayaka",
     "PicturePrefix": "UI_NameCardPic_Ayaka"
+  },
+  "TraceEffect": {
+    "Id": 215018,
+    "Name": "궤적·눈꽃의 백로",
+    "Description": "카미사토 아야카의 그림 속 궤적. 「겨울에 색이 없다고 말하지 마세요. 눈이 오면 온 세상이 하얗게 물든답니다」",
+    "Icon": "UI_TraceEffectIcon_Ayaka"
   }
 }

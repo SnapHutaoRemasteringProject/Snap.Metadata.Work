@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Dört Bir Yandan Gelen Misafirler İçin Rahat Bir Oda",
+    "Description": "Nasha Kasabası'ndaki en büyük han olan Sancak Gemisi'nin misafir odalarından esinlenerek döşenmiş bir oda. Sakinlerinin ihtiyaçlarına nokta atışı cevap verebilmek için özel iyileştirmeler yapılmıştır.\nSancak Gemisi'nde konaklayan birbirinden farklı tüm misafirlerin kendine has bir \"konfor\" anlayışı vardır. Haliyle tüm bu beklentiler arasında bir denge tutturmak hiç de kolay değildir. Nitekim Sancak Gemisi en son kendince bir çözüm buldu: Odaları bir müşterinin ihtiyaç duyabileceği her türlü eşyayla donatıp, ardından aldıkları geri bildirimlere göre gereksiz olanları çıkarıyorlar. Bu yüzden oda biraz dağınık görünse de misafirin ihtiyaç duyabileceği her şeyi elinin altına koyarak kendine göre konforlu bir alan yaratmasına olanak tanıyorlar.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Ay Altında Huzurlu Bir Uyku",
+    "Description": "Donuk Ayın Çocukları tarafından özenle seçilen parçalarla döşenmiş, sade ama zarif bir yatak odası. Buradaki genel atmosfer, zarif bir sadelik ve sıcaklık sunuyor. Söylenene göre huzurlu ve doğal bir ortam insanın rahatlamasına yardımcı olurmuş. Bu yatak odası da bu ilkenin mükemmel bir örneği gibi görünüyor. Ay ışığı kadar yumuşak bir parıltı saçan lamba ışığı ve havayı dolduran taze meyve kokusuyla burada kalanlar, dinlenmenin getirdiği huzur ve sükunet sessizce üzerlerine çökerken yorgunluklarının ve acılarının yavaş yavaş hafiflediğini hissedebilirler...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Sırlar Düzeni",
+    "Description": "Bu kendine has çalışma alanının düzeni, büyük ölçüde Sırlar Arşivi'nden esinlenmiştir ve sahibinin yoğun çalışma atmosferinin aslına sadıktır. Her şey titiz bir düzenle yerleştirilmiştir.\nBilgi analizi zorlu ve karmaşık bir görevdir. Veriler birbirine girdiğinde insanın kafası kolay karışır. Ancak her bir mobilyanın özenle yerleştirildiği ve gereken her aracın el altında olduğu bir odada zihin berraklaşır, verimlilik de haliyle artar...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "En Güzel ve En Sıcak Yuva",
+    "Description": "Sıcaklığıyla insanın içini ısıtan, huzur dolu bir atmosfere sahip Nod-Krai tarzı bir yatak odası. Burası, yoğun bir günün ardından yorgunluk atmak için adeta biçilmiş kaftan. Odadaki her bir parça, bizzat Çın Çın Krumkake Atölyesinin \"Ebeveyn\"i tarafından seçildi ve dünyanın en şahane, en sıcak ve en kullanışlı mobilyaları. Ancak bu benzersiz konforun bir kötü yanı var: Oda o kadar rahat ki, insan bazen uykunun tatlı rehavetine kapılıp önemli işlerini kaçırabiliyor. Herkesin vaktinde ayaklanmasını sağlamak için tatlı-sert bir uyandırma yöntemi şart olabilir.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Savaş Öncesi Mola",
+    "Description": "Piramida'nın oda düzenlerinden esinlenerek tasarlanmış bu tam donanımlı ortak salon, Ratniklerin savaştan önceki o değerli sükunet anlarını yeniden yaşatıyor. Kıdemli Ratnikler, Vahşi Ava karşı verilen mücadelenin uzun ve çetin geçeceğinin farkındadır. Bu yüzden şartlar elverdiği sürece dinlenmek, daima en üst düzeyde savaşa hazırlıklı olmanın anahtarıdır. Dahası, özenle düzenlenmiş bir salon, Ratniklere birbirlerini tanıma ve aralarındaki bağı güçlendirme fırsatı sunar. Ne de olsa savaş meydanında, tanımadığın yabancılar yerine güvendiğin yoldaşlarınla omuz omuza çarpışmak daha fazla cesaret ve koordinasyon sağlar. Bu nedenle dinlenme salonlarının inşası, Starşina için her zaman bir öncelik olmuştur.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Uzak Kuzeyin Yabanı",
+    "Description": "Nod-Krai'da sıkça görülen bitki örtüsünü ve arazi şekillerini bir araya getiren, özellikle de Hiisi Adası'nın eşsiz manzarasını aslına sadık şekilde yeniden canlandıran yaban arazi.\nNod-Krai bölgesi bol miktarda Kuuvahki barındırır. Bu da parlak renkli bitkilerin, kendine özgü alışkanlıklara sahip canlıların ve sıra dışı şekillerdeki arazi oluşumlarının ortaya çıkmasını sağlamıştır. Bu bölge, doğa bilimciler için sayısız yeni bilgi hazinesi barındırırken sıradan turistlere de durup hayranlıkla izleyebilecekleri harika manzaralar sunar.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Cıvıl Cıvıl Sınır Kasabası",
+    "Description": "Merkezinde çeşitli özgün binalar yer alan, her türden dükkanın bulunduğu bölgesel bir peyzaj. Nasha Kasabası'nın bir köşesinin bire bir kopyasıdır.\nRivayete göre Nasha Kasabası, ne gerçek bir yöneticisi ne de net bir planlama yapısı olmasıyla diğer şehirlerden ayrılır. Bu durum, binalar arasında sayısız dar geçidin ve göze çarpmayan boşlukların ortaya çıkmasına neden olmuştur. Sakinlerin çoğu için bu geçitler gürültüden başka bir şeyin uğramadığı yerlerdir. Fakat bilginin peşindekiler için sırların yayıldığı, yolcuların ise yollarını kısaltan kestirmelerdir.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Ay Altında Huzurlu Dua",
+    "Description": "Donuk Ay Yerleşkesi'nden esinlenilerek tasarlanmış, Donuk Ayın Çocuklarının geleneklerine göre düzenlenmiş çeşitli aletler ve her bir eşyayı tamamlayacak şekilde dikilmiş bitkilerle donatılmış bir açık hava ortamı. Bu alana adım attığında Donuk Ayın Çocuklarını tanımlayan o sükunet ve uyum hissini anında tadacaksın. Sanki nazik, melodik ilahiler usulca yankılanıyor, tüm dertleri ve kederleri esintiyle alıp götürüyor ve geriye yalnızca dingin ve huzurlu bir ruh hali bırakıyor.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Uzun Gecede Yalnız Bir Işık",
+    "Description": "Sağlam hanelere sahip bir yerleşim yeri. Düzeni ve mimarisi Işık Muhafızlarının açık hava savunma kalelerinden esinlenmiştir. Rüzgara ve yağmura dayanıklı olmakla beraber Vahşi Ava karşı bile güçlü bir savunma sunar. Işık Muhafızlarının yeminlerinde de dedikleri gibi: \"Biz Işık Muhafızlarıyız, sonsuz karla kaplı ovaların sislerini aydınlatan ebedi umudun ışığını yayarız.\"\nPiramida'nın dışındaki uçsuz bucaksız ovalarda kale gibi bu evler dimdik ayakta durur ve umut ışığını her daim içlerinde barındırır.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Gelecek Vadeden Atölyeler",
+    "Description": "Çın Çın Krumkake Atölyesinden ilham alan; konforlu, yarım küre şeklindeki demir evlere ve gemi şeklindeki demir binalara sahip küçük bir yerleşim. Bu yapılar, atölye sahiplerinin temel ihtiyaçlarını fazlasıyla karşılar.\nTüm büyük atölyeler tek bir basit yapının üzerine kuruludur. Bu binaları temel alıp doğru planlama ve malzemelere başvurduğun takdirde Çaydanlığını devasa bir atölyeye dönüştürebilirsin...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Hilal Huzuru",
+    "Description": "Gümüş Ay Salonu'ndan ilham alan bir avlu. Tarzı; sanki bir adım ötede ama ulaşılmaz, rüya misali bir diyarın sükunetini ve huzurunu yansıtır.\nAy ışığı, tüm canlılara her daim usulca yol gösterir. Belki de Ay Tanrıçası'nın takipçileri vaktiyle kendilerine şu soruyu sormuşlardır: Yeni Ayı huzur dolu uykusuna hangi manzara uğurlar?\nBu sorunun cevabını bulmanın yegane yolu, Gümüş Ay Salonu'nu ziyaret edip oradaki her bir çiçeği ve çimen tanesini seyre dalmaktır...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

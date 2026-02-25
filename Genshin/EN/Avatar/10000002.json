@@ -1153,5 +1153,11 @@
     "Description": "Namecard style.\nAyaka does constantly change out the fans she carries with her, of course. If you're buying her some as gifts, remember not to send summer fans or throwing fans. Dancing fans or tea fans are good choices, though.",
     "Icon": "UI_NameCardIcon_Ayaka",
     "PicturePrefix": "UI_NameCardPic_Ayaka"
+  },
+  "TraceEffect": {
+    "Id": 215018,
+    "Name": "Echo: Frostflake Heron",
+    "Description": "Kamisato Ayaka's Envisaged Echo. \"Do not speak of winter as void of color, the white snow falls and fills every corner.\"",
+    "Icon": "UI_TraceEffectIcon_Ayaka"
   }
 }

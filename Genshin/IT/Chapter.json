@@ -3648,6 +3648,20 @@
     "QuestType": 7
   },
   {
+    "Id": 2087,
+    "GroupId": 0,
+    "BeginQuestId": 1600901,
+    "EndQuestId": 1601112,
+    "NeedPlayerLevel": 40,
+    "Number": "Capitolo del Lupus Majoris: Atto I",
+    "Title": "A coloro che partono per la spedizione",
+    "Icon": "UI_ChapterIcon_Varka",
+    "ImageTitle": "Varka",
+    "SerialNumberIcon": "UI_QuestType_Chapter_1",
+    "CityId": 1,
+    "QuestType": 2
+  },
+  {
     "Id": 10048,
     "GroupId": 10048,
     "BeginQuestId": 4021703,
@@ -4137,6 +4151,45 @@
     "QuestType": 3
   },
   {
+    "Id": 10174,
+    "GroupId": 10174,
+    "BeginQuestId": 4022901,
+    "EndQuestId": 4022910,
+    "NeedPlayerLevel": 0,
+    "Number": "Prologo? Atto I",
+    "Title": "#{F#La straniera}{M#Lo straniero} che catturò il vento",
+    "Icon": "UI_ChapterIcon_Mengde",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10175,
+    "GroupId": 10174,
+    "BeginQuestId": 4023001,
+    "EndQuestId": 4023021,
+    "NeedPlayerLevel": 0,
+    "Number": "Il ritorno di colui che catturò il vento: Parte II",
+    "Title": "Per un incontro senza lacrime",
+    "Icon": "UI_ChapterIcon_BubbleDrama",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
+    "Id": 10176,
+    "GroupId": 10174,
+    "BeginQuestId": 4023101,
+    "EndQuestId": 4023115,
+    "NeedPlayerLevel": 0,
+    "Number": "Il ritorno di colui che catturò il vento: Parte III",
+    "Title": "Variazioni de La canzone del drago e della libertà",
+    "Icon": "UI_ChapterIcon_BubbleDrama",
+    "SerialNumberIcon": "",
+    "CityId": 0,
+    "QuestType": 3
+  },
+  {
     "Id": 10177,
     "GroupId": 10177,
     "BeginQuestId": 7609930,
@@ -4238,6 +4291,18 @@
     "Icon": "UI_ChapterIcon_Fontaine",
     "SerialNumberIcon": "",
     "CityId": 5,
+    "QuestType": 7
+  },
+  {
+    "Id": 10189,
+    "GroupId": 0,
+    "BeginQuestId": 7007401,
+    "EndQuestId": 7007409,
+    "NeedPlayerLevel": 0,
+    "Title": "Compiti della strega: Domanda senza titolo",
+    "Icon": "UI_ChapterIcon_Hexenzirkel",
+    "SerialNumberIcon": "",
+    "CityId": 1,
     "QuestType": 7
   },
   {

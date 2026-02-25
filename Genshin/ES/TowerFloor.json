@@ -1249,5 +1249,28 @@
     "SecondDescriptions": [
       "Aumenta en un 75% el daño de Cristalización Lunar."
     ]
+  },
+  {
+    "Id": 1124,
+    "Index": 11,
+    "LevelGroupId": 124,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Todos los miembros del equipo obtienen un 60% de Bono de Daño Anemo.",
+      "Todos los miembros del equipo obtienen un 60% de Bono de Daño Cryo."
+    ]
+  },
+  {
+    "Id": 1125,
+    "Index": 12,
+    "LevelGroupId": 125,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Aumenta el Daño Anemo que inflige el personaje en uso en un 75%."
+    ],
+    "SecondDescriptions": [
+      "El Daño Cryo del Ataque Normal del personaje aumenta en un 75%."
+    ]
   }
 ]

@@ -1180,5 +1180,11 @@
     "Description": "Stile per la carta giocatore.\nLa camelia si accende sullo specchio d'acqua, creando increspature sulla superficie.",
     "Icon": "UI_NameCardIcon_Ayato",
     "PicturePrefix": "UI_NameCardPic_Ayato"
+  },
+  "TraceEffect": {
+    "Id": 215019,
+    "Name": "Eco: Pilastro della forza d'animo",
+    "Description": "L'Eco immaginario di Kamisato Ayato. \"Chi dice che i ruscelli autunnali sono freddi? Alla fine, i fiori caduti continueranno a fluttuare e a piegarsi\".",
+    "Icon": "UI_TraceEffectIcon_Ayato"
   }
 }

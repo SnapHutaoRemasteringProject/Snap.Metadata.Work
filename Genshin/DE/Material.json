@@ -1794,6 +1794,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Varka",
+    "Description": "Material zum Aktivieren von Varkas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3023,6 +3034,17 @@
     "Description": "Material zum Aktivieren von Illugas Sternbild",
     "TypeDescription": "Zur Aktivierung von Sternbildern",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Varka",
+    "Description": "Material zum Aktivieren von Varkas Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -4789,7 +4811,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Mittsommerbeere",
-    "Description": "Diese Frucht wächst in den wärmeren Regionen von Nod-Krai und erfreut sich großer Beliebtheit, sowohl bei überwinternden Tieren als auch bei naschhaften Kindern.\nIn einer Legende der Nachkommen des Frostmonds gelten die Mittsommerbeeren als Sinnbild für „Leben“ und „Fülle“, denn nur im Frühling und Sommer tragen sie Blüten und gedeihen.\nEine Legende erzählt vom „König der Winterstechpalmen“ und dem „König der Sommereichen“, zwei Zwillingsherrschern, die sich im ewigen Zyklus töten und aus dem Totenreich zurückkehren, um über ihre Zeit zu herrschen, bis ans Ende der Welt. Die Gelehrten von Snezhnaya glauben, es handle sich dabei um ein primitives Bild für den Wechsel der Jahreszeiten, oder zumindest reden sie sich dies ein.",
+    "Description": "Diese Frucht wächst in den wärmeren Regionen von Nod-Krai und erfreut sich großer Beliebtheit, sowohl bei überwinternden Tieren als auch bei naschhaften Kindern.\nIn einer Legende der Nachkommen des Frostmonds gelten die Mittsommerbeeren als Sinnbild für „Leben“ und „Fülle“, denn nur im Frühling und Sommer tragen sie Blüten und gedeihen.\nEine Legende erzählt vom „König des Winterweidenkrauts“ und dem „König der Mittsommereichen“, zwei Zwillingsherrschern, die sich im ewigen Zyklus töten und aus dem Totenreich zurückkehren, um über ihre Zeit zu herrschen, bis ans Ende der Welt. Die Gelehrten von Snezhnaya glauben, es handle sich dabei um ein primitives Bild für den Wechsel der Jahreszeiten, oder zumindest reden sie sich dies ein.",
     "TypeDescription": "Zutat",
     "Icon": "UI_ItemIcon_101265"
   },
@@ -31229,7 +31251,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Misslungene Gemüse-Topfsuppe",
-    "Description": "Eine Suppe aus Eine Suppe, die durch das langsame Kochen verschiedener geschnittener Gemüsesorten mit leichter Würzung zubereitet wird. Durch das lange Kochen sind die Gemüsestücke weich und matschig geworden, mit einer etwas breiigen Konsistenz. Nicht gerade appetitlich, aber wenigstens macht sie satt.",
+    "Description": "Eine Suppe, die durch das langsame Kochen verschiedener geschnittener Gemüsesorten mit leichter Würzung zubereitet wird. Durch die lange Zeit auf dem Herd sind die Gemüsestücke weich und matschig geworden, mit einer etwas breiigen Konsistenz. Nicht gerade appetitlich, aber wenigstens macht sie satt.",
     "TypeDescription": "Nahrung",
     "Icon": "UI_ItemIcon_108859"
   },
@@ -31400,6 +31422,54 @@
     "Description": "Ein Brot mit einer Füllung aus sautiertem Gemüse. Willkürlich über einem kaum kontrollierten Feuer gegart, entsteht ein pechschwarzer Holzkohlepilz. Allein sein Anblick schüchtert ein, ganz zu schweigen von dem Risiko, das schon ein einziger Bissen birgt ...",
     "TypeDescription": "Nahrung",
     "Icon": "UI_ItemIcon_108867"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 18{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 300 LP wieder her.",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Misslungenes vergoldetes Jadehähnchen",
+    "Description": "Ein für Liyue typisches Hühnergericht. Die hellgelbe Haut des Huhns bildet einen herrlichen Kontrast zum blassen, weißen Fleisch. Doch schon beim ersten Bissen überkommt einen ein Gefühl der Reue – das knochentrockene, zähe Fleisch bleibt sofort zwischen den Zähnen hängen ...",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 20{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 390 LP wieder her.",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Vergoldetes Jadehähnchen",
+    "Description": "Ein für Liyue typisches Hühnergericht. Mit nur einem Minimum an Gewürzen und anderen Zutaten zubereitet, um den natürlichen Geschmack des Geflügels zu bewahren. Das Ergebnis kann sich sehen lassen: Eine seidige Haut und zartes, aromatisches Fleisch, das in Kombination mit einer Dip-Sauce besonders gut zur Geltung kommt.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "#Stellt der gewählten Figur sofort 22{NON_BREAK_SPACE}% LP und innerhalb der nächsten 30{NON_BREAK_SPACE}s alle 5{NON_BREAK_SPACE}s 470 LP wieder her.",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Leckeres vergoldetes Jadehähnchen",
+    "Description": "Ein für Liyue typisches Hühnergericht. Die Haut ist angenehm fest, während das Fleisch zart und aromatisch ist. Die natürliche Gelatine aus dem Huhn, eingekocht zu einem Gelee, ist reich an intensivem Aroma von herzhaftem Hühnerfett, und sogar die Knochen verströmen eine subtile Süße. Eine wahre Symphonie der Aromen, die selbst den anspruchsvollsten Gourmet zu begeistern weiß.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "Stellt 80 Punkte Ausdauer wieder her.",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "„Herzhafter Genuss“",
+    "Description": "Varkas Spezialzubereitung. Ein üppiges Stück geräucherter Hähnchenschenkel, ein großer Krug gefüllt mit Apfelwein und dazu eine rustikale, kühne Anrichtung. Hier weiß man, mit wem man es zu tun hat – mit jemandem, der sich weder im Kampf, noch bei Tisch zurückhält.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108870"
   },
   {
     "Rank": 300501,
@@ -34291,6 +34361,17 @@
     "ItemType": 2,
     "Name": "Rezept: Fungus-Fantasie",
     "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Fungus-Fantasie“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Rezept: Vergoldetes Jadehähnchen",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Vergoldetes Jadehähnchen“.",
     "TypeDescription": "Rezept",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37254,9 +37335,20 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Überreste der Schreckensflügel",
-    "Description": "Ein tiefschwarzes Knochenrelikt, das aus der verweilenden Verderbnis gewonnen wurde, die nach dem Sieg über den Flüsterer der Albträume zurückblieb, der aus einer anderen Welt eingedrungen war.\nDas formlose Ungeheuer, das durch die sternenlose Leere schwebte, hätte niemals etwas benötigt, die unsereins „Flügel“ nennt. Die grotesken, profanen Anhängsel könnten entstanden sein, um sich an die Gesetze unter dem Mond anzupassen, oder vielleicht sind sie nur ein verzerrtes Fragment seiner wahren Gestalt, das sterbliche Augen wahrnehmen können.",
+    "Description": "Ein tiefschwarzes Knochenrelikt, das aus der verweilenden Verderbnis gewonnen wurde, die nach dem Sieg über den Flüsterer der Albträume zurückblieb, der aus einer anderen Welt eingedrungen war.\nDas formlose Ungeheuer, das durch die sternenlose Leere schwebte, hätte niemals etwas benötigt, was unsereins „Flügel“ nennt. Die grotesken, profanen Anhängsel könnten entstanden sein, um sich an die Gesetze unter dem Mond anzupassen, oder vielleicht sind sie nur ein verzerrtes Fragment seiner wahren Gestalt, das sterbliche Augen wahrnehmen können.",
     "TypeDescription": "Material zur Verbesserung von Figuren",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prismatischer abgetrennter Schweif",
+    "Description": "Kristallisierter Schwanzwirbel, den ein besiegter Glimmermondgecko beim Versuch zu fliehen zurückgelassen hat.\nNormalerweise sollten Echsen, die sich zu solch mächtigen Wesen entwickelt haben, nicht mehr von natürlichen Feinden bedroht werden können. Trotzdem hat dieses Wesen den Instinkt behalten, seinen Schwanz abzuwerfen, um zu überleben. Vielleicht gab es in der Zeit, als Mondlicht die Erde überzog, noch viel gefährlichere Raubtiere an diesem Ort.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50208,6 +50300,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Berechtigungsabzeichen",
+    "Description": "Ein wichtiges Abzeichen, das von verschiedenen Fatui verwahrt wird. Nur wenn drei dieser Abzeichen gesammelt sind, kann der Apparat aktiviert werden, der zur Kammer tief im Inneren führt. Warum es genau drei sein müssen? Nun, die Hexe gibt ein gewisses „Teilhabegefühl“ als den Grund an.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Stark verschmutzter Tränenkristall",
+    "Description": "Von einem Dvalin, der völlig vom Abgrund verdorben wurde. Der Zustand der Träne zeigt, dass Dvalin in dieser Geschichte nicht mehr geheilt werden kann.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50327,6 +50441,17 @@
     "Description": "Eine besondere Schachtel mit Zuckerfiguren. Scheinbar wurde ihr Inhalt für jemanden ganz Speziellen hergestellt. Wie dem auch sei, besser, du verputzt sie recht bald, nicht, dass sie noch schmelzen.",
     "TypeDescription": "Verbrauchsgegenstand",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Universelles Verhandlungshilfsmittel",
+    "Description": "Ein schwerer Beutel, gefüllt mit Wertmarken, die selbst die gierigsten Menschen überzeugen können. Manche verstehen genau dies unter „Aufrichtigkeit“.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50517,6 +50642,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Veranstaltungseinladung",
+    "Description": "Eine Einladung von Jean, der Stellvertretenden Großmeisterin des Ordo Favonius. Kurz und knapp gehalten, erwähnt der Text keine weiteren Details zur Veranstaltung.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Federleichte Mora",
+    "Description": "Diese Mora wurde am Sternfallsee gefunden. Sie sieht zwar genauso aus wie eine normale Mora, wiegt aber nur ein Zehntel davon. Deshalb ist auch die Freude über den gewonnenen Reichtum nur ein Zehntel so groß.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Extrem elastisches Fischfleisch",
+    "Description": "Fischfleisch, das man am Sternfallsee finden kann. Es sieht zwar wie normales Fischfleisch aus, ist aber sehr elastisch. Egal wie stark man es auch drückt oder knetet, es springt sofort wieder in seine ursprüngliche Form zurück. Es ist eher ein Anti-Stress-Spielzeug als eine Zutat ... Man tut also gut daran, es nicht zum Kochen zu verwenden.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Dodocos verzauberte Bonbons“",
+    "Description": "Ein Andenken von Klee, das daran erinnert, wie ihr am Getränkestand des Ritterordens ausgeholfen habt.\n„Pack alles auf den Alchimietisch, wünsch dir eine Form, sprich dann Mamas Zauberspruch und ... puff! Eine Süßigkeit in Form eines Dodocos!“\nGanz so, wie man es von einer Kreation von Fräulein Alice erwarten würde. Auch wenn ganz gewöhnliche Zutaten aus Teyvat zum Einsatz kommen, ist der Geschmack doch komplex, ja regelrecht zauberhaft süß. Es reicht ein Bissen und es ist fast so, als ob einem eine magische Formel in den Ohren klingt ... Leider ist die Stückzahl begrenzt, du solltest dir also lieber eines davon als Andenken aufheben.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50547,6 +50716,61 @@
     "Description": "Eine Gedichtsammlung, die die Taten der Starshyna über Generationen hinweg festhält. Der größte Teil ihres Inhalts ging bei früheren Katastrophen verloren. Was heute noch übrig ist, ist nur ein kleiner Teil der ursprünglichen Sammlung.",
     "TypeDescription": "Auftragsobjekt",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "Vom Wind herbeigewehter Brief",
+    "Description": "Ein Brief, der irgendwann mal seinen Weg in dein Inventar gefunden hat. Vielleicht hat ihn der Wind ja hierher geweht.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Varkas Einladungsgutschein",
+    "Description": "Ein von Varka handgezeichneter Gutschein, der im Restaurant „Hirschjäger“ gegen ein reichhaltiges und herzhaftes Fleischgericht eingelöst werden kann.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Varkas Einladungsgutschein",
+    "Description": "Ein von Varka handgezeichneter Gutschein, der im Restaurant „Hirschjäger“ gegen ein reichhaltiges und herzhaftes Fleischgericht eingelöst werden kann. Auf der Rückseite in der Ecke ist ein kleiner Stempelabdruck mit dem Wort „Eingelöst“ zu sehen.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varkas eiserne Reserve",
+    "Description": "#Geld, das Varka extra für Getränke beiseitegelegt hat und das er ganz unverhohlen in einer Schreibtischschublade versteckt.\n„Der gefährlichste Ort ist eigentlich der sicherste!“ So behauptet er zwar, aber in Wahrheit bewahrt er das Geld wahrscheinlich hier auf, weil er davon ausgeht, dass der amtierende Großmeister es weder ausgeben noch sein Versteck verraten wird.\nObwohl dieses Geld ursprünglich dafür gedacht war, Löwenzahnwein als Opfergabe für die Götter zu kaufen, könnte es nun, da sich die Pläne geändert haben, vielleicht dazu verwendet werden, den Ehrenritter zu belohnen, der Varka gerettet hat{NON_BREAK_SPACE}– oder stattdessen jedem Freund, der bei seiner Rettung geholfen hat, eine Belohnung zukommen zu lassen.",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varkas eiserne Reserve",
+    "Description": "#Geld, das Varka extra für Getränke beiseitegelegt hat und das er ganz unverhohlen in einer Schreibtischschublade versteckt.\n„Der gefährlichste Ort ist eigentlich der sicherste!“ So behauptet er zwar, aber in Wahrheit bewahrt er das Geld wahrscheinlich hier auf, weil er davon ausgeht, dass der amtierende Großmeister es weder ausgeben noch sein Versteck verraten wird.\nDieses Geld war ursprünglich dafür gedacht, Löwenzahnschnaps als Opfergabe für die Götter zu kaufen. Nun diente es dazu, {M#den}{F#die} Ehrenritter{F#in} für Varkas Rettung zu entlohnen ... vielleicht wird {M#er}{F#sie} es aber auch dazu verwenden, jeden jener Freunde zu bewirten, die letzten Endes zu Varkas Rettung beigetragen haben.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -51028,7 +51252,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "Bernharzkraut-Samen",
-    "Description": "Ein Samen, den du der Saatschachtel entnommen hast. Ein Qualitätssamen voller Leben, der nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus eine Bernharzkraut.",
+    "Description": "Ein Samen, den du der Saatschachtel entnommen hast. Ein Qualitätssamen voller Leben, der nur darauf wartet, auf den Feldern des Kannenreichs gepflanzt zu werden. Nach einiger Zeit wächst daraus ein Bernharzkraut.",
     "TypeDescription": "Material",
     "Icon": "UI_ItemIcon_130044"
   },
@@ -51116,7 +51340,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Kampfstichling",
-    "Description": "Ein schneller, grimmiger Fisch mit stacheligen Flossen, dessen stacheliges Maul die Strömung durchbohren kann, wenn er mit voller Geschwindigkeit schwimmt. Seine Fähigkeiten haben ihm die Spitznamen „Wasserdorn“ und „Bachpfeil“ eingebracht.\nUnter den Stichlingen wird diese Art Fische als eine der stolzesten angesehen. Besonders stachelig sind sie während der Balz, wo schon der kleinste Windhauch oder die kleinste Wellenbewegung sie durchdrehen lässt. Ein Freizeitangler hat einmal einen solchen Fisch dabei beobachtet, wie er sich auf wehendes Seegras stürzte, als wäre solch ein schamloses Tanzen eine große Provokation gegen den Stichlingskönig.\n„Wenn du einem unter Wasser begegnest, schau ihm nicht in die Augen.“ – Angleratlas, Kapitel Kampfstichlinge",
+    "Description": "Ein schneller, grimmiger Fisch mit stacheligen Flossen, dessen stacheliges Maul die Strömung durchbohren kann, wenn er mit voller Geschwindigkeit schwimmt. Seine Fähigkeiten haben ihm die Spitznamen „Wasserdorn“ und „Bachpfeil“ eingebracht.\nUnter den Stichlingen würde diese Art entweder als die stolzeste gelten oder einen ziemlich nahen zweiten Platz einnehmen. Besonders stachelig sind sie während der Balz, wo schon der kleinste Windhauch oder die kleinste Wellenbewegung sie durchdrehen lässt. Ein Freizeitangler hat einmal ein solches Exemplar dabei beobachtet, wie es sich auf wehendes Seegras stürzte, als wäre solch ein schamloses Tanzen eine große Provokation gegen den Stichlingskönig oder so ähnlich.\n„Wenn du einem unter Wasser begegnest, schau ihm nicht in die Augen.“ – Angleratlas, Kapitel Kampfstichling",
     "TypeDescription": "Fisch",
     "Icon": "UI_ItemIcon_131007"
   },
@@ -53524,7 +53748,7 @@
     "Id": 141275,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Strahlender Drehkristall CLXIII",
+    "Name": "Strahlender Drehkristall CLXXIII",
     "Description": "Dieser wundersame Kristall hat einen gewissen Rhythmus, wie etwas Schönes, das aus zarter Seide gewebt ist. Diese Gegenstände kannst du überall auf dem Festland oder bei Händlern finden, die Einzigartiges sammeln. Die Melodie, die in diesem Kristall enthalten ist, kann in deiner Kanne der Vergänglichkeit durch „Höchste Euphonie – Musik in der Luft“ oder „Höchste Euphonie – Verflochtene Klänge“ wieder zum Leben erweckt werden. In diesem strahlenden Drehkristall ist eine mysteriöse Melodie aus Nod-Krai enthalten.",
     "TypeDescription": "Abenteuerobjekt",
     "Icon": "UI_ItemIcon_BGM_Common"
@@ -56225,6 +56449,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Spurensuche-Fotoapparat",
+    "Description": "Ein Fotoapparat, den Paimon bei sich trägt. Dieses Mal dient er ihr dazu, bemerkenswerte Unterschiede festzuhalten.",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Harmonikon",
+    "Description": "Ein raffiniertes Instrument, das für Auftritte genutzt werden kann.\nIn den Augen der alten Sophisten waren die auf der Erde erklingenden Melodien nur grobe Nachbildungen der universellen Sinfonie. Der König der Unsterblichen jedoch erhielt aus dem Spiel der Musiker eine abweichende musikalische Idee. Auf seine Anweisung hin fixierte der Harmost die ewigen Klänge auf jeder einzelnen Taste, auf dass jeder durch das Spielen dem großartigsten Ensemble beitreten könne.",
+    "TypeDescription": "Hilfsmittel",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -56927,6 +57173,17 @@
     "Description": "Diese mit einer einzigartigen Szenerie bemalte Geweberolle aus Natlan hält eine einzigartige Kraft verborgen und ist ein Andenken, mitgebracht von Bolle, dem Kannengeist auf der Durchreise.\nSobald du die Muster auf der Rolle in Augenschein nimmst, scheint ein ganz bestimmtes Bild in deinem Kopf zu entstehen. Du kannst die Raumschaffung verwenden, um die Landschaft von Natlan in das Kannenreich zu übertragen ...",
     "TypeDescription": "Verbrauchsgegenstand",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Schattenschneid-Ballmaschine“",
+    "Description": "Ein kugelförmiger Mechanismus aus Nod-Krai, der Musik abspielen und beeindruckende Lichteffekte erzeugen kann. Es handelt sich um ein Souvenir, das Bolle, der Kannengeist auf der Durchreise, von eben dort mitgebracht hat.\nSelbst ein flüchtiger Blick auf die sich verändernden Lichter dieser Kugel ruft vage Bilder hervor, die du mithilfe der Kraft der „Raumschaffung“ manipulieren kannst, um die wundersamen Landschaften von Nod-Krai innerhalb deines Kannenreichs nachzubilden ...",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58212,6 +58469,127 @@
     "ItemType": 2,
     "Name": "Rückzugsort der Mitstreiter",
     "Description": "Ein gepflegtes schlichtes Heim mit bewährten Saurier-Annehmlichkeiten. Für gut befunden von den Bewohnern Natlans, ob als Nest für Sauriergefährten oder als Heim für andere große Tiere.\nIn Natlan gelten Saurier als Gefährten der Krieger, ja sogar als Familie. Sie teilen jedes Leid und jede Freude und wachsen mit ihnen zusammen. Mit ihnen verfliegt jede dunkle Wolke im Herzen im Nu.\nDieses Set wird von folgenden Kameraden bevorzugt: Ifa",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ein behagliches Gemach für alle Gäste",
+    "Description": "Dieses vollständig ausgestattete Schlafzimmer orientiert sich am Design der Gästezimmer der Taverne „Flaggschiff“ in Nasha und wurde gezielt an die Bedürfnisse seiner Bewohner angepasst.\nDie Gäste des „Flaggschiffs“ stammen aus den unterschiedlichsten Gegenden und bringen entsprechend verschiedene Vorstellungen von Komfort mit sich. Ein Ausgleich all dieser Erwartungen war keine leichte Aufgabe. Schließlich entschied sich das „Flaggschiff“ für einen ungewöhnlichen Ansatz: Man vereinte alles, was ein Gast womöglich benötigen könnte, in einem Raum und entfernte Überflüssiges erst nach dessen Urteil. Trotz der stellenweise dichten Anordnung liegt gerade darin die Stärke dieses Konzepts, denn in dieser funktionalen Fülle findet jeder Gast seine ganz persönliche Form von Behaglichkeit.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Schlummer im Mondschein",
+    "Description": "Ein schlichtes, harmonisch wirkendes Schlafzimmer mit sorgfältig ausgewählten Möbeln der Nachkommen des Frostmonds. Die Atmosphäre ist warm, zurückhaltend und von sanfter Eleganz geprägt. Man sagt, eine ruhige natürliche Umgebung helfe dabei, Körper und Geist zur Ruhe kommen zu lassen, und dieses Schlafzimmer scheint dies still zu bestätigen. Im milden Schein der Lampen, weich wie fahler Mondschein, liegt ein frischer Duft nach reifen Früchten in der Luft. Wer hier verweilt, spürt, wie Müdigkeit und Schmerz allmählich von ihm abfallen, während die nächtliche Stille sanft den Schlaf herbeiruft ...",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Das geordnete Geflecht der Geheimnisse",
+    "Description": "Ein Arbeitsraum von markantem Charakter, dessen Anordnung sich eng am „Kuratorium der Geheimnisse“ orientiert und die Arbeitsszene der Besitzerin detailgetreu widerspiegelt. Alles folgt einer klaren Ordnung.\nDie Analyse von Informationen ist eine anspruchsvolle und oft verwirrende Aufgabe. Doch in einem Raum, dessen Einrichtung wohlüberlegt ist und der über sämtliche notwendigen Hilfsmittel verfügt, scheint sich der Geist leichter zu ordnen, und mit ihm steigt auch die Effizienz der Arbeit.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Das beste und wärmste Zuhause",
+    "Description": "Ein Schlafzimmer im Nod-Krai-Stil, dessen Gestaltung Wärme und Geborgenheit ausstrahlt – ein idealer Ort, um nach einem langen Tag zur Ruhe zu kommen. Sämtliche Einrichtungsgegenstände stammen aus der „Krumkake-Werkstatt Kling-Klang“ und wurden vom „Familienoberhaupt“ persönlich ausgewählt: Möbel, die als die besten, wärmsten und praktischsten gelten. Doch diese Behaglichkeit bringt auch eine kleine Schwierigkeit mit sich – wer sich hier allzu sehr entspannt, verschläft leicht und verpasst mitunter sogar wichtige Angelegenheiten. Vielleicht bedarf es daher einer ebenso entschlossenen wie fürsorglichen Weckmethode, um rechtzeitig in den Tag zu starten.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Ruhepause vor dem Kampf",
+    "Description": "Ein funktional ausgestatteter Gemeinschaftsraum, dessen Gestaltung sich an den Räumlichkeiten von Piramida orientiert und die kurze Rast der Ratniki vor der Schlacht widerspiegelt. Erfahrene Ratniki wissen, dass der Krieg gegen die Wilde Jagd langwierig und entbehrungsreich ist und jede Gelegenheit zur Erholung genutzt werden muss, um die eigene Kampfkraft zu bewahren. Zugleich fördert ein gut eingerichteter Ruheraum den Austausch untereinander, denn an der Seite vertrauter Gefährten zu kämpfen, schafft mehr Vertrauen und Zusammenhalt als mit Fremden. Aus diesem Grund messen die Starshynas der Errichtung solcher Räume seit jeher große Bedeutung bei.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Die Ebenen des hohen Nordens",
+    "Description": "Eine weitläufige Landschaft, die typische Vegetation und Geländeformen der Nod-Krai-Region vereint und die besondere Wildnis von Insel Hiisi authentisch nachzeichnet.\nDurch das reiche Vorkommen an Kuuvahki dieser Region gedeihen farbenprächtige Pflanzen, Tiere mit ungewöhnlichen Charakteristika und eigenwillige Landschaftsformen. Für Naturkundler birgt dieses Gebiet zahllose Schätze neuen Wissens – doch auch gewöhnliche Besucher können kaum anders, als innezuhalten und die wunderbare Szenerie auf sich wirken zu lassen.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Geschäftiges Grenzstädtchen",
+    "Description": "Eine Gebietslandschaft, geprägt von markanten Gebäuden und unterschiedlich ausgerichteten Geschäften, die einen typischen Winkel von Nasha lebendig nachzeichnet.\nDer Überlieferung nach unterscheidet sich Nasha von anderen Städten: Es fehlt an einem wirklichen Verwalter ebenso wie an einer klaren städtebaulichen Ordnung. So entstanden zwischen den Häusern zahllose schmale Durchgänge und verborgene Zwischenräume. Für die meisten Bewohner sind sie kaum mehr als Wege, auf denen sich Lärm ausbreitet. Für aufmerksame Beobachter jedoch dienen sie als Routen für geheime Nachrichten und als geschickte Abkürzungen durch die Stadt.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stiller Bittgesang im Mondschein",
+    "Description": "Eine offene Szenerie, gestaltet nach dem Vorbild der Enklave des Frostmonds. Gerätschaften und Pflanzen sind gemäß den Regeln der „Nachkommen des Frostmonds“ aufeinander abgestimmt und angeordnet. Wer diesen Ort betritt, spürt die Ruhe und Harmonie, die ihr Leben prägen. Ein sanfter Bittgesang scheint leise im Inneren nachzuklingen, während Sorgen und Schmerzen vom Wind davongetragen werden. Zurück bleibt eine stille, gelassene Klarheit.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Die einsame Leuchte in der langen Nacht",
+    "Description": "Eine Siedlung mit schweren Gebäuden, deren Anordnung und Baustil sich an den Feldbefestigungen der Lichthüter orientieren. Dieses Design trotzt Wind und Wetter und bietet selbst gegen die heranstürmende Wilde Jagd verlässlichen Schutz – so, wie es im Schwur der Lichthüter heißt: „Wir sind die Lichthüter, die in den endlosen schneebedeckten Ebenen stehen und Laternen tragen, die ewige Hoffnung verbreiten.“\nAuf den weiten Ebenen vor Piramida gleichen solche Posten Fackeln, die das Licht der Hoffnung in die Dunkelheit tragen.",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Die aufstrebende Werkstatt",
+    "Description": "Eine kleine Siedlung nach dem Vorbild der „Krumkake-Werkstatt Kling-Klang“, ausgestattet mit komfortablen, halbkugelförmigen Eisenhäusern und Gebäuden in Schiffsform, die die grundlegenden Bedürfnisse der Werkstattbetreiber erfüllen.\nAlle großen Werkstätten der Welt begannen einst mit einfachen Baueinheiten. Mit diesen als Fundament, durchdachter Planung und ausreichend Material ist es durchaus vorstellbar, das gesamte „Kannenreich“ eines Tages in eine riesige Werkstatt zu verwandeln ...",
+    "TypeDescription": "Dekorationssetbauplan",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stille Szenerie des Neumonds",
+    "Description": "Ein nach dem „Silbermondhof“ gestalteter Garten, dessen Erscheinung von Ruhe und sanfter Abgeschiedenheit geprägt ist, wie ein fernes Traumreich.\nMondlicht führt alle Wesen mit leiser Milde. Vielleicht haben einst Anhänger der Mondgöttin darüber nachgesonnen, welche Szenerie den Neumond in ein ihr allein gehörendes, friedliches Traumland geleiten könne.\nNur wer den „Silbermondhof“ selbst betritt und dort jede Blüte und jeden Grashalm in stiller Betrachtung würdigt, vermag die Antwort zu erahnen ...",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -71675,7 +72053,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "„Geflüster im Mondlicht“",
-    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Nächtliche Geheimgespräche“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Geflüster im Mondlicht“.\nNach der Anwendung im Herstellungsmenü zu finden.",
     "TypeDescription": "Dekorationsbauplan",
     "Icon": "UI_ItemIcon_Home_Common"
   },
@@ -71929,6 +72307,413 @@
     "ItemType": 2,
     "Name": "Lebendige Laterne – „Auf bald, mein Freund“",
     "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Lebendige Laterne – Auf bald, mein Freund“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Runder Keks“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Runder Keks“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Aufbewahrungshäuschen Kling-Klang“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Aufbewahrungshäuschen Kling-Klang“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frostmond-Rundtisch – „Sanftes Himmelblau“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Frostmond-Rundtisch – Sanftes Himmelblau“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Aufzeichnungen eines Unbekannten“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Aufzeichnungen eines Unbekannten“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frostmond-Tischchen – „Fruchtiger Duft“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Frostmond-Tischchen – Fruchtiger Duft“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Verbundenes Azurblau“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Verbundenes Azurblau“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sommereichenstuhl – „Mondkissen“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Sommereichenstuhl – Mondkissen“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Rauhorn-Schimmer“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Rauhorn-Schimmer“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Kringelpilz“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Kringelpilz“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Allerbestes Nestchen“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Allerbestes Nestchen“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frostmond-Steinbett – „Erfrischende Kühle“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Frostmond-Steinbett – Erfrischende Kühle“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Niedriger Innentisch – „Eigener Wert“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Niedriger Innentisch – Eigener Wert“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Innenregal – „Mußestundenlektüre“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Innenregal – Mußestundenlektüre“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Innentheke – „Formeller Empfang“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Innentheke – Formeller Empfang“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Hoher Turm“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Hoher Turm“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Hotelkleiderschrank – „Großraum“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Hotelkleiderschrank – Großraum“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Frostmond-Teppich – „Klarer Einklang“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Frostmond-Teppich – Klarer Einklang“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Flauschteppich“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Flauschteppich“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Standhaft wie Stahl“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Standhaft wie Stahl“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Banner der Lichthüter“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Banner der Lichthüter“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tavernen-Wandleuchte – „Schwebender Korridorschein“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Tavernen-Wandleuchte – Schwebender Korridorschein“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basis-Nebengebäude – „Mehrzweck-Gewächshaus“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Basis-Nebengebäude – Mehrzweck-Gewächshaus“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basis-Nebengebäude – „Geheimer Raum“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Basis-Nebengebäude – Geheimer Raum“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basis-Nebengebäude – „Hoher Wasserturm“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Basis-Nebengebäude – Hoher Wasserturm“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basiswindmühle – „Hilfsantrieb“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Basiswindmühle – Hilfsantrieb“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basistor – „Runde Logik“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Basistor – Runde Logik“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basisplattform – „Festes Fundament“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Basisplattform – Festes Fundament“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basismauer – „Sperrlinie“",
+    "Description": "#Bauplan mit detaillierten Schritten zur Herstellung von „Basismauer{NON_BREAK_SPACE}– Sperrlinie“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Basispfeiler – „Allzweckbake“",
+    "Description": "#Bauplan mit detaillierten Schritten zur Herstellung von „Basispfeiler{NON_BREAK_SPACE}– Allzweckbake“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Sanfte Umarmung“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Sanfte Umarmung“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Stadtgeländer – „Bequemer Sitz“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Stadtgeländer – Bequemer Sitz“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Stadtgeländer – „Bläuliche Wogen“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Stadtgeländer – Bläuliche Wogen“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Götzenstatue „Funkelfunken“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Götzenstatue ,Funkelfunken‘“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Kühle Formel der Basis“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Kühle Formel der Basis“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Solide Basis-Decke“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Solide Basis-Decke“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Legierungsboden der Basis“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Legierungsboden der Basis“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Stilles Streulicht der Basis“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Stilles Streulicht der Basis“.\nNach der Anwendung im Herstellungsmenü zu finden.",
     "TypeDescription": "Dekorationsbauplan",
     "Icon": "UI_ItemIcon_Home_Common"
   }

@@ -910,7 +910,7 @@
     "VisionOverrideLocked": "Disco Lunar",
     "VisionOverrideUnlocked": "Disco Lunar",
     "ConstellationBefore": "Equa Alba",
-    "CvChinese": "昱头",
+    "CvChinese": "Mace",
     "CvJapanese": "福圓美里",
     "CvEnglish": "Laura Welsh",
     "CvKorean": "Chun Song-e",
@@ -926,6 +926,10 @@
     },
     "Fetters": [
       {
+        "Title": "Hola...",
+        "Context": "Me llamo Zibai. Los mortales solían conocerme como la “Adeptus Yegua Blanca”, pero ahora que he descendido al plano de los mortales, puedes llamarme Zibai."
+      },
+      {
         "Title": "Charla - La luna",
         "Context": "El mundo entero comparte la generosidad de los cielos, pues de ellos procede la lluvia y las nubes que bendicen la tierra. La luna nunca estuvo destinada a ser un lugar ajeno..."
       },
@@ -936,10 +940,6 @@
       {
         "Title": "Charla - Magia adéptica",
         "Context": "La magia adéptica es verdaderamente milagrosa, pero a menos que uno cultive la mente antes que esa magia, todos sus logros serán como el reflejo de la luna en el agua: se desvanecerán con el más mínimo roce."
-      },
-      {
-        "Title": "Hola...",
-        "Context": "Me llamo Zibai. Los mortales solían conocerme como la “Adeptus Yegua Blanca”, pero ahora que he descendido al plano de los mortales, puedes llamarme Zibai."
       },
       {
         "Title": "Cuando llueve...",
@@ -1035,7 +1035,7 @@
       },
       {
         "Title": "Sobre Lan Yan...",
-        "Context": "Lan Yan debe de ser descendiente de Descifravientos, uno de los Ocho Adeptos. Recuerdo que Descifravientos viajó por un tiempo con Alargéntea Plumajade y juntos crearon una historia verdaderamente encantadora. Estoy segura de que ambos estarían encantados de ver lo sabios y competentes que han resultado ser sus actuales descendientes."
+        "Context": "Lan Yan debe de ser descendiente de Descifravientos. Recuerdo que Descifravientos viajó por un tiempo con Alargéntea Plumajade y juntos crearon una historia verdaderamente encantadora. Estoy segura de que ambos estarían encantados de ver lo sabios y competentes que han resultado ser sus actuales descendientes."
       },
       {
         "Title": "Sobre Hu Tao...",
@@ -1095,7 +1095,7 @@
       },
       {
         "Title": "Cumpleaños...",
-        "Context": "¿Hoy es tu cumpleaños? Entonces tenemos que celebrarlo. Recuerdo que es costumbre que los ancianos coman fideos de la longevidad... Jeje, aunque tú parezcas joven, sospecho que si contáramos los años desde tu nacimiento, serías mayor que la mayoría de la gente de Liyue. Desde esa óptica, prepararte un cuenco de fideos de la longevidad no sería un gesto inapropiado. ¿Eh? Por supuesto que sé cómo prepararlos. Puede que me uniera a las filas celestiales en su momento, pero no nací en cuna de oro. *Suspira*, a decir verdad, si en el presente apenas tengo apetito, es por todo el tiempo que pasé en el cielo sin poder cocinar... Bueno, me estoy desviando del tema. Comer es el segundo asunto más importante del mundo, así que debemos asegurarnos de que disfrutes de un buen tazón de fideos de la longevidad antes de que termine el día."
+        "Context": "¿Hoy es tu cumpleaños? Entonces tenemos que celebrarlo. Recuerdo que es costumbre que los ancianos coman fideos de la longevidad... Jeje, aunque tú parezcas joven, sospecho que si contáramos los años desde tu nacimiento, serías mayor que la mayoría de la gente de Liyue. Desde esa óptica, prepararte un cuenco de fideos de la longevidad no sería un gesto inapropiado. ¿Eh? Por supuesto que sé cómo prepararlos. Puede que me uniera a las filas celestiales en su momento, pero no nací en cuna de oro. *Suspira*, a decir verdad, si en el presente apenas tengo apetito, es por todo el tiempo que pasé en el cielo sin poder cocinar... Bueno, me estoy desviando del tema. Comer es el segundo asunto más importante del mundo, así que debemos asegurarnos de que disfrutes de un buen cuenco de fideos de la longevidad antes de que termine el día."
       },
       {
         "Title": "El sentimiento de Ascensión - Introducción",
@@ -1233,7 +1233,7 @@
       },
       {
         "Title": "Historia del personaje (5)",
-        "Context": "#Al igual que la gran catástrofe inesperada de la antigüedad, el momento en que el destino de Zibai volvió a cambiar de rumbo también llegó desde más allá del cielo.\nGracias a al esfuerzo conjunto {F#de la viajera rubia}{M#del viajero rubio} y sus amigos, la verdadera luna regresó a Teyvat, lo que hizo que la luna falsa que en la que estaba aprisionada la esencia de Zibai comenzara a desmoronarse.\nCon la ayuda de otro viejo amigo, las tres esencias espirituales de Zibai (la atormentada, la aletargada y la libre y despreocupada) por fin vieron el momento de regresar al mundo de los mortales.\n¿Había previsto todo eso la sombra que observaba a Zibai? ¿Aquello se había convertido en la realidad presenciada por el primer ángel?\nSea como fuere, la guía de la antigua nación por fin había regresado a su tierra natal para responder al llamado de incontables deseos.\nNo obstante, dicha tierra ya no se parecía en nada a como era antaño. La gente veneraba a nuevos dioses, los ritos para encender linternas habían cambiado por completo, e incluso las historias sobre ella se habían distorsionado hasta volverse irreconocibles.\nAun así, sabía que los mortales a los que había protegido en el pasado no habían dejado que su gloriosa civilización cayera. Por el contrario, habían echado raíces en esa misma tierra, perpetuando hasta el día de hoy un legado que, aunque había cambiado en apariencia con el paso de los años, todavía perduraba.\nComo dijo aquel viejo amigo suyo: “Si el jade de Lang Gan de antaño no se hubiera convertido en la roca madre sobre la que hoy se erige Liyue, ¿cómo iba a llamarse este lugar ‘el cristal entre rocas y la luna entre las nubes’?”.\nZibai ya no alberga descontento alguno, e incluso aquella ira incontenible que sentía en el pasado se había desvanecido por completo.\nNada de lo que hizo había sido en vano. Había regresado a su tierra natal, y para ella, eso era más que suficiente.\nLe serviría para compensar todo el sufrimiento y las dificultades que tuvo que atravesar en el pasado."
+        "Context": "#Al igual que la gran catástrofe inesperada de la antigüedad, el momento en que el destino de Zibai volvió a cambiar de rumbo también llegó desde más allá del cielo.\nGracias a al esfuerzo conjunto {F#de la viajera rubia}{M#del viajero rubio} y sus amigos, la verdadera luna regresó a Teyvat, lo que hizo que la luna falsa en la que estaba aprisionada la esencia de Zibai comenzara a desmoronarse.\nCon la ayuda de otro viejo amigo, las tres esencias espirituales de Zibai (la atormentada, la aletargada y la libre y despreocupada) por fin vieron el momento de regresar al mundo de los mortales.\n¿Había previsto todo eso la sombra que observaba a Zibai? ¿Aquello se había convertido en la realidad presenciada por el primer ángel?\nSea como fuere, la guía de la antigua nación por fin había regresado a su tierra natal para responder al llamado de incontables deseos.\nNo obstante, dicha tierra ya no se parecía en nada a como era antaño. La gente veneraba a nuevos dioses, los ritos para encender linternas habían cambiado por completo, e incluso las historias sobre ella se habían distorsionado hasta volverse irreconocibles.\nAun así, sabía que los mortales a los que había protegido en el pasado no habían dejado que su gloriosa civilización cayera. Por el contrario, habían echado raíces en esa misma tierra, perpetuando hasta el día de hoy un legado que, aunque había cambiado en apariencia con el paso de los años, todavía perduraba.\nComo dijo aquel viejo amigo suyo: “Si el jade de Lang Gan de antaño no se hubiera convertido en la roca madre sobre la que hoy se erige Liyue, ¿cómo iba a llamarse este lugar ‘el cristal entre rocas y la luna entre las nubes’?”.\nZibai ya no alberga descontento alguno, e incluso aquella ira incontenible que sentía en el pasado se había desvanecido por completo.\nNada de lo que hizo había sido en vano. Había regresado a su tierra natal, y para ella, eso era más que suficiente.\nLe serviría para compensar todo el sufrimiento y las dificultades que tuvo que atravesar en el pasado."
       },
       {
         "Title": "Mil millas de montañas y ríos",

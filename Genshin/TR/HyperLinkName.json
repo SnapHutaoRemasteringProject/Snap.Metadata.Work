@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Esinti Kutsaması: Elektrik</color>",
-    "Description": "Girdap tepkimesi tetikleyen karakterlerin verdiği Hasar <color=#f39001>%80</color> artar ve her <color=#f39001>Esinti Kutsaması: Elektrik</color> kazanıldığında tüm grup üyeleri <color=#f39001>1.5</color> Element Enerjisi kazanır."
+    "Description": "Girdap tepkimesi tetikleyen karakterlerin verdiği Hasar <color=#f39001>%80</color> artar ve her <color=#f39001>Esinti Kutsaması: Elektrik</color> kazanıldığında tüm grup üyeleri <color=#f39001>2</color> Element Enerjisi kazanır."
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Buz Kristalinin Kutsaması</color>",
-    "Description": "Tüm grup üyeleri <color=#f39001>%50</color> Buz ve Toprak Hasarı Bonusu kazanır. Ayrıca <color=#f39001>4</color> saniyede bir yakındaki Kristalleşme parçalarını toplarsın."
+    "Description": "Tüm grup üyeleri <color=#f39001>%70</color> Buz ve Toprak Hasarı Bonusu kazanır. Ayrıca <color=#f39001>4</color> saniyede bir yakındaki Kristalleşme parçalarını toplarsın."
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>İtaatkar</color>",
-    "Description": "Düşmanların Buz ve Elektrik Direnci <color=#f39001>%3</color>, Fiziksel Direnci <color=#f39001>%6</color> azalır. En fazla <color=#f39001>6</color> kademe birikebilir."
+    "Description": "Düşmanların Buz ve Elektrik Direnci <color=#f39001>%5</color>, Fiziksel Direnci <color=#f39001>%10</color> azalır. En fazla <color=#f39001>6</color> kademe birikebilir."
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Esinti Kutsaması: Buz</color>",
-    "Description": "Girdap tepkimesi tetikleyen karakterlerin verdiği Hasar <color=#f39001>%80</color>, Kritik Hasarları ise <color=#f39001>%12</color> artar."
+    "Description": "Girdap tepkimesi tetikleyen karakterlerin verdiği Hasar <color=#f39001>%80</color>, Kritik Hasarları ise <color=#f39001>%16</color> artar."
   },
   {
     "Id": 211902,
@@ -428,5 +428,15 @@
     "Id": 11260001,
     "Name": "Ay Döngüsü Değişimi",
     "Description": "Zibai, <color=#FFD780FF>Yerin ve Göğün Tezahürü</color> Element Becerisini kullandıktan sonra bu moda geçer. Bu mod en fazla {PARAM#P1263201|4S1}sn sürer ve şu özelliklere sahiptir:\n·Normal ve Yüklü Saldırılar, başka tesirlerle değiştirilemez şekilde <color=#FFE699FF>Toprak Hasarına</color> dönüşür.\n·<color=#FFD780FF>Yerin ve Göğün Tezahürü</color> Element Becerisi de <color=#FFD780FF>Ruh Atının Koşusu</color> Element Becerisine dönüşür: Zibai en az 70 Döngü Değişimi Işıltısına sahip olduğunda 70 <color=#FFD780FF>Döngü Değişimi Işıltısı</color> harcayıp Ruh Atının Koşusu becerisini kullanarak iki defa <color=#FFE699FF>Toprak Hasarı</color> verebilir. İkinci hasar, Ay Kristalleşmesi Tepkimesi Hasarı olarak kabul edilir.\n\nEn fazla 100 <color=#FFD780FF>Döngü Değişimi Işıltısı</color> puanı biriktirilebilir. Zibai bunları şu yollarla elde edebilir:\n·<color=#FFD780FF>Ay Döngüsü Değişimi</color> modundayken her saniye 10 puan kazanır.\n·Normal Saldırılarıyla bir düşmana vurduğunda 5 puan kazanır. Bu şekilde her 0,5 saniyede bir Döngü Değişimi Işıltısı puanı kazanılabilir.\n\n<color=#FFD780FF>Ay Sembolü: Yükselen Parıltı</color>\nYakındaki grup üyeleri Ay Kristalleşmesi tepkimesi tetiklediğinde Zibai için 35 <color=#FFD780FF>Döngü Değişimi Işıltısı</color> puanı biriktirirler. Bu şekilde her 4 saniyede bir puan kazanılabilir. <color=#FFD780FF>Ruh Atının Koşusu</color> özel Element Becerisini kullanmak, bu şekilde elde edilen <color=#FFD780FF>Döngü Değişimi Işıltısı</color> bekleme süresini sıfırlar.\n\nZibai, <color=#FFD780FF>Ruh Atının Koşusu</color> becerisini 4 defa kullandıktan sonra veya becerinin süresi dolduğunda bu moddan çıkar."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Fırtına Hücumu",
+    "Description": "Varka'yı bu moda geçirmek için Dokunarak <color=#FFD780FF>Rüzgarın İnfazı</color> Element Becerisini kullan.\nBu moddayken Varka'nın Normal Saldırıları ve Yüklü Saldırıları daha fazla Hasar verir ancak Varka Havadan Saldırı yapamaz. Normal veya Yüklü Saldırı yaptığında çift elli kılıçları gruptaki karakterlerin Element Türlerine göre sırayla Element Hasarı verir:\n·Sol eliyle tuttuğu çift elli kılıcın verdiği Hasar, diğer element tesirleriyle değiştirilemeyen <color=#80FFD7FF>Rüzgar Hasarına</color> dönüşür.\n·Grupta <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> karakterleri varsa sağ eliyle tuttuğu çift elli kılıç, Element Türlerinin belirtilen öncelik sırasına göre başka bir element tesiriyle değiştirilemeyen Element Hasarı verir.\n\nAyrıca Varka bu moddayken grupta <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> karakterleri varsa Varka'nın <color=#FFD780FF>Rüzgarın İnfazı</color> Element Becerisi, <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> özel Element Becerisine dönüşür."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Dört Rüzgarın Yükselişi",
+    "Description": "Varka'nın özel Element Becerisi. Varka, sağ eliyle tuttuğu çift elli kılıcın elementine karşılık gelen ve diğer element tesirleriyle değiştirilemeyen Element Alan Hasarı ve <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir.\nBekleme süresinde başlar ve maksimum 2 kullanım hakkı vardır.\nVarka <color=#FFD780FF>Fırtına Hücumu</color> modundayken Normal Saldırısı bir düşmana isabet ettiğinde <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> becerisinin bekleme süresi 0,5 saniye azalır. Varka her <color=#FFD780FF>Fırtına Hücumu</color> moduna geçtiğinde bu etki 15 defaya kadar tetiklenebilir.\nAyrıca Varka, <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> kullanım haklarını harcayarak Dayanıklılık tüketmeyen özel <color=#FFD780FF>Gök Yutan</color> Yüklü Saldırısını gerçekleştirebilir. Bu saldırı, 2 defa Varka'nın sağ eliyle tuttuğu çift elli kılıcın elementine karşılık gelen ve diğer element tesirleriyle değiştirilemeyen Element Hasarı ve 2 defa da <color=#80FFD7FF>Rüzgar Hasarı</color> verir."
   }
 ]

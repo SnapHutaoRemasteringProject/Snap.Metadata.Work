@@ -97,7 +97,7 @@
   {
     "Id": 211001,
     "Name": "<color=#f39001>Bênção do Vento: Electro</color>",
-    "Description": "O Dano causado pelos personagens desencadeando a reação de Redemoinho é aumentado em <color=#f39001>80%</color> e cada vez que recebem <color=#f39001>Bênção do Vento: Electro</color>, todos os membros da equipe ganham <color=#f39001>1.5</color> de Energia Elemental"
+    "Description": "O Dano causado pelos personagens desencadeando a reação de Redemoinho é aumentado em <color=#f39001>80%</color> e cada vez que recebem <color=#f39001>Bênção do Vento: Electro</color>, todos os membros da equipe ganham <color=#f39001>2</color> de Energia Elemental"
   },
   {
     "Id": 211002,
@@ -142,7 +142,7 @@
   {
     "Id": 211301,
     "Name": "<color=#f39001>Bênção do Cristal Cryo</color>",
-    "Description": "Todos os membros da equipe ganham <color=#f39001>50%</color> de Bônus de Dano Cryo e Geo. Adicionalmente, você obterá Fragmentos de Cristalização próximos a cada <color=#f39001>4</color>s"
+    "Description": "Todos os membros da equipe ganham <color=#f39001>70%</color> de Bônus de Dano Cryo e Geo. Adicionalmente, você obterá Fragmentos de Cristalização próximos a cada <color=#f39001>4</color>s"
   },
   {
     "Id": 211302,
@@ -207,7 +207,7 @@
   {
     "Id": 211701,
     "Name": "<color=#f39001>Flexível</color>",
-    "Description": "A RES Cryo e Electro dos oponentes é reduzida em <color=#f39001>3%</color>, e a RES Física é reduzida em <color=#f39001>6%</color>, máximo de <color=#f39001>6</color> acúmulos"
+    "Description": "A RES Cryo e Electro dos oponentes é reduzida em <color=#f39001>5%</color>, e a RES Física é reduzida em <color=#f39001>10%</color>, máximo de <color=#f39001>6</color> acúmulos"
   },
   {
     "Id": 211702,
@@ -247,7 +247,7 @@
   {
     "Id": 211901,
     "Name": "<color=#f39001>Bênção do Vento: Cryo</color>",
-    "Description": "O Dano causado pelos personagens desencadeando a reação de Redemoinho é aumentado em <color=#f39001>80%</color> e seu Dano CRIT aumenta em <color=#f39001>12%</color>"
+    "Description": "O Dano causado pelos personagens desencadeando a reação de Redemoinho é aumentado em <color=#f39001>80%</color> e seu Dano CRIT aumenta em <color=#f39001>16%</color>"
   },
   {
     "Id": 211902,
@@ -427,6 +427,16 @@
   {
     "Id": 11260001,
     "Name": "Conversão de Fase Lunar",
-    "Description": "Depois de lançar a Habilidade Elemental <color=#FFD780FF>Céu e Terra Manifestados</color>, Zibai troca para esse modo. Esse modo dura até {PARAM#P1263201|4S1}s, e possui as seguintes propriedades:\n· Ao realizar um Ataque Normal e Carregado, causa <color=#FFE699FF>Dano Geo</color> que não pode ser substituído.\n· A Habilidade Elemental <color=#FFD780FF>Céu e Terra Manifestados</color> será substituída pela Habilidade Elemental especial <color=#FFD780FF>Passos do Alazão Espiritual</color>. Quando Zibai possui pelo menos 70 de <color=#FFD780FF>Radiância da Conversão</color>, consome 70 acúmulo de Radiância da Conversão, lança Passos do Alazão Espiritual causando duas instâncias de <color=#FFE699FF>Dano Geo</color>, com o Dano do 2º Golpe é considerado Dano de Cristalização Lunar.\n\nLimite máximo de <color=#FFD780FF>Radiância da Conversão</color> é 100. Zibai pode acumular Radiância da Conversão das seguintes formas:\n· Quando está no modo <color=#FFD780FF>Conversão de Fase Lunar</color>, acumula 10 de Radiância da Conversão por segundo.\n· Quando o Ataque Normal atinge o inimigo, acumula 5 de Radiância da Conversão. É possível acumular Radiância da Conversão uma vez a cada 0.5s dessa forma.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nQuando um membro próximo da equipe desencadeia Cristalização Lunar, Zibai acumula 35 de <color=#FFD780FF>Radiância da Conversão</color>. É possível acumular Radiância da Conversão< uma vez a cada 4s dessa forma. Lançar a Habilidade Elemental especial <color=#FFD780FF>Passos do Alazão Espiritual</color> redefinirá a Recarga de <color=#FFD780FF>Radiância da Conversão</color> acumulada dessa forma.\n\nDepois de lançar <color=#FFD780FF>Radiância da Conversão</color> 4 vezes, ou quando a duração acabar, Zibai sai desse modo."
+    "Description": "Depois de lançar a Habilidade Elemental <color=#FFD780FF>Céu e Terra Manifestados</color>, Zibai troca para esse modo. Esse modo dura até {PARAM#P1263201|4S1}s, e possui as seguintes propriedades:\n· Ao realizar um Ataque Normal e Carregado, causa <color=#FFE699FF>Dano Geo</color> que não pode ser substituído.\n· A Habilidade Elemental <color=#FFD780FF>Céu e Terra Manifestados</color> será substituída pela Habilidade Elemental especial <color=#FFD780FF>Passos do Alazão Espiritual</color>. Quando Zibai possui pelo menos 70 de <color=#FFD780FF>Radiância da Conversão</color>, consome 70 acúmulos de Radiância da Conversão, lança Passos do Alazão Espiritual causando duas instâncias de <color=#FFE699FF>Dano Geo</color>, com o Dano do 2º Golpe sendo considerado Dano de Cristalização Lunar.\n\nLimite máximo de <color=#FFD780FF>Radiância da Conversão</color> é 100. Zibai pode acumular Radiância da Conversão das seguintes formas:\n· Quando está no modo <color=#FFD780FF>Conversão de Fase Lunar</color>, acumula 10 de Radiância da Conversão por segundo.\n· Quando o Ataque Normal atinge o inimigo, acumula 5 de Radiância da Conversão. É possível acumular Radiância da Conversão uma vez a cada 0.5s dessa forma.\n\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\nQuando um membro próximo da equipe desencadeia Cristalização Lunar, Zibai acumula 35 de <color=#FFD780FF>Radiância da Conversão</color>. É possível acumular Radiância da Conversão uma vez a cada 4s dessa forma. Lançar a Habilidade Elemental especial <color=#FFD780FF>Passos do Alazão Espiritual</color> redefinirá a Recarga de <color=#FFD780FF>Radiância da Conversão</color> acumulada dessa forma.\n\nDepois de lançar <color=#FFD780FF>Passos do Alazão Espiritual</color> 4 vezes, ou quando a duração acabar, Zibai sai desse modo."
+  },
+  {
+    "Id": 11280001,
+    "Name": "Investida Furacão",
+    "Description": "Depois de pressionar a Habilidade Elemental <color=#FFD780FF>Execução Zéfira</color>, Varka troca para esse modo.\nQuando está nesse modo, aumenta o Dano do Ataque Normal e Carregado de Varka, e o impossibilita de realizar Ataques Imersivos. Quando Varka fizer um Ataque Normal ou Carregado, empunhará dois espadões e causará Dano Elemental que não pode ser substituído de acordo com os Tipos Elementais dos personagens da equipe:\n· O espadão empunhado na sua mão esquerda causará <color=#80FFD7FF>Dano Anemo</color> que não pode ser substituído.\n· Quando a equipe possuir personagens <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, o espadão empunhado na sua mão direita seguirá essa ordem de prioridade de Tipos Elementais para causar Dano Elemental que não pode ser substituído.\n\nAlém disso, quando está nesse modo, se a equipe possuir personagens <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, a Habilidade Elemental <color=#FFD780FF>Execução Zéfira</color> de Varka será substituída pela Habilidade Elemental especial <color=#FFD780FF>Ascensão dos Quatro Ventos</color>."
+  },
+  {
+    "Id": 11280002,
+    "Name": "Ascensão dos Quatro Ventos",
+    "Description": "Habilidade Elemental especial de Varka que causa <color=#80FFD7FF>Dano Anemo em AdE</color> e Dano Elemental em AdE correspondente insubstituível com o espadão de sua mão direita.\nInicia em recarga com até 2 Usos.\nQuando Varka está no modo <color=#FFD780FF>Investida Furacão</color> e atinge um Ataque Normal em um inimigo, reduz a recarga de <color=#FFD780FF>Ascensão dos Quatro Ventos</color> em 0.5s. Esse efeito pode ser desencadeado até 15 vezes depois de cada vez que trocar para o modo <color=#FFD780FF>Investida Furacão</color>.\nAlém disso, Varka consome os Usos de <color=#FFD780FF>Ascensão dos Quatro Ventos</color> para realizar o Ataque Carregado especial <color=#FFD780FF>Devoração Cerúlea</color> que não consome Stamina, causando 2 instâncias de Dano Elemental correspondente insubstituível com o espadão de sua mão direita e 2 instâncias de <color=#80FFD7FF>Dano Anemo</color>."
   }
 ]

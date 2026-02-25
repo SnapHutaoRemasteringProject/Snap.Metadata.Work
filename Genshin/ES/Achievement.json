@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "No fue eso lo que sucedió",
-    "Description": "Presencia el regreso de la luna de las pesadillas.",
+    "Description": "Presencia el regreso de la luna falsa.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "“Paso lunar”",
+    "Description": "Destruye el ancla lunar del Selenogeco Radiante para interrumpir su carga cuando use la habilidad “Vacío etéreo”.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

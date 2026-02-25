@@ -1249,5 +1249,28 @@
     "SecondDescriptions": [
       "Ay Kristalleşmesi Hasarı %75 artar."
     ]
+  },
+  {
+    "Id": 1124,
+    "Index": 11,
+    "LevelGroupId": 124,
+    "Background": "UI_TowerPic_4",
+    "Descriptions": [
+      "Tüm grup üyeleri %60 Rüzgar Hasarı Bonusu kazanır.",
+      "Tüm grup üyeleri %60 Buz Hasarı Bonusu kazanır."
+    ]
+  },
+  {
+    "Id": 1125,
+    "Index": 12,
+    "LevelGroupId": 125,
+    "Background": "UI_TowerPic_5",
+    "Descriptions": [],
+    "FirstDescriptions": [
+      "Aktif karakterin verdiği Rüzgar Hasarı %75 artar."
+    ],
+    "SecondDescriptions": [
+      "Karakterlerin Normal Saldırı Buz Hasarı %75 artar."
+    ]
   }
 ]

@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Personagem para a Casa",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -54869,7 +54890,7 @@
     ],
     "Id": 374333,
     "Name": "Simulador Tático: \"Demonstração Avançada\"",
-    "Description": "Um simulador tático simples, inspirado no do Grande Mestre Varka.\n\"Conforme hesitamos, o Abismo continua a ceifar incontáveis vidas. Portanto, quanto antes marcharmos, mais cedo poderemos mudar seus destinos.\" Informação é o principal de qualquer operação de expedição. Ao simular possíveis cenários antecipadamente no simulador, as perdas de entrar em batalha devem ser bastante reduzidas...",
+    "Description": "Um simulador simples e prático, inspirado no simulador do Grande Mestre Varka.\n\"Conforme hesitamos, o Abismo continua a ceifar incontáveis vidas. Portanto, quanto antes marcharmos, mais cedo poderemos mudar seus destinos.\" Informação é o principal de qualquer operação de expedição. Ao simular possíveis cenários antecipadamente no simulador, as perdas de entrar em batalha devem ser bastante reduzidas...",
     "Icon": "UI_Homeworld_Exterior_Ndkl_Table_Prop_ZSzhuozi_01_Vo",
     "Rank": 130300
   },
@@ -55397,6 +55418,1472 @@
     "Description": "Uma Lanterna Celeste gigante criada na semelhança de certa Adeptus que vigia a lua. Ela retrata um cavalo branco pálido saltando de um penhasco por nuvens, contra um fundo de tons brilhantes de pôr-do-sol. Hoje, as pessoas escrevem seus desejos na lanterna, talvez na esperança que a Adeptus Cavalo Branco desça da lua numa carruagem de jade para conceder seus desejos.",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361345,
+    "Name": "\"Mesinha Biscoito\"",
+    "Description": "Uma mesa redonda baixa comumente encontrada na Oficina de Rolinho de Ovo Trilimlim. Ela é feita principalmente de estanho, com uma estrutura firme e uma aparência que lembra um biscoito bonito e redondinho.\nAs pessoas frequentemente ficam na dúvida se devem colocar uma toalha de mesa bonita nesta mesa: \"Mas se usarmos uma toalha de mesa, vai ser uma trabalheira limpar todas as migalhas de rolinho de ovo que caírem nela!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361346,
+    "Name": "\"Mesa de Armazenamento Plim-Plam\"",
+    "Description": "Uma mesa de armazenamento comumente encontrada na Oficina de Rolinho de Ovo Trilimlim. Ela é construída com seções bem definidas que, juntas, lembram um conjunto de casinhas de alturas diferentes.\n\"Esta é a casinha do martelo, e aquela é a casinha das tachas...\" diz a pessoa que organiza os itens com esta mesa.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361347,
+    "Name": "Mesa Redonda da Lua Gelada: \"Um Céu Azul Suave\"",
+    "Description": "Uma mesa redonda comumente vista nos arredores da Oficina da Lua Gelada. Feita de madeira de Carvalho-roble, oferece durabilidade superior e resistência à água, sendo útil para uma grande variedade de ambientes.\nOs artesãos dos Filhos da Lua Gelada, inspirando-se na lua brilhante suspensa bem alto no céu noturno, combinaram esta mesa redonda, que lembra a lua, com uma toalha de mesa de um azul-celeste suave, dando a ela a tranquilidade e o calor do céu noturno.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 363414,
+    "Name": "Anotações de Alguém",
+    "Description": "Uma pilha de livros empilhada desleixadamente na Oficina da Lua Gelada, a maioria deles não são volumes encadernados com cuidado, e sim diários manuscritos de autoria desconhecida.\nMuitas vezes, livros assim contêm histórias envolventes, cheias de reviravoltas. A caligrafia bagunçada, a estrutura caótica das frases e as marcas deixadas nas páginas parecem falar do verdadeiro estado de espírito do autor enquanto escrevia.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 363415,
+    "Name": "Mesa Pequena da Lua Gelada - \"O Aroma de Fruta Fresca\"",
+    "Description": "Uma mesinha comumente encontrada em ambientes internos nos arredores da Oficina da Lua Gelada. Geralmente, você encontra nela as frutas sazonais mais frescas.\nAs frutas sobre a mesa não servem apenas para comer, elas também agradam aos outros sentidos. Seu aroma sutil preenche o ambiente, alcançando um equilíbrio perfeito que faz o lugar parecer imediatamente quente e aconchegante.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 363511,
+    "Name": "\"Galhos Contra o Céu Azul\"",
+    "Description": "Uma flor mecânica que nunca murcha. É um enfeite de bonsai para interiores muito apreciado entre os Ratniki.\n\"Sem tempo para cuidar dela... sem luz do sol... nem dá para cavar uma pazinha de terra!\"\nImagine a alegria dos Ratniki quando um membro particularmente habilidoso entre eles criou este enfeite até que bem decente depois de mexer em alguns materiais sucateados. A cor azul deste enfeite, que lembra o céu, também é um tom que aqueles que passam suas horas acordados na noite há tanto tempo desejam ver.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 362134,
+    "Name": "Cadeira de Encosto \"Repouso Lunar\" de Madeira de Carvalho-roble",
+    "Description": "Uma cadeira feita de Carvalho-roble, encontrada comumente na Oficina da Lua Gelada.\nSeu apoio para costas entalhado apresenta um design vazado que lembra uma lua cheia. Quando colocada dentro de casa com uma almofada Azul Celeste em seu assento, cria uma sensação aconchegante e natural.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 363119,
+    "Name": "\"Brilho do Chifre de Gelo\"",
+    "Description": "Uma lâmpada de madeira comumente encontrada dentro das casas na Oficina da Lua Gelada. Sua aparência distinta é inspirada no Cervo de Chifre de Gelo.\nEmbora venha com uma alça para segurar, seu peso considerável significa que normalmente fica parado em um local fixo. A maioria das pessoas na Oficina da Lua Gelada usam como uma luz noturna, já que é brilhante o suficiente para iluminar sem incomodar pequenos animaizinhos amigáveis.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 363120,
+    "Name": "\"Cogumelo Curvadinho\"",
+    "Description": "Uma lâmpada com um formato de cogumelo que pode ser encontrado nos acampamentos dos Portadores da Lâmpada.\nDiferente da maioria das lâmpadas no mercada que usam cogumelos como inspiração, a parte dessa lâmpada que emite luz não é parecida com o \"chapéu\" do cogumelo, mas, na verdade, o seu \"caule\" curvado. Ainda mais estranho é a luz que ela emite — metade dela é quente como a luz do sol, e a outra tão fria quanto a luz da lua.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361413,
+    "Name": "\"Melhor Ninhozinho\"",
+    "Description": "Uma caminha que pode ser vista pela Oficina de Rolinho de Ovo Trilimlim. Possui uma estrutura metálica resistente e panos rosas com padrões fofinhos e um travesseiro macio. Fornece uma experiência excelente, já que suas dimensões e altura generosas, permitem a quem a utiliza dormir profundamente em qualquer posição.\n\"Essa é a melhor cama que já dormi!\" Disse a criadora orgulhosa que fez essa cama com suas próprias mãos.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361414,
+    "Name": "Cama de Pedra da Lua Gelada - \"Fresquinha & Refrescante\"",
+    "Description": "Uma cama de pedra vista comumente na Oficina da Lua Gelada. Apesar de estar coberta com um cobertor macio, aqueles que deitam nela ainda a acham bem dura.\nEm dias quentes, o usuário achará o frescor dessa cama uma maravilha. Durante o inverno, contudo, é melhor colocar um colchão grosso nela antes de deitar.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361121,
+    "Name": "Mesa Baixa Interna - \"Importância Única\"",
+    "Description": "Uma mesa baixa com amplo espaço de armazenamento usada comumente nos acampamentos dos Portadores da Lâmpada.\nComo móvel, reflete geralmente os interesses do proprietário. Entusiastas de flores tendem a enfeitá-la com plantas em vasos, amantes de comida vão colocar todo tipo de iguaria nelas. Para os Ratniki, como esse é o móvel mais próximo às camas deles, é aqui onde guardam geralmente o item mais importante para eles, a única coisa que carregam consigo o tempo todo: suas lanternas.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361122,
+    "Name": "Estante de Livros Interna - \"Leitura de Lazer\"",
+    "Description": "Uma estante de livros com um design único que pode acomodar facilmente livros de vários tamanhos. É geralmente encontrada nos acampamentos dos Portadores da Lâmpada.\nPara os Ratniki, conhecimento é um tesouro precioso, já que qualquer pedacinho de conhecimento ganho por acaso por salvar a vida de alguém num momento crítico. Portanto, sempre que eles têm tempo sobrando, muitos Ratniki vão à estante de livros para absorver mais sabedoria enquanto descansam entre batalhas.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361123,
+    "Name": "Balcão Interno - \"Recepção do Visitante\"",
+    "Description": "Um balcão feito inteiramente de lâminas de metal, sólido e resistente, usado geralmente nos acampamentos dos Portadores da Lâmpada. Um oficial responsável fica tipicamente atrás dele para atender visitantes desconhecidos.\nEsse balcão tem uma aparência bem grosseira, até bruta, essa sendo a exata intenção dos Ratniki. Funciona bem em desencorajar \"visitantes indesejados\" que entram frequentemente em territórios perigosos sem consideração cuidadosa.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361124,
+    "Name": "\"Armário em Torre\"",
+    "Description": "Um armário que lembra uma torre com muitos andares, mais largo no fundo e mais estreito no topo. Pode ser encontrado na Oficina de Rolinho de Ovo Trilimlim. Seu design único não fornece apenas capacidade excelente de armazenamento, como também garante um centro de gravidade estável, significando que o armário é menos provável de desabar, até mesmo quando sujeito a forças externas significativas. \"Cada andar tem residentes diferentes. Os grandões vivem embaixo e os pequenos em cima. É igual a uma torre!\" Esse é o conceito de design no qual essa criação com aparência realmente distinta foi baseado.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 361125,
+    "Name": "Guarda-Roupa do Hotel - \"Quarto Extra\"",
+    "Description": "Um guarda-roupa com capacidade enorme e esquema de cores elegante que pode ser encontrado no Navio-Chefe.\nA capacidade desse guarda-roupa costumava somente metade do que é hoje. Entretanto, foi expandida mais tarde em resposta aos comentários coletivos de muitos hóspedes de longo-prazo do Navio-Chefe necessitando de roupas adequadas para todos os tipos de clima. Enquanto agora tem uma capacidade maior do que a maioria dos guarda-roupas, quem sabe quando será expandida novamente?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 362322,
+    "Name": "Tapete da Lua Gelada: \"Tons Límpidos\"",
+    "Description": "Um tapete com tons azuis e detalhes vermelhos alaranjados que pode ser encontrado na Oficina da Lua Gelada. A simetria de seu design geral não é somente agradável visualmente, como também transmite uma sensação de ordem e paz interior.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 362323,
+    "Name": "\"Tapetinho Felpudo\"",
+    "Description": "Um tapete circular com cores quentes e decorado com uma estampa fofa e aconchegante que pode ser visto na Oficina de Rolinho de Ovo Trilimlim.\nO material macio e fino do qual o tapete é tecido dá uma sensação felpuda. Toque e você pode até achar que tá fazendo carinho num gatinho...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 364227,
+    "Name": "\"Firme como o Ferro\"",
+    "Description": "Uma decoração de parede composta de espadas cruzadas e um escudo, vista geralmente nos acampamentos dos Portadores da Lâmpada. Ela simboliza a determinação dos Ratniki de lutar contra o inimigo e proteger suas famílias.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 364228,
+    "Name": "\"Bandeira dos Portadores da Lâmpada\"",
+    "Description": "Uma bandeira que carrega o brasão dos Portadores da Lâmpada, geralmente vista nos acampamentos dos Portadores da Lâmpada. Ela simboliza a vontade determinada de proteger o farol durante a noite, jamais recuando.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 364229,
+    "Name": "Arandela da Taverna - \"Luz do Corredor Flutuante\"",
+    "Description": "Uma arandela brilhosa encontrada no Navio-Chefe. Ela é pendurada tipicamente pelos corredores para iluminação. Como esse tipo de luz é suspensa por cabos brancos puros, pode dá a impressão à distância que está flutuando no corredor. Esse design torna essa arandela suscetível a vibrações próximas, que podem fazer com que balance ligeiramente. Gerentes de bar experientes podem ficar de olho em problemas surgindo na Taverna simplesmente observando os movimentos da arandela.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371022,
+    "Name": "Prédio Auxiliar da Base - \"Estufa Multiuso\"",
+    "Description": "Um prédio auxiliar na Base de Moinho de Vento de Kerplunkatron construído com paredes espessas e canos de escape especiais. Fica conectado a uma caldeira externa que mantêm a temperatura do interior estável. Um prédio desse tipo é perfeito para usar como quarto de hóspedes temporário, um banheiro mantido em temperatura constante ou uma oficina aquecida especial.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371023,
+    "Name": "Prédio Auxiliar da Base - \"Espaço Secreto\"",
+    "Description": "Um prédio auxiliar na Base do Moinho de Vento de Kerplunkatron em formato de um peixe gigante com a boca aberta. Seu teto e paredes espessas criam junto uma barreira confiável que fornece efeitos de redução de luz e som excelentes para o interior. Um design como esse é especialmente adequado para uso como laboratório precisando de revestimento contra luz e som, ou como um cofre para guardar itens valiosos.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371024,
+    "Name": "Prédio Auxiliar da Base - \"Torre d'Água\"",
+    "Description": "Um prédio auxiliar na Base do Moinho de Vento Kerplunkatron caracterizado por sua altura e capacidade enormes. Pode ser usado para armazenamento e dispersão de líquidos, além de também servir como torre de vigia. Devido à altura, supre as necessidades de fornecimento de água da base usando pressão hidrostática e sem o uso de energia externa. Nas estações quentes, esse prédio também pode borrifar vapor d'água para manter a base refrescante e confortável.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371025,
+    "Name": "Base do Moinho de Vento - \"Energia Auxiliar\"",
+    "Description": "No interior do moinho de vento na Base do Moinho de Vento Kerplunkatron ficam turbinas que garantem sua operação tranquila em todas as condições climáticas. Assim, é possível girar mesmo durante ventos fortes, trazendo uma sensação de compostura e calmaria aos jardins; por outro lado, quando está sufocante e o ar está completamente parado, sua rotação traz uma brisa gentil e muito bem-vinda.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371026,
+    "Name": "Portão da Base - \"Lógica de Transporte\"",
+    "Description": "Esse portão, atualmente em uso na Base do Moinho de Vento Kerplunkatron, apresenta um portal de metal circular especial enfeitado com placas iluminadas chamativas.\nA vantagem do design do portal circular está na distância igual de qualquer ponto do portal até o centro, que facilita o transporte de peças irregulares. A base também tem placas iluminadas instaladas, facilitando o portão de ser avistado à noite e garantindo acesso conveniente tanto para pessoas quanto materiais.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371027,
+    "Name": "Plataforma da Base - \"Fundação Robusta\"",
+    "Description": "Essa plataforma de metal na Base do Moinho de Vento Kerplunkatron usa um design estrutural clássico encontrado em algumas fundações de construções em Nod-Krai, e sua aparência simples carrega sua capacidade carga impressionante. Uma plataforma como essa pode não apenas suportar objetos de pesos variados, como também consegue lidar com a operação de vários mecanismos de engenharia grandes no chão macio. Não é exagero dizer que a agitação e prosperidade atual da Base do Moinho de Vento Kerplunkatron é construída sobre sua fundação robusta.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371028,
+    "Name": "Parede da Base - \"Linha Defensiva\"",
+    "Description": "Uma parece baixa na Base do Moinho de Vento Kerplunkatron, feita de painéis de metal resistentes. Seu design foi inspirado pela experiência de Nod-Krai em lutar contra a Caçada Feroz. Essa parede baixa, que fornece cobertura ampla e confiável para atiradores, é uma mistura forte de desempenho, custo-benefício e facilidade de instalação.\nHoje na Base do Moinho de Vento Kerplunkatron, esse tipo de parede baixa foi reutilizada como um divisor, criando áreas distintas na base enquanto preserva uma sensação de abertura.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 371029,
+    "Name": "Pilar da Base - \"Sinalizador Universal\"",
+    "Description": "Um pilar de metal da Base do Moinho de Vento Kerplunkatron. Sua forma resistente e vertical adiciona uma sensação de força e requinte tecnológico quando usado como uma característica de paisagem única. Ao mesmo tempo, é altamente prático, apresentando mecanismos de alçar de bandeiras e uma seção superior compatível com vários equipamentos, por isso o nome \"Sinalizador Universal\".",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 373940,
+    "Name": "Abraço Gentil",
+    "Description": "Uma estátua de pedra branca prateada geralmente vista perto da Ilha Hiisi em Nod-Krai. Essa estátua evoca uma sensação quente e aconchegante, como se estivesse a abraçar quem se aproximar.\n\"Ó, criança perdida, em nome dos descendentes do extremo norte, oro pela bênção da luz. Que a graça da Lua Gelada impeçam os ventos selvagens da noite gélida e tragam o calor aos jovens pássaros amontoados na terra congelada.\"\nTalvez tenha sido o desejo do artesão afastar doenças e poupar todos sofrendo que inspirou esse simbolismo reconfortante.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 374129,
+    "Name": "Cerca da Cidade: \"Banco Conveniente\"",
+    "Description": "Uma cerca de pedra baixo geralmente visto em cidades. Tem um design achatado e resistente, combinado com um corrimão bastante largo que pode até ser usado como um banco num momento de necessidade. Mas esteja avisado, não tente andar no corrimão, pois isso seria perigoso demais...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 374130,
+    "Name": "Cerca da Cidade: \"Ondas Azuis\"",
+    "Description": "Uma cerca de madeira baixa geralmente vista em cidades. Seu design único lembra as ondas ondulantes do oceano azul.\nEnquanto essa cerca não serve muito como uma barreira de verdade, sua aparência distinta e atraente a tornam um escolha popular para demarcar áreas diferentes.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido ao concluir \"Crônicas de Anedotas\""
+    ],
+    "Id": 374822,
+    "Name": "Peixinho no Vaso",
+    "Description": "Um peixe mecânico feito por Aino que vêm com um manual de instrução escrito a mão. O texto é um pouco trêmulo, mas os lembretes a seguir são legíveis:\n1. Não precisa aguar!\n2. Não alimente com Rolinho de Ovo!\n3. Trate bem!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido comprando o Passe de Batalha - Canção da Pérola"
+    ],
+    "Id": 374823,
+    "Name": "Estátua de Faíscas Explosivas Jumbo",
+    "Description": "Uma estátua inspirada em uma certa famosa \"Cavaleira das Faíscas\" de Mondstadt. Parece capturar sua silhueta imponente enquanto ela está de pé em meio a explosões, reduzindo tudo a cinzas.\nQuem é o mais forte em Mondstadt? Alguns diriam que é a renomada Jean, enquanto outros sugeririam o Grande Mestre Varka, atualmente fora em expedição. Contudo, nos corações de alguns, o maior forte de todos é aquela garota misteriosa de vermelho que empunha o \"tesouro\" mais poderoso...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372521,
+    "Name": "Dançando à Luz da Lua",
+    "Description": "Uma planta branca prateada geralmente vista perto do Saguão da Lua Prateada.\nEssa planta tem um caule curvado e galhos que lembram o formato da lua. Sempre balança gentilmente na brisa noturna, como luar brilhando ao vento.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372522,
+    "Name": "Brilha e Balança",
+    "Description": "Um agrupamento de plantas que emite um brilho leve. Essas plantas são incrivelmente resistentes e resilientes, conseguindo crescer livremente e com saúde mesmo com pouca água ou luz.\n\"O que balança e o que brilha tanto?\"\nAs crianças criaram uma pequena charada, aguardando o dia quando encontrarão um estranho de longe para poderem aproveitar esse pequeno enigma.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372523,
+    "Name": "Bolinha Felpuda",
+    "Description": "Um arbusto baixo roxo fofinho como um pompom. Suas qualidades estéticas e dureza a tornam uma excelente planta ornamental.\nEssa planta tem galhos que são fáceis de podar. Por isso, nas mãos de um jardineiro habilidoso, pode surgir numa variedade de formas: um filhotinho animado, um gatinho adorável ou um passarinho saltitante...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372524,
+    "Name": "\"Caçador de Recompensas\"",
+    "Description": "Um arbusto baixo verde lembrando uma bola de pelo. Sua habilidade de adaptação a vários ambientes permite que sobreviva até nas piores condições\nDizem que entre essas plantas, há uma chance em 100.000 de que a cor dos galhos e folhas mudem com o tempo, influenciados pelo ambiente, assim como um caçador de recompensas que adapta os métodos de sobrevivência a situações em mudança.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372359,
+    "Name": "Árvore Roxa Precursora do Vento",
+    "Description": "Uma árvore geralmente encontrada na natureza de Nod-Krai. Ela possui um tronco curvado com uma copa bastante esparsa.\nEssa espécie de árvore tem uma característica que a permite se adaptar ao ambiente: ela cresce na direção do vento. Isso permite que ela fique firme até mesmo nos mais fortes dos vendavais.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372360,
+    "Name": "Sussurros do Bosque Verdejante",
+    "Description": "Uma árvore geralmente encontrada perto do Saguão da Lua Prateada. Tem uma aparência única que a torna facilmente distinta de outras árvores.\n\"Quando o vento começar a se agitar, unja o Emblema Verdejante com a mistura abençoada da taça de prata para honrar a divindade.\"\nSe os desejos sussurrados das pessoas podem ser ouvidos permanece um mistério, o Emblema Verdejante, nutrido pelo Kuuvahki, já está florescendo com força vital abundante.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372361,
+    "Name": "Árvore Citrino do Luar",
+    "Description": "Uma árvore geralmente vista perto da Ilha Hiisi em Nod-Krai. É caracterizada pelo seu troco esguio curvado e coroa dourada.\nDizem que os Filhos da Lua Gelada gostavam especialmente dessa árvore, já que a tonalidade das folhas lembra o brilho dourado do luar. Assim, como expressão de devoção ao divino, eles plantaram essas árvores em ambos os lados do caminho levando à Plataforma Banhada à Luz.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372362,
+    "Name": "Árvore de Brotos de Ramos",
+    "Description": "Uma árvore geralmente encontrada na natureza de Nod-Krai. Tem um tronco relativamente grosso e uma copa fresca verde.\nDizem que essa árvore e suas parentes próximas são excepcionalmente resistentes, com sistemas de raízes fortes que crescem profundamente no solo para absorver nutrientes. Seu nome vem do fato ode que até o menor dos gravetos dessa planta no chão pode brotar e formar raízes num piscar de olhos.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372236,
+    "Name": "\"Onda Lunar Crescente\"",
+    "Description": "Um tipo de rocha geralmente vista no Saguão da Lua Prateada. Tem uma aparência única que lembra maremotos.\n\"A órbita da Lua Eterna guia a ascensão e queda das marés.\" Não dá para deixar de se perguntar quais pensamentos da Dama da Lua foram gravados nessas rochas de maré moldadas pela gravidade...?",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372237,
+    "Name": "\"Guardiãs do Tesouro\"",
+    "Description": "Um tipo de rocha geralmente vista na natureza de Nod-Krai. Essas rochas são tão pesadas que até um homem forte com uma ferramenta afiada teria dificuldades para movê-las. Como resultado, elas são geralmente consideradas obstáculos problemáticos durante a construção de casas ou pavimentação de estradas. Mas para todas as pequenas criaturas habilidosas em escavação, essas rochas, imóveis até para criaturas grandes, são sem dúvidas, as melhores \"Guardiãs do Tesouro\".",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Decoração comprada em Tesouro do Paraíso Mágico"
+    ],
+    "Id": 372238,
+    "Name": "Rocha-Falange",
+    "Description": "Uma rocha da montanha com um exterior sólido e liso encontrada comumente na natureza de Nod-Krai. Devido ao seu tamanho pequeno, fica frequentemente escondida sob a vegetação densa. Portanto, aventureiros experientes geralmente alertam iniciantes: \"Cuidado onde pisa! Tropeçar numa dessas dói mais do que ser atingido por um Rinoceronte de Chifre Obtuso\".",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido em evento de tempo limitado"
+    ],
+    "Id": 363387,
+    "Name": "Portão da Fortaleza - \"Amigo Confiável\"",
+    "Description": "Um portão de metal que combina uma aparência impressionante com força confiável capaz de sustentar ataques repetidos de monstros.\nSegundo Raio Azul, a aparência majestosa do portão foi inspirada por \"Cebola\", o furão companheiro do designer e inventor. Os dois \"dedões\" e a \"expressão\" cheia de confiança parecem dizer, \"Não se preocupe, você pode deixar tudo comigo!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido em evento de tempo limitado"
+    ],
+    "Id": 363388,
+    "Name": "Lobo de Ferro",
+    "Description": "#Uma bebida especial, ousada e livre em espírito. Essa é uma obra-prima criada para Varka com \"Lago Espinhoso\" servindo de inspiração criativa quando a Barraca de Bebidas {M#do}{F#da} Cavaleir{F#a}{M#o} Honorável estava em operação.\nTendo provado incontáveis bebidas finas, o Grande Mestre convida você a se soltar e deixar sua criatividade correr livre. Então você lança uma \"ofensiva\" nada convencional só para ele.\nO primeiro impacto vem do frescor gelado da menta e de suas notas de ervas, atingindo o paladar logo na entrada. Camadas cuidadosamente preservadas então avançam para mascarar a força bruta da Água de Fogo no núcleo, desferindo o golpe decisivo. Por fim, o creme de iogurte fecha a retaguarda, firmando o final com precisão e sem deixar pontas soltas.\nEm homenagem ao Grande Mestre e ao espírito de Mondstadt, você a batizou de \"Lobo de Ferro\". O Grande Mestre fica extremamente satisfeito com essa experiência ousada e cheia de camadas, dando goles enormes e animados...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido em evento de tempo limitado"
+    ],
+    "Id": 363389,
+    "Name": "Dueto de Dodoco",
+    "Description": "#Uma bebida especial cheia de sabores apaixonantes, ácidos e doces. Essa é uma obra-prima criada para Klee com \"Tempo Bom\" servindo de inspiração criativa quando a Barraca de Bebidas {M#do}{F#da} Cavaleir{F#a}{M#o} Honorável estava em operação.\nBaseado no \"Tempo Bom\", essa nova mistura foi criada especialmente para Klee.\nO \"Tempo Bom\" original tinha tons roxos, mas não era alegre suficiente. Então vamos adicionar um toque de luz do sol e algumas nuvens fofinhas para capturar essa sensação quentinha e feliz!\nDoçura é necessária, mas saúde também importa. É por isso que o suco foi escolhido cuidadosamente com a aprovação da Mestre Jean, com o adocicado vindo de Frutas Bulle. E o mais importante: o Doce de Dodoco! A magia deliciosa tem que ser colocada bem no centro das \"nuvens\"!\nKlee disse: \"Tempo bom, bom humor, Dodoco vai cantar e Klee acompanhar!\" É por isso que essa bebida foi nomeada \"Dueto de Dodoco\".",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido em evento de tempo limitado"
+    ],
+    "Id": 363390,
+    "Name": "Canção da Espada da Espuma das Ondas",
+    "Description": "#Uma bebida especial que equilibra frescor gelado com um efeito satisfatório de uma bebida de verdade. Essa é uma obra-prima criada para Eula com \"Raio Estelar Brilhante\" servindo de inspiração criativa quando a Barraca de Bebidas {M#do}{F#da} Cavaleir{F#a}{M#o} Honorável estava em operação.\nA esgrima de Eula, como a Valsa Rodopiante, golpeia com a força de uma avalanche, mas termina de forma limpa e elegante, e suas preferências em bebidas são tão ousadas quanto.\nPara combinar com seu estilo, esta bebida reúne Água de Fogo gelada e puro, suco de fruta da Flor Rociomarinha comemorativa e cacau para recuperar as energias e afastar a fadiga, criando uma verdadeira dança de sabores no copo.\nComo esta mistura foi inspirada na dança da lâmina da Cavaleira das Ondas, \"Canção da Espada da Espuma das Ondas\" pareceu o nome perfeito...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido em evento de tempo limitado"
+    ],
+    "Id": 363391,
+    "Name": "Rosa do Sonho",
+    "Description": "#Uma bebida especial com um clima bem relaxante. Essa é uma obra-prima feita para Lisa com a \"Aurora Beijada pela Neve\" servindo como inspiração criativa quando a Barraca de Bebidas {M#do}{F#da} Cavaleir{F#a}{M#o} Honorável estava funcionando.\nApós um dia longo, a bibliotecária precisa se recuperar sem arriscar perder o sono. Ao fazer essa bebida, você evitou ingredientes estimulantes e encontrou um equilíbrio delicado entre o adocicado do caramelo uma acidez gentil.\nO objetivo era \"uma noite de sono tranquila\", você propôs o nome de \"Rosa do Sonho\", que foi recebido com a aprovação animada de Lisa.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido em evento de tempo limitado"
+    ],
+    "Id": 363392,
+    "Name": "Relâmpago de Lazer",
+    "Description": "#Uma bebida especial que fornece uma sensação de tranquilidade e relaxamento, enquanto mantendo a pose. Essa obra-prima foi feita para Clorinde, com a \"Chama de Caramelo\" servindo como inspiração criativa quando a Barraca de Bebidas {M#do}{F#da} Cavaleir{F#a}{M#o} Honorável estava funcionando.\nApós visitar Mondstadt com impressões determinadas pela Trupe de Mesa, a ágil Duelista Representante está especialmente sensível a notas metálicas, exibindo uma preferência clara por sabores com um toque de sal. Nas escolhas cotidianas, ela também prefere bebidas com uma acidez gentil para equilibrar a suntuosidade. Para a maioria dos bartenders, equilibrar essas duas exigências precisaria de tremendo cuidado. Mas após aprimorar suas habilidades na Presentes dos Anjos e no Navio-Chefe, você consegue controlar precisamente cada nota no copo.\nPara ajudar Clorinde a ficar relaxada durante seu passeio em Mondstadt, você nomeou essa bebida de \"Relâmpago de Lazer\", e desde então, se tornou uma das suas memórias marcantes da cidade.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtido em evento de tempo limitado"
+    ],
+    "Id": 363393,
+    "Name": "Buquê dos Ventos",
+    "Description": "#Uma bebida especial que exala uma elegância silenciosa com seu aroma requintado. Essa é uma obra-prima que foi feita para Emilie com \"Crepúsculo Lumidouce\" servindo como inspiração criativa quando a Barraca de Bebidas {M#do}{F#da} Cavaleir{F#a}{M#o} Honorável estava funcionando.\nA perfumista de Fontaine disse uma vez que o excesso de doce deixa as pessoas sonolentas, ela preferindo aproveitar só um toque leve de embriaguez. Claramente, nocautear um cliente não é o objetivo de um bartender...\nEm dias de brisa gentil e céus limpos, sentidos aguçados podem amplificar o sabor de uma bebida perfeitamente harmoniosa.\nCom inspiração na arte da fragrância, você desenvolveu essa obra-prima sutil e elegante e Emilie, como a perfumista que é, decidiu dar o nome de \"Buquê do Vento\"...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 360107,
+    "Name": "Segredo do Frescor da Base",
+    "Description": "Uma parede interior padrão da Base do Moinho de Vento Kerplunkatron feita com materiais de metal reciclados usados comumente em Nod-Krai. Tem um brilho frio e excelente condução de calor. Dizem que esse tipo de parede permite que prédios permaneçam confortavelmente refrescantes mesmo sob o sol escaldante.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 360307,
+    "Name": "Painéis de Teto da Base",
+    "Description": "Esse teto padrão na Base do Moinho de Vento Kerplunkatron é feito de placas de metal cortadas meticulosamente. Fácil de instalar e limpar, e oferece funcionalidade e segurança excelente. Sendo feito do mesmo material exterior de mecanismos de Kuuvahki, é forte e relativamente leve, o que ajuda a reduzir vários perigos.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 360207,
+    "Name": "Piso de Metal da Base",
+    "Description": "Piso padrão usado na Base do Moinho de Vento Kerplunkatron. Consiste de placas de metal de vários formatos, reunidas para criar um piso visualmente agradável com uma sensação de profundidade. Use esses ladrilhos para criar um design mosqueado para uma aparência interior única e animada. Embora esse design inovador aumente realmente o custo e dificuldade de instalação e manutenção, é um ponto negativo compensado com eficiência pelo uso de materiais reciclados de metal.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Diagrama de Decoração comprado no Tesouro do Paraíso Mágico"
+    ],
+    "Id": 360507,
+    "Name": "Tranquilidade da Base",
+    "Description": "Um lustre padrão na Base do Moinho de Vento Kerplunkatron que consiste em uma estrutura de metal suspensa com múltiplas lâmpadas. Seu estilo geral é simples e resistente. Quando anoitece e as luzes são acesas, o brilho suave dessas lâmpadas transforma o interior em um refúgio quente e tranquilo, diminuindo a fadiga e preocupações de qualquer um.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "Porta do Cofre da Base",
+    "Description": "Uma porta padrão da Base do Moinho de Vento Kerplunkatron, fabricada ao soldar múltiplas camadas de metal. Seu design inspirado numa porta de cofre combina apelo estético com uma função prática antidestruição. Tal porta pode resistir com eficiência a dano de ferramentas como brocas, pés-de-cabra e martelos, refletindo seu propósito original de proteger contra invasões. Claro, isso pode parecer um tanto excessivo para um lugar como o Paraíso Mágico, onde a maior ameaça é provavelmente o ocasional animal pequeno usá-la como um poste para se coçar.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "Ecos Claros na Base",
+    "Description": "Uma escadaria de canto de metal padrão da Base do Moinho de Vento Kerplunkatron, conhecida por sua força, durabilidade e peso relativamente leve. Cada degrau dessas escadas de metal tem um som agudo, batendo nas paredes e vigas do prédio para formar uma batida rítmica.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "Base do Moinho de Vento Kerplunkatron",
+    "Description": "Uma instalação mega integrada criada pela Esfera da Sombra Passageira no Bule de Relachá, baseado nas paisagens e sons de Nod-Krai. Construída com uma estrutura de metal e rede de transporte compreensiva, irradia uma energia ousada e selvagem que reflete perfeitamente a filosofia de design da Oficina de Rolinho de Ovo Trilimlim. Mas, diferentemente da Oficina de Rolinho de Ovo Trilimlim, a base usa bem menos iluminação, já que não há nenhuma produção ocorrendo. Mesmo assim, os moinhos de vento acima dos tetos evoca a energia agitada da oficina, e observá-los pode preencher qualquer um com uma onda de animação.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

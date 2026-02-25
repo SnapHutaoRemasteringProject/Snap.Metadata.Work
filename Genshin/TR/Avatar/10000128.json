@@ -1,0 +1,1538 @@
+{
+  "Id": 10000128,
+  "PromoteId": 128,
+  "Sort": 113,
+  "Body": 4,
+  "Icon": "UI_AvatarIcon_Varka",
+  "SideIcon": "UI_AvatarIcon_Side_Varka",
+  "Name": "Varka",
+  "Description": "Favonius Şövalyelerinin Büyük Kumandanı. Poyraz Şövalyesi, Mondstadt'ın koruyucusu.",
+  "BeginTime": "2026-02-24T00:00:00+08:00",
+  "Quality": 5,
+  "Weapon": 11,
+  "BaseValue": {
+    "HpBase": 981.9196,
+    "AttackBase": 27.4645,
+    "DefenseBase": 61.92405
+  },
+  "GrowCurves": [
+    {
+      "Type": 1,
+      "Value": 21
+    },
+    {
+      "Type": 4,
+      "Value": 31
+    },
+    {
+      "Type": 7,
+      "Value": 21
+    }
+  ],
+  "SkillDepot": {
+    "Arkhe": 0,
+    "Skills": [
+      {
+        "GroupId": 12831,
+        "Proud": {
+          "Descriptions": [
+            "1 Vuruş Hasarı|{param1:F1P}",
+            "2 Vuruş Hasarı|{param3:F1P}+{param2:F1P}",
+            "3 Vuruş Hasarı|{param5:F1P}+{param4:F1P}",
+            "4 Vuruş Hasarı|{param6:F1P}+{param7:F1P}",
+            "5 Vuruş Hasarı|{param8:F1P}+{param9:F1P}",
+            "Yüklü Saldırı Hasarı|{param10:F1P}+{param11:F1P}",
+            "Yüklü Saldırı Dayanıklılık Maliyeti|{param12:F1}",
+            "Havadan Saldırı Hasarı|{param13:F1P}",
+            "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)|{param14:P}/{param15:P}"
+          ],
+          "Parameters": [
+            {
+              "Id": 1283101,
+              "Level": 1,
+              "Parameters": [
+                0.654598,
+                0.445501,
+                0.239885,
+                0.60239,
+                0.324364,
+                0.554316,
+                0.298478,
+                0.697498,
+                0.375576,
+                0.856388,
+                0.461132,
+                50,
+                0.745878,
+                1.49144,
+                1.862889
+              ]
+            },
+            {
+              "Id": 1283102,
+              "Level": 2,
+              "Parameters": [
+                0.707879,
+                0.481762,
+                0.25941,
+                0.651421,
+                0.350765,
+                0.599434,
+                0.322772,
+                0.754271,
+                0.406146,
+                0.926094,
+                0.498666,
+                50,
+                0.806589,
+                1.612836,
+                2.01452
+              ]
+            },
+            {
+              "Id": 1283103,
+              "Level": 3,
+              "Parameters": [
+                0.76116,
+                0.518024,
+                0.278936,
+                0.700453,
+                0.377167,
+                0.644553,
+                0.347067,
+                0.811044,
+                0.436716,
+                0.9958,
+                0.5362,
+                50,
+                0.8673,
+                1.734233,
+                2.16615
+              ]
+            },
+            {
+              "Id": 1283104,
+              "Level": 4,
+              "Parameters": [
+                0.837276,
+                0.569826,
+                0.30683,
+                0.770498,
+                0.414884,
+                0.709008,
+                0.381774,
+                0.892148,
+                0.480388,
+                1.09538,
+                0.58982,
+                50,
+                0.95403,
+                1.907656,
+                2.382765
+              ]
+            },
+            {
+              "Id": 1283105,
+              "Level": 5,
+              "Parameters": [
+                0.890557,
+                0.606088,
+                0.326355,
+                0.81953,
+                0.441285,
+                0.754127,
+                0.406068,
+                0.948921,
+                0.510958,
+                1.165086,
+                0.627354,
+                50,
+                1.014741,
+                2.029052,
+                2.534396
+              ]
+            },
+            {
+              "Id": 1283106,
+              "Level": 6,
+              "Parameters": [
+                0.95145,
+                0.64753,
+                0.34867,
+                0.875566,
+                0.471459,
+                0.805691,
+                0.433834,
+                1.013805,
+                0.545895,
+                1.24475,
+                0.67025,
+                50,
+                1.084125,
+                2.167791,
+                2.707688
+              ]
+            },
+            {
+              "Id": 1283107,
+              "Level": 7,
+              "Parameters": [
+                1.035178,
+                0.704513,
+                0.379353,
+                0.952616,
+                0.512947,
+                0.876592,
+                0.472011,
+                1.10302,
+                0.593934,
+                1.354288,
+                0.729232,
+                50,
+                1.179528,
+                2.358556,
+                2.945964
+              ]
+            },
+            {
+              "Id": 1283108,
+              "Level": 8,
+              "Parameters": [
+                1.118905,
+                0.761495,
+                0.410036,
+                1.029666,
+                0.554435,
+                0.947493,
+                0.510188,
+                1.192235,
+                0.641973,
+                1.463826,
+                0.788214,
+                50,
+                1.274931,
+                2.549322,
+                3.184241
+              ]
+            },
+            {
+              "Id": 1283109,
+              "Level": 9,
+              "Parameters": [
+                1.202633,
+                0.818478,
+                0.440719,
+                1.106716,
+                0.595924,
+                1.018394,
+                0.548366,
+                1.28145,
+                0.690011,
+                1.573364,
+                0.847196,
+                50,
+                1.370334,
+                2.740087,
+                3.422517
+              ]
+            },
+            {
+              "Id": 1283110,
+              "Level": 10,
+              "Parameters": [
+                1.293972,
+                0.880641,
+                0.474191,
+                1.19077,
+                0.641184,
+                1.09574,
+                0.590014,
+                1.378775,
+                0.742417,
+                1.69286,
+                0.91154,
+                50,
+                1.47441,
+                2.948195,
+                3.682455
+              ]
+            },
+            {
+              "Id": 1283111,
+              "Level": 11,
+              "Parameters": [
+                1.385311,
+                0.942804,
+                0.507664,
+                1.274824,
+                0.686444,
+                1.173086,
+                0.631662,
+                1.4761,
+                0.794823,
+                1.812356,
+                0.975884,
+                50,
+                1.578486,
+                3.156303,
+                3.942393
+              ]
+            },
+            {
+              "Id": 1283112,
+              "Level": 12,
+              "Parameters": [
+                1.47665,
+                1.004967,
+                0.541136,
+                1.358879,
+                0.731704,
+                1.250433,
+                0.67331,
+                1.573425,
+                0.847229,
+                1.931852,
+                1.040228,
+                50,
+                1.682562,
+                3.364411,
+                4.202331
+              ]
+            },
+            {
+              "Id": 1283113,
+              "Level": 13,
+              "Parameters": [
+                1.56799,
+                1.067129,
+                0.574608,
+                1.442933,
+                0.776964,
+                1.327779,
+                0.714958,
+                1.670751,
+                0.899635,
+                2.051348,
+                1.104572,
+                50,
+                1.786638,
+                3.572519,
+                4.462269
+              ]
+            },
+            {
+              "Id": 1283114,
+              "Level": 14,
+              "Parameters": [
+                1.659329,
+                1.129292,
+                0.60808,
+                1.526988,
+                0.822224,
+                1.405126,
+                0.756606,
+                1.768076,
+                0.952041,
+                2.170844,
+                1.168916,
+                50,
+                1.890714,
+                3.780627,
+                4.722207
+              ]
+            },
+            {
+              "Id": 1283115,
+              "Level": 15,
+              "Parameters": [
+                1.750668,
+                1.191455,
+                0.641553,
+                1.611042,
+                0.867484,
+                1.482472,
+                0.798254,
+                1.865401,
+                1.004447,
+                2.29034,
+                1.23326,
+                50,
+                1.99479,
+                3.988735,
+                4.982145
+              ]
+            }
+          ]
+        },
+        "Id": 11281,
+        "Name": "Favonius Kılıç Tekniği: Dans Eden Parıltı",
+        "Description": "<color=#FFD780FF>Normal Saldırı</color>\nVarka, kadim bir şövalye savaş dansını taklit ederek çift elli kılıçlarıyla arka arkaya en fazla 5 saldırı yapar.\n\n<color=#FFD780FF>Yüklü Saldırı</color>\nBelirli miktarda Dayanıklılık harcayarak ileri doğru atılır ve öne doğru oldukça güçlü bir çift kılıç saldırısı yapar.\n\n<color=#FFD780FF>Havadan Saldırı</color>\nHavadayken dalışa geçerek yere vurur ve yoluna çıkan düşmanlara Alan Hasarı verir.",
+        "Icon": "Skill_A_04"
+      },
+      {
+        "GroupId": 12832,
+        "Proud": {
+          "Descriptions": [
+            "Beceri Hasarı|{param1:F1P}",
+            "#{LAYOUT_MOBILE#Dokunma}{LAYOUT_PC#Basma}{LAYOUT_PS#Basma} BS|{param19:F1}sn",
+            "BS (Basılı Tutma)|{param20:F1}sn",
+            "Fırtına Hücumu Süresi|{param2:F1}sn",
+            "Fırtına Hücumu 1 Vuruş Hasarı|{param3:F1P}",
+            "Fırtına Hücumu 2 Vuruş Hasarı|{param5:F1P}+{param4:F1P}",
+            "Fırtına Hücumu 3 Vuruş Hasarı|{param7:F1P}+{param6:F1P}",
+            "Fırtına Hücumu 4 Vuruş Hasarı|{param8:F1P}+{param9:F1P}",
+            "Fırtına Hücumu 5 Vuruş Hasarı|{param10:F1P}+{param11:F1P}",
+            "Fırtına Hücumu Yüklü Saldırı Hasarı|{param12:F1P}+{param13:F1P}",
+            "Dört Rüzgarın Yükselişi Hasarı|{param14:F1P}+{param15:F1P}",
+            "Gök Yutan Hasarı|{param16:F1P}x2+{param17:F1P}x2",
+            "Dört Rüzgarın Yükselişi BS|{param18:F1}sn"
+          ],
+          "Parameters": [
+            {
+              "Id": 1283201,
+              "Level": 1,
+              "Parameters": [
+                2.784,
+                12,
+                0.818247,
+                0.556876,
+                0.299856,
+                0.752987,
+                0.405455,
+                0.692894,
+                0.373097,
+                0.871872,
+                0.46947,
+                1.070485,
+                0.576415,
+                1.7576,
+                0.9464,
+                0.936,
+                0.504,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283202,
+              "Level": 2,
+              "Parameters": [
+                2.9928,
+                12,
+                0.884848,
+                0.602203,
+                0.324263,
+                0.814277,
+                0.438457,
+                0.749293,
+                0.403465,
+                0.942839,
+                0.507682,
+                1.157618,
+                0.623333,
+                1.88942,
+                1.01738,
+                1.0062,
+                0.5418,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283203,
+              "Level": 3,
+              "Parameters": [
+                3.2016,
+                12,
+                0.95145,
+                0.64753,
+                0.34867,
+                0.875566,
+                0.471459,
+                0.805691,
+                0.433834,
+                1.013805,
+                0.545895,
+                1.24475,
+                0.67025,
+                2.02124,
+                1.08836,
+                1.0764,
+                0.5796,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283204,
+              "Level": 4,
+              "Parameters": [
+                3.48,
+                12,
+                1.046595,
+                0.712283,
+                0.383537,
+                0.963123,
+                0.518605,
+                0.88626,
+                0.477217,
+                1.115186,
+                0.600485,
+                1.369225,
+                0.737275,
+                2.197,
+                1.183,
+                1.17,
+                0.63,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283205,
+              "Level": 5,
+              "Parameters": [
+                3.6888,
+                12,
+                1.113196,
+                0.75761,
+                0.407944,
+                1.024413,
+                0.551607,
+                0.942659,
+                0.507585,
+                1.186152,
+                0.638697,
+                1.456357,
+                0.784192,
+                2.32882,
+                1.25398,
+                1.2402,
+                0.6678,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283206,
+              "Level": 6,
+              "Parameters": [
+                3.8976,
+                12,
+                1.189312,
+                0.809413,
+                0.435837,
+                1.094458,
+                0.589323,
+                1.007114,
+                0.542292,
+                1.267256,
+                0.682369,
+                1.555937,
+                0.837813,
+                2.46064,
+                1.32496,
+                1.3104,
+                0.7056,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283207,
+              "Level": 7,
+              "Parameters": [
+                4.176,
+                12,
+                1.293972,
+                0.880641,
+                0.474191,
+                1.19077,
+                0.641184,
+                1.09574,
+                0.590014,
+                1.378775,
+                0.742417,
+                1.69286,
+                0.91154,
+                2.6364,
+                1.4196,
+                1.404,
+                0.756,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283208,
+              "Level": 8,
+              "Parameters": [
+                4.4544,
+                12,
+                1.398631,
+                0.951869,
+                0.512545,
+                1.287082,
+                0.693044,
+                1.184366,
+                0.637736,
+                1.490293,
+                0.802466,
+                1.829783,
+                0.985267,
+                2.81216,
+                1.51424,
+                1.4976,
+                0.8064,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283209,
+              "Level": 9,
+              "Parameters": [
+                4.7328,
+                12,
+                1.503291,
+                1.023097,
+                0.550899,
+                1.383395,
+                0.744905,
+                1.272992,
+                0.685457,
+                1.601812,
+                0.862514,
+                1.966705,
+                1.058995,
+                2.98792,
+                1.60888,
+                1.5912,
+                0.8568,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283210,
+              "Level": 10,
+              "Parameters": [
+                5.0112,
+                12,
+                1.617465,
+                1.100801,
+                0.592739,
+                1.488463,
+                0.80148,
+                1.369675,
+                0.737517,
+                1.723469,
+                0.928022,
+                2.116075,
+                1.139425,
+                3.16368,
+                1.70352,
+                1.6848,
+                0.9072,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283211,
+              "Level": 11,
+              "Parameters": [
+                5.2896,
+                12,
+                1.731639,
+                1.178505,
+                0.634579,
+                1.593531,
+                0.858055,
+                1.466358,
+                0.789577,
+                1.845125,
+                0.993529,
+                2.265445,
+                1.219855,
+                3.33944,
+                1.79816,
+                1.7784,
+                0.9576,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283212,
+              "Level": 12,
+              "Parameters": [
+                5.568,
+                12,
+                1.845813,
+                1.256208,
+                0.67642,
+                1.698599,
+                0.91463,
+                1.563041,
+                0.841637,
+                1.966782,
+                1.059036,
+                2.414815,
+                1.300285,
+                3.5152,
+                1.8928,
+                1.872,
+                1.008,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283213,
+              "Level": 13,
+              "Parameters": [
+                5.916,
+                12,
+                1.959987,
+                1.333912,
+                0.71826,
+                1.803666,
+                0.971205,
+                1.659724,
+                0.893698,
+                2.088438,
+                1.124544,
+                2.564185,
+                1.380715,
+                3.7349,
+                2.0111,
+                1.989,
+                1.071,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283214,
+              "Level": 14,
+              "Parameters": [
+                6.264,
+                12,
+                2.074161,
+                1.411615,
+                0.760101,
+                1.908734,
+                1.02778,
+                1.756407,
+                0.945758,
+                2.210095,
+                1.190051,
+                2.713555,
+                1.461145,
+                3.9546,
+                2.1294,
+                2.106,
+                1.134,
+                11,
+                16,
+                8
+              ]
+            },
+            {
+              "Id": 1283215,
+              "Level": 15,
+              "Parameters": [
+                6.612,
+                12,
+                2.188335,
+                1.489319,
+                0.801941,
+                2.013802,
+                1.084355,
+                1.85309,
+                0.997818,
+                2.331751,
+                1.255559,
+                2.862925,
+                1.541575,
+                4.1743,
+                2.2477,
+                2.223,
+                1.197,
+                11,
+                16,
+                8
+              ]
+            }
+          ]
+        },
+        "Id": 11282,
+        "Name": "Rüzgarın İnfazı",
+        "Description": "Favonius Kılıç Tekniğinin gerçek özünü mutlak güçle ortaya çıkarır. Becerinin Dokunma veya Basılı Tutma durumuna bağlı olarak farklı etkiler yaratır.\n\n<color=#FFD780FF>Dokun</color>\nİleri atılıp tek bir akıcı hareketle keserek <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir ve {LINK#N11280001}<color=#FFD780FF>Fırtına Hücumu</color>{/LINK} moduna geçer.\nVarka <color=#FFD780FF>Fırtına Hücumu</color> modundayken Normal Saldırı ve Yüklü Saldırı Hasarı artar ancak Havadan Saldırı yapamaz. Ayrıca Varka Normal veya Yüklü Saldırı yaptığında çift elli kılıçları sırasıyla gruptaki karakterlerin Element Türlerine göre Element Hasarı verir. Bu Element Hasarı diğer element tesirleriyle değiştirilemez.\nAyrıca <color=#FFD780FF>Fırtına Hücumu</color> modundayken grupta <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> karakterleri varsa Varka'nın <color=#FFD780FF>Rüzgarın İnfazı</color> Element Becerisi değişerek ilgili element türünde Element Hasarı ve <color=#80FFD7FF>Rüzgar Hasarı</color> veren özel Element Becerisi {LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} olur. Ayrıca Varka, <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> özel Element Becerisinin kullanım hakkını harcayarak Dayanıklılık tüketmeden ilgili Element Türünde Element Hasarı ve <color=#80FFD7FF>Rüzgar Hasarı</color> veren özel <color=#FFD780FF>Gök Yutan</color> Yüklü Saldırısı gerçekleştirebilir.\n\n<color=#FFD780FF>Basılı Tut</color>\nBir süre güç topladıktan sonra ileri atılır. Güç toplama süresi atılma mesafesini artırır.",
+        "Icon": "Skill_S_Varka_01"
+      }
+    ],
+    "SpecialSkills": [
+      {
+        "GroupId": 12851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1285101,
+              "Level": 1,
+              "Parameters": [
+                1
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1285101,
+        "Name": "Cadının Gece Ayini: Şafağın Dönüşü",
+        "Description": "<color=#FFD780FF>Cadının Ödevi: Başlıksız Soru</color> tamamlandıktan sonra Varka bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini güçlendiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\n{LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} özel Element Becerisini geliştirir: Varka {LINK#N11280001}<color=#FFD780FF>Fırtına Hücumu</color>{/LINK} modundayken Normal Saldırılarıyla bir düşmana vurduğunda <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> bekleme süresi 1sn azalır.",
+        "Icon": "UI_Talent_S_Varka_08"
+      }
+    ],
+    "EnergySkill": {
+      "GroupId": 12839,
+      "Proud": {
+        "Descriptions": [
+          "Beceri 1 Vuruş Hasarı|{param1:F1P}",
+          "Beceri 2 Vuruş Hasarı|{param2:F1P}",
+          "BS|{param3:F1}sn",
+          "Enerji Maliyeti|{param4:I}"
+        ],
+        "Parameters": [
+          {
+            "Id": 1283901,
+            "Level": 1,
+            "Parameters": [
+              3.3696,
+              1.8144,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283902,
+            "Level": 2,
+            "Parameters": [
+              3.62232,
+              1.95048,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283903,
+            "Level": 3,
+            "Parameters": [
+              3.87504,
+              2.08656,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283904,
+            "Level": 4,
+            "Parameters": [
+              4.212,
+              2.268,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283905,
+            "Level": 5,
+            "Parameters": [
+              4.46472,
+              2.40408,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283906,
+            "Level": 6,
+            "Parameters": [
+              4.71744,
+              2.54016,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283907,
+            "Level": 7,
+            "Parameters": [
+              5.0544,
+              2.7216,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283908,
+            "Level": 8,
+            "Parameters": [
+              5.39136,
+              2.90304,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283909,
+            "Level": 9,
+            "Parameters": [
+              5.72832,
+              3.08448,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283910,
+            "Level": 10,
+            "Parameters": [
+              6.06528,
+              3.26592,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283911,
+            "Level": 11,
+            "Parameters": [
+              6.40224,
+              3.44736,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283912,
+            "Level": 12,
+            "Parameters": [
+              6.7392,
+              3.6288,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283913,
+            "Level": 13,
+            "Parameters": [
+              7.1604,
+              3.8556,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283914,
+            "Level": 14,
+            "Parameters": [
+              7.5816,
+              4.0824,
+              15,
+              60
+            ]
+          },
+          {
+            "Id": 1283915,
+            "Level": 15,
+            "Parameters": [
+              8.0028,
+              4.3092,
+              15,
+              60
+            ]
+          }
+        ]
+      },
+      "Id": 11285,
+      "Name": "Kuzey Rüzgarının Tezahürü",
+      "Description": "En kudretli Poyraz Şövalyesi adına öne doğru güçlü bir ikili kesme saldırısı yaparak 2 defa <color=#80FFD7FF>Rüzgar Hasarı</color> verir.\nGrupta <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> karakteri varsa ilk kesme saldırısı, Element Türlerinin belirtilen öncelik sırasına göre Element Hasarı verir.",
+      "Icon": "Skill_E_Varka_01"
+    },
+    "Inherents": [
+      {
+        "GroupId": 12821,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1282101,
+              "Level": 1,
+              "Parameters": [
+                0.1,
+                0.25,
+                1.4,
+                2.2
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1282101,
+        "Name": "Şafak Rüzgarının Yürüyüşü",
+        "Description": "Grupta <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> karakteri varken, bu Element Türlerinin belirtilen öncelik sırasına göre, Varka'nın sahip olduğu her 1.000 Saldırı Varka'ya %10 <color=#80FFD7FF>Rüzgar Hasarı Bonusu</color> ve buna karşılık gelen bir Element Hasarı Bonusu verir. Bahsedilen Element Türlerinden yalnızca biri bu şekilde Hasar Bonusu alabilir. Bu şekilde en fazla %25 Hasar Bonusu kazanılabilir.\n\nAyrıca grupta en az 2 <color=#80FFD7FF>Rüzgar</color> karakteri veya aynı elementten en az 2 <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> ya da <color=#99FFFFFF>Buz</color> karakteri varsa Varka'nın {LINK#N11280001}<color=#FFD780FF>Fırtına Hücumu</color>{/LINK} modundayken kullandığı Normal Saldırılar, Yüklü Saldırılar, <color=#FFD780FF>Gök Yutan</color> Özel Yüklü Saldırısı ve {LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} özel Element Becerisi, orijinal Hasarının %140'ı kadar Hasar verir. Grupta aynı anda en az 2 <color=#80FFD7FF>Rüzgar</color> karakteri ve <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#FFACFFFF>Elektrik</color> veya <color=#99FFFFFF>Buz</color> elementlerinden aynı element türünde en az 2 karakter daha varsa bahsedilen etki %220'ye yükseltilir.",
+        "Icon": "UI_Talent_S_Varka_06"
+      },
+      {
+        "GroupId": 12822,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1282201,
+              "Level": 1,
+              "Parameters": [
+                8,
+                0.075,
+                4,
+                1
+              ]
+            }
+          ],
+          "Display": 1
+        },
+        "Id": 1282201,
+        "Name": "Rüzgarın Öncüsü",
+        "Description": "Yakındaki grup üyeleri Girdap tepkimesi tetiklediğinde Varka bir <color=#FFD780FF>Mavi Dişin Yemini</color> kademesi kazanır ve 8 saniyeliğine Normal Saldırıları, Yüklü Saldırıları, <color=#FFD780FF>Gök Yutan</color> özel Yüklü Saldırısı ve {LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} özel Element Becerisinin verdiği Hasar %7,5 artar. 4 kademeye kadar birikebilir. Her karakter Varka'ya bu şekilde her saniye 1 kademe <color=#FFD780FF>Mavi Dişin Yemini</color> kazandırabilir.",
+        "Icon": "UI_Talent_S_Varka_05"
+      },
+      {
+        "GroupId": 12823,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1282301,
+              "Level": 1,
+              "Parameters": [
+                0.05
+              ]
+            }
+          ]
+        },
+        "Id": 1282301,
+        "Name": "Eve Dönen Rüzgarın Şarkısı",
+        "Description": "Mondstadtlı her grup üyesi başına Varka'nın <color=#FFD780FF>Rüzgarın İnfazı</color> Element Becerisinin Basılı Tutma halinin bekleme süresi %5 azalır.\nBu etki Zindanlarda, Ezici Zindanlarda veya Hiçlik Sarmalında tetiklenmez.",
+        "Icon": "UI_Talent_S_Varka_07"
+      }
+    ],
+    "Talents": [
+      {
+        "Id": 1281,
+        "Name": "\"Gel Dostum, Ayın Yumuşak Parıltısında Dans Edelim\"",
+        "Description": "Varka {LINK#N11280001}<color=#FFD780FF>Fırtına Hücumuna</color>{/LINK} geçtiğinde özel Element Becerisi {LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} için ek bir kullanım hakkı elde eder.\nAyrıca <color=#FFD780FF>Fırtına Hücumuna</color> geçtikten sonra Varka, <color=#FFD780FF>Lirik Ziyafet</color> etkisini kazanır: <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> özel Element Becerisi veya <color=#FFD780FF>Gök Yutan</color> özel Yüklü Saldırısı kullanıldığında, bu etkiyi tüketerek <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> veya <color=#FFD780FF>Gök Yutan</color> tarafından verilen orijinal Hasarın %200'ü kadar Hasar verebilir.",
+        "Icon": "UI_Talent_S_Varka_01"
+      },
+      {
+        "Id": 1282,
+        "Name": "\"Şafak Söktüğünde Başlayacak Yolculuğumuz\"",
+        "Description": "{LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} özel Element Becerisi veya <color=#FFD780FF>Gök Yutan</color> özel Yüklü Saldırısı kullanıldığında Varka ek bir vuruş yaparak Saldırısının %800'ü kadar <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir.",
+        "Icon": "UI_Talent_S_Varka_02"
+      },
+      {
+        "Id": 1283,
+        "Name": "\"Ey Dost, Kederli Gözyaşları Döktüren Acı Şarabı İçmeyelim\"",
+        "Description": "<color=#FFD780FF>{LINK#S11282}Rüzgarın İnfazı{/LINK}</color> Element Becerisinin Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15'tir.",
+        "Icon": "UI_Talent_U_Varka_01",
+        "ExtraLevel": {
+          "Index": 2,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1284,
+        "Name": "\"Kimse Alamaz Şarkı Söyleme Özgürlüğümüzü Elimizden\"",
+        "Description": "Varka bir Girdap tepkimesi tetiklediğinde tepkimeye dahil olan Element Türlerine bağlı olarak 10 saniyeliğine yakındaki tüm grup üyeleri %20 <color=#80FFD7FF>Rüzgar Hasarı Bonusu</color> ve ilgili Element Hasarı Bonusu kazanır.",
+        "Icon": "UI_Talent_S_Varka_03"
+      },
+      {
+        "Id": 1285,
+        "Name": "\"Despotlar Gelir Geçer, Sen Kadehini Güzel Şarapla Doldur\"",
+        "Description": "<color=#FFD780FF>{LINK#S11285}Kuzey Rüzgarının Tezahürü{/LINK}</color> Element Patlamasının Seviyesini 3 artırır.\nMaksimum yükseltme seviyesi 15'tir.",
+        "Icon": "UI_Talent_U_Varka_02",
+        "ExtraLevel": {
+          "Index": 9,
+          "Level": 3
+        }
+      },
+      {
+        "Id": 1286,
+        "Name": "\"Sevgili Mondstadt, Daima Parlayacaksın Sen\"",
+        "Description": "{LINK#N11280001}<color=#FFD780FF>Fırtına Hücumu</color>{/LINK} güçlendirilir:\n·{LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} özel Element Becerisi kullanıldıktan kısa bir süre sonra Varka'nın Element Becerisine Dokunmak veya Normal Saldırısına Basılı Tutmak, Dört Rüzgarın Yükselişi kullanım hakkı harcamaz ve fazladan bir <color=#FFD780FF>Gök Yutan</color> özel Yüklü Saldırısı daha gerçekleştirir.\n·<color=#FFD780FF>Gök Yutan</color> özel Yüklü Saldırısı gerçekleştirildikten kısa bir süre sonra Varka'nın Element Becerisine dokunmak, Dört Rüzgarın Yükselişi kullanım hakkı harcamaz ve fazladan bir <color=#FFD780FF>Dört Rüzgarın Yükselişi</color> daha gerçekleştirir.\nBu şekilde fazladan bir Gök Yutan özel Yüklü Saldırısı veya Dört Rüzgarın Yükselişi özel Element Becerisi tetiklendiğinde, yukarıdaki etki tetiklenemez.\n\nAyrıca <color=#FFD780FF>{LINK#P1282201}Rüzgarın Öncüsü{/LINK}</color> Yükseltme Yeteneğindeki <color=#FFD780FF>Mavi Dişin Yemini</color> etkisi güçlendirilir: Her <color=#FFD780FF>Mavi Dişin Yemini</color> kademesi Varka'nın Kritik Hasarını %20 artırır.",
+        "Icon": "UI_Talent_S_Varka_04"
+      }
+    ]
+  },
+  "FetterInfo": {
+    "Title": "Poyraz Şövalyesi",
+    "Detail": "Favonius Şövalyelerinin Büyük Kumandanı. Poyraz Şövalyesi, Mondstadt'ın koruyucusu.",
+    "Association": 1,
+    "Native": "Favonius Şövalyeleri",
+    "BirthMonth": 2,
+    "BirthDay": 17,
+    "VisionBefore": "Rüzgar",
+    "VisionOverrideUnlocked": "Önsezi",
+    "ConstellationBefore": "Büyük Kurt",
+    "CvChinese": "郝祥海",
+    "CvJapanese": "杉田智和",
+    "CvEnglish": "Joseph May",
+    "CvKorean": "Park Sang-hoon",
+    "CookBonus": {
+      "OriginItemId": 108035,
+      "ItemId": 108958,
+      "InputList": [
+        110003,
+        100076,
+        100018
+      ]
+    },
+    "Fetters": [
+      {
+        "Title": "Merhaba",
+        "Context": "Kendimi tekrar tanıtayım, gerçi muhtemelen duymaktan sıkılmışsındır. Ben Varka, Favonius Şövalyelerinin Büyük Kumandanı, Mondstadt'ın Poyraz Şövalyesi. Favonius yeminimi yerine getirmeye geldim: Kılıcım üzerine yemin ederim ki ben ayakta olduğum sürece sen düşmeyeceksin."
+      },
+      {
+        "Title": "Sohbet: İçme",
+        "Context": "Fırsat oldukça içmeyi severim... Fırsat olmadıkça da. Ha! Haha, bak bu iyiydi."
+      },
+      {
+        "Title": "Sohbet: Silahlar",
+        "Context": "Silahların düzenli bakıma ihtiyacı vardır. Onlara iyi bakarsan vakti geldiğinde onlar da sana bakar."
+      },
+      {
+        "Title": "Sohbet: Dinlenme",
+        "Context": "*iç çeker* Masamdan uzaklaşmak gerçekten iyi geldi. Şimdi... Nerede biraz gözlerimi dinlendirebilirim acaba?"
+      },
+      {
+        "Title": "Yağmur Yağdığında",
+        "Context": "Yağmur durdu. İlerlemeye devam edelim."
+      },
+      {
+        "Title": "Kar Yağdığında",
+        "Context": "Kar yağışını izlemek bana hep geçmiş keşiflerde uğradığım yerleri hatırlatır..."
+      },
+      {
+        "Title": "Rüzgar Şiddetlendiğinde",
+        "Context": "Hop, bu ne kuvvetli bir rüzgar! Beni düşürmeye çalışıyorsun demek ha?"
+      },
+      {
+        "Title": "Günaydın",
+        "Context": "Günaydın! Hımm, daha ayılamamışsın galiba. Seni kendine getirecek bir içkiye ne dersin?"
+      },
+      {
+        "Title": "İyi Günler",
+        "Context": "Tünaydın! Biraz boş zamanımız var. İyice dinlen, yoksa öğleden sonrası senin için epey zorlu geçer."
+      },
+      {
+        "Title": "İyi Akşamlar",
+        "Context": "İyi akşamlar! Uzun bir gün oldu, değil mi? Uyumana yardımcı olacak bir içkiye ne dersin?"
+      },
+      {
+        "Title": "İyi Geceler",
+        "Context": "İyi geceler. Rüzgarın bile bazen dinlenmeye ihtiyacı vardır. Ben çadırın önünde nöbet tutarım. Gece nöbetine gerek yok mu? Ha... Doğru ya, dışarıda uyumuyoruz. Eski alışkanlıklar işte..."
+      },
+      {
+        "Title": "Varka Hakkında: Poyraz Şövalyesi",
+        "Context": "Poyraz Şövalyesi insanlar ve Poyraz Kurdu arasında bir köprü görevi görür. Ancak geçtiğimiz bin yılda kurt efendisinin takdirini hakikaten kazanabilenlerin sayısı bir elin parmaklarını geçmez... Ben mi? Hahaha, evet. Ben de onlardan biriyim tabii ki."
+      },
+      {
+        "Title": "Varka Hakkında: Keşif Seferi",
+        "Context": "Mondstadt çevresinde barışı korumak için pek çok sefere çıktım, gerçi hiçbiri bu seferle kıyaslanamaz... Bir keresinde Dadaupa Geçidi'ni temizledik. Bir diğer seferde Taş Geçit'in güvenliğini sağlamak için Taşordu ile güçlerimizi birleştirdik. Bir keresinde de açık denizdeki bazı canavarlara engel olmak için Şahin Sahili'nden denize açıldık... Hımm? O bölgelerde kuvvetli düşmanlarla hiç karşılaşmadın demek... Gerçekten mi? Oysa birkaçını insanlara talim olsun diye bıraktım sanıyordum..."
+      },
+      {
+        "Title": "Bizim Hakkımızda: Yabancı",
+        "Context": "Mondstadt özgürlüğün şehridir. İster bir günahkarın çocuğu, ister başıboş gezen bir tanrı, ister uzak diyarlardan gelen bir gezgin ol. Burası herkesin evi diyebileceği bir yerdir. Bu yüzden benim yanımda resmiyete gerek yok, ne de olsa sen Fahri Şövalyesin!"
+      },
+      {
+        "Title": "Hakkımızda: Rüzgarı Yakalamak",
+        "Context": "\"Bin rüzgarın içinde tek bir düşünceye odaklan, o eşsiz esintiyi uçup gitmeden yakala.\"\nÖzümseme sürecini nasıl tersine çevireceğimi açıklarken Barbatos bana böyle söylemişti. Kendini Poyraz Kurdu'ndan ayırmadığın sürece Ley Hatları ile birleşmekten kaçınmanın bir yolu yok... O zamanlar ne dediğini anlamamıştım ama bizzat yaşadıktan sonra... Yok ya, hâlâ pek anlamıyorum, haha! En azından bir daha aynı şeyi yaşamak zorunda kalmayacağım.\nDüşünüyorum da Ley Hatlarından döndüğümden beri sana doğru düzgün teşekkür etmedim. Neyse, hazır zamanıyken edeyim bari. Öhöm...\nBeni yakaladın \"Rüzgarı Yakalayan Yabancı\"."
+      },
+      {
+        "Title": "Önsezi Hakkında",
+        "Context": "Önsezimi aldığım günü gayet iyi hatırlıyorum. O zamanlar dikkatsiz ve asabi bir gençtim. Rüzgar Hükümdarı'nın beni fark etmesi beni nasıl da heyecanlandırmıştı... Ama sonra Barbatos'u bizzat tanıdım ve bunun hiç de düşündüğüm anlama gelmediğini fark ettim. Gençlik hayallerimden biri daha yıkıldı! Ancak Önsezinin bana verdiği güç ve onu bana getiren umutlar... İşte bunlar asla değişmeyecek."
+      },
+      {
+        "Title": "Paylaşılacak Bir Bilgi: Dört Rüzgar",
+        "Context": "\"Dört Rüzgar\"ın ardındaki mantığı hiçbir zaman tam olarak anlayamadım. Yani, Doğu'nun Ejderi, Batı'nın Şahini ve Güney'in Aslanı... Bunlar gayet net, değil mi? Ama \"Kuzey'in Kurdu\" hem Poyraz'ı hem de beni kastediyor olabilir. Üstelik \"Favonius Şövalyeleri\" hem Aslandiş Şövalyesi'ni hem de Poyraz Şövalyesini içeriyor. Bu da Favonius'un \"Batı Rüzgarı\"nın aslında hem \"Güney\"i hem de \"Kuzey\"i kapsadığı anlamına geliyor. Bunun neresi mantıklı?\nHımm? Bir ozan kulağa hoş gelsin diye mi dört sayısını seçmiş diyorsun? Evet, bak bu mantıklı aslında..."
+      },
+      {
+        "Title": "İlginç Şeyler: Kediler ve Köpekler",
+        "Context": "Mondstadt'ta bir zamanlar \"kediseverler\" ile \"köpekseverler\" arasında bir münazara yaşandı. Poyraz Şövalyesinin köpekseverlerin tarafını tutacağını düşünürsün, değil mi? Ama doğrusunu söylemek gerekirse benim kedilere karşı da ayrı bir zaafım var. Enerjik yavru köpekler gerçekten çok şirin evet ama öte yandan uslu, sessiz bir kedi de insana harika bir yoldaş oluyor. Ha... Eğer sahiplenme şansım olsaydı... Sanırım hepsini alırdım!"
+      },
+      {
+        "Title": "Venti Hakkında",
+        "Context": "Barbatos mu? İlk bakışta gamsız ve rahat biri gibi görünebilir ama iş ciddiye bindiğinde o da ciddileşir. Hakkını da vermem lazım, içki konusunda zevkli biri. Gerçekten de Mondstadt'a yaraşır bir tanrı! Hımm? Kendimden bahsediyormuşum gibi mi geldi? Hahahaha, iltifat addederim! Rüzgar Hükümdarı'nın yanında ben kimim ki?"
+      },
+      {
+        "Title": "Razor Hakkında",
+        "Context": "Razor ile ilk tanıştığımda, Kurtlar Diyarı'ndaki yavru kurtlardan sadece birkaç santim daha uzundu. Heh, çift elli kılıcı zar zor kaldırabiliyordu! Ama o zamanlar bile ona kılıç kullanmayı öğretmek, onunla konuşmayı öğrenmekten daha kolaydı. Sanırım onun dilini çözmem en az altı ayımı aldı. Aradan yıllar geçti ve kendisine bir sürü arkadaş edindi... Zaman ne çabuk geçiyor."
+      },
+      {
+        "Title": "Rosaria Hakkında",
+        "Context": "Şey... Kendisiyle ilgili çenemi kapalı tutsam iyi olur. Boşboğazlık yapıp azar işitmek istemem. Bakışlarında buz gibi bir soğukluk var... Merak ettiğin bir şey varsa gidip kendisine sorsan daha iyi edersin. Sanırım artık... Seninle geçmişi hakkında konuşmaya hazırdır."
+      },
+      {
+        "Title": "Diluc Hakkında",
+        "Context": "Demek hâlâ Şövalyelere geri dönmüyor ha? Haha, peki madem... Mondstadt rüzgarı her zaman özgürce esmiştir. Onun geri dönmeme özgürlüğü var, aynı şekilde benim de onu geri dönmesi için darlama özgürlüğüm var. Yine de şansımı fazla zorlamasam iyi olur... Eğer çok darlarsam beni Şafak Şaraphanesinin kara listesine alabilir. İşte asıl kıyamet o zaman kopar!"
+      },
+      {
+        "Title": "Kaeya Hakkında",
+        "Context": "Usta Crepus'un Kaeya için ne kadar değerli olduğunu biliyorum. O trajik olay, üvey kardeşi için olduğu kadar onun için de yıkıcıydı. Ancak onca haksızlığa ve kardeşler arası anlaşmazlığa rağmen... Yine de Şövalyelerin yanında kalmayı seçti. Eroch'un yolsuzluğunun açığa çıkarılmasında da kilit bir rol oynadı. Bize güvenmeyi seçtiği için, geçmişinde ne olursa olsun ben de ona güvenmeyi seçiyorum."
+      },
+      {
+        "Title": "Jean Hakkında",
+        "Context": "Aslında ben hep Jean'in benden çok daha iyi bir Büyük Kumandan olmak için gereken yeteneğe ve mizaca sahip olduğunu düşünmüşümdür. Ama onu ne kadar ikna etmeye çalışırsam çalışayım, kendisi her zaman yeterince nitelikli olmadığı konusunda ısrar ediyor. Heh, aynı ben! Ben de bu görevi devraldığımda oldukça gençtim. Fahri Şövalye, fırsatın olursa onu ikna etmeyi dener misin? Hımm? Tüm işimi Jean'in üzerine yıkmaya çalıştığımı mı düşünüyorsun? Asla, aklından bile geçirme, bunu asla yapmam! Gerçekten! Bir kadeh şarap üzerine yemin mi edeyim? Iıı, buna gerek yok yahu, değil mi?"
+      },
+      {
+        "Title": "Noelle Hakkında",
+        "Context": "Doğuştan gelen kuvvetine ben bile şaşırdım. Duyduğuma göre şimdilerde Jean'den kılıç kullanmayı öğreniyormuş. Hem tek elli hem de çift elli kılıç stillerinde ustalaştıktan sonra acaba benim... Ne? Geçen sefer kılıcını tavana mı fırlattı? Peki o zaman... Sanırım onun için programa birkaç talim daha eklememiz gerekecek."
+      },
+      {
+        "Title": "Lohen Hakkında",
+        "Context": "O haylaz her gün yeni bir kargaşa çıkarıyor sanki... Eskiden onu kendi gençliğime benzetirdim; o da güçlü düşmanlarla savaşmaya ve zafer kazanmaya hevesli sanırdım... Meğerse sadece dövüş kısmı ilgisini çekiyormuş, zafer umurunda bile değilmiş. *iç çeker* Neyse, en azından düşmanlarla savaşmak onu oyalıyor. Yoksa can sıkıntısından beni pusuya düşürmelik tuzaklar kazıp dururdu."
+      },
+      {
+        "Title": "Mika Hakkında",
+        "Context": "Hayatta yolunu kaybettiğinde sana rehberlik edecek bir akıl hocasına, yürüyüşte kaybolduğunda ise bir haritaya ihtiyaç duyarsın. Bu mantığa göre Mika'nın benim akıl hocam olduğunu söyleyebiliriz, haha! Bu şakayı Mika'ya yapmayı denedim ama... Yüzü bembeyaz kesildi. Açıkçası kendine biraz daha güvenmeli. Sonuçta şövalye olmak herkesin harcı değil!"
+      },
+      {
+        "Title": "Eula Hakkında",
+        "Context": "Birlikleri karşılamak için Dornman Limanı'na birini göndermeyi planlıyordum ama Eula bana her şeyi çoktan ayarladığını söyledi. Programı gözden geçirdiğimde her adımın kusursuzca halledildiğini gördüm. Onun bu kadar titiz davranmasını beklemiyordum, üstelik bu sefer intikamdan bir kez bile bahsetmedi. Haha, şövalyelerimizin geliştiğini görmek beni çok mutlu ediyor."
+      },
+      {
+        "Title": "Amber Hakkında",
+        "Context": "Tam bir enerji topu, değil mi? Kaşifimiz ve Uçuş Şampiyonumuz olarak genellikle Mondstadt dolaylarında ihtiyacı olanlara yardım ederken görülebilir. Çoğu ziyaretçinin karşılaştığı ilk Favonius Şövalyesi o olduğu için halk nezdinde teşkilatın yüzü sayılır. Hımm? Senin de mi karşılaştığın ilk Şövalye oydu? Haha, işte bizim Amber!"
+      },
+      {
+        "Title": "Albedo Hakkında",
+        "Context": "Albedo Mondstadt'a ilk geldiğinde her anne babanın kendi çocuklarının örnek almasını isteyeceği o gözde çocuklardan biri gibi görünmüştü gözüme. Öyle mütevazı, öyle terbiyeliydi ki... Ama başka bir deyişle de oldukça mesafeli ve ihtiyatlıydı. Biraz gevşemesini umuyordum. Ne de olsa insanların kendileri gibi olmakta rahat hissetmediği bir şehre nasıl Özgürlük Şehri denebilir ki? Neyse, sanırım umduğumdan fazlasını buldum, çünkü bugünlerde resim yeteneklerimle dalga bile geçiyor! Hahaha!"
+      },
+      {
+        "Title": "Durin Hakkında",
+        "Context": "Şimdi yalan yok, Durin'in tekrar ortaya çıktığına dair raporları ilk aldığımda kalbim tekledi. Mondstadt'ı savunmak için eve seçkin bir ekip göndermek üzereydim... Neyse ki yeni Durin eskisi gibi değilmiş. Bir zamanlar Mondstadt'ın en büyük tehditlerden biri artık en güvenilir müttefiklerimizden oldu... Kader gerçekten de öngörülemez bir güç, değil mi? Rüzgarın ne taraftan eseceğini asla kestiremiyor insan."
+      },
+      {
+        "Title": "Klee Hakkında",
+        "Context": "Kıvılcım Şövalyemiz hücre hapsinden kaçma konusunda gittikçe ustalaşıyor, değil mi? Görünüşe bakılırsa \"öğretilerimi\" ciddiye almış. Belki ben de ondan bir şeyler öğrenebilirim... Iıı, yani, şey... Neyse, boş ver! Şeyi kastettim, ıı... Resim tekniklerini, evet. *iç çeker* Bunu Jean'e ya da Albedo'ya söylemezsin, değil mi? Şey... Ha, lütfen Alice'e de söyleme. Sağ ol."
+      },
+      {
+        "Title": "Alice Hakkında",
+        "Context": "Alice'in sahip olduğu tüm unvanlar arasında en çok \"Nice Dünyaların Maceracısı\" unvanına imreniyorum. Gençliğimde ben de çok seyahat ettim ama onun gördüklerini anlatmasını dinlerken pek çoğu hayal gücümün bile ötesinde kalıyor. Acaba Büyük Kumandan görevimden ayrıldıktan sonra ufkumu genişletme şansım olur mu? Gerçi o zamana kadar hâlâ enerjim kalır mı orası meçhul, haha!"
+      },
+      {
+        "Title": "Nicole Hakkında",
+        "Context": "Nicole'dan öğrenmek istediğim çok şey var. İnanılmaz yön duygusu bende olsa seferler sırasında kaybolmaktan endişe etmeme hiç gerek kalmazdı. Bir de şu telepatik iletişim yeteneği, savaş alanında gizli mesajlar göndermek için harbiden çok işe yarardı... Efendim? Melek güçlerinin israfı mı olur? Yok be, gayet pratik uygulamalar bunlar!"
+      },
+      {
+        "Title": "Barbeloth Hakkında",
+        "Context": "Bir keresinde Barbeloth'un küresinde geleceğin bir yansımasını görmüştüm. Kendisi bunun bizzat kaderin bana göstermeye çalıştığı bir görü olduğunu söylemişti... Fakat kader, onu değiştirmeye çalışacağımı da öngörmüş müydü acaba? İşlerin nihayetinde nasıl sonuçlanacağını tahmin edebilmiş miydi?\nHım... Bence bunun üzerinde durmaya gerek yok. Bir şeylere fazla kafa yormak sadece kılıcımı yavaşlatır. Kader bana ne gösterirse göstersin, ben yine de doğru olduğuna inandığımı yapacağım."
+      },
+      {
+        "Title": "Aino Hakkında",
+        "Context": "Aino ile ilk tanıştığımda onun için endişelenmiştim. Nod-Krai gibi bir yerde böyle küçük bir çocuğun kendi başına büyümesi doğru gelmemişti... Ancak sonradan tamamen yanıldığımı fark ettim. Aino yalnız değil ve kesinlikle kimsenin onun için endişelenmesine ihtiyacı yok. Her çocuk büyümek için kendi yolunu bulur. Önyargılarımız yüzünden onlar adına endişelenmek onlara hiçbir fayda sağlamaz."
+      },
+      {
+        "Title": "Ineffa Hakkında",
+        "Context": "O mektubu sana ulaştırmasını istediğimde başından geçenler hakkında hiçbir fikrim yoktu. Tutsak doğmuş, sonunda lanetini yenmiş ve özgürlüğünü kazanmış bir ruh... Sana şunu söyleyeyim, hikayesi Mondstadt'a ulaştığında en büyük destanlardan biri olarak tarihe geçecek! İster Leydi Vennessa olsun ister Çiçek Tüyü Klanı, insanlar özgürlük uğruna prangalarından kurtulma hikayelerinden her zaman ilham almıştır."
+      },
+      {
+        "Title": "Flins Hakkında",
+        "Context": "İnsanlar genellikle şövalyeliği soyluların kurallarıyla karıştırır. Eski Mondstadt aristokrasinin neler yaptığını göz önünde bulundurunca, bir zamanlar böyle düşüncelere sessiz kalamazdım... Ama bütün soylular Flins gibi olsaydı var ya... Haha, onlarla haftanın her günü seve seve bir şeyler içerdim!"
+      },
+      {
+        "Title": "Nefer Hakkında",
+        "Context": "Kuzey İstihbarat Ağı, Nod-Krai'a vardığımızda keşif birliğimize epey yardımcı oldu. Bu verimli iş birliğini gelecekte de sürdürmek niyetindeyim. Hatta kendime bir kod adı bile düşündüm: \"Büyük Kurt\"! Nasıl? Çok fiyakalı değil mi?"
+      },
+      {
+        "Title": "Jahoda Hakkında",
+        "Context": "Çok mızmızlanıyor olabilir ama işinin başına geçtiğinde inanılmaz verimli çalışıyor. Nod-Krai gibi tekinsiz bir yerde hazine avcısı olarak nam saldığına göre ne kadar azimli biri olduğu ortada! Onu Şövalyelere almayı düşündüm ama bu onu şimdiki patronundan çalmak olurdu, hem zaten... İş değiştirmek de istemezdi muhtemelen. Haha, iki kat maaş teklif etmeyi bile düşündüm ama en iyisi hiç sormayayım."
+      },
+      {
+        "Title": "Mavuika Hakkında",
+        "Context": "İster insan ister tanrı olsun, Ateş Hükümdarı saygıyı hak eden yaman bir savaşçı. Eğer Natlan'da doğsaydım o henüz insanken onunla kılıç çarpıştırma şansım olur muydu acaba? Hımm, ama o zaman da Mondstadt'ı koruyamazdım, değil mi? Yok, olmaz... *iç çeker* Sanırım böylesi daha iyi."
+      },
+      {
+        "Title": "Yüzbaşı Hakkında",
+        "Context": "Onunla sadece bir kere karşılaştım ama... Gerçekten mi? Khaenri'ah şövalyesi demek... \"Gözcü Şövalye\" Thrain... Kaderinin dizginlerini eline almış anlaşılan."
+      },
+      {
+        "Title": "Varka Hakkında Daha Fazlası: I",
+        "Context": "Hı? Ben mi? Ne demek istiyorsun, neyi merak ediyorsun? Bir dakika, kütüphanede \"Varka Hakkında Bilmediğiniz 100 Gerçek\" diye bir kitap mı var? Bak şimdi ben de merak ettim. Böyle bir kitabın varlığından haberim bile yoktu. Peki, hadi gel doğruluğunu kontrol edelim."
+      },
+      {
+        "Title": "Varka Hakkında Daha Fazlası: II",
+        "Context": "\"Hiçbir Poyraz Şövalyesi tüm zamanların en kudretlisi olduğunu iddia etmemiştir, zira tevazu ve dürüstlük şövalyeliğin erdemlerindendir. Varka hariç. Çünkü o bunu iddia ederken hem mütevazı hem de dürüsttür.\" Şey... Bilemiyorum..."
+      },
+      {
+        "Title": "Varka Hakkında Daha Fazlası: III",
+        "Context": "\"Mondstadt'ın Dört Rüzgarı bir zamanlar Varka'nın ana kılıcını, ikincil kılıcını, uçan sol tekmesini ve sağ yumruğunu ifade ederdi. Ancak kimse tüm seti görüp de hikayesini anlatacak kadar yaşamadı, bu yüzden ifadenin yalnızca günümüzdeki manası kaldı.\" ... Şey, bu biraz abartı olmuş. Dört Rüzgarın bütün işlerini tek başıma halletmemin imkanı yok."
+      },
+      {
+        "Title": "Varka Hakkında Daha Fazlası: IV",
+        "Context": "Belki de artık bu kitabı kapatsak iyi olur, biraz saçmaymış... Muhtemelen sarhoş bir ahmak yazmıştır. Gördüğün üzere gerçek hayattaki Varka da diğer herkes gibi yalnızca sıradan bir insan. Acı hissediyorum, kanıyorum, yaşlanıyorum... Diğer arkadaşların gibi beni de uydurma hikayeler ve söylentiler dinleyerek değil, bir handa sohbet ederek daha iyi tanıyabilirsin. Ne dersin, bir şeyler içelim mi?"
+      },
+      {
+        "Title": "Varka Hakkında Daha Fazlası: V",
+        "Context": "İç bakalım! Birer tane daha! Hahaha... Neyse, nerede kalmıştım? Hah, evet... Bak buradaki yara izi Poyraz ile dövüşümden kalma. Yaşlı kurt bana pençesini fena geçirmişti! Az kalsın ondan daha yüksek sesle uluyacaktım... Bak, bu da Cadılar Meclisi imtihanlarına tek başıma girdiğim zamandan kalma... Eğer bir fani her şeyi korumak istiyorsa her şeyi feda etmeye hazır olmalı. \"En Kudretli Poyraz Şövalyesi\" olmam böyle gerçekleşti işte... Evet... Böyle oldu..."
+      },
+      {
+        "Title": "Varka'nın Hobileri",
+        "Context": "Sanırım eskiden ben de bir nevi maceracıydım. Yeni ufuklara yelken açmak, yeni düşmanlarla yüzleşmek... Böyle şeyler insanı hep gaza getirir, değil mi? Ama bugünlerde... Hayatta daha önemli şeyler var. Korumam gereken şeyler."
+      },
+      {
+        "Title": "Varka'nın Sorunları",
+        "Context": "Bir bakalım... Nod-Krai'da kalemizi inşa etmek, Dornman Limanı için savunma personeli atamak, keşif birliklerinin geri dönüşünü organize etmek, Favonius Şövalyelerinin harcamaları için ayrıntılı bütçe dökümü hazırlamak... Offff... Neden asıl işkence sefer bittikten sonra başlıyormuş gibi hissediyorum?"
+      },
+      {
+        "Title": "En Sevdiği Yemek",
+        "Context": "Tabii ki... Ne? Alkol dışında mı? Bir saniye, şarapla fermente edilmiş tatlı pirinç topları ve çikolata likörleri sayılır mı? Sayılmıyor mu? Iı... Şey... Hımm. Sanırım yüksek ateşte mühürlenmiş koca et parçaları, güzel mezeler, peynir ve kuruyemiş diyeceğim... Hahaha..."
+      },
+      {
+        "Title": "En Sevmediği Yemek",
+        "Context": "Piyasada alkollü gibi görünen, alkollü gibi kokan ama içtiğinde... İçinde bir damla bile alkol olmayan içecekler var! Bu resmen dolandırıcılık sayılmalı, haksız mıyım?"
+      },
+      {
+        "Title": "Hediye Alma: I",
+        "Context": "Vay be... Resmen şaheser bu! En kaliteli Karahindiba Şarabına eşlikçi olmayı hak ediyor."
+      },
+      {
+        "Title": "Hediye Alma: II",
+        "Context": "İşte bundan sağlam erzak olur. Lojistik takımı senden bir iki şey öğrenebilir aslında."
+      },
+      {
+        "Title": "Hediye Alma: III",
+        "Context": "Sen, ıı... Genelde böyle şeyler mi yiyorsun? Vay be. Siz maceracıların durumu da bizim seferlerdeki kadar kötüymüş... Gel gidip sana gerçek bir yemek bulalım."
+      },
+      {
+        "Title": "Doğum Günü",
+        "Context": "Doğum günün kutlu olsun! Bir yere kaybolma sakın, Favonius Şövalyeleri senin için bir doğum günü şarkısı söylemeye hazırlanıyor. Yanlış anlama, yetkimi kötüye kullanmıyorum. Bunu onlar önerdi! Ben sadece organizasyona ve mekanın ayarlanmasına yardım ettim. Fahri Şövalyemizi ne kadar çok sevdiğimizi biliyorsun, değil mi? Hadi gel, herkes doğum günü yıldızını ve solistini bekliyor!"
+      },
+      {
+        "Title": "Yükseltme Hakkında: Giriş",
+        "Context": "İlk şövalyelik erdemi \"tevazu\"dur. Ancak egonu bir kenara bırakıp öğrenmeye istekli olursan günbegün gelişebilirsin."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Gelişme",
+        "Context": "İkinci şövalye erdemi \"dürüstlük\"tür. Hilekar ve kurnaz sözler sana geçici bir üstünlük kazandırabilir ancak kılıçla kazanılan bir zafer asla yalan söylemez."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Zirve",
+        "Context": "Üçüncü şövalye erdemi \"doğruluk\"tur. Her şövalye kendi hür vicdanına göre yaşamalı ve kendi yolunda yürümelidir. Sen de kendi yolunda sarsılmaz bir kararlılıkla yürü ve asla tereddüt etme."
+      },
+      {
+        "Title": "Yükseltme Hakkında: Sonuç",
+        "Context": "Üç şövalye erdemini hatırlıyor musun? Güzel... Şimdi üçünü de unut. Nasıl bir şövalye olmak istediğimiz ve hangi yolu seçtiğimiz tamamen bize kalmış!"
+      },
+      {
+        "Title": "Yüklü Saldırı: I",
+        "Context": "Parçala onları!"
+      },
+      {
+        "Title": "Yüklü Saldırı: II",
+        "Context": "Kes!"
+      },
+      {
+        "Title": "Element Becerisi: I",
+        "Context": "Dalgalan!"
+      },
+      {
+        "Title": "Element Becerisi: II",
+        "Context": "Yan!"
+      },
+      {
+        "Title": "Element Becerisi: III",
+        "Context": "Buz kes!"
+      },
+      {
+        "Title": "Element Becerisi: IV",
+        "Context": "Kavrul!"
+      },
+      {
+        "Title": "Element Becerisi: V",
+        "Context": "Fırtına rüzgarı!"
+      },
+      {
+        "Title": "Element Becerisi: VI",
+        "Context": "Parçalan!"
+      },
+      {
+        "Title": "Element Becerisi: VII",
+        "Context": "Daha sert!"
+      },
+      {
+        "Title": "Element Becerisi: VIII",
+        "Context": "Hah!"
+      },
+      {
+        "Title": "Element Becerisi: IX",
+        "Context": "Ayak uydurmaya çalış!"
+      },
+      {
+        "Title": "Element Patlaması: I",
+        "Context": "HRAAAAH!"
+      },
+      {
+        "Title": "Element Patlaması: II",
+        "Context": "Poyraz hızla esiyor!"
+      },
+      {
+        "Title": "Element Patlaması: III",
+        "Context": "Hücuuum!"
+      },
+      {
+        "Title": "Depar Başlangıcı: I",
+        "Context": "Benimle gelin!"
+      },
+      {
+        "Title": "Hazine Sandığı Açma: I",
+        "Context": "İçinden içki çıktı mı? Bir kadeh de bana doldur."
+      },
+      {
+        "Title": "Hazine Sandığı Açma: II",
+        "Context": "İstiyorsan senindir."
+      },
+      {
+        "Title": "Hazine Sandığı Açma: III",
+        "Context": "Ganimetler maceracının hakkıdır. Bunların hepsi senin."
+      },
+      {
+        "Title": "Düşük Can: I",
+        "Context": "Hah... Ciddileşelim artık!"
+      },
+      {
+        "Title": "Düşük Can: II",
+        "Context": "Sıkı bir düşman!"
+      },
+      {
+        "Title": "Düşük Can: III",
+        "Context": "Biraz fazla havalara girdim..."
+      },
+      {
+        "Title": "Düşük Canlı Takım Arkadaşı: I",
+        "Context": "Müttefiklerini korumak bir şövalyenin görevidir!"
+      },
+      {
+        "Title": "Düşük Canlı Takım Arkadaşı: II",
+        "Context": "Geri çekil, bundan sonrası bende."
+      },
+      {
+        "Title": "Yere Serilme: I",
+        "Context": "Poyraz... Burada son bulamaz..."
+      },
+      {
+        "Title": "Yere Serilme: II",
+        "Context": "Hah... Demek ben de ölebiliyormuşum..."
+      },
+      {
+        "Title": "Yere Serilme: III",
+        "Context": "Mondstadt... Sana emanet..."
+      },
+      {
+        "Title": "Hafif Darbe Alma: I",
+        "Context": "Ufak bir çizik sadece!"
+      },
+      {
+        "Title": "Hafif Darbe Alma: II",
+        "Context": "Bir şeyim yok!"
+      },
+      {
+        "Title": "Ağır Darbe Alma: I",
+        "Context": "Bunun izi kalacak."
+      },
+      {
+        "Title": "Gruba Katılma: I",
+        "Context": "Haydi, harekete geçiyoruz!"
+      },
+      {
+        "Title": "Gruba Katılma: II",
+        "Context": "Poyraz bugün nereye esecek?"
+      },
+      {
+        "Title": "Gruba Katılma: III",
+        "Context": "Poyraz Şövalyesi aranızda."
+      }
+    ],
+    "FetterStories": [
+      {
+        "Title": "Karakter Ayrıntıları",
+        "Context": "Varka'nın görkemli hikayeleri hareketli hanlarda dilden dile dolaşır ve bu hikayeler neredeyse her zaman onun olağanüstü doğumuyla başlar.\nBazıları Varka daha kundaktayken iki zehirli yılanın onun gelecekteki kahramanlık yazgısını sonlandırmaya çalıştığını iddia eder. Ancak henüz bir aylık bile olmayan bebek, yılanları birer eline alıp sanki oyuncakmış gibi beşiğinden fırlatıp atmış. Denir ki çift kılıç kullanmanın sırrını da böyle kavramış!\nBazıları da Mondstadt'ta son yüz yıldır görülmemiş şiddette bir kuzey rüzgarının Varka'nın doğduğu saatte güneşli gökyüzünü yardığını söyler. Kurtlar Diyarı'nın derinliklerinden ise birbirine karşılık veren bir kurt ulumaları korosu yükselmiş. Bu, \"Kuzey Rüzgarı\"nın Dört Rüzgarın en kudretlisi olarak yerini geri almak için yeniden yükseleceğinin ilanıymış!\nBazıları onun şövalye olmak için doğduğunu, kaderin gözdesi bir çocuk olduğunu ve ilk nefesinden beri kaderinde büyük işler başarmak yazdığını fısıldar... Tabii bu tür fısıltılar, han masallarının boş laflarından ibarettir.\nMondstadt'ta ne zehirleriyle bebekleri hedef alan ölümcül yılanlar ne de sebepsiz yere uluyan kurt sürüleri bulunur.\nBu masallar, eğlence olsun diye büyük bir tantanayla yüce kader ve kıyamet destanları dokuyan han ozanlarının büyüleyici zırvalarından ibarettir.\nHer efsane efsanevi başlangıçlarla doğmaz, her mitin de bir tanrının eliyle yönlendirilmesi gerekmez.\nVarka, ne rüzgarın estiği ne de yağmurun yağdığı son derece sıradan bir günde, ne yoksul ne de varsıl bir evde en sıradan şekilde dünyaya geldi.\nNe bir tehlike baş gösterdi ne de bir alamet ortaya çıktı. İlerleyen günlerde Mondstadt'taki diğer sıradan çocuklardan farksız bir şekilde büyüdü.\nOzanların şövalyeler ve tanrılarla ilgili masallarını dinlerken, tıpkı o masallardaki kahramanlar gibi bir gün savaş alanına atılmanın hayalini kurardı.\nYine de masallar bittiğinde ve çocuklar ikişer üçer ayrıldığında Varka hep orada kalır, bitmek bilmeyen sorularını sorardı...\n\"Neden kahramanlar hep kadim bir soydan gelir ya da unutulup gitmiş tanrıların lütfuyla kutsanır?\"\nOzanlarsa sadece garip bir gülümsemeyle şu cevabı verirdi: \"Hikayeler ezelden beri hep böyle anlatıldı.\"\n\"Öyleyse o kadim soyları kim başlattı? Tanrılar tanrı olmadan önce onları kim kutsadı?\"\nBu noktada çoğu ozan sessiz kalırdı. Bir avuç kadarı ise Favonius Şövalyeleri Kütüphanesini işaret ederdi.\n\"Bu soruların cevapları için 'hikayelere' değil, 'tarihe' bakman gerek.\"\nVe bu tür sorulardan yorulmuş olan daha da az sayıda ozan, şehir surlarının ardındaki sınırsız vahşi doğayı işaret ederdi...\n\"Nereden bileyim ben? Alt tarafı bir ozanım! Git Barbatos'a sor!\"\n...\nYıllar sonra Varka, yeni neslin \"Efsanevi Şövalyesi\" ve kendi masalının kahramanı olduğunda, ozanların içinde bulunduğu zor durumu nihayet anlamıştı.\nGerçekliğin bir gerekçeye ihtiyacı yoktur, bir hikayeninse dinleyicilerini kendine inandırması gerekir.\nSıradan bir dinleyici için bunu kavramak neredeyse imkansızdır. Ölümlü biri, arkasında kadim soylar veya ilahi lütuf olmadan, yalnızca durmak bilmeyen bir çabayla ve boyun eğmez bir iradeyle nasıl bir efsane yaratabilir?"
+      },
+      {
+        "Title": "Karakter Hikayesi 1",
+        "Context": "Genç Varka, Şövalyelerin hazırlık sınavlarına ilk katıldığında tüm sınav görevlilerin ayağını yerden kesmişti. Evet, kelimenin tam anlamıyla hepsi yere yapışmıştı.\nVarka özgüvenle dolup taşmış, resmi olarak şövalyeliğe atanmayı beklerken gelen bir ret mektubu tüm hayallerini tuzla buz etti.\n\"Varka'ya: Öncelikle, bu değerlendirmeye katılımından ötürü içten takdirlerimizi sunmak isteriz. Yeteneklerin ve şövalye olma arzun üzerimizde kalıcı bir izlenim bıraktı.\"\n\"Ancak dikkatli bir değerlendirme ve kapsamlı bir incelemenin ardından, üzülerek belirtmek isteriz ki...\"\nVarka, yazanların geri kalanını okumadan mektubu buruşturup bir top haline getirdi ve çöp sepetine attı. Sonra da sıradaki hamlesini planlamak için kağıt kalem aldı eline.\nİşte o gece, eski Büyük Kumandan ve önceki Aslandiş Şövalyesi olan Valentine, bir şeyler içtikten sonra evine dönerken bir saldırgan tarafından pusuya düşürüldü.\nTüm hizmetkarları yere serilmişken Valentine, saldırganla tek başına yüzleşmek zorunda kaldı. Hem etkilenmişti hem de nutku tutulmuştu.\nEtkilenmişti çünkü saldırgan hayal ettiğinden çok daha yetenekliydi ve yarım günden daha kısa bir sürede pusuyu tasarlayıp uygulama becerisi şaşırtıcıydı.\nNutku tutulmuştu çünkü saldırganın saçma sapan açıklaması onu şaşkın bir sessizliğe boğmuştu: Eğer Favonius Şövalyeleri kendi Büyük Kumandanlarını bile koruyamıyorsa Mondstadt'ı nasıl koruyabilirlerdi? Bu işi ona verseler daha iyi olurdu!\n\"Sana yazdığım mektubu... Sonuna kadar okumadın mı?\" \"Ne? Ret mektuplarını kim sonuna kadar okur ki?\" \"Ben önemli kısmı her zaman not kısmına yazarım.\"\nNeyse ki Valentine, mektubun sonundaki notta da belirttiği üzere, Varka'yla zaten bizzat konuşmayı planlıyordu. Ama Varka'nın düşüncelerini eyleme dökme hızı, buluşmalarını epey öne çekmişti.\nBöylece, hizmetkarları sarsarak uyandırdıktan ve her birinden teker teker özür diledikten sonra Varka, beraber bir şeyler içip reddinin ardındaki nedenleri dinlemek üzere Valentine'ı takip etti.\nİkili, içki eşliğinde uzun uzun konuştu. Ama sonunda olayın özü oldukça basitti: Özgür doğan rüzgar, şehir duvarları arasına çok erken hapsedilmemeliydi.\nValentine, Varka'nın Mondstadt'ta muhafızlık yapmak veya şehrin eteklerinde devriye gezmek yerine uzak uluslara ve keşfedilmemiş topraklara açılması gerektiğine inanıyordu.\nTıpkı bir deyişte dendiği gibi: Ozan ancak binlerce melodi çalışarak olağanüstü bir akor basabilir, demirci ancak binlerce kılıcı inceleyerek efsanevi bir silah dövebilir.\n\"Kaldı ki seni gerçekten üç yıl boyunca... Hatta yılı geçtim, üç ay boyunca bir ofiste oturtsak istifanı anında basardın!\"\nValentine'ın bu keskin tespiti karşısında Varka kaçamak bir kahkaha attı ve \"Üç gün, bilemedin beş gün\" dememek için şarabından bir yudum aldı.\nValentine'ın gülümsemesi yerini ciddi bir ifadeye bıraktı: \"Asıl isteğim neden şövalye olmak istediğini. Bunun cevabı ne senin o hayalperest fantezilerin ne de bir ozandan dinlediğin öyküler olmalı. İşte bu sorunun cevabını bulduğun zaman Mondstadt'a geri dön.\"\nHemen ertesi gün Varka, özgür rüzgarı şehir surları içinde kalmaya razı edecek... Ve onu bir \"şövalye\" yapacak şeyi bulmak adına bir yolculuğa çıktı.\n\"... Şövalye olmak uğruna kendini her gün nefret ettiğin bir işi yaparken bulsan bile.\"\nGenç adam, Dornman Limanı'nın tuzlu esintisiyle yükselen güneşe karşı gözlerini kıstı ve yaşlı şövalyenin ağırbaşlı nasihatini bir kez daha hatırladı.\n\"... Ve yine o unvan uğruna ihtişamdan ve o çok değer verdiğin gururundan vazgeçmen gereksen bile.\""
+      },
+      {
+        "Title": "Karakter Hikayesi 2",
+        "Context": "Başka diyarlar sınırlarını çizene dek ortada bir vatan yoktu.\nVedalar adını koyana dek ortada hasret yoktu.\n...\nSeamus Pegg bu kısa mısraları defterine yazarken Varka kamp ateşinin başında çömelmiş, bir testi şarap ısıtıyordu.\n\"Bana sorarsan mutlaka Mondstadt'a gelmelisin. Şarkılara ve kelimelere olan bu yeteneğinle çok meşhur olursun!\"\n\"Bakarız.\" Seamus, Varka'dan bardağı aldı ve umursamazca omuz silkti. \"... En azından bahsettiğin şu Karahindiba Şarabı denemeye değer gibi duruyor.\"\nUzak bir diyarda bir kış gecesi, kendi memleketlerinden uzakta, gelecek vadeden iki maceracının yolları şans eseri kesişmişti.\nVarka çoktan birçok ulusu gezmişti.\nDağların zirvelerinde gezinen ve okyanusları devasa dalgalara dönüştüren korkunç yaratıklara tanık olmuştu. Düşman sürülerine karşı ilkel mızraklar ve bez zırhlardan başka bir şeyleri olmadan savunma yapan cesur adamlar görmüştü. Taşordu, Jandarma... Farklı diyarlardan, farklı isimlerle anılan ama aynı iradeyi paylaşan farklı insanlar.\nYine de umutsuzca aradığı cevapla arasında hâlâ bir perde asılıymış gibi hissediyordu. Başka uluslarda yıllar akıp giderken sabit kalan tek şey memleket hasretiydi.\n\"Merak ediyorum da... Genç efendi Crepus geri dönüp şaraphanenin başına mı geçti, yoksa sonunda şövalye olma hayalini mi gerçekleştirdi?\"\n\"Peki ya ağzından kimse için iyi bir laf çıkmayan Frederica? Yoksa güneş batıdan mı doğdu? Şanslı bir adama gönlünü mü kaptırdı?\"\n\"Peki ya Eroch? Şövalyelik kurallarına uymadığım zamanlar bunu hemen yüzüme vururdu. Zamanla daha merhametli biri oldu mu?\"\n\"Acaba memleketteki şarabın tadı hâlâ hatırladığım gibi midir? Acaba ailem de beni, benim onları özlediğim kadar sık özlüyor mudur?\"\n\"Madem bu kadar merak ediyorsun, neden geri dönmüyorsun?\" Seamus, Varka'nın bitmek bilmeyen gevezeliğini dobra bir soruyla kesti. \"Sen benim gibi değilsin. Benim Nod-Krai'da özleyecek kimsem kalmadı.\"\n\"Geri dönmek mi? Ben cevabımı hâlâ bulamadım ki...\"\n\"Az önce hakkında bir şeyler gevelediğin o insanlar... Neden senin cevabın onlar olamasın?\"\nVarka sessizliğe büründü, bardağı dudaklarına giderken donakaldı. Sanki kalbindeki bir perde yırtılmıştı.\n\"Yuva\" hiçbir zaman belirsiz bir kavram olmamıştı. Aynı şekilde, \"şövalye\" olmanın sebebi de asla yüce ve asil bir amacın yükünü gerektirmemişti.\nFakat... Bu denli basit bir gerçeği anlamak nasıl bu kadar uzun sürmüştü? Şimdi geri dönerse memlekettekiler ona katıla katıla gülmez miydi?\nBir kahramanın uyanışı efsanevi bir anda gerçekleşmez miydi, ardından destansı bir vakitte muzaffer bir dönüş yaşanmaz mıydı? Ozanların hikayelerinde olaylar böyle gelişmezdi ki!\nÖte yandan belki de gerçek, insanların sandığı kadar basit değildi. Ne de olsa insan evini özlemeyi öğrenmek için önce evinden ayrılmalıdır...\nVarka'nın düşüncelerindeki kargaşayı sezen Seamus, boğazını temizledi ve not defterini aniden kapattı.\n\"Pekala, madem bir sebebe bu kadar ihtiyacın var, beni Mondstadt'a götürmeyi görevin say. Hem zaten sürekli bahsettiğin şu Freder... Öhöm, Karahindiba Şarabını görmek istiyordum ben de! Gerçekten söylediğin kadar etkileyici mi merak ediyorum!\""
+      },
+      {
+        "Title": "Karakter Hikayesi 3",
+        "Context": "Varka, Poyraz Şövalyesi unvanını aldığından beri önderlik ettiği bütün seferlerden zaferle döndü.\nAslandiş eğer toprağın bereketinin bir kutsamasıysa Poyraz da müthiş bir kuvvetin ardındaki sarsılmaz iradedir. İster diyarı kasıp kavuran aşağılık haydutlar ve canavarca dehşetler ister Hiçliğin sinsi karanlığı olsun, hepsi Kuzey Rüzgarının dondurucu soğuğuna sahip bir kılıcın altında tuzla buz olur.\nBir dizi seferin ardından bölgedeki tüm tehlikeler tamamen temizlendi ve Mondstadt daha önce kimsenin tanık olmadığı altın bir barış çağına girdi.\nBarış o kadar kolay elde edilmişti ki insanlar bunu doğal bir düzen olarak görmeye başladı. Bu huzur çağında Şövalyelerin kılıçlarını bırakıp günlerini kayıp kedileri bularak veya yaramazlık yapan köpeklerle uğraşarak geçirmeleri gerektiğine dair bir kanı oluştu...\nVarka, Büyük Kumandan olduktan sonra bu sesleri bastırdı ve bir sonraki keşif seferi için hazırlıklarına devam etti.\nMaceracı olarak geçirdiği ilk yılları ona daima şunu hatırlatıyordu: Keyfini çıkardıkları bu huzur mutlu bir tesadüften ibaretti. Gözle görülür bir tehdidin olmaması, tehlikenin ortadan kalktığı anlamına gelmiyordu.\nHiçlik Kuzeyde büyümeye devam ediyor, canavarlar hâlâ dalgaların altında gizleniyordu; Durin hâlâ karlı dağlarda yaşıyordu, Ursa ise yalnızca derin bir uykudaydı... Bunlardan herhangi biri, binbir zorlukla kazanılan barışı paramparça edebilirdi.\nOna yol gösteren kıdemliler yaşlanmıştı: Aslandiş Şövalyesi Valentine, Süvari Yüzbaşı Feroux, Menzilli Bölüğü Yüzbaşısı Adorno... Ama yeni nesil şövalyelerin daha öğrenecek çok şeyi vardı.\nVarka, bir gün kendi parlak çağının da yaşlandıkça solup gideceğini gayet iyi biliyordu.\nBüyük Kumandan olarak gelecek nesle daha fazla zaman kazandırmak istedi. Bir savaşçı olarak ise en iyi yılları geçmeden önce gücünü en zorlu düşmanlara karşı sınamak istiyordu.\nVe böylece Varka, Mondstadt'ın işlerini kıdemli şövalyelere ve Müfettiş Eroch'a emanet ettikten sonra bir kez daha keşif seferine çıktı.\n... Fakat bu defa en yıkıcı yenilgisini yaşadı.\nŞövalye, kendi göz kamaştırıcı ihtişamından dolayı, içinde kıskançlık ve kötü niyetin kök salmaya başladığı gölgesini göremedi.\nVarka, Mondstadt'a dönüp Favonius Şövalyelerine katıldığı günden beri Eroch'un kalbinde çarpık bir tohumun kök saldığını hiç fark etmedi.\nVe Doktor'un Parçaları, Eroch'un kulağına büyük güç ve iktidar vaatleri fısıldadığında adamın içindeki karanlık bir sel gibi kabardı.\n\"Günlerini başka uluslarda aylaklık ederek geçiren bir avare, tarihin en güçlü Poyraz Şövalyesi olarak mı anılıyor?\"\n\"Kendisi tüm şövalyelik kurallarını hiçe sayan kanunsuz bir deli olmasına rağmen diğer şövalyelere ahkam mı kesiyor?\"\nRüzgarın yönünü değiştirmesi ne kadar kolaysa, çarpık takıntıların ve zamanın akışının dostları düşmana dönüştürmesi de o denli kolaydır.\nVarka'nın yerine düzeni koruması gereken Müfettiş, görevini yerine getirmektense adaletin ilkelerini ayaklar altına aldı.\nMührün güvenliği kendisine emanet edilmiş olan Eroch, Doktor'la birlikte göklerin gücünü ele geçirme planları yaparak kadim bir dehşeti uykusundan uyandırdı.\nVarka bir kez daha sınırların ötesinde zorlu düşmanları alt edip Mondstadt için cephe hattını tutarken memleketten yıkıcı bir haber geldi: Eski dostu Crepus savaşırken ölmüş, Müfettiş Eroch ise ona ihanet etmişti.\nVarka alelacele geri döndü ve hemen Eroch'un iş birlikçilerinin kökünü kazımaya başladı. Ancak Eroch'un yıllar içinde Mondstadt'a açtığı yaralar çok derindi.\nVarka tarafından köşeye sıkıştırılan ve kaçacak yeri kalmayan Eroch, çılgınca kahkahalar atarak kendi canına kıydı.\nBu kahkahalarda kelimeler yoktu ama her bir notası, \"Tanrılara Kafa Tutan Büyük Kumandan, Yenilmez Poyraz Şövalyesi\" ile açık ve iğneleyici biçimde alay ediyordu.\n\"Bak sen şu işe. Tökezledin. Başarısız oldun.\"\n\"Sen de insansın sonuçta.\""
+      },
+      {
+        "Title": "Karakter Hikayesi 4",
+        "Context": "Bir kişi ne kadar kudretli olursa olsun, hatta tanrılarla boy ölçüşecek mertebede bir güce sahip olsa bile her şeyi koruyamaz.\nBu engin dünyada daima gizli kalacak köşeler, bu öngörülemez hayatta asla tahmin edilemeyecek komplolar vardır.\nMondstadt'ın özgürlüğü ve huzuru büyük bir bedel karşılığında kazanılmıştı; bunları korumak tek bir insanın ya da tek bir tanrının başarabileceğinden çok daha zor bir görevdi. İnsan ne kadar hazırlıklı olsa azdı.\nBu sebeple Favonius Şövalyeleri de çağa ayak uydurmalıydı.\nMenzilli Bölüğü, durdurma gücünü artırmak üzere yeni ateşli silahlarla donatılmalı; Destek Bölüğü ise savaş alanının değişen yüzüne uyum sağlamak için modern istihkamlar geliştirmeliydi...\nYalnızca birkaç seçkin kahramanın kudretine bel bağlamaya gerek yoktu. Stratejilerin ve ekipmanların evrimi, her bir şövalyenin savaştaki verimliliğini ve hayatta kalma şansını somut bir şekilde artırabilirdi.\nBu nedenle Favonius Şövalyeleri, süregelen bir miras oluşturmalıydı.\nBüyümelerini izlediği yeni nesil şövalyeler artık kendi başlarının çaresine bakabiliyordu. Birçoğu şimdiden birliğin yeni belkemiği olarak hizmet veriyordu.\nAncak hâlâ bir şövalye olmanın ne anlama geldiğini tam olarak kavrayamamış, bu unvanın ağırlığını yüklenmeye hazır olmayanlar vardı. Tıpkı gençliğinde Varka'nın da olmadığı gibi.\nİşte bundan ötürü Mondstadt'ın kararlı ve güvenilir müttefikleri olmalıydı.\nRüzgar Hükümdarı'nın aracılığıyla Varka, Üçlü Görüşmede yerini aldı. Kurnaz cazibesi ve tatlı diliyle dünyanın kurallarının ötesinde yürüyen bir büyücüyü kendi tarafına çekmeye çalıştı.\n\"Bir şövalyenin ağzının bu kadar laf yapmasını hiç beklemezdim... Acaba Barbatos ona sufle mi veriyor diye düşünmedim değil.\" Alice, Varka'nın bu tavrını böyle değerlendirmişti.\nGünün sonunda büyücüler anlaşmanın altına isimlerini yazdılar. Varka'nın sözlerinden etkilenmemişlerdi belki de... Ya da belki kendince sebepleri vardı.\nHer halükarda, Mondstadt bu anlaşma sayesinde geleceği için bir güvence daha kazanmıştı.\n...\nAnlaşmaya göre, büyücülerin birleşik güçleriyle hazırlanan imtihan nihayet tamamlandı. Çok uzun zamandır gücünün tamamını serbest bırakmamış olan Varka, sonunda bütün dünyevi görevlerini bir kenara koyup kendini gerçekten heyecan verici bir dövüşe kaptırabilirdi.\nİmtihanın sonunda büyücüler, şövalyeden bir dilek tutmasını istediler ama şövalyenin isteyecek bir şeyi yoktu. Korumaya çalıştığı şehir güvendeydi, arzu ettiği gücü de kendi elleriyle elde etmek istiyordu.\nVe böylece Varka anlık bir hevesle Barbeloth'un kehanet küresine bir göz atıp atamayacağını sordu. Sırf içindeki o ani merak kıvılcımını gidermek için.\nSavaşın heyecanı daha sönmemişken Varka, kehanet küresinde kaderin planının bir yansımasını gördü.\nSuyun yansıttığı görüntü, aynı anda hem sınırsız bir görkemin hem de bitmek bilmez bir ızdırabın görüntüsüydü.\nÇocukluğundan beri hayran olduğu efsanelerin gerçek ejderhalara karşı mücadele ettiğini gördü. Onların, kanlı savaşın hararetiyle kendi sınırlarını aştıklarını ve kalabalığın tezahüratları eşliğinde hayallerindeki kahramanlara dönüştüklerini gördü.\nAma aynı zamanda Nod-Krai ve Snezhnaya topraklarına sinsi sinsi yayılan karanlık bir felaket de gördü ve karla kaplı ovaların derinliklerinden yabancıların çığlıklarının yankılandığını duydu.\nNeden bir şövalye olmak istiyordu ki? Varka, gençlik yıllarında kendine bir cevap vermişti: Sevdiği ve onu seven insanları korumak için.\nŞimdiyse kader onu daha soğuk, daha keskin bir soruyla karşıladı: Bir şövalye, adını bile bilmeyenler için savaşmaya devam eder miydi?\nMadem kader elini açık edecek kadar cüretkardı, o zaman neden eline verilen kartları oynamasındı ki? Fırtına henüz Mondstadt kıyılarına ulaşmadıysa neden Kuzeydeki gölgelerin peşinden gitmek için hayallerini bir kenara atsındı?\nTereddüt etmeye gerek yoktu. Asi Kuzey Rüzgarı her daim kendi isteklerinin peşinden gitmişti. Ve özgür doğan her Mondstadt çocuğu, kalbinde aynı cevabı taşırdı.\n\"Hiçbir zorbanın önünde boyun eğmeyiz biz, bizzat kaderin kendisi çıkıp gelse bile!\""
+      },
+      {
+        "Title": "Karakter Hikayesi 5",
+        "Context": "Birçok ulusta popüler bir oyun olan Masa Oyunu Topluluğunun tadını çıkarmanın sayısız yolu vardır. Sefer kuvvetleri bile boş zamanlarında şövalyelerin stratejik düşünce kabiliyetini geliştirmeye yardımcı olması için bu oyunu kullanır.\nGelenekçiler, oyunun kalbinde rol yapmanın ve anlatının yer aldığı konusunda ısrar eder. Ancak her oyunun kendine has kuralları vardır ve kurallar olduğu sürece onları mutlak sınırlarına kadar zorlayan oyuncular da olacaktır.\n\"Ben 'karakter' olarak erdemli ve onurlu bir şövalyeyim ama bir zamanlar yolum lanetli bir kılıçla kesişti! Kılıcın öfkesini bastırmak için onu sürekli yanımda taşımaktan başka çarem yok...\"\n\"Ve sıradan bir ozan olmama rağmen taşra hanlarında duyduğum söylentiler bana büyünün gizli derinlikleriyle ilgili pek çok sır öğretti...\"\nBir de kimin en iyi olduğunu görmek için bu \"karakterleri\" birbiriyle kapıştırmakta ısrar eden insanlar vardır.\n\"Yüksek seviyeli bir Çi Enerjisi Ustası tek turda beş kez saldırabiliyor mu? Üstelik bir de tek sıçrayışta çatılara mı çıkıyor? Fazla kuvvetli!\"\n\"Peki ya büyüyle karşılaşırlarsa ne olur? Kolay lokma olurlar! Büyücüler net biçimde daha üstün, dünyayı yeniden şekillendirebiliyorlar.\"\n\"Hayır, hayır, bak şimdi. Kahraman bir ozan saldırırken büyü yapabilir, eğer bu diğer meslekleri de biraz öğrendiyse... Sadece büyü yapmakla kalmaz, aynı zamanda tek bir turda hedefine yirmi defa vurabilir!\"\n\"Sistemin açığından faydalanmaktır yalnız bu!\" \"E kural kitabında öyle yazıyor, ne yapayım!\"\nSefer kuvvetlerinin kum masası etrafında ne zaman böyle bir anlaşmazlık yaşansa tüm o atışmalar tek bir soruyla son bulurdu:\n\"Büyük Kumandan, siz ne diyorsunuz?\"\nBüyük Kumandan ve Oyun Yöneticisi olarak Varka'nın cevabı oldukça netti.\n\"Ekbert, Çi Enerjisi Ustan altı görünmez duvar arasına sıkıştı.\" \"Offf!\"\n\"Winfried, bir Su Ejderi seni suyun altına çekti. Artık büyü yapamazsın.\" \"Iıı...\"\n\"Leifhelm... Kurallara göre saldırırken büyü yapabilirsin.\" \"Hah! En kuvvetli benim dememiş miydim?\"\n\"O halde şimdi tam da senin büyülerini saptıran devasa bir yaratıkla karşı karşıyasın. Acele etme.\"\nBirkaç tur süren feryatlardan sonra üç şövalyenin karakteri de trajik biçimde bozguna uğradı.\n\"... Bir kişi tek başına ancak bir yere kadar kuvvetli olabilir. Dünyadaki tehlikelerinse sonu gelmez. Neyse ki şu anda sadece bir masaüstü oyunu oynuyoruz ve Hiçliğin karşısında durmuyoruz.\"\nVarka, bir karakteri temsil eden son satranç taşını hiç tereddüt etmeden devirdi.\n\"Bir dahaki sefere savaşa bodoslama dalmadan önce düşmanı incelemeyi ve görev dağılımı yapmayı unutmayın! Masa Oyunu Topluluğunun tek kişilik bir oyun olmadığını Lohen bile bilir!\"\n...\nİnsan ömrünün gelip geçici yılları ve kıt bilgeliğiyle, özellikle de bu dünyanın sayısız düşmanına karşı kimse tek başına savaşamaz.\nAncak dağılmış közler bir araya getirildiğinde ve her biri önündeki boşluğu tutuşturduğunda ışıkları birbirine karışır ve böylece yıldızlara ve aya rakip olur.\n\"Senin için bir Tanrının ruhu hediye değil, ölümcül bir zehir. İnsanlığın gücü çetin bir emekle kazanılır. Bunu yapmak istediğinden emin misin?\"\nSefer gücünün yola çıkışının arifesinde Kurtların Hakimi, ziyaretine gelen şövalyeye tam da bu soruyu sormuştu.\n\"Kuzey Rüzgarı Tanrısı'nı katledebilecek tek kişi kesinlikle ben değilim.\"\nVarka her zamanki gibi sırıtıyordu, sanki önünde duran görev sıradan bir işten ibaretmiş gibi.\n\"Fakat tarih boyunca Kuzey Rüzgarı Tanrısı'na gerçekten 'karşılık verebilen yegane kişiler Poyraz Şövalyeleri olmuştur. Yanılıyor muyum?\"\n\"... Değişmişsin anlaşılan.\"\nKuzey'in Kurdu gözlerini kapadı. Bir anlığına gücün zirvesine ulaşma yolundaki amansız arayışında kendisine defalarca meydan okumuş olan o cüretkar genç şövalyeyi bir kez daha görmüş gibi oldu.\n\"Geçmişte kendi gücünü asla bu şekilde boşa harcamazdın.\"\n\"Salt güçten çok daha kıymetli, uğruna canımı vereceğim bir şey buldum.\"\nSabah ışığı, Kurtlar Diyarı'nın sisli ve dolaşık dallarının arasından süzülüp şövalyenin zırhına vuruyordu. İster bir duyu yanılması ister daha fazlası olsun, delice esen rüzgar uzaklardaki şehrin yankılarını taşıyordu.\nÇocukların şen kahkahaları, yaşlıların iyi niyetli homurdanmaları... Örsün üzerinde çekiçten çıkan ritmik ses, kaliteli şarap kadehlerinin şıngırdaması... Sancaklar rüzgarda dalgalanıyor, şövalyeler sıra sıra duruyordu.\n\"Bu arada, benim şu 'güç' meselesine gelince...\"\nVarka elini savaşta yıpranmış büyük kılıcının üzerinde gezdirdi, sonra onu bir kez daha omzuna aldı.\n\"Benim gücüm arkamdaki herkestir.\""
+      },
+      {
+        "Title": "Kurdun Eve Dönüş Şarkısı",
+        "Context": "Söylentilere göre Poyraz olarak bilinen ilk Şövalye, canavar avından her döndüğünde handa aynı şarkıyı mırıldanırmış.\nTıpkı şövalyenin kendi adı gibi, mırıldandığı şarkının kökeni de çağlar içinde kaybolmuştu. Belki de uzak bir diyardan getirdiği bir yankı ya da rüzgarda sürüklenirken tesadüfen duyduğu bir melodiydi. Veyahut şövalye tarafından kurtarılan meteliksiz bir müzisyenin ödeme niyetine bestelediği küçük bir ezgi de olabilirdi.\nHer halükarda bu melodi şövalyenin kalbini fethetmişti. Asla bıkmadan binlerce kez mırıldandı. Ve her dönüşünde bu melodiyi mırıldandığı için, sonunda bu herkes için bir işaret haline geldi. Han müdavimleri ne zaman bu şarkıyı duysa şövalyenin zaferle döndüğünü anlardı. Kasaba halkı duyduğunda ise surların ötesindeki canavarların nihayet katledildiğini bilirdi.\nDaha sonra, şövalyenin yoldaşı sonsuza dek rüzgar diyarında kalırken şövalye ise yeni bir yolculuğa çıktı. O zamandan beri bu melodi hafızalardan silinmiş gibi görünüyordu.\nYıllar sonra demircinin oğlu Ravenwood, Poyraz adı altında bir kez daha ağır çift elli kılıcı kuşandı. Kalabalık tezahürat yaparken hep bir ağızdan bir kez daha şövalyenin eve dönüş ilahisini söylediler.\nBöylece bu melodi, Poyraz unvanıyla birlikte Mondstadt'ta sonsuza dek yaşadı; ozanlar tarafından nesiller boyu aktarılarak sayısız farklı versiyona ve bir sürü efsaneye konu oldu.\nEfsaneye göre Işığın Aslanı Arundolyn'in birlikleri, bir zamanlar kuzeyi baştan başa geçerken topraklara musallat olan felaketleri temizleyip coşkulu bir zafer marşı söylemiş.\nBir başka efsaneye göreyse \"Yavru Kurt\" Rostam bir zamanlar yıldızların altında naif bir noktürn dinleyerek huzurla rüyalar diyarına dalmıştır.\nVe böylece şarkının sözleri, sanki asla sonuna ulaşılamayacak bir kahramanlık destanıymış gibi her geçen yıl uzadıkça uzadı.\n...\nVarka, Büyük Kumandan olduğundan beri ilk seferine çıkıyordu. Geleneklere uyularak şövalyeler talim kampında toplandı ve eve zaferle sağ salim dönmek için dua ettikleri eski şarkılar söylediler.\nVarka, toparlanmayı kısa bir konuşmayla sonlandırdıktan sonra ofisinin kapısını iterek açtığında masasının üzerine birinin uzun ve geniş bir hediye kutusu bıraktığını gördü.\n\"Kullandığın ikincil kılıcın artık tamir edilemez halde, değil mi? En iyisi onu hemen yenisiyle değiştir.\"\n\"Senin kılıç kullanma tarzınla en iyi kılıç bile bir sarf malzemesinden farksız oluyor... Umarım bu kılıç sana biraz daha uzun süre dayanır.\"\n\"Ayrıca doğum günün kutlu olsun. Sen unutmuş olabilirsin ama biz kesinlikle unutmadık.\"\nMektubu çevirdiğinde arkasına karalanmış imzalar ve bir not gördü.\n\"Seamus, Frederica, Valentine ve tüm Favonius Şövalyeleri.\"\n\"Not: Bu Kılıca ne isim vereceğimizi çok uzun bir süre tartıştık. Maalesef bir karara varamadık, bu yüzden biz de ismini sahibinin koymasına karar verdik.\"\nTalim kampında şövalyelerin şarkıları henüz kesilmemişti. Kalın birkaç taş duvara rağmen sesleri hâlâ net bir şekilde duyuluyordu.\nVarka, kabzanın soğuk çeliğini kavrayarak kılıcını dışarıda parıldayan ay ışığına doğrulttu. Varka'nın kalbinde hiç dinmeyen bir şiir ve şarkı dalgası yükseldi, gür bir şekilde yankılandı:\nZafere! Adalet ve sarsılmaz şövalyelik adına!"
+      },
+      {
+        "Title": "Önsezi",
+        "Context": "İnsanlık, bir Önsezinin lütfu olmadan dahi büyük işler başarabilir.\nNatlan'da insan kral, kahramanlara kutsal tahta doğru öncülük etti. Fontaine'de bir dahi, numeroloji aracılığıyla dünyanın kaderini çizdi. Liyue'de mızrağın ve kılıcın büyük ustası, rakipsiz biçimde diyarları fethetti.\nUçsuz bucaksız zaman ve insanlığın bitmek bilmeyen gelgitleri boyunca, alışılagelmiş düzene meydan okuyanlar her daim ortaya çıkacaktır.\nMondstadt'ta da bir zamanlar kendisine Önsezi lütfedilmemiş bir şövalye vardı. Saf güç ve hızla kuvvetinin zirvesine ulaştı. Bir elinde çift elli kılıç, diğerinde uzun kılıç tutarak ilahi güçlerle denk görülebilecek bir kılıç dansı sergiledi.\nAncak böylesine büyük bir ham yetenek, sadece şans eseri ortaya çıkmış bir istisnaydı. Işığın Aslanı'nın ölümünden bu yana Mondstadt, onun dehasına varis olacak birinden mahrum kalmıştı. \"Mükemmel Şövalye\" olarak anılan, hem Yavru Kurt'un hem de Işığın Aslanı'nın büyük umudu olan kişi bile bu dansı tam olarak öğrenemeden kanlı bir seferde hayatını kaybetmişti.\nDaha sonraki nesillerin şövalyeleri arasında hem çift elli kılıç hem de uzun kılıç kullanımında ustalaşan pek çok kişi oldu. Yine de hiçbiri, her iki kılıcı da kendi kollarının bir uzantısıymış gibi kullanan asıl ustanın dengi olamadı.\n...\nBu sorun Varka'nın önüne çıktığında o bile ne yapacağını bilememişti.\nIşığın Aslanı'na rakip olacak ham fiziksel kuvvetten yoksun değildi. Ancak çok geçmeden iki kılıç kullanmanın sadece kaba kuvvet değil, aynı zamanda ustaca bir teknik de gerektirdiğini keşfetti. Bu teknik olmadan en güçlü denemeleri bile onu zorlanmış ve dengesiz bırakıyordu; her hareket bir öncekini bozuyordu. Onun için bu, tek bir kılıcın saf ve kararlı hızından çok daha az etkiliydi.\nŞövalyelerin kayıtlarında bu kılıç dansının tekniğine dair herhangi bir açıklama bulunmuyordu. Belli ki Varka'nın selefleri, tekniğin şiddetine o kadar odaklanmışlardı ki inceliğini hafife almışlardı.\nAma bunun pek bir önemi yoktu. Kılıç dansının tam hali insanlık tarafından çoktan unutulmuş olsa da Kurtlar Diyarı'nda, Işığın Aslanı'na ihtişamının doruğundayken tanıklık etmiş biri olabilirdi.\nO zamanlar o genç ve küstah şövalye, içgüdüleriyle hareket eden bir tipti. Bu yüzden bir elinde bir testi şarap ve sırtında iki kılıçla tepelere doğru yola koyuldu.\n...\nBir gün geçti, ardından bir gün daha. Kuzeyin Şanlı Kurt Kralı uluyup kükredi ve Varka da onunla birlikte uluyana dek dayak yedi.\nÜç gün, sonra dört gün geçti. Ulumalar ve kükremeler yerine kılıçların sivri dişlere ve pençelere çarpmasından çıkan ve giderek netleşen keskin sesler duyulur oldu.\nPoyraz Kurdu, hatırladığı kadarıyla binlerce yıllık ömründe böyle bir rakiple çok nadir karşılaşmıştı.\nİmtihanı uzun zaman önce kazanmış olsa da defalarca hücum etmeye devam etti. Bir tanrının lütfunu kazanmıştı ama yine de kendisinin en sert eleştirmeniydi.\nAma... Poyraz Kurdu'nun içini başka bir soru kemiriyordu.\nBeraberlikle sonuçlanan bir başka düellonun ardından bir testi içkiyi kafasına diken şövalyeye çevirdi bakışlarını.\n\"İnsan... Kuvvetin mutlak, hükmünse hiddetli bir ateş... Bu çağda Poyraz unvanı senin hakkın.\" Poyraz Kurdu bir anlığına sessizliğe büründü. \"... Öyleyse neden semaların bakışları henüz üzerine düşmedi?\"\n\"Göklerin bakışları mı? Ha, Önsezimden mi bahsediyorsun? İşte burada.\"\nVarka umursamazca omuz silkerek belinin arkasına sıkıştırdığı göz alıcı parlaklıkta bir mücevheri ortaya çıkardı.\n\"Sanırım bir gün bir şeyler içerken bardağımda beliriverdi... Ya da acaba bir maceradan sonra kazandığım ganimetlerin arasında mı bulmuştum?\"\n\"Göklerin gözü bunca zamandır sende miydi? O zaman neden gücünü kullanmıyorsun?\"\n\"Arundolyn kılıç dansını Önsezisi olmadan yarattıysa benim de aynı koşullar altında yeniden yaratmam en doğrusu olur.\"\nAcele etmeden ayağa kalkan Varka, kollarını silkeledi ve kılıçlarını yeniden sağlamca tuttu.\n\"Sırada ne olduğuna gelince... Soluklandın mı bakalım ey Yüce Kurt Kralı?\"\nKılıçlarını çapraz tuttu. Belindeki Önsezi ilk kez kör edici bir ışıkla parladı.\n\"Şimdi onu aşacağım!\"\nÖğrenmek, miras almak ve sonra da ötesine geçmek.\nİnsanlığın ezelden beri en iyi yaptığı şey budur."
+      }
+    ]
+  },
+  "Costumes": [
+    {
+      "Id": 212800,
+      "Name": "Kuzey Rüzgarına Bir Yemin",
+      "Description": "Varka'nın giysisi. Bir şövalyenin iradesi tüm zırhlardan daha sağlamdır, Poyraz'ın azmi ise en keskin kılıçtan dahi keskindir. Bu demir zırhı giyip yeminini ettiği gün daha dün gibi aklında, oysa üzerinden uzun yıllar geçti.",
+      "IsDefault": true
+    }
+  ],
+  "CultivationItems": [
+    104154,
+    113085,
+    100021,
+    112124,
+    104303,
+    113074
+  ],
+  "NameCard": {
+    "Name": "Varka: Lider Kurt",
+    "Description": "İsim Kartı arka planı.\nKurt sürüsü kuzey rüzgarının peşinden koşup durdu. Ancak rüzgarın, ilk attıkları adımdan itibaren ayaklarının dibinde döndüğünü yalnızca liderleri biliyordu.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "PicturePrefix": "UI_NameCardPic_Varka"
+  }
+}

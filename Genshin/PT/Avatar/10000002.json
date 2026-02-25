@@ -1153,5 +1153,11 @@
     "Description": "Estilo de Cartão de Visita.\nAyaka muda constantemente os leques que carrega consigo, é claro. Se for comprar um para ela como presente, lembre-se de não escolher leques de verão ou leques de guerra. Leques de dança ou de chá são boas escolhas, no entanto.",
     "Icon": "UI_NameCardIcon_Ayaka",
     "PicturePrefix": "UI_NameCardPic_Ayaka"
+  },
+  "TraceEffect": {
+    "Id": 215018,
+    "Name": "Viagem: Garça da Geada",
+    "Description": "Viagem Imaginária de Kamisato Ayaka. \"Não fale do inverno como desprovido de cor, a neve branca cai e preenche todo lugar.\"",
+    "Icon": "UI_TraceEffectIcon_Ayaka"
   }
 }

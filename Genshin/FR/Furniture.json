@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Personnage dans le royaume",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "Une lanterne céleste géante à l'effigie d'une certaine Adepte qui veille sur la lune. Elle représente un cheval d'un blanc immaculé sautant d'une falaise à travers les nuages, avec de vives teintes de coucher de soleil en arrière-plan. Aujourd'hui, tout le monde inscrit ses vœux sur la lanterne, peut-être dans l'espoir que l'Adepte cheval blanc descende depuis la lune dans un carrosse de jade pour exaucer leurs souhaits.",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361345,
+    "Name": "« Biscuit rond »",
+    "Description": "#Une table basse ronde que l'on retrouve à la Knieperterie Cling-clang. Principalement fabriquée en étain, elle a une structure robuste et ressemble à un joli biscuit rond.\nLes gens hésitent souvent à mettre une jolie nappe sur cette table : «{NON_BREAK_SPACE}Si on ne met pas de nappe, ça va être tellement compliqué de nettoyer toutes les miettes de kniepertie dessus ! »",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361346,
+    "Name": "Maison de rangement Cling-clang",
+    "Description": "#Une table de rangement que l'on trouve à la Knieperterie Cling-clang. Elle est composée de sections clairement définies qui ressemblent à un groupe de maisons de différentes hauteurs.\n« Ici, c'est la petite maison du marteau, et là, la petite maison des punaises...{NON_BREAK_SPACE}», dit la personne qui range les objets dans cette table.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361347,
+    "Name": "Table ronde de givrelune « Doux ciel azuré »",
+    "Description": "Une table ronde que l'on retrouve dans l'Enclave de givrelune. Fabriquée à partir de bois de chêne blanc, elle est durable et résistante à l'eau, ce qui la rend utile dans de nombreuses situations.\nLes artisans des Descendants de givrelune se sont inspirés de la lune qui brille dans le ciel nocturne et ont associé une nappe bleu ciel à cette table ronde en forme de lune. Cela évoque la tranquillité et la chaleur du ciel nocturne.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363414,
+    "Name": "Notes de quelqu'un",
+    "Description": "Une pile de livres empilés au hasard dans l'Enclave de givrelune. La plupart ne sont pas des ouvrages soigneusement reliés, mais plutôt des journaux manuscrits d'un auteur inconnu.\nSouvent, ces livres renferment des histoires captivantes et pleines de rebondissements. L'écriture désordonnée, la structure chaotique des phrases et les marques laissées sur les pages reflètent l'état d'esprit de l'auteur au moment de l'écriture.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363415,
+    "Name": "Petite table de givrelune « Arôme de fruits frais »",
+    "Description": "Une petite table que l'on trouve souvent aux alentours de l'Enclave de givrelune. Généralement, des fruits de saison les plus frais se trouvent dessus.\nCeux-ci ne sont pas seulement destinés à être mangés, mais également à ravir les autres sens. Leur arôme subtil embaume la pièce, créant un équilibre parfait qui rend l'atmosphère instantanément chaleureuse et confortable.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363511,
+    "Name": "Branches contre le ciel bleu",
+    "Description": "#Une fleur mécanique qui ne se fane jamais. C'est un ornement de bonsaï d'intérieur prisé parmi les ratnikis.\n« Pas le temps de s'en occuper... pas de lumière du soleil... même pas de quoi creuser une pelletée de terre{NON_BREAK_SPACE}!{NON_BREAK_SPACE}»\nImaginez la joie des ratnikis lorsque l'un des membres les plus ingénieux d'entre eux a fabriqué cet ornement d'apparence plutôt réussie avec quelques matériaux de récupération. Sa couleur bleue, qui rappelle le ciel, est également une couleur que ceux qui ont longtemps passé leurs heures d'éveil dans la nuit aspirent à voir.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 362134,
+    "Name": "Chaise à dossier « Lune reposante » en chêne blanc",
+    "Description": "Une chaise principalement fabriquée en bois de chêne blanc, que l'on voit souvent aux alentours de l'Enclave de givrelune.\nSon dossier présente une section creuse sculptée qui évoque la pleine lune. Placée à l'intérieur avec un coussin bleu ciel moelleux sur son siège, elle crée une atmosphère chaleureuse et naturelle.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363119,
+    "Name": "Lueur de corne givrée",
+    "Description": "Une lampe en bois que l'on trouve souvent à l'intérieur des habitations de l'Enclave de givrelune. Son apparence distinctive s'inspire du cerf à cornes givrées.\nBien qu'elle soit équipée d'une poignée de transport, son poids considérable fait qu'elle reste généralement posée à un emplacement précis. La plupart des habitants de l'Enclave de givrelune s'en servent comme veilleuse, car elle éclaire suffisamment sans déranger les petits animaux inoffensifs.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 363120,
+    "Name": "Champignon tortueux",
+    "Description": "#Une lampe en forme de champignon que l'on trouve dans les campements des Gardiens de lumière.\nContrairement à la plupart des lampes sur le marché qui s'inspirent des champignons, la partie de cette lampe qui émet de la lumière n'est pas le «{NON_BREAK_SPACE}chapeau{NON_BREAK_SPACE}» du champignon, mais plutôt sa «{NON_BREAK_SPACE}tige{NON_BREAK_SPACE}» sinueuse. La lumière qu'elle émet est encore plus inhabituelle{NON_BREAK_SPACE}: une moitié est chaude comme la lumière du soleil, l'autre moitié est froide comme la lumière de la lune.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361413,
+    "Name": "« Meilleur des meilleurs petits lits »",
+    "Description": "#Un petit lit que l'on peut voir à la Knieperterie Cling-clang. Il possède un cadre de lit métallique robuste et une literie rose avec un motif mignon ainsi qu'un oreiller moelleux. Il offre une excellente expérience de sommeil grâce à ses dimensions généreuses et sa hauteur qui permettent à l'utilisateur de dormir profondément dans n'importe quelle position.\n« C'est le meilleur lit dans lequel j'ai jamais dormi {NON_BREAK_SPACE}!{NON_BREAK_SPACE}» a déclaré la fière créatrice qui a fabriqué ce lit de ses propres mains.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361414,
+    "Name": "Lit de givrelune « Fraîcheur givrée »",
+    "Description": "Un lit de pierre que l'on trouve souvent aux alentours de l'Enclave de givrelune. Bien qu'il soit recouvert d'une couverture douce, ceux qui s'y allongent le trouveront tout de même assez dur.\nPendant les journées chaudes, la fraîcheur revigorante de ce lit sera très appréciée. En hiver, cependant, il est préférable d'y placer un épais matelas avant de s'y allonger.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361121,
+    "Name": "Table basse d'intérieur « Importance unique »",
+    "Description": "#Une table basse avec beaucoup d'espace de rangement, souvent utilisée dans les campements des Gardiens de lumière.\nEn tant que meuble, elle reflète souvent les centres d'intérêt de son propriétaire{NON_BREAK_SPACE}: les amateurs de fleurs ont tendance à la décorer avec des plantes en pot, les amoureux de lecture y empilent des livres, et les passionnés de gastronomie la chargent de toutes sortes de délices. Comme il s'agit du meuble le plus proche de leur lit, les ratnikis placent dessus généralement l'objet le plus important pour eux et qu'ils emportent partout{NON_BREAK_SPACE}: leur lanterne.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361122,
+    "Name": "Bibliothèque d'intérieur « Repos studieux »",
+    "Description": "Une bibliothèque au design unique qui peut facilement accueillir des livres de toutes tailles. On la trouve souvent dans les campements de Gardiens de lumière.\nPour les ratnikis, la connaissance est un trésor précieux, car la moindre bribe de savoir acquise par hasard peut sauver une vie dans un moment critique. C'est pourquoi, dès qu'ils ont du temps libre, nombreux sont ceux qui se rassemblent autour de la bibliothèque pour acquérir plus de sagesse entre deux batailles.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361123,
+    "Name": "Comptoir d'intérieur « Bienvenue aux visiteurs »",
+    "Description": "#Un comptoir entièrement fait de tôle. Solide et robuste, il est souvent utilisé dans les campements de Gardiens de lumière. Un officier de service se tient généralement au comptoir pour accueillir les visiteurs inconnus.\nCe comptoir a une apparence plutôt grossière, voire rudimentaire, ce qui est exactement l'intention des ratnikis. Il décourage efficacement les «{NON_BREAK_SPACE}visiteurs non invités{NON_BREAK_SPACE}» qui pénètrent fréquemment en territoire dangereux sans réfléchir.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361124,
+    "Name": "Armoire imposante",
+    "Description": "#Une armoire qui ressemble à une tour à plusieurs étages, plus large en bas et plus étroite en haut. On la trouve à la Knieperterie Cling-clang. Son design unique offre non seulement une excellente capacité de rangement, mais garantit également un centre de gravité stable. L'armoire est donc moins susceptible de basculer même lorsqu'elle subit une force externe importante. «{NON_BREAK_SPACE}Chaque étage a des résidents différents. Les grands vivent en bas, et les petits vivent en haut. C'est exactement comme une tour{NON_BREAK_SPACE}!{NON_BREAK_SPACE}» C'est le concept sur lequel cette création à l'apparence unique se repose.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 361125,
+    "Name": "Armoire d'hôtel « Espace supplémentaire »",
+    "Description": "Une armoire avec une très grande capacité et au schéma de couleurs élégant, que l'on peut trouver partout au Navire amiral.\nCette armoire ne pouvait contenir autrefois que la moitié de ce qu'elle peut aujourd'hui. Cependant, elle a été agrandie par la suite en réponse aux retours collectifs des clients, car les nombreux pensionnaires de longue durée du Navire amiral avaient besoin de vêtements adaptés à toute météo. Sa capacité dépasse de loin celle de la plupart des armoires, mais qui sait quand elle sera à nouveau agrandie ?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 362322,
+    "Name": "#Tapis de givrelune « Teinte limpide{NON_BREAK_SPACE}»",
+    "Description": "Un tapis aux tons principalement bleus, rehaussé d'un orange-rouge accrocheur que l'on peut voir dans toute l'Enclave de givrelune. Sa symétrie est non seulement visuellement agréable, mais elle donne également un sentiment d'ordre et de paix intérieure.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 362323,
+    "Name": "Petit tapis duveteux",
+    "Description": "Un tapis circulaire aux couleurs chaudes, orné d'un motif mignon et douillet. On peut le voir à la Knieperterie Cling-clang.\nLe matériau doux et fin dans lequel le tapis est tissé lui confère une texture moelleuse au toucher. En le caressant, on pourrait même croire qu'on est en train de caresser un chaton...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 364227,
+    "Name": "« Dur comme le fer »",
+    "Description": "Une décoration murale composée d'épées croisées et d'un bouclier que l'on voit souvent dans les campements des Gardiens de lumière. Elle symbolise la détermination des ratnikis à combattre l'ennemi et à protéger leurs familles.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 364228,
+    "Name": "Bannière des Gardiens de lumière",
+    "Description": "Une bannière ornée du symbole de phare des Gardiens de lumière que l'on aperçoit fréquemment aux alentours de leurs campements. Elle symbolise la volonté inébranlable des ratnikis de monter la garde au phare tout au long de la nuit, sans jamais reculer.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 364229,
+    "Name": "Lampe murale de taverne « Lumière flottante de couloir »",
+    "Description": "Une lampe murale lumineuse que l'on retrouve partout au Navire amiral. Elle est généralement accrochée le long des couloirs pour les éclairer. Comme ce type de lampe est suspendu par des cordons d'un blanc pur, on peut avoir l'impression de loin qu'elle flotte dans le couloir. Cette conception rend la lampe sensible aux vibrations environnantes, ce qui peut la faire osciller légèrement. Les tenanciers expérimentés peuvent même surveiller les problèmes qui se préparent à la taverne simplement en observant les mouvements de la lampe.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371022,
+    "Name": "Bâtiment auxiliaire de base « Serre polyvalente »",
+    "Description": "Un bâtiment auxiliaire de la Base de moulin Clac-clac-omatique construit avec des murs épais et des tuyaux d'évacuation spéciaux. Il est relié à une chaudière externe qui maintient la température intérieure stable. Un bâtiment de ce type est parfait pour servir de chambre d'amis temporaire, de salle de bain à température constante ou d'atelier chauffé spécialisé.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371023,
+    "Name": "#Bâtiment auxiliaire de base « Espace secret{NON_BREAK_SPACE}»",
+    "Description": "Un bâtiment auxiliaire de la Base de moulin Clac-clac-omatique, en forme de poisson géant à la gueule grande ouverte. Son toit épais et ses murs robustes forment une barrière fiable qui offre une excellente isolation acoustique et lumineuse pour l'intérieur. Ce type de conception est particulièrement adapté pour servir de laboratoire nécessitant une isolation phonique et lumineuse ou de chambre forte pour la conservation d'objets de valeur.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371024,
+    "Name": "Bâtiment auxiliaire de base « Tour d'eau »",
+    "Description": "Un bâtiment auxiliaire de la Base de moulin Clac-clac-omatique, caractérisé par sa hauteur imposante et sa capacité. Il peut servir au stockage et à la distribution de liquides ou de tour de guet. Grâce à sa hauteur, il répond aux besoins d'approvisionnement en eau de la base en utilisant la pression hydrostatique, sans recourir à une source d'énergie externe. Pendant la saison chaude, ce bâtiment peut également pulvériser de la brume d'eau pour garder la base fraîche et confortable.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371025,
+    "Name": "Base de moulin « Puissance auxiliaire »",
+    "Description": "À l'intérieur de la Base de moulin Clac-clac-omatique se trouvent des turbines qui assurent son bon fonctionnement quelles que soient les conditions météorologiques. Ainsi, elle peut tourner même par vents forts, apportant un sentiment de sérénité et de calme aux alentours. D'autre part, lorsqu'il fait une chaleur étouffante et que l'air est complètement immobile, sa rotation génère une brise douce et très bienvenue.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371026,
+    "Name": "Portail de base « Logique de transport »",
+    "Description": "Ce portail, utilisé dans la Base de moulin Clac-clac-omatique, dispose d'un cadre de porte circulaire en métal orné d'enseignes lumineuses attrayantes.\nL'avantage de cette conception circulaire réside dans la distance égale entre n'importe quel point du cadre et son centre, ce qui facilite le transport de pièces de forme irrégulière. La Base a également installé des enseignes lumineuses à cet endroit, rendant le portail facile à repérer la nuit et garantissant un accès pratique tant pour le personnel que pour les matériaux.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371027,
+    "Name": "Plateforme de base « Fondation solide »",
+    "Description": "Cette plateforme métallique de la Base de moulin Clac-clac-omatique possède un design structurel classique que l'on retrouve dans certaines fondations de bâtiments de Nod-Krai. Son apparence sobre cache une capacité de charge impressionnante. Une plateforme comme celle-ci peut non seulement supporter des objets de poids variés dans un usage quotidien, mais aussi gérer le fonctionnement de grands mécanismes d'ingénierie sur un sol meuble. Il n'est pas exagéré de dire que l'animation et la prospérité actuelles de la Base de moulin Clac-clac-omatique reposent sur ces solides fondations.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371028,
+    "Name": "Mur de base « Ligne défensive »",
+    "Description": "Un muret de la Base de moulin Clac-clac-omatique, fabriqué à partir de panneaux métalliques robustes. Sa conception s'inspire de l'expérience de Nod-Krai dans la lutte contre la Chasse sauvage. Ce muret, qui offre une couverture fiable et suffisante aux tireurs, allie parfaitement performance, rentabilité et facilité d'installation.\nAujourd'hui à la Base de moulin Clac-clac-omatique, ce type de muret a été réutilisé comme séparateur, créant des zones distinctes au sein de la base tout en préservant une sensation d'ouverture.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 371029,
+    "Name": "Pilier de base « Balise universelle »",
+    "Description": "#Un pilier métallique provenant de la Base de moulin Clac-clac-omatique. Sa forme solide et verticale apporte une impression de robustesse et de modernité technologique lorsqu'il est utilisé comme élément paysager autonome. En même temps, il est très pratique, doté d'un mécanisme de hissage de drapeau sur le côté et d'une section supérieure compatible avec divers équipements, d'où son nom de «{NON_BREAK_SPACE}balise universelle{NON_BREAK_SPACE}».",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 373940,
+    "Name": "Étreinte bienveillante",
+    "Description": "#Une statue de pierre blanche argentée que l'on voit souvent aux alentours de l'Île de Hiisi à Nod-Krai. Cette statue évoque un sentiment de chaleur et de réconfort, comme si elle était sur le point d'étreindre quiconque s'en approche.\n« Ô enfant perdu, au nom des descendants de l'extrême nord, je prie pour la bénédiction de la lumière. Que la grâce de la Lune de givre apaise les vents sauvages de la nuit froide et apporte la chaleur aux jeunes oiseaux blottis sur la terre gelée.{NON_BREAK_SPACE}»\nPeut-être était-ce le souhait de l'artisan d'éloigner les maladies et d'épargner à tous les souffrances qui a inspiré ce symbolisme réconfortant.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 374129,
+    "Name": "Rambarde de ville « Banc pratique »",
+    "Description": "Une balustrade basse en pierre que l'on voit souvent dans les villes. Elle possède un design plat et robuste, avec une main courante assez large pouvant même servir de banc de fortune. Mais attention, n'essayez pas de marcher sur cette main courante, ce serait bien trop dangereux...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 374130,
+    "Name": "Rambarde de ville « Vagues bleu azur »",
+    "Description": "Une rambarde basse en bois que l'on voit souvent dans les villes. Son design unique évoque les vagues ondulantes de l'océan bleu.\nBien que cette rambarde ne serve pas à grand-chose en tant que barrière réelle, son apparence distinctive et attrayante en fait un choix populaire pour délimiter différentes zones.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Chroniques d'anecdote"
+    ],
+    "Id": 374822,
+    "Name": "Pot à poissons frétillants",
+    "Description": "#Un poisson mécanique fabriqué par Aino, qui est accompagné d'un mode d'emploi rédigé à la main. L'écriture est un peu tremblotante, mais les rappels suivants sont tout de même lisibles{NON_BREAK_SPACE}:\n1. Pas besoin de l'arroser{NON_BREAK_SPACE}!\n2. Ne le nourrissez pas avec des knieperties{NON_BREAK_SPACE}!\n3. Traitez-le bien{NON_BREAK_SPACE}!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Pass de bataille « Chant des perles{NON_BREAK_SPACE}»"
+    ],
+    "Id": 374823,
+    "Name": "Statue de fleur bombardier",
+    "Description": "#Une statue inspirée du célèbre «{NON_BREAK_SPACE}Chevalier de l'étincelle{NON_BREAK_SPACE}» de Mondstadt. Elle immortalise sa silhouette imposante alors qu'elle se tient debout au milieu des flammes qui réduisent tout en cendres.\nQui est la personne la plus forte à Mondstadt{NON_BREAK_SPACE}? Certains diront que c'est Jean, tandis que d'autres suggéreront le Grand Maître Varka, actuellement en expédition. Cependant, dans le cœur de certains, la plus forte de tous est cette mystérieuse petite fille en rouge qui utilise le «{NON_BREAK_SPACE}trésor{NON_BREAK_SPACE}» le plus puissant...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372521,
+    "Name": "Clair de lune ondulant",
+    "Description": "Une plante blanc argenté que l'on voit souvent près du Hall d'argenlune.\nElle a une tige fine et courbée et des branches dont la forme rappelle celle de la lune. Elle se balance toujours très doucement dans la brise nocturne, comme le clair de lune qui scintille dans le vent.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372522,
+    "Name": "Lueur vacillante",
+    "Description": "#Des plantes qui émettent une faible lueur. Incroyablement résistantes et robustes, elles arrivent pousser librement et sainement même avec peu de lumière ou d'eau.\n« Qu'est-ce qui se balance et brille{NON_BREAK_SPACE}?{NON_BREAK_SPACE}»\nLes enfants ont imaginé une devinette simple, en attendant le jour où ils rencontreront {M#un étranger}{F#une étrangère} venu de loin avec qui ils pourront s'amuser à jouer à ce petit jeu.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372523,
+    "Name": "Pompon duveteux",
+    "Description": "#Un arbuste violet, duveteux comme un pompon, qui pousse près du sol. Ses qualités esthétiques et sa robustesse en font une plante ornementale idéale.\nSes branches étant faciles à tailler, elles peuvent prendre diverses formes entre les mains d'un jardinier compétent{NON_BREAK_SPACE}: un chiot plein de vie, un adorable chaton ou un petit oiseau enthousiaste...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372524,
+    "Name": "Chasseur de primes",
+    "Description": "Un petit arbuste vert qui ressemble à une boule duveteuse. Sa capacité à s'adapter à divers environnements lui permet de survivre même dans les conditions les plus hostiles.\nOn raconte que parmi ces plantes, il y a une chance sur dix mille que la couleur de leurs branches et de leurs feuilles change avec le temps, sous l'influence de leur environnement, un peu comme un chasseur de primes qui adapte ses méthodes de survie à la situation.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372359,
+    "Name": "Arbre violet au vent",
+    "Description": "#Un arbre que l'on trouve souvent dans les contrées sauvages de Nod-Krai. Il a un tronc élancé et courbé, ainsi qu'une canopée plutôt clairsemée.\nCet arbre a la particularité de s'adapter à son environnement{NON_BREAK_SPACE}: il pousse dans le sens du vent, ce qui lui permet de rester debout sans se briser, même pendant des tempêtes les plus violentes.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372360,
+    "Name": "Murmures du bosquet verdoyant",
+    "Description": "#Un arbre que l'on trouve souvent près du Hall d'argenlune. Son apparence unique permet de le distinguer facilement des autres arbres.\n« Lorsque le vent commence à souffler, oignez la crête verdoyante avec le mélange béni de la coupe d'argent pour honorer la divinité.{NON_BREAK_SPACE}» On ignore si les souhaits murmurés par le peuple sont entendus, mais la crête verdoyante, nourrie par le kuuvahki, fleurit et déborde de vitalité...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372361,
+    "Name": "Arbre citrin sous la lune",
+    "Description": "Un arbre que l'on voit souvent aux alentours de l'Île de Hiisi, à Nod-Krai. Il se caractérise par son tronc élancé et courbé, ainsi que sa cîme dorée.\nOn raconte que les Descendants de givrelune appréciaient particulièrement cet arbre, car la couleur de ses feuilles ressemblait à la lueur dorée du clair de lune. Pour exprimer leur dévotion à la divinité, ils ont planté ces arbres le long des deux côtés du chemin menant à la plateforme baignée de lumière.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372362,
+    "Name": "Arbre bourgeonnant",
+    "Description": "Un arbre que l'on trouve souvent dans les contrées sauvages de Nod-Krai. Il possède un tronc relativement épais et une canopée d'un vert frais.\nOn raconte que cet arbre et ses proches parents sont exceptionnellement robustes, dotés de systèmes racinaires puissants qui s'enfoncent rapidement dans le sol pour absorber les nutriments. Son nom vient du fait que même la plus petite brindille de cet arbre plantée dans le sol peut germer et prendre racine en un clin d'œil.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372236,
+    "Name": "Vague du croissant de lune",
+    "Description": "#Un type de roche que l'on voit souvent au Hall d'argenlune. Son apparence unique ressemble à des vagues de marée.\n« L'orbite de la Lune éternelle guide le flux et le reflux des marées.{NON_BREAK_SPACE}» On ne peut s'empêcher de se demander quelles pensées de la Dame de la lune ont été gravées dans ces rochers façonnés par la gravité...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372237,
+    "Name": "Gardiens de trésors",
+    "Description": "#Une sorte de rocher que l'on voit souvent dans les contrées sauvages de Nod-Krai. Ils sont si lourds que même un homme robuste équipé d'un outil tranchant aurait du mal à les déplacer. De ce fait, ils sont fréquemment considérés comme des obstacles gênants lors de la construction de maisons ou du pavage des routes. Pourtant, pour les petites créatures expertes en excavation, ces rochers, impossibles à déplacer même pour les créatures plus grandes, sont sans aucun doute les meilleurs «{NON_BREAK_SPACE}gardiens de trésors{NON_BREAK_SPACE}».",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Décoration"
+    ],
+    "Id": 372238,
+    "Name": "Pierre-de-poing",
+    "Description": "#Un rocher de montagne à l'extérieur solide et lisse que l'on trouve souvent dans les contrées sauvages de Nod-Krai. En raison de sa petite taille, il est généralement caché sous une végétation dense. C'est pourquoi les aventuriers expérimentés avertissent les nouveaux venus{NON_BREAK_SPACE}: «{NON_BREAK_SPACE}Attention où vous mettez les pieds{NON_BREAK_SPACE}! Trébucher sur l'un de ces rochers fait plus mal que de se faire percuter par un rhinocéros à corne émoussée.{NON_BREAK_SPACE}»",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363387,
+    "Name": "Portail de bastion « Fidèle compagnon »",
+    "Description": "#Une impressionnante porte métallique qui allie une apparence imposante à une solidité fiable capable de résister à de multiples attaques de monstres.\nSelon Éclair bleu, l'aspect majestueux de la porte s'inspire de «{NON_BREAK_SPACE}Kedonion{NON_BREAK_SPACE}», la belette de compagnie de son concepteur, qui est également un inventeur de génie. Ses deux «{NON_BREAK_SPACE}pouces levés{NON_BREAK_SPACE}» et son «{NON_BREAK_SPACE}expression{NON_BREAK_SPACE}» débordante de confiance semblent dire{NON_BREAK_SPACE}: «{NON_BREAK_SPACE}Ne t'inquiète pas, tu peux compter sur moi{NON_BREAK_SPACE}!{NON_BREAK_SPACE}»",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363388,
+    "Name": "Loup de fer",
+    "Description": "#Un cocktail d'exception, audacieux et sans retenue. Ce chef-d'œuvre a été créé spécialement pour Varka en s'inspirant du Lac épineux de l'époque à laquelle la Cabane à cocktails du chevalier honoraire était en activité.\nAyant dégusté d'innombrables boissons raffinées, le Grand Maître vous invite à laisser libre cours à votre créativité et à vous surpasser. Vous lancez donc une «{NON_BREAK_SPACE}offensive{NON_BREAK_SPACE}» audacieuse, rien que pour lui.\nLe premier impact est celui de la fraîcheur mentholée et des notes herbacées, qui frappent le palais dès la première gorgée. Des saveurs subtiles et complexes viennent ensuite masquer la puissance brute de l'eau de feu, portant le coup de grâce. Enfin, la smetana clôture la dégustation avec précision, offrant un final harmonieux et sans fausse note.\nEn hommage au Grand Maître et à l'esprit de Mondstadt, vous l'avez baptisé «{NON_BREAK_SPACE}Loup de fer{NON_BREAK_SPACE}». Le Grand Maître est extrêmement satisfait de cette expérience audacieuse et complexe, dont il prend de grandes gorgées...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363389,
+    "Name": "Duo de Dodoco",
+    "Description": "#Un cocktail d'exception, aux saveurs à la fois douces et acidulées, qui exprime la passion. Ce chef-d'œuvre a été créé spécialement pour Klee en s'inspirant du Temps idéal de l'époque à laquelle la Cabane à cocktails du chevalier honoraire était en activité.\nLa version originale du Temps idéal avait une teinte violette, mais elle n'était pas assez joyeuse. Alors, ajoutons une touche de soleil et quelques nuages cotonneux pour recréer cette sensation de chaleur et de bonheur{NON_BREAK_SPACE}!\nLa douceur est essentielle, mais la santé l'est tout autant. C'est pourquoi le jus a été soigneusement sélectionné avec l'approbation de Jean, et son goût sucré provient de fruits bullés.\nEt surtout{NON_BREAK_SPACE}: un bonbon Dodoco{NON_BREAK_SPACE}! Sa magie gourmande doit être placée au cœur des «{NON_BREAK_SPACE}nuages{NON_BREAK_SPACE}»{NON_BREAK_SPACE}!\nKlee a dit{NON_BREAK_SPACE}: «{NON_BREAK_SPACE}Par beau temps et de bonne humeur, Dodoco chantera et Klee participera{NON_BREAK_SPACE}!{NON_BREAK_SPACE}» C'est pourquoi cette boisson s'appelle le Duo de Dodoco.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363390,
+    "Name": "Lame de vague",
+    "Description": "#Une boisson d'exception qui allie la fraîcheur glacée à la puissance d'un bon verre. Ce chef-d'œuvre a été créé spécialement pour Eula en s'inspirant de l'Étoile scintillante de l'époque à laquelle la Cabane à cocktails du chevalier honoraire était en activité.\nL'art du maniement de l'épée d'Eula, telle une danse des lames, frappe avec la force d'une avalanche tout en s'achevant avec grâce et élégance, et ses préférences en matière de boissons sont tout aussi audacieuses.\nPour refléter son style, cette boisson associe de l'eau de feu d'une pureté cristalline, du jus de fleur romaritime commémoratif et du cacao pour redonner de l'énergie et chasser la fatigue, créant ainsi une véritable symphonie de saveurs dans la coupe.\nPuisque ce mélange s'inspire de la danse des lames du Chevalier aux Embruns, « Lame de vague{NON_BREAK_SPACE}» semblait être le nom parfait...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363391,
+    "Name": "Rose somnolente",
+    "Description": "Un cocktail d'exception à l'ambiance décontractée. Ce chef-d'œuvre a été créé spécialement pour Lisa en s'inspirant de l'Aube enneigée de l'époque à laquelle la Cabane à cocktails du chevalier honoraire était en activité.\nAprès une longue journée, la bibliothécaire a besoin de se ressourcer sans risquer l'insomnie. Avec cette boisson, vous avez évité tout ingrédient stimulant et trouvé un équilibre délicat entre la douceur du caramel et une légère acidité.\nL'objectif était de lui offrir « un sommeil paisible et réparateur », alors vous avez proposé le nom « Rose somnolente », ce qui a reçu l'approbation enthousiaste de Lisa.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363392,
+    "Name": "Foudre tranquille",
+    "Description": "#Un cocktail d'exception qui procure une sensation de bien-être et de détente, tout en conservant une élégance raffinée. Ce chef-d'œuvre a été créé spécialement pour Clorinde en s'inspirant de l'Explosion de caramel de l'époque à laquelle la Cabane à cocktails du chevalier honoraire était en activité.\nAprès son séjour à Mondstadt, marquée par les représentations de la Troupe de plateau, la duelliste mandatée rapide comme l'éclair est particulièrement sensible aux notes métalliques et affiche une nette préférence pour les saveurs légèrement salées. Au quotidien, elle apprécie également les boissons à l'acidité subtile qui contrebalancent la richesse des saveurs. Pour la plupart des barmans, concilier ces deux exigences serait un véritable défi. Mais après avoir perfectionné votre art au Cadeau de l'Ange et au Navire amiral, vous maîtrisez parfaitement chaque nuance de vos créations.\nPour aider Clorinde à se détendre lors de sa visite de Mondstadt, vous avez baptisé ce mélange «{NON_BREAK_SPACE}Foudre tranquille{NON_BREAK_SPACE}», et il est depuis devenu l'un de ses souvenirs les plus marquants de la ville.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Événement à durée limitée"
+    ],
+    "Id": 363393,
+    "Name": "Bouquet porté du vent",
+    "Description": "#Un cocktail d'exception, d'une élégance discrète et au parfum exquis. Ce chef-d'œuvre a été créé spécialement pour Émilie en s'inspirant du Crépuscule de Lumidouce de l'époque à laquelle la Cabane à cocktails du chevalier honoraire était en activité.\nLa parfumeuse de Fontaine vous a un jour confié qu'une douceur excessive endort les gens, et qu'elle préfère savourer une légère ivresse. De toute évidence, assommer un client au bar n'est pas le but principal d'un barman...\nPar temps doux et ciel dégagé, des sens aiguisés peuvent sublimer la saveur d'une boisson parfaitement équilibrée.\nInspiré{F#e} par l'art de la parfumerie, vous avez créé ce chef-d'œuvre subtil et élégant, et Émilie a décidé de l'appeler «{NON_BREAK_SPACE}Bouquet porté du vent », comme la parfumeuse qu'elle est...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 360107,
+    "Name": "« Secret de refroidissement de la Base »",
+    "Description": "Un mur intérieur standard de la Base de moulin Clac-clac-omatique fabriqué à partir de matériaux métalliques recyclés couramment utilisés à Nod-Krai. Il présente un éclat froid et dur ainsi qu'une excellente conductivité thermique. On dit que ce type de mur permet aux bâtiments de rester agréablement frais même sous un soleil de plomb.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 360307,
+    "Name": "« Plafond robuste de la Base »",
+    "Description": "Ce plafond standard de la Base de moulin Clac-clac-omatique est composé de plaques métalliques méticuleusement découpées. Fonctionnel et sûr, il est facile à installer et à nettoyer. Comme il est fabriqué à partir du même matériau que la coque extérieure des mécanismes kuuvahkiques, il est solide et relativement léger, ce qui contribue à réduire divers risques de sécurité.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 360207,
+    "Name": "« Plancher en alliage de la Base »",
+    "Description": "Des dalles de sol standard utilisées dans la Base de moulin Clac-clac-omatique. Elles se composent de plaques métalliques de formes variées, assemblées pour créer un sol visuellement attrayant avec une impression de profondeur. Utilisez ces dalles pour créer un motif marbré et décalé afin d'obtenir un intérieur unique et vivant. Bien que ce design innovant augmente la difficulté et le coût d'installation et d'entretien, cet inconvénient est efficacement compensé par l'utilisation de matériaux métalliques recyclés.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Bazar du royaume : Plan de décoration"
+    ],
+    "Id": 360507,
+    "Name": "« Tranquillité douce de la Base »",
+    "Description": "Un lustre standard de la Base de moulin Clac-clac-omatique, constitué d'une structure de suspension métallique équipée de plusieurs lampes. Il est d'un style simple et robuste. Lorsque la nuit tombe et que les lumières s'allument, la douce lueur de ces lampes transforme l'intérieur en un havre chaleureux et paisible, dissipant fatigue et soucis.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "« Porte de coffre-fort de la Base »",
+    "Description": "Une porte standard de la Base de moulin Clac-clac-omatique fabriquée en soudant plusieurs couches de métal. Son design inspiré des portes de coffre-fort allie esthétique et fonction anti-effraction. Une porte comme celle-ci résiste efficacement aux dégâts causés par des outils tels que des perceuses, des pieds-de-biche et des marteaux, remplissant son objectif initial de protéger contre toute intrusion indésirable. Évidemment, cela peut sembler quelque peu excessif pour un endroit comme le royaume intérieur, où la plus grande menace est probablement le petit animal occasionnel qui l'utiliserait comme griffoir.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "« Échos clairs de la Base »",
+    "Description": "Un escalier d'angle métallique standard de la Base de moulin Clac-clac-omatique, reconnu pour sa solidité, sa durabilité et sa relative légereté. Chaque pas sur ces marches métalliques résonne avec netteté, le son rebondissant sur les murs et les poutres du bâtiment pour former un rythme cadencé.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "Base de moulin Clac-clac-omatique",
+    "Description": "#Une immense installation intégrée créée par la «{NON_BREAK_SPACE}Sphère d'ombre éphémère{NON_BREAK_SPACE}» à l'intérieur de la Sérénithière, inspirée des paysages et des sons de Nod-Krai. Construite avec une structure métallique éprouvée et un réseau de transport complet, elle dégage une énergie audacieuse et sauvage qui reflète parfaitement la philosophie de conception de la Knieperterie Cling-clang. Contrairement à la Knieperterie Cling-clang, la Base de moulin Clac-clac-omatique a besoin de beaucoup moins d'éclairage puisqu'aucune production n'y a lieu. Néanmoins, les moulins à vent au sommet des toits évoquent l'énergie bouillonnante de l'atelier, et les regarder peut remplir le cœur d'une vague d'excitation.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

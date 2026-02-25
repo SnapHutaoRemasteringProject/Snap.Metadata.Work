@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "A Comfy Room for Guests From Near and Far",
+    "Description": "A fully furnished room, inspired by the guest rooms at The Flagship, the largest tavern in Nasha Town. Targeted improvements have been made to better meet the needs of its occupants.\nThe guests of The Flagship come from a variety of backgrounds, each with their own idea of what \"comfort\" means. Striking a balance between all these different expectations is no easy task. Eventually, The Flagship settled on a unique solution: furnish its rooms with every amenity a client might possibly need, then remove the unneeded items based on their feedback. Although the room may feel a little cluttered as a result, it provides everything a guest could need, allowing them to find comfort in their own way.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Sweet Slumber Beneath the Moon",
+    "Description": "A simple-but-elegant bedroom, furnished with pieces carefully selected by the Frostmoon Scions. The overall atmosphere here is that of refined simplicity and warmth. It is said that a tranquil and natural environment can help one relax better, and this bedroom appears to be the perfect embodiment of that principle. With lamp light as gentle as the moonlight casting its soft glow, and the fresh scent of fruit in the air, those who stay here may feel their weariness and pain slowly ease away, as the peace and calm of repose quietly takes over...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "The Orderly Grid of Secrets",
+    "Description": "This distinctive workspace draws heavily from the layout of the Curatorium of Secrets, faithfully recreating the scene as it appears when its owner is hard at work. Everything is arranged with meticulous order.\nInformation analysis is a demanding and complex task. When threads of data intertwine, it's easy to feel at a loss. Yet in a room where every furnishing is thoughtfully placed and every supporting tool close at hand, the mind may find greater clarity, and productivity is sure to follow...",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "The Bestest and Warmest Home",
+    "Description": "A Nod-Krai-style bedroom with a layout that evokes a warm and cozy feeling. It is the ideal place to shed one's fatigue after a busy day. All the furnishings in this bedroom, which were carefully selected by the \"Parent\" herself from the Clink-Clank Krumkake Craftshop, are the bestest, warmest, and most practical furniture in the whole world. However, this exceptional comfort comes with a downside: its occupants sometimes oversleep, even missing important appointments because the room is just so comfy. A firm but considerate wake-up method might be necessary to ensure everyone gets up on time.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "Pre-Battle Respite",
+    "Description": "A fully equipped communal lounge, modeled after the room layouts of Piramida, recreates the quiet moments of rest the Ratniki take before battle. Veteran Ratniki know that the war against the Wild Hunt is long and unforgiving, and that whenever circumstances allow, rest is essential to maintaining peak combat readiness. Besides, a thoughtfully arranged lounge also gives the Ratniki time to get to know one another. On the battlefield, fighting alongside trusted companions inspires far greater confidence and coordination than fighting beside strangers. For this reason, the construction of rest lounges has long been a priority for the Starshyna.",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Wilderness of the Far North",
+    "Description": "A wilderness that brings together vegetation and landforms that are commonly seen in Nod-Krai, particularly an authentic recreation of the unique landscape of Hiisi Island.\nNod-Krai enjoys an abundance of kuuvahki, which in turn has given rise to brightly colored plants, creatures with distinctive habits, and landforms of unusual shapes. For naturalists, this area holds countless treasures of new knowledge, while for ordinary tourists, it offers wondrous sights that demand a pause to admire.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Bustling Border Town",
+    "Description": "A regional landscape centered on various distinctive buildings, with shops of various kinds. It is a perfect re-creation of a corner of Nasha Town.\nIt is said that Nasha Town differs from other cities in that it has no true administrator and no clear planning structure. This has led to countless narrow passages and scarcely noticed gaps emerging between the town's buildings. For most residents, these passages are merely conduits for noise. For those focused on gathering information, however, they serve as pathways for the spread of secrets and shortcuts for ease of travel.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Tranquil Prayer Under the Moon",
+    "Description": "An open-air setting modeled after Frostmoon Enclave, featuring various implements arranged according to the customs of the Frostmoon Scions and vegetation planted to complement each item. Step into this space, and you'll immediately sense the tranquility and harmony that so define the Frostmoon Scions. It feels as though gentle, melodic hymns are echoing softly, carrying away all troubles and suffering on the breeze, leaving behind only a serene and peaceful state of mind.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Solitary Light in the Long Night",
+    "Description": "A settlement of sturdy houses, its layout and architecture inspired by the outdoor defensive strongholds of the Lightkeepers. Built to withstand wind and rain, it retains formidable defensive capabilities even against the Wild Hunt. As the Lightkeepers' oath states: \"We are the Lightkeepers, who shine the eternal light of hope into the endless snow-swept plains.\"\nOn the vast plains outside Piramida, strongholds like this one stand tall and bright, carrying the light of hope with them.",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Promising Workshops",
+    "Description": "A small settlement inspired by the Clink-Clank Krumkake Craftshop, with comfortable hemispherical iron houses and buildings shaped like iron ships. These structures are more than enough to meet the basic needs of workshop owners.\nAll great workshops have their origin in a single, simple structure. With these buildings as a foundation, and proper planning and materials in place, transforming your Realm Within into a giant workshop becomes a very real possibility...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "Crescent Moon Serenity",
+    "Description": "A courtyard inspired by Silvermoon Hall. Its style exudes tranquility and serenity, like a dreamlike realm just beyond reach.\nThe moonlight always gently guides all living beings. Perhaps, the followers of the Moon Goddess have once asked themselves: what kind of view or scenery could guide the new moon into her own peaceful slumber?\nThe only way to know the answer is to visit Silvermoon Hall and gaze upon every flower and blade of grass there...",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

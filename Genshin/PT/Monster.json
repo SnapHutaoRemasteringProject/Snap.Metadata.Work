@@ -2064,7 +2064,7 @@
     "MonsterName": "Monster_Moonbeast_Water_01",
     "Name": "Corrente Emergente: Herdeiro da Geada Noturna",
     "Title": "Herdeiro da Geada Noturna",
-    "Description": "Uma forma de vida elemental elegante que possui uma imensa afinidade elemental. Os longos anos expuseram-na a altas concentrações de Hydro, resultando na sua forma atual.\nSeu corpo translúcido como vidro é composto quase que completamente de gotas d'água puríssimas. Embora mais gentil do que o resto de sua raça, quando provocada é capaz de instantaneamente transformar a água ao seu redor em lâminas afiadas capazes de perfuras as defesas de qualquer intruso descuidado.\nNas orações ainda existentes do extremo norte, nasceu das bênçãos da Lua Gelada, simbolizando a fonte pura e o primeiro brilho. Talvez seja por isso que considere insuportável a maculação de sua pureza pálida com as sete cores da luz celestial, rejeitando assim toda a vida que se aproxima demais.",
+    "Description": "Uma forma de vida elemental elegante que possui uma imensa afinidade elemental. Os longos anos expuseram-na a altas concentrações de Hydro, resultando na sua forma atual.\nSeu corpo translúcido como vidro é composto quase que completamente de gotas d'água puríssimas. Embora mais gentil do que o resto de sua raça, quando provocada é capaz de instantaneamente transformar a água ao seu redor em lâminas afiadas capazes de perfurar as defesas de qualquer intruso descuidado.\nNas orações ainda existentes do extremo norte, nasceu das bênçãos da Lua Gelada, simbolizando a fonte pura e o primeiro brilho. Talvez seja por isso que considere insuportável a maculação de sua pureza pálida com as sete cores da luz celestial, rejeitando assim toda a vida que se aproxima demais.",
     "Icon": "UI_MonsterIcon_Moonbeast_Water",
     "Type": 1,
     "Arkhe": 0,
@@ -8772,7 +8772,7 @@
     "DescribeId": 41001,
     "MonsterName": "Gastrobot_01",
     "Name": "Marreco Marreta",
-    "Title": "Orgulho do Criador",
+    "Title": "Sombra da Obra-Prima",
     "Description": "Um dispositivo Kuuvahki feito de ferro-velho e rolamentos mecânicos, lembrando vagamente, provavelmente devido a sua criadora, um pato.\nSua resistência contra dano é comparável aos armamentos de ponta dos Fatui... Mas, ainda assim, é um pato de brinquedo que só pode socar contra seus inimigos com muita, muita força. A preferência de sua criadora sempre determina a aparência da criação, assim como a argila não tem a autoridade para questionar a escolha de formas de seu criador. O mundo sob o luar há muito foi esculpido numa forma que as pessoas já se acostumaram, mas para os olhos dos habitantes originais, essa forma deve ser como esse pato estranho, feita pelo gosto bizarro de sua criadora.\nClaro, a dama de cabelos azuis nunca disse nada disso para a senhorita da Oficina de Rolinhos de Ovo. Patos são fofinhos, especialmente quando comparados a situação atual do mundo.",
     "Icon": "UI_MonsterIcon_Gastrobot_01",
     "Type": 2,
@@ -12064,7 +12064,7 @@
   {
     "Id": 0,
     "DescribeId": 55152,
-    "Name": "Guerreira Koholassauro Veterana: Sopradora de Ondas",
+    "Name": "Sopradora das Ondas Veterana",
     "Title": "???",
     "Icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus",
     "Type": 0,
@@ -16679,7 +16679,7 @@
     "Id": 0,
     "DescribeId": 63005,
     "Name": "Lobo Glacial Radiante Veterano",
-    "Title": "Fera Radiante",
+    "Title": "Lobo Glacial Veterano",
     "Icon": "UI_MonsterIcon_Magbeast_Steppenwolf_02",
     "Type": 0,
     "Arkhe": 0
@@ -16728,6 +16728,66 @@
       "WindSubHurt": 0.1,
       "IceSubHurt": 0.1,
       "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 26302101,
+    "DescribeId": 63021,
+    "MonsterName": "Monster_Magbeast_Gecko_01",
+    "Name": "Lagartixa Radiante",
+    "Title": "Dragão Buscador da Lua",
+    "Description": "Um monstro antigo atraído pelo luar, essa lagartixa vive nas profundezas das camadas de pedras.\nO acúmulo gradual de energia Kuuvahki cristalizou seu corpo em partes delicadamente segmentadas, semelhantes a mecanismos. Essas partes podem endurecer e formar espinhos de pedra usados para repelir intrusos.\nAlguns estudiosos acreditam que os ancestrais deste lagarto incomum já vagaram pela superfície. Ao longo dos tempos, mudanças radicais no mundo os forçaram a se refugiar no subsolo, onde vivem na escuridão há incontáveis gerações. Embora a memória da verdadeira luz da lua tenha se desvanecido, o instinto permanece, fazendo com que eles, em noites de lua cheia, se alimentem de pedras e solo impregnados com o brilho do luar para preservar sua linhagem.",
+    "Icon": "UI_MonsterIcon_Magbeast_Gecko",
+    "Type": 2,
+    "Arkhe": 0,
+    "Affixes": [
+      "多层护盾G教学关联词缀"
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113085,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ],
+    "BaseValue": {
+      "HpBase": 285.264,
+      "AttackBase": 87.92,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.7,
       "PhysicalSubHurt": 0.1
     },
     "GrowCurves": [
@@ -16820,6 +16880,15 @@
     "GrowCurves": []
   },
   {
+    "Id": 0,
+    "DescribeId": 90102,
+    "Name": "Stormterror",
+    "Title": "Furacão Uivante de Mondstadt",
+    "Icon": "UI_MonsterIcon_Dvalin",
+    "Type": 0,
+    "Arkhe": 0
+  },
+  {
     "Id": 29020101,
     "DescribeId": 90201,
     "MonsterName": "Monster_Wolf_LupiBoreas",
@@ -16859,6 +16928,27 @@
         "Value": 12
       }
     ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90202,
+    "Name": "Lupus Boreas, Dominador dos Lobos",
+    "Title": "Furacão Uivante de Mondstadt",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0,
+    "Affixes": [
+      "北风狼试炼-循环标记"
+    ]
+  },
+  {
+    "Id": 0,
+    "DescribeId": 90203,
+    "Name": "???",
+    "Title": "Furacão Uivante de Mondstadt",
+    "Icon": "UI_MonsterIcon_LupiBoreas",
+    "Type": 0,
+    "Arkhe": 0
   },
   {
     "Id": 29030101,

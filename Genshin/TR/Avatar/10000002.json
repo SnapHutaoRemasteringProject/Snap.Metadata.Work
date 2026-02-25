@@ -1153,5 +1153,11 @@
     "Description": "İsim Kartı arka planı.\nAyaka yanında taşıdığı yelpazeleri sürekli değiştirir. Ona bir hediye alacaksan yaz yelpazesi veya fırlatma yelpazesi alma sakın. Dans yelpazesi veya çay yelpazesi alabilirsin.",
     "Icon": "UI_NameCardIcon_Ayaka",
     "PicturePrefix": "UI_NameCardPic_Ayaka"
+  },
+  "TraceEffect": {
+    "Id": 215018,
+    "Name": "Yankı: Buz Balıkçılı",
+    "Description": "Kamisato Ayaka'nın Hayali Yankısı. \"Kim demiş kış renksizdir diye? Bembeyaz karlar kaplar her bir yanı.\"",
+    "Icon": "UI_TraceEffectIcon_Ayaka"
   }
 }

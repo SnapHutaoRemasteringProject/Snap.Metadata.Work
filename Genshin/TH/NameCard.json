@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka - จ่าฝูงหมาป่า",
+    "Description": "ลายนามบัตร\nฝูงหมาป่าไล่ตามสายลมที่พัดมาจากทางเหนือ... แต่มีเพียงจ่าฝูงเท่านั้นที่รู้ว่า ก่อนจะเริ่มวิ่งนั้น สายลมได้โอบล้อมเท้าของทุกคนอยู่แล้ว",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "บันทึก - ลมเหนือ",
+    "Description": "ลายนามบัตร\nนั่นคือสิ่งที่สายลมพัดมาจากทางเหนือ: ความหนาวเย็นเล็กน้อย กลิ่นหอมสุดท้ายของดอกไม้ก่อนร่วงโรย และข่าวการกลับมาของผู้เดินทางจากแดนไกล",
+    "SpecialDescription": "ลายนามบัตร \"บันทึก - ลมเหนือ\"",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

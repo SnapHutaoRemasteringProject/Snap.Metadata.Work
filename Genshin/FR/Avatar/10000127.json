@@ -851,7 +851,7 @@
       {
         "Id": 1276,
         "Name": "Oriole des nuits terrifiantes",
-        "Description": "L'effet Serment de ratniki de l'aptitude d'élévation <color=#FFD780FF>{LINK#P1272101}« Pacte du forge-torche »{/LINK}</color> est renforcé : augmente les <color=#FFE699FF>DGT Géo</color> infligés aux ennemis et le taux CRIT de 10 % et les DGT CRIT de 30 %.\n\n<color=#FFD780FF>Signelune « Lueur ascendante »</color>\nLa maîtrise élémentaire des personnages bénéficiant de l'effet Serment de ratniki augmente de 80 pts.\nL'aptitude d'élévation <color=#FFD780FF>« Pacte du forge-torche »</color> doit être déjà débloquée.",
+        "Description": "L'effet Serment de ratniki de l'aptitude d'élévation <color=#FFD780FF>{LINK#P1272101}« Pacte du forge-torche »{/LINK}</color> est renforcé : augmente le taux CRIT de 10 % et les DGT CRIT de 30 % en infligeant des <color=#FFE699FF>DGT Géo</color> à un ennemi.\n\n<color=#FFD780FF>Signelune « Lueur ascendante »</color>\nLa maîtrise élémentaire des personnages bénéficiant de l'effet Serment de ratniki augmente de 80 pts.\nL'aptitude d'élévation <color=#FFD780FF>« Pacte du forge-torche »</color> doit être déjà débloquée.",
         "Icon": "UI_Talent_S_Illuga_04"
       }
     ]
@@ -866,7 +866,7 @@
     "VisionBefore": "Géo",
     "VisionOverrideUnlocked": "Œil divin",
     "ConstellationBefore": "Oriolus",
-    "CvChinese": "Mace",
+    "CvChinese": "昱头",
     "CvJapanese": "梅田修一朗",
     "CvEnglish": "Jonathon Ha",
     "CvKorean": "Hwang Dong-hyun",
@@ -882,6 +882,10 @@
     },
     "Fetters": [
       {
+        "Title": "Première rencontre...",
+        "Context": "Salut ! Je m'appelle Illuga, chef de l'escouade d'enquête des Gardiens de lumière. Avez-vous perdu votre chemin ? Ne vous en faites pas, ça arrive souvent. Ces chemins ne sont pas vraiment adaptés aux voyageurs, même dans les meilleurs jours. Suivez-moi, je vais éclairer la route devant nous."
+      },
+      {
         "Title": "Bavardage - Garde",
         "Context": "On dit que plus les choses semblent calmes en apparence, plus le danger a de chances de se tapir dans l'ombre... Je ne sais pas si c'est toujours vrai, mais ça ne fait jamais de mal de rester sur ses gardes."
       },
@@ -892,10 +896,6 @@
       {
         "Title": "Bavardage - Adversité",
         "Context": "Se contenter de faire ce qu'on sait bien faire ne suffit pas, vous savez. Parfois, la seule façon de devenir plus fort, c'est de sortir de sa zone de confort."
-      },
-      {
-        "Title": "Première rencontre...",
-        "Context": "Salut ! Je m'appelle Illuga, chef de l'escouade d'enquête des Gardiens de lumière. Avez-vous perdu votre chemin ? Ne vous en faites pas, ça arrive souvent. Ces chemins ne sont pas vraiment adaptés aux voyageurs, même dans les meilleurs jours. Suivez-moi, je vais éclairer la route devant nous."
       },
       {
         "Title": "Après la pluie...",

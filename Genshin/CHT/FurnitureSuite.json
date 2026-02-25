@@ -596,7 +596,8 @@
       10000031,
       10000041,
       10000051,
-      10000115
+      10000115,
+      10000123
     ],
     "Units": [
       361205,
@@ -798,7 +799,8 @@
       10000034,
       10000032,
       10000016,
-      10000039
+      10000039,
+      10000128
     ],
     "Units": [
       373303,
@@ -2936,6 +2938,165 @@
     "MapIcon": "UI_MarkPoint_Homeworld_Suit",
     "FavoriteNpcs": [
       10000113
+    ]
+  },
+  {
+    "Id": 100,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "各方來客的舒心居室",
+    "Description": "陳設齊全的臥室，借鑑了那夏鎮最大酒館「旗艦」的客房設計，並針對居住者的需求做出改良。\n「旗艦」酒館的客人背景複雜多樣，對舒適的定義也各不相同。要在各方期待之間找到平衡並非易事，最終「旗艦」選擇了一種獨特的解決方案：將客人可能需要的一切陳設配置到客房之中，再根據客人的看法減去不必要的物品。儘管房間佈置因堆滿東西而稍顯擁擠，但勝在功能齊備，每一位客人都能從中找到屬於自己的舒適。",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Bedroom",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit"
+  },
+  {
+    "Id": 101,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "月下的安眠",
+    "Description": "樸素大方的臥室，擺放著霜月之子遴選過的家具，整體氣氛素雅且溫馨。據傳，悠靜的自然環境能夠幫助人們更加放鬆身心，而這間臥室恰似這句話的完美體現——枕著昏黃月光般溫柔的燈影，空氣中瀰漫著果香的清新氣息，住在此間的人似乎能感覺到疲憊和痛楚被緩緩撫平，夜晚的安詳與平靜悄然喚來睡意…",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119
+    ]
+  },
+  {
+    "Id": 102,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "秘聞的有序經緯",
+    "Description": "特色鮮明的工作間，設計深度參考了「秘聞館」，忠實還原老闆工作時的場景，一切都井井有條。\n情報分析是一項繁瑣且富有挑戰性的事務，千頭萬緒的狀況往往讓人無從下手。而置身於這樣陳設擺放得當，且輔助工具齊全的房間中，人們的思維或許會更加清晰，工作的效率也會相應提升…",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Miwenguan",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124
+    ]
+  },
+  {
+    "Id": 103,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "最棒最溫暖的家",
+    "Description": "挪德卡萊風格的臥室，整體設計給人溫馨舒適的觀感，是忙碌一天後卸除疲憊的理想場所。臥室內所有用具均來自「叮鈴哐啷蛋捲工坊」，由「家長」本人仔細挑選，是全世界最棒最溫暖最好用的家具。然而，這份舒適也帶來了一個小麻煩——使用者常因過於放鬆睡過頭，甚至錯過重要事項。或許，需要強勁而貼心的喚醒手段，來確保使用者按時起床。",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 104,
+    "Types": [
+      672,
+      0
+    ],
+    "Name": "戰前的小憩",
+    "Description": "功能齊全的集體休息室，參考了皮達米拉城的房間設計，還原執燈士戰前小憩的場景。經驗豐富的執燈士深知與狂獵的戰爭漫長且艱難，必須在條件允許時盡可能休息，以保持最佳戰鬥狀態。此外，佈置得當的休息室，還能讓執燈士們在戰前增進彼此的熟悉度——在戰場上，與熟悉的同伴並肩作戰比陌生人更能帶來信賴與默契，也因此，休息室的建設歷來受到執燈長們的重視。",
+    "ItemIcon": "UI_Home_Suite_Interior_Ndkl_Room_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 106,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "終北之地的原野",
+    "Description": "雲集了挪德卡萊地區常見植被與地貌的原野，較為真實地還原了希汐島野外的獨特風光。\n挪德卡萊地區有著豐沛的月矩力，催生了色彩鮮豔的植物、習性奇特的動物，以及形態獨特的地貌。對於博物學家而言，這片區域蘊藏著無數名為新知的寶藏。而對於普通遊客而言，這樣的奇妙景致也令人不禁駐足欣賞。",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Field_Nature",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000123
+    ]
+  },
+  {
+    "Id": 107,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "繁忙的邊地小鎮",
+    "Description": "以多種特色建築為核心的區域景觀，設立了功能各異的店鋪，完美還原那夏鎮一角的風貌。\n據傳，那夏鎮有別於其他城市，沒有真正的管理者，也缺乏明確的規劃結構，使得鎮上的建築之間充滿了無數狹窄的通道與隱秘縫隙。對普通居民而言，這些通道只不過是噪音傳播的工具，然而對於善於捕捉資訊的有心者而言，這些通道卻是秘聞傳播的路徑之一，還有靈巧穿行的捷徑…",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Naxia",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000122,
+      10000124,
+      10000128
+    ]
+  },
+  {
+    "Id": 108,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "月下的恬靜禱歌",
+    "Description": "以霜月之坊的景色為藍本所佈置的露天風貌，依照「霜月之子」的規則陳列了各式器具，並根據器具種植了相稱的植被。踏入其中，便可感受到霜月之子特有的安寧與祥和生活氛圍——悠揚溫柔的禱歌似乎悄然從腦內響起，所有煩惱與苦痛隨風而去，只餘一片靜謐悠然的心境。",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Shuangyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000119,
+      10000125
+    ]
+  },
+  {
+    "Id": 109,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "漫漫長夜中的孤燈",
+    "Description": "築有厚重房屋的聚落，設計與建築樣式以執燈人慣用的野外防禦據點為參考。這樣的設計能夠抵禦風雨侵襲，即使面對洶湧而至的狂獵，也具備不俗的防禦能力。正如執燈人所立的誓言：「我們是執燈人，無盡雪原中執燈守護永燃的希望。」\n在皮拉米達城外的廣闊原野上，這樣的據點宛如火炬，傳遞著希望的光芒。",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Zhidengren",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000120,
+      10000127
+    ]
+  },
+  {
+    "Id": 110,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "方興未艾的工坊",
+    "Description": "參考「叮鈴哐啷蛋捲工坊」建造的小型聚落，配備了舒適便利的半球形鐵屋，以及鐵船造型的建築，足以滿足工坊主人們的基本需求。\n世上的偉大工坊們無不是由一個個基本建築單元起步，有了這些作為基石的建築，再輔以得當的規劃、充足的材料，將整個「壺中洞天」改造成一座巨大的工坊，也並非沒有可能…",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Workshop",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000116,
+      10000121
+    ]
+  },
+  {
+    "Id": 111,
+    "Types": [
+      772,
+      0
+    ],
+    "Name": "新月的謐景",
+    "Description": "以「銀月之庭」為靈感設計的庭院，整體風格寧靜而安詳，彷彿遙不可及的夢幻之境。\n月光總能溫柔地引導眾生，或許，曾有月神的信徒認真思考——怎樣的景致，才能將新月引入獨屬於她的安恬夢鄉？\n唯有真正造訪「銀月之庭」，靜心欣賞那裡的一花一草，才能知曉答案…",
+    "ItemIcon": "UI_Home_Suite_Exterior_Ndkl_Build_Yinyue",
+    "MapIcon": "UI_MarkPoint_Homeworld_Suit",
+    "FavoriteNpcs": [
+      10000125
     ]
   }
 ]

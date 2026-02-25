@@ -4777,6 +4777,59 @@
     ]
   },
   {
+    "Id": 12515,
+    "PromoteId": 12515,
+    "Sort": 5211,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Gesta del Lupo maestoso",
+    "Description": "La leggenda narra che questo spadone sia stato forgiato da Ravenwood, erede del nome di Boreas, prima della sua ascesa al cavalierato.",
+    "Icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+    "AwakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Cavalleria indomita",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "#La VEL d'ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l'arma colpisce gli avversari con un attacco normale, quando usa l'abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un <color=#99FFFFFF>7,5%</color> per 4{NON_BREAK_SPACE}s. L'effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01{NON_BREAK_SPACE}s.\nInoltre, quando nel gruppo è attivo l'effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un <color=#99FFFFFF>7,5%</color> anche i DAN da CRIT del personaggio che equipaggia l'arma."
+        },
+        {
+          "Level": 1,
+          "Description": "#La VEL d'ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l'arma colpisce gli avversari con un attacco normale, quando usa l'abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un <color=#99FFFFFF>9,5%</color> per 4{NON_BREAK_SPACE}s. L'effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01{NON_BREAK_SPACE}s.\nInoltre, quando nel gruppo è attivo l'effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un <color=#99FFFFFF>9,5%</color> anche i DAN da CRIT del personaggio che equipaggia l'arma."
+        },
+        {
+          "Level": 2,
+          "Description": "#La VEL d'ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l'arma colpisce gli avversari con un attacco normale, quando usa l'abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un <color=#99FFFFFF>11,5%</color> per 4{NON_BREAK_SPACE}s. L'effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01{NON_BREAK_SPACE}s.\nInoltre, quando nel gruppo è attivo l'effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un <color=#99FFFFFF>11,5%</color> anche i DAN da CRIT del personaggio che equipaggia l'arma."
+        },
+        {
+          "Level": 3,
+          "Description": "#La VEL d'ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l'arma colpisce gli avversari con un attacco normale, quando usa l'abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un <color=#99FFFFFF>13,5%</color> per 4{NON_BREAK_SPACE}s. L'effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01{NON_BREAK_SPACE}s.\nInoltre, quando nel gruppo è attivo l'effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un <color=#99FFFFFF>13,5%</color> anche i DAN da CRIT del personaggio che equipaggia l'arma."
+        },
+        {
+          "Level": 4,
+          "Description": "#La VEL d'ATT aumenta di un 10%. Ogni volta che il personaggio che equipaggia l'arma colpisce gli avversari con un attacco normale, quando usa l'abilità elementale o quando dà inizio a un attacco caricato, ottiene 1/2/2 accumuli di Inno dei Quattro Venti rispettivamente, ciascuno dei quali aumenta i DAN inflitti di un <color=#99FFFFFF>15,5%</color> per 4{NON_BREAK_SPACE}s. L'effetto è cumulabile fino a 4 volte e può attivarsi una volta ogni 0,01{NON_BREAK_SPACE}s.\nInoltre, quando nel gruppo è attivo l'effetto Hexerei: Rito segreto, ogni accumulo di Inno dei Quattro Venti aumenta di un <color=#99FFFFFF>15,5%</color> anche i DAN da CRIT del personaggio che equipaggia l'arma."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114008,
+      112139,
+      112034
+    ]
+  },
+  {
     "Id": 13101,
     "PromoteId": 13101,
     "Sort": 1301,

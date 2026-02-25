@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "事情本應如此發展",
-    "Description": "見證魘月的復歸。",
+    "Description": "見證贗月的復歸。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "「月球漫步」",
+    "Description": "在蘊光月守宮準備施展「空踏的虛蕩」之時，摧毀「月錨岩」打斷牠的蓄能。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

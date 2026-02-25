@@ -1,37 +1,5 @@
 [
   {
-    "Id": 114,
-    "FloorIds": [
-      1110,
-      1111,
-      1118,
-      1119
-    ],
-    "Open": "2025-12-16T04:00:00+08:00",
-    "Close": "2026-01-16T03:59:59+08:00",
-    "BuffName": "Ánh Trăng Giông Tố",
-    "Descriptions": [
-      "Khi nhân vật trong trận hiện tại kích hoạt phản ứng Khuếch Tán lên kẻ địch, sẽ <color=#F39000>giải phóng sóng xung kích</color> tại vị trí kẻ địch, gây Sát Thương Chuẩn. Hiệu quả này mỗi 2s tối đa kích hoạt một lần."
-    ],
-    "Icon": "UI_TowerBlessing_100"
-  },
-  {
-    "Id": 115,
-    "FloorIds": [
-      1110,
-      1111,
-      1120,
-      1121
-    ],
-    "Open": "2026-01-16T04:00:00+08:00",
-    "Close": "2026-02-16T03:59:59+08:00",
-    "BuffName": "Ánh Trăng Đột Kích",
-    "Descriptions": [
-      "Khi nhân vật kích hoạt phản ứng Nguyệt (Nguyệt-Sum Suê/Nguyệt-Điện Cảm/Nguyệt-Kết Tinh) lên kẻ địch, sẽ <color=#F39000>giải phóng sóng xung kích</color> tại vị trí kẻ địch, gây Sát Thương Chuẩn. Hiệu quả này mỗi 3s tối đa kích hoạt một lần."
-    ],
-    "Icon": "UI_TowerBlessing_101"
-  },
-  {
     "Id": 116,
     "FloorIds": [
       1110,
@@ -46,6 +14,22 @@
       "Khi nhân vật gây sát thương Nguyệt-Kết Tinh lên kẻ địch, sẽ <color=#F39000>giải phóng sóng xung kích</color> tại vị trí kẻ địch, gây Sát Thương Chuẩn. Hiệu quả này mỗi 3s tối đa kích hoạt một lần."
     ],
     "Icon": "UI_TowerBlessing_102"
+  },
+  {
+    "Id": 117,
+    "FloorIds": [
+      1110,
+      1111,
+      1124,
+      1125
+    ],
+    "Open": "2026-03-16T04:00:00+08:00",
+    "Close": "2026-04-16T03:59:59+08:00",
+    "BuffName": "Ánh Trăng Gió Giật",
+    "Descriptions": [
+      "Khi nhân vật kích hoạt phản ứng Khuếch Tán lên kẻ địch, sẽ nhận được 1 tầng Sức Gió Mãnh Liệt. Khi Sức Gió Mãnh Liệt đạt 4 tầng, sẽ <color=#F39000>giải phóng sóng xung kích</color> tại vị trí kẻ địch, gây Sát Thương Chuẩn và tiêu hao toàn bộ Sức Gió Mãnh Liệt. Mỗi 0.1s tối đa nhận 1 tầng Sức Gió Mãnh Liệt, mỗi 6s tối đa giải phóng một lần sóng xung kích theo cách này."
+    ],
+    "Icon": "UI_TowerBlessing_100"
   },
   {
     "Id": 1,
@@ -1865,5 +1849,37 @@
       "Khi nhân vật trong trận tăng hoặc giảm Khế Ước Sinh Mệnh, sẽ <color=#F39000>thi triển sóng xung kích</color> gây sát thương chuẩn cho kẻ địch ở gần."
     ],
     "Icon": "UI_TowerBlessing_99"
+  },
+  {
+    "Id": 114,
+    "FloorIds": [
+      1110,
+      1111,
+      1118,
+      1119
+    ],
+    "Open": "2025-12-16T04:00:00+08:00",
+    "Close": "2026-01-16T03:59:59+08:00",
+    "BuffName": "Ánh Trăng Giông Tố",
+    "Descriptions": [
+      "Khi nhân vật trong trận hiện tại kích hoạt phản ứng Khuếch Tán lên kẻ địch, sẽ <color=#F39000>giải phóng sóng xung kích</color> tại vị trí kẻ địch, gây Sát Thương Chuẩn. Hiệu quả này mỗi 2s tối đa kích hoạt một lần."
+    ],
+    "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Ánh Trăng Đột Kích",
+    "Descriptions": [
+      "Khi nhân vật kích hoạt phản ứng Nguyệt (Nguyệt-Sum Suê/Nguyệt-Điện Cảm/Nguyệt-Kết Tinh) lên kẻ địch, sẽ <color=#F39000>giải phóng sóng xung kích</color> tại vị trí kẻ địch, gây Sát Thương Chuẩn. Hiệu quả này mỗi 3s tối đa kích hoạt một lần."
+    ],
+    "Icon": "UI_TowerBlessing_101"
   }
 ]

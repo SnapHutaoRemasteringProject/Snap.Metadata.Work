@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Nhân Vật Vào Ở Gia Viên",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "Đèn tiêu khổng lồ lấy nguyên mẫu là một vị tiên nhân canh giữ mặt trăng, với hình dáng ngựa trắng tung mình vượt qua khe núi, mây trắng bồng bềnh quấn quanh, ráng chiều trải dài. Ngày nay, mọi người đều muốn viết điều ước lên đèn tiêu, biết đâu nhờ vậy, Bạch Mã Tiên Nhân sẽ nguyện cưỡi cỗ xe ngọc từ cung trăng xuống trần gian, đáp lại những điều ước của con người?",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361345,
+    "Name": "Bánh Quy Tròn Xoe",
+    "Description": "Chiếc bàn tròn thấp thường thấy ở Xưởng Krumkake Clink-Clank, thân bàn được làm bằng sắt, kết cấu vững chắc, kiểu dáng giống như chiếc bánh quy tròn thơm phức.\nThường có người phân vân không biết có nên trải khăn trải bàn đẹp đẽ lên chiếc bàn này hay không... Nhưng nếu trải khăn thì việc dọn dẹp vụn Krumkake rơi trên khăn sẽ rất phiền phức!",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361346,
+    "Name": "Nhà Lưu Trữ Clink-Clank",
+    "Description": "Chiếc bàn lưu trữ thường thấy ở Xưởng Krumkake Clink-Clank, có sự phân chia rõ ràng các khu vực, giống như những ngôi nhà cao thấp san sát nhau.\n\"Đây là nhà của búa, kia là nhà của đinh...\" Người phân loại và sắp xếp đồ đạc trên chiếc bàn này đã nói như vậy.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361347,
+    "Name": "Bàn Tròn Sương Nguyệt - Xanh Dương Mềm Mại",
+    "Description": "Chiếc bàn tròn thường thấy ở Sương Nguyệt Phường, được đóng từ Gỗ Sồi Hè có độ bền và khả năng chống thấm nước vượt trội, có tính ứng dụng rộng rãi.\nThợ thủ công của Dòng Dõi Sương Nguyệt lấy cảm hứng từ vầng trăng sáng treo cao trên bầu trời đêm, đã kết hợp một tấm khăn trải bàn mềm mại màu xanh da trời cho chiếc bàn tròn tựa vầng trăng này, mang đến sự yên bình và ấm áp như bầu trời đêm.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363414,
+    "Name": "Ghi Chú Của Ai Đó",
+    "Description": "Những chồng sách chất đống ngổn ngang trong Sương Nguyệt Phường, phần lớn không phải là những cuốn sách được đóng gáy cẩn thận, mà là những tập bản thảo của các tác giả vô danh.\nNhững cuốn sách loại này thường sẽ ẩn chứa những câu chuyện ly kỳ hấp dẫn và đặc sắc, nét chữ nguệch ngoạc, ngữ pháp lộn xộn hay những dấu vết để lại trên trang sách, dường như đều kể lại trạng thái chân thực của tác giả khi viết.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363415,
+    "Name": "Bàn Nhỏ Sương Nguyệt - Hương Thơm Trái Cây",
+    "Description": "Chiếc bàn nhỏ thường thấy trong phòng ở Sương Nguyệt Phường, trên bàn thường đặt những loại trái cây tươi ngon theo mùa.\nNhững loại trái cây được đặt trên bàn không chỉ để ăn, mà còn đóng vai trò như một loại hương liệu, mùi hương trái cây thoang thoảng lan tỏa khắp phòng, không quá nồng nàn, lại có thể tạo nên một bầu không khí ấm cúng dễ chịu.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363511,
+    "Name": "Nhánh Xanh Lam Nổi Bật",
+    "Description": "Hoa máy móc không bao giờ tàn, là chậu cây trang trí trong nhà được các Ratnik đặc biệt yêu thích.\n\"Không có thời gian chăm sóc... không có ánh sáng... thậm chí không thể đào được một xẻng đất màu mỡ!\"\nVì vậy, khi người khéo tay trong nhóm Ratnik dùng những vật liệu bỏ đi để tạo ra một chậu cây có hình dáng khá đẹp mắt như vậy, tất cả mọi người đều rất vui mừng... Màu xanh biếc tựa như bầu trời kia cũng chính là sắc màu mà những người sống lâu trong đêm tối khát khao được nhìn thấy.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 362134,
+    "Name": "Ghế Tựa Lưng \"Gối Nguyệt\" Gỗ Sồi Hè",
+    "Description": "Loại ghế được làm từ Gỗ Sồi Hè, thường thấy ở Sương Nguyệt Phường.\nPhần tựa lưng của nó sau khi được chạm khắc tinh xảo, phần khoét rỗng ở giữa sẽ tựa như vầng trăng tròn. Khi được đặt trong nhà, mặt ghế được trải một lớp đệm mềm màu xanh da trời, tạo nên bầu không khí ấm cúng và tự nhiên cho không gian.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363119,
+    "Name": "Ánh Sáng Sừng Lạnh",
+    "Description": "Đèn gỗ thường thấy trong phòng ở Sương Nguyệt Phường, thiết kế lấy cảm hứng từ Hươu Sừng Lạnh, mang đậm nét đặc trưng riêng.\nMặc dù được thiết kế có tay cầm để tiện mang theo, nhưng do khá nặng nên thường được đặt ở vị trí cố định. Phần lớn mọi người ở Sương Nguyệt Phường đều dùng nó làm đèn đêm, ánh sáng của nó vừa có thể soi đường trong đêm mà không làm giật mình những sinh vật nhỏ hiền lành.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 363120,
+    "Name": "Nấm Rơm Xiêu Vẹo",
+    "Description": "Chiếc đèn có thể thấy ở doanh trại của Người Giữ Đèn, có hình dáng như một cây nấm.\nKhác với hầu hết các loại đèn lấy cảm hứng từ \"nấm\" trên thị trường, phần phát sáng của chiếc đèn này không nằm ở \"mũ nấm\" mà ở \"cuống nấm\" uốn lượn quanh co. Đặc biệt hơn nữa là ánh đèn mà nó tỏa ra, một nửa ấm áp như ánh mặt trời, một nửa còn lại dịu mát như ánh trăng.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361413,
+    "Name": "Tổ Ấm Tuyệt Vời Nhất",
+    "Description": "Chiếc giường nhỏ có thể thấy tại Xưởng Krumkake Clink-Clank, với khung giường bằng kim loại vững chắc làm nền, ga trải giường màu hồng với họa tiết đáng yêu cùng những chiếc gối mềm mại. Kích thước rộng rãi và độ cao phù hợp của nó cho phép người dùng ngủ ngon bất kể tư thế nào, tận hưởng trải nghiệm giấc ngủ tuyệt vời.\n\"Đây là chiếc giường tuyệt nhất trên đời mà tôi từng ngủ!\" Người tạo ra chiếc giường này tự hào tuyên bố.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361414,
+    "Name": "Giường Đá Sương Nguyệt - Mát Mẻ Sảng Khoái",
+    "Description": "Loại giường đá thường thấy ở Sương Nguyệt Phường, bề mặt trải một tấm chăn mềm mại, nhưng người nằm trên đó vẫn có thể cảm nhận được sự cứng cáp của nó.\nVào những ngày thời tiết oi bức, nằm trên chiếc giường này sẽ cảm nhận được sự mát mẻ thấm vào da thịt. Nhưng nếu vào mùa đông giá lạnh, tốt nhất nên trải thêm một lớp đệm dày lên trước khi nằm xuống thì hơn.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361121,
+    "Name": "Bàn Thấp Trong Nhà - Giá Trị Độc Nhất",
+    "Description": "Chiếc bàn thấp thường được sử dụng trong trại của Người Giữ Đèn, có không gian lưu trữ khá rộng rãi.\nVới vai trò là một chiếc kệ, nó thường gánh vác \"sở thích\" của người sử dụng, người yêu hoa sẽ đặt đầy chậu hoa lên trên, người mê sách chất đầy sách vở, người đam mê ẩm thực thì để đầy đồ ăn. Còn đối với các Ratnik, chiếc bàn thấp này là đồ nội thất gần giường ngủ nhất, thứ thường xuyên được đặt lên đó chính là chiếc đèn mà họ coi như mạng sống thứ hai, luôn mang theo bên mình.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361122,
+    "Name": "Kệ Sách Trong Nhà - Nhàn Rỗi Đọc Sách",
+    "Description": "Chiếc kệ sách thường dùng trong doanh trại Người Giữ Đèn, thiết kế khá độc đáo, có thể dễ dàng xếp được nhiều loại sách với kích cỡ khác nhau.\nĐối với các Ratnik, tri thức là tài sản quý giá, chút kiến thức tình cờ thu được có thể cứu mạng vào thời khắc quyết định. Vì vậy, khi rảnh rỗi, nhiều Ratnik thường tụ tập trước kệ sách để trau dồi tri thức, vừa nghỉ ngơi vừa chuẩn bị sẵn sàng cho trận chiến tiếp theo.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361123,
+    "Name": "Quầy Trong Nhà - Chính Thức Ghé Thăm",
+    "Description": "Quầy tiếp đón thường dùng trong trại của Người Giữ Đèn, toàn thân được đúc từ sắt, kiên cố và vững chãi. Sau quầy thường có người phụ trách trực ca đứng sẵn, để tiếp đón những vị khách lạ mặt muốn đến thăm.\nNhìn bề ngoài, chiếc quầy này trông có vẻ đơn sơ và thô kệch, nhưng đó chính là dụng ý của các Ratnik. Nó có tác dụng răn đe hiệu quả với những \"vị khách không mời\" chưa suy nghĩ thấu đáo đã liều lĩnh bước vào nơi hiểm nguy.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361124,
+    "Name": "Tháp Cao Cao",
+    "Description": "Chiếc tủ có thể thấy ở Xưởng Krumkake Clink-Clank, có phần dưới rộng và phần trên hẹp, trông giống như một tòa tháp nhiều tầng. Thiết kế độc đáo này không chỉ mang lại khả năng chứa đồ tuyệt vời mà còn giúp trọng tâm ổn định, khiến chiếc tủ khó bị đổ ngay cả khi chịu lực va đập mạnh từ bên ngoài. \"Mỗi tầng đều có những cư dân khác nhau, to lớn ở dưới, nhỏ bé ở trên, giống như một tòa tháp cao vậy!\" Xuất phát từ ý tưởng thiết kế đó, người sáng chế đã hoàn thành chiếc tủ có ngoại hình vô cùng đặc biệt này.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 361125,
+    "Name": "Tủ Áo Quán Trọ - Tăng Dung Lượng",
+    "Description": "Tủ quần áo thường thấy trong Soái Hạm, dung lượng cực lớn, với sự kết hợp màu sắc trang nhã và đẹp mắt.\nBan đầu, sức chứa của tủ này chỉ bằng một nửa hiện tại, nhưng vì trong Soái Hạm không thiếu những vị khách cư trú lâu dài, khi cần chuẩn bị sẵn các loại quần áo phù hợp cho mọi loại thời tiết khác nhau, nhu cầu về dung lượng tủ cũng tăng lên theo. Các khách hàng đã cùng nhau đưa ra ý kiến yêu cầu mở rộng tủ quần áo ban đầu. Giờ đây, nó đã vượt xa dung lượng của tủ quần áo thông thường, chỉ là không biết đến khi nào nó sẽ lại được mở rộng thêm lần nữa?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 362322,
+    "Name": "Thảm Sương Nguyệt - Trong Veo",
+    "Description": "Tấm thảm thường thấy tại Sương Nguyệt Phường, lấy màu xanh lam làm tông chủ đạo, điểm thêm màu cam đỏ nổi bật bắt mắt. Toàn bộ thiết kế mang tính đối xứng, không chỉ mang lại vẻ đẹp thị giác mà còn đem lại cảm giác trật tự và bình yên trong tâm hồn.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 362323,
+    "Name": "Thảm Mềm Mại",
+    "Description": "Tấm thảm tròn có thể bắt gặp tại Xưởng Krumkake Clink-Clank, màu sắc ấm áp, được vẽ thêm những họa tiết dễ thương và ấm cúng.\nThảm được làm từ chất liệu mềm mại, mịn màng, tổng thể tạo nên cảm giác bông xù, thậm chí khi chạm vào còn có cảm giác như đang vuốt ve một chú mèo vậy...",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 364227,
+    "Name": "Kiên Cường Như Sắt Thép",
+    "Description": "Đồ trang trí treo tường thường thấy trong trại của Người Giữ Đèn, được tạo thành từ gươm và khiên đặt chéo nhau, thể hiện quyết tâm và nghị lực của các Ratnik trong việc chiến đấu với kẻ thù bên ngoài để bảo vệ gia đình.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 364228,
+    "Name": "Ngọn Cờ Giữ Đèn",
+    "Description": "Lá cờ thường thấy trong trại của Người Giữ Đèn, bên trên vẽ biểu tượng ngọn hải đăng của họ, thể hiện ý chí kiên định của các Ratnik trong việc canh giữ ngọn đèn trong đêm tối, không bao giờ lùi bước.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 364229,
+    "Name": "Đèn Tường Quán Rượu - Hành Lang Ánh Sáng",
+    "Description": "Đèn treo tường thường thấy trong Soái Hạm, ánh sáng rực rỡ, thường được treo ở hành lang để làm công cụ chiếu sáng. Dây treo đèn được thiết kế bằng dây trắng, nhìn từ xa, ánh đèn như lơ lửng trên hành lang. Thiết kế này khiến đèn dễ bị ảnh hưởng bởi rung động xung quanh và dao động nhẹ. Những người pha chế rượu lão luyện thậm chí còn có thể thông qua sự dao động của ánh đèn mà nắm bắt được động tĩnh trên bàn rượu, nhằm ngăn ngừa những xung đột có thể xảy ra.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371022,
+    "Name": "Lầu Căn Cứ - Nhà Kính Đa Năng",
+    "Description": "Công trình phụ trợ của Căn Cứ Cánh Quạt Lạch Cạch, được trang bị tường dày và hệ thống ống khói đặc biệt, kết nối với lò hơi cấp nhiệt bên ngoài, có thể duy trì nhiệt độ trong nhà một cách ổn định. Dù được sử dụng làm phòng ngủ tạm thời để tiếp khách, phòng tắm hoạt động ở nhiệt độ ổn định hay xưởng đặc biệt cung cấp nhiệt liên tục, thì loại công trình này đều là lựa chọn lý tưởng.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371023,
+    "Name": "Lầu Căn Cứ - Không Gian Bí Mật",
+    "Description": "Công trình phụ trợ của Căn Cứ Cánh Quạt Lạch Cạch, có hình dạng giống như một con cá khổng lồ há to miệng. Mái nhà dày dặn và bức tường kiên cố tạo nên một hàng rào bảo vệ vững chãi, mang lại hiệu quả cách âm và chắn sáng tuyệt vời cho không gian bên trong. Thiết kế như vậy, dù là sử dụng làm phòng thí nghiệm đặc biệt tránh ánh sáng và tiếng ồn, hay làm kho bảo quản để lưu trữ đồ quý giá thì đều vô cùng phù hợp.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371024,
+    "Name": "Lầu Căn Cứ - Tháp Nước Cao Vút",
+    "Description": "Công trình phụ trợ của Căn Cứ Cánh Quạt Lạch Cạch, có kết cấu cao vút và dung tích lớn, được trang bị chức năng lưu trữ và phân phối chất lỏng, đôi khi còn kiêm luôn vai trò tháp canh. Nhờ độ cao của mình, công trình này có thể vận chuyển nước bằng áp suất tĩnh của chất lỏng mà không cần nguồn động lực bên ngoài, đáp ứng nhu cầu cung cấp nước cho căn cứ. Vào mùa nóng, công trình này còn có thể phun sương, mang lại môi trường mát mẻ dễ chịu cho căn cứ.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371025,
+    "Name": "Cối Xay Gió Căn Cứ - Động Lực Phụ Trợ",
+    "Description": "Bên trong cối xay gió cảnh quan của Căn Cứ Cánh Quạt Lạch Cạch được trang bị tua-bin phụ trợ, đảm bảo quay ổn định trong mọi điều kiện thời tiết. Khi gió mạnh gào thét, nó vẫn vận hành trơn tru, mang đến bầu không khí yên bình tĩnh lặng cho sân vườn. Còn khi không khí trì trệ và nóng bức khó chịu, sự chuyển động linh hoạt của nó sẽ mang tới làn gió nhẹ nhàng và mát mẻ.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371026,
+    "Name": "Cổng Căn Cứ - Logic Vận Chuyển",
+    "Description": "Cổng của Căn Cứ Cánh Quạt Lạch Cạch sử dụng khung cổng kim loại hình tròn đặc biệt, kết hợp với bảng đèn phát sáng rực rỡ và nổi bật.\nƯu điểm của thiết kế khung cổng hình tròn là khoảng cách từ bất kỳ vị trí nào trên khung đến tâm đều bằng nhau, thuận tiện cho việc vận chuyển các linh kiện có hình dạng không theo tiêu chuẩn. Trên cơ sở đó, thiết kế của Căn Cứ Cánh Quạt Lạch Cạch còn bổ sung thêm bảng đèn, giúp cánh cổng vẫn nổi bật vào ban đêm, đảm bảo sự thuận tiện khi nhân viên và vật tư ra vào.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371027,
+    "Name": "Nền Căn Cứ - Nền Móng Vững Chắc",
+    "Description": "Nền kim loại của Căn Cứ Cánh Quạt Lạch Cạch, sử dụng thiết kế kết cấu móng kinh điển từ một số công trình kiến trúc của Nod-Krai, ẩn dưới vẻ ngoài giản dị là khả năng chịu tải đáng kinh ngạc. Loại nền này không những có thể dễ dàng đỡ các trọng lượng khác nhau trong môi trường thông thường, mà còn có thể ổn định hoạt động của các cơ quan kỹ thuật cỡ lớn trên nền đất mềm. Không quá khi nói rằng, cảnh tượng phồn vinh của Căn Cứ Cánh Quạt Lạch Cạch, chính là được xây dựng trên những nền móng vững chắc này.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371028,
+    "Name": "Tường Căn Cứ - Phòng Tuyến Ngăn Chặn",
+    "Description": "Bức tường thấp bằng kim loại của Căn Cứ Cánh Quạt Lạch Cạch được chế tạo từ các tấm kim loại chắc chắn, cảm hứng thiết kế của nó bắt nguồn từ kinh nghiệm đối đầu với Cuộc Săn Hoang Dã của Nod-Krai. Bức tường thấp này kết hợp giữa khả năng bảo vệ, tính kinh tế và sự tiện lợi khi lắp đặt, có thể cung cấp nhiều vị trí ẩn nấp đáng tin cậy cho các xạ thủ.\nNgày nay tại Căn Cứ Cánh Quạt Lạch Cạch, loại tường thấp này được giao cho một sứ mệnh mới: Trở thành công cụ phân chia không gian, giúp bố cục trong căn cứ vừa phân tầng rõ ràng, vừa giữ được tầm nhìn rộng rãi và thoáng đãng.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 371029,
+    "Name": "Trụ Căn Cứ - Tín Hiệu Vạn Năng",
+    "Description": "Trụ kim loại tại Căn Cứ Cánh Quạt Lạch Cạch, với thiết kế kiên cố và vững chắc. Khi được đặt làm cảnh quan độc lập, nó sẽ mang đến cảm giác mạnh mẽ và hiện đại cho sân vườn. Đồng thời, nó có tính thực dụng rất cao, mặt bên được lắp đặt thiết bị nâng hạ để treo cờ, trong khi đỉnh trụ có thể tương thích với nhiều loại thiết bị hữu ích, vì vậy mà được gọi là tín hiệu \"vạn năng\".",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 373940,
+    "Name": "Cái Ôm Dịu Dàng",
+    "Description": "Tượng điêu khắc bằng đá trắng bạc thường thấy ở khu vực Đảo Hiisi thuộc Nod-Krai, có tư thế giống như đang ôm ấp, mang lại cảm giác ấm áp cho người nhìn.\n\"Hỡi đứa trẻ lạc lối, nhân danh hậu duệ phương bắc, con cầu xin phước lành của ánh sáng rực rỡ, mong lòng nhân ái của Sương Nguyệt xoa dịu những cơn gió dữ dội của đêm lạnh, sưởi ấm những chú chim non co ro trên mặt đất băng giá.\"\nCó lẽ chính vì tâm nguyện xua tan bệnh tật và giúp mọi người thoát khỏi đau khổ, nên nghệ nhân điêu khắc mới trao cho tác phẩm này ý nghĩa biểu tượng tràn đầy sự an ủi.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 374129,
+    "Name": "Lan Can Thị Trấn - Ghế Tiện Lợi",
+    "Description": "Lan can thấp bằng đá thường thấy trong thị trấn, bằng phẳng và vững chắc, có phần tay vịn khá rộng, thậm chí có thể dùng làm ghế ngồi tạm thời. Tuy nhiên, cần lưu ý không được bước đi trên tay vịn, điều đó rất nguy hiểm...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 374130,
+    "Name": "Lan Can Thị Trấn - Sóng Xanh Biếc",
+    "Description": "Lan can thấp bằng gỗ thường thấy trong thị trấn, có hình dáng độc đáo, tựa như những con sóng xanh nhấp nhô.\nLoại lan can này không có nhiều chức năng ngăn chặn, nhưng nhờ kiểu dáng đặc biệt và đẹp mắt nên thường được dùng như một công cụ để phân chia khu vực.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Hoàn thành \"Ghi Chép Giai Thoại\" để nhận"
+    ],
+    "Id": 374822,
+    "Name": "Chậu Cá Lắc Lư",
+    "Description": "Cá máy móc do Aino chế tạo. Đi kèm một tờ hướng dẫn viết tay, chữ viết hơi xiêu vẹo nhưng vẫn có thể nhận ra là những lưu ý quan trọng.\n1. Nó không cần tưới nước!\n2. Không được cho nó ăn Krumkake!\n3. Hãy hòa thuận với nó nhé!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Nhật Ký Hành Trình - Bài Ca Trân Châu"
+    ],
+    "Id": 374823,
+    "Name": "Tượng Thần Tia Lửa Mãnh Liệt",
+    "Description": "Tượng thần được chế tác dựa trên nguyên mẫu Kỵ Sĩ Tia Lửa nổi tiếng trong Thành Mondstadt, dường như tái hiện dáng vẻ oai phong lẫm liệt của cô bé giữa ánh lửa bùng nổ, biến vạn vật thành tro tàn.\nLực chiến mạnh nhất Thành Mondstadt là ai? Có người sẽ nói là Jean lừng danh, có người sẽ nhắc đến Đại Đội Trưởng Varka đang viễn chinh, nhưng trong lòng một số người, lực chiến mạnh nhất vẫn là cô bé áo đỏ thần bí nắm giữ \"bảo bối\" mạnh bậc nhất kia...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372521,
+    "Name": "Ánh Trăng Đung Đưa",
+    "Description": "Loài thực vật toàn thân màu trắng bạc, thường thấy ở Sảnh Trăng Bạc.\nLoài thực vật này có thân cong dài mảnh mai, nhánh cây mang hình dáng tựa vầng trăng, mỗi khi làn gió đêm thổi qua, nó sẽ nhẹ nhàng đung đưa như thể ánh trăng đang khẽ lay động.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372522,
+    "Name": "Lắc Lư Lấp Lánh",
+    "Description": "Loài thực vật mọc thành cụm, tỏa ra ánh huỳnh quang nhàn nhạt và có sức sống mãnh liệt. Ngay cả khi không có ánh sáng hay thiếu nước, chúng vẫn có thể sinh trưởng một cách tự nhiên.\n\"Cái gì lắc lư lung lay? Cái gì lung linh lấp lánh?\"\nBọn trẻ đã nghĩ ra những câu đố đơn giản dễ hiểu, chỉ chờ khi nào gặp được một người lạ đến từ phương xa, để có thể chơi trò hỏi đáp với họ thật vui vẻ.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372523,
+    "Name": "Búi Lông Bồng Bềnh",
+    "Description": "Bụi cây thấp màu tím tựa như búi lông xù mềm mại, vừa đẹp mắt vừa có sức sống mãnh liệt, là loại cây cảnh chất lượng cao.\nLoại thực vật này có cành dễ cắt tỉa, nên dưới bàn tay khéo léo của người làm vườn, chúng thường có thể xuất hiện với đủ loại hình dáng, từ chú chó nhỏ hoạt bát, chú mèo nhỏ đáng yêu hay chú chim nhỏ nhảy nhót...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372524,
+    "Name": "Thợ Săn Tiền Thưởng",
+    "Description": "Bụi cây thấp màu xanh lá tựa như búi lông xù mềm mại, có khả năng thích nghi môi trường cực mạnh, có thể sinh tồn trong những môi trường vô cùng khắc nghiệt.\nNghe nói, trong quần thể loài thực vật này có một trường hợp đặc biệt hiếm gặp với tỷ lệ một phần trăm nghìn, nó sẽ thay đổi màu sắc cành lá do ảnh hưởng lâu dài từ môi trường sinh sống, giống như những \"Thợ Săn Tiền Thưởng\" vậy, luôn điều chỉnh cách sinh tồn của bản thân theo sự thay đổi của tình thế.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372359,
+    "Name": "Cành Tím Đón Gió",
+    "Description": "Loại cây thường thấy ở vùng hoang dã Nod-Krai, có thân cây mảnh mai uốn cong và tán lá khá thưa thớt.\nLoài cây này sở hữu một đặc tính thích nghi với môi trường đáng chú ý, chúng sẽ mọc theo hướng gió, nhờ đó, ngay cả khi gió mạnh hoành hành, chúng cũng có thể tránh được việc bị gãy đổ.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372360,
+    "Name": "Thì Thầm Rừng Xanh",
+    "Description": "Loại cây thường thấy gần Sảnh Trăng Bạc, có hình dáng độc đáo khác biệt so với cây thông thường.\n\"Khi gió nổi lên, dùng nước trong ly bạc được chúc phúc tưới lên Ngọn Rừng Xanh để làm vui lòng các vị thần...\"\nChưa rõ liệu lời thì thầm cầu nguyện của con người có được nghe thấy hay không, nhưng Ngọn Rừng Xanh dưới sự tưới tắm của Kuuvahki đã nảy nở và tràn đầy sức sống...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372361,
+    "Name": "Cây Vàng Tắm Ánh Trăng",
+    "Description": "Loại cây thường thấy ở khu vực Đảo Hiisi thuộc Nod-Krai, thân cây mảnh mai uốn cong và tán lá màu vàng óng.\nNghe nói, Dòng Dõi Sương Nguyệt đặc biệt yêu thích loài cây này vì màu sắc lá cây của nó gần giống với màu vàng của ánh trăng. Vì vậy, họ trồng loài cây này dọc hai bên con đường dẫn đến Đài Tắm Sáng để bày tỏ lòng tôn kính với thần linh.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372362,
+    "Name": "Cành Xanh Nụ Biếc",
+    "Description": "Loại cây thường thấy ở vùng hoang dã Nod-Krai, có thân cây to, thô ráp và tán lá màu xanh non.\nNghe nói loài cây này và họ hàng gần của nó sở hữu sức sống bền bỉ phi thường, với bộ rễ phát triển mạnh, có thể nhanh chóng đâm sâu vào đất để hấp thụ dinh dưỡng. Thậm chí chỉ cần bẻ một cành nhỏ cắm xuống đất, không lâu sau sẽ đâm chồi và sống sót, tên gọi của nó bắt nguồn từ đặc tính này.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372236,
+    "Name": "Thủy Triều Của Tân Nguyệt",
+    "Description": "Loại đá núi thường thấy trong Sảnh Trăng Bạc, có hình dáng độc đáo giống như thủy triều.\n\"Sự vận động của Hằng Nguyệt sẽ kéo theo thủy triều lên xuống.\" Không biết trên những đá núi thủy triều được điêu khắc bởi lực hấp dẫn này, lại khắc họa những suy nghĩ nào của Thiếu Nữ Mặt Trăng...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372237,
+    "Name": "Thủ Vệ Kho Báu",
+    "Description": "Loại đá núi thường thấy ở vùng hoang dã Nod-Krai, nặng nề và kiên cố đến mức ngay cả những người lực lưỡng cầm công cụ sắc bén cũng khó có thể di chuyển chúng. Chính vì thế, trong xây dựng nhà cửa hay lát đường, chúng thường bị coi là chướng ngại vật khó nhằn. Nhưng đối với những loài động vật nhỏ bé giỏi đào bới, những tảng đá mà ngay cả động vật to lớn cũng không thể lay chuyển này chính là \"thủ vệ kho báu\" tốt nhất.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ Động Tiên Bách Bảo - Mua Đồ Trang Trí"
+    ],
+    "Id": 372238,
+    "Name": "Sừng Cùn Của Mặt Đất",
+    "Description": "Loại đá núi thường thấy ở vùng hoang dã Nod-Krai, có bề ngoài vững chắc và bóng loáng. Do kích thước nhỏ nên thường ẩn mình trong thảm thực vật rậm rạp, khó bị phát hiện. Vì thế, những nhà mạo hiểm dày dặn kinh nghiệm thường nhắc nhở người mới: \"Chú ý dưới chân! Vấp phải nó còn đau hơn bị Tê Giác Sừng Cùn húc nữa.\"",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363387,
+    "Name": "Cổng Cứ Điểm - Chồn Đáng Tin Cậy",
+    "Description": "Cổng cứ điểm bằng kim loại bắt mắt và lộng lẫy, có kết cấu chắc chắn đáng tin cậy, có thể chống lại các đợt tấn công liên tục của ma vật.\nTheo Sấm Xanh, thiết kế oai phong lẫm liệt của cánh cổng này được nhà phát minh thiên tài lấy cảm hứng từ người bạn chồn Đuôi Hành Tây của cô. Hai ngón cái dựng lên và vẻ mặt tràn đầy tự tin ấy, như thể đang đưa ra lời hứa: \"Yên tâm đi, cứ để mọi việc cho tôi!\"",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363388,
+    "Name": "Sói Và Sắt",
+    "Description": "Đồ uống pha chế tự do phóng khoáng, là kiệt tác sáng tạo riêng cho Varka dựa trên \"Hồ Gương Có Gai\" trong thời gian vận hành \"Quầy Đặc Chế Kỵ Sĩ Danh Dự\".\nĐại Đội Trưởng từng nếm qua ngàn ly rượu ngon khuyến khích bạn thoả sức chiến đấu, tự do phát huy ý tưởng thiên tài của mình, vậy hãy mang đến cho Đại Đội Trưởng một \"đợt tấn công\" dữ dội bất ngờ vậy...\nSự mát lạnh và hương thơm cỏ cây của Bạc Hà chính là đòn tấn công đầu tiên khi chạm môi, cảm giác phân tầng được cố ý giữ lại đủ để che giấu độ mạnh chủ lực của Hỏa Thủy, tạo nên đòn đánh quyết định. Smetana chính là đội cuối của hàng ngũ, chịu trách nhiệm bọc hậu nghiêm ngặt, không để sót bất kỳ kẽ hở nào...\nDựa trên đặc điểm của Đại Đội Trưởng và Mondstadt, bạn đặt tên cho nó là \"Sói Và Sắt\". Cảm nhận vị giác đa tầng khác thường này khiến Đại Đội Trưởng rất hài lòng, cứ thế thỏa sức uống hết mình...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363389,
+    "Name": "Hợp Xướng Dodoco Ngày Nắng",
+    "Description": "Đồ uống pha chế chua ngọt dễ uống, tràn đầy nhiệt huyết, là kiệt tác sáng tạo riêng cho Klee dựa trên \"Trời Đẹp\" trong thời gian vận hành \"Quầy Đặc Chế Kỵ Sĩ Danh Dự\".\n\"Trời Đẹp\" ban đầu có màu tím, chưa đủ tươi vui, ánh mặt trời và những đám mây trắng mới có thể mang đến tâm trạng vui vẻ ấm áp!\nĐộ ngọt là điều không thể thiếu, nhưng sức khỏe vẫn là ưu tiên hàng đầu, vì thế đã chọn nước ép mà đến cả đội trưởng Jean cũng phải công nhận, với hàm lượng đường tự nhiên từ Trái Bulle!\nQuan trọng nhất là Kẹo Dodoco, mang đến phép thuật hương vị tuyệt vời, nhất định phải đặt ở chính giữa đám mây!\nNhưng Klee nói là: \"Trời đẹp, tâm trạng tốt, Dodoco sẽ hát, Klee cũng sẽ hát theo!\" Vậy nên, ly này sẽ được gọi là \"Hợp Xướng Dodoco Ngày Nắng\"!",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363390,
+    "Name": "Khúc Ca Kiếm Và Sóng Nước",
+    "Description": "Đồ uống pha chế thanh mát sảng khoái với độ rượu khá nhẹ, là kiệt tác sáng tạo riêng cho Eula dựa trên \"Trăng Sao Lấp Lánh\" trong thời gian vận hành \"Quầy Đặc Chế Kỵ Sĩ Danh Dự\".\nKiếm thuật của Eula như vũ điệu xoay tròn của trọng kiếm, mang sức công phá mãnh liệt như tuyết lở khi va chạm, đòn kết thúc gọn gàng dứt khoát, sở thích của cô ấy về đồ uống cũng mang tính mạnh mẽ.\nVì thế, Hỏa Thủy trong ly như khối băng tinh khiết, chiết xuất quả Romaritime mang ý nghĩa kỷ niệm sâu sắc, cùng Ca Cao bổ sung năng lượng xua tan mệt mỏi, tất cả đều hòa quyện vào điệu nhảy trong ly.\nCân nhắc đến chuyện đây là món đặc chế dành cho kiếm thuật của Kỵ Sĩ Sóng Nước, bạn đã đặt cho nó cái tên \"Khúc Ca Kiếm Và Sóng Nước\", Eula đã uống liền ba ly để thể hiện sự công nhận tuyệt đối của mình...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363391,
+    "Name": "Tường Vi Mộng Lành",
+    "Description": "Đồ uống pha chế tỏa ra hơi thở thư thái lười biếng, là kiệt tác sáng tạo riêng cho Lisa dựa trên \"Tiếng Tuyết Hừng Đông\" trong thời gian vận hành \"Quầy Đặc Chế Kỵ Sĩ Danh Dự\".\nSau một ngày bận rộn, người quản lý thư viện vừa cần phục hồi năng lượng, vừa không muốn mất ngủ. Vì vậy, trong quá trình pha chế, bạn không dùng những thành phần gây tỉnh táo nữa, và đã tìm ra điểm cân bằng khéo léo giữa vị ngọt của Caramel và vị chua nhẹ nhàng...\nMục tiêu là \"giấc ngủ mơ yên bình\", bạn đề xuất gọi nó là \"Tường Vi Mộng Lành\", và nhận được đánh giá tuyệt đối từ Lisa.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363392,
+    "Name": "Ánh Chớp Nhàn Nhã",
+    "Description": "Đồ uống pha chế thể hiện sự cẩn thận dù là trong những lúc nhàn rỗi, là kiệt tác sáng tạo riêng cho Clorinde dựa trên \"Trường Ca Caramel Rực Lửa\" trong thời gian vận hành \"Quầy Đặc Chế Kỵ Sĩ Danh Dự\".\nSau khi Đấu Sĩ Đại Diện như sấm sét đến thăm Mondstadt theo ấn tượng từ \"Đoàn Kịch Trên Bàn\", cô có khả năng cảm nhận mùi kim loại cực kỳ nhạy bén và thiên về vị \"muối\" hơn. Mà thức uống yêu thích hàng ngày của cô thường mang đặc điểm chua nhẹ giúp giải ngấy. Đối với những người pha chế thông thường, việc cân bằng hai yêu cầu này đòi hỏi sự thận trọng tối đa, nhưng với kinh nghiệm từ Quà Tặng Của Thiên Sứ và Soái Hạm, bạn hoàn toàn có thể kiểm soát chính xác tỷ lệ của từng loại hương vị.\nĐể Clorinde tận hưởng hành trình thư giãn tại Mondstadt, bạn đặt tên cho ly này là \"Ánh Chớp Nhàn Nhã\", và trở thành một trong những ký ức quan trọng về Mondstadt của Clorinde.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Nhận từ sự kiện hạn giờ"
+    ],
+    "Id": 363393,
+    "Name": "Dư Hương Mây Gió",
+    "Description": "Đồ uống pha chế tao nhã thanh lịch, hương thơm độc đáo, là kiệt tác sáng tạo riêng cho Emilie dựa trên \"Lumidouce Bảy Giờ\" trong thời gian vận hành \"Quầy Đặc Chế Kỵ Sĩ Danh Dự\".\nNhà điều chế nước hoa đến từ Fontaine nói với bạn rằng, vị ngọt quá mức sẽ khiến người ta buồn ngủ, cô ấy quen với sự lâng lâng nhẹ nhàng hơn. Để khách hàng gục trước quầy rượu rõ ràng không phải là nhiệm vụ hàng đầu của người pha chế...\nVà trong những ngày trời trong gió nhẹ, giác quan nhạy bén của con người có thể khiến hương vị \"hòa quyện\" của thức uống trở nên tuyệt vời gấp bội.\nTheo hướng pha chế nước hoa, bạn đã sáng tạo ra ly đồ uống thanh lịch tuyệt tác này, và đặt cho nó cái tên mới rất tao nhã là \"Dư Hương Mây Gió\" dựa trên cách đặt tên nước hoa của Emilie...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 360107,
+    "Name": "Bí Quyết Mát Mẻ Của Căn Cứ",
+    "Description": "Tường nội thất tiêu chuẩn của Căn Cứ Cánh Quạt Lạch Cạch, được làm từ kim loại tái chế phổ biến ở Nod-Krai, có màu sắc lạnh lẽo cứng cáp và khả năng dẫn nhiệt ưu việt. Nghe nói, loại tường này giúp ngôi nhà luôn duy trì được sự mát mẻ dễ chịu ngay cả khi bị mặt trời thiêu đốt.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 360307,
+    "Name": "Mái Vững Chắc Của Căn Cứ",
+    "Description": "Trần nhà tiêu chuẩn của Căn Cứ Cánh Quạt Lạch Cạch được cắt gọt tỉ mỉ từ tấm kim loại đồng nhất, dễ dàng lắp đặt, vệ sinh thuận tiện, đồng thời sở hữu tính năng và độ an toàn vượt trội. Nghe nói, nó được làm từ cùng loại nguyên liệu với vỏ ngoài của thiết bị Kuuvahki, vừa đảm bảo độ bền cao vừa giảm trọng lượng hiệu quả, loại bỏ hoàn toàn mọi nguy cơ tiềm ẩn về an toàn.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 360207,
+    "Name": "Sàn Hợp Kim Của Căn Cứ",
+    "Description": "Gạch lát nền tiêu chuẩn của Căn Cứ Cánh Quạt Lạch Cạch, được tạo thành từ nhiều tấm kim loại có hình dáng đa dạng ghép lại với nhau, tạo nên vẻ đẹp thị giác đa tầng cho sàn nhà. Thiết kế loang lổ và so le khiến bầu không khí trong phòng trở nên sống động, tươi sáng, càng tôn lên phong cách độc đáo. Mặc dù thiết kế sáng tạo này làm tăng độ khó và chi phí lắp đặt cũng như bảo trì, nhưng nhờ sử dụng vật liệu kim loại tái chế nên đã giúp cân bằng hiệu quả nhược điểm này.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Mua tại Động Tiên Bách Bảo - Bản Vẽ Đồ Trang Trí"
+    ],
+    "Id": 360507,
+    "Name": "Ánh Sáng Tĩnh Lặng Của Căn Cứ",
+    "Description": "Đèn chùm tiêu chuẩn của Căn Cứ Cánh Quạt Lạch Cạch, được tạo thành từ khung treo kim loại kết hợp nhiều bóng đèn, mang phong cách tổng thể mạnh mẽ và tối giản. Mỗi khi màn đêm buông xuống, ánh đèn giao nhau, những tia sáng khuếch tán dịu nhẹ như dệt nên một không gian yên tĩnh và ấm áp, xua tan mọi mệt mỏi và phiền muộn.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "Cửa Kho Báu Căn Cứ",
+    "Description": "Cửa phòng tiêu chuẩn của Căn Cứ Cánh Quạt Lạch Cạch, được chế tạo bằng cách hàn nhiều lớp vật liệu kim loại, thiết kế tham khảo từ cửa kho báu, kết hợp cả tính thẩm mỹ và chức năng phòng chống phá hủy thực tế. Loại cửa này có thể chống lại hiệu quả sự phá hoại từ các hành vi như khoan, cạy, đập, với mục đích thiết kế ban đầu là để ngăn chặn mọi vị khách không mời. Tất nhiên, đối với Thế Giới Trong Ấm an toàn mà nói, khả năng phòng thủ như vậy có vẻ hơi quá đà, phần lớn thời gian e rằng chỉ để tránh việc bị hỏng khi những con vật nhỏ lấy nó làm bàn mài móng mà thôi.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "Tiếng Vang Trong Trẻo Của Căn Cứ",
+    "Description": "Cầu thang kim loại góc chuyển tiêu chuẩn của Căn Cứ Cánh Quạt Lạch Cạch nổi tiếng với độ bền cao, khả năng chịu lực tốt và trọng lượng nhẹ. Khi bước chân lên những bậc thang bằng thép này, âm thanh trong trẻo vang lên, kết hợp với kết cấu phòng có tiếng vọng, có lẽ sẽ tạo nên một đoạn nhịp trống sôi động.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "\"Căn Cứ Cánh Quạt Lạch Cạch\"",
+    "Description": "Quả Cầu Cơ Quan Ảo Ảnh tái hiện trong Ấm Trần Ca một căn cứ tổng hợp quy mô lớn trong phong cảnh Nod-Krai, sử dụng kết cấu khung kim loại đã được thử nghiệm lâu dài và trang bị hệ thống vận chuyển hoàn thiện, toát lên một khí chất hoang dã không khuôn mẫu, giống với khái niệm thiết kế Xưởng Krumkake Clink-Clank. Tuy nhiên, so với Xưởng Krumkake Clink-Clank, Căn Cứ Cánh Quạt Lạch Cạch đã loại bỏ chức năng sản xuất và giảm thiểu việc sử dụng ánh đèn. Dù vậy, những chiếc cối xay gió trên mái nhà vẫn quay không ngừng khiến người ta cảm nhận được không khí bận rộn của xưởng, khơi dậy nguồn động lực sục sôi trong lòng.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

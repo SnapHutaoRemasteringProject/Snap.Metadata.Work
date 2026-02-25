@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "ファルカ・群狼の長",
+    "Description": "名刺の飾り紋。\n群狼は北方から吹く風を追う——だが、群れの長だけは知っていた。走り出したその時点で、風はすでに皆の足元を巡っていたことを。",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "紀行・北風",
+    "Description": "名刺の飾り紋。\nそれは北風が運んでくるもの——かすかな寒さ、枝から散る直前の花の香り、そして遠き地を旅していた者が帰郷するという知らせ。",
+    "SpecialDescription": "「紀行・北風」名刺の飾り紋",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

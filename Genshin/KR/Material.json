@@ -1937,6 +1937,17 @@
   },
   {
     "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "바르카의 운명의 별",
+    "Description": "바르카의 운명의 자리 활성화 소재",
+    "TypeDescription": "운명의 자리 활성화",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
     "MaterialType": 73,
     "Id": 6002,
     "RankLevel": 5,
@@ -3166,6 +3177,17 @@
     "Description": "일루가의 운명의 자리 활성화 소재",
     "TypeDescription": "운명의 자리 활성화",
     "Icon": "UI_ItemIcon_1103"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6128,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "바르카의 운명의 별",
+    "Description": "바르카의 운명의 자리 활성화 소재",
+    "TypeDescription": "운명의 자리 활성화",
+    "Icon": "UI_ItemIcon_1102"
   },
   {
     "Rank": 90000,
@@ -21962,7 +21984,7 @@
     "RankLevel": 2,
     "ItemType": 2,
     "Name": "어향 토스트",
-    "Description": "클레의 특제 요리. 폭탄을 마구 던져 물고기를 도망가게 한 클레는, 진의 지도 아래 이 토스트를 만들어 어부들에게 사과 했다. 맛이 좋고 포만감을 오래 유지할 수 있는 이 요리 덕에, 폭탄으로 물고기를 도망가게 해도, 클레는 굶을 걱정을 하지 않아도 된다",
+    "Description": "클레의 특제 요리. 폭탄을 마구 던져 물고기를 도망가게 한 클레는, 진의 지도 아래 이 토스트를 만들어 어부들에게 사과했다. 맛이 좋고 포만감을 오래 유지할 수 있는 이 요리 덕에, 폭탄으로 물고기를 도망가게 해도, 클레는 굶을 걱정을 하지 않아도 된다",
     "TypeDescription": "음식",
     "Icon": "UI_ItemIcon_108115"
   },
@@ -22441,7 +22463,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "이상한 고기죽순데침",
-    "Description": "정갈한 요리. 겉보기엔 훌륭하지만, 재료를 너무 오래 대친 듯 맛이 심심하다. 소스를 너무 많이 뿌렸나?",
+    "Description": "정갈한 요리. 겉보기엔 훌륭하지만, 재료를 너무 오래 데친 듯 맛이 심심하다. 소스를 너무 많이 뿌렸나?",
     "TypeDescription": "음식",
     "Icon": "UI_ItemIcon_108156"
   },
@@ -31853,6 +31875,54 @@
     "Icon": "UI_ItemIcon_108867"
   },
   {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 18%를 즉시 회복하고 30초 동안 5초마다 HP를 300pt씩 회복한다",
+    "Id": 108955,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "이상한 빛나는 냉옥",
+    "Description": "리월의 닭고기 요리. 껍질은 노랗고 살은 하얘서 제법 괜찮아 보이지만, 한 입 맛보면 이빨 사이를 꽉꽉 채우는 퍽퍽한 닭고기에 후회가 밀려온다…",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 20%를 즉시 회복하고 30초 동안 5초마다 HP를 390pt씩 회복한다",
+    "Id": 108956,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "빛나는 냉옥",
+    "Description": "리월의 닭고기 요리. 조리할 때 복잡한 향신료를 쓰지 않고, 신선한 식자재 본연의 맛을 최대한 끌어내는 데 집중했다. 부드러운 껍질과 연한 살코기, 산뜻한 맛이 특징이며 양념장에 찍어 먹으면 풍미가 일품이다",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 231010,
+    "MaterialType": 15,
+    "EffectDescription": "선택한 캐릭터 HP 최대치의 22%를 즉시 회복하고 30초 동안 5초마다 HP를 470pt씩 회복한다",
+    "Id": 108957,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "맛있는 빛나는 냉옥",
+    "Description": "리월의 닭고기 요리. 쫄깃한 껍질, 고소한 기름 향기를 발산하는 육즙 젤리, 탄탄하고 짭조름한 살코기, 심지어는 닭뼈에서도 은은한 감칠맛이 느껴진다…. 이 모든 맛이 어우러져 미각을 완벽하게 정복한다",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108869"
+  },
+  {
+    "Rank": 430000,
+    "MaterialType": 1,
+    "EffectDescription": "스태미나를 80pt 회복한다",
+    "Id": 108958,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "「호쾌」",
+    "Description": "바르카의 특제 요리. 큼지막한 훈제 닭 다리와 커다란 잔에 담긴 사과주, 투박하고 호탕한 플레이팅까지——전투든 식사든 호쾌하고 화끈해야 한다는 그의 인생 신조가 여실히 드러나 있다",
+    "TypeDescription": "음식",
+    "Icon": "UI_ItemIcon_108870"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109101,
@@ -34742,6 +34812,17 @@
     "ItemType": 2,
     "Name": "레시피: 환상 버섯",
     "Description": "조리 과정이 자세히 적혀 있는 레시피. 「환상 버섯」의 조리 방법이 적혀있다",
+    "TypeDescription": "레시피",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109648,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "레시피: 빛나는 냉옥",
+    "Description": "조리 과정이 자세히 적혀 있는 레시피. 「빛나는 냉옥」의 조리 방법이 적혀있다",
     "TypeDescription": "레시피",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37708,6 +37789,17 @@
     "Description": "이세계에서 이 세계에 침입한 악몽 영주를 처치하고 남은 잔해에서 얻은 암흑의 유해.\n칠흑의 별바다를 누비는 형체 없는 괴수는, 이 세상에서 「날개」라고 불리는 기관 따위는 필요치 않았을 터. 그 기괴하고 모독적인 날개는 어쩌면 달 아래의 법칙에 적응하기 위해 생겨났거나, 혹은 범부의 눈에 비친 진정한 모습의 일그러진 일각에 불과할지도 모른다",
     "TypeDescription": "캐릭터 육성 소재",
     "Icon": "UI_ItemIcon_113084"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113085,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "끊어진 결정 꼬리",
+    "Description": "달빛 바위 도마뱀붙이가 도망치려다 남긴 결정 꼬리.\n이만큼 강하게 진화한 도마뱀붙이라면 보통 천적에게 쫓길 일은 없다. 그런데도 녀석은 아직도 꼬리를 자르고 달아나는 버릇이 남아 있다. 달빛이 대지를 비추던 시대에는 지금보다 더 무서운 포식자가 있었기 때문인지도 모른다",
+    "TypeDescription": "캐릭터 육성 소재",
+    "Icon": "UI_ItemIcon_113085"
   },
   {
     "Rank": 15101,
@@ -50346,7 +50438,7 @@
     "RankLevel": 0,
     "ItemType": 2,
     "Name": "이상한 철전",
-    "Description": "흔히 볼 수 있는 철전과 비슷하게 생긴 동전. 철전의 일종이지도?",
+    "Description": "흔히 볼 수 있는 철전과 비슷하게 생긴 동전. 철전의 일종일지도?",
     "TypeDescription": "임무 아이템",
     "Icon": "UI_ItemIcon_121382"
   },
@@ -50626,6 +50718,28 @@
     "Icon": "UI_ItemIcon_121415"
   },
   {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121416,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "권한의 휘장",
+    "Description": "여러 명의 「우인단」이 나눠서 보관하는 중요한 휘장. 휘장 3개를 모두 모아야만 깊은 곳의 방으로 통하는 장치를 작동시킬 수 있다. 왜 굳이 3개여야 하는지에 대해 마녀는 「참여감」 때문이라고 설명했다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_112033"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121417,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "오염된 눈물 결정",
+    "Description": "심연에 완전히 오염된 드발린에게서 나온 눈물 결정. 상태를 보아하니 이야기 속 드발린은 더 이상 치유될 가능성이 없어 보인다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_100135"
+  },
+  {
     "Rank": 430011,
     "MaterialType": 12,
     "Id": 121419,
@@ -50745,6 +50859,17 @@
     "Description": "특제 설탕 공예가 들어 있는 상자. 누군가를 위해 만든 공예품으로 보인다. 아무튼 설탕이 녹아내리기 전에 얼른 먹어버리자",
     "TypeDescription": "소모품",
     "Icon": "UI_ItemIcon_100101"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121453,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "만능 협상 아이템",
+    "Description": "묵직한 주머니. 「돈을 밝히는」 사람의 마음도 움직일 만한 것들이 가득 들어 있다. 이런 걸 「성의」라고 부르던가?",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 10,
@@ -50935,6 +51060,50 @@
   },
   {
     "Rank": 10,
+    "MaterialType": 80,
+    "Id": 121493,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "이벤트 초대장",
+    "Description": "페보니우스 기사단 단장 대행 진이 보낸 간략한 내용의 초대장. 이벤트의 구체적인 내용은 언급되지 않았다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121493"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121494,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "가벼운 모라",
+    "Description": "별이 떨어지는 호수에서 찾은 모라. 평범한 모라와 똑같아 보이지만, 무게가 일반 모라의 10분의 1밖에 되지 않아서 모라를 얻은 기쁨도 10분의 1로 줄었다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_202"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121495,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "탱글탱글한 생선 살코기",
+    "Description": "별이 떨어지는 호수에서 얻은 생선 살코기. 겉보기엔 평범한 생선 살코기와 다를 바 없지만, 탄력이 엄청나서 아무리 세게 주물러도 손을 떼면 순식간에 원상 복구된다. 식재료라기보단 스트레스 해소용 장난감에 더 가까운 듯하며… 요리는 시도하지 않는 편이 좋을 것 같다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_100084"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121505,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「도도코 마법 사탕」",
+    "Description": "기사단의 음료 가게 운영을 돕는 동안 클레가 선물해 준 기념품.\n「재료를 연금 테이블 위에 올려놓고, 모양을 상상하면서 엄마를 따라 주문을 외우면, 『펑~』하고 도도코 모양 사탕이 나타나!」\n앨리스의 작품답게 티바트에서 흔히 볼 수 있는 재료를 사용했음에도 오묘하고 복합적인 단맛이 난다. 입에 넣으면 머릿속에서 달콤한 마법 주문의 메아리가 들려오는 것만 같다….\n수량이 얼마 남지 않았으니 하나는 기념으로 남겨두자!",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121505"
+  },
+  {
+    "Rank": 10,
     "MaterialType": 2,
     "Id": 121512,
     "RankLevel": 3,
@@ -50965,6 +51134,61 @@
     "Description": "역대 등지기장의 업적이 담긴 시집. 대부분의 내용이 과거의 재난 속에서 소실되어, 지금 수집할 수 있는 조각은 원래의 일부에 불과하다",
     "TypeDescription": "임무 아이템",
     "Icon": "UI_ItemIcon_121514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121519,
+    "RankLevel": 0,
+    "ItemType": 2,
+    "Name": "바람이 전해준 편지",
+    "Description": "언제부터 가방 안에 들어 있었는지 알 수 없는 편지. 아마 바람에 실려 온 것일지도 모른다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_100356"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121520,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "바르카의 식사 대접권",
+    "Description": "바르카가 직접 그린 식사 대접권. 「디어 헌터」 레스토랑에서 푸짐하고 호쾌한 고기 요리로 교환할 수 있다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121521,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "바르카의 식사 대접권",
+    "Description": "바르카가 직접 그린 식사 대접권. 「디어 헌터」 레스토랑에서 푸짐하고 호쾌한 고기 요리로 교환할 수 있다. 뒷면 구석에 「사용됨」 도장이 찍혀 있다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_121520"
+  },
+  {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121522,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "바르카의 비상금",
+    "Description": "바르카가 술을 사기 위해 모아둔 비상금. 당당하게 사무실 책상 서랍 안에 숨겨 놓았다.\n「등잔 밑이 어둡다!」——라고는 하지만, 사실 단장 대행이라면 발견하더라도 쓰지 않을 것이고, 다른 사람에게 들키게 두지도 않을 거란 믿음 때문에 이곳에 숨겼을 것이다.\n원래는 신에게 바칠 민들레주를 살 계획이었지만, 상황이 바뀐 지금은 바르카를 구한 명예 기사를 치하하는 데 사용하거나 그 기사를 도와준 친구들에 대한 답례로 사용해도 좋을 것 같다",
+    "TypeDescription": "소모품",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121523,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "바르카의 비상금",
+    "Description": "바르카가 술을 사기 위해 모아둔 비상금. 당당하게 사무실 책상 서랍 안에 숨겨 놓았다.\n「등잔 밑이 어둡다!」——라고는 하지만, 사실 단장 대행이라면 발견하더라도 쓰지 않을 것이고, 다른 사람에게 들키게 두지도 않을 거란 믿음 때문에 이곳에 숨겼을 것이다.\n원래는 신에게 바칠 민들레주를 살 계획이었지만, 바르카를 구한 명예 기사를 치하하는 데 사용하거나 그 기사를 도와준 친구들에 대한 답례로 사용해도 좋을 것 같다",
+    "TypeDescription": "임무 아이템",
+    "Icon": "UI_ItemIcon_100309"
   },
   {
     "Rank": 287,
@@ -56643,6 +56867,28 @@
     "Icon": "UI_ItemIcon_220127"
   },
   {
+    "Rank": 15125,
+    "MaterialType": 21,
+    "Id": 220128,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "흔적 사진기",
+    "Description": "페이몬이 항상 챙겨 다니는 기록용 사진기. 이걸 사용해 눈여겨볼 만한 다른 점들을 기록해 보자",
+    "TypeDescription": "간편 아이템",
+    "Icon": "UI_ItemIcon_220108"
+  },
+  {
+    "Rank": 55028,
+    "MaterialType": 21,
+    "Id": 220129,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "화음 건반",
+    "Description": "사용 시 연주가 가능한 정교한 악기.\n지난날 문명의 지식인들에게 속세에서 울려 퍼지는 음률은 세상의 악장을 조잡하게 흉내 낸 것에 불과했다. 그러나 불멸자의 왕은 그 연주 속에서 이질적인 악상을 포착해 냈다. 그의 지시에 따라 조율사는 영원한 음악을 건반 하나하나에 고정했고, 누구나 이 악기를 연주해 가장 장대한 합주에 참여할 수 있게 되었다",
+    "TypeDescription": "간편 아이템",
+    "Icon": "UI_ItemIcon_220129"
+  },
+  {
     "Rank": 300201,
     "MaterialType": 5,
     "Id": 221001,
@@ -57345,6 +57591,17 @@
     "Description": "독특한 풍경과 특별한 힘이 담긴 나타 두루마리. 여행하는 주전자 정령 포동이가 나타에서 가져온 기념품이다.\n그림을 보고 있으면 머릿속에 어떤 이미지가 떠오른다. 「외경의 능력」을 빌리면 「속세의 주전자」 속에 그림 속 나타 풍경을 구축할 수 있다…",
     "TypeDescription": "소모품",
     "Icon": "UI_ItemIcon_222004"
+  },
+  {
+    "Rank": 410011,
+    "MaterialType": 5,
+    "Id": 222005,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「신비한 달의 힘 장치」",
+    "Description": "음악을 재생하고 화려한 빛 효과를 만들어 내는 노드크라이의 달의 힘 장치. 여행하는 주전자 정령 포동이가 노드크라이에서 가져온 기념품이다.\n장치 안에서 흘러나오는 빛과 그림자를 보고 있으면 머릿속에 어떤 이미지가 떠오른다. 「외경의 능력」을 빌리면 주전자 속 선계에 기묘한 노드크라이의 경치를 구축할 수 있다…",
+    "TypeDescription": "소모품",
+    "Icon": "UI_ItemIcon_222005"
   },
   {
     "Rank": 10,
@@ -58630,6 +58887,127 @@
     "ItemType": 2,
     "Name": "동료와 터전",
     "Description": "깔끔한 집. 오랫동안 나타 사람들의 검증을 거친 용 가구가 배치되어 있다. 용이나 다른 대형 동물의 거처로 삼기 적합하다.\n나타에서 용은 전사의 동료이자 가족이다. 함께 고생하고 성장하는 그들이 있기에 전사 마음속의 그늘은 금세 사라진다\n해당 장식 세트를 선호하는 친구: 이파",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350100,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "다양한 손님을 위한 편안한 객실",
+    "Description": "필요한 비품을 빠짐없이 갖춘 침실. 나샤 마을 최대 술집 「기함」 객실의 설계를 참고했으며, 거주자의 요구에 맞춰 세심하게 최적화했다.\n「기함」 술집의 손님은 배경이 다양하고, 편안함에 대한 기준 또한 제각각이다. 모든 기대 사이에서 균형을 찾는 일은 쉽지 않았기에, 결국 「기함」은 독특한 해결책을 선택했다. 바로 손님에게 필요할 법한 모든 설비를 우선 객실에 갖춘 뒤, 손님의 의견에 따라 불필요한 물건을 덜어내는 것이었다. 장비로 가득한 배치가 다소 빽빽해 보이긴 하지만 기능만큼은 완벽하다. 그 안에서 각자의 기준에 맞는 안락함을 누구나 찾아낼 수 있다",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350101,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "달빛 아래 단잠",
+    "Description": "소박하고 단정한 침실. 서리달 아이가 엄선한 가구가 놓여 있어, 전체적으로 고상하고 아늑한 분위기를 자아낸다. 고요한 자연 환경은 심신을 편안하게 하는 데 도움이 된다는 말이 있는데, 이 침실이 바로 그 말의 완벽한 구현처럼 느껴진다. 달빛 같은 조명이 은은한 그림자를 드리우고 상큼한 과일 향이 감돈다. 밤의 고요가 머무는 이의 피로와 고통을 씻어내며, 이내 깊은 잠으로 이끈다…",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350102,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "질서정연한 비밀",
+    "Description": "개성이 뚜렷한 작업실. 「비밀의 집」의 배치를 참고해 사장이 일할 때의 모습을 충실히 재현했다. 모든 것이 질서정연하게 자리 잡아 한눈에 들어온다.\n정보 분석은 번거롭고도 도전적인 임무다. 실마리가 얽히고설킨 상황 앞에서는 막막해지기 쉽다. 하지만 이렇게 배치가 알맞고 보조 도구까지 빠짐없이 갖춘 공간에 있으면, 생각은 한층 또렷해지고 업무 효율도 자연스레 높아질지도 모른다…",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350103,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "제일 포근한 집",
+    "Description": "노드크라이 스타일의 침실. 전체적으로 아늑하고 편안한 느낌을 주어 바쁜 하루를 보낸 뒤 피로를 풀기에 더할 나위 없는 장소다. 침실 내 모든 가구는 「뚝딱뚝딱 크룸카케 공방」에서 제작되었으며, 「가장」이 직접 하나하나 고른 물건들이다. 전부 세상에서 제일 좋고, 제일 따듯하고, 제일 쓰기 좋은 가구들인 셈이다. 하지만 이 안락함에는 작은 문제가 하나 있다. 너무 편안한 나머지, 사용자가 자주 늦잠을 자서 중요한 일을 놓치곤 한다는 것. 어쩌면 제때 일어나기 위해서는, 강력하면서도 다정한 깨우기 수단이 필요할지도 모른다",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350104,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "전투 전의 쉼터",
+    "Description": "각종 기능을 갖춘 휴게실. 피라미다성의 방 배치를 참고해 등기지들이 전투를 앞두고 잠시 쉬는 모습을 재현했다. 노련한 등지기는 광란의 사냥과의 전쟁이 길고도 험난하다는 사실을 잘 알고 있기에, 여건이 허락하는 한 최대한 휴식을 취해 최상의 전투 상태를 유지하려 한다. 또한 잘 꾸며진 휴게실은 전투 전에 서로를 더 잘 알아가는 데에도 도움이 된다. 전장에서 낯선 이보다 익숙한 동료와 함께 싸우는 편이 훨씬 큰 신뢰와 협동을 가져다주기 때문이다. 이런 이유로, 휴게실의 조성은 예로부터 등지기장들에게 중요한 과제로 여겨져 왔다",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Indoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350106,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "극북 땅의 들판",
+    "Description": "노드크라이 지역에서 흔히 볼 수 있는 식물과 지형을 모아 놓은 들판. 히시섬 야생의 독특한 풍경을 비교적 충실하게 재현했다.\n노드크라이는 달의 힘이 풍부하게 흐르는 지역이라, 색이 선명한 식물과 습성이 특이한 동물, 모양이 독특한 지형이 만들어졌다. 박물학자에게 이곳은 새로운 지식이라는 이름의 보물이 무궁무진한 장소이며, 평범한 방문객에게도 이 기묘하고 아름다운 경관은 발걸음을 멈추고 감상하게 만드는 매력이 있다",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350107,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "분주한 변방 마을",
+    "Description": "다양한 개성의 건축물을 중심으로 구성된 구역 경관. 기능이 서로 다른 상점들이 들어서 있어, 나샤 마을의 한 자락을 완벽하게 재현해 놓았다.\n나샤 마을은 다른 도시와 달리, 뚜렷한 관리 주체도 없고 명확한 도시 계획 역시 부족하다. 이 때문에 마을 건물 사이에는 수많은 좁은 통로와 숨겨진 틈새가 얽히듯 이어져 있다. 일반 주민들에게 이 통로들은 그저 소음이 오가는 길에 불과하지만, 정보를 포착하는 데 능한 자들에게는 비밀스러운 소문이 오가는 통로이자, 은밀한 지름길이 되기도 한다…",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350108,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "달 아래 고요한 기도",
+    "Description": "서리달 마을의 경치를 바탕으로 꾸며진 야외 풍경. 「서리달 아이」의 규칙에 따라 각종 기물이 진열되어 있으며, 기물의 성격에 어울리는 식물들이 함께 심어져 있다. 이곳에 들어서면 서리달 아이 특유의 평온하고 조화로운 삶의 기운이 느껴진다. 은은하고 부드러운 기도의 노래가 머릿속에서 조용히 울려 퍼지는 듯해, 모든 근심과 고통은 바람에 실려 사라진다. 그 자리에 남는 것은 오직 고요하고 느긋한 마음의 풍경뿐이다",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350109,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "긴 밤의 등불",
+    "Description": "두꺼운 벽을 두른 건물들이 들어선 마을. 배치와 건축 양식은 등지기가 주로 사용하는 야외 방어 거점을 참고해 설계되었다. 이러한 구조 덕분에 비바람을 막아낼 수 있을 뿐 아니라, 거센 광란의 사냥이 밀려와도 상당한 방어력을 발휘한다. 이는 등지기들이 세운 「우리는 등지기. 끝없는 설원에서 꺼지지 않는 희망을 지키는 자」의 맹세와도 닮아 있다.\n피라미다성 밖으로 펼쳐진 광활한 들판 위에서, 이 거점은 마치 횃불처럼 서서 희망의 빛을 전하고 있다",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350110,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "무럭무럭 자라는 공방",
+    "Description": "「뚝딱뚝딱 크룸카케 공방」을 본떠 조성된 작은 마을. 안락하고 실용적인 반구형 철제 주거와 철제 선박을 닮은 건축물이 갖춰져 있어, 공방 주인들의 기본적인 수요를 충족한다.\n세상의 위대한 공방은 모두 기반 건물에서 시작됐다. 이 기반 건물들을 토대로 적절한 계획과 충분한 자재만 더한다면, 「주전자 속 선계」 전체를 거대한 공방으로 개조하는 일도 불가능하지만은 않을 것이다…",
+    "TypeDescription": "장식 세트 도면",
+    "Icon": "UI_ItemIcon_Home_Outdoor"
+  },
+  {
+    "Rank": 300301,
+    "MaterialType": 29,
+    "Id": 350111,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "새로운 달의 정원",
+    "Description": "「달빛 정원」에서 영감을 받아 설계된 정원. 전체적인 분위기는 고요하고 평온해 마치 손에 닿지 않는 꿈결 같은 풍경을 자아낸다.\n달빛은 언제나 온화하게 생명을 이끄는 법. 어쩌면 달의 신을 섬기는 신도들은 이런 물음을 진지하게 품었을지도 모른다. 「어떤 풍경이 새로운 달을 그녀만의 포근한 꿈결로 인도할 수 있을까?」\n그 답은 오직 「달빛 정원」을 직접 찾아, 그곳의 풀 한 포기와 꽃 한 송이를 차분히 바라볼 때에야 비로소 알 수 있을 것이다…",
     "TypeDescription": "장식 세트 도면",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -72347,6 +72725,413 @@
     "ItemType": 2,
     "Name": "빛나는 소등-「친구와의 약속」",
     "Description": "작업 순서가 상세히 적힌 도면. 「빛나는 소등-『친구와의 약속』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381345,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「동글 쿠키 테이블」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『동글 쿠키 테이블』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381346,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「뚝딱뚝딱 수납장」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『뚝딱뚝딱 수납장』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381347,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "서리달 원탁-「부드러운 하늘빛」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「서리달 원탁-『부드러운 하늘빛』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「누군가의 수첩」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『누군가의 수첩』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383415,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "서리달 작은 탁자-「과일향」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「서리달 작은 탁자-『과일향』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383511,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「시들지 않는 쪽빛」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『시들지 않는 쪽빛』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382134,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "로부르참나무 「달」 등받이 의자",
+    "Description": "작업 순서가 상세히 적힌 도면. 「로부르참나무 『달』 등받이 의자」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383119,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「서리뿔의 빛」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『서리뿔의 빛』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 383120,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「꼬불꼬불 버섯」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『꼬불꼬불 버섯』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381413,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「제일 좋은 보금자리」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『제일 좋은 보금자리』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381414,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "서리달 돌침대-「스며드는 한기」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「서리달 돌침대-『스며드는 한기』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381121,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "실내 낮은 탁자-「각자의 가치」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「실내 낮은 탁자-『각자의 가치』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381122,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "실내 책장-「한가로운 독서」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「실내 책장-『한가로운 독서』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381123,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "실내 카운터-「정식 방문」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「실내 카운터-『정식 방문』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381124,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「높이높이 수납장」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『높이높이 수납장』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 381125,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "여관 옷장-「대용량」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「여관 옷장-『대용량』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382322,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "서리달 카펫-「맑고 고른 빛」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「서리달 카펫-『맑고 고른 빛』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 382323,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「폭신폭신 미니 카펫」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『폭신폭신 미니 카펫』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384227,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「강철의 수호」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『강철의 수호』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384228,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「등지기의 깃발」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『등지기의 깃발』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 384229,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "주점 벽등-「복도의 빛」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「주점 벽등-『복도의 빛』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391022,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 별관-「다용도 찜질방」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 별관-『다용도 찜질방』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391023,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 별관-「비밀 공간」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 별관-『비밀 공간』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391024,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 별관-「급수탑」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 별관-『급수탑』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391025,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 풍차-「보조 동력」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 풍차-『보조 동력』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391026,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 대문-「운송 로직」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 대문-『운송 로직』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391027,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 플랫폼-「굳건한 지반」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 플랫폼-『굳건한 지반』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391028,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 벽-「전장 엄폐물」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 벽-『전장 엄폐물』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 391029,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "기지 기둥-「만능 비콘」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「기지 기둥-『만능 비콘』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다.",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 393940,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「다정한 포옹」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『다정한 포옹』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394129,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "마을 난간-「간이 의자」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「마을 난간-『간이 의자』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394130,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "마을 난간-「푸른 파도」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「마을 난간-『푸른 파도』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394823,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「쾅쾅 불꽃 신상」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『쾅쾅 불꽃 신상』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380107,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「기지의 냉방 비법」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『기지의 냉방 비법』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380307,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「기지의 견고한 천장」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『기지의 견고한 천장』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380207,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「기지의 합금 바닥」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『기지의 합금 바닥』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
+    "TypeDescription": "장식 도면",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 380507,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「기지의 고요한 빛결」",
+    "Description": "작업 순서가 상세히 적힌 도면. 「『기지의 고요한 빛결』」의 제작 방법이 기재되어 있다.\n사용 후 제작 화면에서 확인할 수 있다",
     "TypeDescription": "장식 도면",
     "Icon": "UI_ItemIcon_Home_Common"
   }

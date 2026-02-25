@@ -5738,7 +5738,7 @@
     "Goal": 66,
     "Order": 427,
     "Title": "大地調査・月光を浴びる島・2",
-    "Description": "ナド・クライエリアの海を望めぬ峰、波追いの峠、煙雲の山のマップを開放する。",
+    "Description": "ナド・クライ地域の海を望めぬ峰、波追いの峠、煙雲の山のマップを開放する。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -5751,7 +5751,7 @@
     "Goal": 66,
     "Order": 428,
     "Title": "蒼夜を渡る霜林・2",
-    "Description": "ナド・クライエリアの海を望めぬ峰、波追いの峠、煙雲の山のすべてのワープポイントを開放する。",
+    "Description": "ナド・クライ地域の海を望めぬ峰、波追いの峠、煙雲の山のすべてのワープポイントを開放する。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -5764,7 +5764,7 @@
     "Goal": 66,
     "Order": 429,
     "Title": "聖壇巡礼・月光を浴びる島・2",
-    "Description": "ナド・クライエリアの海を望めぬ峰、波追いの峠、煙雲の山のすべての地霊壇の封印を解除する。",
+    "Description": "ナド・クライ地域の海を望めぬ峰、波追いの峠、煙雲の山のすべての地霊壇の封印を解除する。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -5777,7 +5777,7 @@
     "Goal": 66,
     "Order": 430,
     "Title": "夜の贈り物を探して・月光を浴びる島・2",
-    "Description": "ナド・クライエリアの海を望めぬ峰、波追いの峠、煙雲の山にある全ての「月霊の秘蔵の地」の封印を解除する。",
+    "Description": "ナド・クライ地域の海を望めぬ峰、波追いの峠、煙雲の山にある全ての「月霊の秘蔵の地」の封印を解除する。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -5804,7 +5804,7 @@
     "Goal": 66,
     "Order": 432,
     "Title": "一粒の種が死ななければ",
-    "Description": "花が散れども、葉は約束を守る。",
+    "Description": "花散れども、葉は約束を守る。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -5831,7 +5831,7 @@
     "Goal": 66,
     "Order": 434,
     "Title": "集いの場・魔女の花園",
-    "Description": "「魔女のガーデン」の建設LvをMAXにする。",
+    "Description": "「魔女の花園」の建設LvをMAXにする。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -6445,8 +6445,8 @@
     "Id": 81048,
     "Goal": 0,
     "Order": 1049,
-    "Title": "…実は聞こえてるよな！",
-    "Description": "オイラも疲れるぞ！",
+    "Title": "…実は聞こえてるだろ？",
+    "Description": "オイラだって疲れるんだぞ！",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "事はこうなるべきだった",
-    "Description": "魘月の帰還を見届ける。",
+    "Description": "偽月の帰還を見届ける。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "「ムーンウォーク」",
+    "Description": "集光の月ヤモリが「空虚な掃蕩」を発動しようとした際、「錨月の岩」を破壊してそのチャージを中断させる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

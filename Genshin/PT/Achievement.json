@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "Como Deveria Ser",
-    "Description": "Testemunhe o retorno da Lua do Pesadelo",
+    "Description": "Testemunhe o retorno da Lua Falsa.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "Passeio pela Lua",
+    "Description": "Quando a Lagartixa Radiante se preparar para desencadear \"Reverberação do Vazio\", destrua a Âncora da Pedra Lunar para atrapalhar seu carregamento.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

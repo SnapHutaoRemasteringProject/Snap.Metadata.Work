@@ -2561,6 +2561,27 @@
   },
   {
     "Types": [
+      8001,
+      8002
+    ],
+    "SurfaceType": 11,
+    "IsSpecial": false,
+    "SpecialType": 5,
+    "Comfort": 300,
+    "Cost": 1600,
+    "DiscountCost": 1600,
+    "CanFloat": false,
+    "IsUnique": true,
+    "RankLevel": 1,
+    "GroupRecordType": 0,
+    "Id": 368212,
+    "Name": "Varka",
+    "Description": "Personaje para Relajatetera",
+    "Icon": "",
+    "Rank": 0
+  },
+  {
+    "Types": [
       1001,
       0
     ],
@@ -54553,7 +54574,7 @@
       4001,
       0
     ],
-    "SurfaceType": 3,
+    "SurfaceType": 0,
     "IsSpecial": false,
     "SpecialType": 0,
     "Comfort": 60,
@@ -55397,6 +55418,1472 @@
     "Description": "Una enorme linterna celeste creada a imagen de una Adeptus que custodiaba la luna. Representa una yegua blanca inmaculada saltando desde un acantilado, rodeada de nubes y envuelta en un crepúsculo resplandeciente. Hoy en día, la gente escribe sus aspiraciones en las linternas celestes con la esperanza de que la Adeptus Yegua Blanca descienda de la luna en su carruaje de jade para cumplir sus deseos.",
     "Icon": "UI_Homeworld_Exterior_Ly_Lamp_Light_HDJDadeng_01_Lod0",
     "Rank": 90700
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361345,
+    "Name": "Galleta redonda",
+    "Description": "Una mesa redonda y bajita que suele verse en el Taller de Krumkake Cling-clang. Está principalmente hecha de hojalata, lo que la hace muy resistente, y su forma recuerda a una galleta redonda y tostadita.\nA menudo la gente debate sobre si cubrirla o no con un bonito mantel... “¡Pero si le ponemos un mantel, luego será un fastidio limpiar todas las migas de krumkake que caigan encima!”.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJyuanzhuo_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361346,
+    "Name": "Casitas de almacenamiento Cling-clang",
+    "Description": "Una mesa de almacenamiento que suele verse en el Taller de Krumkake Cling-clang. Tiene compartimentos bien definidos, como si fueran casitas de diferentes alturas una al lado de la otra.\n“Esta es la casita del martillo, aquella es la casita de los clavos...”, dice la persona que está organizando las cosas en esta mesa.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_DJzhuozi_01_Lod0",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      3003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361347,
+    "Name": "Mesa redonda Lunaescarcha: Azul celeste suave",
+    "Description": "Una mesa redonda común en el Enclave Lunaescarcha, fabricada con madera de roble estival, conocida por su resistencia y propiedades impermeables, lo que la hace muy versátil.\nLos artesanos de los Descendientes Lunaescarcha se inspiraron en la luna que cuelga en lo alto del cielo nocturno para crear un mantel azul celeste y suave que acompaña a esta mesa, tan redonda como la luna llena, otorgándole la tranquilidad y calidez del firmamento nocturno.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Table_Prop_SYSNzhuozi_01_Vo",
+    "Rank": 20300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363414,
+    "Name": "Manuscritos de alguien",
+    "Description": "Unos libros apilados al azar en el Enclave Lunaescarcha. La mayoría no son libros encuadernados con esmero, sino manuscritos de escritores desconocidos.\nA menudo, este tipo de obras esconden historias apasionantes y extraordinarias. La caligrafía desordenada, la sintaxis caótica o las marcas dejadas en las páginas parecen narrar el verdadero estado del escritor en el momento de plasmar sus palabras.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNshuben_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11002,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363415,
+    "Name": "Mesita Lunaescarcha: Aroma frutal",
+    "Description": "Una mesita muy común en los interiores del Enclave Lunaescarcha en la que se suelen colocar las frutas de temporada más frescas.\nEstas frutas no solo son para comer sino que también sirven como ambientador natural: el delicado aroma frutal inunda la estancia con sutileza, transformando el espacio en un ambiente cálido y agradable.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYSNguizi_01_Vo",
+    "Rank": 40300
+  },
+  {
+    "Types": [
+      11001,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363511,
+    "Name": "Ramas unidas en azur",
+    "Description": "Una flor mecánica que nunca se marchita. Es un adorno de interior muy apreciado por los soldados ratnik.\n“¡No hay tiempo para cuidarla... ni luz solar... ni siquiera una palada de tierra fértil!”\nPor eso, cuando uno de los soldados ratnik más mañosos armó esta maceta tan bonita con puros materiales que se iban a echar a perder, a todos se les iluminó la cara... El color azul celeste es, sin duda, el que más anhelan ver quienes viven sumidos en la noche eterna.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_SYRSNjiahua_01_Lod0",
+    "Rank": 40200
+  },
+  {
+    "Types": [
+      4001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 362134,
+    "Name": "Silla de madera de roble estival “Reposo en la luna”",
+    "Description": "Una silla fabricada principalmente con madera de roble estival muy común en el Enclave Lunaescarcha.\nSu respaldo ha sido tallado de tal forma que la parte calada se asemeja a una luna. Cuando se coloca en interiores, su asiento cuenta con un suave cojín azul celeste que crea un ambiente cálido y natural.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Chair_Prop_SYSNyizi_01_Vo",
+    "Rank": 30100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363119,
+    "Name": "Luz de asta gélida",
+    "Description": "Una lámpara de madera con forma de ciervo astaglacial muy común en los interiores del Enclave Lunaescarcha.\n Aunque cuenta con un asa para llevarla de un lado a otro, lo cierto es que pesa bastante, así que suele quedarse en un lugar fijo. La mayoría de los residentes del Enclave Lunaescarcha la usan como luz nocturna, pues su resplandor es suficiente para iluminar el camino en la oscuridad sin asustar a los pequeños animales.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYSNtideng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      11003,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 305,
+    "DiscountCost": 262,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 363120,
+    "Name": "Champiñón retorcido",
+    "Description": "Una lámpara con forma de champiñón que puede verse en los campamentos de los Lampareros.\nA diferencia de la mayoría de las lámparas del mercado que se inspiran en los champiñones, la parte que emite luz no es el “sombrero”, sino el “bastón” retorcido. Su luz es aún más especial: una mitad es cálida como la luz del sol, mientras que la otra es fría como la luz de la luna.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_SYRSNshudeng_01_Vo",
+    "Rank": 40100
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 254,
+    "DiscountCost": 191,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361413,
+    "Name": "La mejor cama del mundo",
+    "Description": "Una cama que se puede ver en el Taller de Krumkake Cling-clang. Tiene una base de metal resistente, sábanas rosas con estampados adorables y una almohada suave. Gracias a su amplio tamaño y altura ideal, permite dormir plácidamente en cualquier postura, brindando una experiencia de sueño inigualable.\n“¡Esta es la mejor cama del mundo de todas las que he dormido!”, dijo con orgullo la creadora que la fabricó con sus propias manos.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_DJchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361414,
+    "Name": "Cama de piedra Lunaescarcha: Frescor",
+    "Description": "Una cama de piedra muy común en el Enclave Lunaescarcha. Aunque está cubierta con una manta suave, sigue pareciendo bastante dura para acostarse en ella.\nEn los días calurosos, esta cama ofrece una frescura reconfortante. Sin embargo, en el frío extremo del invierno, es mejor colocar un edredón grueso antes de acostarse.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Bed_Prop_SYSNchuang_01_Vo",
+    "Rank": 20500
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361121,
+    "Name": "Mesa baja de interior: Valor propio",
+    "Description": "Una mesa baja muy común en los campamentos de los Lampareros, con bastante espacio de almacenamiento.\nComo estante, suele albergar las aficiones de su dueño: los amantes de las flores la llenan de macetas, los amantes de los libros la cubren de libros y los amantes de la buena comida la atiborran de manjares. Para los soldados ratnik, al ser el mueble más cercano a la cama, lo más habitual es que coloquen en ella su lámpara, esa que llevan siempre consigo y que consideran tan valiosa como su propia vida.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361122,
+    "Name": "Estantería de interior: Lectura ociosa",
+    "Description": "Una estantería de uso común en los campamentos de los Lampareros. Su diseño es bastante singular y permite colocar fácilmente libros de diversos tamaños.\nPara los soldados ratnik, el conocimiento es un tesoro invaluable: una pequeña información obtenida por casualidad puede salvar vidas en un momento crítico. Por eso, cuando tienen tiempo libre, muchos de ellos se reúnen frente a las estanterías para nutrirse de sabiduría y prepararse para la próxima batalla mientras descansan.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNshujia_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361123,
+    "Name": "Mostrador de interior: Visita formal",
+    "Description": "Un mostrador de uso común en los campamentos de los Lampareros, fabricado íntegramente en chapa de hierro, sólido y robusto. Detrás del mostrador suele haber un encargado de turno para recibir a los desconocidos que deseen hacer una visita.\nA simple vista, el mostrador parece tosco y rústico, y esa es precisamente la intención de los soldados ratnik. Sirve para disuadir a los “invitados inesperados” que se adentran imprudentemente en territorios peligrosos sin pensárselo.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_SYRSNguitai_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361124,
+    "Name": "Alta torre",
+    "Description": "Este armario, que se puede ver en el Taller de Krumkake Cling-clang, es ancho en la base y estrecho en la parte superior, como una torre de varios pisos. Su diseño único no solo ofrece una excelente capacidad de almacenamiento, sino que también garantiza un centro de gravedad estable, lo que evita que se vuelque incluso ante impactos fuertes. “Cada piso tiene inquilinos diferentes: los grandes viven abajo y los pequeños arriba, ¡como en una alta torre!”. Con esta idea en mente, el creador dio forma a este armario de aspecto tan singular.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Prop_DJguizi_01_Vo",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      3001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 254,
+    "DiscountCost": 165,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 361125,
+    "Name": "Armario de hotel: Capacidad extra",
+    "Description": "Un armario muy común en el Buque Insignia. Tiene una capacidad enorme y una combinación de colores elegante y refinada.\nOriginalmente, este armario tenía la mitad de su capacidad actual, pero como el Buque Insignia cuenta con muchos huéspedes de larga estancia que necesitan tener a mano ropa para todo tipo de clima, la demanda de espacio aumentó. Los clientes presentaron una petición conjunta para ampliar el armario original y, hoy en día, ya supera la capacidad de un armario común. Aunque... ¿quién sabe cuándo volverá a expandirse?",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Cabinet_Build_QJyimaogui_01_Lod0",
+    "Rank": 20100
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 362322,
+    "Name": "Alfombra Lunaescarcha: Claridad deslumbrante",
+    "Description": "Una alfombra muy común en el Enclave Lunaescarcha. Su color principal es el azul, con toques de un llamativo naranja rojizo. Su diseño simétrico no solo resulta agradable a la vista, sino que también transmite una sensación de orden y paz interior.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_SYSNditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      4004,
+      0
+    ],
+    "SurfaceType": 8,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 362323,
+    "Name": "Alfombra suavecita",
+    "Description": "Una alfombra redonda que se puede ver en el Taller de Krumkake Cling-clang. Tiene colores cálidos y está decorada con adorables motivos.\nLa alfombra está hecha de un tejido suave y tupido que le da una textura esponjosa. Al tocarla, ¡incluso da la sensación de que estás acariciando a un gatito!",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Carpet_Prop_DJditan_01_Vo",
+    "Rank": 30400
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 364227,
+    "Name": "Firmes como el acero",
+    "Description": "Una decoración de pared común en los campamentos de los Lampareros. Está compuesta por una espada y un escudo cruzados, y representa la determinación y la perseverancia de los soldados ratnik a la hora de combatir a los enemigos y proteger a sus familias.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNjian_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 169,
+    "DiscountCost": 127,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 364228,
+    "Name": "Estandarte de los Lampareros",
+    "Description": "Un estandarte común en los campamentos de los Lampareros. Está decorado con el emblema del faro de los Lampareros y representa la voluntad inquebrantable de los soldados ratnik, quienes custodian el faro en la oscuridad sin jamás retroceder.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Prop_ZDRSNguatan_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      5005,
+      0
+    ],
+    "SurfaceType": 1,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 220,
+    "DiscountCost": 199,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 364229,
+    "Name": "Lámpara de pared de taberna: Luz suspendida del pasillo",
+    "Description": "Una lámpara de pared muy común en el Buque Insignia. Brilla con intensidad y suele colgarse en los pasillos para iluminarlos. El cable del que pende está hecho de cuerda blanca pura, lo que da la impresión de que la luz flota sobre el pasillo cuando se mira desde lejos. Este diseño hace que la lámpara se balancee ligeramente ante cualquier vibración cercana. Los cantineros más experimentados son capaces de percibir altercados en las mesas a través del movimiento de la luz y así prevenir posibles conflictos.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Walldecoration_Light_QJbideng_01_Vo",
+    "Rank": 50200
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 251,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371022,
+    "Name": "Edificio auxiliar de la base: Invernadero multiusos",
+    "Description": "Un edificio auxiliar de la Base del Molino Catapumtrón equipado con gruesas paredes y conductos de ventilación especiales, además de una caldera externa que mantiene la temperatura interior estable. Ya sea como dormitorio temporal para huéspedes, baño climatizado o taller con calefacción continua, este tipo de construcción es la opción ideal.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 210,
+    "DiscountCost": 170,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371023,
+    "Name": "Edificio auxiliar de la base: Espacio secreto",
+    "Description": "Un edificio auxiliar de la Base del Molino Catapumtrón con forma de pez gigante con la boca abierta. Su grueso techo y sus sólidas paredes forman una barrera fiable que proporciona un excelente aislamiento acústico y lumínico en su interior. Este diseño lo hace ideal tanto para utilizarse como laboratorio especial a prueba de luz y sonido, como para servir de cámara acorazada donde guardar objetos especiales.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_02_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 165,
+    "DiscountCost": 123,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371024,
+    "Name": "Edificio auxiliar de la base: Torre de agua elevada",
+    "Description": "Un edificio auxiliar de la Base del Molino Catapumtrón de gran altura y gran capacidad de almacenamiento, capaz de guardar y distribuir líquidos. En ocasiones, también puede usarse como torre de vigilancia. Gracias a su altura, puede suministrar agua utilizando la presión hidrostática sin necesidad de energía externa, satisfaciendo así las necesidades de abastecimiento de la base. Durante las estaciones calurosas, este edificio también puede rociar agua en forma de niebla para proporcionar un ambiente fresco y agradable a la base.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_House_03_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 335,
+    "DiscountCost": 268,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371025,
+    "Name": "Molino de viento de la base: Energía suplementaria",
+    "Description": "Un molino de viento decorativo de la Base del Molino Catapumtrón equipado con turbinas auxiliares en su interior para garantizar una rotación estable en cualquier condición climática. Cuando el viento sopla con fuerza, funciona sin problemas, aportando una atmósfera de paz y tranquilidad al patio. Y cuando el aire está estancado y el calor resulta insoportable, su ágil rotación trae consigo una agradable brisa.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Fengche_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 260,
+    "DiscountCost": 230,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371026,
+    "Name": "Puerta de la base: Lógica de tránsito",
+    "Description": "La puerta de la Base del Molino Catapumtrón presenta un marco circular de metal especial y está decorada con un llamativo letrero luminoso.\nLa ventaja del diseño circular radica en que cualquier punto del marco está a la misma distancia del centro, lo que facilita el transporte de piezas de formas irregulares. Además, el diseño de esta base incorpora un letrero luminoso que mantiene la puerta visible durante la noche, garantizando así la comodidad en el tránsito de personal y materiales.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Door_01_Lod0",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7012,
+      0
+    ],
+    "SurfaceType": 15,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371027,
+    "Name": "Plataforma de la base: Cimiento sólido",
+    "Description": "Una plataforma metálica de la Base del Molino Catapumtrón que emplea el diseño estructural clásico de los cimientos de algunos edificios de Nod Krai. Bajo su apariencia sencilla y sin adornos, se oculta una asombrosa capacidad de carga. Estas plataformas no solo soportan fácilmente todo tipo de pesos en entornos normales, sino que también sostienen con firmeza el funcionamiento de grandes mecanismos de ingeniería incluso sobre terrenos blandos. Sin exagerar, la prosperidad de esta base se ha construido sobre estos sólidos cimientos.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pingtai_01_Vo",
+    "Rank": 130700
+  },
+  {
+    "Types": [
+      6002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 95,
+    "DiscountCost": 71,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371028,
+    "Name": "Muro de la base: Línea de obstrucción",
+    "Description": "Un muro bajo de metal de la Base del Molino Catapumtrón fabricado con resistentes piezas metálicas. Su diseño está inspirado en la experiencia de Nod Krai durante su lucha contra la Cacería Salvaje. Este muro combina protección, rentabilidad y facilidad de instalación, proporcionando a los tiradores una cobertura fiable y amplia.\nActualmente, en esta base, estos muros bajos cumplen una nueva función: servir como divisores de espacios, logrando que la distribución de la base sea ordenada y estructurada sin sacrificar la sensación de amplitud y transparencia visual.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Wall_01_Vo",
+    "Rank": 60100
+  },
+  {
+    "Types": [
+      13008,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 371029,
+    "Name": "Pilar de la base: Baliza multiusos",
+    "Description": "Un pilar metálico de la Base del Molino Catapumtrón. Su diseño firme y esbelto le permite funcionar como un elemento decorativo independiente que aporta un toque de fuerza y modernidad al patio. Además, resulta muy práctico: tiene instalado un mecanismo elevador en el lateral para izar banderas, y su parte superior es compatible con diversos dispositivos útiles, por lo que se le conoce como la “baliza” multiusos.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Pillar_01_Vo",
+    "Rank": 70700
+  },
+  {
+    "Types": [
+      7001,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 373940,
+    "Name": "Abrazo cálido",
+    "Description": "Una estatua de piedra blanca que se puede ver en la Isla Hiisi de Nod Krai. Su postura, similar a la de un abrazo, transmite una cálida sensación a quien la contempla.\n“Hijo perdido, en nombre de los descendientes del Lejano Norte, te rezo por la gracia de la luz. Que la misericordia de la Luna Escarchada apacigüe los vientos furiosos de la noche helada y dé calor a los pajarillos que se encogen sobre esta tierra congelada”.\nQuizás fue con la aspiración de disipar las enfermedades y librar a todos del sufrimiento que el artesano otorgó a esta figura un simbolismo lleno de consuelo.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWdiaoxiang_02_Vo",
+    "Rank": 90200
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 374129,
+    "Name": "Barandilla de pueblo: Asiento improvisado",
+    "Description": "Una barandilla de piedra baja común en los pueblos. Es plana y resistente, y tiene un pasamanos bastante ancho que incluso puede usarse como asiento temporal. Pero ojo, no camines sobre el pasamanos, es muy peligroso...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_02_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7006,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 60,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 374130,
+    "Name": "Barandilla de pueblo: Olas azules",
+    "Description": "Una barandilla baja de madera que se puede ver en los pueblos. Tiene una forma peculiar que recuerda a olas azules.\nNo es muy útil como barrera, pero su diseño único y bonito la convierte en una herramienta muy usada para delimitar zonas.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Decoration_Prop_NDSWzhalan_01_Vo",
+    "Rank": 130100
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 330,
+    "DiscountCost": 330,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible al completar Anécdotas"
+    ],
+    "Id": 374822,
+    "Name": "Pez-maceta bamboleante",
+    "Description": "Un pez mecánico hecho por Aino. Viene con un manual de instrucciones escrito a mano. La letra está algo torcida, pero se pueden distinguir algunas indicaciones importantes.\n1. ¡No necesita agua!\n2. ¡No le des krumkakes!\n3. ¡Trátalo bien!",
+    "Icon": "UI_Homeworld_Ani_Exterior_Md_Decoration_Prop_Yaoyaoyutou_01",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      7015,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 1150,
+    "DiscountCost": 1150,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible con la compra del PB Himno de la Perla"
+    ],
+    "Id": 374823,
+    "Name": "Gran estatua de la Caballera Chispeante",
+    "Description": "Una estatua inspirada en cierta Caballera Chispeante de Mondstadt que parece capturar su majestuosa figura entre llamaradas explosivas mientras reduce todo a cenizas.\n¿Quién es el caballero más poderoso de Mondstadt? Algunos dirían que la famosa Jean, otros nominarían al Gran Maestro Varka que está en expedición, pero en el corazón de otros, la caballera más poderosa sigue siendo esa misteriosa niña de rojo que posee un tesoro sin igual...",
+    "Icon": "UI_Homeworld_Exterior_Md_Decoration_Prop_KLSX_01_Vo",
+    "Rank": 90500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372521,
+    "Name": "Brillo lunar danzante",
+    "Description": "Una planta de color blanco plateado que se suele ver en el Vergel Lunargénteo.\nSu tallo es fino y curvado, y sus ramas tienen forma de luna. Cuando la brisa nocturna la acaricia, se mece suavemente como si el brillo lunar danzara con ella.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_YYzhiwu_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372522,
+    "Name": "Mecedora y brillante",
+    "Description": "Una planta que crece en grupo y emite un suave resplandor, posee una vitalidad asombrosa: puede crecer con total libertad incluso sin luz ni agua.\n“¿Qué se mece de un lado a otro? ¿Qué brilla con luz propia?”\nLos niños inventaron esta sencilla adivinanza con la esperanza de poder jugar con algún viajero forastero que se cruzara en su camino.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_01_Vo",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372523,
+    "Name": "Bola peluda",
+    "Description": "Un arbusto morado bajo y esponjoso que se asemeja a una bola de pelusa. Es una planta ornamental de gran calidad, bonita y muy resistente.\nSus ramas son fáciles de podar, por lo que, en las manos hábiles de un jardinero, puede adoptar todo tipo de formas: un perrito juguetón, un gatito adorable o un pajarito saltarín...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Flower_NDSWcao_02_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10007,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372524,
+    "Name": "Cazarrecompensas",
+    "Description": "Un arbusto verde y bajo similar a una bola de pelo esponjosa. Posee una gran capacidad de adaptación y puede sobrevivir en entornos muy hostiles.\nDicen que una de cada cien mil de estas plantas cambia el color de sus hojas y ramas debido a la influencia prolongada de su hábitat, como si fuera un “cazarrecompensas” que se adapta a las circunstancias.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Grass_NDSWcao_03_Lod0",
+    "Rank": 80500
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372359,
+    "Name": "Árbol violeta persigueviento",
+    "Description": "Un árbol común en los campos de Nod Krai, con un tronco delgado y curvado, y una copa bastante escasa.\nEsta especie posee una característica que le permite adaptarse muy bien al entorno: crece en la dirección del viento. Así, incluso cuando soplan fuertes ráfagas, logra evitar quebrarse.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_01_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 160,
+    "DiscountCost": 118,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372360,
+    "Name": "Susurros del bosque azulado",
+    "Description": "Un árbol común en los alrededores del Vergel Lunargénteo con una forma peculiar.\n“En el momento en que el viento empieza a soplar, riega la Espiga de la Arboleda con agua bendecida para agradar a la deidad...”.\nSe desconoce si los susurros de los deseos de la gente llegan a ser escuchados, pero la Espiga de la Arboleda, regada con kuuvahki, rebosa de vitalidad...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_02_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372361,
+    "Name": "Árbol dorado bañaluna",
+    "Description": "Un árbol común en la Isla Hiisi de Nod Krai, con un tronco delgado y curvo y una copa dorada.\nDicen que los Descendientes Lunaescarcha aprecian especialmente estos árboles porque el color de sus hojas se asemeja a la luz dorada de la luna. Por ello, los plantaron a ambos lados del camino que conduce a la Tribuna Iluminada como muestra de su devoción a la diosa.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_03_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10003,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 65,
+    "DiscountCost": 47,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372362,
+    "Name": "Árbol esmeralda retoño",
+    "Description": "Un árbol común en los campos de Nod Krai, con un tronco bastante grueso y una copa de color verde fresco.\nDicen que este árbol y los de la misma especie poseen una vitalidad extraordinariamente tenaz. Su sistema de raíces está muy desarrollado y puede penetrar rápidamente en la tierra para absorber nutrientes. Incluso basta con cortar una pequeña rama y plantarla en el suelo para que brote y eche raíces en poco tiempo, de ahí su nombre.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Plant_Tree_NDSWshu_04_Lod0",
+    "Rank": 80300
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372236,
+    "Name": "Ola de la Luna Nueva",
+    "Description": "Una roca de montaña común en el Vergel Lunargénteo con una forma única que recuerda a las olas del mar.\n“La órbita de la Luna Eterna es lo que causa la subida y la bajada de las mareas”. Nadie sabe qué pensamientos de la Doncella Lunar habrán quedado grabados en estas rocas esculpidas por la gravedad con la forma de una ola...",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_YYshanshi_01_Lod0",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372237,
+    "Name": "Guardián del tesoro",
+    "Description": "Una roca de montaña común en los parajes de Nod Krai. Son tan pesadas y sólidas que incluso un hombre fornido armado con herramientas afiladas tendría dificultades para moverlas. Por ello, suelen considerarse un obstáculo problemático en la construcción de casas o el trazado de caminos. Sin embargo, para los pequeños animales que son expertos en excavar, estas rocas que ni siquiera los animales más grandes pueden mover son, sin duda, los mejores “guardianes del tesoro”.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_01_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      10002,
+      0
+    ],
+    "SurfaceType": 0,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 20,
+    "Cost": 35,
+    "DiscountCost": 24,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Decoraciones"
+    ],
+    "Id": 372238,
+    "Name": "Cuernos robustos de la tierra",
+    "Description": "Una roca de montaña común en los parajes de Nod Krai, de superficie sólida y lisa. Debido a su pequeño tamaño, suele ocultarse entre la densa vegetación y es difícil de detectar. Por eso, los aventureros experimentados advierten a los novatos: “¡Cuidado con dónde pisas! Tropezarte con una de estas duele más que recibir un golpe de un rinoceronte cuernorrobusto”.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Stone_NDshanshi_02_Vo",
+    "Rank": 80200
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 90,
+    "Cost": 85,
+    "DiscountCost": 64,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363387,
+    "Name": "Puerta de base: Comadreja fiable",
+    "Description": "Una llamativa y espléndida puerta metálica para el refugio, con una estructura sólida y fiable que es capaz de resistir los embates de los monstruos.\nSegún Rayo Cerúleo, la imponente apariencia de la puerta fue diseñada por el genio de la mecánica inspirándose en su compañera comadreja, Cola de Cebolla. Esos dos pulgares levantados y esa cara rebosante de confianza parecen decir: “¡Tranquilos, déjenmelo todo a mí!”.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Decoration_Prop_YYGM_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 423,
+    "DiscountCost": 317,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363388,
+    "Name": "Lobo férreo",
+    "Description": "#Una muestra de un cóctel audaz y desenfrenado. Se trata de una obra maestra elaborada especialmente para Varka basada en el “Lago espinoso” durante el periodo de prueba de la Taberna {F#de la Caballera Honoraria}{M#del Caballero Honorario}.\nEl Gran Maestro, que ha catado innumerables licores exquisitos, te pidió que te lanzaras a la “batalla” sin reservas y dejaras volar tu ingenio, así que decidiste lanzar una “ofensiva” extraordinaria.\nLa frescura de la menta y su aroma herbal conforman el primer impacto en el paladar. Las capas de sabores, cuidadosamente conservados, sirven de cobertura para que el aguafuego despliegue toda su potencia en un golpe definitivo. La smetana actúa como la retaguardia, encargada de cerrar las filas con precisión sin dejar ningún flanco descubierto.\nEn honor del Gran Maestro y el espíritu de Mondstadt, has llamado a la bebida “Lobo férreo”. El Gran Maestro está más que satisfecho con una sensación tan diversa y atrevida, y se la bebe de varios alegres tragos...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_01_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363389,
+    "Name": "Dodocoro soleado",
+    "Description": "#Una muestra de un cóctel dulce, ácido y repleto de pasión. Se trata de una obra maestra elaborada especialmente para Klee basándose en el “Buen tiempo” durante el periodo de prueba de la Taberna {F#de la Caballera Honoraria}{M#del Caballero Honorario}.\nEl “Buen tiempo” original tiene un color violeta que no es lo suficientemente cálido. En su lugar, ¡el sol y las nubes transmiten mucho mejor esa sensación cálida y acogedora!\nEs imprescindible que la bebida sea dulce y, al mismo tiempo, saludable, por lo que se ha utilizado un jugo aprobado por la Maestra Jean. Así pues, el azúcar proviene de la burburanja.\nY el ingrediente más importante: ¡el caramelo de Dodoco! Este aporta un delicioso toque mágico que debe ir justo en el centro de la nube.\nKlee dijo: “¡Buen tiempo, buen humor, Dodoco cantará y Klee se unirá!”. Por eso la bebida se llama “Dodocoro soleado”.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_02_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363390,
+    "Name": "Espada de la marea",
+    "Description": "#Una muestra de un cóctel refrescante e intenso. Se trata de una obra maestra elaborada especialmente para Eula basándose en el “Fulgor lunastral” durante el periodo de prueba de la Taberna {F#de la Caballera Honoraria}{M#del Caballero Honorario}.\nLa técnica de espada de Eula es como una danza con mandoble que, al entrar en contacto con el enemigo, golpea con la fuerza de una avalancha y termina de una manera limpia y tajante. De igual forma, en lo que a bebidas concierne, también prefiere los sabores intensos.\nPor ello, el aguafuego, tan puro como el hielo y sin sabores innecesarios, el jugo de flor rociomarina, cargado de un profundo simbolismo conmemorativo, y el cacao, que restaura energías y alivia el cansancio, se han unido al baile dentro de esta copa.\nPuesto que se trata de una bebida creada en honor a la técnica de espada de la Caballera de la Marea, el nombre “Espada de la marea” pareció encajar a la perfección. Y Eula expresó su total aprobación bebiéndose nada menos que tres copas...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_03_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363391,
+    "Name": "Rosa de los sueños",
+    "Description": "#Una muestra de un cóctel que desprende un aire relajante. Se trata de una obra maestra elaborada especialmente para Lisa basada en la “Nieve matutina” durante el periodo de prueba de la Taberna {F#de la Caballera Honoraria}{M#del Caballero Honorario}.\nTras un día ajetreado, la bibliotecaria necesita recuperar energías sin sacrificar el sueño. Por eso, en esta ocasión no usaste ingredientes energizantes y encontraste el equilibrio perfecto entre el dulzor del sirope de caramelo y un sutil toque ácido.\nComo el objetivo de Lisa es conseguir un sueño “apacible y reparador”, propusiste llamar “Rosa de los sueños” a la bebida, nombre que ha recibido la aprobación de Lisa.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_04_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 592,
+    "DiscountCost": 444,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363392,
+    "Name": "Relámpago despreocupado",
+    "Description": "#Una muestra de un cóctel que combina la despreocupación con la austeridad. Se trata de una obra maestra elaborada especialmente para Clorinde basada en la “Epopeya de caramelo ardiente” durante el periodo de prueba de la Taberna {F#de la Caballera Honoraria}{M#del Caballero Honorario}.\nCuando la verduga del justiciazgo, veloz como el rayo, visitó Mondstadt siguiendo las impresiones de un juego de rol, demostró una aguda sensibilidad hacia los aromas metálicos y una preferencia por los toques salados. Las bebidas que suele preferir tienden a ser ligeramente ácidas y quitan la sensación de empacho. Para un coctelero corriente, equilibrar ambas cosas sería todo un desafío, pero tú, que has trabajado en la taberna El Obsequio del Ángel y en el Buque Insignia, eres perfectamente capaz de controlar con precisión la proporción de cada ingrediente.\nPara que Clorinde disfrute de un viaje relajado por Mondstadt, llamaste a esta bebida “Relámpago despreocupado”, y ya se ha convertido en uno de sus recuerdos más importantes de la ciudad.",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_05_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      11004,
+      0
+    ],
+    "SurfaceType": 3,
+    "IsSpecial": false,
+    "SpecialType": 0,
+    "Comfort": 30,
+    "Cost": 507,
+    "DiscountCost": 381,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "RankLevel": 4,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "Obtenible por tiempo limitado en el evento"
+    ],
+    "Id": 363393,
+    "Name": "Fragancia vientonubosa",
+    "Description": "#Una muestra de un cóctel de aroma elegante y refinado. Se trata de una obra maestra elaborada especialmente para Émilie basada en el “Crepúsculo lumidulce” durante el periodo de prueba de la Taberna {F#de la Caballera Honoraria}{M#del Caballero Honorario}.\nLa perfumista de Fontaine te dijo que una bebida excesivamente dulce puede llegar a marear un poco, y que ella prefiere llegar al punto justo de alegría tras beber algo. Después de todo, que los clientes se desplomen sobre la barra no es precisamente la misión principal de un coctelero...\nEn los días de cielos despejados y brisa suave, los sentidos más agudos de la gente realzan el sabor de una bebida bien equilibrada.\nAsí pues, creaste esta refinada obra maestra basándote en los principios de la perfumería. Émilie ha decidido darle el elegante nombre “Fragancia vientonubosa”, como perfumista que es...",
+    "Icon": "UI_Homeworld_Interior_Md_Decoration_Prop_CLTT_06_Vo",
+    "Rank": 40400
+  },
+  {
+    "Types": [
+      1001,
+      0
+    ],
+    "SurfaceType": 7,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 335,
+    "DiscountCost": 335,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 360107,
+    "Name": "El secreto refrescante de la base",
+    "Description": "Una pared interior estándar de la Base del Molino Catapumtrón, fabricada con materiales metálicos reciclados de uso común en Nod Krai. Tiene un acabado frío y duro, además de una conductividad térmica excepcional. Dicen que este tipo de paredes mantienen las casas frescas y confortables incluso bajo el sol más abrasador.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Wall_01_Vo",
+    "Rank": 10100
+  },
+  {
+    "Types": [
+      1003,
+      0
+    ],
+    "SurfaceType": 2,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 676,
+    "DiscountCost": 676,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 360307,
+    "Name": "Techo sólido de la base",
+    "Description": "Un techo estándar de la Base del Molino Catapumtrón fabricado con placas de metal homogéneo cuidadosamente cortadas, fáciles de instalar y de limpiar, y que además ofrecen una excelente funcionalidad y seguridad. Según dicen, está hecho del mismo material que la cubierta metálica de los mecanismos kuuvahki, lo que garantiza una gran resistencia y un peso reducido, eliminando por completo cualquier riesgo.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Ceiling_01_Vo",
+    "Rank": 10300
+  },
+  {
+    "Types": [
+      1002,
+      0
+    ],
+    "SurfaceType": 6,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 360207,
+    "Name": "Suelo aleado de la base",
+    "Description": "Una baldosa estándar de la Base del Molino Catapumtrón hecha a partir de placas metálicas de diversas formas ensambladas entre sí, lo que confiere al suelo un aspecto visual con profundidad. Su diseño irregular y variado aporta un ambiente alegre y dinámico al interior, dotándolo de un estilo único. Aunque este diseño innovador aumenta la dificultad y el coste de instalación y mantenimiento, el uso de metales reciclados compensa eficazmente este inconveniente.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_A_Floor_01_Vo",
+    "Rank": 10200
+  },
+  {
+    "Types": [
+      1004,
+      0
+    ],
+    "SurfaceType": 5,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 60,
+    "Cost": 399,
+    "DiscountCost": 333,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "SourceTexts": [
+      "#Comprar en la Tetetienda{NON_BREAK_SPACE}-{NON_BREAK_SPACE}Planos de decoración"
+    ],
+    "Id": 360507,
+    "Name": "Difusión serena de la base",
+    "Description": "Una lámpara de techo estándar de la Base del Molino Catapumtrón que está compuesta por un soporte metálico y varias lámparas combinadas. Tiene un estilo robusto y minimalista. Cuando cae la noche, las luces se entrelazan y emiten una suave luz difusa que transforma el hogar en un refugio cálido y sereno, disipando todo el cansancio y las preocupaciones.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Lamp_Light_Chandelier_01_Vo",
+    "Rank": 10400
+  },
+  {
+    "Types": [
+      1005,
+      0
+    ],
+    "SurfaceType": 4,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364307,
+    "Name": "Puerta de la cámara acorazada de la base",
+    "Description": "Una puerta estándar de la Base del Molino Catapumtrón. Está fabricada con varias capas de metal soldado y su diseño se inspira en las puertas de las cámaras acorazadas, combinando estética y funcionalidad antivandalismo. Este tipo de puertas resisten eficazmente herramientas de perforación, palancas y golpes, y fueron diseñadas para mantener a raya a los intrusos. Está claro que, tratándose de un mundo interior tan seguro, semejante nivel de protección resulta un poco excesivo. Lo más probable es que solo sirva para evitar que los animalitos la usen como rascador.",
+    "Icon": "UI_Homeworld_Ani_Interior_Ndkl_Room_Door_01_Vo",
+    "Rank": 10500
+  },
+  {
+    "Types": [
+      1006,
+      0
+    ],
+    "SurfaceType": 10,
+    "IsSpecial": false,
+    "SpecialType": 1,
+    "Comfort": 30,
+    "Cost": 0,
+    "DiscountCost": 0,
+    "CanFloat": false,
+    "IsUnique": false,
+    "ItemIcon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "RankLevel": 3,
+    "GroupRecordType": 0,
+    "Id": 364407,
+    "Name": "Ecos vibrantes de la base",
+    "Description": "Unas escaleras metálicas de esquina estándar de la Base del Molino Catapumtrón, conocida por su alta resistencia, gran durabilidad y bajo peso. Cuando los pasos pisan estos peldaños de acero, se produce un sonido nítido que, combinado con la estructura acústica del edificio, podría producir un ritmo vibrante y enérgico.",
+    "Icon": "UI_Homeworld_Interior_Ndkl_Room_F_Stair_01_Vo",
+    "Rank": 10600
+  },
+  {
+    "Types": [
+      12001,
+      0
+    ],
+    "SurfaceType": 13,
+    "IsSpecial": false,
+    "SpecialType": 6,
+    "Comfort": 750,
+    "Cost": 1500,
+    "DiscountCost": 1500,
+    "CanFloat": false,
+    "IsUnique": true,
+    "ItemIcon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "RankLevel": 5,
+    "GroupRecordType": 0,
+    "Id": 375107,
+    "Name": "Base del Molino Catapumtrón",
+    "Description": "La Esfera mecánica Sombrafugaz permite construir en la Relajatetera una gran base integral que recrea los paisajes de Nod Krai. Cuenta con una estructura de metal probada y un completo sistema de transporte que le confieren un aire salvaje y singular, siguiendo la misma filosofía de diseño que el Taller de Krumkake Cling-clang. Sin embargo, a diferencia de este, la Base del Molino Catapumtrón prescinde de las funciones de producción y reduce el uso de iluminación. Aun así, el molino de viento que gira sin cesar en el tejado transmite el bullicio de un taller en plena actividad, despertando un ímpetu vibrante en el corazón.",
+    "Icon": "UI_Homeworld_Exterior_Ndkl_Build_Mainhouse_01_Lod0",
+    "Rank": 1000
   },
   {
     "Types": [

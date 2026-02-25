@@ -4648,7 +4648,7 @@
         },
         {
           "Level": 1,
-          "Description": "Saldırıyı <color=#99FFFFFF>%25</color> artırır. Grup üyeleri Kristalleşme veya Ay Kristalleşmesi tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%22,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
+          "Description": "Saldırıyı <color=#99FFFFFF>%25</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde veya Ay Kristalleşmesi tepkimeleri tetiklediğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%22,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
         },
         {
           "Level": 2,
@@ -4656,7 +4656,7 @@
         },
         {
           "Level": 3,
-          "Description": "Saldırıyı <color=#99FFFFFF>%35</color> artırır. Grup üyeleri Kristalleşme veya Ay Kristalleşmesi tepkimelerinden Element Parçaları elde ettiğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%31,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
+          "Description": "Saldırıyı <color=#99FFFFFF>%35</color> artırır. Grup üyeleri Kristalleşme tepkimelerinden Element Parçaları elde ettiğinde veya Ay Kristalleşmesi tepkimeleri tetiklediğinde kuşanan karakter 1 Mühür kazanır ve Element Becerisi Hasarı <color=#99FFFFFF>%31,5</color> artar. Mühür 15sn sürer ve kuşanan karakterin aynı anda en fazla 2 Mührü olabilir. Tüm Mühürler, Element Becerisi Hasar verdikten 0,2sn sonra kaybolur. Ay Kristalleşmesi tepkimesiyle her saniye en fazla 1 Mühür kazanılabilir."
         },
         {
           "Level": 4,
@@ -4774,6 +4774,59 @@
       114064,
       112115,
       112103
+    ]
+  },
+  {
+    "Id": 12515,
+    "PromoteId": 12515,
+    "Sort": 5211,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Kudretli Kurdun Destanı",
+    "Description": "Efsaneye göre bu büyük kılıç, şövalyeliğe yükselmesinden önce Poyraz adını miras almış olan Ravenwood'un elleriyle dövülmüş.",
+    "Icon": "UI_EquipIcon_Claymore_EnsisAquilonis",
+    "AwakenIcon": "UI_EquipIcon_Claymore_EnsisAquilonis_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1301
+      },
+      {
+        "InitValue": 0.072,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Yılmaz Cesaret",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar <color=#99FFFFFF>%7,5</color> artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını <color=#99FFFFFF>%7,5</color> artırır."
+        },
+        {
+          "Level": 1,
+          "Description": "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar <color=#99FFFFFF>%9,5</color> artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını <color=#99FFFFFF>%9,5</color> artırır."
+        },
+        {
+          "Level": 2,
+          "Description": "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar <color=#99FFFFFF>%11,5</color> artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını <color=#99FFFFFF>%11,5</color> artırır."
+        },
+        {
+          "Level": 3,
+          "Description": "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar <color=#99FFFFFF>%13,5</color> artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını <color=#99FFFFFF>%13,5</color> artırır."
+        },
+        {
+          "Level": 4,
+          "Description": "Saldırı Hızı %10 artar. Kuşanan karakter Normal Saldırılarla düşmanlara her vurduğunda, Element Becerisini her kullandığında veya Yüklü Saldırıya her başladığında sırayla 1/2/2 kademe Dört Rüzgarın İlahisi kazanır: 4 saniyeliğine verilen Hasar <color=#99FFFFFF>%15,5</color> artar. Bu etki 0,01 saniyede bir tetiklenebilir ve 4 kademeye kadar birikebilir.\nAyrıca grupta \"Cadılık: Saklı Ayin\" etkisi varken her Dört Rüzgarın İlahisi kademesi, kuşanan karakterin Kritik Hasarını <color=#99FFFFFF>%15,5</color> artırır."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114008,
+      112139,
+      112034
     ]
   },
   {

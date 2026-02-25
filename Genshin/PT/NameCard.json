@@ -3261,5 +3261,30 @@
       "UI_NameCardPic_Bp47_Alpha",
       "UI_NameCardPic_Bp47_P"
     ]
+  },
+  {
+    "Id": 210273,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Varka: Lobo Líder",
+    "Description": "Estilo de Cartão de Visita.\nA alcateia persegue o vento do norte, mas só o líder deles sabe que o mesmo tipo de vento circulam as pernas dele desde que começou a correr.",
+    "Icon": "UI_NameCardIcon_Varka",
+    "Pictures": [
+      "UI_NameCardPic_Varka_Alpha",
+      "UI_NameCardPic_Varka_P"
+    ]
+  },
+  {
+    "Id": 210274,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Passe de Batalha: Vento Norte",
+    "Description": "Estilo de Cartão de Visita.\nEra algo que o vento poderia trazer do norte: um toque de frio, o último cheiro fraco das flores antes de caírem de seus galhos, e as notícias que um viajante logo voltaria para casa.",
+    "SpecialDescription": "Passe de Batalha: Vento Norte - Estilo de Cartão de Visita",
+    "Icon": "UI_NameCardIcon_Bp48",
+    "Pictures": [
+      "UI_NameCardPic_Bp48_Alpha",
+      "UI_NameCardPic_Bp48_P"
+    ]
   }
 ]

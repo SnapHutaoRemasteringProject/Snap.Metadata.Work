@@ -17957,7 +17957,7 @@
     "Goal": 0,
     "Order": 2304,
     "Title": "Wie es hätte sein sollen",
-    "Description": "Werde Zeuge der Rückkehr des Albtraummonds.",
+    "Description": "Werde Zeuge der Rückkehr des Falschen Mondes.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17993,6 +17993,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.3"
+  },
+  {
+    "Id": 82307,
+    "Goal": 0,
+    "Order": 2307,
+    "Title": "„Spaziergang auf dem Mond“",
+    "Description": "Zerstöre den Mondanker-Felsen, wenn der Glimmermondgecko sich bereit macht, seinen „Schritt in der Leere“ einzusetzen. So kannst du seinem Aufladevorgang unterbrechen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Version": "6.4"
   },
   {
     "Id": 84000,

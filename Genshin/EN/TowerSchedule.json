@@ -1,37 +1,5 @@
 [
   {
-    "Id": 114,
-    "FloorIds": [
-      1110,
-      1111,
-      1118,
-      1119
-    ],
-    "Open": "2025-12-16T04:00:00+08:00",
-    "Close": "2026-01-16T03:59:59+08:00",
-    "BuffName": "Whirlwind Moon",
-    "Descriptions": [
-      "When the active character triggers Swirl on an opponent, a <color=#F39000>shockwave will be unleashed</color> at the opponent's position, dealing True DMG. This effect can be triggered once every 2s."
-    ],
-    "Icon": "UI_TowerBlessing_100"
-  },
-  {
-    "Id": 115,
-    "FloorIds": [
-      1110,
-      1111,
-      1120,
-      1121
-    ],
-    "Open": "2026-01-16T04:00:00+08:00",
-    "Close": "2026-02-16T03:59:59+08:00",
-    "BuffName": "Surgestrike Moon",
-    "Descriptions": [
-      "When a character triggers a Lunar reaction (Lunar-Bloom, Lunar-Charged, or Lunar-Crystallize) on an opponent, <color=#F39000>a shockwave will be unleashed</color> at the opponent's position, dealing True DMG. This effect can be triggered once every 3s."
-    ],
-    "Icon": "UI_TowerBlessing_101"
-  },
-  {
     "Id": 116,
     "FloorIds": [
       1110,
@@ -46,6 +14,22 @@
       "When a character deals Lunar-Crystallize DMG to an opponent, <color=#F39000>a shockwave will be unleashed</color> at the opponent's position, dealing True DMG. This effect can be triggered once every 3s."
     ],
     "Icon": "UI_TowerBlessing_102"
+  },
+  {
+    "Id": 117,
+    "FloorIds": [
+      1110,
+      1111,
+      1124,
+      1125
+    ],
+    "Open": "2026-03-16T04:00:00+08:00",
+    "Close": "2026-04-16T03:59:59+08:00",
+    "BuffName": "Windlash Moon",
+    "Descriptions": [
+      "When a character triggers a Swirl reaction on an opponent, they gain 1 stack of Windlash, and when the stack count reaches 4, <color=#F39000>a shockwave is unleashed</color> at the opponent's position, dealing True DMG and consuming all stacks of Windlash at the same time. Up to 1 stack of Windlash can be gained every 0.1s. A shockwave can be unleashed this way every 6s."
+    ],
+    "Icon": "UI_TowerBlessing_100"
   },
   {
     "Id": 1,
@@ -1865,5 +1849,37 @@
       "When the active character's Bond of Life value increases or decreases, <color=#F39000>a shockwave will be unleashed</color>, dealing True DMG to nearby opponents."
     ],
     "Icon": "UI_TowerBlessing_99"
+  },
+  {
+    "Id": 114,
+    "FloorIds": [
+      1110,
+      1111,
+      1118,
+      1119
+    ],
+    "Open": "2025-12-16T04:00:00+08:00",
+    "Close": "2026-01-16T03:59:59+08:00",
+    "BuffName": "Whirlwind Moon",
+    "Descriptions": [
+      "When the active character triggers Swirl on an opponent, a <color=#F39000>shockwave will be unleashed</color> at the opponent's position, dealing True DMG. This effect can be triggered once every 2s."
+    ],
+    "Icon": "UI_TowerBlessing_100"
+  },
+  {
+    "Id": 115,
+    "FloorIds": [
+      1110,
+      1111,
+      1120,
+      1121
+    ],
+    "Open": "2026-01-16T04:00:00+08:00",
+    "Close": "2026-02-16T03:59:59+08:00",
+    "BuffName": "Surgestrike Moon",
+    "Descriptions": [
+      "When a character triggers a Lunar reaction (Lunar-Bloom, Lunar-Charged, or Lunar-Crystallize) on an opponent, <color=#F39000>a shockwave will be unleashed</color> at the opponent's position, dealing True DMG. This effect can be triggered once every 3s."
+    ],
+    "Icon": "UI_TowerBlessing_101"
   }
 ]
