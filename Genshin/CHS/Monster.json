@@ -8839,6 +8839,114 @@
     ]
   },
   {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "辖域守护者",
+    "Title": "受造之物",
+    "Description": "原初的大能者流溢而出的影之造物，守卫高天之柱殿的守护者。\n作为空之柱殿的守卫，虽被赋予了「眼」，却只能颂赞永恒实在的「理型」，无从得见现象世界的纷繁，因此不被视为天使的同类。这般自相乖离之事究竟是其造主理性的设计，又或是它们所侍奉的主人终究也不理解原初那一位的心意，恐怕已无从得知。",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ],
+    "Drops": [
+      202,
+      112142,
+      112141,
+      112140,
+      400023,
+      400033,
+      400043,
+      400022,
+      400032,
+      400042,
+      400062
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "守望者·堕天",
+    "Title": "世界望楼之守望",
+    "Description": "原初的大能者流溢而出的影之造物，曾居于高天之上的守望者，终因开眼而堕入尘世。\n守望者只应沉默地于世界之柱殿守望，一切逾越规则的探求，皆是与谋求世界破灭等同的不赦之罪。\n身为世界望楼的统权，执掌其造主所赋予的纠正一切「革新进化之事」的权柄。在历经百千劫的无明后，终于选择开眼直面世界的谎言与真实，却也因此违背了造主的意志。\n守望者不知晓那位离去的主人因何离去，唯有永恒的惩罚依然驻留在凝滞的隙间…",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ],
+    "Drops": [
+      102,
+      202,
+      105,
+      113086,
+      104174,
+      104173,
+      104172,
+      104171,
+      400089,
+      400099,
+      400088,
+      400098,
+      400033,
+      400043,
+      400032,
+      400042,
+      400062
+    ]
+  },
+  {
     "Id": 0,
     "DescribeId": 48101,
     "Name": "防御塔火低级",

@@ -4866,6 +4866,192 @@
     "Version": "5.3"
   },
   {
+    "Id": 80479,
+    "Goal": 67,
+    "Order": 436,
+    "Title": "山风无色",
+    "Description": "点亮蒙德区域中，风息山的地图。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80480,
+    "Goal": 67,
+    "Order": 437,
+    "Title": "废弃疗养院下车之旅",
+    "Description": "点亮蒙德区域中，空之神殿的地图。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80486,
+    "Goal": 67,
+    "Order": 438,
+    "Title": "提托诺斯的晨歌",
+    "Description": "解锁蒙德区域中，风息山、空之神殿所有传送锚点。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 31,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80475,
+    "Goal": 67,
+    "Order": 439,
+    "Title": "隙间的寻宝者",
+    "Description": "在风息山、空之神殿开启45个宝箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 45,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80476,
+    "Goal": 67,
+    "Order": 440,
+    "Title": "隙间的寻宝者",
+    "Description": "在风息山、空之神殿开启90个宝箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 90,
+    "Version": "6.5",
+    "PreviousId": 80475
+  },
+  {
+    "Id": 80477,
+    "Goal": 67,
+    "Order": 441,
+    "Title": "隙间的寻宝者",
+    "Description": "在风息山、空之神殿开启180个宝箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 180,
+    "Version": "6.5",
+    "PreviousId": 80476
+  },
+  {
+    "Id": 80487,
+    "Goal": 67,
+    "Order": 442,
+    "Title": "隙间的冒险家",
+    "Description": "在风息山、空之神殿完成7个大世界限时挑战。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 7,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80488,
+    "Goal": 67,
+    "Order": 443,
+    "Title": "隙间的冒险家",
+    "Description": "在风息山、空之神殿完成14个大世界限时挑战。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 14,
+    "Version": "6.5",
+    "PreviousId": 80487
+  },
+  {
+    "Id": 80489,
+    "Goal": 67,
+    "Order": 444,
+    "Title": "隙间的冒险家",
+    "Description": "在风息山、空之神殿完成28个大世界限时挑战。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 28,
+    "Version": "6.5",
+    "PreviousId": 80488
+  },
+  {
+    "Id": 80500,
+    "Goal": 67,
+    "Order": 445,
+    "Title": "隙间的引路人",
+    "Description": "在风息山、空之神殿追随3个仙灵，并点亮仙灵之庭。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 3,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80485,
+    "Goal": 67,
+    "Order": 446,
+    "Title": "空间与非自由意志",
+    "Description": "将空之神殿的摹忆中枢等级供奉至满级。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "Progress": 1,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80484,
+    "Goal": 67,
+    "Order": 447,
+    "Title": "诚至金开",
+    "Description": "解除风息山的宗室密藏之地与空之神殿的诸界秘展之厅的封印。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 2,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80482,
+    "Goal": 67,
+    "Order": 448,
+    "Title": "一个告别与三个再会",
+    "Description": "为彩特琳德找回所有丢失的东西。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 1,
+    "Version": "6.5"
+  },
+  {
+    "Id": 80481,
+    "Goal": 67,
+    "Order": 449,
+    "Title": "再见，魔山",
+    "Description": "完成「山中好长日」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "Progress": 1,
+    "Version": "6.5"
+  },
+  {
     "Id": 80371,
     "Goal": 58,
     "Order": 1542,
@@ -13972,6 +14158,272 @@
     "Version": "6.3"
   },
   {
+    "Id": 81643,
+    "Goal": 0,
+    "Order": 1637,
+    "Title": "该反省的另有其人…",
+    "Description": "旧塔下的警戒机关再也不因狂风而闪烁。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81644,
+    "Goal": 0,
+    "Order": 1638,
+    "Title": "好书，爱看",
+    "Description": "搜集到被书页隐去的所有宝箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 2,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81645,
+    "Goal": 0,
+    "Order": 1639,
+    "Title": "圣杯和奇迹都是存在的",
+    "Description": "完成《埃黎尼》的冒险。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81646,
+    "Goal": 0,
+    "Order": 1640,
+    "Title": "抽屉里的生态箱",
+    "Description": "生命总会自然而然变得茂盛起来。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81647,
+    "Goal": 0,
+    "Order": 1641,
+    "Title": "正因如此你有资格",
+    "Description": "是否拥有跨过门槛的资格取决于是否能想到绕过门槛的办法…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81648,
+    "Goal": 0,
+    "Order": 1642,
+    "Title": "面面俱到",
+    "Description": "…虽然挑战其实就只有两面。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81649,
+    "Goal": 0,
+    "Order": 1643,
+    "Title": "十有八九是右撇子",
+    "Description": "第一次协同小右施展空间能力。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81650,
+    "Goal": 0,
+    "Order": 1644,
+    "Title": "博物馆惊魂夜",
+    "Description": "还是让展柜里的东西待在展柜里吧…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81651,
+    "Goal": 0,
+    "Order": 1645,
+    "Title": "紫丁香的庭园",
+    "Description": "第一次观看彩特琳德和她姐姐的「回忆」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81652,
+    "Goal": 0,
+    "Order": 1646,
+    "Title": "老派要典",
+    "Description": "经典冒险与其构成的形式…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81653,
+    "Goal": 0,
+    "Order": 1647,
+    "Title": "梦生羽翼",
+    "Description": "尝试挥动化生的翅膀吧…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81654,
+    "Goal": 0,
+    "Order": 1648,
+    "Title": "掌中观微",
+    "Description": "第一次仔细探查微型山水的内部。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81655,
+    "Goal": 0,
+    "Order": 1649,
+    "Title": "裁雨幽光今何在？",
+    "Description": "那是属于过去的侠义干云的往事。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81656,
+    "Goal": 0,
+    "Order": 1650,
+    "Title": "不畏浮云遮望眼",
+    "Description": "登上高山，或许就可以不被世事遮拦。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81657,
+    "Goal": 0,
+    "Order": 1651,
+    "Title": "Shed a Light",
+    "Description": "入尘垂手与遗世绝俗，本就是一条路的两个方向。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81658,
+    "Goal": 0,
+    "Order": 1652,
+    "Title": "诉说过往、此刻与未来",
+    "Description": "来到空之神殿柱殿中央区。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81659,
+    "Goal": 0,
+    "Order": 1653,
+    "Title": "忧郁的治疗，又名黑胆切除",
+    "Description": "击败「梅兰塔」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81660,
+    "Goal": 0,
+    "Order": 1654,
+    "Title": "看展的素质",
+    "Description": "完成五个展柜的挑战。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
+    "Id": 81661,
+    "Goal": 0,
+    "Order": 1655,
+    "Title": "天地一粟",
+    "Description": "高处向下看时看到的一切都很小，或许从低看高处，也不过沧海一粟。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
+  },
+  {
     "Id": 82001,
     "Goal": 7,
     "Order": 2001,
@@ -18007,6 +18459,20 @@
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Version": "6.4"
+  },
+  {
+    "Id": 82308,
+    "Goal": 0,
+    "Order": 2308,
+    "Title": "绝不意气用事",
+    "Description": "平等地击破过所有元素类型的「活性元素星」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "Progress": 1,
+    "Version": "6.5",
+    "IsDeleteWatcherAfterFinish": true
   },
   {
     "Id": 84000,
