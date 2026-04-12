@@ -987,6 +987,20 @@
     "UnlockParameter": 10000128
   },
   {
+    "Id": 11200,
+    "Icon": "UI_AvatarIcon_Linnea_Circle",
+    "Name": "Linnea",
+    "UnlockType": 2,
+    "UnlockParameter": 10000130
+  },
+  {
+    "Id": 99999,
+    "Icon": "UI_AvatarIcon_Ambor_Circle",
+    "Name": "",
+    "UnlockType": 1,
+    "UnlockParameter": 320001
+  },
+  {
     "Id": 100010,
     "Icon": "UI_AvatarIcon_72105_Circle",
     "Name": "Hanachirusato's Mask",
@@ -1160,6 +1174,13 @@
     "Name": "Arrow of Terpikeraunas",
     "UnlockType": 4,
     "UnlockParameter": 76101
+  },
+  {
+    "Id": 100260,
+    "Icon": "UI_AvatarIcon_76096_Circle",
+    "Name": "Zeitlind",
+    "UnlockType": 4,
+    "UnlockParameter": 76096
   },
   {
     "Id": 200010,
