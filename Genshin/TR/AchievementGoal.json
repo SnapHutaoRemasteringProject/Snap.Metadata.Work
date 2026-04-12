@@ -3,12 +3,20 @@
     "Id": 0,
     "Order": 1,
     "Name": "Dünyanın Harikaları",
+    "FinishReward": {
+      "Id": 0,
+      "Count": 0
+    },
     "Icon": "UI_AchievementIcon_O001"
   },
   {
     "Id": 17,
     "Order": 2,
     "Name": "Kalbin Anıları",
+    "FinishReward": {
+      "Id": 0,
+      "Count": 0
+    },
     "Icon": "UI_AchievementIcon_E001"
   },
   {
@@ -660,5 +668,15 @@
       "Count": 1
     },
     "Icon": "UI_AchievementIcon_A023_Part2"
+  },
+  {
+    "Id": 67,
+    "Order": 68,
+    "Name": "İblis Dağı'nın Nefesi",
+    "FinishReward": {
+      "Id": 210276,
+      "Count": 1
+    },
+    "Icon": "UI_AchievementIcon_A024"
   }
 ]
