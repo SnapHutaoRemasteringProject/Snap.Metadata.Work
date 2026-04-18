@@ -2308,6 +2308,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://upload-bbs.miyoushe.com/upload/2023/06/30/75276539/2f5d0e0dd54d6c0a460824141c4bb3cd_3192144591564859524.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 301,
@@ -2325,6 +2326,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://upload-bbs.miyoushe.com/upload/2023/06/30/75276539/6b985be1c44b0801bf27c023371bbc7d_5967123556875000918.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 400,
@@ -2342,6 +2344,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://upload-bbs.miyoushe.com/upload/2023/06/30/75276539/a8292186eac3c51e0fd4ed94d37ba89d_5080888164209224701.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 302,
@@ -2362,6 +2365,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://upload-bbs.miyoushe.com/upload/2023/07/19/75276539/480b17c5344813b6d49e7517fd9987e9_3886533379953125995.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 301,
@@ -2379,6 +2383,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://upload-bbs.miyoushe.com/upload/2023/07/19/75276539/ea654a3d3610b057108dc5d8da146f6f_93056742546942869.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 400,
@@ -2396,6 +2401,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://upload-bbs.miyoushe.com/upload/2023/07/19/75276539/7293503ec0c7f259517ab33c8cc0e93f_4849690323360752887.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 302,
@@ -5333,6 +5339,63 @@
       13407,
       14401,
       15405
+    ]
+  },
+  {
+    "Name": "Premonitrice di meraviglie",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/8276d8496441bcc1a0711ef461f6a580_9072996253231558964_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/8276d8496441bcc1a0711ef461f6a580_9072996253231558964_transformed.jpg",
+    "From": "2026-04-08T06:00:00+08:00",
+    "To": "2026-04-29T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000130
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "Mediatrice celeste",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/1471cc469251c57f912f20ce7674a1a9_257805249164579490_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/1471cc469251c57f912f20ce7674a1a9_257805249164579490_transformed.jpg",
+    "From": "2026-04-08T06:00:00+08:00",
+    "To": "2026-04-29T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000104
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "ottenimento di Promessa del gelo dorato (Arco) e Piuma cremisi dell",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/7768b5fe52e2ee66c961cc606835a1db_6363276486875390167_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/7768b5fe52e2ee66c961cc606835a1db_6363276486875390167_transformed.jpg",
+    "From": "2026-04-08T06:00:00+08:00",
+    "To": "2026-04-29T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      15514,
+      15516
+    ],
+    "UpPurpleList": [
+      11405,
+      12403,
+      13401,
+      14409,
+      15430
     ]
   }
 ]

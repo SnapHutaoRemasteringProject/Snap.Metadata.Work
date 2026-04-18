@@ -123,7 +123,7 @@
     "Goal": 2,
     "Order": 8,
     "PreviousId": 0,
-    "Title": "#{M#Expert}{F#Experte} en survie",
+    "Title": "{M#Expert}{F#Experte} en survie",
     "Description": "Apprenez 10 recettes.",
     "FinishReward": {
       "Id": 201,
@@ -140,7 +140,7 @@
     "Goal": 2,
     "Order": 9,
     "PreviousId": 80008,
-    "Title": "#{M#Expert}{F#Experte} en survie",
+    "Title": "{M#Expert}{F#Experte} en survie",
     "Description": "Apprenez 20 recettes.",
     "FinishReward": {
       "Id": 201,
@@ -157,7 +157,7 @@
     "Goal": 2,
     "Order": 10,
     "PreviousId": 80009,
-    "Title": "#{M#Expert}{F#Experte} en survie",
+    "Title": "{M#Expert}{F#Experte} en survie",
     "Description": "Apprenez 40 recettes.",
     "FinishReward": {
       "Id": 201,
@@ -174,7 +174,7 @@
     "Goal": 2,
     "Order": 11,
     "PreviousId": 0,
-    "Title": "#{M#Chef étoilé}{F#Cheffe étoilée}",
+    "Title": "{M#Chef étoilé}{F#Cheffe étoilée}",
     "Description": "Maîtrisez 10 recettes.",
     "FinishReward": {
       "Id": 201,
@@ -191,7 +191,7 @@
     "Goal": 2,
     "Order": 12,
     "PreviousId": 80011,
-    "Title": "#{M#Chef étoilé}{F#Cheffe étoilée}",
+    "Title": "{M#Chef étoilé}{F#Cheffe étoilée}",
     "Description": "Maîtrisez 20 recettes.",
     "FinishReward": {
       "Id": 201,
@@ -208,7 +208,7 @@
     "Goal": 2,
     "Order": 13,
     "PreviousId": 80012,
-    "Title": "#{M#Chef étoilé}{F#Cheffe étoilée}",
+    "Title": "{M#Chef étoilé}{F#Cheffe étoilée}",
     "Description": "Maîtrisez 40 recettes.",
     "FinishReward": {
       "Id": 201,
@@ -565,7 +565,7 @@
     "Goal": 4,
     "Order": 34,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par le vent",
+    "Title": "{M#Guidé}{F#Guidée} par le vent",
     "Description": "Suivez 10 Fées à Mondstadt et activez leur support (sauf Monts Dosdragon).",
     "FinishReward": {
       "Id": 201,
@@ -582,7 +582,7 @@
     "Goal": 4,
     "Order": 35,
     "PreviousId": 80034,
-    "Title": "#{M#Guidé}{F#Guidée} par le vent",
+    "Title": "{M#Guidé}{F#Guidée} par le vent",
     "Description": "Suivez 20 Fées à Mondstadt et activez leur support (sauf Monts Dosdragon).",
     "FinishReward": {
       "Id": 201,
@@ -599,7 +599,7 @@
     "Goal": 4,
     "Order": 36,
     "PreviousId": 80035,
-    "Title": "#{M#Guidé}{F#Guidée} par le vent",
+    "Title": "{M#Guidé}{F#Guidée} par le vent",
     "Description": "Suivez 40 Fées à Mondstadt et activez leur support (sauf Monts Dosdragon).",
     "FinishReward": {
       "Id": 201,
@@ -786,7 +786,7 @@
     "Goal": 5,
     "Order": 47,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par la roche",
+    "Title": "{M#Guidé}{F#Guidée} par la roche",
     "Description": "Suivez 20 Fées à Liyue et activez leur support (sans compter ceux du Gouffre et du Vallon Chenyu).",
     "FinishReward": {
       "Id": 201,
@@ -803,7 +803,7 @@
     "Goal": 5,
     "Order": 48,
     "PreviousId": 80047,
-    "Title": "#{M#Guidé}{F#Guidée} par la roche",
+    "Title": "{M#Guidé}{F#Guidée} par la roche",
     "Description": "Suivez 40 Fées à Liyue et activez leur support (sans compter ceux du Gouffre et du Vallon Chenyu).",
     "FinishReward": {
       "Id": 201,
@@ -820,7 +820,7 @@
     "Goal": 5,
     "Order": 49,
     "PreviousId": 80048,
-    "Title": "#{M#Guidé}{F#Guidée} par la roche",
+    "Title": "{M#Guidé}{F#Guidée} par la roche",
     "Description": "Suivez 60 Fées à Liyue et activez leur support (sans compter ceux du Gouffre et du Vallon Chenyu).",
     "FinishReward": {
       "Id": 201,
@@ -973,7 +973,7 @@
     "Goal": 16,
     "Order": 58,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par la montagne",
+    "Title": "{M#Guidé}{F#Guidée} par la montagne",
     "Description": "Suivez 5 Fées ardentes dans les Monts Dosdragon et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -990,7 +990,7 @@
     "Goal": 16,
     "Order": 59,
     "PreviousId": 80058,
-    "Title": "#{M#Guidé}{F#Guidée} par la montagne",
+    "Title": "{M#Guidé}{F#Guidée} par la montagne",
     "Description": "Suivez 10 Fées ardentes dans les Monts Dosdragon et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -1007,7 +1007,7 @@
     "Goal": 16,
     "Order": 60,
     "PreviousId": 80059,
-    "Title": "#{M#Guidé}{F#Guidée} par la montagne",
+    "Title": "{M#Guidé}{F#Guidée} par la montagne",
     "Description": "Suivez 20 Fées ardentes dans les Monts Dosdragon et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -1381,7 +1381,7 @@
     "Goal": 24,
     "Order": 83,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par la lumière (1)",
+    "Title": "{M#Guidé}{F#Guidée} par la lumière (1)",
     "Description": "Suivez 4 Fées sur l'Île de Narukami, à Kannazuka et sur l'Île de Yashiori dans la région d'Inazuma et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -1398,7 +1398,7 @@
     "Goal": 24,
     "Order": 84,
     "PreviousId": 80082,
-    "Title": "#{M#Guidé}{F#Guidée} par la lumière (1)",
+    "Title": "{M#Guidé}{F#Guidée} par la lumière (1)",
     "Description": "Suivez 8 Fées sur l'Île de Narukami, à Kannazuka et sur l'Île de Yashiori dans la région d'Inazuma et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -1415,7 +1415,7 @@
     "Goal": 24,
     "Order": 85,
     "PreviousId": 80083,
-    "Title": "#{M#Guidé}{F#Guidée} par la lumière (1)",
+    "Title": "{M#Guidé}{F#Guidée} par la lumière (1)",
     "Description": "Suivez 16 Fées sur l'Île de Narukami, à Kannazuka et sur l'Île de Yashiori dans la région d'Inazuma et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -1539,6 +1539,23 @@
     "FinishReward": {
       "Id": 201,
       "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80092,
+    "Goal": 0,
+    "Order": 1026,
+    "PreviousId": 0,
+    "Title": "Idole à Inazuma",
+    "Description": "Atteignez un Niv. de réputation 10 à Inazuma.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
@@ -1704,7 +1721,7 @@
     "Goal": 26,
     "Order": 102,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par la lumière (2)",
+    "Title": "{M#Guidé}{F#Guidée} par la lumière (2)",
     "Description": "Suivez 6 Fées sur l'Île de Watatsumi et sur l'Île de Seirai dans la région d'Inazuma et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -1768,6 +1785,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80108,
+    "Goal": 26,
+    "Order": 111,
+    "PreviousId": 0,
+    "Title": "Chasseurs d'orage de Seirai",
+    "Description": "Terminez « Chasseurs d'orage de Seirai ».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80109,
+    "Goal": 26,
+    "Order": 112,
+    "PreviousId": 0,
+    "Title": "Sous le même clair de lune",
+    "Description": "Terminez « Les profondeurs baignées de lune ».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80110,
     "Goal": 26,
     "Order": 108,
@@ -1814,40 +1865,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 24,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80108,
-    "Goal": 26,
-    "Order": 111,
-    "PreviousId": 0,
-    "Title": "Chasseurs d'orage de Seirai",
-    "Description": "Terminez « Chasseurs d'orage de Seirai ».",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80109,
-    "Goal": 26,
-    "Order": 112,
-    "PreviousId": 0,
-    "Title": "Sous le même clair de lune",
-    "Description": "Terminez « Les profondeurs baignées de lune ».",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "2.1",
     "IsDailyQuest": false
@@ -1925,7 +1942,7 @@
     "Goal": 27,
     "Order": 119,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par la brume",
+    "Title": "{M#Guidé}{F#Guidée} par la brume",
     "Description": "Suivez 6 Fées sur l'Île de Tsurumi et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -2418,7 +2435,7 @@
     "Goal": 30,
     "Order": 148,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par la grotte",
+    "Title": "{M#Guidé}{F#Guidée} par la grotte",
     "Description": "Suivez 6 Fées dans le Gouffre et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -2435,7 +2452,7 @@
     "Goal": 30,
     "Order": 149,
     "PreviousId": 80148,
-    "Title": "#{M#Guidé}{F#Guidée} par la grotte",
+    "Title": "{M#Guidé}{F#Guidée} par la grotte",
     "Description": "Suivez 12 Fées dans le Gouffre et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -2452,7 +2469,7 @@
     "Goal": 30,
     "Order": 150,
     "PreviousId": 80149,
-    "Title": "#{M#Guidé}{F#Guidée} par la grotte",
+    "Title": "{M#Guidé}{F#Guidée} par la grotte",
     "Description": "Suivez 24 Fées dans le Gouffre et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -2622,7 +2639,7 @@
     "Goal": 31,
     "Order": 160,
     "PreviousId": 0,
-    "Title": "#Exploration continentale{NON_BREAK_SPACE}: Forêts de Sumeru",
+    "Title": "Exploration continentale{NON_BREAK_SPACE}: Forêts de Sumeru",
     "Description": "Débloquez l'intégralité de la carte de la Forêt d'Avidya, de la Selve de Lokapala, de la Vallée d'Ardravi, du Royaume d'Ashavan, du Champ de Vissudha, de la Pépinière perdue et de Vanarana dans la région de Sumeru.",
     "FinishReward": {
       "Id": 201,
@@ -2707,7 +2724,7 @@
     "Goal": 31,
     "Order": 165,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les bois",
+    "Title": "{M#Guidé}{F#Guidée} par les bois",
     "Description": "Suivez 10 Fées dans la Forêt d'Avidya, dans la Selve de Lokapala, dans la Vallée d'Ardravi, dans le Royaume d'Ashavan, dans le Champ de Vissudha, dans la Pépinière perdue et à Vanarana et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -2724,7 +2741,7 @@
     "Goal": 31,
     "Order": 166,
     "PreviousId": 80165,
-    "Title": "#{M#Guidé}{F#Guidée} par les bois",
+    "Title": "{M#Guidé}{F#Guidée} par les bois",
     "Description": "Suivez 20 Fées dans la Forêt d'Avidya, dans la Selve de Lokapala, dans la Vallée d'Ardravi, dans le Royaume d'Ashavan, dans le Champ de Vissudha, dans la Pépinière perdue et à Vanarana et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -2741,7 +2758,7 @@
     "Goal": 31,
     "Order": 167,
     "PreviousId": 80166,
-    "Title": "#{M#Guidé}{F#Guidée} par les bois",
+    "Title": "{M#Guidé}{F#Guidée} par les bois",
     "Description": "Suivez 40 Fées dans la Forêt d'Avidya, dans la Selve de Lokapala, dans la Vallée d'Ardravi, dans le Royaume d'Ashavan, dans le Champ de Vissudha, dans la Pépinière perdue et à Vanarana et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -2929,7 +2946,7 @@
     "Order": 178,
     "PreviousId": 0,
     "Title": "Le voyage de Farris",
-    "Description": "#Obtenez toutes les parties de « Parchemin de l'hymne à flot{NON_BREAK_SPACE}».",
+    "Description": "Obtenez toutes les parties de « Parchemin de l'hymne à flot{NON_BREAK_SPACE}».",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -2996,7 +3013,7 @@
     "Goal": 35,
     "Order": 184,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par le désert (1)",
+    "Title": "{M#Guidé}{F#Guidée} par le désert (1)",
     "Description": "Suivez 10 Fées dans le Désert hypostyle, au Haut-Setekh et au Bas-Setekh et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3013,7 +3030,7 @@
     "Goal": 35,
     "Order": 185,
     "PreviousId": 80182,
-    "Title": "#{M#Guidé}{F#Guidée} par le désert (1)",
+    "Title": "{M#Guidé}{F#Guidée} par le désert (1)",
     "Description": "Suivez 20 Fées dans le Désert hypostyle, au Haut-Setekh et au Bas-Setekh et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3030,7 +3047,7 @@
     "Goal": 35,
     "Order": 186,
     "PreviousId": 80183,
-    "Title": "#{M#Guidé}{F#Guidée} par le désert (1)",
+    "Title": "{M#Guidé}{F#Guidée} par le désert (1)",
     "Description": "Suivez 40 Fées dans le Désert hypostyle, au Haut-Setekh et au Bas-Setekh et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3167,7 +3184,7 @@
     "Order": 194,
     "PreviousId": 0,
     "Title": "C'est l'heure du du-du-du duel !",
-    "Description": "#Obtenez le guide de joueur et devenez {F#une joueuse certifiée}{M#un joueur certifié} par l'Association des joueurs.",
+    "Description": "Obtenez le guide de joueur et devenez {F#une joueuse certifiée}{M#un joueur certifié} par l'Association des joueurs.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -3655,11 +3672,28 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80227,
+    "Goal": 38,
+    "Order": 217,
+    "PreviousId": 0,
+    "Title": "Le chant funèbre de Bilqis",
+    "Description": "Terminez « Le chant funèbre de Bilqis ».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.4",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80228,
     "Goal": 38,
     "Order": 208,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par le désert (2)",
+    "Title": "{M#Guidé}{F#Guidée} par le désert (2)",
     "Description": "Suivez 4 Fées au Désert de Hadramaveth et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3676,7 +3710,7 @@
     "Goal": 38,
     "Order": 209,
     "PreviousId": 80228,
-    "Title": "#{M#Guidé}{F#Guidée} par le désert (2)",
+    "Title": "{M#Guidé}{F#Guidée} par le désert (2)",
     "Description": "Suivez 8 Fées au Désert de Hadramaveth et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3693,7 +3727,7 @@
     "Goal": 38,
     "Order": 210,
     "PreviousId": 80229,
-    "Title": "#{M#Guidé}{F#Guidée} par le désert (2)",
+    "Title": "{M#Guidé}{F#Guidée} par le désert (2)",
     "Description": "Suivez 16 Fées au Désert de Hadramaveth et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3808,23 +3842,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80227,
-    "Goal": 38,
-    "Order": 217,
-    "PreviousId": 0,
-    "Title": "Le chant funèbre de Bilqis",
-    "Description": "Terminez « Le chant funèbre de Bilqis ».",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.4",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80237,
     "Goal": 41,
     "Order": 218,
@@ -3880,7 +3897,7 @@
     "Goal": 41,
     "Order": 221,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par le reg",
+    "Title": "{M#Guidé}{F#Guidée} par le reg",
     "Description": "Suivez 4 Fées à Gavireh Lajavard et au Royaume de Farakhkert et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3897,7 +3914,7 @@
     "Goal": 41,
     "Order": 222,
     "PreviousId": 80240,
-    "Title": "#{M#Guidé}{F#Guidée} par le reg",
+    "Title": "{M#Guidé}{F#Guidée} par le reg",
     "Description": "Suivez 8 Fées à Gavireh Lajavard et au Royaume de Farakhkert et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -3914,7 +3931,7 @@
     "Goal": 41,
     "Order": 223,
     "PreviousId": 80241,
-    "Title": "#{M#Guidé}{F#Guidée} par le reg",
+    "Title": "{M#Guidé}{F#Guidée} par le reg",
     "Description": "Suivez 16 Fées à Gavireh Lajavard et au Royaume de Farakhkert et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4029,23 +4046,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80250,
-    "Goal": 41,
-    "Order": 230,
-    "PreviousId": 0,
-    "Title": "Amrita d'orcanette",
-    "Description": "Montez le Bassin d'amrita au niveau maximum.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80249,
     "Goal": 41,
     "Order": 231,
@@ -4055,6 +4055,23 @@
     "FinishReward": {
       "Id": 201,
       "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80250,
+    "Goal": 41,
+    "Order": 230,
+    "PreviousId": 0,
+    "Title": "Amrita d'orcanette",
+    "Description": "Montez le Bassin d'amrita au niveau maximum.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
@@ -4152,7 +4169,7 @@
     "Goal": 42,
     "Order": 237,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (1)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (1)",
     "Description": "Suivez 6 Fées dans la Région de la Cour de Fontaine, la Région Belleau et la Région Béryl et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4169,7 +4186,7 @@
     "Goal": 42,
     "Order": 238,
     "PreviousId": 80257,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (1)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (1)",
     "Description": "Suivez 12 Fées dans la Région de la Cour de Fontaine, la Région Belleau et la Région Béryl et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4186,7 +4203,7 @@
     "Goal": 42,
     "Order": 239,
     "PreviousId": 80258,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (1)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (1)",
     "Description": "Suivez 24 Fées dans la Région de la Cour de Fontaine, la Région Belleau et la Région Béryl et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4458,7 +4475,7 @@
     "Goal": 45,
     "Order": 251,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (2)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (2)",
     "Description": "Suivez 3 Fées dans la Région de Liffey et la Région de l'Institut de recherche d'ingénierie cinétique de Fontaine et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4475,7 +4492,7 @@
     "Goal": 45,
     "Order": 252,
     "PreviousId": 80275,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (2)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (2)",
     "Description": "Suivez 6 Fées dans la Région de Liffey et la Région de l'Institut de recherche d'ingénierie cinétique de Fontaine et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4492,7 +4509,7 @@
     "Goal": 45,
     "Order": 253,
     "PreviousId": 80276,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (2)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (2)",
     "Description": "Suivez 9 Fées dans la Région de Liffey et la Région de l'Institut de recherche d'ingénierie cinétique de Fontaine et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4696,7 +4713,7 @@
     "Goal": 46,
     "Order": 265,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (3)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (3)",
     "Description": "Suivez 3 Fées dans la Région mortée et la Forêt d'Erinnyes et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4713,7 +4730,7 @@
     "Goal": 46,
     "Order": 266,
     "PreviousId": 80289,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (3)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (3)",
     "Description": "Suivez 6 Fées dans la Région mortée et la Forêt d'Erinnyes et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4730,7 +4747,7 @@
     "Goal": 46,
     "Order": 267,
     "PreviousId": 80290,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues (3)",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues (3)",
     "Description": "Suivez 9 Fées dans la Région mortée et la Forêt d'Erinnyes et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4917,7 +4934,7 @@
     "Goal": 47,
     "Order": 278,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par le jade",
+    "Title": "{M#Guidé}{F#Guidée} par le jade",
     "Description": "Suivez 4 Fées dans le Vallon Chenyu et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4934,7 +4951,7 @@
     "Goal": 47,
     "Order": 279,
     "PreviousId": 80302,
-    "Title": "#{M#Guidé}{F#Guidée} par le jade",
+    "Title": "{M#Guidé}{F#Guidée} par le jade",
     "Description": "Suivez 8 Fées dans le Vallon Chenyu et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -4951,7 +4968,7 @@
     "Goal": 47,
     "Order": 280,
     "PreviousId": 80303,
-    "Title": "#{M#Guidé}{F#Guidée} par le jade",
+    "Title": "{M#Guidé}{F#Guidée} par le jade",
     "Description": "Suivez 16 Fées dans le Vallon Chenyu et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -5172,7 +5189,7 @@
     "Goal": 48,
     "Order": 293,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par l'or",
+    "Title": "{M#Guidé}{F#Guidée} par l'or",
     "Description": "Suivez 6 Fées dans la Région Nostoi et la Mer d'antan et activez leur support.",
     "FinishReward": {
       "Id": 201,
@@ -5389,23 +5406,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80346,
-    "Goal": 51,
-    "Order": 308,
-    "PreviousId": 0,
-    "Title": "Offrandes à la nuit : Plaine des bûchers (1)",
-    "Description": "Débloquez tous les espaces secrets des tribus du Bassin des flammes innombrables, de la Vallée Tequemecan, de la Montagne Coatepec et des Sources Toyac dans la région de Natlan.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "",
-    "Version": "5.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80332,
     "Goal": 51,
     "Order": 309,
@@ -5427,7 +5427,7 @@
     "Goal": 51,
     "Order": 310,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les fantaisies (1)",
+    "Title": "{M#Guidé}{F#Guidée} par les fantaisies (1)",
     "Description": "Suivez 8 monetoos et complétez leur graffiti au Bassin des flammes innombrables, à la Vallée Tequemecan, à la Montagne Coatepec et aux Sources Toyac.",
     "FinishReward": {
       "Id": 201,
@@ -5444,7 +5444,7 @@
     "Goal": 51,
     "Order": 311,
     "PreviousId": 80333,
-    "Title": "#{M#Guidé}{F#Guidée} par les fantaisies (1)",
+    "Title": "{M#Guidé}{F#Guidée} par les fantaisies (1)",
     "Description": "Suivez 16 monetoos et complétez leur graffiti au Bassin des flammes innombrables, à la Vallée Tequemecan, à la Montagne Coatepec et aux Sources Toyac.",
     "FinishReward": {
       "Id": 201,
@@ -5461,7 +5461,7 @@
     "Goal": 51,
     "Order": 312,
     "PreviousId": 80334,
-    "Title": "#{M#Guidé}{F#Guidée} par les fantaisies (1)",
+    "Title": "{M#Guidé}{F#Guidée} par les fantaisies (1)",
     "Description": "Suivez 32 monetoos et complétez leur graffiti au Bassin des flammes innombrables, à la Vallée Tequemecan, à la Montagne Coatepec et aux Sources Toyac.",
     "FinishReward": {
       "Id": 201,
@@ -5593,6 +5593,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80346,
+    "Goal": 51,
+    "Order": 308,
+    "PreviousId": 0,
+    "Title": "Offrandes à la nuit : Plaine des bûchers (1)",
+    "Description": "Débloquez tous les espaces secrets des tribus du Bassin des flammes innombrables, de la Vallée Tequemecan, de la Montagne Coatepec et des Sources Toyac dans la région de Natlan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "",
+    "Version": "5.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80347,
     "Goal": 51,
     "Order": 317,
@@ -5699,7 +5716,7 @@
     "Goal": 55,
     "Order": 327,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les fantaisies (2)",
+    "Title": "{M#Guidé}{F#Guidée} par les fantaisies (2)",
     "Description": "Suivez 3 monetoos et complétez leur graffiti aux Monts Tezcatepetonco, à la Falaise Quahuacan et à Ochkanatlan.",
     "FinishReward": {
       "Id": 201,
@@ -5716,7 +5733,7 @@
     "Goal": 55,
     "Order": 328,
     "PreviousId": 80353,
-    "Title": "#{M#Guidé}{F#Guidée} par les fantaisies (2)",
+    "Title": "{M#Guidé}{F#Guidée} par les fantaisies (2)",
     "Description": "Suivez 6 monetoos et complétez leur graffiti aux Monts Tezcatepetonco, à la Falaise Quahuacan et à Ochkanatlan.",
     "FinishReward": {
       "Id": 201,
@@ -5733,7 +5750,7 @@
     "Goal": 55,
     "Order": 329,
     "PreviousId": 80354,
-    "Title": "#{M#Guidé}{F#Guidée} par les fantaisies (2)",
+    "Title": "{M#Guidé}{F#Guidée} par les fantaisies (2)",
     "Description": "Suivez 10 monetoos et complétez leur graffiti aux Monts Tezcatepetonco, à la Falaise Quahuacan et à Ochkanatlan.",
     "FinishReward": {
       "Id": 201,
@@ -6006,7 +6023,7 @@
     "Order": 1542,
     "PreviousId": 0,
     "Title": "Parcs, bancs et sonates",
-    "Description": "#Obtenez le répertoire aux mille mélodies et devenez {F#une musicienne}{M#un musicien} à l'esprit libre.",
+    "Description": "Obtenez le répertoire aux mille mélodies et devenez {F#une musicienne}{M#un musicien} à l'esprit libre.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -6226,7 +6243,7 @@
     "Goal": 60,
     "Order": 347,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par la sacralité",
+    "Title": "{M#Guidé}{F#Guidée} par la sacralité",
     "Description": "Activez tous les points de téléportation de la Montagne sacrée ancienne et d'Atocpan dans la région de Natlan.",
     "FinishReward": {
       "Id": 201,
@@ -6464,7 +6481,7 @@
     "Goal": 62,
     "Order": 394,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les vagues",
+    "Title": "{M#Guidé}{F#Guidée} par les vagues",
     "Description": "Activez tous les points de téléportation de la Station balnéaire Brisedouce dans la région de Natlan.",
     "FinishReward": {
       "Id": 201,
@@ -6498,7 +6515,7 @@
     "Goal": 62,
     "Order": 396,
     "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par les fantaisies (3)",
+    "Title": "{M#Guidé}{F#Guidée} par les fantaisies (3)",
     "Description": "Suivez 6 monetoos et complétez leur graffiti à la Station balnéaire Brisedouce.",
     "FinishReward": {
       "Id": 201,
@@ -6855,7 +6872,7 @@
     "Goal": 63,
     "Order": 413,
     "PreviousId": 0,
-    "Title": "#Construction conjointe de point de rassemblement{NON_BREAK_SPACE}: Knieperterie Cling-clang",
+    "Title": "Construction conjointe de point de rassemblement{NON_BREAK_SPACE}: Knieperterie Cling-clang",
     "Description": "Améliorez la Knieperterie Cling-clang jusqu'au niveau maximum.",
     "FinishReward": {
       "Id": 201,
@@ -6879,40 +6896,6 @@
       "Count": 5
     },
     "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81600,
-    "Goal": 63,
-    "Order": 415,
-    "PreviousId": 0,
-    "Title": "La tisseuse dans l'ossuaire",
-    "Description": "Explorez le sanctuaire scellé par la première Émissaire de chantelune.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81601,
-    "Goal": 63,
-    "Order": 416,
-    "PreviousId": 0,
-    "Title": "Les péchés des pères",
-    "Description": "Terminez l'aventure au Bureau d'études expérimentales du kuuvahki.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0",
@@ -7195,7 +7178,7 @@
     "Goal": 66,
     "Order": 433,
     "PreviousId": 0,
-    "Title": "#Construction conjointe de point de rassemblement{NON_BREAK_SPACE}: Campement de la falaise",
+    "Title": "Construction conjointe de point de rassemblement{NON_BREAK_SPACE}: Campement de la falaise",
     "Description": "Améliorez le Campement de la falaise jusqu'au niveau maximum.",
     "FinishReward": {
       "Id": 201,
@@ -7239,6 +7222,244 @@
     "Progress": 1,
     "Icon": "",
     "Version": "6.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80475,
+    "Goal": 67,
+    "Order": 439,
+    "PreviousId": 0,
+    "Title": "Chasse aux trésors sur les terres d'intervalle",
+    "Description": "Ouvrez 45 coffres au Pic Vent-repos et au Temple de l'espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 45,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80476,
+    "Goal": 67,
+    "Order": 440,
+    "PreviousId": 80475,
+    "Title": "Chasse aux trésors sur les terres d'intervalle",
+    "Description": "Ouvrez 90 coffres au Pic Vent-repos et au Temple de l'espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 90,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80477,
+    "Goal": 67,
+    "Order": 441,
+    "PreviousId": 80476,
+    "Title": "Chasse aux trésors sur les terres d'intervalle",
+    "Description": "Ouvrez 180 coffres au Pic Vent-repos et au Temple de l'espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 180,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80479,
+    "Goal": 67,
+    "Order": 436,
+    "PreviousId": 0,
+    "Title": "Vents de montagne incolores",
+    "Description": "Débloquez l'intégralité de la carte du Pic Vent-repos dans la région de Mondstadt.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80480,
+    "Goal": 67,
+    "Order": 437,
+    "PreviousId": 0,
+    "Title": "Voyage sans but vers le sanatorium abandonné",
+    "Description": "Débloquez l'intégralité de la carte du Temple de l'espace dans la région de Mondstadt.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80481,
+    "Goal": 67,
+    "Order": 449,
+    "PreviousId": 0,
+    "Title": "Adieu, montagne magique",
+    "Description": "Terminez « Une longue journée en montagne ».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80482,
+    "Goal": 67,
+    "Order": 448,
+    "PreviousId": 0,
+    "Title": "Un adieu, trois retrouvailles",
+    "Description": "Retrouvez toutes les affaires perdues de Zeitlind.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80484,
+    "Goal": 67,
+    "Order": 447,
+    "PreviousId": 0,
+    "Title": "À un cœur sincère",
+    "Description": "Déverrouillez les sceaux du trésor secret de la noblesse du Pic Vent-repos et de la Salle secrète des royaumes du Temple de l'espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80485,
+    "Goal": 67,
+    "Order": 446,
+    "PreviousId": 0,
+    "Title": "L'espace et le libre arbitre contraint",
+    "Description": "Montez le Noyau de mémoire du Temple de l'espace au niveau maximum.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80486,
+    "Goal": 67,
+    "Order": 438,
+    "PreviousId": 0,
+    "Title": "Chant de l'aube de Tithonus",
+    "Description": "Activez tous les points de téléportation du Pic Vent-repos et du Temple de l'espace dans la région de Mondstadt.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 31,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80487,
+    "Goal": 67,
+    "Order": 442,
+    "PreviousId": 0,
+    "Title": "Péripéties sur les terres d'intervalle",
+    "Description": "Terminez 7 défis du monde ouvert activés par mécanisme au Pic Vent-repos et au Temple de l'espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 7,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80488,
+    "Goal": 67,
+    "Order": 443,
+    "PreviousId": 80487,
+    "Title": "Péripéties sur les terres d'intervalle",
+    "Description": "Terminez 14 défis du monde ouvert activés par mécanisme au Pic Vent-repos et au Temple de l'espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 14,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80489,
+    "Goal": 67,
+    "Order": 444,
+    "PreviousId": 80488,
+    "Title": "Péripéties sur les terres d'intervalle",
+    "Description": "Terminez 28 défis du monde ouvert activés par mécanisme au Pic Vent-repos et au Temple de l'espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 28,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80500,
+    "Goal": 67,
+    "Order": 445,
+    "PreviousId": 0,
+    "Title": "{M#Guidé}{F#Guidée} par l'intervalle",
+    "Description": "Suivez 3 Fées au Pic Vent-repos et au Temple de l'espace et activez leur support.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -7331,7 +7552,7 @@
     "Goal": 0,
     "Order": 1005,
     "PreviousId": 0,
-    "Title": "#{M#Chouchou}{F#Chouchoute} de l'Archon Anémo",
+    "Title": "{M#Chouchou}{F#Chouchoute} de l'Archon Anémo",
     "Description": "Asseyez-vous sur les mains de la statue de l'Archon Anémo à Mondstadt.",
     "FinishReward": {
       "Id": 201,
@@ -7518,7 +7739,7 @@
     "Goal": 0,
     "Order": 1023,
     "PreviousId": 0,
-    "Title": "#L'{M#ami}{F#amie} de tout le monde",
+    "Title": "L'{M#ami}{F#amie} de tout le monde",
     "Description": "Rencontrez des personnes pendant votre aventure.",
     "FinishReward": {
       "Id": 201,
@@ -7562,23 +7783,6 @@
     "Progress": 1,
     "Icon": "UI_AchievementIcon_O001",
     "Version": "1.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80092,
-    "Goal": 0,
-    "Order": 1026,
-    "PreviousId": 0,
-    "Title": "Idole à Inazuma",
-    "Description": "Atteignez un Niv. de réputation 10 à Inazuma.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "2.0",
     "IsDailyQuest": false
   },
   {
@@ -7858,7 +8062,7 @@
     "Goal": 0,
     "Order": 1043,
     "PreviousId": 0,
-    "Title": "#{M#Le chasseur}{F#La chasseuse} devient la proie",
+    "Title": "{M#Le chasseur}{F#La chasseuse} devient la proie",
     "Description": "Faites-vous vaincre par le Roi sanglier des neiges.",
     "FinishReward": {
       "Id": 201,
@@ -8045,7 +8249,7 @@
     "Goal": 18,
     "Order": 1054,
     "PreviousId": 0,
-    "Title": "#{M#Ami}{F#Amie} du royaume",
+    "Title": "{M#Ami}{F#Amie} du royaume",
     "Description": "Atteignez le Niv. de confiance 4 avec l'esprit de la théière.",
     "FinishReward": {
       "Id": 201,
@@ -8062,7 +8266,7 @@
     "Goal": 18,
     "Order": 1055,
     "PreviousId": 81053,
-    "Title": "#{M#Ami}{F#Amie} du royaume",
+    "Title": "{M#Ami}{F#Amie} du royaume",
     "Description": "Atteignez le Niv. de confiance 7 avec l'esprit de la théière.",
     "FinishReward": {
       "Id": 201,
@@ -8079,7 +8283,7 @@
     "Goal": 18,
     "Order": 1056,
     "PreviousId": 81054,
-    "Title": "#{M#Ami}{F#Amie} du royaume",
+    "Title": "{M#Ami}{F#Amie} du royaume",
     "Description": "Atteignez le Niv. de confiance 10 avec l'esprit de la théière.",
     "FinishReward": {
       "Id": 201,
@@ -8300,7 +8504,7 @@
     "Goal": 18,
     "Order": 1069,
     "PreviousId": 0,
-    "Title": "#{M#Décorateur}{F#Décoratrice} d'intérieur",
+    "Title": "{M#Décorateur}{F#Décoratrice} d'intérieur",
     "Description": "Apprenez 60 plans de décoration.",
     "FinishReward": {
       "Id": 201,
@@ -8317,7 +8521,7 @@
     "Goal": 18,
     "Order": 1070,
     "PreviousId": 81068,
-    "Title": "#{M#Décorateur}{F#Décoratrice} d'intérieur",
+    "Title": "{M#Décorateur}{F#Décoratrice} d'intérieur",
     "Description": "Apprenez 120 plans de décoration.",
     "FinishReward": {
       "Id": 201,
@@ -8334,7 +8538,7 @@
     "Goal": 18,
     "Order": 1071,
     "PreviousId": 81069,
-    "Title": "#{M#Décorateur}{F#Décoratrice} d'intérieur",
+    "Title": "{M#Décorateur}{F#Décoratrice} d'intérieur",
     "Description": "Apprenez 180 plans de décoration.",
     "FinishReward": {
       "Id": 201,
@@ -8419,7 +8623,7 @@
     "Goal": 0,
     "Order": 1076,
     "PreviousId": 0,
-    "Title": "#{M#Maître}{F#Maîtresse} des mers",
+    "Title": "{M#Maître}{F#Maîtresse} des mers",
     "Description": "Restez à bord de votre barge.",
     "FinishReward": {
       "Id": 201,
@@ -9729,7 +9933,7 @@
     "Order": 1153,
     "PreviousId": 0,
     "Title": "À travers la porte de brume",
-    "Description": "#Vous vous êtes {M#habitué}{F#habituée} au temps étrange qui règne sur l'Île de Tsurumi.",
+    "Description": "Vous vous êtes {M#habitué}{F#habituée} au temps étrange qui règne sur l'Île de Tsurumi.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -10681,7 +10885,7 @@
     "Order": 1213,
     "PreviousId": 0,
     "Title": "Ballade en forêt",
-    "Description": "#Vous semblez avoir le potentiel pour devenir {M#cueilleur}{F#cueilleuse} de chant...",
+    "Description": "Vous semblez avoir le potentiel pour devenir {M#cueilleur}{F#cueilleuse} de chant...",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -11088,7 +11292,7 @@
     "Goal": 0,
     "Order": 1237,
     "PreviousId": 0,
-    "Title": "#{F#L'exploratrice}{M#L'explorateur}",
+    "Title": "{F#L'exploratrice}{M#L'explorateur}",
     "Description": "Utilisez les réactions de Catalyse pour découvrir ce qui était caché.",
     "FinishReward": {
       "Id": 201,
@@ -11207,7 +11411,7 @@
     "Goal": 0,
     "Order": 1244,
     "PreviousId": 0,
-    "Title": "#{F#Madame}{M#Monsieur} météo",
+    "Title": "{F#Madame}{M#Monsieur} météo",
     "Description": "Contrôlez l'outil varuna pour changer le temps dans les Bois d'Apam.",
     "FinishReward": {
       "Id": 201,
@@ -11343,7 +11547,7 @@
     "Goal": 0,
     "Order": 1252,
     "PreviousId": 0,
-    "Title": "#Comme {M#un chercheur}{F#une chercheuse} du Vahumana",
+    "Title": "Comme {M#un chercheur}{F#une chercheuse} du Vahumana",
     "Description": "La bouteille d'encre a un pouvoir redoutable.",
     "FinishReward": {
       "Id": 201,
@@ -11479,7 +11683,7 @@
     "Goal": 0,
     "Order": 1260,
     "PreviousId": 0,
-    "Title": "#{M#Incliné}{F#Inclinée} au sommet du monde",
+    "Title": "{M#Incliné}{F#Inclinée} au sommet du monde",
     "Description": "Terminez « Le dilemme d'Afratu ».",
     "FinishReward": {
       "Id": 201,
@@ -11514,7 +11718,7 @@
     "Order": 1262,
     "PreviousId": 0,
     "Title": "Le soulèvement des machines",
-    "Description": "#Toutes les machines de Khaenri'ah sont-elles aussi étranges{NON_BREAK_SPACE}?",
+    "Description": "Toutes les machines de Khaenri'ah sont-elles aussi étranges{NON_BREAK_SPACE}?",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -11700,7 +11904,7 @@
     "Goal": 0,
     "Order": 1275,
     "PreviousId": 0,
-    "Title": "#{M#Un archéologue bien formé}{F#Une archéologue bien formée}",
+    "Title": "{M#Un archéologue bien formé}{F#Une archéologue bien formée}",
     "Description": "Ramenez tous les obélisques primaux du Désert hypostyle, du Haut-Setekh et du Bas-Setekh à la vie.",
     "FinishReward": {
       "Id": 201,
@@ -12359,23 +12563,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 81339,
-    "Goal": 0,
-    "Order": 1317,
-    "PreviousId": 0,
-    "Title": "Mers d'abondance",
-    "Description": "Tous les bassins de l'Éden sont désormais revitalisés.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 81331,
     "Goal": 0,
     "Order": 1318,
@@ -12507,6 +12694,23 @@
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 15,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81339,
+    "Goal": 0,
+    "Order": 1317,
+    "PreviousId": 0,
+    "Title": "Mers d'abondance",
+    "Description": "Tous les bassins de l'Éden sont désormais revitalisés.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
     "Icon": "",
     "Version": "3.6",
     "IsDailyQuest": false
@@ -13396,6 +13600,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81394,
+    "Goal": 0,
+    "Order": 1378,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81395,
     "Goal": 0,
     "Order": 1379,
@@ -13427,6 +13648,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81397,
+    "Goal": 0,
+    "Order": 1381,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13502,7 +13740,7 @@
     "Goal": 0,
     "Order": 1386,
     "PreviousId": 0,
-    "Title": "#Et {M#un client satisfait}{F#une cliente satisfaite} !",
+    "Title": "Et {M#un client satisfait}{F#une cliente satisfaite} !",
     "Description": "Obtenez une bandelette de chance doublement chanceuse.",
     "FinishReward": {
       "Id": 201,
@@ -13634,6 +13872,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81410,
+    "Goal": 0,
+    "Order": 1394,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81411,
     "Goal": 0,
     "Order": 1395,
@@ -13648,6 +13903,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81412,
+    "Goal": 0,
+    "Order": 1396,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81413,
+    "Goal": 0,
+    "Order": 1397,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13719,6 +14008,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81420,
+    "Goal": 0,
+    "Order": 1404,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81421,
+    "Goal": 0,
+    "Order": 1405,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81422,
     "Goal": 0,
     "Order": 1406,
@@ -13784,6 +14107,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81426,
+    "Goal": 0,
+    "Order": 1410,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -14522,7 +14862,7 @@
     "Goal": 0,
     "Order": 1459,
     "PreviousId": 0,
-    "Title": "#{F#L'amie}{M#L'ami} des livres",
+    "Title": "{F#L'amie}{M#L'ami} des livres",
     "Description": "Utilisez des grimoires pour activer toutes les bibliothèques mystérieuses du Château fané.",
     "FinishReward": {
       "Id": 201,
@@ -14573,7 +14913,7 @@
     "Goal": 0,
     "Order": 1462,
     "PreviousId": 0,
-    "Title": "#Le devoir {F#d'une maîtresse}{M#d'un maître}",
+    "Title": "Le devoir {F#d'une maîtresse}{M#d'un maître}",
     "Description": "Apportez de la nourriture fraîche à Osse.",
     "FinishReward": {
       "Id": 201,
@@ -16324,7 +16664,7 @@
     "Goal": 0,
     "Order": 1587,
     "PreviousId": 0,
-    "Title": "#Même voler vaut un dix{NON_BREAK_SPACE}!",
+    "Title": "Même voler vaut un dix{NON_BREAK_SPACE}!",
     "Description": "Sautez une fois depuis une plateforme de plongée à la Colline Huha.",
     "FinishReward": {
       "Id": 201,
@@ -16419,6 +16759,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "5.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81600,
+    "Goal": 63,
+    "Order": 415,
+    "PreviousId": 0,
+    "Title": "La tisseuse dans l'ossuaire",
+    "Description": "Explorez le sanctuaire scellé par la première Émissaire de chantelune.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81601,
+    "Goal": 63,
+    "Order": 416,
+    "PreviousId": 0,
+    "Title": "Les péchés des pères",
+    "Description": "Terminez l'aventure au Bureau d'études expérimentales du kuuvahki.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
@@ -17116,6 +17490,329 @@
     "Progress": 1,
     "Icon": "",
     "Version": "6.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81643,
+    "Goal": 0,
+    "Order": 1637,
+    "PreviousId": 0,
+    "Title": "À quelqu'un d'autre de présenter des excuses...",
+    "Description": "Les mécanismes d'alerte sous la vieille tour ne clignotent plus sous les vents violents.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81644,
+    "Goal": 0,
+    "Order": 1638,
+    "PreviousId": 0,
+    "Title": "Un bon livre mérite toujours d'être lu",
+    "Description": "Récupérez tous les coffres dissimulés par les pages.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81645,
+    "Goal": 0,
+    "Order": 1639,
+    "PreviousId": 0,
+    "Title": "Le graal et les miracles existent",
+    "Description": "Terminez l'aventure d'« Aerinny ».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81646,
+    "Goal": 0,
+    "Order": 1640,
+    "PreviousId": 0,
+    "Title": "Un écosystème dans un tiroir",
+    "Description": "La vie trouve toujours un moyen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81647,
+    "Goal": 0,
+    "Order": 1641,
+    "PreviousId": 0,
+    "Title": "Tu as le droit... Ô, tu as le droit",
+    "Description": "Pouvoir franchir ce seuil dépend de la capacité à trouver un moyen de le contourner...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81648,
+    "Goal": 0,
+    "Order": 1642,
+    "PreviousId": 0,
+    "Title": "Couvrir tous les angles",
+    "Description": "... Bien que le défi ne comporte en réalité que deux côtés.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81649,
+    "Goal": 0,
+    "Order": 1643,
+    "PreviousId": 0,
+    "Title": "Droitier, j'imagine",
+    "Description": "Coordonnez-vous avec Dex pour utiliser vos capacités spatiales pour la première fois.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81650,
+    "Goal": 0,
+    "Order": 1644,
+    "PreviousId": 0,
+    "Title": "Une nuit au musée",
+    "Description": "Laissons simplement les objets dans la vitrine, là où ils ont leur place...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81651,
+    "Goal": 0,
+    "Order": 1645,
+    "PreviousId": 0,
+    "Title": "Le jardin des lilas",
+    "Description": "Découvrez pour la première fois les souvenirs de Zeitlind et de sa sœur.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81652,
+    "Goal": 0,
+    "Order": 1646,
+    "PreviousId": 0,
+    "Title": "Les essentiels à l'ancienne",
+    "Description": "Les aventures classiques et les formes qui les façonnent...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81653,
+    "Goal": 0,
+    "Order": 1647,
+    "PreviousId": 0,
+    "Title": "Ailes nées des rêves",
+    "Description": "Essayez de déployer vos ailes nouvellement acquises...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81654,
+    "Goal": 0,
+    "Order": 1648,
+    "PreviousId": 0,
+    "Title": "Des mondes dans la main",
+    "Description": "Explorez pour la première fois l'intérieur de ce paysage miniature.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81655,
+    "Goal": 0,
+    "Order": 1649,
+    "PreviousId": 0,
+    "Title": "Où se cache désormais la lumière des lames de pluie ?",
+    "Description": "Ce sont là des récits de chevalerie et de droiture qui appartiennent au passé.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81656,
+    "Goal": 0,
+    "Order": 1650,
+    "PreviousId": 0,
+    "Title": "Insensible aux nuages dérivants",
+    "Description": "Gravissez le sommet de la montagne, et peut-être que le monde ne vous obscurcira plus la vue.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81657,
+    "Goal": 0,
+    "Order": 1651,
+    "PreviousId": 0,
+    "Title": "Shed a Light",
+    "Description": "Embrasser le monde mortel ou le transcender ne sont que deux directions sur un même chemin.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81658,
+    "Goal": 0,
+    "Order": 1652,
+    "PreviousId": 0,
+    "Title": "Du passé, du présent et du futur",
+    "Description": "Arrivez dans la zone centrale du Hall aux piliers du Temple de l'Espace.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81659,
+    "Goal": 0,
+    "Order": 1653,
+    "PreviousId": 0,
+    "Title": "Remède contre la mélancolie, ou extraction de bile noire",
+    "Description": "Vainquez Melanta.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81660,
+    "Goal": 0,
+    "Order": 1654,
+    "PreviousId": 0,
+    "Title": "Étiquette des expositions",
+    "Description": "Terminez les défis pour les cinq vitrines.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81661,
+    "Goal": 0,
+    "Order": 1655,
+    "PreviousId": 0,
+    "Title": "Un grain de poussière entre ciel et terre",
+    "Description": "Tout paraît minuscule vu d'en haut. Vu d'en bas, les hauteurs ne sont peut-être qu'une goutte d'eau dans l'océan...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -17922,7 +18619,7 @@
     "Goal": 9,
     "Order": 2051,
     "PreviousId": 0,
-    "Title": "#{M#Guerrier}{F#Guerrière} de l'Abîme",
+    "Title": "{M#Guerrier}{F#Guerrière} de l'Abîme",
     "Description": "Obtenez toutes les étoiles de l'Abîme du Couloir des profondeurs.",
     "FinishReward": {
       "Id": 201,
@@ -18734,23 +19431,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 82109,
-    "Goal": 20,
-    "Order": 2099,
-    "PreviousId": 0,
-    "Title": "Touche finale",
-    "Description": "Vainquez Azhdaha sans avoir obtenu un seul bouclier.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 82099,
     "Goal": 0,
     "Order": 2100,
@@ -18910,6 +19590,23 @@
     "PreviousId": 0,
     "Title": "Tonnerre dans l'est",
     "Description": "Faites-vous toucher par la foudre invoquée par un Brutoviandu avec hache Électro...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 82109,
+    "Goal": 20,
+    "Order": 2099,
+    "PreviousId": 0,
+    "Title": "Touche finale",
+    "Description": "Vainquez Azhdaha sans avoir obtenu un seul bouclier.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -19197,7 +19894,7 @@
     "Goal": 29,
     "Order": 2126,
     "PreviousId": 0,
-    "Title": "#{M#L'immortel}{F#L'immortelle}",
+    "Title": "{M#L'immortel}{F#L'immortelle}",
     "Description": "Esquivez toutes les vagues destructrices des vajras funestes pendant un tour du combat contre Narukami no Mikoto la destructrice.",
     "FinishReward": {
       "Id": 201,
@@ -19282,7 +19979,7 @@
     "Goal": 0,
     "Order": 2131,
     "PreviousId": 0,
-    "Title": "#« Viens voir {F#maman}{M#papa} »",
+    "Title": "« Viens voir {F#maman}{M#papa} »",
     "Description": "Abattez un Fongus en plein air.",
     "FinishReward": {
       "Id": 201,
@@ -22083,6 +22780,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82308,
+    "Goal": 0,
+    "Order": 2308,
+    "PreviousId": 0,
+    "Title": "Aucun élément laissé",
+    "Description": "Vainquez les étoiles élémentaires actives de chaque type élémentaire.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -22275,7 +22989,7 @@
     "Order": 4012,
     "PreviousId": 0,
     "Title": "En pays étranger",
-    "Description": "#Soyez {M#sauvé}{F#sauvée} par quelqu'un lorsque vous étiez à « l'attrape-touristes du coin ».",
+    "Description": "Soyez {M#sauvé}{F#sauvée} par quelqu'un lorsque vous étiez à « l'attrape-touristes du coin ».",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -22410,7 +23124,7 @@
     "Goal": 0,
     "Order": 4020,
     "PreviousId": 0,
-    "Title": "#{M#Monté}{F#Montée} au ciel",
+    "Title": "{M#Monté}{F#Montée} au ciel",
     "Description": "Atteignez le « palais dans le ciel ».",
     "FinishReward": {
       "Id": 201,
@@ -22522,6 +23236,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "1.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84026,
+    "Goal": 17,
+    "Order": 6001,
+    "PreviousId": 0,
+    "Title": "Prologue à un merveilleux voyage",
+    "Description": "Terminez « Merveilleux voyage » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84028,
+    "Goal": 17,
+    "Order": 6110,
+    "PreviousId": 0,
+    "Title": "L'œil qui voit tout",
+    "Description": "Interprétez correctement toutes les informations.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
     "IsDailyQuest": false
   },
   {
@@ -22950,6 +23698,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84054,
+    "Goal": 0,
+    "Order": 5033,
+    "PreviousId": 0,
+    "Title": "Les aventures d'Anna",
+    "Description": "Aidez Anna à devenir une aventurière.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
+  },
+  {
+    "Id": 84055,
+    "Goal": 0,
+    "Order": 5034,
+    "PreviousId": 0,
+    "Title": "Prélude d'un long périple",
+    "Description": "Un jeune homme est sur le point de se lancer dans un long voyage...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
+  },
+  {
     "Id": 84056,
     "Goal": 0,
     "Order": 5035,
@@ -23295,7 +24077,7 @@
     "Order": 5055,
     "PreviousId": 0,
     "Title": "L'imaginarium du Dottore",
-    "Description": "#Soyez {M#considéré comme le sauveur}{F#considérée comme la sauveuse} du monde par les citoyens contrôlés par Dottore.",
+    "Description": "Soyez {M#considéré comme le sauveur}{F#considérée comme la sauveuse} du monde par les citoyens contrôlés par Dottore.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -23652,7 +24434,7 @@
     "Order": 5076,
     "PreviousId": 0,
     "Title": "Détective en action !",
-    "Description": "#Enquêtez sur la vérité de l'incident en tant qu'{M#avocat}{F#avocate} de Lyney.",
+    "Description": "Enquêtez sur la vérité de l'incident en tant qu'{M#avocat}{F#avocate} de Lyney.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -23695,6 +24477,958 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84100,
+    "Goal": 17,
+    "Order": 6010,
+    "PreviousId": 0,
+    "Title": "Seigneur de la foudre et de l'éclair",
+    "Description": "Assistez aux effets de la malchance de Bennett sur la météo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84101,
+    "Goal": 17,
+    "Order": 6011,
+    "PreviousId": 0,
+    "Title": "La force de la chance !",
+    "Description": "Activez les mécanismes sans vous tromper et récupérez le trésor.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84102,
+    "Goal": 17,
+    "Order": 6200,
+    "PreviousId": 0,
+    "Title": "Dépasser les limites",
+    "Description": "Terminez « Source de bienveillance » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84103,
+    "Goal": 17,
+    "Order": 6300,
+    "PreviousId": 0,
+    "Title": "Bonté + force = servante",
+    "Description": "Terminez « Entraînement à la chevalerie » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84104,
+    "Goal": 17,
+    "Order": 6100,
+    "PreviousId": 0,
+    "Title": "Le mal est banni",
+    "Description": "Terminez « Chasseur de fantômes » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84105,
+    "Goal": 17,
+    "Order": 6211,
+    "PreviousId": 0,
+    "Title": "La légende pimentée de Mondstadt",
+    "Description": "Goûtez au grog pimenté de Barbara.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84106,
+    "Goal": 17,
+    "Order": 6310,
+    "PreviousId": 0,
+    "Title": "« ... C'est mon devoir. »",
+    "Description": "Aidez Noëlle à découvrir la source de sa force.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84107,
+    "Goal": 17,
+    "Order": 6111,
+    "PreviousId": 0,
+    "Title": "Un héros qui a du piquant",
+    "Description": "Préparez une glace en utilisant la mauvaise recette, et provoquez un excès d'énergie positive chez Chongyun.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84108,
+    "Goal": 17,
+    "Order": 6210,
+    "PreviousId": 0,
+    "Title": "Idole et garde du corps",
+    "Description": "Réussissez à faire partir Albert et les autres fans de Barbara.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84109,
+    "Goal": 17,
+    "Order": 6311,
+    "PreviousId": 0,
+    "Title": "Le nom de la rose",
+    "Description": "Lisez les notes de Noëlle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84110,
+    "Goal": 17,
+    "Order": 6400,
+    "PreviousId": 0,
+    "Title": "On se détend",
+    "Description": "Terminez « Études de la chevalerie » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84111,
+    "Goal": 17,
+    "Order": 6410,
+    "PreviousId": 0,
+    "Title": "Une servante intouchable",
+    "Description": "Écoutez « Histoire d'un chevalier à Liyue » avec Noëlle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84112,
+    "Goal": 17,
+    "Order": 6411,
+    "PreviousId": 0,
+    "Title": "Greffier de Mondstadt",
+    "Description": "Lisez les notes de Noëlle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84113,
+    "Goal": 17,
+    "Order": 6500,
+    "PreviousId": 0,
+    "Title": "Cocktail spécial de Diona remué, pas secoué",
+    "Description": "Terminez « Cocktail spécial de chat » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84114,
+    "Goal": 17,
+    "Order": 6510,
+    "PreviousId": 0,
+    "Title": "Attention, il y a un piège...",
+    "Description": "Aidez Diona à trouver une base spéciale à sa boisson.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84115,
+    "Goal": 17,
+    "Order": 6511,
+    "PreviousId": 0,
+    "Title": "Mère Michel",
+    "Description": "Ramenez tous les chats à la taverne de La Queue de Chat.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84116,
+    "Goal": 17,
+    "Order": 6600,
+    "PreviousId": 0,
+    "Title": "Tout le monde est content",
+    "Description": "Terminez « Les tâches quotidiennes d'un serviteur » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84117,
+    "Goal": 17,
+    "Order": 6610,
+    "PreviousId": 0,
+    "Title": "Monsieur Propre",
+    "Description": "Terminez le grand nettoyage dans le temps imparti.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84118,
+    "Goal": 17,
+    "Order": 6611,
+    "PreviousId": 0,
+    "Title": "À la mer, sans retour",
+    "Description": "Découvrez l'histoire d'Inu Shoushou avec Thomas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84119,
+    "Goal": 17,
+    "Order": 6700,
+    "PreviousId": 0,
+    "Title": "La folie des grandeurs",
+    "Description": "Terminez « École Yoohoo : L'art de grandir » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84120,
+    "Goal": 17,
+    "Order": 6710,
+    "PreviousId": 0,
+    "Title": "Rapide comme le mujina",
+    "Description": "Obtenez la meilleure appréciation de Sayu à l'entraînement d'agilité.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84121,
+    "Goal": 17,
+    "Order": 6711,
+    "PreviousId": 0,
+    "Title": "Ventre plein sonne lent, ventre creux sonne mieux",
+    "Description": "Vous n'avez pas réussi à contenir l'appétit de Sayu...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84122,
+    "Goal": 17,
+    "Order": 6900,
+    "PreviousId": 0,
+    "Title": "Membre d'honneur du Crux",
+    "Description": "Terminez « Quand le Crux brille de mille feux » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84123,
+    "Goal": 17,
+    "Order": 6910,
+    "PreviousId": 0,
+    "Title": "Vin léger",
+    "Description": "Participez au banquet de Qingce avec Beidou.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84124,
+    "Goal": 17,
+    "Order": 6911,
+    "PreviousId": 0,
+    "Title": "Club des acheteurs de Guyun",
+    "Description": "Découvrez la vérité derrière l'accord conclu par Beidou.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84125,
+    "Goal": 17,
+    "Order": 6800,
+    "PreviousId": 0,
+    "Title": "Général de Watatsumi",
+    "Description": "Terminez « Opérations spéciales du général canin » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84126,
+    "Goal": 17,
+    "Order": 6810,
+    "PreviousId": 0,
+    "Title": "Les temps changent...",
+    "Description": "Piochez tous les bâtonnets de fortune au Sanctuaire de Narukami.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84127,
+    "Goal": 17,
+    "Order": 6811,
+    "PreviousId": 0,
+    "Title": "Dire ou ne pas dire, telle est la question",
+    "Description": "Découvrez la véritable identité de Mlle Hina de la Chambre Yae.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84128,
+    "Goal": 17,
+    "Order": 7000,
+    "PreviousId": 0,
+    "Title": "L'étoile binaire de la Megrez",
+    "Description": "Terminez « De retour dans la Chambre de Jade » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84129,
+    "Goal": 17,
+    "Order": 7010,
+    "PreviousId": 0,
+    "Title": "Après la préparation, la décontraction",
+    "Description": "Du poisson ? Plus on en a, mieux c'est !",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84130,
+    "Goal": 17,
+    "Order": 7011,
+    "PreviousId": 0,
+    "Title": "Une vraie maman poule",
+    "Description": "D'une seule pierre, naissent mille ondulations. Il semble que le congé de Ningguang ne soit pas pour tout de suite...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84131,
+    "Goal": 17,
+    "Order": 7100,
+    "PreviousId": 0,
+    "Title": "Un air accrocheur",
+    "Description": "Terminez « Un récital d'élégance » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84132,
+    "Goal": 17,
+    "Order": 7110,
+    "PreviousId": 0,
+    "Title": "Que ce moment dure !",
+    "Description": "Prenez une photo commémorative avec Yun Jin.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84133,
+    "Goal": 17,
+    "Order": 7111,
+    "PreviousId": 0,
+    "Title": "Qui dit maître strict, dit disciple fabuleux",
+    "Description": "Terminez la séance de répétition sans toucher un seul épouvantail bleu.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84134,
+    "Goal": 17,
+    "Order": 7200,
+    "PreviousId": 0,
+    "Title": "{F#Conseillère}{M#Conseiller} en chef du gang Arataki",
+    "Description": "Terminez « Les affaires quotidiennes du gang » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84135,
+    "Goal": 17,
+    "Order": 7210,
+    "PreviousId": 0,
+    "Title": "Un coup d'œil pour la route !",
+    "Description": "Contemplez la gloire de Kuki Shinobu dans une tenue de prêtresse.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84136,
+    "Goal": 17,
+    "Order": 7211,
+    "PreviousId": 0,
+    "Title": "« En haut »",
+    "Description": "Faites-vous dissuader avant d'alerter Kujou Sara et Kuki Shinobu.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84137,
+    "Goal": 17,
+    "Order": 7300,
+    "PreviousId": 0,
+    "Title": "Vous pensiez que c'était pour de vrai ?",
+    "Description": "Terminez « Dans l'œil de la tempête » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84138,
+    "Goal": 17,
+    "Order": 7310,
+    "PreviousId": 0,
+    "Title": "Et c'est qui le meilleur détective du monde ?",
+    "Description": "Analysez correctement les motifs et la vérité derrière le crime au premier essai.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84139,
+    "Goal": 17,
+    "Order": 7311,
+    "PreviousId": 0,
+    "Title": "Les supplications de Sangonomiya",
+    "Description": "Demandez à Gorou si Kokomi est au courant des événements survenus sur l'Île de Watatsumi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84140,
+    "Goal": 17,
+    "Order": 7400,
+    "PreviousId": 0,
+    "Title": "La solution optimale",
+    "Description": "Terminez « Inextricabilité » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84141,
+    "Goal": 17,
+    "Order": 7410,
+    "PreviousId": 0,
+    "Title": "À toi, dans cent ans...",
+    "Description": "Lisez toutes les lettres envoyées à Faruzan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84142,
+    "Goal": 17,
+    "Order": 7411,
+    "PreviousId": 0,
+    "Title": "Mécanique, de l'initiation à...?",
+    "Description": "Devinez le plus petit nombre d'étapes qu'il faut pour résoudre une Pile-ramide à sept étages.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84143,
+    "Goal": 17,
+    "Order": 7500,
+    "PreviousId": 0,
+    "Title": "Son nom est Layla",
+    "Description": "Terminez « L'étoile silencieuse » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84144,
+    "Goal": 17,
+    "Order": 7510,
+    "PreviousId": 0,
+    "Title": "Tendue jusqu'à la limite",
+    "Description": "Aidez Layla à terminer sa thèse sans lui causer plus d'anxiété.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84145,
+    "Goal": 17,
+    "Order": 7511,
+    "PreviousId": 0,
+    "Title": "Le secret de la Fée et du ciel étoilé",
+    "Description": "Obtenez la lettre authentique de la Fée de la sagesse.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84146,
+    "Goal": 17,
+    "Order": 7600,
+    "PreviousId": 0,
+    "Title": "L'art et la vie",
+    "Description": "Terminez « Le pendule du bonheur et du malheur{NON_BREAK_SPACE}» et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84147,
+    "Goal": 17,
+    "Order": 7610,
+    "PreviousId": 0,
+    "Title": "Les années étudiantes",
+    "Description": "Trouvez les livres annotés dans le Foyer de Daena.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84148,
+    "Goal": 17,
+    "Order": 7611,
+    "PreviousId": 0,
+    "Title": "Le romantisme d'un architecte",
+    "Description": "Discutez de l'avenir avec Kaveh dans le désert.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84149,
+    "Goal": 17,
+    "Order": 7700,
+    "PreviousId": 0,
+    "Title": "La fête au village",
+    "Description": "Terminez « Magouilles et vin doux » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84150,
+    "Goal": 17,
+    "Order": 7710,
+    "PreviousId": 0,
+    "Title": "Les paris, c'est ma grande passion",
+    "Description": "Participez au pari mis en place par Kaeya.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84151,
+    "Goal": 17,
+    "Order": 7711,
+    "PreviousId": 0,
+    "Title": "Chut... Écoute !",
+    "Description": "Écoutez la voix provenant de la cellule.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84152,
+    "Goal": 17,
+    "Order": 7800,
+    "PreviousId": 0,
+    "Title": "Les signes du destin",
+    "Description": "Terminez « Les chats et les nombres aléatoires » et débloquez toutes les fins.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84153,
+    "Goal": 17,
+    "Order": 7810,
+    "PreviousId": 0,
+    "Title": "« Speedrun »",
+    "Description": "Persuadez Lynette de passer une journée tranquille et paisible avec vous.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84154,
+    "Goal": 17,
+    "Order": 7811,
+    "PreviousId": 0,
+    "Title": "Decks & détectives",
+    "Description": "Ayez un goûteron paisible avec Lynette après avoir résolu l'affaire de contrebande.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84155,
+    "Goal": 0,
+    "Order": 7900,
+    "PreviousId": 0,
+    "Title": "Des récits le long du chemin",
+    "Description": "Soyez témoin d'une anecdote.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
@@ -24009,7 +25743,7 @@
     "Order": 5097,
     "PreviousId": 0,
     "Title": "Le moment tant attendu",
-    "Description": "#Avant que vous ne vous en rendiez compte, Dainsleif croise le fer avec votre {M#sœur}{F#frère}...",
+    "Description": "Avant que vous ne vous en rendiez compte, Dainsleif croise le fer avec votre {M#sœur}{F#frère}...",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -24162,7 +25896,7 @@
     "Order": 5106,
     "PreviousId": 0,
     "Title": "Fleurs radieuses lors d'un périple sous le soleil brûlant",
-    "Description": "#Terminez « Fleurs radieuses lors d'un périple sous le soleil brûlant{NON_BREAK_SPACE}».",
+    "Description": "Terminez « Fleurs radieuses lors d'un périple sous le soleil brûlant{NON_BREAK_SPACE}».",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -24621,7 +26355,7 @@
     "Order": 5133,
     "PreviousId": 0,
     "Title": "Ballet parmi marées enneigées et bosquets givrés",
-    "Description": "#Terminez « Ballet parmi marées enneigées et bosquets givrés{NON_BREAK_SPACE}».",
+    "Description": "Terminez « Ballet parmi marées enneigées et bosquets givrés{NON_BREAK_SPACE}».",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -25300,7 +27034,7 @@
     "Goal": 0,
     "Order": 4038,
     "PreviousId": 0,
-    "Title": "#La chance {M#du débutant}{F#de la débutante}",
+    "Title": "La chance {M#du débutant}{F#de la débutante}",
     "Description": "Choisissez la pierre brute qui a le plus de valeur dès la première tentative.",
     "FinishReward": {
       "Id": 201,
@@ -25345,6 +27079,23 @@
     "Icon": "",
     "Version": "1.0",
     "IsDailyQuest": true
+  },
+  {
+    "Id": 84517,
+    "Goal": 0,
+    "Order": 4041,
+    "PreviousId": 0,
+    "Title": "Bonne action",
+    "Description": "Dévoiler la supercherie de Marjorie et obtenir la reconnaissance de Jack.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
   },
   {
     "Id": 84518,
@@ -25752,40 +27503,6 @@
     "Progress": 1,
     "Icon": "",
     "Version": "2.1",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84054,
-    "Goal": 0,
-    "Order": 5033,
-    "PreviousId": 0,
-    "Title": "Les aventures d'Anna",
-    "Description": "Aidez Anna à devenir une aventurière.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84055,
-    "Goal": 0,
-    "Order": 5034,
-    "PreviousId": 0,
-    "Title": "Prélude d'un long périple",
-    "Description": "Un jeune homme est sur le point de se lancer dans un long voyage...",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
     "IsDailyQuest": true
   },
   {
@@ -26588,992 +28305,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 84026,
-    "Goal": 17,
-    "Order": 6001,
-    "PreviousId": 0,
-    "Title": "Prologue à un merveilleux voyage",
-    "Description": "Terminez « Merveilleux voyage » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84100,
-    "Goal": 17,
-    "Order": 6010,
-    "PreviousId": 0,
-    "Title": "Seigneur de la foudre et de l'éclair",
-    "Description": "Assistez aux effets de la malchance de Bennett sur la météo.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84101,
-    "Goal": 17,
-    "Order": 6011,
-    "PreviousId": 0,
-    "Title": "La force de la chance !",
-    "Description": "Activez les mécanismes sans vous tromper et récupérez le trésor.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84104,
-    "Goal": 17,
-    "Order": 6100,
-    "PreviousId": 0,
-    "Title": "Le mal est banni",
-    "Description": "Terminez « Chasseur de fantômes » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84028,
-    "Goal": 17,
-    "Order": 6110,
-    "PreviousId": 0,
-    "Title": "L'œil qui voit tout",
-    "Description": "Interprétez correctement toutes les informations.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84107,
-    "Goal": 17,
-    "Order": 6111,
-    "PreviousId": 0,
-    "Title": "Un héros qui a du piquant",
-    "Description": "Préparez une glace en utilisant la mauvaise recette, et provoquez un excès d'énergie positive chez Chongyun.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84102,
-    "Goal": 17,
-    "Order": 6200,
-    "PreviousId": 0,
-    "Title": "Dépasser les limites",
-    "Description": "Terminez « Source de bienveillance » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84108,
-    "Goal": 17,
-    "Order": 6210,
-    "PreviousId": 0,
-    "Title": "Idole et garde du corps",
-    "Description": "Réussissez à faire partir Albert et les autres fans de Barbara.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84105,
-    "Goal": 17,
-    "Order": 6211,
-    "PreviousId": 0,
-    "Title": "La légende pimentée de Mondstadt",
-    "Description": "Goûtez au grog pimenté de Barbara.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84103,
-    "Goal": 17,
-    "Order": 6300,
-    "PreviousId": 0,
-    "Title": "Bonté + force = servante",
-    "Description": "Terminez « Entraînement à la chevalerie » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84106,
-    "Goal": 17,
-    "Order": 6310,
-    "PreviousId": 0,
-    "Title": "« ... C'est mon devoir. »",
-    "Description": "Aidez Noëlle à découvrir la source de sa force.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84109,
-    "Goal": 17,
-    "Order": 6311,
-    "PreviousId": 0,
-    "Title": "Le nom de la rose",
-    "Description": "Lisez les notes de Noëlle.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84110,
-    "Goal": 17,
-    "Order": 6400,
-    "PreviousId": 0,
-    "Title": "On se détend",
-    "Description": "Terminez « Études de la chevalerie » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84111,
-    "Goal": 17,
-    "Order": 6410,
-    "PreviousId": 0,
-    "Title": "Une servante intouchable",
-    "Description": "Écoutez « Histoire d'un chevalier à Liyue » avec Noëlle.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84112,
-    "Goal": 17,
-    "Order": 6411,
-    "PreviousId": 0,
-    "Title": "Greffier de Mondstadt",
-    "Description": "Lisez les notes de Noëlle.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84113,
-    "Goal": 17,
-    "Order": 6500,
-    "PreviousId": 0,
-    "Title": "Cocktail spécial de Diona remué, pas secoué",
-    "Description": "Terminez « Cocktail spécial de chat » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84114,
-    "Goal": 17,
-    "Order": 6510,
-    "PreviousId": 0,
-    "Title": "Attention, il y a un piège...",
-    "Description": "Aidez Diona à trouver une base spéciale à sa boisson.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84115,
-    "Goal": 17,
-    "Order": 6511,
-    "PreviousId": 0,
-    "Title": "Mère Michel",
-    "Description": "Ramenez tous les chats à la taverne de La Queue de Chat.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84116,
-    "Goal": 17,
-    "Order": 6600,
-    "PreviousId": 0,
-    "Title": "Tout le monde est content",
-    "Description": "Terminez « Les tâches quotidiennes d'un serviteur » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84117,
-    "Goal": 17,
-    "Order": 6610,
-    "PreviousId": 0,
-    "Title": "Monsieur Propre",
-    "Description": "Terminez le grand nettoyage dans le temps imparti.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84118,
-    "Goal": 17,
-    "Order": 6611,
-    "PreviousId": 0,
-    "Title": "À la mer, sans retour",
-    "Description": "Découvrez l'histoire d'Inu Shoushou avec Thomas.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84119,
-    "Goal": 17,
-    "Order": 6700,
-    "PreviousId": 0,
-    "Title": "La folie des grandeurs",
-    "Description": "Terminez « École Yoohoo : L'art de grandir » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84120,
-    "Goal": 17,
-    "Order": 6710,
-    "PreviousId": 0,
-    "Title": "Rapide comme le mujina",
-    "Description": "Obtenez la meilleure appréciation de Sayu à l'entraînement d'agilité.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84121,
-    "Goal": 17,
-    "Order": 6711,
-    "PreviousId": 0,
-    "Title": "Ventre plein sonne lent, ventre creux sonne mieux",
-    "Description": "Vous n'avez pas réussi à contenir l'appétit de Sayu...",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84122,
-    "Goal": 17,
-    "Order": 6900,
-    "PreviousId": 0,
-    "Title": "Membre d'honneur du Crux",
-    "Description": "Terminez « Quand le Crux brille de mille feux » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84123,
-    "Goal": 17,
-    "Order": 6910,
-    "PreviousId": 0,
-    "Title": "Vin léger",
-    "Description": "Participez au banquet de Qingce avec Beidou.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84124,
-    "Goal": 17,
-    "Order": 6911,
-    "PreviousId": 0,
-    "Title": "Club des acheteurs de Guyun",
-    "Description": "Découvrez la vérité derrière l'accord conclu par Beidou.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84125,
-    "Goal": 17,
-    "Order": 6800,
-    "PreviousId": 0,
-    "Title": "Général de Watatsumi",
-    "Description": "Terminez « Opérations spéciales du général canin » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84126,
-    "Goal": 17,
-    "Order": 6810,
-    "PreviousId": 0,
-    "Title": "Les temps changent...",
-    "Description": "Piochez tous les bâtonnets de fortune au Sanctuaire de Narukami.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84127,
-    "Goal": 17,
-    "Order": 6811,
-    "PreviousId": 0,
-    "Title": "Dire ou ne pas dire, telle est la question",
-    "Description": "Découvrez la véritable identité de Mlle Hina de la Chambre Yae.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84128,
-    "Goal": 17,
-    "Order": 7000,
-    "PreviousId": 0,
-    "Title": "L'étoile binaire de la Megrez",
-    "Description": "Terminez « De retour dans la Chambre de Jade » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84129,
-    "Goal": 17,
-    "Order": 7010,
-    "PreviousId": 0,
-    "Title": "Après la préparation, la décontraction",
-    "Description": "Du poisson ? Plus on en a, mieux c'est !",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84130,
-    "Goal": 17,
-    "Order": 7011,
-    "PreviousId": 0,
-    "Title": "Une vraie maman poule",
-    "Description": "D'une seule pierre, naissent mille ondulations. Il semble que le congé de Ningguang ne soit pas pour tout de suite...",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84131,
-    "Goal": 17,
-    "Order": 7100,
-    "PreviousId": 0,
-    "Title": "Un air accrocheur",
-    "Description": "Terminez « Un récital d'élégance » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84132,
-    "Goal": 17,
-    "Order": 7110,
-    "PreviousId": 0,
-    "Title": "Que ce moment dure !",
-    "Description": "Prenez une photo commémorative avec Yun Jin.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84133,
-    "Goal": 17,
-    "Order": 7111,
-    "PreviousId": 0,
-    "Title": "Qui dit maître strict, dit disciple fabuleux",
-    "Description": "Terminez la séance de répétition sans toucher un seul épouvantail bleu.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84134,
-    "Goal": 17,
-    "Order": 7200,
-    "PreviousId": 0,
-    "Title": "#{F#Conseillère}{M#Conseiller} en chef du gang Arataki",
-    "Description": "Terminez « Les affaires quotidiennes du gang » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84135,
-    "Goal": 17,
-    "Order": 7210,
-    "PreviousId": 0,
-    "Title": "Un coup d'œil pour la route !",
-    "Description": "Contemplez la gloire de Kuki Shinobu dans une tenue de prêtresse.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84136,
-    "Goal": 17,
-    "Order": 7211,
-    "PreviousId": 0,
-    "Title": "« En haut »",
-    "Description": "Faites-vous dissuader avant d'alerter Kujou Sara et Kuki Shinobu.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84137,
-    "Goal": 17,
-    "Order": 7300,
-    "PreviousId": 0,
-    "Title": "Vous pensiez que c'était pour de vrai ?",
-    "Description": "Terminez « Dans l'œil de la tempête » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84138,
-    "Goal": 17,
-    "Order": 7310,
-    "PreviousId": 0,
-    "Title": "Et c'est qui le meilleur détective du monde ?",
-    "Description": "Analysez correctement les motifs et la vérité derrière le crime au premier essai.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84139,
-    "Goal": 17,
-    "Order": 7311,
-    "PreviousId": 0,
-    "Title": "Les supplications de Sangonomiya",
-    "Description": "Demandez à Gorou si Kokomi est au courant des événements survenus sur l'Île de Watatsumi.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84140,
-    "Goal": 17,
-    "Order": 7400,
-    "PreviousId": 0,
-    "Title": "La solution optimale",
-    "Description": "Terminez « Inextricabilité » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84141,
-    "Goal": 17,
-    "Order": 7410,
-    "PreviousId": 0,
-    "Title": "À toi, dans cent ans...",
-    "Description": "Lisez toutes les lettres envoyées à Faruzan.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84142,
-    "Goal": 17,
-    "Order": 7411,
-    "PreviousId": 0,
-    "Title": "Mécanique, de l'initiation à...?",
-    "Description": "Devinez le plus petit nombre d'étapes qu'il faut pour résoudre une Pile-ramide à sept étages.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84143,
-    "Goal": 17,
-    "Order": 7500,
-    "PreviousId": 0,
-    "Title": "Son nom est Layla",
-    "Description": "Terminez « L'étoile silencieuse » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84144,
-    "Goal": 17,
-    "Order": 7510,
-    "PreviousId": 0,
-    "Title": "Tendue jusqu'à la limite",
-    "Description": "Aidez Layla à terminer sa thèse sans lui causer plus d'anxiété.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84145,
-    "Goal": 17,
-    "Order": 7511,
-    "PreviousId": 0,
-    "Title": "Le secret de la Fée et du ciel étoilé",
-    "Description": "Obtenez la lettre authentique de la Fée de la sagesse.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84146,
-    "Goal": 17,
-    "Order": 7600,
-    "PreviousId": 0,
-    "Title": "L'art et la vie",
-    "Description": "#Terminez « Le pendule du bonheur et du malheur{NON_BREAK_SPACE}» et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84147,
-    "Goal": 17,
-    "Order": 7610,
-    "PreviousId": 0,
-    "Title": "Les années étudiantes",
-    "Description": "Trouvez les livres annotés dans le Foyer de Daena.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84148,
-    "Goal": 17,
-    "Order": 7611,
-    "PreviousId": 0,
-    "Title": "Le romantisme d'un architecte",
-    "Description": "Discutez de l'avenir avec Kaveh dans le désert.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84149,
-    "Goal": 17,
-    "Order": 7700,
-    "PreviousId": 0,
-    "Title": "La fête au village",
-    "Description": "Terminez « Magouilles et vin doux » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84150,
-    "Goal": 17,
-    "Order": 7710,
-    "PreviousId": 0,
-    "Title": "Les paris, c'est ma grande passion",
-    "Description": "Participez au pari mis en place par Kaeya.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84151,
-    "Goal": 17,
-    "Order": 7711,
-    "PreviousId": 0,
-    "Title": "Chut... Écoute !",
-    "Description": "Écoutez la voix provenant de la cellule.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84152,
-    "Goal": 17,
-    "Order": 7800,
-    "PreviousId": 0,
-    "Title": "Les signes du destin",
-    "Description": "Terminez « Les chats et les nombres aléatoires » et débloquez toutes les fins.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84153,
-    "Goal": 17,
-    "Order": 7810,
-    "PreviousId": 0,
-    "Title": "« Speedrun »",
-    "Description": "Persuadez Lynette de passer une journée tranquille et paisible avec vous.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84154,
-    "Goal": 17,
-    "Order": 7811,
-    "PreviousId": 0,
-    "Title": "Decks & détectives",
-    "Description": "Ayez un goûteron paisible avec Lynette après avoir résolu l'affaire de contrebande.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84155,
-    "Goal": 0,
-    "Order": 7900,
-    "PreviousId": 0,
-    "Title": "Des récits le long du chemin",
-    "Description": "Soyez témoin d'une anecdote.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86001,
     "Goal": 13,
     "Order": 9001,
@@ -27795,23 +28526,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86021,
-    "Goal": 21,
-    "Order": 9014,
-    "PreviousId": 0,
-    "Title": "La folie des grandeurs ne décide pas de l'issue d'un combat",
-    "Description": "Affrontez Tartaglia avec l'aide d'un autre joueur.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86015,
     "Goal": 21,
     "Order": 9015,
@@ -27903,6 +28617,23 @@
     "PreviousId": 0,
     "Title": "Pas si perpétuelle que ça...",
     "Description": "Affrontez une Matrice mécanique perpétuelle avec l'aide d'un autre joueur.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 86021,
+    "Goal": 21,
+    "Order": 9014,
+    "PreviousId": 0,
+    "Title": "La folie des grandeurs ne décide pas de l'issue d'un combat",
+    "Description": "Affrontez Tartaglia avec l'aide d'un autre joueur.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -28020,7 +28751,7 @@
     "Goal": 33,
     "Order": 9027,
     "PreviousId": 0,
-    "Title": "#{F#Flexitarienne}{M#Flexitarien}",
+    "Title": "{F#Flexitarienne}{M#Flexitarien}",
     "Description": "Affrontez un Champieffroi panaché avec l'aide d'un autre joueur.",
     "FinishReward": {
       "Id": 201,
@@ -28373,40 +29104,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86057,
-    "Goal": 64,
-    "Order": 9048,
-    "PreviousId": 0,
-    "Title": "Toujours si ennuyeux...",
-    "Description": "Affrontez une Papille obombrée avec l'aide d'un autre joueur.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 86058,
-    "Goal": 64,
-    "Order": 9049,
-    "PreviousId": 0,
-    "Title": "Épreuve finale de shaman",
-    "Description": "Affrontez une Spiritoratrice excentrique isolée avec l'aide d'un autre joueur.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86051,
     "Goal": 64,
     "Order": 9050,
@@ -28509,241 +29206,37 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80475,
-    "Goal": 67,
-    "Order": 439,
+    "Id": 86057,
+    "Goal": 64,
+    "Order": 9048,
     "PreviousId": 0,
-    "Title": "Chasse aux trésors sur les terres d'intervalle",
-    "Description": "Ouvrez {param0} coffres au Pic Vent-repos et au Temple de l'espace.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 45,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80476,
-    "Goal": 67,
-    "Order": 440,
-    "PreviousId": 80475,
-    "Title": "Chasse aux trésors sur les terres d'intervalle",
-    "Description": "Ouvrez {param0} coffres au Pic Vent-repos et au Temple de l'espace.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 90,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80477,
-    "Goal": 67,
-    "Order": 441,
-    "PreviousId": 80476,
-    "Title": "Chasse aux trésors sur les terres d'intervalle",
-    "Description": "Ouvrez {param0} coffres au Pic Vent-repos et au Temple de l'espace.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 180,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80487,
-    "Goal": 67,
-    "Order": 442,
-    "PreviousId": 0,
-    "Title": "Péripéties sur les terres d'intervalle",
-    "Description": "Terminez {param0} défis du monde ouvert activés par mécanisme au Pic Vent-repos et au Temple de l'espace.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 7,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80488,
-    "Goal": 67,
-    "Order": 443,
-    "PreviousId": 80487,
-    "Title": "Péripéties sur les terres d'intervalle",
-    "Description": "Terminez {param0} défis du monde ouvert activés par mécanisme au Pic Vent-repos et au Temple de l'espace.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 14,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80489,
-    "Goal": 67,
-    "Order": 444,
-    "PreviousId": 80488,
-    "Title": "Péripéties sur les terres d'intervalle",
-    "Description": "Terminez {param0} défis du monde ouvert activés par mécanisme au Pic Vent-repos et au Temple de l'espace.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 28,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80479,
-    "Goal": 67,
-    "Order": 436,
-    "PreviousId": 0,
-    "Title": "Vents de montagne incolores",
-    "Description": "Débloquez l'intégralité de la carte du Pic Vent-repos dans la région de Mondstadt.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80480,
-    "Goal": 67,
-    "Order": 437,
-    "PreviousId": 0,
-    "Title": "Voyage sans but vers le sanatorium abandonné",
-    "Description": "Débloquez l'intégralité de la carte du Temple de l'espace dans la région de Mondstadt.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80481,
-    "Goal": 67,
-    "Order": 449,
-    "PreviousId": 0,
-    "Title": "Adieu, montagne magique",
-    "Description": "Terminez « Une longue journée en montagne ».",
+    "Title": "Toujours si ennuyeux...",
+    "Description": "Affrontez une Papille obombrée avec l'aide d'un autre joueur.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
-    "Id": 80482,
-    "Goal": 67,
-    "Order": 448,
+    "Id": 86058,
+    "Goal": 64,
+    "Order": 9049,
     "PreviousId": 0,
-    "Title": "Un adieu, trois retrouvailles",
-    "Description": "Retrouvez toutes les affaires perdues de Zeitlind.",
+    "Title": "Épreuve finale de shaman",
+    "Description": "Affrontez une Spiritoratrice excentrique isolée avec l'aide d'un autre joueur.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80484,
-    "Goal": 67,
-    "Order": 447,
-    "PreviousId": 0,
-    "Title": "À un cœur sincère",
-    "Description": "Déverrouillez les sceaux du trésor secret de la noblesse du Pic Vent-repos et de la Salle secrète des royaumes du Temple de l'espace.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 2,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80485,
-    "Goal": 67,
-    "Order": 446,
-    "PreviousId": 0,
-    "Title": "L'espace et le libre arbitre contraint",
-    "Description": "Montez le Noyau de mémoire du Temple de l'espace au niveau maximum.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80486,
-    "Goal": 67,
-    "Order": 438,
-    "PreviousId": 0,
-    "Title": "Chant de l'aube de Tithonus",
-    "Description": "Activez tous les points de téléportation du Pic Vent-repos et du Temple de l'espace dans la région de Mondstadt.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 31,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80500,
-    "Goal": 67,
-    "Order": 445,
-    "PreviousId": 0,
-    "Title": "#{M#Guidé}{F#Guidée} par l'intervalle",
-    "Description": "Suivez 3 Fées au Pic Vent-repos et au Temple de l'espace et activez leur support.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   }
 ]
