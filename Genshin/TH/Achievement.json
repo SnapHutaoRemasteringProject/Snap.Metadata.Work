@@ -1547,6 +1547,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80092,
+    "Goal": 0,
+    "Order": 1026,
+    "PreviousId": 0,
+    "Title": "เลื่องลือทั่วแดนสายฟ้า",
+    "Description": "ระดับชื่อเสียงประจำเมือง Inazuma ถึง Lv.10",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80093,
     "Goal": 24,
     "Order": 93,
@@ -1768,6 +1785,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80108,
+    "Goal": 26,
+    "Order": 111,
+    "PreviousId": 0,
+    "Title": "ล่าสายฟ้าบนเกาะ Seirai",
+    "Description": "สำเร็จ \"ล่าสายฟ้าบนเกาะ Seirai\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80109,
+    "Goal": 26,
+    "Order": 112,
+    "PreviousId": 0,
+    "Title": "ใต้แสงจันทร์ดวงเดียวกัน",
+    "Description": "สำเร็จ \"ห้วงลึกอาบแสงจันทร์\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80110,
     "Goal": 26,
     "Order": 108,
@@ -1814,40 +1865,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 24,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80108,
-    "Goal": 26,
-    "Order": 111,
-    "PreviousId": 0,
-    "Title": "ล่าสายฟ้าบนเกาะ Seirai",
-    "Description": "สำเร็จ \"ล่าสายฟ้าบนเกาะ Seirai\"",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80109,
-    "Goal": 26,
-    "Order": 112,
-    "PreviousId": 0,
-    "Title": "ใต้แสงจันทร์ดวงเดียวกัน",
-    "Description": "สำเร็จ \"ห้วงลึกอาบแสงจันทร์\"",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "2.1",
     "IsDailyQuest": false
@@ -3655,6 +3672,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80227,
+    "Goal": 38,
+    "Order": 217,
+    "PreviousId": 0,
+    "Title": "บทไว้อาลัย Bilqis",
+    "Description": "สำเร็จ \"บทไว้อาลัย Bilqis\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.4",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80228,
     "Goal": 38,
     "Order": 208,
@@ -3803,23 +3837,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 28,
-    "Icon": "",
-    "Version": "3.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80227,
-    "Goal": 38,
-    "Order": 217,
-    "PreviousId": 0,
-    "Title": "บทไว้อาลัย Bilqis",
-    "Description": "สำเร็จ \"บทไว้อาลัย Bilqis\"",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "3.4",
     "IsDailyQuest": false
@@ -4029,23 +4046,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80250,
-    "Goal": 41,
-    "Order": 230,
-    "PreviousId": 0,
-    "Title": "หยาดอมฤตสีชาด",
-    "Description": "บูชาสระหยาดอมฤตจนถึงเลเวลสูงสุด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80249,
     "Goal": 41,
     "Order": 231,
@@ -4055,6 +4055,23 @@
     "FinishReward": {
       "Id": 201,
       "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80250,
+    "Goal": 41,
+    "Order": 230,
+    "PreviousId": 0,
+    "Title": "หยาดอมฤตสีชาด",
+    "Description": "บูชาสระหยาดอมฤตจนถึงเลเวลสูงสุด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
@@ -5389,23 +5406,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80346,
-    "Goal": 51,
-    "Order": 308,
-    "PreviousId": 0,
-    "Title": "สำรวจรอยราตรี - ที่ราบเพลิงโหม I",
-    "Description": "ปลดผนึกสถานที่ลึกลับของชนเผ่าทั้งหมดใน Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, และ Toyac Springs ของพื้นที่ Natlan",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "",
-    "Version": "5.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80332,
     "Goal": 51,
     "Order": 309,
@@ -5589,6 +5589,23 @@
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
     "Icon": "UI_AchievementIcon_A019",
+    "Version": "5.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80346,
+    "Goal": 51,
+    "Order": 308,
+    "PreviousId": 0,
+    "Title": "สำรวจรอยราตรี - ที่ราบเพลิงโหม I",
+    "Description": "ปลดผนึกสถานที่ลึกลับของชนเผ่าทั้งหมดใน Basin of Unnumbered Flames, Tequemecan Valley, Coatepec Mountain, และ Toyac Springs ของพื้นที่ Natlan",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "",
     "Version": "5.0",
     "IsDailyQuest": false
   },
@@ -6885,40 +6902,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 81600,
-    "Goal": 63,
-    "Order": 415,
-    "PreviousId": 0,
-    "Title": "ผู้ถักทอแห่งอัฐิสถาน",
-    "Description": "สำรวจสถานศักดิ์สิทธิ์ที่ถูกปิดผนึกโดยทูตจันทราขับขานคนแรก",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81601,
-    "Goal": 63,
-    "Order": 416,
-    "PreviousId": 0,
-    "Title": "บาปของใคร",
-    "Description": "สำเร็จการผจญภัยที่สำนักงานออกแบบการทดลองแรงจันทราผัน",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80456,
     "Goal": 65,
     "Order": 417,
@@ -7242,6 +7225,244 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80475,
+    "Goal": 67,
+    "Order": 439,
+    "PreviousId": 0,
+    "Title": "นักล่าสมบัติแห่งรอยแยก",
+    "Description": "เปิดหีบสมบัติในภูเขา Windrest และวิหารแห่งมิติ 45 หีบ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 45,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80476,
+    "Goal": 67,
+    "Order": 440,
+    "PreviousId": 80475,
+    "Title": "นักล่าสมบัติแห่งรอยแยก",
+    "Description": "เปิดหีบสมบัติในภูเขา Windrest และวิหารแห่งมิติ 90 หีบ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 90,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80477,
+    "Goal": 67,
+    "Order": 441,
+    "PreviousId": 80476,
+    "Title": "นักล่าสมบัติแห่งรอยแยก",
+    "Description": "เปิดหีบสมบัติในภูเขา Windrest และวิหารแห่งมิติ 180 หีบ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 180,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80479,
+    "Goal": 67,
+    "Order": 436,
+    "PreviousId": 0,
+    "Title": "สายลมไร้สีบนภูเขาปริศนา",
+    "Description": "เปิดแผนที่ภูเขา Windrest ในพื้นที่ Mondstadt",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80480,
+    "Goal": 67,
+    "Order": 437,
+    "PreviousId": 0,
+    "Title": "เดินทางสู่สถานพักฟื้นร้าง",
+    "Description": "เปิดแผนที่วิหารแห่งมิติ ในพื้นที่ Mondstadt",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80481,
+    "Goal": 67,
+    "Order": 449,
+    "PreviousId": 0,
+    "Title": "ลาก่อน ภูเขาปีศาจ",
+    "Description": "สำเร็จ \"วันอันแสนยาวนานในหุบเขา\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80482,
+    "Goal": 67,
+    "Order": 448,
+    "PreviousId": 0,
+    "Title": "หนึ่งคำอำลากับสามการพบพาน",
+    "Description": "ตามหาของที่หายไปทั้งหมดกลับมาให้ Zeitlind",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80484,
+    "Goal": 67,
+    "Order": 447,
+    "PreviousId": 0,
+    "Title": "แด่หัวใจที่ซื่อสัตย์",
+    "Description": "คลายผนึกของสถานที่ซ่อนสมบัติราชวงศ์ของภูเขา Windrest และห้องนิทรรศการลับพหุดินแดนของวิหารแห่งมิติ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80485,
+    "Goal": 67,
+    "Order": 446,
+    "PreviousId": 0,
+    "Title": "มิติและเจตจำนงที่ไร้อิสระ",
+    "Description": "บูชาศูนย์ความทรงจำของวิหารแห่งมิติถึงเลเวลสูงสุด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80486,
+    "Goal": 67,
+    "Order": 438,
+    "PreviousId": 0,
+    "Title": "บทเพลงแห่งรุ่งอรุณของ Tithonus",
+    "Description": "ปลดล็อกจุดเทเลพอร์ตทั้งหมดของภูเขา Windrest และวิหารแห่งมิติ ในพื้นที่ Mondstadt",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 31,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80487,
+    "Goal": 67,
+    "Order": 442,
+    "PreviousId": 0,
+    "Title": "นักผจญภัยแห่งรอยแยก",
+    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของพื้นที่ภูเขา Windrest และวิหารแห่งมิติ 7 ครั้ง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 7,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80488,
+    "Goal": 67,
+    "Order": 443,
+    "PreviousId": 80487,
+    "Title": "นักผจญภัยแห่งรอยแยก",
+    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของพื้นที่ภูเขา Windrest และวิหารแห่งมิติ 14 ครั้ง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 14,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80489,
+    "Goal": 67,
+    "Order": 444,
+    "PreviousId": 80488,
+    "Title": "นักผจญภัยแห่งรอยแยก",
+    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของพื้นที่ภูเขา Windrest และวิหารแห่งมิติ 28 ครั้ง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 28,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80500,
+    "Goal": 67,
+    "Order": 445,
+    "PreviousId": 0,
+    "Title": "ผู้นำทางแห่งรอยแยก",
+    "Description": "ตาม Seelie ในภูเขา Windrest และวิหารแห่งมิติ ไปยังแท่นของมัน 3 ครั้ง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -7562,23 +7783,6 @@
     "Progress": 1,
     "Icon": "UI_AchievementIcon_O001",
     "Version": "1.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80092,
-    "Goal": 0,
-    "Order": 1026,
-    "PreviousId": 0,
-    "Title": "เลื่องลือทั่วแดนสายฟ้า",
-    "Description": "ระดับชื่อเสียงประจำเมือง Inazuma ถึง Lv.10",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "2.0",
     "IsDailyQuest": false
   },
   {
@@ -12359,23 +12563,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 81339,
-    "Goal": 0,
-    "Order": 1317,
-    "PreviousId": 0,
-    "Title": "ทะเลอันอุดมสมบูรณ์",
-    "Description": "สระดอกไม้ทั้งหมดในทุ่งดอกไม้ได้ฟื้นคืนพลังชีวิตแล้ว",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 81331,
     "Goal": 0,
     "Order": 1318,
@@ -12507,6 +12694,23 @@
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 15,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81339,
+    "Goal": 0,
+    "Order": 1317,
+    "PreviousId": 0,
+    "Title": "ทะเลอันอุดมสมบูรณ์",
+    "Description": "สระดอกไม้ทั้งหมดในทุ่งดอกไม้ได้ฟื้นคืนพลังชีวิตแล้ว",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
     "Icon": "",
     "Version": "3.6",
     "IsDailyQuest": false
@@ -13396,6 +13600,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81394,
+    "Goal": 0,
+    "Order": 1378,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81395,
     "Goal": 0,
     "Order": 1379,
@@ -13427,6 +13648,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81397,
+    "Goal": 0,
+    "Order": 1381,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13634,6 +13872,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81410,
+    "Goal": 0,
+    "Order": 1394,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81411,
     "Goal": 0,
     "Order": 1395,
@@ -13648,6 +13903,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81412,
+    "Goal": 0,
+    "Order": 1396,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81413,
+    "Goal": 0,
+    "Order": 1397,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13719,6 +14008,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81420,
+    "Goal": 0,
+    "Order": 1404,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81421,
+    "Goal": 0,
+    "Order": 1405,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81422,
     "Goal": 0,
     "Order": 1406,
@@ -13784,6 +14107,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81426,
+    "Goal": 0,
+    "Order": 1410,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -16422,6 +16762,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81600,
+    "Goal": 63,
+    "Order": 415,
+    "PreviousId": 0,
+    "Title": "ผู้ถักทอแห่งอัฐิสถาน",
+    "Description": "สำรวจสถานศักดิ์สิทธิ์ที่ถูกปิดผนึกโดยทูตจันทราขับขานคนแรก",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81601,
+    "Goal": 63,
+    "Order": 416,
+    "PreviousId": 0,
+    "Title": "บาปของใคร",
+    "Description": "สำเร็จการผจญภัยที่สำนักงานออกแบบการทดลองแรงจันทราผัน",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81602,
     "Goal": 0,
     "Order": 1597,
@@ -17116,6 +17490,329 @@
     "Progress": 1,
     "Icon": "",
     "Version": "6.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81643,
+    "Goal": 0,
+    "Order": 1637,
+    "PreviousId": 0,
+    "Title": "คนที่ควรสำนึกผิดคือคนอื่นต่างหาก...",
+    "Description": "กลไกเฝ้าระวังใต้หอคอยเก่าจะไม่กะพริบเพราะพายุอีกต่อไป",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81644,
+    "Goal": 0,
+    "Order": 1638,
+    "PreviousId": 0,
+    "Title": "หนังสือดีย่อมควรค่าแก่การอ่าน",
+    "Description": "รวบรวมหีบสมบัติทั้งหมดที่ซ่อนอยู่ในหน้ากระดาษ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81645,
+    "Goal": 0,
+    "Order": 1639,
+    "PreviousId": 0,
+    "Title": "จอกศักดิ์สิทธิ์และปาฏิหาริย์ล้วนมีอยู่จริง",
+    "Description": "สำเร็จการผจญภัยของ \"Aerinny\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81646,
+    "Goal": 0,
+    "Order": 1640,
+    "PreviousId": 0,
+    "Title": "ระบบนิเวศในลิ้นชัก",
+    "Description": "ชีวิตย่อมงอกงามเบ่งบานไปตามครรลองของมันเองเสมอ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81647,
+    "Goal": 0,
+    "Order": 1641,
+    "PreviousId": 0,
+    "Title": "เพราะอย่างนี้เธอจึงมีสิทธิ์",
+    "Description": "การมีคุณสมบัติพอที่จะก้าวข้ามธรณีประตูไปได้หรือไม่นั้น ขึ้นอยู่กับว่าจะคิดหาวิธีอ้อมผ่านมันไปได้รึเปล่า...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81648,
+    "Goal": 0,
+    "Order": 1642,
+    "PreviousId": 0,
+    "Title": "ครอบคลุมทุกแง่มุม",
+    "Description": "...แม้ว่าจริง ๆ แล้วความท้าทายจะมีแค่สองด้านก็เถอะ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81649,
+    "Goal": 0,
+    "Order": 1643,
+    "PreviousId": 0,
+    "Title": "ส่วนใหญ่คือพวกถนัดมือขวา",
+    "Description": "ร่วมมือกับ Dex เพื่อปลดปล่อยพลังแห่งมิติเป็นครั้งแรก",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81650,
+    "Goal": 0,
+    "Order": 1644,
+    "PreviousId": 0,
+    "Title": "คืนสยองในพิพิธภัณฑ์",
+    "Description": "ให้ของในตู้โชว์อยู่ในตู้โชว์ต่อไปเถอะ...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81651,
+    "Goal": 0,
+    "Order": 1645,
+    "PreviousId": 0,
+    "Title": "สวนดอกไลแลค",
+    "Description": "ดู \"ความทรงจำ\" ของ Zeitlind และพี่สาวของเธอเป็นครั้งแรก",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81652,
+    "Goal": 0,
+    "Order": 1646,
+    "PreviousId": 0,
+    "Title": "แม่บทแห่งขนบเก่า",
+    "Description": "การผจญภัยแบบดั้งเดิมและรูปแบบที่หล่อหลอมมันขึ้นมา...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81653,
+    "Goal": 0,
+    "Order": 1647,
+    "PreviousId": 0,
+    "Title": "ฝันผลิปีก",
+    "Description": "ลองขยับปีกที่งอกออกมาใหม่นี้ดูสิ...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81654,
+    "Goal": 0,
+    "Order": 1648,
+    "PreviousId": 0,
+    "Title": "โลกในฝ่ามือ",
+    "Description": "สำรวจภายในทิวทัศน์จำลองย่อส่วนอย่างละเอียดเป็นครั้งแรก",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81655,
+    "Goal": 0,
+    "Order": 1649,
+    "PreviousId": 0,
+    "Title": "แสงสลัวสะบั้นพิรุณบัดนี้อยู่หนใด?",
+    "Description": "นั่นเป็นเรื่องราวของความกล้าหาญอันสูงส่งในวันวาน",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81656,
+    "Goal": 0,
+    "Order": 1650,
+    "PreviousId": 0,
+    "Title": "ไม่หวั่นแม้เมฆบังตา",
+    "Description": "การปีนขึ้นไปบนยอดเขาสูง อาจช่วยให้ไม่ถูกเรื่องราวทางโลกบดบังสายตาอีกต่อไป",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81657,
+    "Goal": 0,
+    "Order": 1651,
+    "PreviousId": 0,
+    "Title": "Shed a Light",
+    "Description": "การก้าวเข้าสู่โลกมนุษย์เพื่อยื่นมือเข้าช่วย กับการละทิ้งโลกเพื่ออยู่อย่างสันโดษ เดิมทีนั้นก็เป็นสองทิศทางเดียวกันอยู่แล้ว",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81658,
+    "Goal": 0,
+    "Order": 1652,
+    "PreviousId": 0,
+    "Title": "บอกเล่าถึงอดีตกาล ปัจจุบันสมัย และอนาคตเบื้องหน้า",
+    "Description": "มาถึงพื้นที่ใจกลางของวิหารเสาหลัก ในวิหารแห่งมิติ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81659,
+    "Goal": 0,
+    "Order": 1653,
+    "PreviousId": 0,
+    "Title": "การรักษาโรคความเศร้า เรียกได้อีกชื่อว่าการเฉือนน้ำดีออก",
+    "Description": "เอาชนะ Melanta",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81660,
+    "Goal": 0,
+    "Order": 1654,
+    "PreviousId": 0,
+    "Title": "มารยาทในการชมนิทรรศการ",
+    "Description": "สำเร็จการท้าทายของตู้โชว์ 5 ตู้",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81661,
+    "Goal": 0,
+    "Order": 1655,
+    "PreviousId": 0,
+    "Title": "ดุจเสี้ยวอณูระหว่างฟ้าดิน",
+    "Description": "เมื่อมองลงมาจากที่สูง ทุกสิ่งที่เห็นช่างดูเล็กจ้อย บางทีหากมองย้อนจากเบื้องล่างขึ้นไป ก็อาจเป็นเพียงเศษเสี้ยวหนึ่งในมหาสมุทรอันไพศาลเช่นกัน",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -18734,23 +19431,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 82109,
-    "Goal": 20,
-    "Order": 2099,
-    "PreviousId": 0,
-    "Title": "เบิกเนตรมังกร",
-    "Description": "เอาชนะ Azhdaha โดยไม่รับโล่ป้องกันระหว่างการต่อสู้",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 82099,
     "Goal": 0,
     "Order": 2100,
@@ -18910,6 +19590,23 @@
     "PreviousId": 0,
     "Title": "สายฟ้าจากทิศตะวันออก",
     "Description": "ถูกสายฟ้าฟาดจาก Crackling Axe Mitachurl โจมตี",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 82109,
+    "Goal": 20,
+    "Order": 2099,
+    "PreviousId": 0,
+    "Title": "เบิกเนตรมังกร",
+    "Description": "เอาชนะ Azhdaha โดยไม่รับโล่ป้องกันระหว่างการต่อสู้",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -22083,6 +22780,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82308,
+    "Goal": 0,
+    "Order": 2308,
+    "PreviousId": 0,
+    "Title": "อย่าใช้อารมณ์ตัดสิน",
+    "Description": "ทำลาย \"ดาวธาตุตื่นตัว\" ของทุกประเภทธาตุได้อย่างเท่าเทียมกัน",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -22525,6 +23239,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84026,
+    "Goal": 17,
+    "Order": 6001,
+    "PreviousId": 0,
+    "Title": "การเดินทางแสนมหัศจรรย์: เริ่มต้น",
+    "Description": "ทำ \"การเดินทางแสนมหัศจรรย์\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84028,
+    "Goal": 17,
+    "Order": 6110,
+    "PreviousId": 0,
+    "Title": "ดวงตาพิศวง!",
+    "Description": "ตีความเบาะแสทั้งหมดอย่างถูกต้อง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84029,
     "Goal": 0,
     "Order": 5008,
@@ -22948,6 +23696,40 @@
     "Icon": "",
     "Version": "2.4",
     "IsDailyQuest": false
+  },
+  {
+    "Id": 84054,
+    "Goal": 0,
+    "Order": 5033,
+    "PreviousId": 0,
+    "Title": "การผจญภัยของ Anna",
+    "Description": "ช่วยให้ Anna ได้เป็นนักผจญภัย",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
+  },
+  {
+    "Id": 84055,
+    "Goal": 0,
+    "Order": 5034,
+    "PreviousId": 0,
+    "Title": "ก่อนการเดินทางอันยาวไกล",
+    "Description": "หนุ่มน้อยคนหนึ่งกำลังจะเริ่มการเดินทางที่แสนยาวไกล...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
   },
   {
     "Id": 84056,
@@ -23695,6 +24477,958 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84100,
+    "Goal": 17,
+    "Order": 6010,
+    "PreviousId": 0,
+    "Title": "จักรพรรดิแห่งสายฟ้าฟาด",
+    "Description": "เป็นสักขีพยานในความโชคร้ายของ Bennett ที่ส่งผลต่อสภาพอากาศ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84101,
+    "Goal": 17,
+    "Order": 6011,
+    "PreviousId": 0,
+    "Title": "โชคก็คือพลังที่แท้จริง!",
+    "Description": "ปลดล็อกกลไกในสถานการณ์ที่ผิดพลาดนี้เพื่อรับสมบัติ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84102,
+    "Goal": 17,
+    "Order": 6200,
+    "PreviousId": 0,
+    "Title": "เส้นเขตแดนที่ข้ามได้",
+    "Description": "ทำ \"น้ำพุแห่งการรักษา\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84103,
+    "Goal": 17,
+    "Order": 6300,
+    "PreviousId": 0,
+    "Title": "สาวใช้ที่แข็งแกร่งและสมบูรณ์แบบ",
+    "Description": "ทำ \"เส้นทางแห่งอัศวิน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84104,
+    "Goal": 17,
+    "Order": 6100,
+    "PreviousId": 0,
+    "Title": "เหล่าวิญญาณร้ายหนีหาย",
+    "Description": "ทำ \"ตามล่าท้าปีศาจ\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84105,
+    "Goal": 17,
+    "Order": 6211,
+    "PreviousId": 0,
+    "Title": "ตำนานหมาล่าแห่ง Mondstadt",
+    "Description": "ลองชิมเครื่องดื่มรสเผ็ดของ Barbara",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84106,
+    "Goal": 17,
+    "Order": 6310,
+    "PreviousId": 0,
+    "Title": "\"...เพราะว่าสายสัมพันธ์\"",
+    "Description": "ช่วย Noelle หาที่มาของความแข็งแกร่งของเธอ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84107,
+    "Goal": 17,
+    "Order": 6111,
+    "PreviousId": 0,
+    "Title": "ฮีโร่ผู้ร้อนแรง",
+    "Description": "ไอติมที่ทำออกมาผิดพลาด ทำให้เกิดปฏิกิริยารุนแรงกับ \"ร่างกายแห่งหยางบริสุทธิ์\" ของ Chongyun",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84108,
+    "Goal": 17,
+    "Order": 6210,
+    "PreviousId": 0,
+    "Title": "แนวป้องกันที่เชื่อถือได้ของไอดอล",
+    "Description": "ชักชวน Albert และแฟนคลับ Barbara คนอื่น ๆ ได้สำเร็จ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84109,
+    "Goal": 17,
+    "Order": 6311,
+    "PreviousId": 0,
+    "Title": "โลกที่มีแต่กุหลาบเท่านั้นที่รู้",
+    "Description": "อ่านบันทึกการเรียนรู้ของ Noelle",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84110,
+    "Goal": 17,
+    "Order": 6400,
+    "PreviousId": 0,
+    "Title": "วิธีกำจัดความกังวลที่ดีที่สุด",
+    "Description": "ทำ \"เส้นทางการฝึกตนแห่งอัศวิน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84111,
+    "Goal": 17,
+    "Order": 6410,
+    "PreviousId": 0,
+    "Title": "อัศวินสาวใช้คงกระพัน",
+    "Description": "ฟัง \"การเดินทางของอัศวินต่างแดนใน Liyue\" กับ Noelle",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84112,
+    "Goal": 17,
+    "Order": 6411,
+    "PreviousId": 0,
+    "Title": "บันทึกการเรียนรู้แห่ง Mondstadt",
+    "Description": "อ่านบันทึกการเรียนรู้ของ Noelle",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84113,
+    "Goal": 17,
+    "Order": 6500,
+    "PreviousId": 0,
+    "Title": "Diona Special ต้องคน อย่าเขย่า",
+    "Description": "ทำ \"เหมียวน้อยและเครื่องดื่มสูตรพิเศษ\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84114,
+    "Goal": 17,
+    "Order": 6510,
+    "PreviousId": 0,
+    "Title": "แต่สิ่งที่ต้องแลกคือ...",
+    "Description": "ช่วย Diona หาส่วนผสมหลักของเครื่องดื่มสูตรพิเศษ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84115,
+    "Goal": 17,
+    "Order": 6511,
+    "PreviousId": 0,
+    "Title": "ราชินีแมวเหมียว",
+    "Description": "พาแมวทั้งหมดกลับไปที่ Cat's Tail",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84116,
+    "Goal": 17,
+    "Order": 6600,
+    "PreviousId": 0,
+    "Title": "สุขสันต์กันทั่วหน้า",
+    "Description": "ทำ \"งานประจำวันของพ่อบ้าน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84117,
+    "Goal": 17,
+    "Order": 6610,
+    "PreviousId": 0,
+    "Title": "ผู้เชี่ยวชาญด้านการจัดการภายในบ้าน",
+    "Description": "ทำความสะอาดครั้งใหญ่ให้สำเร็จภายในเวลาที่กำหนด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84118,
+    "Goal": 17,
+    "Order": 6611,
+    "PreviousId": 0,
+    "Title": "แขกผู้ลาลับสู่ท้องทะเล",
+    "Description": "ร่วมเป็นสักขีพยานเรื่องราวของ Inu Shoushou กับ Thoma",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84119,
+    "Goal": 17,
+    "Order": 6700,
+    "PreviousId": 0,
+    "Title": "\"สูง\" กว่าคนทั่วไป",
+    "Description": "สำเร็จ \"Yoohoo Art: ศาสตร์แห่งการเติบโต\" และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84120,
+    "Goal": 17,
+    "Order": 6710,
+    "PreviousId": 0,
+    "Title": "นินจาขั้นมูจิน่า",
+    "Description": "ได้รับผลประเมินในระดับสูงสุดในการฝึกความคล่องตัวจาก Sayu",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84121,
+    "Goal": 17,
+    "Order": 6711,
+    "PreviousId": 0,
+    "Title": "เอฟเฟกต์อาหาร: ความเร็วในการเคลื่อนที่ลดลง",
+    "Description": "ล้มเหลวในการห้ามไม่ให้ Sayu กินอาหารมากเกินไป...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84122,
+    "Goal": 17,
+    "Order": 6900,
+    "PreviousId": 0,
+    "Title": "ลูกเรือผู้มีเกียรติของกองเรือ Crux",
+    "Description": "ทำ \"ช่วงเวลาเกรียงไกรของกองเรือ Crux\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84123,
+    "Goal": 17,
+    "Order": 6910,
+    "PreviousId": 0,
+    "Title": "สาดความหวานให้ฉ่ำอุรา",
+    "Description": "เข้าร่วมงานเลี้ยงที่ Qingce Village กับ Beidou",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84124,
+    "Goal": 17,
+    "Order": 6911,
+    "PreviousId": 0,
+    "Title": "สอนโลกให้รู้จักกล้าฉบับ Guyun",
+    "Description": "ถาม Beidou เกี่ยวกับเนื้อหาที่แท้จริงของการซื้อขาย",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84125,
+    "Goal": 17,
+    "Order": 6800,
+    "PreviousId": 0,
+    "Title": "นายพลแห่ง Watatsumi",
+    "Description": "ทำ \"ปฏิบัติการพิเศษของนายพลสี่ขา\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84126,
+    "Goal": 17,
+    "Order": 6810,
+    "PreviousId": 0,
+    "Title": "โชคลาภที่ไม่แน่นอน",
+    "Description": "เซียมซีทั้งหมดที่เคยจับได้จากศาลเจ้า",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84127,
+    "Goal": 17,
+    "Order": 6811,
+    "PreviousId": 0,
+    "Title": "จะพูดหรือไม่พูด ก็คือปัญหาอย่างหนึ่ง",
+    "Description": "ค้นพบตัวตนที่แท้จริงของคุณ Hina ที่สำนักพิมพ์ Yae",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84128,
+    "Goal": 17,
+    "Order": 7000,
+    "PreviousId": 0,
+    "Title": "ดาวบริวารของ Tianquan",
+    "Description": "ทำ \"แขกผู้กลับมาเยือน Jade Chamber\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84129,
+    "Goal": 17,
+    "Order": 7010,
+    "PreviousId": 0,
+    "Title": "ต้องเตรียมตัวให้พร้อม",
+    "Description": "ปลา? แน่นอนว่ายิ่งเยอะยิ่งดี",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84130,
+    "Goal": 17,
+    "Order": 7011,
+    "PreviousId": 0,
+    "Title": "การปกป้องเกินจริง",
+    "Description": "หินก้อนเดียว ทำให้เกิดคลื่นได้นับพัน ดูเหมือนว่าวันหยุดของ Ningguang จะไม่สนุกอย่างที่หวังซะแล้ว",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84131,
+    "Goal": 17,
+    "Order": 7100,
+    "PreviousId": 0,
+    "Title": "บทเพลงสิ้นสุด แต่ผู้คนไม่ลาจาก",
+    "Description": "ทำ \"เสียงขับขานอันงามสง่า\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84132,
+    "Goal": 17,
+    "Order": 7110,
+    "PreviousId": 0,
+    "Title": "ขอให้ช่วงเวลานี้คงอยู่ตลอดไป",
+    "Description": "ถ่ายรูปคู่กับ Yun Jin เพื่อเก็บไว้เป็นที่ระลึก",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84133,
+    "Goal": 17,
+    "Order": 7111,
+    "PreviousId": 0,
+    "Title": "อาจารย์ผู้เข้มงวดสอนลูกศิษย์ยอดฝีมือ",
+    "Description": "สำเร็จการฝึกซ้อมโดยไม่โจมตีโดน \"หุ่นไล่กาสีฟ้า\" ตัวใดเลย",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84134,
+    "Goal": 17,
+    "Order": 7200,
+    "PreviousId": 0,
+    "Title": "หัวหน้าที่ปรึกษาแห่งแก๊ง Arataki",
+    "Description": "ทำ \"ภารกิจประจำวันของแก๊ง\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84135,
+    "Goal": 17,
+    "Order": 7210,
+    "PreviousId": 0,
+    "Title": "ขอดูอีกสักครั้งหน่อยสิ!",
+    "Description": "ดูความงดงามของ Kuki Shinobu ในชุดมิโกะ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84136,
+    "Goal": 17,
+    "Order": 7211,
+    "PreviousId": 0,
+    "Title": "\"พื้นที่ชั้นบน...\"",
+    "Description": "ถูกห้ามไม่ให้ไปรบกวน Kujou Sara และ Kuki Shinobu",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84137,
+    "Goal": 17,
+    "Order": 7300,
+    "PreviousId": 0,
+    "Title": "คุณคิดว่ามันเป็นแบบนั้นจริง ๆ เหรอ?",
+    "Description": "ทำ \"กับดักพายุหมุน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84138,
+    "Goal": 17,
+    "Order": 7310,
+    "PreviousId": 0,
+    "Title": "ฉันเป็นนักสืบที่สมบูรณ์แบบ!",
+    "Description": "วิเคราะห์แรงจูงใจและข้อเท็จจริงเกี่ยวกับอาชญากรรมสำเร็จในครั้งเดียว",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84139,
+    "Goal": 17,
+    "Order": 7311,
+    "PreviousId": 0,
+    "Title": "คำอธิษฐานแห่ง Sangonomiya",
+    "Description": "สอบถาม Gorou ว่า Kokomi ทราบเรื่องของเกาะ Watatsumi หรือไม่",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84140,
+    "Goal": 17,
+    "Order": 7400,
+    "PreviousId": 0,
+    "Title": "วิธีแก้ปัญหาสุดเริ่ด",
+    "Description": "ทำ \"ปมที่แก้ยาก\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84141,
+    "Goal": 17,
+    "Order": 7410,
+    "PreviousId": 0,
+    "Title": "แด่เธอในอีกร้อยปีให้หลัง",
+    "Description": "อ่านจดหมายทั้งหมดที่ส่งให้ Faruzan",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84142,
+    "Goal": 17,
+    "Order": 7411,
+    "PreviousId": 0,
+    "Title": "กลศาสตร์: จากมือใหม่สู่...?",
+    "Description": "เดาจำนวนการเคลื่อนย้ายที่น้อยที่สุด เพื่อสำเร็จการเรียง \"หอคอยไม้\" เจ็ดชั้น",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84143,
+    "Goal": 17,
+    "Order": 7500,
+    "PreviousId": 0,
+    "Title": "ชื่อนั้นคือ \"Layla\"",
+    "Description": "ทำ \"ดาราเงียบงัน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84144,
+    "Goal": 17,
+    "Order": 7510,
+    "PreviousId": 0,
+    "Title": "แค่นี้เธอก็เครียดมากพอแล้ว",
+    "Description": "ไม่ได้ทำให้ Layla เครียดยิ่งกว่าเดิม ในระหว่างที่ช่วยเธอทำวิทยานิพนธ์ให้สำเร็จ",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84145,
+    "Goal": 17,
+    "Order": 7511,
+    "PreviousId": 0,
+    "Title": "ความลับระหว่าง Seelie และท้องฟ้าสุกสกาว",
+    "Description": "ได้รับจดหมายตอบกลับจาก \"Seelie เจ้าปัญญา\" ที่แท้จริง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84146,
+    "Goal": 17,
+    "Order": 7600,
+    "PreviousId": 0,
+    "Title": "ศิลปะและชีวิต",
+    "Description": "ทำ \"ลูกตุ้มแห่งความสุขและทุกข์\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84147,
+    "Goal": 17,
+    "Order": 7610,
+    "PreviousId": 0,
+    "Title": "สมัยวัยเรียน",
+    "Description": "อ่านหนังสือที่มีโน้ตจดเอาไว้ในวังแห่งปัญญา",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84148,
+    "Goal": 17,
+    "Order": 7611,
+    "PreviousId": 0,
+    "Title": "ความโรแมนติกของสถาปนิก",
+    "Description": "คุยเรื่องเกี่ยวกับอนาคตกับ Kaveh ในทะเลทราย",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84149,
+    "Goal": 17,
+    "Order": 7700,
+    "PreviousId": 0,
+    "Title": "แสวงหาความสุข",
+    "Description": "ทำ \"คำโกหกและไวน์หวาน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84150,
+    "Goal": 17,
+    "Order": 7710,
+    "PreviousId": 0,
+    "Title": "เหรียญนำโชค",
+    "Description": "เข้าร่วมการเดิมพันของ Kaeya",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84151,
+    "Goal": 17,
+    "Order": 7711,
+    "PreviousId": 0,
+    "Title": "ชู่วว... ฟังสิ!",
+    "Description": "ฟังเสียงพูดที่ดังมาจากในห้องขัง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84152,
+    "Goal": 17,
+    "Order": 7800,
+    "PreviousId": 0,
+    "Title": "ตัวชี้วัดแห่งโชคชะตา",
+    "Description": "ทำ \"แมวเหมียวกับเลขสุ่ม\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84153,
+    "Goal": 17,
+    "Order": 7810,
+    "PreviousId": 0,
+    "Title": "SPEEDRUN",
+    "Description": "โน้มน้าวให้ Lynette ใช้เวลาในวันสบาย ๆ และเงียบสงบด้วยกัน",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84154,
+    "Goal": 17,
+    "Order": 7811,
+    "PreviousId": 0,
+    "Title": "DECKS & DETECTIVES",
+    "Description": "หลังจากไขคดีลักลอบขนของเรียบร้อยแล้ว คุณก็เพลิดเพลินไปกับงานเลี้ยงน้ำชาอันเงียบสงบกับ Lynette",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84155,
+    "Goal": 0,
+    "Order": 7900,
+    "PreviousId": 0,
+    "Title": "สิ่งที่ได้พบเจอระหว่างทาง",
+    "Description": "เป็นพยานในเกร็ดน่ารู้หนึ่งครั้ง",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
@@ -25347,6 +27081,23 @@
     "IsDailyQuest": true
   },
   {
+    "Id": 84517,
+    "Goal": 0,
+    "Order": 4041,
+    "PreviousId": 0,
+    "Title": "ทำดีได้ดี",
+    "Description": "เปิดโปง Marjorie และได้รับคำขอบคุณจาก Jack",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84518,
     "Goal": 0,
     "Order": 4042,
@@ -25752,40 +27503,6 @@
     "Progress": 1,
     "Icon": "",
     "Version": "2.1",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84054,
-    "Goal": 0,
-    "Order": 5033,
-    "PreviousId": 0,
-    "Title": "การผจญภัยของ Anna",
-    "Description": "ช่วยให้ Anna ได้เป็นนักผจญภัย",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84055,
-    "Goal": 0,
-    "Order": 5034,
-    "PreviousId": 0,
-    "Title": "ก่อนการเดินทางอันยาวไกล",
-    "Description": "หนุ่มน้อยคนหนึ่งกำลังจะเริ่มการเดินทางที่แสนยาวไกล...",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
     "IsDailyQuest": true
   },
   {
@@ -26588,992 +28305,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 84026,
-    "Goal": 17,
-    "Order": 6001,
-    "PreviousId": 0,
-    "Title": "การเดินทางแสนมหัศจรรย์: เริ่มต้น",
-    "Description": "ทำ \"การเดินทางแสนมหัศจรรย์\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84100,
-    "Goal": 17,
-    "Order": 6010,
-    "PreviousId": 0,
-    "Title": "จักรพรรดิแห่งสายฟ้าฟาด",
-    "Description": "เป็นสักขีพยานในความโชคร้ายของ Bennett ที่ส่งผลต่อสภาพอากาศ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84101,
-    "Goal": 17,
-    "Order": 6011,
-    "PreviousId": 0,
-    "Title": "โชคก็คือพลังที่แท้จริง!",
-    "Description": "ปลดล็อกกลไกในสถานการณ์ที่ผิดพลาดนี้เพื่อรับสมบัติ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84104,
-    "Goal": 17,
-    "Order": 6100,
-    "PreviousId": 0,
-    "Title": "เหล่าวิญญาณร้ายหนีหาย",
-    "Description": "ทำ \"ตามล่าท้าปีศาจ\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84028,
-    "Goal": 17,
-    "Order": 6110,
-    "PreviousId": 0,
-    "Title": "ดวงตาพิศวง!",
-    "Description": "ตีความเบาะแสทั้งหมดอย่างถูกต้อง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84107,
-    "Goal": 17,
-    "Order": 6111,
-    "PreviousId": 0,
-    "Title": "ฮีโร่ผู้ร้อนแรง",
-    "Description": "ไอติมที่ทำออกมาผิดพลาด ทำให้เกิดปฏิกิริยารุนแรงกับ \"ร่างกายแห่งหยางบริสุทธิ์\" ของ Chongyun",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84102,
-    "Goal": 17,
-    "Order": 6200,
-    "PreviousId": 0,
-    "Title": "เส้นเขตแดนที่ข้ามได้",
-    "Description": "ทำ \"น้ำพุแห่งการรักษา\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84108,
-    "Goal": 17,
-    "Order": 6210,
-    "PreviousId": 0,
-    "Title": "แนวป้องกันที่เชื่อถือได้ของไอดอล",
-    "Description": "ชักชวน Albert และแฟนคลับ Barbara คนอื่น ๆ ได้สำเร็จ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84105,
-    "Goal": 17,
-    "Order": 6211,
-    "PreviousId": 0,
-    "Title": "ตำนานหมาล่าแห่ง Mondstadt",
-    "Description": "ลองชิมเครื่องดื่มรสเผ็ดของ Barbara",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84103,
-    "Goal": 17,
-    "Order": 6300,
-    "PreviousId": 0,
-    "Title": "สาวใช้ที่แข็งแกร่งและสมบูรณ์แบบ",
-    "Description": "ทำ \"เส้นทางแห่งอัศวิน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84106,
-    "Goal": 17,
-    "Order": 6310,
-    "PreviousId": 0,
-    "Title": "\"...เพราะว่าสายสัมพันธ์\"",
-    "Description": "ช่วย Noelle หาที่มาของความแข็งแกร่งของเธอ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84109,
-    "Goal": 17,
-    "Order": 6311,
-    "PreviousId": 0,
-    "Title": "โลกที่มีแต่กุหลาบเท่านั้นที่รู้",
-    "Description": "อ่านบันทึกการเรียนรู้ของ Noelle",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84110,
-    "Goal": 17,
-    "Order": 6400,
-    "PreviousId": 0,
-    "Title": "วิธีกำจัดความกังวลที่ดีที่สุด",
-    "Description": "ทำ \"เส้นทางการฝึกตนแห่งอัศวิน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84111,
-    "Goal": 17,
-    "Order": 6410,
-    "PreviousId": 0,
-    "Title": "อัศวินสาวใช้คงกระพัน",
-    "Description": "ฟัง \"การเดินทางของอัศวินต่างแดนใน Liyue\" กับ Noelle",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84112,
-    "Goal": 17,
-    "Order": 6411,
-    "PreviousId": 0,
-    "Title": "บันทึกการเรียนรู้แห่ง Mondstadt",
-    "Description": "อ่านบันทึกการเรียนรู้ของ Noelle",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84113,
-    "Goal": 17,
-    "Order": 6500,
-    "PreviousId": 0,
-    "Title": "Diona Special ต้องคน อย่าเขย่า",
-    "Description": "ทำ \"เหมียวน้อยและเครื่องดื่มสูตรพิเศษ\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84114,
-    "Goal": 17,
-    "Order": 6510,
-    "PreviousId": 0,
-    "Title": "แต่สิ่งที่ต้องแลกคือ...",
-    "Description": "ช่วย Diona หาส่วนผสมหลักของเครื่องดื่มสูตรพิเศษ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84115,
-    "Goal": 17,
-    "Order": 6511,
-    "PreviousId": 0,
-    "Title": "ราชินีแมวเหมียว",
-    "Description": "พาแมวทั้งหมดกลับไปที่ Cat's Tail",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84116,
-    "Goal": 17,
-    "Order": 6600,
-    "PreviousId": 0,
-    "Title": "สุขสันต์กันทั่วหน้า",
-    "Description": "ทำ \"งานประจำวันของพ่อบ้าน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84117,
-    "Goal": 17,
-    "Order": 6610,
-    "PreviousId": 0,
-    "Title": "ผู้เชี่ยวชาญด้านการจัดการภายในบ้าน",
-    "Description": "ทำความสะอาดครั้งใหญ่ให้สำเร็จภายในเวลาที่กำหนด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84118,
-    "Goal": 17,
-    "Order": 6611,
-    "PreviousId": 0,
-    "Title": "แขกผู้ลาลับสู่ท้องทะเล",
-    "Description": "ร่วมเป็นสักขีพยานเรื่องราวของ Inu Shoushou กับ Thoma",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84119,
-    "Goal": 17,
-    "Order": 6700,
-    "PreviousId": 0,
-    "Title": "\"สูง\" กว่าคนทั่วไป",
-    "Description": "สำเร็จ \"Yoohoo Art: ศาสตร์แห่งการเติบโต\" และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84120,
-    "Goal": 17,
-    "Order": 6710,
-    "PreviousId": 0,
-    "Title": "นินจาขั้นมูจิน่า",
-    "Description": "ได้รับผลประเมินในระดับสูงสุดในการฝึกความคล่องตัวจาก Sayu",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84121,
-    "Goal": 17,
-    "Order": 6711,
-    "PreviousId": 0,
-    "Title": "เอฟเฟกต์อาหาร: ความเร็วในการเคลื่อนที่ลดลง",
-    "Description": "ล้มเหลวในการห้ามไม่ให้ Sayu กินอาหารมากเกินไป...",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84122,
-    "Goal": 17,
-    "Order": 6900,
-    "PreviousId": 0,
-    "Title": "ลูกเรือผู้มีเกียรติของกองเรือ Crux",
-    "Description": "ทำ \"ช่วงเวลาเกรียงไกรของกองเรือ Crux\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84123,
-    "Goal": 17,
-    "Order": 6910,
-    "PreviousId": 0,
-    "Title": "สาดความหวานให้ฉ่ำอุรา",
-    "Description": "เข้าร่วมงานเลี้ยงที่ Qingce Village กับ Beidou",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84124,
-    "Goal": 17,
-    "Order": 6911,
-    "PreviousId": 0,
-    "Title": "สอนโลกให้รู้จักกล้าฉบับ Guyun",
-    "Description": "ถาม Beidou เกี่ยวกับเนื้อหาที่แท้จริงของการซื้อขาย",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84125,
-    "Goal": 17,
-    "Order": 6800,
-    "PreviousId": 0,
-    "Title": "นายพลแห่ง Watatsumi",
-    "Description": "ทำ \"ปฏิบัติการพิเศษของนายพลสี่ขา\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84126,
-    "Goal": 17,
-    "Order": 6810,
-    "PreviousId": 0,
-    "Title": "โชคลาภที่ไม่แน่นอน",
-    "Description": "เซียมซีทั้งหมดที่เคยจับได้จากศาลเจ้า",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84127,
-    "Goal": 17,
-    "Order": 6811,
-    "PreviousId": 0,
-    "Title": "จะพูดหรือไม่พูด ก็คือปัญหาอย่างหนึ่ง",
-    "Description": "ค้นพบตัวตนที่แท้จริงของคุณ Hina ที่สำนักพิมพ์ Yae",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84128,
-    "Goal": 17,
-    "Order": 7000,
-    "PreviousId": 0,
-    "Title": "ดาวบริวารของ Tianquan",
-    "Description": "ทำ \"แขกผู้กลับมาเยือน Jade Chamber\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84129,
-    "Goal": 17,
-    "Order": 7010,
-    "PreviousId": 0,
-    "Title": "ต้องเตรียมตัวให้พร้อม",
-    "Description": "ปลา? แน่นอนว่ายิ่งเยอะยิ่งดี",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84130,
-    "Goal": 17,
-    "Order": 7011,
-    "PreviousId": 0,
-    "Title": "การปกป้องเกินจริง",
-    "Description": "หินก้อนเดียว ทำให้เกิดคลื่นได้นับพัน ดูเหมือนว่าวันหยุดของ Ningguang จะไม่สนุกอย่างที่หวังซะแล้ว",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84131,
-    "Goal": 17,
-    "Order": 7100,
-    "PreviousId": 0,
-    "Title": "บทเพลงสิ้นสุด แต่ผู้คนไม่ลาจาก",
-    "Description": "ทำ \"เสียงขับขานอันงามสง่า\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84132,
-    "Goal": 17,
-    "Order": 7110,
-    "PreviousId": 0,
-    "Title": "ขอให้ช่วงเวลานี้คงอยู่ตลอดไป",
-    "Description": "ถ่ายรูปคู่กับ Yun Jin เพื่อเก็บไว้เป็นที่ระลึก",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84133,
-    "Goal": 17,
-    "Order": 7111,
-    "PreviousId": 0,
-    "Title": "อาจารย์ผู้เข้มงวดสอนลูกศิษย์ยอดฝีมือ",
-    "Description": "สำเร็จการฝึกซ้อมโดยไม่โจมตีโดน \"หุ่นไล่กาสีฟ้า\" ตัวใดเลย",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84134,
-    "Goal": 17,
-    "Order": 7200,
-    "PreviousId": 0,
-    "Title": "หัวหน้าที่ปรึกษาแห่งแก๊ง Arataki",
-    "Description": "ทำ \"ภารกิจประจำวันของแก๊ง\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84135,
-    "Goal": 17,
-    "Order": 7210,
-    "PreviousId": 0,
-    "Title": "ขอดูอีกสักครั้งหน่อยสิ!",
-    "Description": "ดูความงดงามของ Kuki Shinobu ในชุดมิโกะ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84136,
-    "Goal": 17,
-    "Order": 7211,
-    "PreviousId": 0,
-    "Title": "\"พื้นที่ชั้นบน...\"",
-    "Description": "ถูกห้ามไม่ให้ไปรบกวน Kujou Sara และ Kuki Shinobu",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84137,
-    "Goal": 17,
-    "Order": 7300,
-    "PreviousId": 0,
-    "Title": "คุณคิดว่ามันเป็นแบบนั้นจริง ๆ เหรอ?",
-    "Description": "ทำ \"กับดักพายุหมุน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84138,
-    "Goal": 17,
-    "Order": 7310,
-    "PreviousId": 0,
-    "Title": "ฉันเป็นนักสืบที่สมบูรณ์แบบ!",
-    "Description": "วิเคราะห์แรงจูงใจและข้อเท็จจริงเกี่ยวกับอาชญากรรมสำเร็จในครั้งเดียว",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84139,
-    "Goal": 17,
-    "Order": 7311,
-    "PreviousId": 0,
-    "Title": "คำอธิษฐานแห่ง Sangonomiya",
-    "Description": "สอบถาม Gorou ว่า Kokomi ทราบเรื่องของเกาะ Watatsumi หรือไม่",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84140,
-    "Goal": 17,
-    "Order": 7400,
-    "PreviousId": 0,
-    "Title": "วิธีแก้ปัญหาสุดเริ่ด",
-    "Description": "ทำ \"ปมที่แก้ยาก\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84141,
-    "Goal": 17,
-    "Order": 7410,
-    "PreviousId": 0,
-    "Title": "แด่เธอในอีกร้อยปีให้หลัง",
-    "Description": "อ่านจดหมายทั้งหมดที่ส่งให้ Faruzan",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84142,
-    "Goal": 17,
-    "Order": 7411,
-    "PreviousId": 0,
-    "Title": "กลศาสตร์: จากมือใหม่สู่...?",
-    "Description": "เดาจำนวนการเคลื่อนย้ายที่น้อยที่สุด เพื่อสำเร็จการเรียง \"หอคอยไม้\" เจ็ดชั้น",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84143,
-    "Goal": 17,
-    "Order": 7500,
-    "PreviousId": 0,
-    "Title": "ชื่อนั้นคือ \"Layla\"",
-    "Description": "ทำ \"ดาราเงียบงัน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84144,
-    "Goal": 17,
-    "Order": 7510,
-    "PreviousId": 0,
-    "Title": "แค่นี้เธอก็เครียดมากพอแล้ว",
-    "Description": "ไม่ได้ทำให้ Layla เครียดยิ่งกว่าเดิม ในระหว่างที่ช่วยเธอทำวิทยานิพนธ์ให้สำเร็จ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84145,
-    "Goal": 17,
-    "Order": 7511,
-    "PreviousId": 0,
-    "Title": "ความลับระหว่าง Seelie และท้องฟ้าสุกสกาว",
-    "Description": "ได้รับจดหมายตอบกลับจาก \"Seelie เจ้าปัญญา\" ที่แท้จริง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84146,
-    "Goal": 17,
-    "Order": 7600,
-    "PreviousId": 0,
-    "Title": "ศิลปะและชีวิต",
-    "Description": "ทำ \"ลูกตุ้มแห่งความสุขและทุกข์\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84147,
-    "Goal": 17,
-    "Order": 7610,
-    "PreviousId": 0,
-    "Title": "สมัยวัยเรียน",
-    "Description": "อ่านหนังสือที่มีโน้ตจดเอาไว้ในวังแห่งปัญญา",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84148,
-    "Goal": 17,
-    "Order": 7611,
-    "PreviousId": 0,
-    "Title": "ความโรแมนติกของสถาปนิก",
-    "Description": "คุยเรื่องเกี่ยวกับอนาคตกับ Kaveh ในทะเลทราย",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84149,
-    "Goal": 17,
-    "Order": 7700,
-    "PreviousId": 0,
-    "Title": "แสวงหาความสุข",
-    "Description": "ทำ \"คำโกหกและไวน์หวาน\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84150,
-    "Goal": 17,
-    "Order": 7710,
-    "PreviousId": 0,
-    "Title": "เหรียญนำโชค",
-    "Description": "เข้าร่วมการเดิมพันของ Kaeya",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84151,
-    "Goal": 17,
-    "Order": 7711,
-    "PreviousId": 0,
-    "Title": "ชู่วว... ฟังสิ!",
-    "Description": "ฟังเสียงพูดที่ดังมาจากในห้องขัง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84152,
-    "Goal": 17,
-    "Order": 7800,
-    "PreviousId": 0,
-    "Title": "ตัวชี้วัดแห่งโชคชะตา",
-    "Description": "ทำ \"แมวเหมียวกับเลขสุ่ม\" ให้สำเร็จ และปลดล็อกตอนจบทั้งหมด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84153,
-    "Goal": 17,
-    "Order": 7810,
-    "PreviousId": 0,
-    "Title": "SPEEDRUN",
-    "Description": "โน้มน้าวให้ Lynette ใช้เวลาในวันสบาย ๆ และเงียบสงบด้วยกัน",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84154,
-    "Goal": 17,
-    "Order": 7811,
-    "PreviousId": 0,
-    "Title": "DECKS & DETECTIVES",
-    "Description": "หลังจากไขคดีลักลอบขนของเรียบร้อยแล้ว คุณก็เพลิดเพลินไปกับงานเลี้ยงน้ำชาอันเงียบสงบกับ Lynette",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84155,
-    "Goal": 0,
-    "Order": 7900,
-    "PreviousId": 0,
-    "Title": "สิ่งที่ได้พบเจอระหว่างทาง",
-    "Description": "เป็นพยานในเกร็ดน่ารู้หนึ่งครั้ง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86001,
     "Goal": 13,
     "Order": 9001,
@@ -27795,23 +28526,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86021,
-    "Goal": 21,
-    "Order": 9014,
-    "PreviousId": 0,
-    "Title": "ความสามารถของเนตรมารไม่อาจตัดสินช่องว่างของพลังต่อสู้ได้",
-    "Description": "เอาชนะ Childe ร่วมกับผู้เล่นคนอื่น",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86015,
     "Goal": 21,
     "Order": 9015,
@@ -27903,6 +28617,23 @@
     "PreviousId": 0,
     "Title": "\"เครื่องจักรนั้นไม่มีความยั่งยืน\"",
     "Description": "เอาชนะ Perpetual Mechanical Array ร่วมกับผู้เล่นคนอื่น",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 86021,
+    "Goal": 21,
+    "Order": 9014,
+    "PreviousId": 0,
+    "Title": "ความสามารถของเนตรมารไม่อาจตัดสินช่องว่างของพลังต่อสู้ได้",
+    "Description": "เอาชนะ Childe ร่วมกับผู้เล่นคนอื่น",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -28373,40 +29104,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86057,
-    "Goal": 64,
-    "Order": 9048,
-    "PreviousId": 0,
-    "Title": "ฟันอะไรที่น่าเบื่ออีกแล้ว...",
-    "Description": "เอาชนะ Tenebrous Papilla ร่วมกับผู้เล่นคนอื่น",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 86058,
-    "Goal": 64,
-    "Order": 9049,
-    "PreviousId": 0,
-    "Title": "บททดสอบสุดท้ายของนักเวท",
-    "Description": "เอาชนะ Wayward Hermetic Spiritspeaker ร่วมกับผู้เล่นคนอื่น",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86051,
     "Goal": 64,
     "Order": 9050,
@@ -28509,241 +29206,37 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80475,
-    "Goal": 67,
-    "Order": 439,
+    "Id": 86057,
+    "Goal": 64,
+    "Order": 9048,
     "PreviousId": 0,
-    "Title": "นักล่าสมบัติแห่งรอยแยก",
-    "Description": "เปิดหีบสมบัติในภูเขา Windrest และวิหารแห่งมิติ {param0} หีบ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 45,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80476,
-    "Goal": 67,
-    "Order": 440,
-    "PreviousId": 80475,
-    "Title": "นักล่าสมบัติแห่งรอยแยก",
-    "Description": "เปิดหีบสมบัติในภูเขา Windrest และวิหารแห่งมิติ {param0} หีบ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 90,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80477,
-    "Goal": 67,
-    "Order": 441,
-    "PreviousId": 80476,
-    "Title": "นักล่าสมบัติแห่งรอยแยก",
-    "Description": "เปิดหีบสมบัติในภูเขา Windrest และวิหารแห่งมิติ {param0} หีบ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 180,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80487,
-    "Goal": 67,
-    "Order": 442,
-    "PreviousId": 0,
-    "Title": "นักผจญภัยแห่งรอยแยก",
-    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของพื้นที่ภูเขา Windrest และวิหารแห่งมิติ {param0} ครั้ง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 7,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80488,
-    "Goal": 67,
-    "Order": 443,
-    "PreviousId": 80487,
-    "Title": "นักผจญภัยแห่งรอยแยก",
-    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของพื้นที่ภูเขา Windrest และวิหารแห่งมิติ {param0} ครั้ง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 14,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80489,
-    "Goal": 67,
-    "Order": 444,
-    "PreviousId": 80488,
-    "Title": "นักผจญภัยแห่งรอยแยก",
-    "Description": "สำเร็จการท้าทายจำกัดเวลาในโลกกว้างของพื้นที่ภูเขา Windrest และวิหารแห่งมิติ {param0} ครั้ง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 28,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80479,
-    "Goal": 67,
-    "Order": 436,
-    "PreviousId": 0,
-    "Title": "สายลมไร้สีบนภูเขาปริศนา",
-    "Description": "เปิดแผนที่ภูเขา Windrest ในพื้นที่ Mondstadt",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80480,
-    "Goal": 67,
-    "Order": 437,
-    "PreviousId": 0,
-    "Title": "เดินทางสู่สถานพักฟื้นร้าง",
-    "Description": "เปิดแผนที่วิหารแห่งมิติ ในพื้นที่ Mondstadt",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80481,
-    "Goal": 67,
-    "Order": 449,
-    "PreviousId": 0,
-    "Title": "ลาก่อน ภูเขาปีศาจ",
-    "Description": "สำเร็จ \"วันอันแสนยาวนานในหุบเขา\"",
+    "Title": "ฟันอะไรที่น่าเบื่ออีกแล้ว...",
+    "Description": "เอาชนะ Tenebrous Papilla ร่วมกับผู้เล่นคนอื่น",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
-    "Id": 80482,
-    "Goal": 67,
-    "Order": 448,
+    "Id": 86058,
+    "Goal": 64,
+    "Order": 9049,
     "PreviousId": 0,
-    "Title": "หนึ่งคำอำลากับสามการพบพาน",
-    "Description": "ตามหาของที่หายไปทั้งหมดกลับมาให้ Zeitlind",
+    "Title": "บททดสอบสุดท้ายของนักเวท",
+    "Description": "เอาชนะ Wayward Hermetic Spiritspeaker ร่วมกับผู้เล่นคนอื่น",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80484,
-    "Goal": 67,
-    "Order": 447,
-    "PreviousId": 0,
-    "Title": "แด่หัวใจที่ซื่อสัตย์",
-    "Description": "คลายผนึกของสถานที่ซ่อนสมบัติราชวงศ์ของภูเขา Windrest และห้องนิทรรศการลับพหุดินแดนของวิหารแห่งมิติ",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 2,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80485,
-    "Goal": 67,
-    "Order": 446,
-    "PreviousId": 0,
-    "Title": "มิติและเจตจำนงที่ไร้อิสระ",
-    "Description": "บูชาศูนย์ความทรงจำของวิหารแห่งมิติถึงเลเวลสูงสุด",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80486,
-    "Goal": 67,
-    "Order": 438,
-    "PreviousId": 0,
-    "Title": "บทเพลงแห่งรุ่งอรุณของ Tithonus",
-    "Description": "ปลดล็อกจุดเทเลพอร์ตทั้งหมดของภูเขา Windrest และวิหารแห่งมิติ ในพื้นที่ Mondstadt",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 31,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80500,
-    "Goal": 67,
-    "Order": 445,
-    "PreviousId": 0,
-    "Title": "ผู้นำทางแห่งรอยแยก",
-    "Description": "ตาม Seelie ในภูเขา Windrest และวิหารแห่งมิติ ไปยังแท่นของมัน 3 ครั้ง",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   }
 ]

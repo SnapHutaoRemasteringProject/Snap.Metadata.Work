@@ -1547,6 +1547,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80092,
+    "Goal": 0,
+    "Order": 1026,
+    "PreviousId": 0,
+    "Title": "布武雷國",
+    "Description": "稻妻的聲望等級達到10級。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80093,
     "Goal": 24,
     "Order": 93,
@@ -1768,6 +1785,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80108,
+    "Goal": 26,
+    "Order": 111,
+    "PreviousId": 0,
+    "Title": "清籟逐雷記",
+    "Description": "完成「清籟逐雷記」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80109,
+    "Goal": 26,
+    "Order": 112,
+    "PreviousId": 0,
+    "Title": "一樣的月光",
+    "Description": "完成「月浴之淵」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80110,
     "Goal": 26,
     "Order": 108,
@@ -1814,40 +1865,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 24,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80108,
-    "Goal": 26,
-    "Order": 111,
-    "PreviousId": 0,
-    "Title": "清籟逐雷記",
-    "Description": "完成「清籟逐雷記」。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80109,
-    "Goal": 26,
-    "Order": 112,
-    "PreviousId": 0,
-    "Title": "一樣的月光",
-    "Description": "完成「月浴之淵」。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "2.1",
     "IsDailyQuest": false
@@ -3655,6 +3672,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80227,
+    "Goal": 38,
+    "Order": 217,
+    "PreviousId": 0,
+    "Title": "比勒琪絲的哀歌",
+    "Description": "完成「比勒琪絲的哀歌」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.4",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80228,
     "Goal": 38,
     "Order": 208,
@@ -3803,23 +3837,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 28,
-    "Icon": "",
-    "Version": "3.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80227,
-    "Goal": 38,
-    "Order": 217,
-    "PreviousId": 0,
-    "Title": "比勒琪絲的哀歌",
-    "Description": "完成「比勒琪絲的哀歌」。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "3.4",
     "IsDailyQuest": false
@@ -4029,23 +4046,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80250,
-    "Goal": 41,
-    "Order": 230,
-    "PreviousId": 0,
-    "Title": "朱英甘露",
-    "Description": "將甘露池等級供奉至滿級。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80249,
     "Goal": 41,
     "Order": 231,
@@ -4055,6 +4055,23 @@
     "FinishReward": {
       "Id": 201,
       "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80250,
+    "Goal": 41,
+    "Order": 230,
+    "PreviousId": 0,
+    "Title": "朱英甘露",
+    "Description": "將甘露池等級供奉至滿級。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
@@ -5389,23 +5406,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80346,
-    "Goal": 51,
-    "Order": 308,
-    "PreviousId": 0,
-    "Title": "夜饋尋跡·萬火燎灼之原·其一",
-    "Description": "解除納塔區域中，萬火之甌、堅岩隘谷、踞石山、湧流地所有部族秘藏之所的封印。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "",
-    "Version": "5.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80332,
     "Goal": 51,
     "Order": 309,
@@ -5589,6 +5589,23 @@
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
     "Icon": "UI_AchievementIcon_A019",
+    "Version": "5.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80346,
+    "Goal": 51,
+    "Order": 308,
+    "PreviousId": 0,
+    "Title": "夜饋尋跡·萬火燎灼之原·其一",
+    "Description": "解除納塔區域中，萬火之甌、堅岩隘谷、踞石山、湧流地所有部族秘藏之所的封印。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "",
     "Version": "5.0",
     "IsDailyQuest": false
   },
@@ -6277,7 +6294,7 @@
     "Goal": 60,
     "Order": 350,
     "PreviousId": 0,
-    "Title": "#為{F#妳}{M#你}，我們來歡飲一杯",
+    "Title": "為你，我們來歡飲一杯",
     "Description": "在遠古聖山、安饒之野追隨3個挑逗幻寫靈，並完成塗鴉。",
     "FinishReward": {
       "Id": 201,
@@ -6294,7 +6311,7 @@
     "Goal": 60,
     "Order": 351,
     "PreviousId": 80387,
-    "Title": "#為{F#妳}{M#你}，我們來歡飲一杯",
+    "Title": "為你，我們來歡飲一杯",
     "Description": "在遠古聖山、安饒之野追隨6個挑逗幻寫靈，並完成塗鴉。",
     "FinishReward": {
       "Id": 201,
@@ -6311,7 +6328,7 @@
     "Goal": 60,
     "Order": 352,
     "PreviousId": 80388,
-    "Title": "#為{F#妳}{M#你}，我們來歡飲一杯",
+    "Title": "為你，我們來歡飲一杯",
     "Description": "在遠古聖山、安饒之野追隨9個挑逗幻寫靈，並完成塗鴉。",
     "FinishReward": {
       "Id": 201,
@@ -6885,40 +6902,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 81600,
-    "Goal": 63,
-    "Order": 415,
-    "PreviousId": 0,
-    "Title": "藏骸所的織密者",
-    "Description": "探索了最初的詠月使封鎖的聖所。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81601,
-    "Goal": 63,
-    "Order": 416,
-    "PreviousId": 0,
-    "Title": "誰之罪",
-    "Description": "完成了在月矩力試驗設計局的冒險。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80456,
     "Goal": 65,
     "Order": 417,
@@ -7242,6 +7225,244 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80475,
+    "Goal": 67,
+    "Order": 439,
+    "PreviousId": 0,
+    "Title": "隙間的尋寶者",
+    "Description": "在風息山、空之神殿開啟45個寶箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 45,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80476,
+    "Goal": 67,
+    "Order": 440,
+    "PreviousId": 80475,
+    "Title": "隙間的尋寶者",
+    "Description": "在風息山、空之神殿開啟90個寶箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 90,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80477,
+    "Goal": 67,
+    "Order": 441,
+    "PreviousId": 80476,
+    "Title": "隙間的尋寶者",
+    "Description": "在風息山、空之神殿開啟180個寶箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 180,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80479,
+    "Goal": 67,
+    "Order": 436,
+    "PreviousId": 0,
+    "Title": "山風無色",
+    "Description": "點亮蒙德區域中，風息山的地圖。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80480,
+    "Goal": 67,
+    "Order": 437,
+    "PreviousId": 0,
+    "Title": "廢棄療養院下車之旅",
+    "Description": "點亮蒙德區域中，空之神殿的地圖。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80481,
+    "Goal": 67,
+    "Order": 449,
+    "PreviousId": 0,
+    "Title": "再見，魔山",
+    "Description": "完成「山中好長日」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80482,
+    "Goal": 67,
+    "Order": 448,
+    "PreviousId": 0,
+    "Title": "一個告別與三個再會",
+    "Description": "為彩特琳德找回所有丟失的東西。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80484,
+    "Goal": 67,
+    "Order": 447,
+    "PreviousId": 0,
+    "Title": "誠至金開",
+    "Description": "解除風息山的宗室密藏之地與空之神殿的諸界秘展之廳的封印。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80485,
+    "Goal": 67,
+    "Order": 446,
+    "PreviousId": 0,
+    "Title": "空間與非自由意志",
+    "Description": "將空之神殿的摹憶中樞等級供奉至最高等級。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80486,
+    "Goal": 67,
+    "Order": 438,
+    "PreviousId": 0,
+    "Title": "提托諾斯的晨歌",
+    "Description": "解鎖蒙德區域中，風息山、空之神殿所有傳送錨點。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 31,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80487,
+    "Goal": 67,
+    "Order": 442,
+    "PreviousId": 0,
+    "Title": "隙間的冒險家",
+    "Description": "在風息山、空之神殿完成7個大世界限時挑戰。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 7,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80488,
+    "Goal": 67,
+    "Order": 443,
+    "PreviousId": 80487,
+    "Title": "隙間的冒險家",
+    "Description": "在風息山、空之神殿完成14個大世界限時挑戰。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 14,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80489,
+    "Goal": 67,
+    "Order": 444,
+    "PreviousId": 80488,
+    "Title": "隙間的冒險家",
+    "Description": "在風息山、空之神殿完成28個大世界限時挑戰。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 28,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80500,
+    "Goal": 67,
+    "Order": 445,
+    "PreviousId": 0,
+    "Title": "隙間的引路人",
+    "Description": "在風息山、空之神殿追隨3個仙靈，並點亮仙靈之庭。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -7562,23 +7783,6 @@
     "Progress": 1,
     "Icon": "UI_AchievementIcon_O001",
     "Version": "1.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80092,
-    "Goal": 0,
-    "Order": 1026,
-    "PreviousId": 0,
-    "Title": "布武雷國",
-    "Description": "稻妻的聲望等級達到10級。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "2.0",
     "IsDailyQuest": false
   },
   {
@@ -11735,7 +11939,7 @@
     "Order": 1277,
     "PreviousId": 0,
     "Title": "「假若她們能知幽玄…」",
-    "Description": "#利露帕爾自行解脫了與{F#妳}{M#你}的契約，選擇面對自己漆黑深遠的命運…",
+    "Description": "利露帕爾自行解脫了與你的契約，選擇面對自己漆黑深遠的命運…",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -11752,7 +11956,7 @@
     "Order": 1278,
     "PreviousId": 0,
     "Title": "「那只是永恆的奴役而已！」",
-    "Description": "#沉睡千百年的鎮靈利露帕爾與{F#妳}{M#你}訂立了契約。",
+    "Description": "沉睡千百年的鎮靈利露帕爾與你訂立了契約。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -11989,7 +12193,7 @@
     "Goal": 0,
     "Order": 1295,
     "PreviousId": 0,
-    "Title": "#「…使列邦觀看{F#妳}{M#你}的醜陋。」",
+    "Title": "「…使列邦觀看你的醜陋。」",
     "Description": "使殘損的棋盤重現黃沙之間。",
     "FinishReward": {
       "Id": 201,
@@ -12041,7 +12245,7 @@
     "Order": 1298,
     "PreviousId": 0,
     "Title": "無愛的塔蘭圖拉",
-    "Description": "#「我非要把{F#妳}{M#你}煮成潤滑油不可！」",
+    "Description": "「我非要把你煮成潤滑油不可！」",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -12359,23 +12563,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 81339,
-    "Goal": 0,
-    "Order": 1317,
-    "PreviousId": 0,
-    "Title": "豐饒之海",
-    "Description": "花海中的所有花池都恢復了生機。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 81331,
     "Goal": 0,
     "Order": 1318,
@@ -12482,7 +12669,7 @@
     "Goal": 0,
     "Order": 1324,
     "PreviousId": 0,
-    "Title": "#{F#妳}{M#你}是誰的子孫，叫什麼名字？",
+    "Title": "你是誰的子孫，叫什麼名字？",
     "Description": "第一次使用斯露莎引導靈光之力。",
     "FinishReward": {
       "Id": 201,
@@ -12507,6 +12694,23 @@
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 15,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81339,
+    "Goal": 0,
+    "Order": 1317,
+    "PreviousId": 0,
+    "Title": "豐饒之海",
+    "Description": "花海中的所有花池都恢復了生機。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
     "Icon": "",
     "Version": "3.6",
     "IsDailyQuest": false
@@ -12771,7 +12975,7 @@
     "Goal": 0,
     "Order": 1343,
     "PreviousId": 0,
-    "Title": "#{F#妳}{M#你}是否相信極樂城？",
+    "Title": "你是否相信極樂城？",
     "Description": "幫助締造膨膨獸的樂園。",
     "FinishReward": {
       "Id": 201,
@@ -13396,6 +13600,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81394,
+    "Goal": 0,
+    "Order": 1378,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81395,
     "Goal": 0,
     "Order": 1379,
@@ -13427,6 +13648,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81397,
+    "Goal": 0,
+    "Order": 1381,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13634,6 +13872,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81410,
+    "Goal": 0,
+    "Order": 1394,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81411,
     "Goal": 0,
     "Order": 1395,
@@ -13648,6 +13903,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81412,
+    "Goal": 0,
+    "Order": 1396,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81413,
+    "Goal": 0,
+    "Order": 1397,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13719,6 +14008,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81420,
+    "Goal": 0,
+    "Order": 1404,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81421,
+    "Goal": 0,
+    "Order": 1405,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81422,
     "Goal": 0,
     "Order": 1406,
@@ -13784,6 +14107,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81426,
+    "Goal": 0,
+    "Order": 1410,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -14199,7 +14539,7 @@
     "Goal": 0,
     "Order": 1438,
     "PreviousId": 0,
-    "Title": "#「想學啊？我教{F#妳}{M#你}！」",
+    "Title": "「想學啊？我教你！」",
     "Description": "戰勝身分特殊的古華派非正式弟子三次。",
     "FinishReward": {
       "Id": 201,
@@ -14693,7 +15033,7 @@
     "Order": 1469,
     "PreviousId": 0,
     "Title": "遲來的繼業者",
-    "Description": "#他的願望，將由{F#妳}{M#你}來完成…",
+    "Description": "他的願望，將由你來完成…",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -15049,7 +15389,7 @@
     "Goal": 0,
     "Order": 1493,
     "PreviousId": 0,
-    "Title": "#謝謝{F#妳}{M#你}們的魚",
+    "Title": "謝謝你們的魚",
     "Description": "多謝款待！",
     "FinishReward": {
       "Id": 201,
@@ -15798,7 +16138,7 @@
     "Order": 1541,
     "PreviousId": 0,
     "Title": "勇者的歸途",
-    "Description": "#在故事的最後，{F#妳}{M#你}改變了「她」的結局。",
+    "Description": "在故事的最後，你改變了「她」的結局。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -16419,6 +16759,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "5.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81600,
+    "Goal": 63,
+    "Order": 415,
+    "PreviousId": 0,
+    "Title": "藏骸所的織密者",
+    "Description": "探索了最初的詠月使封鎖的聖所。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81601,
+    "Goal": 63,
+    "Order": 416,
+    "PreviousId": 0,
+    "Title": "誰之罪",
+    "Description": "完成了在月矩力試驗設計局的冒險。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
@@ -17116,6 +17490,329 @@
     "Progress": 1,
     "Icon": "",
     "Version": "6.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81643,
+    "Goal": 0,
+    "Order": 1637,
+    "PreviousId": 0,
+    "Title": "該反省的另有其人…",
+    "Description": "舊塔下的警戒機關再也不因狂風而閃爍。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81644,
+    "Goal": 0,
+    "Order": 1638,
+    "PreviousId": 0,
+    "Title": "好書，愛看",
+    "Description": "搜集到被書頁隱去的所有寶箱。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81645,
+    "Goal": 0,
+    "Order": 1639,
+    "PreviousId": 0,
+    "Title": "聖盃和奇蹟都是存在的",
+    "Description": "完成《埃黎尼》的冒險。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81646,
+    "Goal": 0,
+    "Order": 1640,
+    "PreviousId": 0,
+    "Title": "抽屜裡的生態箱",
+    "Description": "生命總會自然而然變得茂盛起來。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81647,
+    "Goal": 0,
+    "Order": 1641,
+    "PreviousId": 0,
+    "Title": "正因如此你有資格",
+    "Description": "是否擁有跨過門檻的資格取決於是否能想到繞過門檻的辦法…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81648,
+    "Goal": 0,
+    "Order": 1642,
+    "PreviousId": 0,
+    "Title": "面面俱到",
+    "Description": "…雖然挑戰其實就只有兩面。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81649,
+    "Goal": 0,
+    "Order": 1643,
+    "PreviousId": 0,
+    "Title": "十有八九是右撇子",
+    "Description": "第一次協同小右施展空間能力。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81650,
+    "Goal": 0,
+    "Order": 1644,
+    "PreviousId": 0,
+    "Title": "博物館驚魂夜",
+    "Description": "還是讓展櫃裡的東西待在展櫃裡吧…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81651,
+    "Goal": 0,
+    "Order": 1645,
+    "PreviousId": 0,
+    "Title": "紫丁香的庭園",
+    "Description": "第一次觀看彩特琳德和她姐姐的「回憶」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81652,
+    "Goal": 0,
+    "Order": 1646,
+    "PreviousId": 0,
+    "Title": "老派要典",
+    "Description": "經典冒險與其構成的形式…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81653,
+    "Goal": 0,
+    "Order": 1647,
+    "PreviousId": 0,
+    "Title": "夢生羽翼",
+    "Description": "試著揮動化生的翅膀吧…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81654,
+    "Goal": 0,
+    "Order": 1648,
+    "PreviousId": 0,
+    "Title": "掌中觀微",
+    "Description": "第一次仔細探查微型山水的內部。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81655,
+    "Goal": 0,
+    "Order": 1649,
+    "PreviousId": 0,
+    "Title": "裁雨幽光今何在？",
+    "Description": "那是屬於過去的俠氣干雲的往事。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81656,
+    "Goal": 0,
+    "Order": 1650,
+    "PreviousId": 0,
+    "Title": "不畏浮雲遮望眼",
+    "Description": "登上高山，或許就可以不被世事遮攔。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81657,
+    "Goal": 0,
+    "Order": 1651,
+    "PreviousId": 0,
+    "Title": "Shed a Light",
+    "Description": "入塵垂手與遺世絕俗，本就是一條路的兩個方向。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81658,
+    "Goal": 0,
+    "Order": 1652,
+    "PreviousId": 0,
+    "Title": "訴說過往、此刻與未來",
+    "Description": "來到空之神殿柱殿中央區。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81659,
+    "Goal": 0,
+    "Order": 1653,
+    "PreviousId": 0,
+    "Title": "憂鬱的治療，又名黑膽切除",
+    "Description": "擊敗「梅蘭塔」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81660,
+    "Goal": 0,
+    "Order": 1654,
+    "PreviousId": 0,
+    "Title": "看展的素質",
+    "Description": "完成五個展櫃的挑戰。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81661,
+    "Goal": 0,
+    "Order": 1655,
+    "PreviousId": 0,
+    "Title": "天地一粟",
+    "Description": "高處向下看時看到的一切都很小，或許從低看高處，也不過滄海一粟。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -18734,23 +19431,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 82109,
-    "Goal": 20,
-    "Order": 2099,
-    "PreviousId": 0,
-    "Title": "畫龍點睛",
-    "Description": "在戰鬥中不曾獲得過護盾的情況下，擊敗若陀龍王。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 82099,
     "Goal": 0,
     "Order": 2100,
@@ -18910,6 +19590,23 @@
     "PreviousId": 0,
     "Title": "雷自東來",
     "Description": "被雷斧丘丘暴徒引來的落雷擊中…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 82109,
+    "Goal": 20,
+    "Order": 2099,
+    "PreviousId": 0,
+    "Title": "畫龍點睛",
+    "Description": "在戰鬥中不曾獲得過護盾的情況下，擊敗若陀龍王。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -20268,7 +20965,7 @@
     "Goal": 49,
     "Order": 2197,
     "PreviousId": 0,
-    "Title": "#若{F#妳}{M#你}渴盼鮮血…",
+    "Title": "若你渴盼鮮血…",
     "Description": "在一次「僕人」挑戰中，釋放四次血汐衝擊。",
     "FinishReward": {
       "Id": 201,
@@ -22083,6 +22780,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82308,
+    "Goal": 0,
+    "Order": 2308,
+    "PreviousId": 0,
+    "Title": "絕不意氣用事",
+    "Description": "平等地擊破過所有元素類型的「活性元素星」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -22525,6 +23239,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84026,
+    "Goal": 17,
+    "Order": 6001,
+    "PreviousId": 0,
+    "Title": "美妙旅程：序",
+    "Description": "完成「美妙旅程」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84028,
+    "Goal": 17,
+    "Order": 6110,
+    "PreviousId": 0,
+    "Title": "慧眼識妖！",
+    "Description": "正確鑑定所有情報。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84029,
     "Goal": 0,
     "Order": 5008,
@@ -22948,6 +23696,40 @@
     "Icon": "",
     "Version": "2.4",
     "IsDailyQuest": false
+  },
+  {
+    "Id": 84054,
+    "Goal": 0,
+    "Order": 5033,
+    "PreviousId": 0,
+    "Title": "安娜冒險記",
+    "Description": "幫助安娜成為一名冒險家。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
+  },
+  {
+    "Id": 84055,
+    "Goal": 0,
+    "Order": 5034,
+    "PreviousId": 0,
+    "Title": "遠大前程",
+    "Description": "一位少年即將啟程遠行…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
   },
   {
     "Id": 84056,
@@ -23698,6 +24480,958 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84100,
+    "Goal": 17,
+    "Order": 6010,
+    "PreviousId": 0,
+    "Title": "霹靂閃雷真君",
+    "Description": "見證班尼特足以影響天氣的厄運。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84101,
+    "Goal": 17,
+    "Order": 6011,
+    "PreviousId": 0,
+    "Title": "運氣即實力！",
+    "Description": "在不失誤的情況下解開機關，取得寶藏。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84102,
+    "Goal": 17,
+    "Order": 6200,
+    "PreviousId": 0,
+    "Title": "能跨越的邊界線",
+    "Description": "完成「治癒的清泉」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84103,
+    "Goal": 17,
+    "Order": 6300,
+    "PreviousId": 0,
+    "Title": "完美而堅強的女僕",
+    "Description": "完成「騎士修行之道」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84104,
+    "Goal": 17,
+    "Order": 6100,
+    "PreviousId": 0,
+    "Title": "諸邪退散",
+    "Description": "完成「尋妖覓邪記」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84105,
+    "Goal": 17,
+    "Order": 6211,
+    "PreviousId": 0,
+    "Title": "蒙德城的麻辣傳說",
+    "Description": "品嚐芭芭拉的辣味飲料。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84106,
+    "Goal": 17,
+    "Order": 6310,
+    "PreviousId": 0,
+    "Title": "「…因為羈絆。」",
+    "Description": "幫助諾艾爾找到自己強大的原因。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84107,
+    "Goal": 17,
+    "Order": 6111,
+    "PreviousId": 0,
+    "Title": "辣椒英雄",
+    "Description": "製作錯誤的冰棒，引發重雲「純陽之體」的劇烈反應。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84108,
+    "Goal": 17,
+    "Order": 6210,
+    "PreviousId": 0,
+    "Title": "偶像的可靠防線",
+    "Description": "成功勸走艾伯特和其他芭芭拉的粉絲。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84109,
+    "Goal": 17,
+    "Order": 6311,
+    "PreviousId": 0,
+    "Title": "只有玫瑰知道的世界",
+    "Description": "閱讀諾艾爾的學習筆記。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84110,
+    "Goal": 17,
+    "Order": 6400,
+    "PreviousId": 0,
+    "Title": "消除焦慮的最好辦法",
+    "Description": "完成「騎士備考之道」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84111,
+    "Goal": 17,
+    "Order": 6410,
+    "PreviousId": 0,
+    "Title": "女僕騎士不會受傷",
+    "Description": "與諾艾爾一起聽過《異國騎士璃月行記》。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84112,
+    "Goal": 17,
+    "Order": 6411,
+    "PreviousId": 0,
+    "Title": "蒙德答題王",
+    "Description": "閱讀諾艾爾的學習筆記。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84113,
+    "Goal": 17,
+    "Order": 6500,
+    "PreviousId": 0,
+    "Title": "迪奧娜特調，攪拌，不要搖",
+    "Description": "完成「貓與特調酒」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84114,
+    "Goal": 17,
+    "Order": 6510,
+    "PreviousId": 0,
+    "Title": "但是，代價是…",
+    "Description": "幫助迪奧娜找到特製基底飲品。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84115,
+    "Goal": 17,
+    "Order": 6511,
+    "PreviousId": 0,
+    "Title": "貓咪殿下",
+    "Description": "將所有貓咪帶回「貓尾酒館」。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84116,
+    "Goal": 17,
+    "Order": 6600,
+    "PreviousId": 0,
+    "Title": "皆大歡喜",
+    "Description": "完成「家政官的日常工作」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84117,
+    "Goal": 17,
+    "Order": 6610,
+    "PreviousId": 0,
+    "Title": "家政高手",
+    "Description": "在規定時間內完成大掃除。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84118,
+    "Goal": 17,
+    "Order": 6611,
+    "PreviousId": 0,
+    "Title": "滄海不歸客",
+    "Description": "與托馬一起見證犬少將的故事",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84119,
+    "Goal": 17,
+    "Order": 6700,
+    "PreviousId": 0,
+    "Title": "「高」人一等",
+    "Description": "完成「嗚呼流·生長之術」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84120,
+    "Goal": 17,
+    "Order": 6710,
+    "PreviousId": 0,
+    "Title": "貉級忍者",
+    "Description": "在敏捷度訓練中獲得早柚的最高評價。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84121,
+    "Goal": 17,
+    "Order": 6711,
+    "PreviousId": 0,
+    "Title": "料理效果：移動速度降低",
+    "Description": "沒能勸阻早柚的暴飲暴食…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84122,
+    "Goal": 17,
+    "Order": 6900,
+    "PreviousId": 0,
+    "Title": "南十字榮譽船員",
+    "Description": "完成「南十字閃耀時」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84123,
+    "Goal": 17,
+    "Order": 6910,
+    "PreviousId": 0,
+    "Title": "灑下甘露三千擔",
+    "Description": "與北斗共同參加了輕策莊的宴會。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84124,
+    "Goal": 17,
+    "Order": 6911,
+    "PreviousId": 0,
+    "Title": "孤雲閣買家俱樂部",
+    "Description": "詢問了北斗真正交易的內容。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84125,
+    "Goal": 17,
+    "Order": 6800,
+    "PreviousId": 0,
+    "Title": "海祇大將",
+    "Description": "完成「犬大將的特別行動」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84126,
+    "Goal": 17,
+    "Order": 6810,
+    "PreviousId": 0,
+    "Title": "運勢無常",
+    "Description": "在神社抽到過所有的運勢籤。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84127,
+    "Goal": 17,
+    "Order": 6811,
+    "PreviousId": 0,
+    "Title": "說還是不說，這是個問題。",
+    "Description": "在八重堂察覺了希娜小姐的真實身分。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84128,
+    "Goal": 17,
+    "Order": 7000,
+    "PreviousId": 0,
+    "Title": "天權伴星",
+    "Description": "完成「玉閣歸客至」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84129,
+    "Goal": 17,
+    "Order": 7010,
+    "PreviousId": 0,
+    "Title": "有備才能無患",
+    "Description": "魚肉，當然是越多越好。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84130,
+    "Goal": 17,
+    "Order": 7011,
+    "PreviousId": 0,
+    "Title": "過當防衛",
+    "Description": "一石激起千層浪，凝光的假期看來無福消受了。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84131,
+    "Goal": 17,
+    "Order": 7100,
+    "PreviousId": 0,
+    "Title": "曲終人未散",
+    "Description": "完成「弦歌知雅意」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84132,
+    "Goal": 17,
+    "Order": 7110,
+    "PreviousId": 0,
+    "Title": "願此刻永恆",
+    "Description": "與雲堇合影留念。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84133,
+    "Goal": 17,
+    "Order": 7111,
+    "PreviousId": 0,
+    "Title": "嚴師出高徒",
+    "Description": "在不擊中任何「藍色稻草人」的情況下完成演練。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84134,
+    "Goal": 17,
+    "Order": 7200,
+    "PreviousId": 0,
+    "Title": "荒瀧派首席顧問",
+    "Description": "完成「幫派的日常事務」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84135,
+    "Goal": 17,
+    "Order": 7210,
+    "PreviousId": 0,
+    "Title": "再看一眼！",
+    "Description": "一睹久岐忍身著巫女服的風采。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84136,
+    "Goal": 17,
+    "Order": 7211,
+    "PreviousId": 0,
+    "Title": "「樓上的區域…」",
+    "Description": "在驚動九條裟羅和久岐忍之前被勸阻。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84137,
+    "Goal": 17,
+    "Order": 7300,
+    "PreviousId": 0,
+    "Title": "你以為是本格吧？",
+    "Description": "完成「風暴捕物帳」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84138,
+    "Goal": 17,
+    "Order": 7310,
+    "PreviousId": 0,
+    "Title": "吾乃完美真探！",
+    "Description": "分析動機和犯罪事實一次成功。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84139,
+    "Goal": 17,
+    "Order": 7311,
+    "PreviousId": 0,
+    "Title": "珊瑚宮的祈禱",
+    "Description": "詢問了五郎，心海是否知道海祇島的事。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84140,
+    "Goal": 17,
+    "Order": 7400,
+    "PreviousId": 0,
+    "Title": "最佳解",
+    "Description": "完成「難解之結」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84141,
+    "Goal": 17,
+    "Order": 7410,
+    "PreviousId": 0,
+    "Title": "致一百年後的你",
+    "Description": "閱讀所有寄給琺露珊的信件。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84142,
+    "Goal": 17,
+    "Order": 7411,
+    "PreviousId": 0,
+    "Title": "機關術：從入門到…？",
+    "Description": "猜對解開七層「堆疊塔」所需的最少步數。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84143,
+    "Goal": 17,
+    "Order": 7500,
+    "PreviousId": 0,
+    "Title": "其名為「萊依拉」",
+    "Description": "完成「星本無言」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84144,
+    "Goal": 17,
+    "Order": 7510,
+    "PreviousId": 0,
+    "Title": "她已經很緊張了",
+    "Description": "在幫助萊依拉完成論文的過程中，沒有引起她進一步的焦慮。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84145,
+    "Goal": 17,
+    "Order": 7511,
+    "PreviousId": 0,
+    "Title": "仙靈與星空之秘",
+    "Description": "得到「知慧仙靈」真正的回信。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84146,
+    "Goal": 17,
+    "Order": 7600,
+    "PreviousId": 0,
+    "Title": "藝術與生活",
+    "Description": "完成「苦與幸的鐘擺」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84147,
+    "Goal": 17,
+    "Order": 7610,
+    "PreviousId": 0,
+    "Title": "學生時代",
+    "Description": "在智慧宮翻閱留有筆記的書。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84148,
+    "Goal": 17,
+    "Order": 7611,
+    "PreviousId": 0,
+    "Title": "建築設計師的浪漫",
+    "Description": "與卡維在沙漠淨土中暢聊未來。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84149,
+    "Goal": 17,
+    "Order": 7700,
+    "PreviousId": 0,
+    "Title": "尋歡作樂",
+    "Description": "完成「鬼話與甜酒」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84150,
+    "Goal": 17,
+    "Order": 7710,
+    "PreviousId": 0,
+    "Title": "幸運硬幣",
+    "Description": "參與凱亞設下的賭局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84151,
+    "Goal": 17,
+    "Order": 7711,
+    "PreviousId": 0,
+    "Title": "噓…聽！",
+    "Description": "傾聽禁閉室裡傳來的言語聲。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84152,
+    "Goal": 17,
+    "Order": 7800,
+    "PreviousId": 0,
+    "Title": "命運的示數",
+    "Description": "完成「貓與隨機數」，解鎖全部結局。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84153,
+    "Goal": 17,
+    "Order": 7810,
+    "PreviousId": 0,
+    "Title": "SPEEDRUN",
+    "Description": "說服琳妮特與你共度悠閒而平靜的一天。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84154,
+    "Goal": 17,
+    "Order": 7811,
+    "PreviousId": 0,
+    "Title": "DECKS & DETECTIVES",
+    "Description": "偵破走私案後，與琳妮特享受寧靜的茶會時光。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84155,
+    "Goal": 0,
+    "Order": 7900,
+    "PreviousId": 0,
+    "Title": "途中的見聞",
+    "Description": "見證一次逸聞。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84300,
     "Goal": 0,
     "Order": 5079,
@@ -24009,7 +25743,7 @@
     "Order": 5097,
     "PreviousId": 0,
     "Title": "渴盼已久之時",
-    "Description": "#在{F#妳}{M#你}不知道的時候，戴因斯雷布與{F#妳}{M#你}的血親展開了戰鬥…",
+    "Description": "在你不知道的時候，戴因斯雷布與你的血親展開了戰鬥…",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -25347,6 +27081,23 @@
     "IsDailyQuest": true
   },
   {
+    "Id": 84517,
+    "Goal": 0,
+    "Order": 4041,
+    "PreviousId": 0,
+    "Title": "善事有善報",
+    "Description": "拆穿瑪喬麗小姐，並獲得傑克的答謝。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84518,
     "Goal": 0,
     "Order": 4042,
@@ -25752,40 +27503,6 @@
     "Progress": 1,
     "Icon": "",
     "Version": "2.1",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84054,
-    "Goal": 0,
-    "Order": 5033,
-    "PreviousId": 0,
-    "Title": "安娜冒險記",
-    "Description": "幫助安娜成為一名冒險家。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84055,
-    "Goal": 0,
-    "Order": 5034,
-    "PreviousId": 0,
-    "Title": "遠大前程",
-    "Description": "一位少年即將啟程遠行…",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
     "IsDailyQuest": true
   },
   {
@@ -26588,992 +28305,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 84026,
-    "Goal": 17,
-    "Order": 6001,
-    "PreviousId": 0,
-    "Title": "美妙旅程：序",
-    "Description": "完成「美妙旅程」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84100,
-    "Goal": 17,
-    "Order": 6010,
-    "PreviousId": 0,
-    "Title": "霹靂閃雷真君",
-    "Description": "見證班尼特足以影響天氣的厄運。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84101,
-    "Goal": 17,
-    "Order": 6011,
-    "PreviousId": 0,
-    "Title": "運氣即實力！",
-    "Description": "在不失誤的情況下解開機關，取得寶藏。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84104,
-    "Goal": 17,
-    "Order": 6100,
-    "PreviousId": 0,
-    "Title": "諸邪退散",
-    "Description": "完成「尋妖覓邪記」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84028,
-    "Goal": 17,
-    "Order": 6110,
-    "PreviousId": 0,
-    "Title": "慧眼識妖！",
-    "Description": "正確鑑定所有情報。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84107,
-    "Goal": 17,
-    "Order": 6111,
-    "PreviousId": 0,
-    "Title": "辣椒英雄",
-    "Description": "製作錯誤的冰棒，引發重雲「純陽之體」的劇烈反應。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84102,
-    "Goal": 17,
-    "Order": 6200,
-    "PreviousId": 0,
-    "Title": "能跨越的邊界線",
-    "Description": "完成「治癒的清泉」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84108,
-    "Goal": 17,
-    "Order": 6210,
-    "PreviousId": 0,
-    "Title": "偶像的可靠防線",
-    "Description": "成功勸走艾伯特和其他芭芭拉的粉絲。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84105,
-    "Goal": 17,
-    "Order": 6211,
-    "PreviousId": 0,
-    "Title": "蒙德城的麻辣傳說",
-    "Description": "品嚐芭芭拉的辣味飲料。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84103,
-    "Goal": 17,
-    "Order": 6300,
-    "PreviousId": 0,
-    "Title": "完美而堅強的女僕",
-    "Description": "完成「騎士修行之道」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84106,
-    "Goal": 17,
-    "Order": 6310,
-    "PreviousId": 0,
-    "Title": "「…因為羈絆。」",
-    "Description": "幫助諾艾爾找到自己強大的原因。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84109,
-    "Goal": 17,
-    "Order": 6311,
-    "PreviousId": 0,
-    "Title": "只有玫瑰知道的世界",
-    "Description": "閱讀諾艾爾的學習筆記。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84110,
-    "Goal": 17,
-    "Order": 6400,
-    "PreviousId": 0,
-    "Title": "消除焦慮的最好辦法",
-    "Description": "完成「騎士備考之道」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84111,
-    "Goal": 17,
-    "Order": 6410,
-    "PreviousId": 0,
-    "Title": "女僕騎士不會受傷",
-    "Description": "與諾艾爾一起聽過《異國騎士璃月行記》。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84112,
-    "Goal": 17,
-    "Order": 6411,
-    "PreviousId": 0,
-    "Title": "蒙德答題王",
-    "Description": "閱讀諾艾爾的學習筆記。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84113,
-    "Goal": 17,
-    "Order": 6500,
-    "PreviousId": 0,
-    "Title": "迪奧娜特調，攪拌，不要搖",
-    "Description": "完成「貓與特調酒」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84114,
-    "Goal": 17,
-    "Order": 6510,
-    "PreviousId": 0,
-    "Title": "但是，代價是…",
-    "Description": "幫助迪奧娜找到特製基底飲品。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84115,
-    "Goal": 17,
-    "Order": 6511,
-    "PreviousId": 0,
-    "Title": "貓咪殿下",
-    "Description": "將所有貓咪帶回「貓尾酒館」。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84116,
-    "Goal": 17,
-    "Order": 6600,
-    "PreviousId": 0,
-    "Title": "皆大歡喜",
-    "Description": "完成「家政官的日常工作」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84117,
-    "Goal": 17,
-    "Order": 6610,
-    "PreviousId": 0,
-    "Title": "家政高手",
-    "Description": "在規定時間內完成大掃除。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84118,
-    "Goal": 17,
-    "Order": 6611,
-    "PreviousId": 0,
-    "Title": "滄海不歸客",
-    "Description": "與托馬一起見證犬少將的故事",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84119,
-    "Goal": 17,
-    "Order": 6700,
-    "PreviousId": 0,
-    "Title": "「高」人一等",
-    "Description": "完成「嗚呼流·生長之術」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84120,
-    "Goal": 17,
-    "Order": 6710,
-    "PreviousId": 0,
-    "Title": "貉級忍者",
-    "Description": "在敏捷度訓練中獲得早柚的最高評價。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84121,
-    "Goal": 17,
-    "Order": 6711,
-    "PreviousId": 0,
-    "Title": "料理效果：移動速度降低",
-    "Description": "沒能勸阻早柚的暴飲暴食…",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84122,
-    "Goal": 17,
-    "Order": 6900,
-    "PreviousId": 0,
-    "Title": "南十字榮譽船員",
-    "Description": "完成「南十字閃耀時」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84123,
-    "Goal": 17,
-    "Order": 6910,
-    "PreviousId": 0,
-    "Title": "灑下甘露三千擔",
-    "Description": "與北斗共同參加了輕策莊的宴會。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84124,
-    "Goal": 17,
-    "Order": 6911,
-    "PreviousId": 0,
-    "Title": "孤雲閣買家俱樂部",
-    "Description": "詢問了北斗真正交易的內容。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84125,
-    "Goal": 17,
-    "Order": 6800,
-    "PreviousId": 0,
-    "Title": "海祇大將",
-    "Description": "完成「犬大將的特別行動」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84126,
-    "Goal": 17,
-    "Order": 6810,
-    "PreviousId": 0,
-    "Title": "運勢無常",
-    "Description": "在神社抽到過所有的運勢籤。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84127,
-    "Goal": 17,
-    "Order": 6811,
-    "PreviousId": 0,
-    "Title": "說還是不說，這是個問題。",
-    "Description": "在八重堂察覺了希娜小姐的真實身分。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84128,
-    "Goal": 17,
-    "Order": 7000,
-    "PreviousId": 0,
-    "Title": "天權伴星",
-    "Description": "完成「玉閣歸客至」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84129,
-    "Goal": 17,
-    "Order": 7010,
-    "PreviousId": 0,
-    "Title": "有備才能無患",
-    "Description": "魚肉，當然是越多越好。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84130,
-    "Goal": 17,
-    "Order": 7011,
-    "PreviousId": 0,
-    "Title": "過當防衛",
-    "Description": "一石激起千層浪，凝光的假期看來無福消受了。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84131,
-    "Goal": 17,
-    "Order": 7100,
-    "PreviousId": 0,
-    "Title": "曲終人未散",
-    "Description": "完成「弦歌知雅意」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84132,
-    "Goal": 17,
-    "Order": 7110,
-    "PreviousId": 0,
-    "Title": "願此刻永恆",
-    "Description": "與雲堇合影留念。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84133,
-    "Goal": 17,
-    "Order": 7111,
-    "PreviousId": 0,
-    "Title": "嚴師出高徒",
-    "Description": "在不擊中任何「藍色稻草人」的情況下完成演練。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84134,
-    "Goal": 17,
-    "Order": 7200,
-    "PreviousId": 0,
-    "Title": "荒瀧派首席顧問",
-    "Description": "完成「幫派的日常事務」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84135,
-    "Goal": 17,
-    "Order": 7210,
-    "PreviousId": 0,
-    "Title": "再看一眼！",
-    "Description": "一睹久岐忍身著巫女服的風采。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84136,
-    "Goal": 17,
-    "Order": 7211,
-    "PreviousId": 0,
-    "Title": "「樓上的區域…」",
-    "Description": "在驚動九條裟羅和久岐忍之前被勸阻。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84137,
-    "Goal": 17,
-    "Order": 7300,
-    "PreviousId": 0,
-    "Title": "#{F#妳}{M#你}以為是本格吧？",
-    "Description": "完成「風暴捕物帳」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84138,
-    "Goal": 17,
-    "Order": 7310,
-    "PreviousId": 0,
-    "Title": "吾乃完美真探！",
-    "Description": "分析動機和犯罪事實一次成功。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84139,
-    "Goal": 17,
-    "Order": 7311,
-    "PreviousId": 0,
-    "Title": "珊瑚宮的祈禱",
-    "Description": "詢問了五郎，心海是否知道海祇島的事。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84140,
-    "Goal": 17,
-    "Order": 7400,
-    "PreviousId": 0,
-    "Title": "最佳解",
-    "Description": "完成「難解之結」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84141,
-    "Goal": 17,
-    "Order": 7410,
-    "PreviousId": 0,
-    "Title": "致一百年後的你",
-    "Description": "閱讀所有寄給琺露珊的信件。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84142,
-    "Goal": 17,
-    "Order": 7411,
-    "PreviousId": 0,
-    "Title": "機關術：從入門到…？",
-    "Description": "猜對解開七層「堆疊塔」所需的最少步數。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84143,
-    "Goal": 17,
-    "Order": 7500,
-    "PreviousId": 0,
-    "Title": "其名為「萊依拉」",
-    "Description": "完成「星本無言」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84144,
-    "Goal": 17,
-    "Order": 7510,
-    "PreviousId": 0,
-    "Title": "她已經很緊張了",
-    "Description": "在幫助萊依拉完成論文的過程中，沒有引起她進一步的焦慮。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84145,
-    "Goal": 17,
-    "Order": 7511,
-    "PreviousId": 0,
-    "Title": "仙靈與星空之秘",
-    "Description": "得到「知慧仙靈」真正的回信。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84146,
-    "Goal": 17,
-    "Order": 7600,
-    "PreviousId": 0,
-    "Title": "藝術與生活",
-    "Description": "完成「苦與幸的鐘擺」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84147,
-    "Goal": 17,
-    "Order": 7610,
-    "PreviousId": 0,
-    "Title": "學生時代",
-    "Description": "在智慧宮翻閱留有筆記的書。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84148,
-    "Goal": 17,
-    "Order": 7611,
-    "PreviousId": 0,
-    "Title": "建築設計師的浪漫",
-    "Description": "與卡維在沙漠淨土中暢聊未來。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84149,
-    "Goal": 17,
-    "Order": 7700,
-    "PreviousId": 0,
-    "Title": "尋歡作樂",
-    "Description": "完成「鬼話與甜酒」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84150,
-    "Goal": 17,
-    "Order": 7710,
-    "PreviousId": 0,
-    "Title": "幸運硬幣",
-    "Description": "參與凱亞設下的賭局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84151,
-    "Goal": 17,
-    "Order": 7711,
-    "PreviousId": 0,
-    "Title": "噓…聽！",
-    "Description": "傾聽禁閉室裡傳來的言語聲。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84152,
-    "Goal": 17,
-    "Order": 7800,
-    "PreviousId": 0,
-    "Title": "命運的示數",
-    "Description": "完成「貓與隨機數」，解鎖全部結局。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84153,
-    "Goal": 17,
-    "Order": 7810,
-    "PreviousId": 0,
-    "Title": "SPEEDRUN",
-    "Description": "#說服琳妮特與{F#妳}{M#你}共度悠閒而平靜的一天。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84154,
-    "Goal": 17,
-    "Order": 7811,
-    "PreviousId": 0,
-    "Title": "DECKS & DETECTIVES",
-    "Description": "偵破走私案後，與琳妮特享受寧靜的茶會時光。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84155,
-    "Goal": 0,
-    "Order": 7900,
-    "PreviousId": 0,
-    "Title": "途中的見聞",
-    "Description": "見證一次逸聞。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86001,
     "Goal": 13,
     "Order": 9001,
@@ -27795,23 +28526,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86021,
-    "Goal": 21,
-    "Order": 9014,
-    "PreviousId": 0,
-    "Title": "邪眼的性能不是戰力差距的決定因素",
-    "Description": "與其他玩家一同戰勝「公子」。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86015,
     "Goal": 21,
     "Order": 9015,
@@ -27903,6 +28617,23 @@
     "PreviousId": 0,
     "Title": "「機關陣列沒有永恒」",
     "Description": "與其他玩家一同戰勝恒常機關陣列。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 86021,
+    "Goal": 21,
+    "Order": 9014,
+    "PreviousId": 0,
+    "Title": "邪眼的性能不是戰力差距的決定因素",
+    "Description": "與其他玩家一同戰勝「公子」。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -28373,40 +29104,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86057,
-    "Goal": 64,
-    "Order": 9048,
-    "PreviousId": 0,
-    "Title": "又斬了無趣的…",
-    "Description": "與其他玩家一同戰勝深邃摹結株。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 86058,
-    "Goal": 64,
-    "Order": 9049,
-    "PreviousId": 0,
-    "Title": "巫士的最終試煉",
-    "Description": "與其他玩家一同戰勝靈覺隱修的迷者。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86051,
     "Goal": 64,
     "Order": 9050,
@@ -28509,241 +29206,37 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80475,
-    "Goal": 67,
-    "Order": 439,
+    "Id": 86057,
+    "Goal": 64,
+    "Order": 9048,
     "PreviousId": 0,
-    "Title": "隙間的尋寶者",
-    "Description": "在風息山、空之神殿開啟{param0}個寶箱。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 45,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80476,
-    "Goal": 67,
-    "Order": 440,
-    "PreviousId": 80475,
-    "Title": "隙間的尋寶者",
-    "Description": "在風息山、空之神殿開啟{param0}個寶箱。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 90,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80477,
-    "Goal": 67,
-    "Order": 441,
-    "PreviousId": 80476,
-    "Title": "隙間的尋寶者",
-    "Description": "在風息山、空之神殿開啟{param0}個寶箱。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 180,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80487,
-    "Goal": 67,
-    "Order": 442,
-    "PreviousId": 0,
-    "Title": "隙間的冒險家",
-    "Description": "在風息山、空之神殿完成{param0}個大世界限時挑戰。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 7,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80488,
-    "Goal": 67,
-    "Order": 443,
-    "PreviousId": 80487,
-    "Title": "隙間的冒險家",
-    "Description": "在風息山、空之神殿完成{param0}個大世界限時挑戰。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 14,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80489,
-    "Goal": 67,
-    "Order": 444,
-    "PreviousId": 80488,
-    "Title": "隙間的冒險家",
-    "Description": "在風息山、空之神殿完成{param0}個大世界限時挑戰。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 28,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80479,
-    "Goal": 67,
-    "Order": 436,
-    "PreviousId": 0,
-    "Title": "山風無色",
-    "Description": "點亮蒙德區域中，風息山的地圖。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80480,
-    "Goal": 67,
-    "Order": 437,
-    "PreviousId": 0,
-    "Title": "廢棄療養院下車之旅",
-    "Description": "點亮蒙德區域中，空之神殿的地圖。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80481,
-    "Goal": 67,
-    "Order": 449,
-    "PreviousId": 0,
-    "Title": "再見，魔山",
-    "Description": "完成「山中好長日」。",
+    "Title": "又斬了無趣的…",
+    "Description": "與其他玩家一同戰勝深邃摹結株。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
-    "Id": 80482,
-    "Goal": 67,
-    "Order": 448,
+    "Id": 86058,
+    "Goal": 64,
+    "Order": 9049,
     "PreviousId": 0,
-    "Title": "一個告別與三個再會",
-    "Description": "為彩特琳德找回所有丟失的東西。",
+    "Title": "巫士的最終試煉",
+    "Description": "與其他玩家一同戰勝靈覺隱修的迷者。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80484,
-    "Goal": 67,
-    "Order": 447,
-    "PreviousId": 0,
-    "Title": "誠至金開",
-    "Description": "解除風息山的宗室密藏之地與空之神殿的諸界秘展之廳的封印。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 2,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80485,
-    "Goal": 67,
-    "Order": 446,
-    "PreviousId": 0,
-    "Title": "空間與非自由意志",
-    "Description": "將空之神殿的摹憶中樞等級供奉至最高等級。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80486,
-    "Goal": 67,
-    "Order": 438,
-    "PreviousId": 0,
-    "Title": "提托諾斯的晨歌",
-    "Description": "解鎖蒙德區域中，風息山、空之神殿所有傳送錨點。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 31,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80500,
-    "Goal": 67,
-    "Order": 445,
-    "PreviousId": 0,
-    "Title": "隙間的引路人",
-    "Description": "在風息山、空之神殿追隨3個仙靈，並點亮仙靈之庭。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   }
 ]

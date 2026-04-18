@@ -1547,6 +1547,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80092,
+    "Goal": 0,
+    "Order": 1026,
+    "PreviousId": 0,
+    "Title": "布武雷国",
+    "Description": "稲妻での評判がLv.10に達する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80093,
     "Goal": 24,
     "Order": 93,
@@ -1768,6 +1785,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80108,
+    "Goal": 26,
+    "Order": 111,
+    "PreviousId": 0,
+    "Title": "セイライ逐雷記",
+    "Description": "「セイライ逐雷記」をクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80109,
+    "Goal": 26,
+    "Order": 112,
+    "PreviousId": 0,
+    "Title": "同じ月明かり",
+    "Description": "「月浴の淵」をクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80110,
     "Goal": 26,
     "Order": 108,
@@ -1814,40 +1865,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 24,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80108,
-    "Goal": 26,
-    "Order": 111,
-    "PreviousId": 0,
-    "Title": "セイライ逐雷記",
-    "Description": "「セイライ逐雷記」をクリアする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80109,
-    "Goal": 26,
-    "Order": 112,
-    "PreviousId": 0,
-    "Title": "同じ月明かり",
-    "Description": "「月浴の淵」をクリアする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "2.1",
     "IsDailyQuest": false
@@ -3655,6 +3672,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80227,
+    "Goal": 38,
+    "Order": 217,
+    "PreviousId": 0,
+    "Title": "ビルキースの哀歌",
+    "Description": "「ビルキースの哀歌」をクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.4",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80228,
     "Goal": 38,
     "Order": 208,
@@ -3803,23 +3837,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 28,
-    "Icon": "",
-    "Version": "3.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80227,
-    "Goal": 38,
-    "Order": 217,
-    "PreviousId": 0,
-    "Title": "ビルキースの哀歌",
-    "Description": "「ビルキースの哀歌」をクリアする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "3.4",
     "IsDailyQuest": false
@@ -4029,23 +4046,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80250,
-    "Goal": 41,
-    "Order": 230,
-    "PreviousId": 0,
-    "Title": "赤草甘露",
-    "Description": "甘露の池をLv.Maxまで上げる。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80249,
     "Goal": 41,
     "Order": 231,
@@ -4055,6 +4055,23 @@
     "FinishReward": {
       "Id": 201,
       "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80250,
+    "Goal": 41,
+    "Order": 230,
+    "PreviousId": 0,
+    "Title": "赤草甘露",
+    "Description": "甘露の池をLv.Maxまで上げる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
@@ -5389,23 +5406,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80346,
-    "Goal": 51,
-    "Order": 308,
-    "PreviousId": 0,
-    "Title": "夜の贈り物を探して·万火に焼かれる野原·1",
-    "Description": "ナタ地域の万火のほとぎ、テケメカンの谷、コアテペック山、トヤック源泉地の全ての部族秘蔵所の封印を解除する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "",
-    "Version": "5.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80332,
     "Goal": 51,
     "Order": 309,
@@ -5589,6 +5589,23 @@
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
     "Icon": "UI_AchievementIcon_A019",
+    "Version": "5.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80346,
+    "Goal": 51,
+    "Order": 308,
+    "PreviousId": 0,
+    "Title": "夜の贈り物を探して·万火に焼かれる野原·1",
+    "Description": "ナタ地域の万火のほとぎ、テケメカンの谷、コアテペック山、トヤック源泉地の全ての部族秘蔵所の封印を解除する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "",
     "Version": "5.0",
     "IsDailyQuest": false
   },
@@ -6885,40 +6902,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 81600,
-    "Goal": 63,
-    "Order": 415,
-    "PreviousId": 0,
-    "Title": "遺骸の秘密を紡ぐ者",
-    "Description": "初代詠月使が封印した聖地を探索した。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81601,
-    "Goal": 63,
-    "Order": 416,
-    "PreviousId": 0,
-    "Title": "父の罪",
-    "Description": "クーヴァキ実験設計局での冒険をクリアする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80456,
     "Goal": 65,
     "Order": 417,
@@ -7242,6 +7225,244 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80475,
+    "Goal": 67,
+    "Order": 439,
+    "PreviousId": 0,
+    "Title": "狭間のトレジャーハンター",
+    "Description": "風止みの山、空の神殿で宝箱を45個開ける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 45,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80476,
+    "Goal": 67,
+    "Order": 440,
+    "PreviousId": 80475,
+    "Title": "狭間のトレジャーハンター",
+    "Description": "風止みの山、空の神殿で宝箱を90個開ける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 90,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80477,
+    "Goal": 67,
+    "Order": 441,
+    "PreviousId": 80476,
+    "Title": "狭間のトレジャーハンター",
+    "Description": "風止みの山、空の神殿で宝箱を180個開ける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 180,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80479,
+    "Goal": 67,
+    "Order": 436,
+    "PreviousId": 0,
+    "Title": "色無き風は神秘の山に",
+    "Description": "モンド地域の風止みの山のマップを開放する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80480,
+    "Goal": 67,
+    "Order": 437,
+    "PreviousId": 0,
+    "Title": "ぶらり廃療養所下車の旅",
+    "Description": "モンド地域の空の神殿のマップを開放する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80481,
+    "Goal": 67,
+    "Order": 449,
+    "PreviousId": 0,
+    "Title": "さらば、魔の山",
+    "Description": "「山の長い一日」をクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80482,
+    "Goal": 67,
+    "Order": 448,
+    "PreviousId": 0,
+    "Title": "一つの離別と三つの再会",
+    "Description": "カテリンドが失くした物をすべて見つけてあげる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80484,
+    "Goal": 67,
+    "Order": 447,
+    "PreviousId": 0,
+    "Title": "To a heart that's true",
+    "Description": "風止みの山にある旧貴族の秘蔵の地と、空の神殿にある諸界の秘蔵展示室の封印を解く。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80485,
+    "Goal": 67,
+    "Order": 446,
+    "PreviousId": 0,
+    "Title": "空間と不自由",
+    "Description": "空の神殿のメモリーコアをLv.Maxまで上げる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80486,
+    "Goal": 67,
+    "Order": 438,
+    "PreviousId": 0,
+    "Title": "ティトノスに捧ぐ朝の詩",
+    "Description": "モンド地域にある風止みの山、空の神殿の全てのワープポイントを開放する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 31,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80487,
+    "Goal": 67,
+    "Order": 442,
+    "PreviousId": 0,
+    "Title": "狭間の冒険者",
+    "Description": "風止みの山、空の神殿での時間制限挑戦を7個クリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 7,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80488,
+    "Goal": 67,
+    "Order": 443,
+    "PreviousId": 80487,
+    "Title": "狭間の冒険者",
+    "Description": "風止みの山、空の神殿での時間制限挑戦を14個クリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 14,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80489,
+    "Goal": 67,
+    "Order": 444,
+    "PreviousId": 80488,
+    "Title": "狭間の冒険者",
+    "Description": "風止みの山、空の神殿での時間制限挑戦を28個クリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 28,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80500,
+    "Goal": 67,
+    "Order": 445,
+    "PreviousId": 0,
+    "Title": "狭間の導き",
+    "Description": "風止みの山と空の神殿で仙霊を3体追いかけ、仙霊ノ庭を灯す。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81000,
     "Goal": 0,
     "Order": 1000,
@@ -7562,23 +7783,6 @@
     "Progress": 1,
     "Icon": "UI_AchievementIcon_O001",
     "Version": "1.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80092,
-    "Goal": 0,
-    "Order": 1026,
-    "PreviousId": 0,
-    "Title": "布武雷国",
-    "Description": "稲妻での評判がLv.10に達する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "2.0",
     "IsDailyQuest": false
   },
   {
@@ -11853,7 +12057,7 @@
     "Goal": 0,
     "Order": 1286,
     "PreviousId": 0,
-    "Title": "#「{M#俺}{F#私}もウェネトが大っ嫌い！」",
+    "Title": "「{M#俺}{F#私}もウェネトが大っ嫌い！」",
     "Description": "初めてウェネトによる襲撃を受ける。",
     "FinishReward": {
       "Id": 201,
@@ -12359,23 +12563,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 81339,
-    "Goal": 0,
-    "Order": 1317,
-    "PreviousId": 0,
-    "Title": "豊饒の海",
-    "Description": "花海のすべての池が生気を取り戻した。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 81331,
     "Goal": 0,
     "Order": 1318,
@@ -12507,6 +12694,23 @@
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 15,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81339,
+    "Goal": 0,
+    "Order": 1317,
+    "PreviousId": 0,
+    "Title": "豊饒の海",
+    "Description": "花海のすべての池が生気を取り戻した。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
     "Icon": "",
     "Version": "3.6",
     "IsDailyQuest": false
@@ -13396,6 +13600,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81394,
+    "Goal": 0,
+    "Order": 1378,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81395,
     "Goal": 0,
     "Order": 1379,
@@ -13427,6 +13648,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81397,
+    "Goal": 0,
+    "Order": 1381,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13634,6 +13872,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81410,
+    "Goal": 0,
+    "Order": 1394,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81411,
     "Goal": 0,
     "Order": 1395,
@@ -13648,6 +13903,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81412,
+    "Goal": 0,
+    "Order": 1396,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81413,
+    "Goal": 0,
+    "Order": 1397,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13719,6 +14008,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81420,
+    "Goal": 0,
+    "Order": 1404,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81421,
+    "Goal": 0,
+    "Order": 1405,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81422,
     "Goal": 0,
     "Order": 1406,
@@ -13784,6 +14107,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81426,
+    "Goal": 0,
+    "Order": 1410,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -16422,6 +16762,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81600,
+    "Goal": 63,
+    "Order": 415,
+    "PreviousId": 0,
+    "Title": "遺骸の秘密を紡ぐ者",
+    "Description": "初代詠月使が封印した聖地を探索した。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81601,
+    "Goal": 63,
+    "Order": 416,
+    "PreviousId": 0,
+    "Title": "父の罪",
+    "Description": "クーヴァキ実験設計局での冒険をクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81602,
     "Goal": 0,
     "Order": 1597,
@@ -17116,6 +17490,329 @@
     "Progress": 1,
     "Icon": "",
     "Version": "6.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81643,
+    "Goal": 0,
+    "Order": 1637,
+    "PreviousId": 0,
+    "Title": "反省すべき人はほかにいる…",
+    "Description": "古塔の下の警戒装置は、もはや狂風で点滅することはない。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81644,
+    "Goal": 0,
+    "Order": 1638,
+    "PreviousId": 0,
+    "Title": "良書を愛する心",
+    "Description": "本のページで隠れていた宝箱をすべて見つける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81645,
+    "Goal": 0,
+    "Order": 1639,
+    "PreviousId": 0,
+    "Title": "聖杯と奇跡は確かに存在する",
+    "Description": "『エリニー』の冒険をクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81646,
+    "Goal": 0,
+    "Order": 1640,
+    "PreviousId": 0,
+    "Title": "ひきだしにエコシステム",
+    "Description": "命は豊かになっていく。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81647,
+    "Goal": 0,
+    "Order": 1641,
+    "PreviousId": 0,
+    "Title": "その資格がある、おぉその資格がある",
+    "Description": "敷居を跨ぐ資格があるかどうかは、敷居を回り込む方法を思いつくかどうかにかかっている…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81648,
+    "Goal": 0,
+    "Order": 1642,
+    "PreviousId": 0,
+    "Title": "全面サポート",
+    "Description": "…もっとも、挑戦には「二面」しかないのだが。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81649,
+    "Goal": 0,
+    "Order": 1643,
+    "PreviousId": 0,
+    "Title": "きっと右利きなんだろう",
+    "Description": "みっちゃんと協力して初めて空間能力を発動する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81650,
+    "Goal": 0,
+    "Order": 1644,
+    "PreviousId": 0,
+    "Title": "ナイト・ミュージアム",
+    "Description": "ショーケースの中のものには触らないように…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81651,
+    "Goal": 0,
+    "Order": 1645,
+    "PreviousId": 0,
+    "Title": "ライラックの庭園",
+    "Description": "カテリンドとお姉さんの「思い出」に初めて触れる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81652,
+    "Goal": 0,
+    "Order": 1646,
+    "PreviousId": 0,
+    "Title": "オールド・スクール・エッセンシャル",
+    "Description": "伝説の冒険、そしてそれを構成するもの…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81653,
+    "Goal": 0,
+    "Order": 1647,
+    "PreviousId": 0,
+    "Title": "夢より生まれし翼",
+    "Description": "新たな翼を動かしてみよう…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81654,
+    "Goal": 0,
+    "Order": 1648,
+    "PreviousId": 0,
+    "Title": "掌の上の世界",
+    "Description": "ミニチュア庭の内部を初めて観察する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81655,
+    "Goal": 0,
+    "Order": 1649,
+    "PreviousId": 0,
+    "Title": "裁雨の幽光はどこに？",
+    "Description": "それは過去の、義侠心にあふれる者の物語である。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81656,
+    "Goal": 0,
+    "Order": 1650,
+    "PreviousId": 0,
+    "Title": "流るる雲に視線を遮られようとも",
+    "Description": "山の頂に立てば、浮世に心が縛られることはないだろう。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81657,
+    "Goal": 0,
+    "Order": 1651,
+    "PreviousId": 0,
+    "Title": "Shed a Light",
+    "Description": "俗世と向き合うか、それとも離れるか——方向は違えど、辿るのは同じ道であろう。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81658,
+    "Goal": 0,
+    "Order": 1652,
+    "PreviousId": 0,
+    "Title": "過去と現在と未来",
+    "Description": "空の神殿の千柱中央エリアへ向かう。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81659,
+    "Goal": 0,
+    "Order": 1653,
+    "PreviousId": 0,
+    "Title": "鬱の治療、別名「石の切除」",
+    "Description": "「メランタ」を倒す。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81660,
+    "Goal": 0,
+    "Order": 1654,
+    "PreviousId": 0,
+    "Title": "観覧のマナー",
+    "Description": "ショーケースの挑戦を5つクリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81661,
+    "Goal": 0,
+    "Order": 1655,
+    "PreviousId": 0,
+    "Title": "滄海の一粟",
+    "Description": "高所から見下ろせば何もかも小さく見える。しかし、低所から見上げても、それは大海に浮かぶ一粒の粟に過ぎない。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -18734,23 +19431,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 82109,
-    "Goal": 20,
-    "Order": 2099,
-    "PreviousId": 0,
-    "Title": "画龍点睛",
-    "Description": "一度もシールド状態にならずに、若陀龍王を倒す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 82099,
     "Goal": 0,
     "Order": 2100,
@@ -18910,6 +19590,23 @@
     "PreviousId": 0,
     "Title": "出でよ雷",
     "Description": "ヒルチャール暴徒·雷斧が引き起こした落雷に当たる…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 82109,
+    "Goal": 20,
+    "Order": 2099,
+    "PreviousId": 0,
+    "Title": "画龍点睛",
+    "Description": "一度もシールド状態にならずに、若陀龍王を倒す。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -22083,6 +22780,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82308,
+    "Goal": 0,
+    "Order": 2308,
+    "PreviousId": 0,
+    "Title": "ひいきは絶対せず！",
+    "Description": "すべての元素タイプの「活性元素星」を平等に破壊した。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -22525,6 +23239,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84026,
+    "Goal": 17,
+    "Order": 6001,
+    "PreviousId": 0,
+    "Title": "素晴らしい旅：序",
+    "Description": "「素晴らしい旅」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84028,
+    "Goal": 17,
+    "Order": 6110,
+    "PreviousId": 0,
+    "Title": "慧眼の士！",
+    "Description": "すべての手がかりを鑑定する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84029,
     "Goal": 0,
     "Order": 5008,
@@ -22597,8 +23345,8 @@
     "Goal": 0,
     "Order": 5012,
     "PreviousId": 0,
-    "Title": "#{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYFIRST|INFO_FEMALE_PRONOUN_GIRLFIRST]}たちはいずれ再会する",
-    "Description": "#「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYFIRST|INFO_FEMALE_PRONOUN_GIRLFIRST]}たちはいずれ再会する」をクリアする。",
+    "Title": "{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYFIRST|INFO_FEMALE_PRONOUN_GIRLFIRST]}たちはいずれ再会する",
+    "Description": "「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYFIRST|INFO_FEMALE_PRONOUN_GIRLFIRST]}たちはいずれ再会する」をクリアする。",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -22948,6 +23696,40 @@
     "Icon": "",
     "Version": "2.4",
     "IsDailyQuest": false
+  },
+  {
+    "Id": 84054,
+    "Goal": 0,
+    "Order": 5033,
+    "PreviousId": 0,
+    "Title": "アナ冒険記",
+    "Description": "アナが冒険者になるための手助けをする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
+  },
+  {
+    "Id": 84055,
+    "Goal": 0,
+    "Order": 5034,
+    "PreviousId": 0,
+    "Title": "前途洋洋",
+    "Description": "ある少年の長い旅路が始まる…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
   },
   {
     "Id": 84056,
@@ -23695,6 +24477,958 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84100,
+    "Goal": 17,
+    "Order": 6010,
+    "PreviousId": 0,
+    "Title": "霹靂閃雷真君",
+    "Description": "天気まで左右するベネットの「不運」を見届ける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84101,
+    "Goal": 17,
+    "Order": 6011,
+    "PreviousId": 0,
+    "Title": "運即ち実力！",
+    "Description": "ミスしない状況下で装置を解き、宝を手に入れる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84102,
+    "Goal": 17,
+    "Order": 6200,
+    "PreviousId": 0,
+    "Title": "越えられるボーダーライン",
+    "Description": "「癒しの清泉」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84103,
+    "Goal": 17,
+    "Order": 6300,
+    "PreviousId": 0,
+    "Title": "強く完璧なメイド",
+    "Description": "「騎士修行の道」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84104,
+    "Goal": 17,
+    "Order": 6100,
+    "PreviousId": 0,
+    "Title": "諸悪よ、散れ",
+    "Description": "「尋妖探邪記」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84105,
+    "Goal": 17,
+    "Order": 6211,
+    "PreviousId": 0,
+    "Title": "モンド城の激辛伝説",
+    "Description": "バーバラのスパイシードリンクを飲んでみる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84106,
+    "Goal": 17,
+    "Order": 6310,
+    "PreviousId": 0,
+    "Title": "「…絆があるから。」",
+    "Description": "ノエルを手伝って、彼女が強い理由を探し出す。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84107,
+    "Goal": 17,
+    "Order": 6111,
+    "PreviousId": 0,
+    "Title": "唐辛子英雄",
+    "Description": "間違ったアイスを作り、重雲の「純陽の体」を強く反応させる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84108,
+    "Goal": 17,
+    "Order": 6210,
+    "PreviousId": 0,
+    "Title": "アイドルの頼もしい防御線",
+    "Description": "アルバートと他のバーバラのファンを説得するのに成功する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84109,
+    "Goal": 17,
+    "Order": 6311,
+    "PreviousId": 0,
+    "Title": "バラのみぞ知るセカイ",
+    "Description": "ノエルの学習ノートを読む。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84110,
+    "Goal": 17,
+    "Order": 6400,
+    "PreviousId": 0,
+    "Title": "最適なストレス解消法",
+    "Description": "「騎士試験の道」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84111,
+    "Goal": 17,
+    "Order": 6410,
+    "PreviousId": 0,
+    "Title": "メイド騎士は傷つかない",
+    "Description": "ノエルと共に『異国騎士璃月記行』を聞く。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84112,
+    "Goal": 17,
+    "Order": 6411,
+    "PreviousId": 0,
+    "Title": "モンドの学習王",
+    "Description": "ノエルの学習ノートを読む。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84113,
+    "Goal": 17,
+    "Order": 6500,
+    "PreviousId": 0,
+    "Title": "ディオナスペシャルを。シェイクせずにステアで",
+    "Description": "「猫とスペシャルドリンク」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84114,
+    "Goal": 17,
+    "Order": 6510,
+    "PreviousId": 0,
+    "Title": "しかし、その代価は…",
+    "Description": "ディオナを手伝ってスペシャルベースドリンクを探し出す。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84115,
+    "Goal": 17,
+    "Order": 6511,
+    "PreviousId": 0,
+    "Title": "ネコ殿下",
+    "Description": "全ての猫を「キャッツテール」へ連れ戻す。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84116,
+    "Goal": 17,
+    "Order": 6600,
+    "PreviousId": 0,
+    "Title": "誰もかれも大喜び",
+    "Description": "「家司の日頃の業務」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84117,
+    "Goal": 17,
+    "Order": 6610,
+    "PreviousId": 0,
+    "Title": "家政の達人",
+    "Description": "制限時間内に大掃除を完了する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84118,
+    "Goal": 17,
+    "Order": 6611,
+    "PreviousId": 0,
+    "Title": "滄海の帰らぬ者",
+    "Description": "トーマと共に犬少将の物語を見届ける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84119,
+    "Goal": 17,
+    "Order": 6700,
+    "PreviousId": 0,
+    "Title": "一頭地を「出だす」",
+    "Description": "「嗚呼流·背伸びの術」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84120,
+    "Goal": 17,
+    "Order": 6710,
+    "PreviousId": 0,
+    "Title": "貉級忍者",
+    "Description": "敏捷度訓練で早柚の最高の評価を得る。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84121,
+    "Goal": 17,
+    "Order": 6711,
+    "PreviousId": 0,
+    "Title": "料理効果：移動速度低下",
+    "Description": "早柚が暴飲暴食するのを阻止できなかった…",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84122,
+    "Goal": 17,
+    "Order": 6900,
+    "PreviousId": 0,
+    "Title": "南十字栄誉船員",
+    "Description": "「南十字が輝く時」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84123,
+    "Goal": 17,
+    "Order": 6910,
+    "PreviousId": 0,
+    "Title": "杯を交わす喜び",
+    "Description": "北斗と共に軽策荘の夕食会に参加した",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84124,
+    "Goal": 17,
+    "Order": 6911,
+    "PreviousId": 0,
+    "Title": "孤雲閣の買い手俱楽部",
+    "Description": "北斗に本当の取引内容を聞く。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84125,
+    "Goal": 17,
+    "Order": 6800,
+    "PreviousId": 0,
+    "Title": "海祇大将",
+    "Description": "「犬大将の特別行動」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84126,
+    "Goal": 17,
+    "Order": 6810,
+    "PreviousId": 0,
+    "Title": "運勢無常",
+    "Description": "神社でおみくじの全運勢を引いたことがある。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84127,
+    "Goal": 17,
+    "Order": 6811,
+    "PreviousId": 0,
+    "Title": "話すべきか黙っておくべきか、それが問題だ",
+    "Description": "八重堂でヒナさんの正体に気づく。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84128,
+    "Goal": 17,
+    "Order": 7000,
+    "PreviousId": 0,
+    "Title": "天権伴星",
+    "Description": "「玉閣に来たし帰客」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84129,
+    "Goal": 17,
+    "Order": 7010,
+    "PreviousId": 0,
+    "Title": "備えあれば憂いなし",
+    "Description": "魚肉は当然、多ければ多いほど良いのだ。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84130,
+    "Goal": 17,
+    "Order": 7011,
+    "PreviousId": 0,
+    "Title": "過剰防衛",
+    "Description": "一つの石が千の波を巻き起こす。どうやら凝光は休暇を楽しめないようだ。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84131,
+    "Goal": 17,
+    "Order": 7100,
+    "PreviousId": 0,
+    "Title": "余韻浸る観客",
+    "Description": "「雅意を知りし弦歌」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84132,
+    "Goal": 17,
+    "Order": 7110,
+    "PreviousId": 0,
+    "Title": "この時が永遠であれ",
+    "Description": "雲菫と写真を撮る。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84133,
+    "Goal": 17,
+    "Order": 7111,
+    "PreviousId": 0,
+    "Title": "厳しい師匠からの立派な弟子",
+    "Description": "「青い衣のカカシ」をすべて避けて演習をクリア。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84134,
+    "Goal": 17,
+    "Order": 7200,
+    "PreviousId": 0,
+    "Title": "荒瀧派首席顧問",
+    "Description": "「荒瀧派の日常業務」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84135,
+    "Goal": 17,
+    "Order": 7210,
+    "PreviousId": 0,
+    "Title": "もう一目！",
+    "Description": "巫女装束の久岐忍を見る。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84136,
+    "Goal": 17,
+    "Order": 7211,
+    "PreviousId": 0,
+    "Title": "「上の階は…」",
+    "Description": "九条裟羅と久岐忍に気づかれる前に阻止される。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84137,
+    "Goal": 17,
+    "Order": 7300,
+    "PreviousId": 0,
+    "Title": "本格推理だと思っただろう？",
+    "Description": "「嵐捕物帳」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84138,
+    "Goal": 17,
+    "Order": 7310,
+    "PreviousId": 0,
+    "Title": "吾は完璧なトゥルー·ディテクティブなり！",
+    "Description": "犯罪の動機と真相の分析に一発で成功する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84139,
+    "Goal": 17,
+    "Order": 7311,
+    "PreviousId": 0,
+    "Title": "珊瑚宮の祈り",
+    "Description": "ゴローに、心海は海祇島の件を知っているかどうかを聞く。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84140,
+    "Goal": 17,
+    "Order": 7400,
+    "PreviousId": 0,
+    "Title": "最適解",
+    "Description": "「ほどき難い結び目」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84141,
+    "Goal": 17,
+    "Order": 7410,
+    "PreviousId": 0,
+    "Title": "100年後のあなたへ",
+    "Description": "ファルザンへの手紙を全部読む。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84142,
+    "Goal": 17,
+    "Order": 7411,
+    "PreviousId": 0,
+    "Title": "ギミック術：入門から…？",
+    "Description": "七層の「スタックの塔」を解くために必要な最小移動回数を当てる。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84143,
+    "Goal": 17,
+    "Order": 7500,
+    "PreviousId": 0,
+    "Title": "その名は「レイラ」",
+    "Description": "「星は何も言わない」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84144,
+    "Goal": 17,
+    "Order": 7510,
+    "PreviousId": 0,
+    "Title": "彼女はもう緊張してるんだ",
+    "Description": "レイラの論文を手伝う中、彼女をこれ以上不安にさせなかった。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84145,
+    "Goal": 17,
+    "Order": 7511,
+    "PreviousId": 0,
+    "Title": "仙霊と星空の秘密",
+    "Description": "「知恵の仙霊」から本物の返信を得る。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84146,
+    "Goal": 17,
+    "Order": 7600,
+    "PreviousId": 0,
+    "Title": "芸術と日常",
+    "Description": "「苦しみと幸せの振り子」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84147,
+    "Goal": 17,
+    "Order": 7610,
+    "PreviousId": 0,
+    "Title": "学生時代",
+    "Description": "知恵の殿堂でメモが書かれた全ての本を閲覧する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84148,
+    "Goal": 17,
+    "Order": 7611,
+    "PreviousId": 0,
+    "Title": "建築デザイナーの浪漫",
+    "Description": "カーヴェと砂漠の「とっておきの場所」で未来について語る。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84149,
+    "Goal": 17,
+    "Order": 7700,
+    "PreviousId": 0,
+    "Title": "甘美を求めて",
+    "Description": "「戯言と美酒」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84150,
+    "Goal": 17,
+    "Order": 7710,
+    "PreviousId": 0,
+    "Title": "ラッキーコイン",
+    "Description": "ガイアが仕掛けた賭け事に参加する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84151,
+    "Goal": 17,
+    "Order": 7711,
+    "PreviousId": 0,
+    "Title": "しーっ…聞いて！",
+    "Description": "反省室から聞こえてくる話し声に耳を傾ける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84152,
+    "Goal": 17,
+    "Order": 7800,
+    "PreviousId": 0,
+    "Title": "運命の数字",
+    "Description": "「猫と乱数」をクリアし、すべてのエンディングを達成する。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84153,
+    "Goal": 17,
+    "Order": 7810,
+    "PreviousId": 0,
+    "Title": "タイムアタック",
+    "Description": "リネットを説得して、一緒にのんびりとした一日を過ごそう。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84154,
+    "Goal": 17,
+    "Order": 7811,
+    "PreviousId": 0,
+    "Title": "Decks & Detectives",
+    "Description": "密輸事件が解決した後、リネットと一緒にのどかなティータイムを楽しむ。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84155,
+    "Goal": 0,
+    "Order": 7900,
+    "PreviousId": 0,
+    "Title": "旅の見聞",
+    "Description": "秘話を1篇見届ける。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
@@ -25347,6 +27081,23 @@
     "IsDailyQuest": true
   },
   {
+    "Id": 84517,
+    "Goal": 0,
+    "Order": 4041,
+    "PreviousId": 0,
+    "Title": "善い行いをした者には善い報い",
+    "Description": "マージョリーの嘘を暴き、ジャックに感謝される。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84518,
     "Goal": 0,
     "Order": 4042,
@@ -25752,40 +27503,6 @@
     "Progress": 1,
     "Icon": "",
     "Version": "2.1",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84054,
-    "Goal": 0,
-    "Order": 5033,
-    "PreviousId": 0,
-    "Title": "アナ冒険記",
-    "Description": "アナが冒険者になるための手助けをする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84055,
-    "Goal": 0,
-    "Order": 5034,
-    "PreviousId": 0,
-    "Title": "前途洋洋",
-    "Description": "ある少年の長い旅路が始まる…",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
     "IsDailyQuest": true
   },
   {
@@ -26588,992 +28305,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 84026,
-    "Goal": 17,
-    "Order": 6001,
-    "PreviousId": 0,
-    "Title": "素晴らしい旅：序",
-    "Description": "「素晴らしい旅」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84100,
-    "Goal": 17,
-    "Order": 6010,
-    "PreviousId": 0,
-    "Title": "霹靂閃雷真君",
-    "Description": "天気まで左右するベネットの「不運」を見届ける。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84101,
-    "Goal": 17,
-    "Order": 6011,
-    "PreviousId": 0,
-    "Title": "運即ち実力！",
-    "Description": "ミスしない状況下で装置を解き、宝を手に入れる。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84104,
-    "Goal": 17,
-    "Order": 6100,
-    "PreviousId": 0,
-    "Title": "諸悪よ、散れ",
-    "Description": "「尋妖探邪記」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84028,
-    "Goal": 17,
-    "Order": 6110,
-    "PreviousId": 0,
-    "Title": "慧眼の士！",
-    "Description": "すべての手がかりを鑑定する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84107,
-    "Goal": 17,
-    "Order": 6111,
-    "PreviousId": 0,
-    "Title": "唐辛子英雄",
-    "Description": "間違ったアイスを作り、重雲の「純陽の体」を強く反応させる。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84102,
-    "Goal": 17,
-    "Order": 6200,
-    "PreviousId": 0,
-    "Title": "越えられるボーダーライン",
-    "Description": "「癒しの清泉」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84108,
-    "Goal": 17,
-    "Order": 6210,
-    "PreviousId": 0,
-    "Title": "アイドルの頼もしい防御線",
-    "Description": "アルバートと他のバーバラのファンを説得するのに成功する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84105,
-    "Goal": 17,
-    "Order": 6211,
-    "PreviousId": 0,
-    "Title": "モンド城の激辛伝説",
-    "Description": "バーバラのスパイシードリンクを飲んでみる。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84103,
-    "Goal": 17,
-    "Order": 6300,
-    "PreviousId": 0,
-    "Title": "強く完璧なメイド",
-    "Description": "「騎士修行の道」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84106,
-    "Goal": 17,
-    "Order": 6310,
-    "PreviousId": 0,
-    "Title": "「…絆があるから。」",
-    "Description": "ノエルを手伝って、彼女が強い理由を探し出す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84109,
-    "Goal": 17,
-    "Order": 6311,
-    "PreviousId": 0,
-    "Title": "バラのみぞ知るセカイ",
-    "Description": "ノエルの学習ノートを読む。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84110,
-    "Goal": 17,
-    "Order": 6400,
-    "PreviousId": 0,
-    "Title": "最適なストレス解消法",
-    "Description": "「騎士試験の道」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84111,
-    "Goal": 17,
-    "Order": 6410,
-    "PreviousId": 0,
-    "Title": "メイド騎士は傷つかない",
-    "Description": "ノエルと共に『異国騎士璃月記行』を聞く。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84112,
-    "Goal": 17,
-    "Order": 6411,
-    "PreviousId": 0,
-    "Title": "モンドの学習王",
-    "Description": "ノエルの学習ノートを読む。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84113,
-    "Goal": 17,
-    "Order": 6500,
-    "PreviousId": 0,
-    "Title": "ディオナスペシャルを。シェイクせずにステアで",
-    "Description": "「猫とスペシャルドリンク」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84114,
-    "Goal": 17,
-    "Order": 6510,
-    "PreviousId": 0,
-    "Title": "しかし、その代価は…",
-    "Description": "ディオナを手伝ってスペシャルベースドリンクを探し出す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84115,
-    "Goal": 17,
-    "Order": 6511,
-    "PreviousId": 0,
-    "Title": "ネコ殿下",
-    "Description": "全ての猫を「キャッツテール」へ連れ戻す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84116,
-    "Goal": 17,
-    "Order": 6600,
-    "PreviousId": 0,
-    "Title": "誰もかれも大喜び",
-    "Description": "「家司の日頃の業務」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84117,
-    "Goal": 17,
-    "Order": 6610,
-    "PreviousId": 0,
-    "Title": "家政の達人",
-    "Description": "制限時間内に大掃除を完了する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84118,
-    "Goal": 17,
-    "Order": 6611,
-    "PreviousId": 0,
-    "Title": "滄海の帰らぬ者",
-    "Description": "トーマと共に犬少将の物語を見届ける。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84119,
-    "Goal": 17,
-    "Order": 6700,
-    "PreviousId": 0,
-    "Title": "一頭地を「出だす」",
-    "Description": "「嗚呼流·背伸びの術」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84120,
-    "Goal": 17,
-    "Order": 6710,
-    "PreviousId": 0,
-    "Title": "貉級忍者",
-    "Description": "敏捷度訓練で早柚の最高の評価を得る。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84121,
-    "Goal": 17,
-    "Order": 6711,
-    "PreviousId": 0,
-    "Title": "料理効果：移動速度低下",
-    "Description": "早柚が暴飲暴食するのを阻止できなかった…",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84122,
-    "Goal": 17,
-    "Order": 6900,
-    "PreviousId": 0,
-    "Title": "南十字栄誉船員",
-    "Description": "「南十字が輝く時」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84123,
-    "Goal": 17,
-    "Order": 6910,
-    "PreviousId": 0,
-    "Title": "杯を交わす喜び",
-    "Description": "北斗と共に軽策荘の夕食会に参加した",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84124,
-    "Goal": 17,
-    "Order": 6911,
-    "PreviousId": 0,
-    "Title": "孤雲閣の買い手俱楽部",
-    "Description": "北斗に本当の取引内容を聞く。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84125,
-    "Goal": 17,
-    "Order": 6800,
-    "PreviousId": 0,
-    "Title": "海祇大将",
-    "Description": "「犬大将の特別行動」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84126,
-    "Goal": 17,
-    "Order": 6810,
-    "PreviousId": 0,
-    "Title": "運勢無常",
-    "Description": "神社でおみくじの全運勢を引いたことがある。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84127,
-    "Goal": 17,
-    "Order": 6811,
-    "PreviousId": 0,
-    "Title": "話すべきか黙っておくべきか、それが問題だ",
-    "Description": "八重堂でヒナさんの正体に気づく。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84128,
-    "Goal": 17,
-    "Order": 7000,
-    "PreviousId": 0,
-    "Title": "天権伴星",
-    "Description": "「玉閣に来たし帰客」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84129,
-    "Goal": 17,
-    "Order": 7010,
-    "PreviousId": 0,
-    "Title": "備えあれば憂いなし",
-    "Description": "魚肉は当然、多ければ多いほど良いのだ。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84130,
-    "Goal": 17,
-    "Order": 7011,
-    "PreviousId": 0,
-    "Title": "過剰防衛",
-    "Description": "一つの石が千の波を巻き起こす。どうやら凝光は休暇を楽しめないようだ。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84131,
-    "Goal": 17,
-    "Order": 7100,
-    "PreviousId": 0,
-    "Title": "余韻浸る観客",
-    "Description": "「雅意を知りし弦歌」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84132,
-    "Goal": 17,
-    "Order": 7110,
-    "PreviousId": 0,
-    "Title": "この時が永遠であれ",
-    "Description": "雲菫と写真を撮る。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84133,
-    "Goal": 17,
-    "Order": 7111,
-    "PreviousId": 0,
-    "Title": "厳しい師匠からの立派な弟子",
-    "Description": "「青い衣のカカシ」をすべて避けて演習をクリア。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84134,
-    "Goal": 17,
-    "Order": 7200,
-    "PreviousId": 0,
-    "Title": "荒瀧派首席顧問",
-    "Description": "「荒瀧派の日常業務」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84135,
-    "Goal": 17,
-    "Order": 7210,
-    "PreviousId": 0,
-    "Title": "もう一目！",
-    "Description": "巫女装束の久岐忍を見る。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84136,
-    "Goal": 17,
-    "Order": 7211,
-    "PreviousId": 0,
-    "Title": "「上の階は…」",
-    "Description": "九条裟羅と久岐忍に気づかれる前に阻止される。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84137,
-    "Goal": 17,
-    "Order": 7300,
-    "PreviousId": 0,
-    "Title": "本格推理だと思っただろう？",
-    "Description": "「嵐捕物帳」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84138,
-    "Goal": 17,
-    "Order": 7310,
-    "PreviousId": 0,
-    "Title": "吾は完璧なトゥルー·ディテクティブなり！",
-    "Description": "犯罪の動機と真相の分析に一発で成功する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84139,
-    "Goal": 17,
-    "Order": 7311,
-    "PreviousId": 0,
-    "Title": "珊瑚宮の祈り",
-    "Description": "ゴローに、心海は海祇島の件を知っているかどうかを聞く。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84140,
-    "Goal": 17,
-    "Order": 7400,
-    "PreviousId": 0,
-    "Title": "最適解",
-    "Description": "「ほどき難い結び目」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84141,
-    "Goal": 17,
-    "Order": 7410,
-    "PreviousId": 0,
-    "Title": "100年後のあなたへ",
-    "Description": "ファルザンへの手紙を全部読む。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84142,
-    "Goal": 17,
-    "Order": 7411,
-    "PreviousId": 0,
-    "Title": "ギミック術：入門から…？",
-    "Description": "七層の「スタックの塔」を解くために必要な最小移動回数を当てる。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84143,
-    "Goal": 17,
-    "Order": 7500,
-    "PreviousId": 0,
-    "Title": "その名は「レイラ」",
-    "Description": "「星は何も言わない」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84144,
-    "Goal": 17,
-    "Order": 7510,
-    "PreviousId": 0,
-    "Title": "彼女はもう緊張してるんだ",
-    "Description": "レイラの論文を手伝う中、彼女をこれ以上不安にさせなかった。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84145,
-    "Goal": 17,
-    "Order": 7511,
-    "PreviousId": 0,
-    "Title": "仙霊と星空の秘密",
-    "Description": "「知恵の仙霊」から本物の返信を得る。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84146,
-    "Goal": 17,
-    "Order": 7600,
-    "PreviousId": 0,
-    "Title": "芸術と日常",
-    "Description": "「苦しみと幸せの振り子」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84147,
-    "Goal": 17,
-    "Order": 7610,
-    "PreviousId": 0,
-    "Title": "学生時代",
-    "Description": "知恵の殿堂でメモが書かれた全ての本を閲覧する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84148,
-    "Goal": 17,
-    "Order": 7611,
-    "PreviousId": 0,
-    "Title": "建築デザイナーの浪漫",
-    "Description": "カーヴェと砂漠の「とっておきの場所」で未来について語る。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84149,
-    "Goal": 17,
-    "Order": 7700,
-    "PreviousId": 0,
-    "Title": "甘美を求めて",
-    "Description": "「戯言と美酒」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84150,
-    "Goal": 17,
-    "Order": 7710,
-    "PreviousId": 0,
-    "Title": "ラッキーコイン",
-    "Description": "ガイアが仕掛けた賭け事に参加する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84151,
-    "Goal": 17,
-    "Order": 7711,
-    "PreviousId": 0,
-    "Title": "しーっ…聞いて！",
-    "Description": "反省室から聞こえてくる話し声に耳を傾ける。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84152,
-    "Goal": 17,
-    "Order": 7800,
-    "PreviousId": 0,
-    "Title": "運命の数字",
-    "Description": "「猫と乱数」をクリアし、すべてのエンディングを達成する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84153,
-    "Goal": 17,
-    "Order": 7810,
-    "PreviousId": 0,
-    "Title": "タイムアタック",
-    "Description": "リネットを説得して、一緒にのんびりとした一日を過ごそう。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84154,
-    "Goal": 17,
-    "Order": 7811,
-    "PreviousId": 0,
-    "Title": "Decks & Detectives",
-    "Description": "密輸事件が解決した後、リネットと一緒にのどかなティータイムを楽しむ。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84155,
-    "Goal": 0,
-    "Order": 7900,
-    "PreviousId": 0,
-    "Title": "旅の見聞",
-    "Description": "秘話を1篇見届ける。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86001,
     "Goal": 13,
     "Order": 9001,
@@ -27795,23 +28526,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86021,
-    "Goal": 21,
-    "Order": 9014,
-    "PreviousId": 0,
-    "Title": "邪眼の性能の違いが戦力の決定的差ではない",
-    "Description": "他のプレイヤーと共に公子を倒す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86015,
     "Goal": 21,
     "Order": 9015,
@@ -27903,6 +28617,23 @@
     "PreviousId": 0,
     "Title": "「からくりに恒常はない」",
     "Description": "他のプレイヤーと共に恒常からくり陣形を倒す。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 86021,
+    "Goal": 21,
+    "Order": 9014,
+    "PreviousId": 0,
+    "Title": "邪眼の性能の違いが戦力の決定的差ではない",
+    "Description": "他のプレイヤーと共に公子を倒す。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -28373,40 +29104,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86057,
-    "Goal": 64,
-    "Order": 9048,
-    "PreviousId": 0,
-    "Title": "またつまらぬ物を…",
-    "Description": "他のプレイヤーと共に深遠なるミミックパピラを倒す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 86058,
-    "Goal": 64,
-    "Order": 9049,
-    "PreviousId": 0,
-    "Title": "シャーマンの最終試練",
-    "Description": "他のプレイヤーと共に迷える霊覚の修験者を倒す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86051,
     "Goal": 64,
     "Order": 9050,
@@ -28509,241 +29206,37 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80475,
-    "Goal": 67,
-    "Order": 439,
+    "Id": 86057,
+    "Goal": 64,
+    "Order": 9048,
     "PreviousId": 0,
-    "Title": "狭間のトレジャーハンター",
-    "Description": "風止みの山、空の神殿で宝箱を{param0}個開ける。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 45,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80476,
-    "Goal": 67,
-    "Order": 440,
-    "PreviousId": 80475,
-    "Title": "狭間のトレジャーハンター",
-    "Description": "風止みの山、空の神殿で宝箱を{param0}個開ける。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 90,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80477,
-    "Goal": 67,
-    "Order": 441,
-    "PreviousId": 80476,
-    "Title": "狭間のトレジャーハンター",
-    "Description": "風止みの山、空の神殿で宝箱を{param0}個開ける。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 180,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80487,
-    "Goal": 67,
-    "Order": 442,
-    "PreviousId": 0,
-    "Title": "狭間の冒険者",
-    "Description": "風止みの山、空の神殿での時間制限挑戦を{param0}個クリアする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 7,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80488,
-    "Goal": 67,
-    "Order": 443,
-    "PreviousId": 80487,
-    "Title": "狭間の冒険者",
-    "Description": "風止みの山、空の神殿での時間制限挑戦を{param0}個クリアする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 14,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80489,
-    "Goal": 67,
-    "Order": 444,
-    "PreviousId": 80488,
-    "Title": "狭間の冒険者",
-    "Description": "風止みの山、空の神殿での時間制限挑戦を{param0}個クリアする。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 28,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80479,
-    "Goal": 67,
-    "Order": 436,
-    "PreviousId": 0,
-    "Title": "色無き風は神秘の山に",
-    "Description": "モンド地域の風止みの山のマップを開放する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80480,
-    "Goal": 67,
-    "Order": 437,
-    "PreviousId": 0,
-    "Title": "ぶらり廃療養所下車の旅",
-    "Description": "モンド地域の空の神殿のマップを開放する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80481,
-    "Goal": 67,
-    "Order": 449,
-    "PreviousId": 0,
-    "Title": "さらば、魔の山",
-    "Description": "「山の長い一日」をクリアする。",
+    "Title": "またつまらぬ物を…",
+    "Description": "他のプレイヤーと共に深遠なるミミックパピラを倒す。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
-    "Id": 80482,
-    "Goal": 67,
-    "Order": 448,
+    "Id": 86058,
+    "Goal": 64,
+    "Order": 9049,
     "PreviousId": 0,
-    "Title": "一つの離別と三つの再会",
-    "Description": "カテリンドが失くした物をすべて見つけてあげる。",
+    "Title": "シャーマンの最終試練",
+    "Description": "他のプレイヤーと共に迷える霊覚の修験者を倒す。",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80484,
-    "Goal": 67,
-    "Order": 447,
-    "PreviousId": 0,
-    "Title": "To a heart that's true",
-    "Description": "風止みの山にある旧貴族の秘蔵の地と、空の神殿にある諸界の秘蔵展示室の封印を解く。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 2,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80485,
-    "Goal": 67,
-    "Order": 446,
-    "PreviousId": 0,
-    "Title": "空間と不自由",
-    "Description": "空の神殿のメモリーコアをLv.Maxまで上げる。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80486,
-    "Goal": 67,
-    "Order": 438,
-    "PreviousId": 0,
-    "Title": "ティトノスに捧ぐ朝の詩",
-    "Description": "モンド地域にある風止みの山、空の神殿の全てのワープポイントを開放する。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 31,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80500,
-    "Goal": 67,
-    "Order": 445,
-    "PreviousId": 0,
-    "Title": "狭間の導き",
-    "Description": "風止みの山と空の神殿で仙霊を3体追いかけ、仙霊ノ庭を灯す。",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   }
 ]

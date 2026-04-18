@@ -123,7 +123,7 @@
     "Goal": 2,
     "Order": 8,
     "PreviousId": 0,
-    "Title": "#Expert{F#a}{M#o} en supervivencia",
+    "Title": "Expert{F#a}{M#o} en supervivencia",
     "Description": "Aprende 10 recetas.",
     "FinishReward": {
       "Id": 201,
@@ -140,7 +140,7 @@
     "Goal": 2,
     "Order": 9,
     "PreviousId": 80008,
-    "Title": "#Expert{F#a}{M#o} en supervivencia",
+    "Title": "Expert{F#a}{M#o} en supervivencia",
     "Description": "Aprende 20 recetas.",
     "FinishReward": {
       "Id": 201,
@@ -157,7 +157,7 @@
     "Goal": 2,
     "Order": 10,
     "PreviousId": 80009,
-    "Title": "#Expert{F#a}{M#o} en supervivencia",
+    "Title": "Expert{F#a}{M#o} en supervivencia",
     "Description": "Aprende 40 recetas.",
     "FinishReward": {
       "Id": 201,
@@ -497,7 +497,7 @@
     "Goal": 4,
     "Order": 30,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Mondstadt",
+    "Title": "Explorad{F#ora}{M#or} continental: Mondstadt",
     "Description": "Descubre todo el Mapa de Mondstadt (excepto Espinadragón).",
     "FinishReward": {
       "Id": 201,
@@ -718,7 +718,7 @@
     "Goal": 5,
     "Order": 43,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Liyue",
+    "Title": "Explorad{F#ora}{M#or} continental: Liyue",
     "Description": "Descubre el mapa de la Llanura Bishui, el Estuario Chiongji, Minlin, Lisha y el Mar de Nubes.",
     "FinishReward": {
       "Id": 201,
@@ -939,7 +939,7 @@
     "Goal": 16,
     "Order": 56,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Espinadragón",
+    "Title": "Explorad{F#ora}{M#or} continental: Espinadragón",
     "Description": "Descubre el mapa de Espinadragón.",
     "FinishReward": {
       "Id": 201,
@@ -1245,7 +1245,7 @@
     "Goal": 24,
     "Order": 74,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Tierra del trueno rugiente (I)",
+    "Title": "Explorad{F#ora}{M#or} continental: Tierra del trueno rugiente (I)",
     "Description": "Revela todas las regiones de Inazuma (Isla Narukami, Kannazuka e Isla Yashiori).",
     "FinishReward": {
       "Id": 201,
@@ -1547,6 +1547,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80092,
+    "Goal": 0,
+    "Order": 1026,
+    "PreviousId": 0,
+    "Title": "Ídolo en Inazuma",
+    "Description": "Recompensa por alcanzar Nivel de reputación 10 en Inazuma.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80093,
     "Goal": 24,
     "Order": 93,
@@ -1602,7 +1619,7 @@
     "Goal": 26,
     "Order": 96,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Tierra del trueno rugiente (II)",
+    "Title": "Explorad{F#ora}{M#or} continental: Tierra del trueno rugiente (II)",
     "Description": "Revela todas las regiones de Inazuma (Isla Watatsumi e Isla Seirai).",
     "FinishReward": {
       "Id": 201,
@@ -1768,6 +1785,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80108,
+    "Goal": 26,
+    "Order": 111,
+    "PreviousId": 0,
+    "Title": "Cazatormentas de Seirai",
+    "Description": "Completa «Cazatormentas de Seirai».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80109,
+    "Goal": 26,
+    "Order": 112,
+    "PreviousId": 0,
+    "Title": "Yo quiero luz de luna",
+    "Description": "Completa «Abismo plenilunado».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.1",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80110,
     "Goal": 26,
     "Order": 108,
@@ -1819,45 +1870,11 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80108,
-    "Goal": 26,
-    "Order": 111,
-    "PreviousId": 0,
-    "Title": "Cazatormentas de Seirai",
-    "Description": "Completa «Cazatormentas de Seirai».",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80109,
-    "Goal": 26,
-    "Order": 112,
-    "PreviousId": 0,
-    "Title": "Yo quiero luz de luna",
-    "Description": "Completa «Abismo plenilunado».",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.1",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80113,
     "Goal": 27,
     "Order": 113,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Isla Tsurumi",
+    "Title": "Explorad{F#ora}{M#or} continental: Isla Tsurumi",
     "Description": "Descubre el mapa de la Isla Tsurumi.",
     "FinishReward": {
       "Id": 201,
@@ -1942,7 +1959,7 @@
     "Goal": 27,
     "Order": 120,
     "PreviousId": 0,
-    "Title": "#Cazatesoros perdid{F#a}{M#o}",
+    "Title": "Cazatesoros perdid{F#a}{M#o}",
     "Description": "Abre 30 cofres en la Isla Tsurumi.",
     "FinishReward": {
       "Id": 201,
@@ -1959,7 +1976,7 @@
     "Goal": 27,
     "Order": 121,
     "PreviousId": 80120,
-    "Title": "#Cazatesoros perdid{F#a}{M#o}",
+    "Title": "Cazatesoros perdid{F#a}{M#o}",
     "Description": "Abre 60 cofres en la Isla Tsurumi.",
     "FinishReward": {
       "Id": 201,
@@ -1976,7 +1993,7 @@
     "Goal": 27,
     "Order": 122,
     "PreviousId": 80121,
-    "Title": "#Cazatesoros perdid{F#a}{M#o}",
+    "Title": "Cazatesoros perdid{F#a}{M#o}",
     "Description": "Abre 120 cofres en la Isla Tsurumi.",
     "FinishReward": {
       "Id": 201,
@@ -1993,7 +2010,7 @@
     "Goal": 27,
     "Order": 123,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} perdid{F#a}{M#o}",
+    "Title": "Aventurer{F#a}{M#o} perdid{F#a}{M#o}",
     "Description": "Completa 4 pruebas contrarreloj activadas por mecanismos del mundo abierto en la Isla Tsurumi.",
     "FinishReward": {
       "Id": 201,
@@ -2010,7 +2027,7 @@
     "Goal": 27,
     "Order": 124,
     "PreviousId": 80123,
-    "Title": "#Aventurer{F#a}{M#o} perdid{F#a}{M#o}",
+    "Title": "Aventurer{F#a}{M#o} perdid{F#a}{M#o}",
     "Description": "Completa 8 pruebas contrarreloj activadas por mecanismos del mundo abierto en la Isla Tsurumi.",
     "FinishReward": {
       "Id": 201,
@@ -2027,7 +2044,7 @@
     "Goal": 27,
     "Order": 125,
     "PreviousId": 80124,
-    "Title": "#Aventurer{F#a}{M#o} perdid{F#a}{M#o}",
+    "Title": "Aventurer{F#a}{M#o} perdid{F#a}{M#o}",
     "Description": "Completa 12 pruebas contrarreloj activadas por mecanismos del mundo abierto en la Isla Tsurumi.",
     "FinishReward": {
       "Id": 201,
@@ -2061,7 +2078,7 @@
     "Goal": 0,
     "Order": 127,
     "PreviousId": 0,
-    "Title": "#{F#Reina}{M#Rey} de la jungla",
+    "Title": "{F#Reina}{M#Rey} de la jungla",
     "Description": "Usa la Red de la ubicuidad suprema para atrapar un animal.",
     "FinishReward": {
       "Id": 201,
@@ -2078,7 +2095,7 @@
     "Goal": 0,
     "Order": 128,
     "PreviousId": 80127,
-    "Title": "#{F#Reina}{M#Rey} de la jungla",
+    "Title": "{F#Reina}{M#Rey} de la jungla",
     "Description": "Usa la Red de la ubicuidad suprema para atrapar 30 animales.",
     "FinishReward": {
       "Id": 201,
@@ -2095,7 +2112,7 @@
     "Goal": 0,
     "Order": 129,
     "PreviousId": 80128,
-    "Title": "#{F#Reina}{M#Rey} de la jungla",
+    "Title": "{F#Reina}{M#Rey} de la jungla",
     "Description": "Usa la Red de la ubicuidad suprema para atrapar 100 animales.",
     "FinishReward": {
       "Id": 201,
@@ -2520,7 +2537,7 @@
     "Goal": 30,
     "Order": 154,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} subterráne{F#a}{M#o}",
+    "Title": "Aventurer{F#a}{M#o} subterráne{F#a}{M#o}",
     "Description": "Completa 3 pruebas contrarreloj activadas por mecanismos del mundo abierto en la Sima.",
     "FinishReward": {
       "Id": 201,
@@ -2537,7 +2554,7 @@
     "Goal": 30,
     "Order": 155,
     "PreviousId": 80154,
-    "Title": "#Aventurer{F#a}{M#o} subterráne{F#a}{M#o}",
+    "Title": "Aventurer{F#a}{M#o} subterráne{F#a}{M#o}",
     "Description": "Completa 6 pruebas contrarreloj activadas por mecanismos del mundo abierto en la Sima.",
     "FinishReward": {
       "Id": 201,
@@ -2554,7 +2571,7 @@
     "Goal": 30,
     "Order": 156,
     "PreviousId": 80155,
-    "Title": "#Aventurer{F#a}{M#o} subterráne{F#a}{M#o}",
+    "Title": "Aventurer{F#a}{M#o} subterráne{F#a}{M#o}",
     "Description": "Completa 12 pruebas contrarreloj activadas por mecanismos del mundo abierto en la Sima.",
     "FinishReward": {
       "Id": 201,
@@ -2622,7 +2639,7 @@
     "Goal": 31,
     "Order": 160,
     "PreviousId": 0,
-    "Title": "#{F#Exploradora}{M#Explorador} continental: Selva de Sumeru",
+    "Title": "{F#Exploradora}{M#Explorador} continental: Selva de Sumeru",
     "Description": "Revela las regiones del mapa de Sumeru (Bosque Avidya, Selva Lokapala, Valle Ardravi, Ashaván, Campos Vishuddha, Jardines Perdidos y Vanarana).",
     "FinishReward": {
       "Id": 201,
@@ -2639,7 +2656,7 @@
     "Goal": 31,
     "Order": 161,
     "PreviousId": 0,
-    "Title": "#{F#Merodeadora}{M#Merodeador} de los bosques",
+    "Title": "{F#Merodeadora}{M#Merodeador} de los bosques",
     "Description": "Desbloquea todos los Puntos de teletransporte de Sumeru (Bosque Avidya, Selva Lokapala, Valle Ardravi, Ashaván, Campos Vishuddha, Jardines Perdidos y Vanarana).",
     "FinishReward": {
       "Id": 201,
@@ -2809,7 +2826,7 @@
     "Goal": 31,
     "Order": 171,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} del bosque",
+    "Title": "Aventurer{F#a}{M#o} del bosque",
     "Description": "Completa 10 pruebas contrarreloj de mecanismos de mundo abierto en el Bosque Avidya, la Selva Lokapala, el Valle Ardravi, Ashaván, los Campos Vishuddha, los Jardines Perdidos y Vanarana.",
     "FinishReward": {
       "Id": 201,
@@ -2826,7 +2843,7 @@
     "Goal": 31,
     "Order": 172,
     "PreviousId": 80171,
-    "Title": "#Aventurer{F#a}{M#o} del bosque",
+    "Title": "Aventurer{F#a}{M#o} del bosque",
     "Description": "Completa 20 pruebas contrarreloj de mecanismos de mundo abierto en el Bosque Avidya, la Selva Lokapala, el Valle Ardravi, Ashaván, los Campos Vishuddha, los Jardines Perdidos y Vanarana.",
     "FinishReward": {
       "Id": 201,
@@ -2843,7 +2860,7 @@
     "Goal": 31,
     "Order": 173,
     "PreviousId": 80172,
-    "Title": "#Aventurer{F#a}{M#o} del bosque",
+    "Title": "Aventurer{F#a}{M#o} del bosque",
     "Description": "Completa 40 pruebas contrarreloj de mecanismos de mundo abierto en el Bosque Avidya, la Selva Lokapala, el Valle Ardravi, Ashaván, los Campos Vishuddha, los Jardines Perdidos y Vanarana.",
     "FinishReward": {
       "Id": 201,
@@ -2945,7 +2962,7 @@
     "Goal": 35,
     "Order": 179,
     "PreviousId": 0,
-    "Title": "#Explorado{F#ra}{M#r} continental: Sueños abrasadores en el mar de arena (I)",
+    "Title": "Explorado{F#ra}{M#r} continental: Sueños abrasadores en el mar de arena (I)",
     "Description": "Revela las regiones del mapa de Sumeru (Desierto Hipóstilo, Alto Sutej y Bajo Sutej).",
     "FinishReward": {
       "Id": 201,
@@ -3098,7 +3115,7 @@
     "Goal": 35,
     "Order": 190,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} del desierto (I)",
+    "Title": "Aventurer{F#a}{M#o} del desierto (I)",
     "Description": "Completa 10 pruebas contrarreloj activadas por mecanismos del mundo abierto en el Desierto Hipóstilo, el Alto Sutej y el Bajo Sutej.",
     "FinishReward": {
       "Id": 201,
@@ -3115,7 +3132,7 @@
     "Goal": 35,
     "Order": 191,
     "PreviousId": 80188,
-    "Title": "#Aventurer{F#a}{M#o} del desierto (I)",
+    "Title": "Aventurer{F#a}{M#o} del desierto (I)",
     "Description": "Completa 20 pruebas contrarreloj activadas por mecanismos del mundo abierto en el Desierto Hipóstilo, el Alto Sutej y el Bajo Sutej.",
     "FinishReward": {
       "Id": 201,
@@ -3132,7 +3149,7 @@
     "Goal": 35,
     "Order": 192,
     "PreviousId": 80189,
-    "Title": "#Aventurer{F#a}{M#o} del desierto (I)",
+    "Title": "Aventurer{F#a}{M#o} del desierto (I)",
     "Description": "Completa 40 pruebas contrarreloj activadas por mecanismos del mundo abierto en el Desierto Hipóstilo, el Alto Sutej y el Bajo Sutej.",
     "FinishReward": {
       "Id": 201,
@@ -3167,7 +3184,7 @@
     "Order": 194,
     "PreviousId": 0,
     "Title": "Cosas visibles e invisibles",
-    "Description": "#Obtén el Manual de jugador y conviértete en {F#una jugadora certificada}{M#un jugador certificado} por la Asociación de Jugadores.",
+    "Description": "Obtén el Manual de jugador y conviértete en {F#una jugadora certificada}{M#un jugador certificado} por la Asociación de Jugadores.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -3183,7 +3200,7 @@
     "Goal": 37,
     "Order": 195,
     "PreviousId": 0,
-    "Title": "#La leyenda {F#de la jugadora}{M#del jugador} errante",
+    "Title": "La leyenda {F#de la jugadora}{M#del jugador} errante",
     "Description": "Alcanza el Nivel de jugador 10.",
     "FinishReward": {
       "Id": 201,
@@ -3506,7 +3523,7 @@
     "Goal": 37,
     "Order": 196,
     "PreviousId": 0,
-    "Title": "#Duelista milenari{F#a}{M#o}",
+    "Title": "Duelista milenari{F#a}{M#o}",
     "Description": "Obtén un total de 10000 Monedas de la suerte.",
     "FinishReward": {
       "Id": 201,
@@ -3523,7 +3540,7 @@
     "Goal": 37,
     "Order": 197,
     "PreviousId": 80218,
-    "Title": "#Duelista milenari{F#a}{M#o}",
+    "Title": "Duelista milenari{F#a}{M#o}",
     "Description": "Obtén un total de 70000 Monedas de la suerte.",
     "FinishReward": {
       "Id": 201,
@@ -3540,7 +3557,7 @@
     "Goal": 37,
     "Order": 198,
     "PreviousId": 80219,
-    "Title": "#Duelista milenari{F#a}{M#o}",
+    "Title": "Duelista milenari{F#a}{M#o}",
     "Description": "Obtén un total de 150000 Monedas de la suerte.",
     "FinishReward": {
       "Id": 201,
@@ -3608,7 +3625,7 @@
     "Goal": 38,
     "Order": 205,
     "PreviousId": 0,
-    "Title": "#Explorado{F#ra}{M#r} continental: Sueños abrasadores en el mar de arena (II)",
+    "Title": "Explorado{F#ra}{M#r} continental: Sueños abrasadores en el mar de arena (II)",
     "Description": "Revela las regiones del mapa de Sumeru (Desierto de Hadramavet).",
     "FinishReward": {
       "Id": 201,
@@ -3650,6 +3667,23 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 3,
+    "Icon": "",
+    "Version": "3.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80227,
+    "Goal": 38,
+    "Order": 217,
+    "PreviousId": 0,
+    "Title": "La elegía de Bilqis",
+    "Description": "Completa «La elegía de Bilqis».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
     "Icon": "",
     "Version": "3.4",
     "IsDailyQuest": false
@@ -3761,7 +3795,7 @@
     "Goal": 38,
     "Order": 214,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} del desierto (II)",
+    "Title": "Aventurer{F#a}{M#o} del desierto (II)",
     "Description": "Completa 7 pruebas contrarreloj activadas por mecanismos del mundo abierto en el Desierto de Hadramavet.",
     "FinishReward": {
       "Id": 201,
@@ -3778,7 +3812,7 @@
     "Goal": 38,
     "Order": 215,
     "PreviousId": 80234,
-    "Title": "#Aventurer{F#a}{M#o} del desierto (II)",
+    "Title": "Aventurer{F#a}{M#o} del desierto (II)",
     "Description": "Completa 14 pruebas contrarreloj activadas por mecanismos del mundo abierto en el Desierto de Hadramavet.",
     "FinishReward": {
       "Id": 201,
@@ -3795,7 +3829,7 @@
     "Goal": 38,
     "Order": 216,
     "PreviousId": 80235,
-    "Title": "#Aventurer{F#a}{M#o} del desierto (II)",
+    "Title": "Aventurer{F#a}{M#o} del desierto (II)",
     "Description": "Completa 28 pruebas contrarreloj activadas por mecanismos del mundo abierto en el Desierto de Hadramavet.",
     "FinishReward": {
       "Id": 201,
@@ -3808,28 +3842,11 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80227,
-    "Goal": 38,
-    "Order": 217,
-    "PreviousId": 0,
-    "Title": "La elegía de Bilqis",
-    "Description": "Completa «La elegía de Bilqis».",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.4",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 80237,
     "Goal": 41,
     "Order": 218,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Desierto de los espíritus",
+    "Title": "Explorad{F#ora}{M#or} continental: Desierto de los espíritus",
     "Description": "Revela las regiones del mapa de Sumeru (Desierto de Layavard y Farajkert).",
     "FinishReward": {
       "Id": 201,
@@ -3982,7 +3999,7 @@
     "Goal": 41,
     "Order": 227,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de tierras baldías",
+    "Title": "Aventurer{F#a}{M#o} de tierras baldías",
     "Description": "Completa 4 pruebas contrarreloj de mundo abierto en el Desierto de Layavard y Farajkert.",
     "FinishReward": {
       "Id": 201,
@@ -3999,7 +4016,7 @@
     "Goal": 41,
     "Order": 228,
     "PreviousId": 80246,
-    "Title": "#Aventurer{F#a}{M#o} de tierras baldías",
+    "Title": "Aventurer{F#a}{M#o} de tierras baldías",
     "Description": "Completa 8 pruebas contrarreloj de mundo abierto en el Desierto de Layavard y Farajkert.",
     "FinishReward": {
       "Id": 201,
@@ -4016,7 +4033,7 @@
     "Goal": 41,
     "Order": 229,
     "PreviousId": 80247,
-    "Title": "#Aventurer{F#a}{M#o} de tierras baldías",
+    "Title": "Aventurer{F#a}{M#o} de tierras baldías",
     "Description": "Completa 16 pruebas contrarreloj de mundo abierto en el Desierto de Layavard y Farajkert.",
     "FinishReward": {
       "Id": 201,
@@ -4024,23 +4041,6 @@
     },
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 16,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80250,
-    "Goal": 41,
-    "Order": 230,
-    "PreviousId": 0,
-    "Title": "Rocío bermellón",
-    "Description": "Mejora el Estanque de maná hasta el nivel máximo.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
     "Icon": "",
     "Version": "3.6",
     "IsDailyQuest": false
@@ -4063,11 +4063,28 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80250,
+    "Goal": 41,
+    "Order": 230,
+    "PreviousId": 0,
+    "Title": "Rocío bermellón",
+    "Description": "Mejora el Estanque de maná hasta el nivel máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80252,
     "Goal": 42,
     "Order": 232,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Los manantiales de la justicia (I)",
+    "Title": "Explorad{F#ora}{M#or} continental: Los manantiales de la justicia (I)",
     "Description": "Revela las regiones del mapa de Fontaine (Condado de la Corte de Fontaine, Condado Rocioblanco y Condado Berilo).",
     "FinishReward": {
       "Id": 201,
@@ -4254,7 +4271,7 @@
     "Goal": 42,
     "Order": 243,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (I)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (I)",
     "Description": "Completa 3 pruebas contrarreloj de mundo abierto en el Condado de la Corte de Fontaine, el Condado Rocioblanco y el Condado Berilo.",
     "FinishReward": {
       "Id": 201,
@@ -4271,7 +4288,7 @@
     "Goal": 42,
     "Order": 244,
     "PreviousId": 80263,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (I)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (I)",
     "Description": "Completa 6 pruebas contrarreloj de mundo abierto en el Condado de la Corte de Fontaine, el Condado Rocioblanco y el Condado Berilo.",
     "FinishReward": {
       "Id": 201,
@@ -4288,7 +4305,7 @@
     "Goal": 42,
     "Order": 245,
     "PreviousId": 80264,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (I)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (I)",
     "Description": "Completa 12 pruebas contrarreloj de mundo abierto en el Condado de la Corte de Fontaine, el Condado Rocioblanco y el Condado Berilo.",
     "FinishReward": {
       "Id": 201,
@@ -4407,7 +4424,7 @@
     "Goal": 45,
     "Order": 248,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Los manantiales de la justicia (II)",
+    "Title": "Explorad{F#ora}{M#or} continental: Los manantiales de la justicia (II)",
     "Description": "Revela las regiones del mapa de Fontaine (Condado Liffey y Condado del Instituto de Ciencias de Fontaine).",
     "FinishReward": {
       "Id": 201,
@@ -4560,7 +4577,7 @@
     "Goal": 45,
     "Order": 257,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (II)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (II)",
     "Description": "Completa 3 pruebas contrarreloj de mundo abierto en el Condado Liffey y el Condado del Instituto de Ciencias de Fontaine.",
     "FinishReward": {
       "Id": 201,
@@ -4577,7 +4594,7 @@
     "Goal": 45,
     "Order": 258,
     "PreviousId": 80281,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (II)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (II)",
     "Description": "Completa 6 pruebas contrarreloj de mundo abierto en el Condado Liffey y el Condado del Instituto de Ciencias de Fontaine.",
     "FinishReward": {
       "Id": 201,
@@ -4594,7 +4611,7 @@
     "Goal": 45,
     "Order": 259,
     "PreviousId": 80282,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (II)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (II)",
     "Description": "Completa 12 pruebas contrarreloj de mundo abierto en el Condado Liffey y el Condado del Instituto de Ciencias de Fontaine.",
     "FinishReward": {
       "Id": 201,
@@ -4645,7 +4662,7 @@
     "Goal": 46,
     "Order": 262,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Los manantiales de la justicia (III)",
+    "Title": "Explorad{F#ora}{M#or} continental: Los manantiales de la justicia (III)",
     "Description": "Revela las regiones del mapa de Fontaine (Condado Morte y Floresta Erinias).",
     "FinishReward": {
       "Id": 201,
@@ -4798,7 +4815,7 @@
     "Goal": 46,
     "Order": 271,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (III)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (III)",
     "Description": "Completa 3 pruebas contrarreloj de mundo abierto en el Condado Morte y la Floresta Erinias.",
     "FinishReward": {
       "Id": 201,
@@ -4815,7 +4832,7 @@
     "Goal": 46,
     "Order": 272,
     "PreviousId": 80295,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (III)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (III)",
     "Description": "Completa 6 pruebas contrarreloj de mundo abierto en el Condado Morte y la Floresta Erinias.",
     "FinishReward": {
       "Id": 201,
@@ -4832,7 +4849,7 @@
     "Goal": 46,
     "Order": 273,
     "PreviousId": 80296,
-    "Title": "#Aventurer{F#a}{M#o} de aguas cerúleas (III)",
+    "Title": "Aventurer{F#a}{M#o} de aguas cerúleas (III)",
     "Description": "Completa 9 pruebas contrarreloj de mundo abierto en el Condado Morte y la Floresta Erinias.",
     "FinishReward": {
       "Id": 201,
@@ -4883,7 +4900,7 @@
     "Goal": 47,
     "Order": 276,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: La tierra de las aguas esmeralda",
+    "Title": "Explorad{F#ora}{M#or} continental: La tierra de las aguas esmeralda",
     "Description": "Revela las regiones del mapa de Liyue (Valle Chenyu).",
     "FinishReward": {
       "Id": 201,
@@ -5019,7 +5036,7 @@
     "Goal": 47,
     "Order": 284,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de los montes jadeados",
+    "Title": "Aventurer{F#a}{M#o} de los montes jadeados",
     "Description": "Completa 12 pruebas contrarreloj del mundo abierto en el Valle Chenyu.",
     "FinishReward": {
       "Id": 201,
@@ -5036,7 +5053,7 @@
     "Goal": 47,
     "Order": 285,
     "PreviousId": 80308,
-    "Title": "#Aventurer{F#a}{M#o} de los montes jadeados",
+    "Title": "Aventurer{F#a}{M#o} de los montes jadeados",
     "Description": "Completa 24 pruebas contrarreloj del mundo abierto en el Valle Chenyu.",
     "FinishReward": {
       "Id": 201,
@@ -5053,7 +5070,7 @@
     "Goal": 47,
     "Order": 286,
     "PreviousId": 80309,
-    "Title": "#Aventurer{F#a}{M#o} de los montes jadeados",
+    "Title": "Aventurer{F#a}{M#o} de los montes jadeados",
     "Description": "Completa 48 pruebas contrarreloj del mundo abierto en el Valle Chenyu.",
     "FinishReward": {
       "Id": 201,
@@ -5240,7 +5257,7 @@
     "Goal": 48,
     "Order": 299,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} del mar antiguo",
+    "Title": "Aventurer{F#a}{M#o} del mar antiguo",
     "Description": "Completa 6 pruebas contrarreloj del mundo abierto en el Condado Nóstoi y el Mar de Antaño.",
     "FinishReward": {
       "Id": 201,
@@ -5257,7 +5274,7 @@
     "Goal": 48,
     "Order": 300,
     "PreviousId": 80323,
-    "Title": "#Aventurer{F#a}{M#o} del mar antiguo",
+    "Title": "Aventurer{F#a}{M#o} del mar antiguo",
     "Description": "Completa 12 pruebas contrarreloj del mundo abierto en el Condado Nóstoi y el Mar de Antaño.",
     "FinishReward": {
       "Id": 201,
@@ -5274,7 +5291,7 @@
     "Goal": 48,
     "Order": 301,
     "PreviousId": 80324,
-    "Title": "#Aventurer{F#a}{M#o} del mar antiguo",
+    "Title": "Aventurer{F#a}{M#o} del mar antiguo",
     "Description": "Completa 24 pruebas contrarreloj del mundo abierto en el Condado Nóstoi y el Mar de Antaño.",
     "FinishReward": {
       "Id": 201,
@@ -5325,7 +5342,7 @@
     "Goal": 51,
     "Order": 304,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: El origen de las llamas (I)",
+    "Title": "Explorad{F#ora}{M#or} continental: El origen de las llamas (I)",
     "Description": "Revela las regiones del mapa de Natlan (Cuenca Multiflama, Cañón Tequemecan, Monte Coatepec y Manantiales Toyac).",
     "FinishReward": {
       "Id": 201,
@@ -5385,23 +5402,6 @@
     "IsDeleteWatcherAfterFinish": false,
     "Progress": 1,
     "Icon": "UI_AchievementIcon_A019",
-    "Version": "5.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80346,
-    "Goal": 51,
-    "Order": 308,
-    "PreviousId": 0,
-    "Title": "Obsequios de la noche: El origen de las llamas (I)",
-    "Description": "Rompe los sellos de las ubicaciones secretas de todas las tribus de Natlan (Cuenca Multiflama, Cañón Tequemecan, Monte Coatepec y Manantiales Toyac).",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "",
     "Version": "5.0",
     "IsDailyQuest": false
   },
@@ -5529,7 +5529,7 @@
     "Goal": 51,
     "Order": 316,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de llamas abrasadoras (I)",
+    "Title": "Aventurer{F#a}{M#o} de llamas abrasadoras (I)",
     "Description": "Completa 3 pruebas contrarreloj de mundo abierto en la Cuenca Multiflama, el Cañón Tequemecan, el Monte Coatepec y los Manantiales Toyac.",
     "FinishReward": {
       "Id": 201,
@@ -5593,11 +5593,28 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80346,
+    "Goal": 51,
+    "Order": 308,
+    "PreviousId": 0,
+    "Title": "Obsequios de la noche: El origen de las llamas (I)",
+    "Description": "Rompe los sellos de las ubicaciones secretas de todas las tribus de Natlan (Cuenca Multiflama, Cañón Tequemecan, Monte Coatepec y Manantiales Toyac).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "",
+    "Version": "5.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80347,
     "Goal": 51,
     "Order": 317,
     "PreviousId": 80339,
-    "Title": "#Aventurer{F#a}{M#o} de llamas abrasadoras (I)",
+    "Title": "Aventurer{F#a}{M#o} de llamas abrasadoras (I)",
     "Description": "Completa 6 pruebas contrarreloj de mundo abierto en la Cuenca Multiflama, el Cañón Tequemecan, el Monte Coatepec y los Manantiales Toyac.",
     "FinishReward": {
       "Id": 201,
@@ -5614,7 +5631,7 @@
     "Goal": 51,
     "Order": 318,
     "PreviousId": 80347,
-    "Title": "#Aventurer{F#a}{M#o} de llamas abrasadoras (I)",
+    "Title": "Aventurer{F#a}{M#o} de llamas abrasadoras (I)",
     "Description": "Completa 12 pruebas contrarreloj de mundo abierto en la Cuenca Multiflama, el Cañón Tequemecan, el Monte Coatepec y los Manantiales Toyac.",
     "FinishReward": {
       "Id": 201,
@@ -5631,7 +5648,7 @@
     "Goal": 55,
     "Order": 323,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: El origen de las llamas (II)",
+    "Title": "Explorad{F#ora}{M#or} continental: El origen de las llamas (II)",
     "Description": "Revela las regiones del mapa de Natlan (Meseta Tezcatepetonco, Riscal Quahuacán y Ochkanatlan).",
     "FinishReward": {
       "Id": 201,
@@ -5801,7 +5818,7 @@
     "Goal": 55,
     "Order": 333,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de llamas abrasadoras (II)",
+    "Title": "Aventurer{F#a}{M#o} de llamas abrasadoras (II)",
     "Description": "Completa 3 pruebas contrarreloj del mundo abierto en la Meseta Tezcatepetonco, el Riscal Quahuacán y Ochkanatlan.",
     "FinishReward": {
       "Id": 201,
@@ -5818,7 +5835,7 @@
     "Goal": 55,
     "Order": 334,
     "PreviousId": 80359,
-    "Title": "#Aventurer{F#a}{M#o} de llamas abrasadoras (II)",
+    "Title": "Aventurer{F#a}{M#o} de llamas abrasadoras (II)",
     "Description": "Completa 6 pruebas contrarreloj del mundo abierto en la Meseta Tezcatepetonco, el Riscal Quahuacán y Ochkanatlan.",
     "FinishReward": {
       "Id": 201,
@@ -5835,7 +5852,7 @@
     "Goal": 55,
     "Order": 335,
     "PreviousId": 80360,
-    "Title": "#Aventurer{F#a}{M#o} de llamas abrasadoras (II)",
+    "Title": "Aventurer{F#a}{M#o} de llamas abrasadoras (II)",
     "Description": "Completa 10 pruebas contrarreloj del mundo abierto en la Meseta Tezcatepetonco, el Riscal Quahuacán y Ochkanatlan.",
     "FinishReward": {
       "Id": 201,
@@ -6006,7 +6023,7 @@
     "Order": 1542,
     "PreviousId": 0,
     "Title": "Parques, bancos y serenatas",
-    "Description": "#Obtén el “Repertorio melodioso” y conviértete en {F#una música}{M#un músico} libre.",
+    "Description": "Obtén el “Repertorio melodioso” y conviértete en {F#una música}{M#un músico} libre.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -6379,7 +6396,7 @@
     "Goal": 60,
     "Order": 356,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de la ceniza fértil",
+    "Title": "Aventurer{F#a}{M#o} de la ceniza fértil",
     "Description": "Completa 3 pruebas contrarreloj del mundo abierto en la Montaña Sagrada Ancestral y Atocpan.",
     "FinishReward": {
       "Id": 201,
@@ -6396,7 +6413,7 @@
     "Goal": 60,
     "Order": 357,
     "PreviousId": 80393,
-    "Title": "#Aventurer{F#a}{M#o} de la ceniza fértil",
+    "Title": "Aventurer{F#a}{M#o} de la ceniza fértil",
     "Description": "Completa 6 pruebas contrarreloj del mundo abierto en la Montaña Sagrada Ancestral y Atocpan.",
     "FinishReward": {
       "Id": 201,
@@ -6413,7 +6430,7 @@
     "Goal": 60,
     "Order": 358,
     "PreviousId": 80394,
-    "Title": "#Aventurer{F#a}{M#o} de la ceniza fértil",
+    "Title": "Aventurer{F#a}{M#o} de la ceniza fértil",
     "Description": "Completa 9 pruebas contrarreloj del mundo abierto en la Montaña Sagrada Ancestral y Atocpan.",
     "FinishReward": {
       "Id": 201,
@@ -6566,7 +6583,7 @@
     "Goal": 62,
     "Order": 400,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} de las islas turquesas",
+    "Title": "Aventurer{F#a}{M#o} de las islas turquesas",
     "Description": "Completa 6 pruebas contrarreloj del mundo abierto en el Resort Brisapacible.",
     "FinishReward": {
       "Id": 201,
@@ -6583,7 +6600,7 @@
     "Goal": 62,
     "Order": 401,
     "PreviousId": 80437,
-    "Title": "#Aventurer{F#a}{M#o} de las islas turquesas",
+    "Title": "Aventurer{F#a}{M#o} de las islas turquesas",
     "Description": "Completa 12 pruebas contrarreloj del mundo abierto en el Resort Brisapacible.",
     "FinishReward": {
       "Id": 201,
@@ -6600,7 +6617,7 @@
     "Goal": 62,
     "Order": 402,
     "PreviousId": 80438,
-    "Title": "#Aventurer{F#a}{M#o} de las islas turquesas",
+    "Title": "Aventurer{F#a}{M#o} de las islas turquesas",
     "Description": "Completa 24 pruebas contrarreloj del mundo abierto en el Resort Brisapacible.",
     "FinishReward": {
       "Id": 201,
@@ -6702,7 +6719,7 @@
     "Goal": 63,
     "Order": 408,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} del polvo lunar (I)",
+    "Title": "Aventurer{F#a}{M#o} del polvo lunar (I)",
     "Description": "Completa 3 pruebas contrarreloj del mundo abierto en la Isla Lempo, la Isla Hiisi y la Isla Paha.",
     "FinishReward": {
       "Id": 201,
@@ -6719,7 +6736,7 @@
     "Goal": 63,
     "Order": 409,
     "PreviousId": 80445,
-    "Title": "#Aventurer{F#a}{M#o} del polvo lunar (I)",
+    "Title": "Aventurer{F#a}{M#o} del polvo lunar (I)",
     "Description": "Completa 6 pruebas contrarreloj del mundo abierto en la Isla Lempo, la Isla Hiisi y la Isla Paha.",
     "FinishReward": {
       "Id": 201,
@@ -6736,7 +6753,7 @@
     "Goal": 63,
     "Order": 410,
     "PreviousId": 80446,
-    "Title": "#Aventurer{F#a}{M#o} del polvo lunar (I)",
+    "Title": "Aventurer{F#a}{M#o} del polvo lunar (I)",
     "Description": "Completa 10 pruebas contrarreloj del mundo abierto en la Isla Lempo, la Isla Hiisi y la Isla Paha.",
     "FinishReward": {
       "Id": 201,
@@ -6753,7 +6770,7 @@
     "Goal": 63,
     "Order": 415,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Islas bañadas por la luz lunar (I)",
+    "Title": "Explorad{F#ora}{M#or} continental: Islas bañadas por la luz lunar (I)",
     "Description": "Revela todas las regiones de Nod Krai (Isla Lempo, Isla Hiisi e Isla Paha).",
     "FinishReward": {
       "Id": 201,
@@ -6879,40 +6896,6 @@
       "Count": 5
     },
     "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81600,
-    "Goal": 63,
-    "Order": 415,
-    "PreviousId": 0,
-    "Title": "La tejesecretos del osario",
-    "Description": "Explora el lugar sagrado sellado por la primera Cantalunas.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A023",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81601,
-    "Goal": 63,
-    "Order": 416,
-    "PreviousId": 0,
-    "Title": "El pecado de alguien",
-    "Description": "Completa la aventura en la Oficina de Diseño Experimental Kuuvahki.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
     "Icon": "UI_AchievementIcon_A023",
     "Version": "6.0",
@@ -7076,7 +7059,7 @@
     "Goal": 66,
     "Order": 426,
     "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} del polvo lunar (II)",
+    "Title": "Aventurer{F#a}{M#o} del polvo lunar (II)",
     "Description": "Completa 5 pruebas contrarreloj del mundo abierto en el Mirador del Mar Vacuo, la Llanura Persigueolas y la Cumbre Velocinérea.",
     "FinishReward": {
       "Id": 201,
@@ -7093,7 +7076,7 @@
     "Goal": 66,
     "Order": 427,
     "PreviousId": 0,
-    "Title": "#Explorad{F#ora}{M#or} continental: Islas bañadas por la luz lunar (II)",
+    "Title": "Explorad{F#ora}{M#or} continental: Islas bañadas por la luz lunar (II)",
     "Description": "Revela las regiones del mapa de Nod Krai (Mirador del Mar Vacuo, Llanura Persigueolas y Cumbre Velocinérea).",
     "FinishReward": {
       "Id": 201,
@@ -7239,6 +7222,244 @@
     "Progress": 1,
     "Icon": "",
     "Version": "6.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80475,
+    "Goal": 67,
+    "Order": 439,
+    "PreviousId": 0,
+    "Title": "Cazatesoros del intersticio",
+    "Description": "Abre 45 cofres en el Monte Vientosuspiro y el Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 45,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80476,
+    "Goal": 67,
+    "Order": 440,
+    "PreviousId": 80475,
+    "Title": "Cazatesoros del intersticio",
+    "Description": "Abre 90 cofres en el Monte Vientosuspiro y el Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 90,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80477,
+    "Goal": 67,
+    "Order": 441,
+    "PreviousId": 80476,
+    "Title": "Cazatesoros del intersticio",
+    "Description": "Abre 180 cofres en el Monte Vientosuspiro y el Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 180,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80479,
+    "Goal": 67,
+    "Order": 436,
+    "PreviousId": 0,
+    "Title": "El viento incoloro de la montaña misteriosa",
+    "Description": "Revela las regiones del mapa de Mondstadt (Monte Vientosuspiro).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80480,
+    "Goal": 67,
+    "Order": 437,
+    "PreviousId": 0,
+    "Title": "Próxima parada: sanatorio abandonado",
+    "Description": "Revela las regiones del mapa de Mondstadt (Santuario del Espacio).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80481,
+    "Goal": 67,
+    "Order": 449,
+    "PreviousId": 0,
+    "Title": "Adiós, monte encantado",
+    "Description": "Completa la misión «Un largo día en las montañas».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80482,
+    "Goal": 67,
+    "Order": 448,
+    "PreviousId": 0,
+    "Title": "Un adiós y tres reencuentros",
+    "Description": "Recupera todos los objetos perdidos de Zeitlind.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80484,
+    "Goal": 67,
+    "Order": 447,
+    "PreviousId": 0,
+    "Title": "Un corazón que es de verdad",
+    "Description": "Rompe los sellos de la cámara secreta de la nobleza del Monte Vientosuspiro y la sala secreta multimundos del Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80485,
+    "Goal": 67,
+    "Order": 446,
+    "PreviousId": 0,
+    "Title": "Espacio y albedrío no libre",
+    "Description": "Mejora el Centro de Replicación de Recuerdos del Santuario del Espacio hasta el nivel máximo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80486,
+    "Goal": 67,
+    "Order": 438,
+    "PreviousId": 0,
+    "Title": "Tagelieder para Titono",
+    "Description": "Desbloquea todos los Puntos de teletransporte de Mondstadt (Monte Vientosuspiro y Santuario del Espacio).",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 31,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80487,
+    "Goal": 67,
+    "Order": 442,
+    "PreviousId": 0,
+    "Title": "Aventurer{F#a}{M#o} del intersticio",
+    "Description": "Completa 7 pruebas contrarreloj del mundo abierto en el Monte Vientosuspiro y el Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 7,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80488,
+    "Goal": 67,
+    "Order": 443,
+    "PreviousId": 80487,
+    "Title": "Aventurer{F#a}{M#o} del intersticio",
+    "Description": "Completa 14 pruebas contrarreloj del mundo abierto en el Monte Vientosuspiro y el Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 14,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80489,
+    "Goal": 67,
+    "Order": 444,
+    "PreviousId": 80488,
+    "Title": "Aventurer{F#a}{M#o} del intersticio",
+    "Description": "Completa 28 pruebas contrarreloj del mundo abierto en el Monte Vientosuspiro y el Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 28,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 80500,
+    "Goal": 67,
+    "Order": 445,
+    "PreviousId": 0,
+    "Title": "Guía del intersticio",
+    "Description": "Persigue a 3 Seelies en el Monte Vientosuspiro y el Santuario del Espacio e ilumina los Pedestales de los Seelies.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 3,
+    "Icon": "UI_AchievementIcon_A024",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -7562,23 +7783,6 @@
     "Progress": 1,
     "Icon": "UI_AchievementIcon_O001",
     "Version": "1.1",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80092,
-    "Goal": 0,
-    "Order": 1026,
-    "PreviousId": 0,
-    "Title": "Ídolo en Inazuma",
-    "Description": "Recompensa por alcanzar Nivel de reputación 10 en Inazuma.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "2.0",
     "IsDailyQuest": false
   },
   {
@@ -8879,7 +9083,7 @@
     "Order": 1103,
     "PreviousId": 0,
     "Title": "Ninjas vs. Fatui",
-    "Description": "#Sé arrastrad{F#a}{M#o} a la pelea entre Los Ocelos y los Fatui...",
+    "Description": "Sé arrastrad{F#a}{M#o} a la pelea entre Los Ocelos y los Fatui...",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -9610,7 +9814,7 @@
     "Order": 1145,
     "PreviousId": 0,
     "Title": "Obsequio felino",
-    "Description": "#Alimenta al gato de la Isla Seirai y hazte su amig{F#a}{M#o}.",
+    "Description": "Alimenta al gato de la Isla Seirai y hazte su amig{F#a}{M#o}.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -10068,7 +10272,7 @@
     "Goal": 0,
     "Order": 1175,
     "PreviousId": 0,
-    "Title": "#{F#La incomparable heroína}{M#El incomparable héroe} de Tokoyo",
+    "Title": "{F#La incomparable heroína}{M#El incomparable héroe} de Tokoyo",
     "Description": "Consigue el reconocimiento de los jibashiri.",
     "FinishReward": {
       "Id": 201,
@@ -10545,7 +10749,7 @@
     "Order": 1204,
     "PreviousId": 0,
     "Title": "Huele a alquitrán...",
-    "Description": "#Sé derrotad{F#a}{M#o} por primera vez por el fango oscuro.",
+    "Description": "Sé derrotad{F#a}{M#o} por primera vez por el fango oscuro.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -10612,7 +10816,7 @@
     "Goal": 0,
     "Order": 1209,
     "PreviousId": 0,
-    "Title": "#Sabi{F#a}{M#o} en Sumeru",
+    "Title": "Sabi{F#a}{M#o} en Sumeru",
     "Description": "Alcanza el Nivel de reputación 10 en Sumeru.",
     "FinishReward": {
       "Id": 201,
@@ -11088,7 +11292,7 @@
     "Goal": 0,
     "Order": 1237,
     "PreviousId": 0,
-    "Title": "#{F#Rastreadora}{M#Rastreador}",
+    "Title": "{F#Rastreadora}{M#Rastreador}",
     "Description": "Usa una reacción de Intensificación para descubrir algo que estaba oculto.",
     "FinishReward": {
       "Id": 201,
@@ -11122,7 +11326,7 @@
     "Goal": 0,
     "Order": 1239,
     "PreviousId": 0,
-    "Title": "#Raud{F#a}{M#o} como el viento",
+    "Title": "Raud{F#a}{M#o} como el viento",
     "Description": "Activa tres corrientes de viento en la Arboleda Moutiyima.",
     "FinishReward": {
       "Id": 201,
@@ -11207,7 +11411,7 @@
     "Goal": 0,
     "Order": 1244,
     "PreviousId": 0,
-    "Title": "#{F#Manipuladora}{M#Manipulador} del clima",
+    "Title": "{F#Manipuladora}{M#Manipulador} del clima",
     "Description": "Cambia el clima de la Floresta Apam usando la máquina divina de Váruna.",
     "FinishReward": {
       "Id": 201,
@@ -11241,7 +11445,7 @@
     "Goal": 0,
     "Order": 1246,
     "PreviousId": 0,
-    "Title": "#Hij{F#a}{M#o} de Kara",
+    "Title": "Hij{F#a}{M#o} de Kara",
     "Description": "Flota libremente por el bosque.",
     "FinishReward": {
       "Id": 201,
@@ -11343,7 +11547,7 @@
     "Goal": 0,
     "Order": 1252,
     "PreviousId": 0,
-    "Title": "#Pensando como {F#una}{M#un} {F#etióloga}{M#etiólogo}",
+    "Title": "Pensando como {F#una}{M#un} {F#etióloga}{M#etiólogo}",
     "Description": "El bote de tinta contiene un poder aterrador.",
     "FinishReward": {
       "Id": 201,
@@ -11700,7 +11904,7 @@
     "Goal": 0,
     "Order": 1275,
     "PreviousId": 0,
-    "Title": "#Expert{F#a}{M#o} en arqueología",
+    "Title": "Expert{F#a}{M#o} en arqueología",
     "Description": "Haz que todos los obeliscos primigenios del Desierto Hipóstilo, el Alto Sutej y el Bajo Sutej vuelvan a funcionar.",
     "FinishReward": {
       "Id": 201,
@@ -11854,7 +12058,7 @@
     "Order": 1286,
     "PreviousId": 0,
     "Title": "¡Qué asco, un gusano!",
-    "Description": "#Sé atacad{F#a}{M#o} por un gusano de arena por primera vez.",
+    "Description": "Sé atacad{F#a}{M#o} por un gusano de arena por primera vez.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -12227,7 +12431,7 @@
     "Goal": 0,
     "Order": 1309,
     "PreviousId": 0,
-    "Title": "#{F#La}{M#El} gran {F#forjadora}{M#forjador}",
+    "Title": "{F#La}{M#El} gran {F#forjadora}{M#forjador}",
     "Description": "Activa el gran ascensor que hay en la fábrica de las ruinas subterráneas.",
     "FinishReward": {
       "Id": 201,
@@ -12348,23 +12552,6 @@
     "PreviousId": 0,
     "Title": "Espíritus que vuelven a casa",
     "Description": "Completa «Fuego sombrío».",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 81339,
-    "Goal": 0,
-    "Order": 1317,
-    "PreviousId": 0,
-    "Title": "Un mar ubérrimo",
-    "Description": "Todos los estanques florales del Piélago Vurukasha han recuperado su vitalidad.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -12507,6 +12694,23 @@
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 15,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81339,
+    "Goal": 0,
+    "Order": 1317,
+    "PreviousId": 0,
+    "Title": "Un mar ubérrimo",
+    "Description": "Todos los estanques florales del Piélago Vurukasha han recuperado su vitalidad.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
     "Icon": "",
     "Version": "3.6",
     "IsDailyQuest": false
@@ -12789,7 +12993,7 @@
     "Order": 1344,
     "PreviousId": 0,
     "Title": "Tras un sinfín de adversidades...",
-    "Description": "#“Para arrebatarle la espada al malvado dragón, {F#la caballera}{M#el caballero} en la antigua ciudad sellada irrumpió”.",
+    "Description": "“Para arrebatarle la espada al malvado dragón, {F#la caballera}{M#el caballero} en la antigua ciudad sellada irrumpió”.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -12806,7 +13010,7 @@
     "Order": 1345,
     "PreviousId": 0,
     "Title": "¿Y qué pasó después?",
-    "Description": "#“{F#La caballera}{M#El caballero} venció al dragón malvado, liberó a la princesa de su yugo y el reino recuperó su antigua gloria”.",
+    "Description": "“{F#La caballera}{M#El caballero} venció al dragón malvado, liberó a la princesa de su yugo y el reino recuperó su antigua gloria”.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -12941,7 +13145,7 @@
     "Goal": 0,
     "Order": 1352,
     "PreviousId": 0,
-    "Title": "#Famos{F#a}{M#o} en Fontaine",
+    "Title": "Famos{F#a}{M#o} en Fontaine",
     "Description": "Alcanza el Nivel de reputación 10 en Fontaine.",
     "FinishReward": {
       "Id": 201,
@@ -13396,6 +13600,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81394,
+    "Goal": 0,
+    "Order": 1378,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81395,
     "Goal": 0,
     "Order": 1379,
@@ -13427,6 +13648,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.1",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81397,
+    "Goal": 0,
+    "Order": 1381,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13604,7 +13842,7 @@
     "Goal": 0,
     "Order": 1392,
     "PreviousId": 0,
-    "Title": "#Implicad{F#a}{M#o} al 100%",
+    "Title": "Implicad{F#a}{M#o} al 100%",
     "Description": "Descubre el secreto de la ubicación de la Comunidad Cruz de los Narcisos y derrota a Jakob.",
     "FinishReward": {
       "Id": 201,
@@ -13634,6 +13872,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81410,
+    "Goal": 0,
+    "Order": 1394,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81411,
     "Goal": 0,
     "Order": 1395,
@@ -13648,6 +13903,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81412,
+    "Goal": 0,
+    "Order": 1396,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81413,
+    "Goal": 0,
+    "Order": 1397,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -13719,6 +14008,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81420,
+    "Goal": 0,
+    "Order": 1404,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81421,
+    "Goal": 0,
+    "Order": 1405,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81422,
     "Goal": 0,
     "Order": 1406,
@@ -13784,6 +14107,23 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81426,
+    "Goal": 0,
+    "Order": 1410,
+    "PreviousId": 0,
+    "Title": "",
+    "Description": "",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -14522,7 +14862,7 @@
     "Goal": 0,
     "Order": 1459,
     "PreviousId": 0,
-    "Title": "#{F#Ávida lectora}{M#Ávido lector}",
+    "Title": "{F#Ávida lectora}{M#Ávido lector}",
     "Description": "Usa los grimorios para activar todas las estanterías misteriosas del Castillo Apagado.",
     "FinishReward": {
       "Id": 201,
@@ -14539,7 +14879,7 @@
     "Goal": 0,
     "Order": 1460,
     "PreviousId": 0,
-    "Title": "#{F#La forastera}{M#El forastero} errante",
+    "Title": "{F#La forastera}{M#El forastero} errante",
     "Description": "Recupera la partitura perdida.",
     "FinishReward": {
       "Id": 201,
@@ -14573,7 +14913,7 @@
     "Goal": 0,
     "Order": 1462,
     "PreviousId": 0,
-    "Title": "#El deber de {F#una dueña}{M#un dueño}",
+    "Title": "El deber de {F#una dueña}{M#un dueño}",
     "Description": "Lleva algo de comida a Osifuz.",
     "FinishReward": {
       "Id": 201,
@@ -15219,7 +15559,7 @@
     "Goal": 0,
     "Order": 1506,
     "PreviousId": 0,
-    "Title": "#Notori{F#a}{M#o} en Natlan",
+    "Title": "Notori{F#a}{M#o} en Natlan",
     "Description": "Alcanza el Nivel de reputación 4 en todas las tribus de Natlan.",
     "FinishReward": {
       "Id": 201,
@@ -15237,7 +15577,7 @@
     "Order": 1507,
     "PreviousId": 0,
     "Title": "Solo escucho el viento de la noche",
-    "Description": "#Derrota a 4 enemigos en 5{NON_BREAK_SPACE}s por medio de ataques de naturaleza noctámbula.",
+    "Description": "Derrota a 4 enemigos en 5{NON_BREAK_SPACE}s por medio de ataques de naturaleza noctámbula.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -15254,7 +15594,7 @@
     "Order": 1508,
     "PreviousId": 0,
     "Title": "La recompensa de la noche eterna",
-    "Description": "#Permanece en estado de bendición noctámbula durante 18{NON_BREAK_SPACE}s.",
+    "Description": "Permanece en estado de bendición noctámbula durante 18{NON_BREAK_SPACE}s.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -15372,7 +15712,7 @@
     "Goal": 0,
     "Order": 1515,
     "PreviousId": 0,
-    "Title": "#Fanátic{F#a}{M#o} del combate",
+    "Title": "Fanátic{F#a}{M#o} del combate",
     "Description": "Completa todos los Desafíos del Audaz de la Tribu Plumaflora y obtén la calificación máxima.",
     "FinishReward": {
       "Id": 201,
@@ -15695,7 +16035,7 @@
     "Goal": 0,
     "Order": 1535,
     "PreviousId": 0,
-    "Title": "#{F#La hambrienta, hambrienta pintora}{M#El hambriento, hambriento pintor}",
+    "Title": "{F#La hambrienta, hambrienta pintora}{M#El hambriento, hambriento pintor}",
     "Description": "Pinta el peñasco con los colores de tu corazón.",
     "FinishReward": {
       "Id": 201,
@@ -15950,7 +16290,7 @@
     "Goal": 0,
     "Order": 1561,
     "PreviousId": 0,
-    "Title": "#{REALNAME[ID(2)|SHOWHOST(true)]} es un saurio libre...",
+    "Title": "{REALNAME[ID(2)|SHOWHOST(true)]} es un saurio libre...",
     "Description": "Despídete de tu compañero saurio.",
     "FinishReward": {
       "Id": 201,
@@ -16018,7 +16358,7 @@
     "Goal": 0,
     "Order": 1566,
     "PreviousId": 0,
-    "Title": "#Rápid{F#a}{M#o} y furios{F#a}{M#o}",
+    "Title": "Rápid{F#a}{M#o} y furios{F#a}{M#o}",
     "Description": "Completa todos los Desafíos del Audaz de la Comunidad de la Feracidad y obtén la calificación máxima.",
     "FinishReward": {
       "Id": 201,
@@ -16103,7 +16443,7 @@
     "Goal": 0,
     "Order": 1572,
     "PreviousId": 0,
-    "Title": "#Todos ustedes contra mí sol{F#a}{M#o}",
+    "Title": "Todos ustedes contra mí sol{F#a}{M#o}",
     "Description": "Derrota a los tres... a los dos hermanos Hurones Fraguacorazados.",
     "FinishReward": {
       "Id": 201,
@@ -16341,7 +16681,7 @@
     "Goal": 0,
     "Order": 1588,
     "PreviousId": 0,
-    "Title": "#{F#La sucesora}{M#El sucesor} de Ayar",
+    "Title": "{F#La sucesora}{M#El sucesor} de Ayar",
     "Description": "Gana la Copa Héroes de Ayar.",
     "FinishReward": {
       "Id": 201,
@@ -16422,6 +16762,40 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 81600,
+    "Goal": 63,
+    "Order": 415,
+    "PreviousId": 0,
+    "Title": "La tejesecretos del osario",
+    "Description": "Explora el lugar sagrado sellado por la primera Cantalunas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81601,
+    "Goal": 63,
+    "Order": 416,
+    "PreviousId": 0,
+    "Title": "El pecado de alguien",
+    "Description": "Completa la aventura en la Oficina de Diseño Experimental Kuuvahki.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_A023",
+    "Version": "6.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 81602,
     "Goal": 0,
     "Order": 1597,
@@ -16495,7 +16869,7 @@
     "Order": 1601,
     "PreviousId": 0,
     "Title": "Ingeniería de páramos",
-    "Description": "#Hazte amig{F#a}{M#o} de Bobik.",
+    "Description": "Hazte amig{F#a}{M#o} de Bobik.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -16647,7 +17021,7 @@
     "Goal": 0,
     "Order": 1610,
     "PreviousId": 0,
-    "Title": "#Super{F#heroína}{M#héroe} a la fuerza",
+    "Title": "Super{F#heroína}{M#héroe} a la fuerza",
     "Description": "Ejecuta un salto especial.",
     "FinishReward": {
       "Id": 201,
@@ -16800,7 +17174,7 @@
     "Goal": 0,
     "Order": 1618,
     "PreviousId": 0,
-    "Title": "#{F#La viajera}{M#El viajero} de oro y la luna de plata",
+    "Title": "{F#La viajera}{M#El viajero} de oro y la luna de plata",
     "Description": "Completa “Anécdotas selénicas (II)”.",
     "FinishReward": {
       "Id": 201,
@@ -17106,8 +17480,8 @@
     "Goal": 0,
     "Order": 1636,
     "PreviousId": 0,
-    "Title": "#Ahogad{F#a}{M#o} en la oscuridad",
-    "Description": "#Cae derrotad{F#a}{M#o} por la corrosión del Abismo.",
+    "Title": "Ahogad{F#a}{M#o} en la oscuridad",
+    "Description": "Cae derrotad{F#a}{M#o} por la corrosión del Abismo.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -17116,6 +17490,329 @@
     "Progress": 1,
     "Icon": "",
     "Version": "6.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81643,
+    "Goal": 0,
+    "Order": 1637,
+    "PreviousId": 0,
+    "Title": "No soy yo quien debería pedir perdón",
+    "Description": "El mecanismo de alarma de la antigua torre ya no parpadea a causa de los vendavales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81644,
+    "Goal": 0,
+    "Order": 1638,
+    "PreviousId": 0,
+    "Title": "Un buen libro nunca es una pérdida de tiempo",
+    "Description": "Encuentra todos los tesoros escondidos por las páginas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 2,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81645,
+    "Goal": 0,
+    "Order": 1639,
+    "PreviousId": 0,
+    "Title": "El Santo Grial y los milagros existen",
+    "Description": "Completa la aventura de «Aerinny».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81646,
+    "Goal": 0,
+    "Order": 1640,
+    "PreviousId": 0,
+    "Title": "Un terrario en un cajón",
+    "Description": "La vida siempre acaba abriéndose paso.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81647,
+    "Goal": 0,
+    "Order": 1641,
+    "PreviousId": 0,
+    "Title": "Y por eso, tú eres dign{F#a}{M#o} de ello",
+    "Description": "Que puedas o no cruzar el umbral dependerá de si encuentras la forma de sortearlo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81648,
+    "Goal": 0,
+    "Order": 1642,
+    "PreviousId": 0,
+    "Title": "Cubriendo cada lado",
+    "Description": "... aunque, en realidad, el desafío solo tiene dos lados.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81649,
+    "Goal": 0,
+    "Order": 1643,
+    "PreviousId": 0,
+    "Title": "Seguro que eres diestr{F#a}{M#o}",
+    "Description": "Ayuda por primera vez a Diestrín a liberar su poder espacial.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81650,
+    "Goal": 0,
+    "Order": 1644,
+    "PreviousId": 0,
+    "Title": "Una escalofriante noche en el museo",
+    "Description": "Será mejor dejar las cosas de la vitrina en su lugar...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81651,
+    "Goal": 0,
+    "Order": 1645,
+    "PreviousId": 0,
+    "Title": "El jardín de lilas",
+    "Description": "Observa por primera vez los recuerdos de Zeitlind y su hermana.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81652,
+    "Goal": 0,
+    "Order": 1646,
+    "PreviousId": 0,
+    "Title": "Fundamentos de la vieja escuela",
+    "Description": "Una aventura clásica y la forma que adopta...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81653,
+    "Goal": 0,
+    "Order": 1647,
+    "PreviousId": 0,
+    "Title": "Alas nacidas de un sueño",
+    "Description": "Intenta batir las alas manifestadas...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81654,
+    "Goal": 0,
+    "Order": 1648,
+    "PreviousId": 0,
+    "Title": "Un mundo en la palma de la mano",
+    "Description": "Investiga a fondo por primera vez el interior del paisaje en miniatura.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81655,
+    "Goal": 0,
+    "Order": 1649,
+    "PreviousId": 0,
+    "Title": "¿Dónde está ahora la luz que cortaba la lluvia?",
+    "Description": "Esas son historias pasadas de caballería y justicia.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81656,
+    "Goal": 0,
+    "Order": 1650,
+    "PreviousId": 0,
+    "Title": "Impávid{F#a}{M#o} ante las nubes",
+    "Description": "Si llegas a la cima de la montaña, tal vez nada en este mundo pueda eclipsarte.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81657,
+    "Goal": 0,
+    "Order": 1651,
+    "PreviousId": 0,
+    "Title": "«Shed a Light»",
+    "Description": "Aceptar el mundo mortal y trascenderlo son dos direcciones que van en un mismo camino.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81658,
+    "Goal": 0,
+    "Order": 1652,
+    "PreviousId": 0,
+    "Title": "Sobre lo que ha pasado, lo que pasa, o lo que vendrá",
+    "Description": "Llega al Área Central del Salón de Columnas del Santuario del Espacio.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81659,
+    "Goal": 0,
+    "Order": 1653,
+    "PreviousId": 0,
+    "Title": "Cortar la bilis negra para curar la melancolía",
+    "Description": "Derrota a Melanta.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81660,
+    "Goal": 0,
+    "Order": 1654,
+    "PreviousId": 0,
+    "Title": "Cómo comportarse en un museo",
+    "Description": "Completa los cinco desafíos de las vitrinas.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 81661,
+    "Goal": 0,
+    "Order": 1655,
+    "PreviousId": 0,
+    "Title": "Un puntito en el universo",
+    "Description": "Al contemplar las cosas desde lo alto, todo parece diminuto. Tal vez al mirar a lo alto desde abajo, te parezca que no eres más que una gota de agua en un vasto océano.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
     "IsDailyQuest": false
   },
   {
@@ -18688,7 +19385,7 @@
     "Order": 2096,
     "PreviousId": 0,
     "Title": "Hidroterapia",
-    "Description": "#Derrota a la Doncella del Espejo sin ser atrapad{F#a}{M#o} por su prisión Hydro.",
+    "Description": "Derrota a la Doncella del Espejo sin ser atrapad{F#a}{M#o} por su prisión Hydro.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -18726,23 +19423,6 @@
     "FinishReward": {
       "Id": 201,
       "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 82109,
-    "Goal": 20,
-    "Order": 2099,
-    "PreviousId": 0,
-    "Title": "El toque final",
-    "Description": "Derrota a Azhdaha sin haber usado escudos en batalla.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
@@ -18921,6 +19601,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82109,
+    "Goal": 20,
+    "Order": 2099,
+    "PreviousId": 0,
+    "Title": "El toque final",
+    "Description": "Derrota a Azhdaha sin haber usado escudos en batalla.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 82110,
     "Goal": 0,
     "Order": 2110,
@@ -18943,7 +19640,7 @@
     "Order": 2111,
     "PreviousId": 0,
     "Title": "Arma biomarina",
-    "Description": "#Sé golpead{F#a}{M#o} por cierto animal creado por el Hipóstasis Hydro.",
+    "Description": "Sé golpead{F#a}{M#o} por cierto animal creado por el Hipóstasis Hydro.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -18960,7 +19657,7 @@
     "Order": 2112,
     "PreviousId": 0,
     "Title": "En el amor tiene que haber comunicación",
-    "Description": "#Derrota a la Manifestación del Trueno sin ser bloquead{F#a}{M#o}.",
+    "Description": "Derrota a la Manifestación del Trueno sin ser bloquead{F#a}{M#o}.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -19062,7 +19759,7 @@
     "Order": 2118,
     "PreviousId": 0,
     "Title": "Escape eléctrico",
-    "Description": "#Derrota a la Manifestación del Trueno sin ser golpead{F#a}{M#o} por su celda eléctrica.",
+    "Description": "Derrota a la Manifestación del Trueno sin ser golpead{F#a}{M#o} por su celda eléctrica.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -19079,7 +19776,7 @@
     "Order": 2119,
     "PreviousId": 0,
     "Title": "Silencio inalámbrico",
-    "Description": "#Sé aprisionad{F#a}{M#o} por la Manifestación del Trueno antes de atacarla.",
+    "Description": "Sé aprisionad{F#a}{M#o} por la Manifestación del Trueno antes de atacarla.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -19538,7 +20235,7 @@
     "Order": 2146,
     "PreviousId": 0,
     "Title": "¡Granada saltarina, chispas explosivas!",
-    "Description": "#Derrota 4 enemigos utilizando reacciones de Crepitar en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×1).",
+    "Description": "Derrota 4 enemigos utilizando reacciones de Crepitar en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×1).",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -19555,7 +20252,7 @@
     "Order": 2147,
     "PreviousId": 82146,
     "Title": "¡Granada saltarina, chispas explosivas!",
-    "Description": "#Derrota 4 enemigos utilizando reacciones de Crepitar en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×5).",
+    "Description": "Derrota 4 enemigos utilizando reacciones de Crepitar en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×5).",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -19572,7 +20269,7 @@
     "Order": 2148,
     "PreviousId": 82147,
     "Title": "¡Granada saltarina, chispas explosivas!",
-    "Description": "#Derrota 4 enemigos utilizando reacciones de Crepitar en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×10).",
+    "Description": "Derrota 4 enemigos utilizando reacciones de Crepitar en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×10).",
     "FinishReward": {
       "Id": 201,
       "Count": 20
@@ -19589,7 +20286,7 @@
     "Order": 2149,
     "PreviousId": 0,
     "Title": "Circo de la exuberancia",
-    "Description": "#Derrota 4 enemigos utilizando reacciones de Sobreflorecimiento en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×1).",
+    "Description": "Derrota 4 enemigos utilizando reacciones de Sobreflorecimiento en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×1).",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -19606,7 +20303,7 @@
     "Order": 2150,
     "PreviousId": 82149,
     "Title": "Circo de la exuberancia",
-    "Description": "#Derrota 4 enemigos utilizando reacciones de Sobreflorecimiento en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×5).",
+    "Description": "Derrota 4 enemigos utilizando reacciones de Sobreflorecimiento en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×5).",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -19623,7 +20320,7 @@
     "Order": 2151,
     "PreviousId": 82150,
     "Title": "Circo de la exuberancia",
-    "Description": "#Derrota 4 enemigos utilizando reacciones de Sobreflorecimiento en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×10).",
+    "Description": "Derrota 4 enemigos utilizando reacciones de Sobreflorecimiento en menos de 2{NON_BREAK_SPACE}s{NON_BREAK_SPACE}(×10).",
     "FinishReward": {
       "Id": 201,
       "Count": 20
@@ -20014,7 +20711,7 @@
     "Order": 2181,
     "PreviousId": 0,
     "Title": "Cuartel gravitacional",
-    "Description": "#Derrota al Generador de Campo Experimental sin ser golpead{F#a}{M#o} por su ataque “Onda gravitacional”.",
+    "Description": "Derrota al Generador de Campo Experimental sin ser golpead{F#a}{M#o} por su ataque “Onda gravitacional”.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -20336,7 +21033,7 @@
     "Goal": 50,
     "Order": 2208,
     "PreviousId": 0,
-    "Title": "#Narrad{F#ora}{M#or} fiable",
+    "Title": "Narrad{F#ora}{M#or} fiable",
     "Description": "Completa una actuación entera del Teatro Fantasía en cualquier dificultad habiendo elegido al menos 8 eventos de magnimejoras o de bendiciones rutilantes.",
     "FinishReward": {
       "Id": 201,
@@ -20626,7 +21323,7 @@
     "Order": 2222,
     "PreviousId": 82221,
     "Title": "Las Tres Estrellas Cromáticas",
-    "Description": "#Derrota a Las Tres Estrellas Cromáticas en un máximo de 10{NON_BREAK_SPACE}s después de derrotar a uno de sus integrantes.",
+    "Description": "Derrota a Las Tres Estrellas Cromáticas en un máximo de 10{NON_BREAK_SPACE}s después de derrotar a uno de sus integrantes.",
     "FinishReward": {
       "Id": 201,
       "Count": 20
@@ -21577,7 +22274,7 @@
     "Goal": 59,
     "Order": 2278,
     "PreviousId": 0,
-    "Title": "#“{NICKNAME} Parry”",
+    "Title": "“{NICKNAME} Parry”",
     "Description": "Derrota al Señor del Fuego Primigenio Corroído cuando el campo de batalla se haya reducido al mínimo posible.",
     "FinishReward": {
       "Id": 201,
@@ -22083,6 +22780,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82308,
+    "Goal": 0,
+    "Order": 2308,
+    "PreviousId": 0,
+    "Title": "Nunca actuar impulsivamente",
+    "Description": "Destruye por igual las estrellas elementales activas de todos los tipos elementales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -22190,7 +22904,7 @@
     "Order": 4007,
     "PreviousId": 0,
     "Title": "Excelencia de caballero",
-    "Description": "#Conviértete en {F#una}{M#un} Caballer{F#a}{M#o} Honorari{F#a}{M#o} de Favonius.",
+    "Description": "Conviértete en {F#una}{M#un} Caballer{F#a}{M#o} Honorari{F#a}{M#o} de Favonius.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -22224,7 +22938,7 @@
     "Order": 4009,
     "PreviousId": 0,
     "Title": "El viento siempre cambia su curso",
-    "Description": "#Sé rescatad{F#a}{M#o} por Dvalin.",
+    "Description": "Sé rescatad{F#a}{M#o} por Dvalin.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -22275,7 +22989,7 @@
     "Order": 4012,
     "PreviousId": 0,
     "Title": "En tierras desconocidas",
-    "Description": "#Sé rescatad{F#a}{M#o} por un forastero en “un lugar que los lugareños no visitan”.",
+    "Description": "Sé rescatad{F#a}{M#o} por un forastero en “un lugar que los lugareños no visitan”.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -22522,6 +23236,40 @@
     "Progress": 1,
     "Icon": "",
     "Version": "1.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84026,
+    "Goal": 17,
+    "Order": 6001,
+    "PreviousId": 0,
+    "Title": "Una aventura maravillosa: Prólogo",
+    "Description": "Completa «Una aventura maravillosa» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84028,
+    "Goal": 17,
+    "Order": 6110,
+    "PreviousId": 0,
+    "Title": "El ojo que todo lo ve",
+    "Description": "Evalúa correctamente toda la información.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
     "IsDailyQuest": false
   },
   {
@@ -22784,7 +23532,7 @@
     "Goal": 0,
     "Order": 5023,
     "PreviousId": 0,
-    "Title": "#Foraster{F#a}{M#o} revolucionari{F#a}{M#o}",
+    "Title": "Foraster{F#a}{M#o} revolucionari{F#a}{M#o}",
     "Description": "Únete al ejército de resistencia.",
     "FinishReward": {
       "Id": 201,
@@ -22948,6 +23696,40 @@
     "Icon": "",
     "Version": "2.4",
     "IsDailyQuest": false
+  },
+  {
+    "Id": 84054,
+    "Goal": 0,
+    "Order": 5033,
+    "PreviousId": 0,
+    "Title": "El diario de aventuras de Anna",
+    "Description": "Ayuda a Anna a convertirse en una aventurera.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
+  },
+  {
+    "Id": 84055,
+    "Goal": 0,
+    "Order": 5034,
+    "PreviousId": 0,
+    "Title": "Un futuro prometedor",
+    "Description": "Un joven está a punto de comenzar una larga travesía...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": true
   },
   {
     "Id": 84056,
@@ -23295,7 +24077,7 @@
     "Order": 5055,
     "PreviousId": 0,
     "Title": "El imaginario del Dr. Dottore",
-    "Description": "#Sé vist{F#a}{M#o} como {F#la heroína salvadora}{M#el héroe salvador} del mundo por los ciudadanos bajo el control de Dottore.",
+    "Description": "Sé vist{F#a}{M#o} como {F#la heroína salvadora}{M#el héroe salvador} del mundo por los ciudadanos bajo el control de Dottore.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -23567,7 +24349,7 @@
     "Order": 5071,
     "PreviousId": 0,
     "Title": "Deambulando por la noche estrellada",
-    "Description": "#Evoca los recuerdos relacionados con tu herman{F#o}{M#a}.",
+    "Description": "Evoca los recuerdos relacionados con tu herman{F#o}{M#a}.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -23652,7 +24434,7 @@
     "Order": 5076,
     "PreviousId": 0,
     "Title": "¡Detectives en acción!",
-    "Description": "#Investiga la verdad del caso como abogad{F#a}{M#o} de Lyney.",
+    "Description": "Investiga la verdad del caso como abogad{F#a}{M#o} de Lyney.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -23695,6 +24477,958 @@
     "Progress": 1,
     "Icon": "",
     "Version": "4.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84100,
+    "Goal": 17,
+    "Order": 6010,
+    "PreviousId": 0,
+    "Title": "Amo de los Relámpagos Violentos",
+    "Description": "Sé testigo de cómo la mala suerte de Bennett puede afectar incluso al clima.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84101,
+    "Goal": 17,
+    "Order": 6011,
+    "PreviousId": 0,
+    "Title": "El poder de la buena suerte",
+    "Description": "Activa los mecanismos sin equivocarte y obtén el tesoro.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84102,
+    "Goal": 17,
+    "Order": 6200,
+    "PreviousId": 0,
+    "Title": "Superando los límites",
+    "Description": "Completa «La fuente de la curación» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84103,
+    "Goal": 17,
+    "Order": 6300,
+    "PreviousId": 0,
+    "Title": "Una criada firme y perfecta",
+    "Description": "Completa «El camino de una caballera» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84104,
+    "Goal": 17,
+    "Order": 6100,
+    "PreviousId": 0,
+    "Title": "El mal ha sido desterrado",
+    "Description": "Completa «El cazafantasmas» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84105,
+    "Goal": 17,
+    "Order": 6211,
+    "PreviousId": 0,
+    "Title": "La leyenda picante de Mondstadt",
+    "Description": "Prueba la bebida picante de Bárbara.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84106,
+    "Goal": 17,
+    "Order": 6310,
+    "PreviousId": 0,
+    "Title": "“... Porque debo cumplir con mi deber”",
+    "Description": "Ayuda a Noelle a descubrir la fuente de su fuerza.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84107,
+    "Goal": 17,
+    "Order": 6111,
+    "PreviousId": 0,
+    "Title": "Héroe del picante",
+    "Description": "Elabora un helado erróneo y haz que la positividad congénita de Chongyun estalle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84108,
+    "Goal": 17,
+    "Order": 6210,
+    "PreviousId": 0,
+    "Title": "Guardaespaldas de una ídolo",
+    "Description": "Convence a Albert y los demás admiradores de Bárbara para que se vayan.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84109,
+    "Goal": 17,
+    "Order": 6311,
+    "PreviousId": 0,
+    "Title": "Un mundo que solo las rosas conocen",
+    "Description": "Lee las notas de estudio de Noelle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84110,
+    "Goal": 17,
+    "Order": 6400,
+    "PreviousId": 0,
+    "Title": "Olvídate de la preocupación",
+    "Description": "Completa «El examen de una caballera» y desbloquea todos los finales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84111,
+    "Goal": 17,
+    "Order": 6410,
+    "PreviousId": 0,
+    "Title": "Caballera sin un rasguño",
+    "Description": "Escucha «El viaje de una caballera por Liyue» con Noelle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84112,
+    "Goal": 17,
+    "Order": 6411,
+    "PreviousId": 0,
+    "Title": "La registradora de Mondstadt",
+    "Description": "Lee las notas de estudio de Noelle.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84113,
+    "Goal": 17,
+    "Order": 6500,
+    "PreviousId": 0,
+    "Title": "Mezclado, no agitado",
+    "Description": "Completa «Coctelería felina» y desbloquea todos los finales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84114,
+    "Goal": 17,
+    "Order": 6510,
+    "PreviousId": 0,
+    "Title": "Hay un “pero”...",
+    "Description": "Ayuda a Diona a encontrar una base especial para su bebida.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84115,
+    "Goal": 17,
+    "Order": 6511,
+    "PreviousId": 0,
+    "Title": "Su Miaujestad",
+    "Description": "Lleva a todos los gatos a la taberna Cola de Gato.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "1.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84116,
+    "Goal": 17,
+    "Order": 6600,
+    "PreviousId": 0,
+    "Title": "Todos contentos",
+    "Description": "Completa «Los quehaceres cotidianos de un amo de llaves» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84117,
+    "Goal": 17,
+    "Order": 6610,
+    "PreviousId": 0,
+    "Title": "Am{F#a}{M#o} de casa",
+    "Description": "Termina de limpiar en el tiempo indicado.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84118,
+    "Goal": 17,
+    "Order": 6611,
+    "PreviousId": 0,
+    "Title": "Y del mar nunca jamás lo separaron",
+    "Description": "Averigua la historia de Inu Shoushou con Thoma.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84119,
+    "Goal": 17,
+    "Order": 6700,
+    "PreviousId": 0,
+    "Title": "Quisiera ser tan alta...",
+    "Description": "Completa «Técnica “¡Yujuuu!”: el arte de crecer» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84120,
+    "Goal": 17,
+    "Order": 6710,
+    "PreviousId": 0,
+    "Title": "Velocidad, yo soy veloz",
+    "Description": "Recibe la valoración más alta de Sayu en el entrenamiento de agilidad.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84121,
+    "Goal": 17,
+    "Order": 6711,
+    "PreviousId": 0,
+    "Title": "Un poco tarde para Sayu",
+    "Description": "No pudiste detener el apetito de Sayu.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.2",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84122,
+    "Goal": 17,
+    "Order": 6900,
+    "PreviousId": 0,
+    "Title": "{F#Marinera Honoraria}{M#Marinero Honorario} de la Flota Crux",
+    "Description": "Completa «Cuando la Flota Crux brilla refulgente» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84123,
+    "Goal": 17,
+    "Order": 6910,
+    "PreviousId": 0,
+    "Title": "Vino milagroso",
+    "Description": "Acompaña a Beidou al banquete de la Aldea Chingtsé.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84124,
+    "Goal": 17,
+    "Order": 6911,
+    "PreviousId": 0,
+    "Title": "Club de Compradores de Guyun",
+    "Description": "Pregunta a Beidou sobre la auténtica transacción.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84125,
+    "Goal": 17,
+    "Order": 6800,
+    "PreviousId": 0,
+    "Title": "General de Watatsumi",
+    "Description": "Completa «¡Operaciones especiales del General Canino!» y desbloquea todos los finales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84126,
+    "Goal": 17,
+    "Order": 6810,
+    "PreviousId": 0,
+    "Title": "Alea jacta est",
+    "Description": "Obtén todos los palillos de la fortuna en el santuario.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84127,
+    "Goal": 17,
+    "Order": 6811,
+    "PreviousId": 0,
+    "Title": "Contarlo o no contarlo, esa es la cuestión",
+    "Description": "Descubre la verdadera identidad de la Srta. Hina en la Editorial Yae.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.3",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84128,
+    "Goal": 17,
+    "Order": 7000,
+    "PreviousId": 0,
+    "Title": "Estrella binaria",
+    "Description": "Completa «Otra invitación a la Cámara de Jade» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84129,
+    "Goal": 17,
+    "Order": 7010,
+    "PreviousId": 0,
+    "Title": "Reservas pesqueras",
+    "Description": "Cuando de pescado se trata, cuanto más, mejor.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84130,
+    "Goal": 17,
+    "Order": 7011,
+    "PreviousId": 0,
+    "Title": "Sobreprotección",
+    "Description": "Después de la calma, viene la tormenta. Ninguang no pudo disfrutar de sus vacaciones...",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84131,
+    "Goal": 17,
+    "Order": 7100,
+    "PreviousId": 0,
+    "Title": "'O sole mio",
+    "Description": "Completa «Canción de gracia» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84132,
+    "Goal": 17,
+    "Order": 7110,
+    "PreviousId": 0,
+    "Title": "Un momento para la posteridad",
+    "Description": "Captura unas imágenes de Yun Jin y tú.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84133,
+    "Goal": 17,
+    "Order": 7111,
+    "PreviousId": 0,
+    "Title": "Profesora estricta, alumn{F#a}{M#o} excelente",
+    "Description": "Completa el ensayo sin golpear a ningún espantapájaros azul.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.4",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84134,
+    "Goal": 17,
+    "Order": 7200,
+    "PreviousId": 0,
+    "Title": "{F#Asesora}{M#Asesor} jefe de la Banda de Arataki",
+    "Description": "Completa «El día a día de la Banda» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84135,
+    "Goal": 17,
+    "Order": 7210,
+    "PreviousId": 0,
+    "Title": "¡Echa otro vistazo!",
+    "Description": "Admira a Kuki Shinobu vestida de miko.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84136,
+    "Goal": 17,
+    "Order": 7211,
+    "PreviousId": 0,
+    "Title": "En el piso de arriba",
+    "Description": "Sé disuadid{F#a}{M#o} antes de alertar a Kujou Sara y a Kuki Shinobu.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84137,
+    "Goal": 17,
+    "Order": 7300,
+    "PreviousId": 0,
+    "Title": "¿Creías que esto era una novela policiaca?",
+    "Description": "Completa «Investigación tormentosa» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84138,
+    "Goal": 17,
+    "Order": 7310,
+    "PreviousId": 0,
+    "Title": "¡Soy {F#una}{M#un} detective genial!",
+    "Description": "Averigua a la primera el móvil y los hechos del crimen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84139,
+    "Goal": 17,
+    "Order": 7311,
+    "PreviousId": 0,
+    "Title": "Las súplicas de Sangonomiya",
+    "Description": "Pregunta a Gorou si Kokomi sabe lo que ocurre en la Isla Watatsumi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84140,
+    "Goal": 17,
+    "Order": 7400,
+    "PreviousId": 0,
+    "Title": "La solución ideal",
+    "Description": "Completa «Un entramado inextricable» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84141,
+    "Goal": 17,
+    "Order": 7410,
+    "PreviousId": 0,
+    "Title": "Querida tú de dentro de cien años",
+    "Description": "Lee todas las cartas enviadas a Faruzán.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84142,
+    "Goal": 17,
+    "Order": 7411,
+    "PreviousId": 0,
+    "Title": "Introducción a la mecánica",
+    "Description": "Acierta en el menor número de pasos que se necesita para completar una pagoda de siete peldaños.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84143,
+    "Goal": 17,
+    "Order": 7500,
+    "PreviousId": 0,
+    "Title": "Y su nombre es... ¡Laila!",
+    "Description": "Completa «La estrella taciturna» y desbloquea todos los finales posibles.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84144,
+    "Goal": 17,
+    "Order": 7510,
+    "PreviousId": 0,
+    "Title": "¡Ey, ya!",
+    "Description": "Ayuda a Laila a completar su tesis sin que se agobie más de lo que ya está.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84145,
+    "Goal": 17,
+    "Order": 7511,
+    "PreviousId": 0,
+    "Title": "El secreto del Seelie y las estrellas",
+    "Description": "Obtén la verdadera respuesta del Seelie de la Sabiduría.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84146,
+    "Goal": 17,
+    "Order": 7600,
+    "PreviousId": 0,
+    "Title": "El arte y la vida",
+    "Description": "Completa «El péndulo de la tristeza y la felicidad» y desbloquea todos los finales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84147,
+    "Goal": 17,
+    "Order": 7610,
+    "PreviousId": 0,
+    "Title": "Época de estudiante",
+    "Description": "Consulta los libros con anotaciones de la Casa de la Daena.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84148,
+    "Goal": 17,
+    "Order": 7611,
+    "PreviousId": 0,
+    "Title": "Arquitectura romántica",
+    "Description": "Habla sobre el futuro con Kaveh en la tranquilidad del desierto.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.7",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84149,
+    "Goal": 17,
+    "Order": 7700,
+    "PreviousId": 0,
+    "Title": "En busca de la felicidad",
+    "Description": "Completa «Engaños y licor dulce» y desbloquea todos los finales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84150,
+    "Goal": 17,
+    "Order": 7710,
+    "PreviousId": 0,
+    "Title": "Moneda de la suerte",
+    "Description": "Participa en la apuesta de Kaeya.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84151,
+    "Goal": 17,
+    "Order": 7711,
+    "PreviousId": 0,
+    "Title": "Shhh, ¡escucha!",
+    "Description": "Escucha la voz procedente de la sala de confinamiento.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "3.8",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84152,
+    "Goal": 17,
+    "Order": 7800,
+    "PreviousId": 0,
+    "Title": "El indicador del destino",
+    "Description": "Completa «Una gata llena de posibilidades» y desbloquea todos los finales.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 20
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84153,
+    "Goal": 17,
+    "Order": 7810,
+    "PreviousId": 0,
+    "Title": "Speedrun",
+    "Description": "Convence a Lynette de que pase un día tranquilo y relajado contigo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84154,
+    "Goal": 17,
+    "Order": 7811,
+    "PreviousId": 0,
+    "Title": "Policías y ladrones",
+    "Description": "Disfruta de una agradable hora del té con Lynette tras resolver el caso de contrabando.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "4.5",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84155,
+    "Goal": 0,
+    "Order": 7900,
+    "PreviousId": 0,
+    "Title": "Anécdotas de un periplo",
+    "Description": "Presencia una anécdota.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
@@ -24009,7 +25743,7 @@
     "Order": 5097,
     "PreviousId": 0,
     "Title": "Un momento muy esperado",
-    "Description": "#Dainsleif combatió contra tu herman{F#o}{M#a} sin que tú lo supieras.",
+    "Description": "Dainsleif combatió contra tu herman{F#o}{M#a} sin que tú lo supieras.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -24977,7 +26711,7 @@
     "Goal": 0,
     "Order": 5150,
     "PreviousId": 0,
-    "Title": "#{F#La viajera}{M#El viajero} y su sombra",
+    "Title": "{F#La viajera}{M#El viajero} y su sombra",
     "Description": "Quizá este sea el poder que deberías haber tenido desde el principio.",
     "FinishReward": {
       "Id": 201,
@@ -25345,6 +27079,23 @@
     "Icon": "",
     "Version": "1.0",
     "IsDailyQuest": true
+  },
+  {
+    "Id": 84517,
+    "Goal": 0,
+    "Order": 4041,
+    "PreviousId": 0,
+    "Title": "Karma al instante",
+    "Description": "Expón a Marjorie y recibe el agradecimiento de Jack.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.5",
+    "IsDailyQuest": false
   },
   {
     "Id": 84518,
@@ -25755,40 +27506,6 @@
     "IsDailyQuest": true
   },
   {
-    "Id": 84054,
-    "Goal": 0,
-    "Order": 5033,
-    "PreviousId": 0,
-    "Title": "El diario de aventuras de Anna",
-    "Description": "Ayuda a Anna a convertirse en una aventurera.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": true
-  },
-  {
-    "Id": 84055,
-    "Goal": 0,
-    "Order": 5034,
-    "PreviousId": 0,
-    "Title": "Un futuro prometedor",
-    "Description": "Un joven está a punto de comenzar una larga travesía...",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": true
-  },
-  {
     "Id": 84543,
     "Goal": 0,
     "Order": 4067,
@@ -26082,7 +27799,7 @@
     "Goal": 0,
     "Order": 4084,
     "PreviousId": 0,
-    "Title": "#Gran erudit{F#a}{M#o} de Sumeru",
+    "Title": "Gran erudit{F#a}{M#o} de Sumeru",
     "Description": "Responde correctamente a las seis preguntas distintas.",
     "FinishReward": {
       "Id": 201,
@@ -26338,7 +28055,7 @@
     "Order": 4099,
     "PreviousId": 0,
     "Title": "La cuna de los saurios",
-    "Description": "#Hazte amig{F#a}{M#o} de un Yumkasaurio.",
+    "Description": "Hazte amig{F#a}{M#o} de un Yumkasaurio.",
     "FinishReward": {
       "Id": 201,
       "Count": 5
@@ -26354,7 +28071,7 @@
     "Goal": 0,
     "Order": 4100,
     "PreviousId": 0,
-    "Title": "#Erudit{F#a}{M#o} de Natlan",
+    "Title": "Erudit{F#a}{M#o} de Natlan",
     "Description": "Responde correctamente a todas las preguntas de Keita en una única ronda.",
     "FinishReward": {
       "Id": 201,
@@ -26588,992 +28305,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 84026,
-    "Goal": 17,
-    "Order": 6001,
-    "PreviousId": 0,
-    "Title": "Una aventura maravillosa: Prólogo",
-    "Description": "Completa «Una aventura maravillosa» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84100,
-    "Goal": 17,
-    "Order": 6010,
-    "PreviousId": 0,
-    "Title": "Amo de los Relámpagos Violentos",
-    "Description": "Sé testigo de cómo la mala suerte de Bennett puede afectar incluso al clima.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84101,
-    "Goal": 17,
-    "Order": 6011,
-    "PreviousId": 0,
-    "Title": "El poder de la buena suerte",
-    "Description": "Activa los mecanismos sin equivocarte y obtén el tesoro.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84104,
-    "Goal": 17,
-    "Order": 6100,
-    "PreviousId": 0,
-    "Title": "El mal ha sido desterrado",
-    "Description": "Completa «El cazafantasmas» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84028,
-    "Goal": 17,
-    "Order": 6110,
-    "PreviousId": 0,
-    "Title": "El ojo que todo lo ve",
-    "Description": "Evalúa correctamente toda la información.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84107,
-    "Goal": 17,
-    "Order": 6111,
-    "PreviousId": 0,
-    "Title": "Héroe del picante",
-    "Description": "Elabora un helado erróneo y haz que la positividad congénita de Chongyun estalle.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84102,
-    "Goal": 17,
-    "Order": 6200,
-    "PreviousId": 0,
-    "Title": "Superando los límites",
-    "Description": "Completa «La fuente de la curación» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84108,
-    "Goal": 17,
-    "Order": 6210,
-    "PreviousId": 0,
-    "Title": "Guardaespaldas de una ídolo",
-    "Description": "Convence a Albert y los demás admiradores de Bárbara para que se vayan.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84105,
-    "Goal": 17,
-    "Order": 6211,
-    "PreviousId": 0,
-    "Title": "La leyenda picante de Mondstadt",
-    "Description": "Prueba la bebida picante de Bárbara.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84103,
-    "Goal": 17,
-    "Order": 6300,
-    "PreviousId": 0,
-    "Title": "Una criada firme y perfecta",
-    "Description": "Completa «El camino de una caballera» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84106,
-    "Goal": 17,
-    "Order": 6310,
-    "PreviousId": 0,
-    "Title": "“... Porque debo cumplir con mi deber”",
-    "Description": "Ayuda a Noelle a descubrir la fuente de su fuerza.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84109,
-    "Goal": 17,
-    "Order": 6311,
-    "PreviousId": 0,
-    "Title": "Un mundo que solo las rosas conocen",
-    "Description": "Lee las notas de estudio de Noelle.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84110,
-    "Goal": 17,
-    "Order": 6400,
-    "PreviousId": 0,
-    "Title": "Olvídate de la preocupación",
-    "Description": "Completa «El examen de una caballera» y desbloquea todos los finales.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84111,
-    "Goal": 17,
-    "Order": 6410,
-    "PreviousId": 0,
-    "Title": "Caballera sin un rasguño",
-    "Description": "Escucha «El viaje de una caballera por Liyue» con Noelle.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84112,
-    "Goal": 17,
-    "Order": 6411,
-    "PreviousId": 0,
-    "Title": "La registradora de Mondstadt",
-    "Description": "Lee las notas de estudio de Noelle.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84113,
-    "Goal": 17,
-    "Order": 6500,
-    "PreviousId": 0,
-    "Title": "Mezclado, no agitado",
-    "Description": "Completa «Coctelería felina» y desbloquea todos los finales.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84114,
-    "Goal": 17,
-    "Order": 6510,
-    "PreviousId": 0,
-    "Title": "Hay un “pero”...",
-    "Description": "Ayuda a Diona a encontrar una base especial para su bebida.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84115,
-    "Goal": 17,
-    "Order": 6511,
-    "PreviousId": 0,
-    "Title": "Su Miaujestad",
-    "Description": "Lleva a todos los gatos a la taberna Cola de Gato.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "1.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84116,
-    "Goal": 17,
-    "Order": 6600,
-    "PreviousId": 0,
-    "Title": "Todos contentos",
-    "Description": "Completa «Los quehaceres cotidianos de un amo de llaves» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84117,
-    "Goal": 17,
-    "Order": 6610,
-    "PreviousId": 0,
-    "Title": "#Am{F#a}{M#o} de casa",
-    "Description": "Termina de limpiar en el tiempo indicado.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84118,
-    "Goal": 17,
-    "Order": 6611,
-    "PreviousId": 0,
-    "Title": "Y del mar nunca jamás lo separaron",
-    "Description": "Averigua la historia de Inu Shoushou con Thoma.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84119,
-    "Goal": 17,
-    "Order": 6700,
-    "PreviousId": 0,
-    "Title": "Quisiera ser tan alta...",
-    "Description": "Completa «Técnica “¡Yujuuu!”: el arte de crecer» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84120,
-    "Goal": 17,
-    "Order": 6710,
-    "PreviousId": 0,
-    "Title": "Velocidad, yo soy veloz",
-    "Description": "Recibe la valoración más alta de Sayu en el entrenamiento de agilidad.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84121,
-    "Goal": 17,
-    "Order": 6711,
-    "PreviousId": 0,
-    "Title": "Un poco tarde para Sayu",
-    "Description": "No pudiste detener el apetito de Sayu.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.2",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84122,
-    "Goal": 17,
-    "Order": 6900,
-    "PreviousId": 0,
-    "Title": "#{F#Marinera Honoraria}{M#Marinero Honorario} de la Flota Crux",
-    "Description": "Completa «Cuando la Flota Crux brilla refulgente» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84123,
-    "Goal": 17,
-    "Order": 6910,
-    "PreviousId": 0,
-    "Title": "Vino milagroso",
-    "Description": "Acompaña a Beidou al banquete de la Aldea Chingtsé.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84124,
-    "Goal": 17,
-    "Order": 6911,
-    "PreviousId": 0,
-    "Title": "Club de Compradores de Guyun",
-    "Description": "Pregunta a Beidou sobre la auténtica transacción.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84125,
-    "Goal": 17,
-    "Order": 6800,
-    "PreviousId": 0,
-    "Title": "General de Watatsumi",
-    "Description": "Completa «¡Operaciones especiales del General Canino!» y desbloquea todos los finales.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84126,
-    "Goal": 17,
-    "Order": 6810,
-    "PreviousId": 0,
-    "Title": "Alea jacta est",
-    "Description": "Obtén todos los palillos de la fortuna en el santuario.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84127,
-    "Goal": 17,
-    "Order": 6811,
-    "PreviousId": 0,
-    "Title": "Contarlo o no contarlo, esa es la cuestión",
-    "Description": "Descubre la verdadera identidad de la Srta. Hina en la Editorial Yae.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.3",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84128,
-    "Goal": 17,
-    "Order": 7000,
-    "PreviousId": 0,
-    "Title": "Estrella binaria",
-    "Description": "Completa «Otra invitación a la Cámara de Jade» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84129,
-    "Goal": 17,
-    "Order": 7010,
-    "PreviousId": 0,
-    "Title": "Reservas pesqueras",
-    "Description": "Cuando de pescado se trata, cuanto más, mejor.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84130,
-    "Goal": 17,
-    "Order": 7011,
-    "PreviousId": 0,
-    "Title": "Sobreprotección",
-    "Description": "Después de la calma, viene la tormenta. Ninguang no pudo disfrutar de sus vacaciones...",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84131,
-    "Goal": 17,
-    "Order": 7100,
-    "PreviousId": 0,
-    "Title": "'O sole mio",
-    "Description": "Completa «Canción de gracia» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84132,
-    "Goal": 17,
-    "Order": 7110,
-    "PreviousId": 0,
-    "Title": "Un momento para la posteridad",
-    "Description": "Captura unas imágenes de Yun Jin y tú.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84133,
-    "Goal": 17,
-    "Order": 7111,
-    "PreviousId": 0,
-    "Title": "#Profesora estricta, alumn{F#a}{M#o} excelente",
-    "Description": "Completa el ensayo sin golpear a ningún espantapájaros azul.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.4",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84134,
-    "Goal": 17,
-    "Order": 7200,
-    "PreviousId": 0,
-    "Title": "#{F#Asesora}{M#Asesor} jefe de la Banda de Arataki",
-    "Description": "Completa «El día a día de la Banda» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84135,
-    "Goal": 17,
-    "Order": 7210,
-    "PreviousId": 0,
-    "Title": "¡Echa otro vistazo!",
-    "Description": "Admira a Kuki Shinobu vestida de miko.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84136,
-    "Goal": 17,
-    "Order": 7211,
-    "PreviousId": 0,
-    "Title": "En el piso de arriba",
-    "Description": "#Sé disuadid{F#a}{M#o} antes de alertar a Kujou Sara y a Kuki Shinobu.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84137,
-    "Goal": 17,
-    "Order": 7300,
-    "PreviousId": 0,
-    "Title": "¿Creías que esto era una novela policiaca?",
-    "Description": "Completa «Investigación tormentosa» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84138,
-    "Goal": 17,
-    "Order": 7310,
-    "PreviousId": 0,
-    "Title": "#¡Soy {F#una}{M#un} detective genial!",
-    "Description": "Averigua a la primera el móvil y los hechos del crimen.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84139,
-    "Goal": 17,
-    "Order": 7311,
-    "PreviousId": 0,
-    "Title": "Las súplicas de Sangonomiya",
-    "Description": "Pregunta a Gorou si Kokomi sabe lo que ocurre en la Isla Watatsumi.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84140,
-    "Goal": 17,
-    "Order": 7400,
-    "PreviousId": 0,
-    "Title": "La solución ideal",
-    "Description": "Completa «Un entramado inextricable» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84141,
-    "Goal": 17,
-    "Order": 7410,
-    "PreviousId": 0,
-    "Title": "Querida tú de dentro de cien años",
-    "Description": "Lee todas las cartas enviadas a Faruzán.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84142,
-    "Goal": 17,
-    "Order": 7411,
-    "PreviousId": 0,
-    "Title": "Introducción a la mecánica",
-    "Description": "Acierta en el menor número de pasos que se necesita para completar una pagoda de siete peldaños.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84143,
-    "Goal": 17,
-    "Order": 7500,
-    "PreviousId": 0,
-    "Title": "Y su nombre es... ¡Laila!",
-    "Description": "Completa «La estrella taciturna» y desbloquea todos los finales posibles.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84144,
-    "Goal": 17,
-    "Order": 7510,
-    "PreviousId": 0,
-    "Title": "¡Ey, ya!",
-    "Description": "Ayuda a Laila a completar su tesis sin que se agobie más de lo que ya está.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84145,
-    "Goal": 17,
-    "Order": 7511,
-    "PreviousId": 0,
-    "Title": "El secreto del Seelie y las estrellas",
-    "Description": "Obtén la verdadera respuesta del Seelie de la Sabiduría.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.6",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84146,
-    "Goal": 17,
-    "Order": 7600,
-    "PreviousId": 0,
-    "Title": "El arte y la vida",
-    "Description": "Completa «El péndulo de la tristeza y la felicidad» y desbloquea todos los finales.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84147,
-    "Goal": 17,
-    "Order": 7610,
-    "PreviousId": 0,
-    "Title": "Época de estudiante",
-    "Description": "Consulta los libros con anotaciones de la Casa de la Daena.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84148,
-    "Goal": 17,
-    "Order": 7611,
-    "PreviousId": 0,
-    "Title": "Arquitectura romántica",
-    "Description": "Habla sobre el futuro con Kaveh en la tranquilidad del desierto.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.7",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84149,
-    "Goal": 17,
-    "Order": 7700,
-    "PreviousId": 0,
-    "Title": "En busca de la felicidad",
-    "Description": "Completa «Engaños y licor dulce» y desbloquea todos los finales.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84150,
-    "Goal": 17,
-    "Order": 7710,
-    "PreviousId": 0,
-    "Title": "Moneda de la suerte",
-    "Description": "Participa en la apuesta de Kaeya.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84151,
-    "Goal": 17,
-    "Order": 7711,
-    "PreviousId": 0,
-    "Title": "Shhh, ¡escucha!",
-    "Description": "Escucha la voz procedente de la sala de confinamiento.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "3.8",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84152,
-    "Goal": 17,
-    "Order": 7800,
-    "PreviousId": 0,
-    "Title": "El indicador del destino",
-    "Description": "Completa «Una gata llena de posibilidades» y desbloquea todos los finales.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84153,
-    "Goal": 17,
-    "Order": 7810,
-    "PreviousId": 0,
-    "Title": "Speedrun",
-    "Description": "Convence a Lynette de que pase un día tranquilo y relajado contigo.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84154,
-    "Goal": 17,
-    "Order": 7811,
-    "PreviousId": 0,
-    "Title": "Policías y ladrones",
-    "Description": "Disfruta de una agradable hora del té con Lynette tras resolver el caso de contrabando.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "4.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 84155,
-    "Goal": 0,
-    "Order": 7900,
-    "PreviousId": 0,
-    "Title": "Anécdotas de un periplo",
-    "Description": "Presencia una anécdota.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86001,
     "Goal": 13,
     "Order": 9001,
@@ -27795,23 +28526,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86021,
-    "Goal": 21,
-    "Order": 9014,
-    "PreviousId": 0,
-    "Title": "Para tener un Engaño, es un poco flojo",
-    "Description": "Derrota a Nobile en modo multijugador.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "2.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86015,
     "Goal": 21,
     "Order": 9015,
@@ -27903,6 +28617,23 @@
     "PreviousId": 0,
     "Title": "Ni tan eterna...",
     "Description": "Derrota a una Maquinaria Eterna en modo multijugador.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": true,
+    "Progress": 1,
+    "Icon": "",
+    "Version": "2.0",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 86021,
+    "Goal": 21,
+    "Order": 9014,
+    "PreviousId": 0,
+    "Title": "Para tener un Engaño, es un poco flojo",
+    "Description": "Derrota a Nobile en modo multijugador.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
@@ -28020,7 +28751,7 @@
     "Goal": 33,
     "Order": 9027,
     "PreviousId": 0,
-    "Title": "#Semivegetarian{F#a}{M#o}",
+    "Title": "Semivegetarian{F#a}{M#o}",
     "Description": "Derrota al Espantohongo Plumaverde en modo multijugador.",
     "FinishReward": {
       "Id": 201,
@@ -28224,7 +28955,7 @@
     "Goal": 53,
     "Order": 9039,
     "PreviousId": 0,
-    "Title": "#Bucead{F#ora}{M#or} de perlas",
+    "Title": "Bucead{F#ora}{M#or} de perlas",
     "Description": "Derrota al Corcel de Mar Perlamilenario en modo multijugador.",
     "FinishReward": {
       "Id": 201,
@@ -28373,40 +29104,6 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 86057,
-    "Goal": 64,
-    "Order": 9048,
-    "PreviousId": 0,
-    "Title": "Otra vez he cortado un objeto sin valor...",
-    "Description": "Derrota a la Cepa Abismática en modo multijugador.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 86058,
-    "Goal": 64,
-    "Order": 9049,
-    "PreviousId": 0,
-    "Title": "La última prueba de la nahual",
-    "Description": "Derrota a la Asceta Espiritista en modo multijugador.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "",
-    "Version": "6.0",
-    "IsDailyQuest": false
-  },
-  {
     "Id": 86051,
     "Goal": 64,
     "Order": 9050,
@@ -28509,241 +29206,37 @@
     "IsDailyQuest": false
   },
   {
-    "Id": 80475,
-    "Goal": 67,
-    "Order": 439,
+    "Id": 86057,
+    "Goal": 64,
+    "Order": 9048,
     "PreviousId": 0,
-    "Title": "Cazatesoros del intersticio",
-    "Description": "Abre {param0} cofres en el Monte Vientosuspiro y el Santuario del Espacio.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 45,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80476,
-    "Goal": 67,
-    "Order": 440,
-    "PreviousId": 80475,
-    "Title": "Cazatesoros del intersticio",
-    "Description": "Abre {param0} cofres en el Monte Vientosuspiro y el Santuario del Espacio.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 90,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80477,
-    "Goal": 67,
-    "Order": 441,
-    "PreviousId": 80476,
-    "Title": "Cazatesoros del intersticio",
-    "Description": "Abre {param0} cofres en el Monte Vientosuspiro y el Santuario del Espacio.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 180,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80487,
-    "Goal": 67,
-    "Order": 442,
-    "PreviousId": 0,
-    "Title": "#Aventurer{F#a}{M#o} del intersticio",
-    "Description": "Completa {param0} pruebas contrarreloj del mundo abierto en el Monte Vientosuspiro y el Santuario del Espacio.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 7,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80488,
-    "Goal": 67,
-    "Order": 443,
-    "PreviousId": 80487,
-    "Title": "#Aventurer{F#a}{M#o} del intersticio",
-    "Description": "Completa {param0} pruebas contrarreloj del mundo abierto en el Monte Vientosuspiro y el Santuario del Espacio.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 14,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80489,
-    "Goal": 67,
-    "Order": 444,
-    "PreviousId": 80488,
-    "Title": "#Aventurer{F#a}{M#o} del intersticio",
-    "Description": "Completa {param0} pruebas contrarreloj del mundo abierto en el Monte Vientosuspiro y el Santuario del Espacio.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 28,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80479,
-    "Goal": 67,
-    "Order": 436,
-    "PreviousId": 0,
-    "Title": "El viento incoloro de la montaña misteriosa",
-    "Description": "Revela las regiones del mapa de Mondstadt (Monte Vientosuspiro).",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80480,
-    "Goal": 67,
-    "Order": 437,
-    "PreviousId": 0,
-    "Title": "Próxima parada: sanatorio abandonado",
-    "Description": "Revela las regiones del mapa de Mondstadt (Santuario del Espacio).",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80481,
-    "Goal": 67,
-    "Order": 449,
-    "PreviousId": 0,
-    "Title": "Adiós, monte encantado",
-    "Description": "Completa la misión «Un largo día en las montañas».",
+    "Title": "Otra vez he cortado un objeto sin valor...",
+    "Description": "Derrota a la Cepa Abismática en modo multijugador.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   },
   {
-    "Id": 80482,
-    "Goal": 67,
-    "Order": 448,
+    "Id": 86058,
+    "Goal": 64,
+    "Order": 9049,
     "PreviousId": 0,
-    "Title": "Un adiós y tres reencuentros",
-    "Description": "Recupera todos los objetos perdidos de Zeitlind.",
+    "Title": "La última prueba de la nahual",
+    "Description": "Derrota a la Asceta Espiritista en modo multijugador.",
     "FinishReward": {
       "Id": 201,
       "Count": 10
     },
     "IsDeleteWatcherAfterFinish": true,
     "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80484,
-    "Goal": 67,
-    "Order": 447,
-    "PreviousId": 0,
-    "Title": "Un corazón que es de verdad",
-    "Description": "Rompe los sellos de la cámara secreta de la nobleza del Monte Vientosuspiro y la sala secreta multimundos del Santuario del Espacio.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 2,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80485,
-    "Goal": 67,
-    "Order": 446,
-    "PreviousId": 0,
-    "Title": "Espacio y albedrío no libre",
-    "Description": "Mejora el Centro de Replicación de Recuerdos del Santuario del Espacio hasta el nivel máximo.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 20
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80486,
-    "Goal": 67,
-    "Order": 438,
-    "PreviousId": 0,
-    "Title": "Tagelieder para Titono",
-    "Description": "Desbloquea todos los Puntos de teletransporte de Mondstadt (Monte Vientosuspiro y Santuario del Espacio).",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 31,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
-    "IsDailyQuest": false
-  },
-  {
-    "Id": 80500,
-    "Goal": 67,
-    "Order": 445,
-    "PreviousId": 0,
-    "Title": "Guía del intersticio",
-    "Description": "Persigue a 3 Seelies en el Monte Vientosuspiro y el Santuario del Espacio e ilumina los Pedestales de los Seelies.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 10
-    },
-    "IsDeleteWatcherAfterFinish": false,
-    "Progress": 3,
-    "Icon": "UI_AchievementIcon_A024",
-    "Version": "6.5",
+    "Icon": "",
+    "Version": "6.0",
     "IsDailyQuest": false
   }
 ]
