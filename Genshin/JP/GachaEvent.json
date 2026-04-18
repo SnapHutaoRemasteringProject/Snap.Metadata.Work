@@ -2308,6 +2308,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/6d1a5d0dcc69bc1552b51acbbba54edb_9178359133041715305.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 301,
@@ -2325,6 +2326,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/ba970a7bded398e114c0f226fa1116a2_1663559675797542565.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 400,
@@ -2342,6 +2344,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/120dfaf5a9def0b1aeb88cdf5f1465da_509367661189055308.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 302,
@@ -2362,6 +2365,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/7d40978e50f040ee7c25829047a87a96_7827444978638550957.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 301,
@@ -2379,6 +2383,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/21dc376efa10774d3879db4534cb59da_1783461809129735438.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 400,
@@ -2396,6 +2401,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/30/8cae11d4b969141ec346f17b0c58d279_7511361311711199880.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 302,
@@ -5333,6 +5339,63 @@
       13407,
       14401,
       15405
+    ]
+  },
+  {
+    "Name": "やっふー博物誌",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/5f0a7c7cb592e9296dd10ca2dfd3edcd_339207515698905882_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/5f0a7c7cb592e9296dd10ca2dfd3edcd_339207515698905882_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000130
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "紅を散らす矢羽",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/d8fe6453b6c6f1c97cc864c28751dd38_7700060625594317919_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/d8fe6453b6c6f1c97cc864c28751dd38_7700060625594317919_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000104
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "神鋳賦形",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/1cc2f0f2cfe26a0df38b1e64c1ba135a_8397564745493329886_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/1cc2f0f2cfe26a0df38b1e64c1ba135a_8397564745493329886_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      15514,
+      15516
+    ],
+    "UpPurpleList": [
+      11405,
+      12403,
+      13401,
+      14409,
+      15430
     ]
   }
 ]

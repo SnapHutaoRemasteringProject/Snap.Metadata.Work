@@ -2308,6 +2308,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/df6af50c044921d4100b7245936c0314_2532830515997101218.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 301,
@@ -2325,6 +2326,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/f7c4d63e04eb9195200810c5d3dd0f3f_426503755568848837.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 400,
@@ -2342,6 +2344,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/54d6ba585cbc6e7f0114348a2f7392e7_8737207647955510312.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 302,
@@ -2362,6 +2365,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/71737f737f86e9345881711842d6792d_9002972943328173663.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 301,
@@ -2379,6 +2383,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/c5d97801f7af9f62d95136501d9a6d70_5875401006189163553.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 400,
@@ -2396,6 +2401,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/30/77d4ed19d78fb8358bf4ffad3c8feef1_138231570000886791.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 302,
@@ -5333,6 +5339,63 @@
       13407,
       14401,
       15405
+    ]
+  },
+  {
+    "Name": "Ya-hoho! Compendium",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/dedbc6e9ac1001f40ad19d3041e1f292_1032846630611093680_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/dedbc6e9ac1001f40ad19d3041e1f292_1032846630611093680_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000130
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "Piercing Shot's Crimson Wake",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/0f8e43a8ccfef3aa280d0957275b4cd7_1886091996222144953_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/0f8e43a8ccfef3aa280d0957275b4cd7_1886091996222144953_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000104
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "Epitome Invocation",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/579ad70cab210cf96783cc0f69e884f6_1685435050569878233_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/579ad70cab210cf96783cc0f69e884f6_1685435050569878233_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      15514,
+      15516
+    ],
+    "UpPurpleList": [
+      11405,
+      12403,
+      13401,
+      14409,
+      15430
     ]
   }
 ]

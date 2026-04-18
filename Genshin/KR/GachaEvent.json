@@ -2308,6 +2308,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/8a748cc98f15276650949fd4a3fbfd10_6685780574484258785.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 301,
@@ -2325,6 +2326,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/84df8371c67ea2ba3f366a1200916bf9_3873735691578793147.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 400,
@@ -2342,6 +2344,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/e67ba776490bc789f558d914701b5e73_2989468045538218935.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 302,
@@ -2362,6 +2365,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/e098ecfac6cb2198d1caef709304a619_7571918298891420902.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 301,
@@ -2379,6 +2383,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/79ca0171d8274da10ff89df3d11befc1_1313158753624730551.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 400,
@@ -2396,6 +2401,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/30/d0c5ce7487a429450765800e401d0b96_7422543412428927902.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 302,
@@ -5333,6 +5339,63 @@
       13407,
       14401,
       15405
+    ]
+  },
+  {
+    "Name": "야호 박물지",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/c1ce1f5aa77251d185038ae2f5e3c8ab_755523409697922129_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/c1ce1f5aa77251d185038ae2f5e3c8ab_755523409697922129_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000130
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "붉은 꽃을 꿰뚫는 깃",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/391f65cbdfd5584229e9b9d105ea2aba_2537912269739089737_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/391f65cbdfd5584229e9b9d105ea2aba_2537912269739089737_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000104
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "신의 주조",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/0626512b6ba1b55c27d814f7e082ce7c_4765651180585465563_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/0626512b6ba1b55c27d814f7e082ce7c_4765651180585465563_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      15514,
+      15516
+    ],
+    "UpPurpleList": [
+      11405,
+      12403,
+      13401,
+      14409,
+      15430
     ]
   }
 ]

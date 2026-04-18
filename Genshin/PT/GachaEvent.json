@@ -2308,6 +2308,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/de532e5454362463ffd8bf1c5cd2a292_2069518562773597892.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 301,
@@ -2325,6 +2326,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/261ac0e8562345b4ea9d4e51b9fe5ed1_4808707502086666348.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 400,
@@ -2342,6 +2344,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/5c6b829ef7b4a41441da5d149850d395_1841323766884462619.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 302,
@@ -2362,6 +2365,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/64335087cdad7b121574fa466c7956aa_3841351559473668974.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 301,
@@ -2379,6 +2383,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/cf9b86c80fbcd5b6762df9d21f55cd43_8204251958861391002.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 400,
@@ -2396,6 +2401,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/30/d877f4d453f600c4d4cec3030298cc0f_6874077552272748609.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 302,
@@ -5333,6 +5339,63 @@
       13407,
       14401,
       15405
+    ]
+  },
+  {
+    "Name": "Compêndio Ya-hoho!",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/ea4aabc6c2510dadcf33d37d9cfee178_1522706553725211532_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/ea4aabc6c2510dadcf33d37d9cfee178_1522706553725211532_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000130
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "Dispersão Carmesim",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/7cc85d4a6d0e643e210c95c6b2ea2182_4296793395528121179_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/7cc85d4a6d0e643e210c95c6b2ea2182_4296793395528121179_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000104
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "Encarnação Divina",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/917d564d02bce624df5b2a573c430e77_8146678308893869525_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/917d564d02bce624df5b2a573c430e77_8146678308893869525_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      15514,
+      15516
+    ],
+    "UpPurpleList": [
+      11405,
+      12403,
+      13401,
+      14409,
+      15430
     ]
   }
 ]

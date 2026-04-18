@@ -2308,6 +2308,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/1e813566336f1ef09901a3da21978ec9_8404660184152315492.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 301,
@@ -2325,6 +2326,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/621cda0f7901c51915fb1341b6ed49aa_4116725083903936084.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 400,
@@ -2342,6 +2344,7 @@
     "Version": "3.8",
     "Order": 1,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/20/d7540908ffcbd54f4cec0612bfc64193_1662215582618097949.jpg",
+    "Banner2": "",
     "From": "2023-07-05T06:00:00+08:00",
     "To": "2023-07-25T17:59:00+08:00",
     "Type": 302,
@@ -2362,6 +2365,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/9cd2efcc0c9198a384234bccaf61a06d_7781498404850109428.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 301,
@@ -2379,6 +2383,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/07/12/6eb7170a033f811aa9ebaf864de5c4e1_8507675105512030302.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 400,
@@ -2396,6 +2401,7 @@
     "Version": "3.8",
     "Order": 2,
     "Banner": "https://sdk.hoyoverse.com/upload/ann/2023/06/30/c08428c778482e97c0f200a02d5c0e8e_984032568326577628.jpg",
+    "Banner2": "",
     "From": "2023-07-25T18:00:00+08:00",
     "To": "2023-08-15T14:59:59+08:00",
     "Type": 302,
@@ -5333,6 +5339,63 @@
       13407,
       14401,
       15405
+    ]
+  },
+  {
+    "Name": "สารานุกรมยะฮู้วว!",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/e0f001135c82fb6d12c5c6b6ef5927cf_4465528595631814827_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/e0f001135c82fb6d12c5c6b6ef5927cf_4465528595631814827_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000130
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "ศรทะลวงปีกแดงฉาน",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/72e96fcc8ddf017aea57b4119deb6807_3006391973626303982_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/72e96fcc8ddf017aea57b4119deb6807_3006391973626303982_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000104
+    ],
+    "UpPurpleList": [
+      10000034,
+      10000121,
+      10000127
+    ]
+  },
+  {
+    "Name": "สรรค์สร้างเซียน",
+    "Version": "6.5",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/90547522ff91d0a2c51889ad6243aa4b_1513384883570572696_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/90547522ff91d0a2c51889ad6243aa4b_1513384883570572696_transformed.jpg",
+    "From": "2026-04-06T12:00:00+08:00",
+    "To": "2026-04-28T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      15514,
+      15516
+    ],
+    "UpPurpleList": [
+      11405,
+      12403,
+      13401,
+      14409,
+      15430
     ]
   }
 ]
