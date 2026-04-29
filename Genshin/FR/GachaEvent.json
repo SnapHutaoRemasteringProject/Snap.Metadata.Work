@@ -5397,5 +5397,62 @@
       14409,
       15430
     ]
+  },
+  {
+    "Name": "Chant lunaire des bosquets",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/54d138dcba889aa581b3f371efa56a39_8088104906496552303_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/54d138dcba889aa581b3f371efa56a39_8088104906496552303_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000119
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "Tentation des sables écarlates",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/b27fccccfec8c0584f0f8ccdbfe19cfe_4741603935222838780_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/b27fccccfec8c0584f0f8ccdbfe19cfe_4741603935222838780_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000122
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "Incarnation divine",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/61a7c27d4cdcfcb377ddad012a66c98e_1609394206347727260_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/61a7c27d4cdcfcb377ddad012a66c98e_1609394206347727260_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14520,
+      14521
+    ],
+    "UpPurpleList": [
+      11403,
+      12405,
+      13407,
+      14434,
+      15401
+    ]
   }
 ]

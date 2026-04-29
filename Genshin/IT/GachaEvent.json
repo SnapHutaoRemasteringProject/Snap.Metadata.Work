@@ -5397,5 +5397,62 @@
       14409,
       15430
     ]
+  },
+  {
+    "Name": "Ode alla Luna imperitura",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/5458f6e0752eac09e823aa5ced5e8585_3949611677071624867_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/5458f6e0752eac09e823aa5ced5e8585_3949611677071624867_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000119
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "Segreto insabbiato",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/e91209aad402d6428f9258bb851c327e_5811013040932394776_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/e91209aad402d6428f9258bb851c327e_5811013040932394776_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000122
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "ottenimento di Specchio dell",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/f109be38130b5ddda073a802125910ae_8697072139795022550_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/f109be38130b5ddda073a802125910ae_8697072139795022550_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14520,
+      14521
+    ],
+    "UpPurpleList": [
+      11403,
+      12405,
+      13407,
+      14434,
+      15401
+    ]
   }
 ]

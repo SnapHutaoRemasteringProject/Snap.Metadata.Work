@@ -5397,5 +5397,62 @@
       14409,
       15430
     ]
+  },
+  {
+    "Name": "Лунная песнь чащи",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/c812a7ef8bea54e5eaffe8591cb55cc8_9151927366686334292_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/c812a7ef8bea54e5eaffe8591cb55cc8_9151927366686334292_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000119
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "Искушение красных песков",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/1f1912cdcc399977f0dbbc601bfd842f_2629778171808348632_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/1f1912cdcc399977f0dbbc601bfd842f_2629778171808348632_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000122
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "Воплощение божества",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/d16e57e7735ec47e0e0eb2279da0be46_8076827836844873359_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/d16e57e7735ec47e0e0eb2279da0be46_8076827836844873359_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14520,
+      14521
+    ],
+    "UpPurpleList": [
+      11403,
+      12405,
+      13407,
+      14434,
+      15401
+    ]
   }
 ]

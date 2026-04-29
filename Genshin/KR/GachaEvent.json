@@ -5397,5 +5397,62 @@
       14409,
       15430
     ]
+  },
+  {
+    "Name": "푸른 숲의 기도",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/d5779b145b4402b089396cc8a013235a_2053444828665998802_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/d5779b145b4402b089396cc8a013235a_2053444828665998802_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000119
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "적색 사막의 유혹",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/0a1efbcb9c7adf4cb6bfd7ebf1e96873_1469886031522180027_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/0a1efbcb9c7adf4cb6bfd7ebf1e96873_1469886031522180027_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000122
+    ],
+    "UpPurpleList": [
+      10000025,
+      10000061,
+      10000124
+    ]
+  },
+  {
+    "Name": "신의 주조",
+    "Version": "6.5",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/92bf561905d5f6f0f230bf106ee0eb17_6295460159594314015_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/04/14/92bf561905d5f6f0f230bf106ee0eb17_6295460159594314015_transformed.jpg",
+    "From": "2026-04-25T18:00:00+08:00",
+    "To": "2026-05-19T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      14520,
+      14521
+    ],
+    "UpPurpleList": [
+      11403,
+      12405,
+      13407,
+      14434,
+      15401
+    ]
   }
 ]
