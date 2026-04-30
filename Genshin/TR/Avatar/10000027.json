@@ -38,7 +38,7 @@
           "Descriptions": [
             "Normal Saldırı Hasarı|{param1:F1P}",
             "Yüklü Saldırı Hasarı|{param2:P}",
-            "Yıldız Yeşimi Başına Hasar|{param3:F1P}",
+            "Yıldız Yeşimi Başına Hasar|{param3:P}",
             "Yüklü Saldırı Dayanıklılık Maliyeti|{param4:F1}",
             "Havadan Saldırı Hasarı|{param5:F1P}",
             "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "Mücevher Başına Hasar|{param1:F1P}",
+          "Mücevher Başına Hasar|{param1:P}",
           "BS|{param2:F1}sn",
           "Enerji Maliyeti|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "Gece Orkidesi",
       "Description": "Ningguang'ın resmi kıyafeti. Uzun açık mavi etek, Ningguang'ın zarif vücut hatlarını ortaya çıkarıyor. Bileklerindeki kelebek kanatları da kıyafete zarafet katıyor.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

@@ -36,9 +36,9 @@
         "GroupId": 2931,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
+            "DAN da 3º colpo|{param3:P}",
             "DAN da ATT caricato|{param4:P}",
             "Costo vigore ATT caricato|{param5:F1}",
             "DAN da ATT in picchiata|{param6:F1P}",
@@ -266,7 +266,7 @@
         "GroupId": 2932,
         "Proud": {
           "Descriptions": [
-            "DAN da Coniglio Bumbum|{param1:F1P}",
+            "DAN da Coniglio Bumbum|{param1:P}",
             "DAN da mina|{param4:F1P}",
             "Durata mina|{param5:F1} s",
             "TdR|{param6:F1} s"
@@ -1124,7 +1124,6 @@
       "Id": 202901,
       "Name": "Luce stellare fiorente",
       "Description": "Un delizioso completo che Klee indossa solo per le esibizioni più importanti. Dai colori brillanti, sembra una torta decorata con fiori di panna e coronata da candele scarlatte. Indossandolo, la felicità e i sorrisi riempiranno le vostre avventure.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

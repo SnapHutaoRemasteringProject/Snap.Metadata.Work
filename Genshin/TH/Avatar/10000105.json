@@ -33,6 +33,16 @@
     "Arkhe": 0,
     "Skills": [
       {
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": []
+        },
+        "Id": 30506,
+        "Name": "Special Jump",
+        "Description": "หากตัวละครอยู่ในพื้นที่ Natlan ให้กดค้างเพื่อใช้โฟลจิสตันทำการกระโดดยิงสองขั้น เมื่อโฟลจิสตันหมดลง จะใช้พลังกายเพื่อทำการกระโดดลอยสองขั้น",
+        "Icon": "Skill_E_Olorun_03"
+      },
+      {
         "GroupId": 10531,
         "Proud": {
           "Descriptions": [

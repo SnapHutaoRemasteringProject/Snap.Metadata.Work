@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "1단 공격 피해|{param1:F1P}",
-            "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
+            "1단 공격 피해|{param1:P}",
+            "2단 공격 피해|{param2:P}",
+            "3단 공격 피해|{param3:P}",
             "4단 공격 피해|{param4:P}",
-            "강공격 순환 피해|{param5:F1P}",
+            "강공격 순환 피해|{param5:P}",
             "강공격 종결 피해|{param6:P}",
             "강공격 스태미나 소모|초당 {param7:F1}pt",
             "최대 지속 시간|{param8:F1}초",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "1단 공격 피해|{param1:F1P}",
-            "2단 공격 피해|{param2:F1P}",
+            "1단 공격 피해|{param1:P}",
+            "2단 공격 피해|{param2:P}",
             "3단 공격 피해|{param3:P}",
             "재사용 대기시간|{param4:F1}초"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "참격 피해|{param1:P}",
-          "지속 피해|{param2:F1P}",
+          "지속 피해|{param2:P}",
           "폭렬 피해|{param3:P}",
           "재사용 대기시간|{param4:F1}초",
           "원소 부여 지속 시간|{param5:F1}초",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "진홍빛 종야",
       "Description": "다이루크가 은밀한 행동을 할 때 착용하는 코스튬 중 하나. 그림자 속에서 활활 타오르는 불꽃과도 같다. 적의 시야 끝에 진홍빛 잔흔을 남겨서 영원히 잊지 못할 악몽을 선사한다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

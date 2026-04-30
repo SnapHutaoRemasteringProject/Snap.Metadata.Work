@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
-            "DAN da 4º colpo|{param4:F1P}",
-            "DAN da 5º colpo|{param5:F1P}",
-            "DAN da ATT caricato|{param6:F1P}+{param7:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
+            "DAN da 3º colpo|{param3:P}",
+            "DAN da 4º colpo|{param4:P}",
+            "DAN da 5º colpo|{param5:P}",
+            "DAN da ATT caricato|{param6:P}+{param7:P}",
             "Costo vigore ATT caricato|{param8:F1}",
             "DAN da ATT in picchiata|{param9:F1P}",
             "DAN da ATT in picchiata basso/alto|{param10:P}/{param11:P}"
@@ -449,7 +449,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "DAN da abilità|{param1:F1P}",
+          "DAN da abilità|{param1:P}",
           "TdR|{param2:F1} s",
           "Durata|{param3:F1} s",
           "Costo energia|{param4:I}"
@@ -1078,7 +1078,6 @@
       "Id": 201501,
       "Name": "Ombra Navigavento",
       "Description": "Il completo che Kaeya indossa quando interpreta il \"Bandito della Daga\". Sebbene sia alquanto appariscente, non è difficile da indossare, anche se ci vuole del tempo per sistemare tutti quegli accessori e tutte quelle daghe.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "一段傷害|{param1:F1P}",
-            "二段傷害|{param2:F1P}",
-            "三段傷害|{param3:F1P}",
-            "四段傷害|{param4:F1P}",
-            "五段傷害|{param5:F1P}",
-            "重擊傷害|{param6:F1P}+{param7:F1P}",
+            "一段傷害|{param1:P}",
+            "二段傷害|{param2:P}",
+            "三段傷害|{param3:P}",
+            "四段傷害|{param4:P}",
+            "五段傷害|{param5:P}",
+            "重擊傷害|{param6:P}+{param7:P}",
             "重擊體力消耗|{param8:F1}點",
             "下墜期間傷害|{param9:F1P}",
             "低空/高空墜地衝擊傷害|{param10:P}/{param11:P}"
@@ -449,7 +449,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "技能傷害|{param1:F1P}",
+          "技能傷害|{param1:P}",
           "冷卻時間|{param2:F1}秒",
           "持續時間|{param3:F1}秒",
           "元素能量|{param4:I}"
@@ -1078,7 +1078,6 @@
       "Id": 201501,
       "Name": "帆影游風",
       "Description": "凱亞在舞臺上飾演「短刀大盜」時的裝扮，以「吸睛」為設計原則的華麗服裝。不過衣服穿起來並不麻煩，最花時間打理的是飾品與短刀。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

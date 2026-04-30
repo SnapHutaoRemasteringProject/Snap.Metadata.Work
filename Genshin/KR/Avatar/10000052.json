@@ -957,6 +957,23 @@
         "Icon": "UI_Talent_S_Shougun_06"
       },
       {
+        "GroupId": 5223,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 522301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 522301,
+        "Name": "",
+        "Description": "",
+        "Icon": ""
+      },
+      {
         "GroupId": 5225,
         "Proud": {
           "Descriptions": [],
@@ -1030,13 +1047,16 @@
     "BirthDay": 26,
     "VisionBefore": "번개",
     "VisionAfter": "번개",
-    "VisionOverrideUnlocked": "신의 심장",
+    "VisionOverrideUnlocked": "신의 눈",
     "ConstellationBefore": "천하인자리",
     "ConstellationAfter": "천하인자리",
     "CvChinese": "菊花花",
     "CvJapanese": "Sawashiro Miyuki",
     "CvEnglish": "Anne Yatco",
     "CvKorean": "박지윤",
+    "CookBonus": {
+      "InputList": []
+    },
     "Fetters": [
       {
         "Title": "첫 만남…",

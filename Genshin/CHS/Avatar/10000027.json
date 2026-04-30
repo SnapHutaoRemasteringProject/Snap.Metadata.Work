@@ -38,7 +38,7 @@
           "Descriptions": [
             "普通攻击伤害|{param1:F1P}",
             "重击伤害|{param2:P}",
-            "星璇伤害|每个{param3:F1P}",
+            "星璇伤害|每个{param3:P}",
             "重击体力消耗|{param4:F1}点",
             "下坠期间伤害|{param5:F1P}",
             "低空/高空坠地冲击伤害|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "宝石伤害|每个{param1:F1P}",
+          "宝石伤害|每个{param1:P}",
           "冷却时间|{param2:F1}秒",
           "元素能量|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "纱中幽兰",
       "Description": "凝光的礼服装扮。绀蓝长裙勾勒出丽人优雅的曲线，脚踝上的蝶翼又为她平添了几分轻盈。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

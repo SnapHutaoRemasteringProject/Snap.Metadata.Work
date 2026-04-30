@@ -36,12 +36,12 @@
         "GroupId": 3231,
         "Proud": {
           "Descriptions": [
-            "一段傷害|{param1:F1P}",
-            "二段傷害|{param2:F1P}",
-            "三段傷害|{param3:F1P}",
-            "四段傷害|{param4:F1P}",
-            "五段傷害|{param5:F1P}",
-            "重擊傷害|{param6:F1P}+{param7:F1P}",
+            "一段傷害|{param1:P}",
+            "二段傷害|{param2:P}",
+            "三段傷害|{param3:P}",
+            "四段傷害|{param4:P}",
+            "五段傷害|{param5:P}",
+            "重擊傷害|{param6:P}+{param7:P}",
             "重擊體力消耗|{param8:F1}點",
             "下墜期間傷害|{param9:F1P}",
             "低空/高空墜地衝擊傷害|{param10:P}/{param11:P}"
@@ -314,8 +314,8 @@
         "Proud": {
           "Descriptions": [
             "點按傷害|{param1:P}",
-            "一段蓄力傷害|{param2:F1P}+{param3:F1P}",
-            "二段蓄力傷害|{param4:F1P}+{param5:F1P}",
+            "一段蓄力傷害|{param2:P}+{param3:P}",
+            "二段蓄力傷害|{param4:P}+{param5:P}",
             "爆炸傷害|{param6:P}",
             "冷卻時間|{param7:F1}/{param8:F1}/{param9:F1}秒"
           ],
@@ -1224,7 +1224,6 @@
       "Id": 203201,
       "Name": "熾繪奇旅",
       "Description": "班尼特的納塔遊歷裝束，主色調是幸運的湖藍，以及熾熱的黃橙，如同這片土地一般洋溢著勃勃生機。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BennettCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_BennettCostumeSummer"
     },

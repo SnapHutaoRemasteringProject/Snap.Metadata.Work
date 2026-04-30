@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "Daño de 1er golpe|{param1:F1P}",
-            "Daño de 2.º golpe|{param2:F1P}",
+            "Daño de 1er golpe|{param1:P}",
+            "Daño de 2.º golpe|{param2:P}",
             "#Daño de 3er golpe|{param3:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param3:F1P}",
             "Daño de 4.º golpe|{param4:F1P} ×4",
-            "Daño de 5.º golpe|{param5:F1P}",
+            "Daño de 5.º golpe|{param5:P}",
             "Daño de ATQ Cargado|{param6:P}",
             "Coste de Aguante de ATQ Cargado|{param7:F1} pts.",
             "Daño de Caída|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "Daño de 1er golpe|{param1:F1P}",
-          "Daño de 2° golpe|{param2:F1P}",
+          "Daño de 1er golpe|{param1:P}",
+          "Daño de 2° golpe|{param2:P}",
           "Daño de 3er golpe|{param3:P}",
           "Daño de Pyronado|{param4:P}",
           "Duración|{param5:F1} s",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "Jolgorio festivo",
       "Description": "Modelo de vestimenta de Xiangling. El abrigo rojo brilla como un fuego de cocina entre vientos gélidos. El gorrito, diseñado con la forma de Guoba bajo sugerencia de Hu Tao, es perfecto para Xiangling.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

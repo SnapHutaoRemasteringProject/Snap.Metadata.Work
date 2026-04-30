@@ -832,7 +832,7 @@
     "Fetters": [
       {
         "Title": "Schön, dich kennenzulernen.",
-        "Context": "Hallo. Ich bin der Oberste Richter Fontaines, du kannst mich jedoch gern mit meinem Nachnamen Neuvillette ansprechen. Ich halte mich nicht absichtlich von dir fern, allerdings möchte ich eine Ungerechtigkeit im Gerichtssystem vorbeugen, indem wir miteinander nicht allzu sehr vertraut werden.\nSolltest du mich jemals um einen Gefallen bitten wollen, einen legalen natürlich, dann können wir bei einer Tasse Wasser darüber reden, das aus dem Dorf Qiaoying importiert wurde."
+        "Context": "Hallo. Ich bin der Oberste Richter Fontaines, du kannst mich jedoch gern mit meinem Nachnamen Neuvillette ansprechen. Ich halte mich nicht absichtlich von dir fern, allerdings möchte ich einer Ungerechtigkeit im Gerichtssystem vorbeugen, indem wir miteinander nicht allzu sehr vertraut werden.\nSolltest du mich jemals um einen Gefallen bitten wollen, einen legalen natürlich, dann können wir bei einer Tasse Wasser darüber reden, das aus dem Dorf Qiaoying importiert wurde."
       },
       {
         "Title": "Gespräch – Urteil",
@@ -1171,7 +1171,6 @@
       "Id": 208701,
       "Name": "Geschenk der Melusinen",
       "Description": "Ein Überraschungsgeschenk für Neuvillette. Die Überraschung war nicht nur das Geschenk selbst, sondern auch die vielen kleinen helfenden Hände, die an seiner Herstellung beteiligt waren. Wie Flüsse ins weite Meer münden, können sich auch Tautropfen zu einem Wunder ansammeln, das in allen sieben Farben schimmert.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

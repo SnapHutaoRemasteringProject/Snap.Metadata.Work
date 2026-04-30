@@ -38,8 +38,8 @@
           "Descriptions": [
             "一段伤害|{param1:F1P}",
             "二段伤害|{param2:F1P}",
-            "三段伤害|{param3:F1P}",
-            "四段伤害|{param4:F1P}",
+            "三段伤害|{param3:P}",
+            "四段伤害|{param4:P}",
             "重击伤害|{param5:P}",
             "重击体力消耗|{param6:F1}点",
             "下坠期间伤害|{param7:F1P}",
@@ -284,7 +284,7 @@
           "Descriptions": [
             "命中治疗量|{param3:F2P}生命值上限+{param4:I}",
             "持续治疗量|{param1:F2P}生命值上限+{param2:I}",
-            "水珠伤害|{param5:F1P}",
+            "水珠伤害|{param5:P}",
             "持续时间|{param6:F1}秒",
             "冷却时间|{param7:F1}秒"
           ],
@@ -1114,7 +1114,6 @@
       "Id": 201401,
       "Name": "闪耀协奏",
       "Description": "芭芭拉的海滩装扮。洋溢着夏日活力的俏丽短裙，似乎散发着海洋的清爽气息。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

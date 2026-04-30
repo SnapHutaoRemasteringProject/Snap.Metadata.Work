@@ -37,12 +37,12 @@
         "Proud": {
           "Descriptions": [
             "1段ダメージ|{param1:F1P}+{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
-            "3段ダメージ|{param3:F1P}",
+            "2段ダメージ|{param2:P}",
+            "3段ダメージ|{param3:P}",
             "4段ダメージ|{param4:F1P}+{param4:F1P}",
-            "5段ダメージ|{param5:F1P}",
-            "6段ダメージ|{param6:F1P}",
-            "狙い撃ち|{param7:F1P}",
+            "5段ダメージ|{param5:P}",
+            "6段ダメージ|{param6:P}",
+            "狙い撃ち|{param7:P}",
             "フルチャージ狙い撃ち|{param8:P}",
             "落下期間のダメージ|{param9:F1P}",
             "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}",

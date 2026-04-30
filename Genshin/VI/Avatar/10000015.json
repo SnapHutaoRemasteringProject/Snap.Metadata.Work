@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
-            "Sát Thương Lần 5|{param5:F1P}",
-            "Sát Thương Trọng Kích|{param6:F1P}+{param7:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
+            "Sát Thương Lần 5|{param5:P}",
+            "Sát Thương Trọng Kích|{param6:P}+{param7:P}",
             "Thể lực Trọng Kích tiêu hao|{param8:F1} điểm",
             "Sát Thương Khi Đáp|{param9:F1P}",
             "ST Khi Rơi Từ Độ Cao Thấp/Cao|{param10:P}/{param11:P}"
@@ -449,7 +449,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "Sát Thương Kỹ Năng|{param1:F1P}",
+          "Sát Thương Kỹ Năng|{param1:P}",
           "CD|{param2:F1}s",
           "Thời Gian Kéo Dài|{param3:F1}s",
           "Năng Lượng Nguyên Tố|{param4:I}"
@@ -1078,7 +1078,6 @@
       "Id": 201501,
       "Name": "Cánh Buồm Lướt Gió",
       "Description": "Trang phục Kaeya đã mặc khi diễn vở \"Đạo Chích Dao Găm\", là bộ trang phục lộng lẫy được thiết kế với nguyên tắc \"thu hút ánh nhìn\". Việc mặc trang phục không phiền phức lắm, chỉ mất thời gian ở chỗ gắn trang sức và dao găm.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

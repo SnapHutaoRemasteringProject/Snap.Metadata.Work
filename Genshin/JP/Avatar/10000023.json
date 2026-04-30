@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
             "3段ダメージ|{param3:F1P}+{param3:F1P}",
             "4段ダメージ|{param4:F1P}×4",
-            "5段ダメージ|{param5:F1P}",
+            "5段ダメージ|{param5:P}",
             "重撃ダメージ|{param6:P}",
             "重撃スタミナ消費|{param7:F1}",
             "落下期間のダメージ|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "振り回しによる1段ダメージ|{param1:F1P}",
-          "振り回しによる2段ダメージ|{param2:F1P}",
+          "振り回しによる1段ダメージ|{param1:P}",
+          "振り回しによる2段ダメージ|{param2:P}",
           "振り回しによる3段ダメージ|{param3:P}",
           "旋火輪ダメージ|{param4:P}",
           "継続時間|{param5:F1}秒",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "大つごもりの歓声",
       "Description": "香菱の衣装。冷たい風の中を燃えるかまどの炎のように暖かい。帽子は胡桃の提案により、グゥオパァーをイメージして特別にデザインされたもので、香菱のお気に入り。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

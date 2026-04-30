@@ -36,11 +36,11 @@
         "GroupId": 331,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
-            "3段ダメージ|{param3:F1P}",
-            "4段ダメージ|{param4:F1P}",
-            "5段ダメージ|{param5:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
+            "3段ダメージ|{param3:P}",
+            "4段ダメージ|{param4:P}",
+            "5段ダメージ|{param5:P}",
             "重撃ダメージ|{param6:P}",
             "重撃スタミナ消費|{param7:F1}",
             "落下期間のダメージ|{param8:F1P}",
@@ -467,11 +467,11 @@
       "Proud": {
         "Descriptions": [
           "爆発ダメージ|{param1:P}",
-          "エリア出入りダメージ|{param2:F1P}",
+          "エリア出入りダメージ|{param2:P}",
           "エリア内の回復量|攻撃力{param3:P}+{param4:I}",
           "継続回復|毎秒攻撃力{param5:F2P}+{param6:I}",
-          "クールタイム|{param7:F1}秒",
-          "元素エネルギー|{param8:I}"
+          "クールタイム|{param8:F1}秒",
+          "元素エネルギー|{param9:I}"
         ],
         "Parameters": [
           {
@@ -1152,7 +1152,6 @@
       "Id": 200301,
       "Name": "海風の夢",
       "Description": "夏をモチーフにしたジンの衣装。涼しげな作りだが、同時に優雅さも感じられる。海辺の旅にぴったり。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1160,7 +1159,6 @@
       "Id": 200302,
       "Name": "グンヒルドの伝承",
       "Description": "ジンの衣装。あらゆる場面に適応する、優雅で洗練された礼服。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

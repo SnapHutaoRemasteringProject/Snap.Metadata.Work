@@ -38,7 +38,7 @@
           "Descriptions": [
             "DAN da ATT normale|{param1:F1P}",
             "DAN da ATT caricato|{param2:P}",
-            "DAN per Giada stellare|{param3:F1P}",
+            "DAN per Giada stellare|{param3:P}",
             "Costo vigore ATT caricato|{param4:F1}",
             "DAN da ATT in picchiata|{param5:F1P}",
             "DAN da ATT in picchiata basso/alto|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "DAN per gemma|{param1:F1P}",
+          "DAN per gemma|{param1:P}",
           "TdR|{param2:F1} s",
           "Costo energia|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "Abito da sera d'orchidee",
       "Description": "L'abito formale di Ningguang. La lunga gonna azzurra segue le sue curve eleganti, mentre le ali di farfalla poste sulle caviglie donano al completo un tocco aggraziato e leggiadro.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

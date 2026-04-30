@@ -38,8 +38,8 @@
           "Descriptions": [
             "1단 공격 피해|{param1:F1P}",
             "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
-            "4단 공격 피해|{param4:F1P}",
+            "3단 공격 피해|{param3:P}",
+            "4단 공격 피해|{param4:P}",
             "강공격 피해|{param5:P}",
             "강공격 스태미나 소모|{param6:F1}pt",
             "낙하 기간 피해|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "짧은 터치 피해|{param6:F1P}",
+            "짧은 터치 피해|{param6:P}",
             "짧은 터치 재사용 대기시간|{param7:F1}초",
             "전기 전도: 0스택-차지 피해|{param1:P}",
             "전기 전도: 1스택-차지 피해|{param2:P}",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "잎새에 숨겨진 이름",
       "Description": "리사가 수메르를 다시 방문했을 때 주문 제작한 코스튬. 우아하면서도 세련된 이 옷은 리사의 학창 시절 교복과도 닮았다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

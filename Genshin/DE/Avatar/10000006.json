@@ -38,8 +38,8 @@
           "Descriptions": [
             "SCH Phase 1|{param1:F1P}",
             "SCH Phase 2|{param2:F1P}",
-            "SCH Phase 3|{param3:F1P}",
-            "SCH Phase 4|{param4:F1P}",
+            "SCH Phase 3|{param3:P}",
+            "SCH Phase 4|{param4:P}",
             "SCH heftiger Schläge|{param5:P}",
             "Ausdauerverbrauch heftiger Schläge|{param6:F1} Punkte",
             "SCH beim Fallen|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "SCH bei Drücken|{param6:F1P}",
+            "SCH bei Drücken|{param6:P}",
             "Abklingzeit für Drücken|{param7:F1} s",
             "SCH bei Gedrückthalten ohne „Blitzleiter“|{param1:P}",
             "SCH bei Gedrückthalten mit „Blitzleiter“ (1-fach)|{param2:P}",
@@ -1108,7 +1108,7 @@
       },
       {
         "Title": "Figurenhintergrund 4",
-        "Context": "Kurz nachdem Lisa dem Ordo Favonius beigetreten war, versuchte der Großmeister, sie zum Truppenführer der 8. Kompanie zu ernennen.\nDies war sehr zur Bestürzung des Feldoffiziers der Kompanie, Nymph, der es ablehnte, dass eine Akademikerin eine so hochrangige Position bekleidete.\nAuf Kaeyas Vorschlag hin, der damals Komtur war, wurde ein Übungskampf arrangiert, in dem Lisa und Nymph ihre magischen Fähigkeiten unter Beweis stellen sollten.\nZwei Minuten nach Beginn des Übungskampfs lehnte Lisa den Posten gnädig mit der Begründung ab, dass „Nymph offensichtlich die erforderlichen Eigenschaften besitzt, die Rolle zu übernehmen.“\nFür das gesamte folgende Jahr erhielt der Großmeister einen ständigen Schwall von Empfehlungsschreiben von Nymph in Bezug auf die Position und die einzige Person, die jemals darin genannt wurde, war Lisa.\nDer Großmeister übermittelte die Überweisungsschreiben immer an Lisa, aber jedes Mal hatte sie eine neue Entschuldigung, um das Angebot abzulehnen.\nDie 8. Kompanie wäre zweifellos unter ihrer Führung weitaus stärker gewesen, aber sie war der Ansicht, dass ein solches Maß an Macht nicht nur überflüssig war, sondern auch ein Risiko darstellte, das die meisten Menschen niemals einschätzen konnten.\nLisa ist zuversichtlich, dass sie mit jeder Situation umgehen kann, auf die sie stößt. Zusätzliche Gefahr bedeutet jedoch eine zusätzliche Arbeitsbelastung, die sie niemals akzeptieren kann."
+        "Context": "Kurz nachdem Lisa dem Ordo Favonius beigetreten war, versuchte der Großmeister, sie zum Truppenführer der 8. Truppe zu ernennen.\nDies war sehr zur Bestürzung des Feldoffiziers der Truppe, Nymph, der es ablehnte, dass eine Akademikerin eine so hochrangige Position bekleidete.\nAuf Kaeyas Vorschlag hin, der damals Komtur war, wurde ein Übungskampf arrangiert, in dem Lisa und Nymph ihre magischen Fähigkeiten unter Beweis stellen sollten.\nZwei Minuten nach Beginn des Übungskampfs lehnte Lisa den Posten gnädig mit der Begründung ab, dass „Nymph offensichtlich die erforderlichen Eigenschaften besitzt, die Rolle zu übernehmen.“\nFür das gesamte folgende Jahr erhielt der Großmeister einen ständigen Schwall von Empfehlungsschreiben von Nymph in Bezug auf die Position und die einzige Person, die jemals darin genannt wurde, war Lisa.\nDer Großmeister übermittelte die Überweisungsschreiben immer an Lisa, aber jedes Mal hatte sie eine neue Entschuldigung, um das Angebot abzulehnen.\nDie 8. Truppe wäre zweifellos unter ihrer Führung weitaus stärker gewesen, aber sie war der Ansicht, dass ein solches Maß an Macht nicht nur überflüssig war, sondern auch ein Risiko darstellte, das die meisten Menschen niemals einschätzen konnten.\nLisa ist zuversichtlich, dass sie mit jeder Situation umgehen kann, auf die sie stößt. Zusätzliche Gefahr bedeutet jedoch eine zusätzliche Arbeitsbelastung, die sie niemals akzeptieren kann."
       },
       {
         "Title": "Figurenhintergrund 5",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "Weisheit unter dem Grün",
       "Description": "Die Kleidung, die Lisa eigens bestellt hat, als sie Sumeru wieder besuchte. Das Kleid ist praktisch, aber auch elegant und hat eine leichte Ähnlichkeit mit ihrer Studentenuniform.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

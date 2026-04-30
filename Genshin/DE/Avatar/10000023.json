@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "SCH Phase 1|{param1:F1P}",
-            "SCH Phase 2|{param2:F1P}",
+            "SCH Phase 1|{param1:P}",
+            "SCH Phase 2|{param2:P}",
             "SCH Phase 3|{param3:F1P} + {param3:F1P}",
             "SCH Phase 4|{param4:F1P}×4",
-            "SCH Phase 5|{param5:F1P}",
+            "SCH Phase 5|{param5:P}",
             "SCH heftiger Schläge|{param6:P}",
             "Ausdauerverbrauch heftiger Schläge|{param7:F1} Punkte",
             "SCH beim Fallen|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "Wirbel-SCH Phase 1|{param1:F1P}",
-          "Wirbel-SCH Phase 2|{param2:F1P}",
+          "Wirbel-SCH Phase 1|{param1:P}",
+          "Wirbel-SCH Phase 2|{param2:P}",
           "Wirbel-SCH Phase 3|{param3:P}",
           "Feuerrad-SCH|{param4:P}",
           "Dauer|{param5:F1} s",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "Neujahrsjubel",
       "Description": "Xianglings Kleidung. Der rote Mantel leuchtet wie ein angeheizter Herd im kalten Wind und wird von einer Mütze gekrönt, die auf Anregung von Hu Tao von Guobas Aussehen inspiriert wurde, was Xiangling natürlich sehr gefällt.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

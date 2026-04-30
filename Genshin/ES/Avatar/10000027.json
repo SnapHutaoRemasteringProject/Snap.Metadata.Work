@@ -38,7 +38,7 @@
           "Descriptions": [
             "Daño de ATQ Normal|{param1:F1P}",
             "Daño de ATQ Cargado|{param2:P}",
-            "Daño de jade estelar|{param3:F1P}/unidad",
+            "Daño por jade estelar|{param3:P}",
             "Coste de Aguante de ATQ Cargado|{param4:F1} pts.",
             "Daño de Caída|{param5:F1P}",
             "Daño de impacto de caída baja/alta|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "Daño de gemas|{param1:F1P}/unidad",
+          "Daño por gema|{param1:P}",
           "TdE|{param2:F1} s",
           "Energía Elemental|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "Gala de las orquídeas",
       "Description": "Vestimenta formal de Ninguang. La falda violeta realza su hermosa y elegante figura, mientras que las alas de mariposa de sus tobillos le dan un toque de gracilidad.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

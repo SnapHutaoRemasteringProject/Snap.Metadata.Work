@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "1-Hit DMG|{param1:F1P}",
-            "2-Hit DMG|{param2:F1P}",
-            "3-Hit DMG|{param3:F1P}",
-            "4-Hit DMG|{param4:F1P}",
-            "5-Hit DMG|{param5:F1P}",
-            "Charged Attack DMG|{param6:F1P}+{param7:F1P}",
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack DMG|{param6:P}+{param7:P}",
             "Charged Attack Stamina Cost|{param8:F1}",
             "Plunge DMG|{param9:F1P}",
             "Low/High Plunge DMG|{param10:P}/{param11:P}"
@@ -449,7 +449,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "Skill DMG|{param1:F1P}",
+          "Skill DMG|{param1:P}",
           "CD|{param2:F1}s",
           "Duration|{param3:F1}s",
           "Energy Cost|{param4:I}"
@@ -1078,7 +1078,6 @@
       "Id": 201501,
       "Name": "Sailwind Shadow",
       "Description": "Kaeya's outfit from his role as the \"Dagger Bandit\" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

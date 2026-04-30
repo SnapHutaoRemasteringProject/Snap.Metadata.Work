@@ -38,8 +38,8 @@
           "Descriptions": [
             "Sát Thương Lần 1|{param1:F1P}",
             "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
             "Sát Thương Trọng Kích|{param5:P}",
             "Thể lực Trọng Kích tiêu hao|{param6:F1} điểm",
             "Sát Thương Khi Rơi|{param7:F1P}",
@@ -284,7 +284,7 @@
           "Descriptions": [
             "Hồi HP khi đánh trúng địch|{param3:F2P} giới hạn HP +{param4:I}",
             "Lượng trị liệu kéo dài|{param1:F2P} giới hạn HP +{param2:I}",
-            "Sát Thương Thủy Châu|{param5:F1P}",
+            "Sát Thương Thủy Châu|{param5:P}",
             "Thời Gian Kéo Dài|{param6:F1}s",
             "CD|{param7:F1}s"
           ],
@@ -1114,7 +1114,6 @@
       "Id": 201401,
       "Name": "Mùa Hè Rực Rỡ",
       "Description": "Phong cách bãi biển của Barbara. Váy ngắn tràn đầy không khí mùa hè, tỏa ra hơi thở tươi mát.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

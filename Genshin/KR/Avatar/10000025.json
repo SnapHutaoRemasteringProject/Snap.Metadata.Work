@@ -36,12 +36,12 @@
         "GroupId": 2531,
         "Proud": {
           "Descriptions": [
-            "1단 공격 피해|{param1:F1P}",
-            "2단 공격 피해|{param2:F1P}",
+            "1단 공격 피해|{param1:P}",
+            "2단 공격 피해|{param2:P}",
             "3단 공격 피해|{param3:F1P}+{param4:F1P}",
-            "4단 공격 피해|{param5:F1P}",
-            "5단 공격 피해|{param6:F1P}+{param7:F1P}",
-            "강공격 피해|{param8:F1P}+{param9:F1P}",
+            "4단 공격 피해|{param5:P}",
+            "5단 공격 피해|{param6:P}+{param7:P}",
+            "강공격 피해|{param8:P}+{param9:P}",
             "강공격 스태미나 소모|{param10:F1}pt",
             "낙하 기간 피해|{param11:F1P}",
             "저공/고공 추락 충격 피해|{param12:P}/{param13:P}"
@@ -526,7 +526,7 @@
       "GroupId": 2539,
       "Proud": {
         "Descriptions": [
-          "검의 비 피해|{param1:F1P}",
+          "검의 비 피해|{param1:P}",
           "지속 시간|{param2:F1}초",
           "재사용 대기시간|{param3:F1}초",
           "원소 에너지|{param4:I}"
@@ -1164,7 +1164,6 @@
       "Id": 202501,
       "Name": "비에 물든 대나무",
       "Description": "비운 상회에서 행추를 위해 준비한 연회 의상. 청아한 대나무 무늬와 완벽에 가까운 마름질도 훌륭하지만, 특히 행추의 마음에 드는 부분은 얇은 소설책 한 권을 넣을 수 있을 정도로 넉넉한 속주머니다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

@@ -36,12 +36,12 @@
         "GroupId": 3531,
         "Proud": {
           "Descriptions": [
-            "Daño de 1er golpe|{param1:F1P}",
-            "Daño de 2.º golpe|{param2:F1P}",
+            "Daño de 1er golpe|{param1:P}",
+            "Daño de 2.º golpe|{param2:P}",
             "#Daño de 3er golpe|{param3:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param3:F1P}",
             "#Daño de 4.º golpe|{param4:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param4:F1P}",
-            "Daño de 5.º golpe|{param5:F1P}",
-            "#Daño de ATQ Cargado|{param6:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param6:F1P}",
+            "Daño de 5.º golpe|{param5:P}",
+            "#Daño de ATQ Cargado|{param6:P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param6:P}",
             "Coste de Aguante de ATQ Cargado|{param7:F1} pts.",
             "Daño de Caída|{param8:F1P}",
             "Daño de impacto de caída baja/alta|{param9:P}/{param10:P}"
@@ -529,7 +529,7 @@
       "Proud": {
         "Descriptions": [
           "Daño de habilidad|{param3:P}",
-          "Curación|{param1:F1P} de ATQ + {param2:I}",
+          "Curación|{param1:P} de ATQ + {param2:I}",
           "Duración|{param4:F1} s",
           "TdE|{param5:F1} s",
           "Energía Elemental|{param6:I}"

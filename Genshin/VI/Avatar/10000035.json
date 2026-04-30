@@ -36,12 +36,12 @@
         "GroupId": 3531,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
             "Sát Thương Lần 3|{param3:F1P}+{param3:F1P}",
             "Sát Thương Lần 4|{param4:F1P}+{param4:F1P}",
-            "Sát Thương Lần 5|{param5:F1P}",
-            "Sát Thương Trọng Kích|{param6:F1P}+{param6:F1P}",
+            "Sát Thương Lần 5|{param5:P}",
+            "Sát Thương Trọng Kích|{param6:P}+{param6:P}",
             "Thể lực Trọng Kích tiêu hao|{param7:F1} điểm",
             "Sát Thương Khi Rơi|{param8:F1P}",
             "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao|{param9:P}/{param10:P}"
@@ -529,7 +529,7 @@
       "Proud": {
         "Descriptions": [
           "Sát Thương Kỹ Năng|{param3:P}",
-          "Lượng trị liệu|{param1:F1P} tấn công +{param2:I}",
+          "Lượng trị liệu|{param1:P} tấn công +{param2:I}",
           "Thời Gian Kéo Dài|{param4:F1}s",
           "CD|{param5:F1}s",
           "Năng Lượng Nguyên Tố|{param6:I}"

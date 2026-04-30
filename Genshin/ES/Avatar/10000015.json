@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "Daño de 1er golpe|{param1:F1P}",
-            "Daño de 2.º golpe|{param2:F1P}",
-            "Daño de 3er golpe|{param3:F1P}",
-            "Daño de 4.º golpe|{param4:F1P}",
-            "Daño de 5.º golpe|{param5:F1P}",
-            "#Daño de ATQ Cargado|{param6:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param7:F1P}",
+            "Daño de 1er golpe|{param1:P}",
+            "Daño de 2.º golpe|{param2:P}",
+            "Daño de 3er golpe|{param3:P}",
+            "Daño de 4.º golpe|{param4:P}",
+            "Daño de 5.º golpe|{param5:P}",
+            "#Daño de ATQ Cargado|{param6:P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param7:P}",
             "Coste de Aguante de ATQ Cargado|{param8:F1} pts.",
             "Daño de Caída|{param9:F1P}",
             "Daño de impacto de caída baja/alta|{param10:P}/{param11:P}"
@@ -449,7 +449,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "Daño de habilidad|{param1:F1P}",
+          "Daño de habilidad|{param1:P}",
           "TdE|{param2:F1} s",
           "Duración|{param3:F1} s",
           "Energía Elemental|{param4:I}"
@@ -1078,7 +1078,6 @@
       "Id": 201501,
       "Name": "Sombra tremolante",
       "Description": "La vestimenta usada por Kaeya para interpretar el papel del “Navajilla”, un atuendo hermoso y diseñado para llamar la atención. No es una ropa incómoda, pero sí que se tarda un poco en colocar todos los accesorios y la daga.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

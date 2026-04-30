@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "SCH Phase 1|{param1:F1P}",
-            "SCH Phase 2|{param2:F1P}",
-            "SCH Phase 3|{param3:F1P}",
-            "SCH Phase 4|{param4:F1P}",
-            "SCH Phase 5|{param5:F1P}",
-            "SCH heftiger Schläge|{param6:F1P} + {param7:F1P}",
+            "SCH Phase 1|{param1:P}",
+            "SCH Phase 2|{param2:P}",
+            "SCH Phase 3|{param3:P}",
+            "SCH Phase 4|{param4:P}",
+            "SCH Phase 5|{param5:P}",
+            "SCH heftiger Schläge|{param6:P} + {param7:P}",
             "Ausdauerverbrauch heftiger Schläge|{param8:F1} Punkte",
             "SCH beim Fallen|{param9:F1P}",
             "SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}"
@@ -449,7 +449,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "Fähigkeits-SCH|{param1:F1P}",
+          "Fähigkeits-SCH|{param1:P}",
           "Abklingzeit|{param2:F1} s",
           "Dauer|{param3:F1} s",
           "Elementarenergie|{param4:I}"
@@ -1078,7 +1078,6 @@
       "Id": 201501,
       "Name": "Schatten flatternder Segel",
       "Description": "Kaeyas Kostüm aus seiner Darbietung als „Großer Räuber Kurzklinge“. Ein prächtiges Kleidungsstück, das als absoluter „Hingucker“ entworfen wurde. Das Kostüm selbst ist nicht aufwendig anzuziehen; ganz anders sieht es da allerdings mit den Accessoires und dem Messer aus.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

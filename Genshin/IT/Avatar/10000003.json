@@ -36,11 +36,11 @@
         "GroupId": 331,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
-            "DAN da 4º colpo|{param4:F1P}",
-            "DAN da 5º colpo|{param5:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
+            "DAN da 3º colpo|{param3:P}",
+            "DAN da 4º colpo|{param4:P}",
+            "DAN da 5º colpo|{param5:P}",
             "DAN da ATT caricato|{param6:P}",
             "Costo vigore ATT caricato|{param7:F1}",
             "DAN da ATT in picchiata|{param8:F1P}",
@@ -467,11 +467,11 @@
       "Proud": {
         "Descriptions": [
           "DAN da Tripudio|{param1:P}",
-          "DAN da entrata/uscita campo|{param2:F1P}",
+          "DAN da entrata/uscita campo|{param2:P}",
           "Guarigione da attivazione campo|{param3:P} ATT+{param4:I}",
           "RIGEN continua|{param5:F2P} ATT+{param6:I}/s",
-          "TdR|{param7:F1} s",
-          "Costo energia|{param8:I}"
+          "TdR|{param8:F1} s",
+          "Costo energia|{param9:I}"
         ],
         "Parameters": [
           {
@@ -1152,7 +1152,6 @@
       "Id": 200301,
       "Name": "Dente di leone della brezza marina",
       "Description": "L'abbigliamento estivo di Jean. Leggero e fresco, ma non per questo meno elegante. La scelta perfetta per una gita al mare.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1160,7 +1159,6 @@
       "Id": 200302,
       "Name": "Eredità di Gunnhildr",
       "Description": "Il completo di Jean. Questo classico abito cerimoniale da cavaliere è adatto a ogni occasione.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

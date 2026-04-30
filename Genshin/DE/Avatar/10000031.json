@@ -36,12 +36,12 @@
         "GroupId": 3131,
         "Proud": {
           "Descriptions": [
-            "SCH Phase 1|{param1:F1P}",
-            "SCH Phase 2|{param2:F1P}",
-            "SCH Phase 3|{param3:F1P}",
-            "SCH Phase 4|{param4:F1P}",
-            "SCH Phase 5|{param5:F1P}",
-            "Gezielte Schüsse|{param6:F1P}",
+            "SCH Phase 1|{param1:P}",
+            "SCH Phase 2|{param2:P}",
+            "SCH Phase 3|{param3:P}",
+            "SCH Phase 4|{param4:P}",
+            "SCH Phase 5|{param5:P}",
+            "Gezielte Schüsse|{param6:P}",
             "Voll aufgeladene gezielte Schüsse|{param7:P}",
             "SCH beim Fallen|{param8:F1P}",
             "SCH beim Fallen aus niedriger/großer Höhe|{param9:P}/{param10:P}"
@@ -298,7 +298,7 @@
         "GroupId": 3132,
         "Proud": {
           "Descriptions": [
-            "Angriffs-SCH von Oz|{param1:F1P}",
+            "Angriffs-SCH von Oz|{param1:P}",
             "Beschwörungs-SCH|{param2:P}",
             "Vorhandensein von Oz|{param4:F1} s",
             "Abklingzeit|{param5:F1} s"
@@ -1157,7 +1157,6 @@
       "Id": 203101,
       "Name": "Ein Immernachtstraum",
       "Description": "Das Ritualkleid der Prinzessin Fischl. Möge die edle Person immer Mut, Aufrichtigkeit und Herzensgüte besitzen, sodass das Böse sie nicht überkommen kann.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

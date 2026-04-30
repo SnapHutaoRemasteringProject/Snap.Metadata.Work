@@ -37,12 +37,12 @@
         "Proud": {
           "Descriptions": [
             "DAN da 1º colpo|{param1:F1P}+{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
+            "DAN da 2º colpo|{param2:P}",
+            "DAN da 3º colpo|{param3:P}",
             "DAN da 4º colpo|{param4:F1P}+{param4:F1P}",
-            "DAN da 5º colpo|{param5:F1P}",
-            "DAN da 6º colpo|{param6:F1P}",
-            "ATT mirato|{param7:F1P}",
+            "DAN da 5º colpo|{param5:P}",
+            "DAN da 6º colpo|{param6:P}",
+            "ATT mirato|{param7:P}",
             "ATT mirato a piena carica|{param8:P}",
             "DAN da ATT in picchiata|{param9:F1P}",
             "DAN da ATT in picchiata basso/alto|{param10:P}/{param11:P}",

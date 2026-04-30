@@ -38,8 +38,8 @@
           "Descriptions": [
             "一段傷害|{param1:F1P}",
             "二段傷害|{param2:F1P}",
-            "三段傷害|{param3:F1P}",
-            "四段傷害|{param4:F1P}",
+            "三段傷害|{param3:P}",
+            "四段傷害|{param4:P}",
             "重擊傷害|{param5:P}",
             "重擊體力消耗|{param6:F1}點",
             "下墜期間傷害|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "點按傷害|{param6:F1P}",
+            "點按傷害|{param6:P}",
             "點按冷卻時間|{param7:F1}秒",
             "無引雷長按傷害|{param1:P}",
             "一層引雷長按傷害|{param2:P}",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "葉隱芳名",
       "Description": "麗莎重遊須彌時請人訂做的服飾。裙裝幹練而不失優雅，與她學生時代的制服有幾分相似之處。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

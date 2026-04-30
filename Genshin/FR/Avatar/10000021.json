@@ -38,10 +38,10 @@
           "Descriptions": [
             "DGT 1er coup|{param1:F1P}",
             "DGT 2e coup|{param2:F1P}",
-            "DGT 3e coup|{param3:F1P}",
-            "DGT 4e coup|{param4:F1P}",
-            "DGT 5e coup|{param5:F1P}",
-            "DGT tir visé|{param6:F1P}",
+            "DGT 3e coup|{param3:P}",
+            "DGT 4e coup|{param4:P}",
+            "DGT 5e coup|{param5:P}",
+            "DGT tir visé|{param6:P}",
             "DGT tir visé (pleine charge)|{param7:P}",
             "DGT durant la chute|{param8:F1P}",
             "DGT chute basse/élevée|{param9:P}/{param10:P}"
@@ -1131,7 +1131,6 @@
       "Id": 202101,
       "Name": "#Éclaireuse 100{NON_BREAK_SPACE}%",
       "Description": "Tenue d'Amber. C'est une version plus formelle, mais non moins cool, de l'uniforme des Éclaireurs !",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AmborCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_AmborCostumeWic"
     },

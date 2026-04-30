@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "DMG Tahap 1|{param1:F1P}",
-            "DMG Tahap 2|{param2:F1P}",
-            "DMG Tahap 3|{param3:F1P}",
+            "DMG Tahap 1|{param1:P}",
+            "DMG Tahap 2|{param2:P}",
+            "DMG Tahap 3|{param3:P}",
             "DMG Tahap 4|{param4:P}",
-            "DMG Berputar Charged Attack|{param5:F1P}",
+            "DMG Berputar Charged Attack|{param5:P}",
             "DMG Akhir Charged Attack|{param6:P}",
             "Konsumsi Stamina Charged Attack|{param7:F1}/dtk",
             "Durasi Maksimum|{param8:F1} dtk",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "DMG Tahap 1|{param1:F1P}",
-            "DMG Tahap 2|{param2:F1P}",
+            "DMG Tahap 1|{param1:P}",
+            "DMG Tahap 2|{param2:P}",
             "DMG Tahap 3|{param3:P}",
             "Cooldown|{param4:F1} dtk"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "DMG Tebasan|{param1:P}",
-          "DMG Berkelanjutan|{param2:F1P}",
+          "DMG Berkelanjutan|{param2:P}",
           "DMG Ledakan|{param3:P}",
           "Cooldown|{param4:F1} dtk",
           "Durasi Infusion|{param5:F1} detik",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "Red Dead of Night",
       "Description": "Pakaian yang dipakai Diluc saat menjalankan operasi rahasia. Siluetnya mirip kilatan api dalam bayangan. Jejak warna merah darah yang berkelibat di pandangan musuhnya akan terbayang sampai selama-selamanya.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

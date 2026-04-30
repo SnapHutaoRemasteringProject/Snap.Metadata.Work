@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
             "DAN da 3º colpo|{param3:F1P}+{param3:F1P}",
             "DAN da 4º colpo|{param4:F1P}*4",
-            "DAN da 5º colpo|{param5:F1P}",
+            "DAN da 5º colpo|{param5:P}",
             "DAN da ATT caricato|{param6:P}",
             "Costo vigore ATT caricato|{param7:F1}",
             "DAN da ATT in picchiata|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "DAN da 1ª sferzata|{param1:F1P}",
-          "DAN da 2ª sferzata|{param2:F1P}",
+          "DAN da 1ª sferzata|{param1:P}",
+          "DAN da 2ª sferzata|{param2:P}",
           "DAN da 3ª sferzata|{param3:P}",
           "DAN da Pyronado|{param4:P}",
           "Durata|{param5:F1} s",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "Celebrazione per l'anno nuovo",
       "Description": "Il completo di Xiangling. Il cappotto rosso brilla come una stufetta nel vento gelido, e il cappello, suggerito da Hu Tao, è ispirato all'aspetto di Guoba. Un design perfetto per i gusti di Xiangling.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

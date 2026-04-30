@@ -38,8 +38,8 @@
           "Descriptions": [
             "Dano do 1° Golpe|{param1:F1P}",
             "Dano do 2° Golpe|{param2:F1P}",
-            "Dano do 3° Golpe|{param3:F1P}",
-            "Dano do 4° Golpe|{param4:F1P}",
+            "Dano do 3° golpe |{param3:P}",
+            "Dano do 4° golpe|{param4:P}",
             "Dano de Ataque Carregado|{param5:P}",
             "Consumo de Stamina de Ataque Carregado|{param6:F1}",
             "Dano Durante a Queda|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "Pacto das Estrelas e da Lua",
       "Description": "Vestuário de Mona. Um vestuário feito especificamente para englobar o conceito de \"Momento Destinado\" das Previsões Astrológicas e como agradecimento pelo desconto de 30% no planetário.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

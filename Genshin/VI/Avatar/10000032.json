@@ -36,12 +36,12 @@
         "GroupId": 3231,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
-            "Sát Thương Lần 5|{param5:F1P}",
-            "Sát Thương Trọng Kích|{param6:F1P}+{param7:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
+            "Sát Thương Lần 5|{param5:P}",
+            "Sát Thương Trọng Kích|{param6:P}+{param7:P}",
             "Thể lực Trọng Kích tiêu hao|{param8:F1} điểm",
             "Sát Thương Khi Đáp|{param9:F1P}",
             "ST Khi Rơi Từ Độ Cao Thấp/Cao|{param10:P}/{param11:P}"
@@ -314,8 +314,8 @@
         "Proud": {
           "Descriptions": [
             "Sát Thương Nhấn|{param1:P}",
-            "Sát Thương Tụ Lực Lần 1|{param2:F1P}+{param3:F1P}",
-            "Sát Thương Tụ Lực Lần 2|{param4:F1P}+{param5:F1P}",
+            "Sát Thương Tụ Lực Lần 1|{param2:P}+{param3:P}",
+            "Sát Thương Tụ Lực Lần 2|{param4:P}+{param5:P}",
             "Sát Thương Nổ|{param6:P}",
             "CD|{param7:F1}/{param8:F1}/{param9:F1}s"
           ],
@@ -1224,7 +1224,6 @@
       "Id": 203201,
       "Name": "Hành Trình Sắc Lửa",
       "Description": "Trang phục du ngoạn Natlan của Bennett, màu chủ đạo là màu xanh lam may mắn cùng màu vàng cam rực rỡ, cũng giống như vùng đất tràn trề sức sống này vậy.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BennettCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_BennettCostumeSummer"
     },

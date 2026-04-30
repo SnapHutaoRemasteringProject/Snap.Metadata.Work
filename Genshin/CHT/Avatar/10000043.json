@@ -38,8 +38,8 @@
           "Descriptions": [
             "一段傷害|{param1:F1P}",
             "二段傷害|{param2:F1P}",
-            "三段傷害|{param3:F1P}",
-            "四段傷害|{param4:F1P}",
+            "三段傷害|{param3:P}",
+            "四段傷害|{param4:P}",
             "重擊傷害|{param5:P}",
             "重擊體力消耗|{param6:F1}點",
             "下墜期間傷害|{param7:F1P}",
@@ -444,7 +444,7 @@
       "Proud": {
         "Descriptions": [
           "持續傷害|{param1:P}",
-          "附加元素傷害|{param2:F1P}",
+          "附加元素傷害|{param2:P}",
           "持續時間|{param3:F1}秒",
           "冷卻時間|{param4:F1}秒",
           "元素能量|{param5:I}"
@@ -742,7 +742,7 @@
     "ConstellationBefore": "燒瓶座",
     "CvChinese": "小敢",
     "CvJapanese": "藤田茜",
-    "CvEnglish": "Valeria Rodriguez & Anonymous",
+    "CvEnglish": "Maya Graydon",
     "CvKorean": "金荷英",
     "CookBonus": {
       "OriginItemId": 108066,

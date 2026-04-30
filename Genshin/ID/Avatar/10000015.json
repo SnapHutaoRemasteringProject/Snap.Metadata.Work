@@ -36,12 +36,12 @@
         "GroupId": 1531,
         "Proud": {
           "Descriptions": [
-            "DMG Tahap 1|{param1:F1P}",
-            "DMG Tahap 2|{param2:F1P}",
-            "DMG Tahap 3|{param3:F1P}",
-            "DMG Tahap 4|{param4:F1P}",
-            "DMG Tahap 5|{param5:F1P}",
-            "DMG Charged Attack|{param6:F1P}+{param7:F1P}",
+            "DMG Tahap 1|{param1:P}",
+            "DMG Tahap 2|{param2:P}",
+            "DMG Tahap 3|{param3:P}",
+            "DMG Tahap 4|{param4:P}",
+            "DMG Tahap 5|{param5:P}",
+            "DMG Charged Attack|{param6:P}+{param7:P}",
             "Konsumsi Stamina Charged Attack|{param8:F1}",
             "DMG Selama Plunging|{param9:F1P}",
             "DMG Plunging Attack Rendah/Tinggi|{param10:P}/{param11:P}"
@@ -449,7 +449,7 @@
       "GroupId": 1539,
       "Proud": {
         "Descriptions": [
-          "DMG Skill|{param1:F1P}",
+          "DMG Skill|{param1:P}",
           "Cooldown|{param2:F1} dtk",
           "Durasi|{param3:F1} dtk",
           "Konsumsi Energy|{param4:I}"
@@ -1078,7 +1078,6 @@
       "Id": 201501,
       "Name": "Sailwind Shadow",
       "Description": "Kostum Kaeya yang dikenakan saat memerankan \"Bandit Belati\". Desain kostum ini sengaja dibuat agar terlihat sangat mencolok. Tapi mengenakannya pun tidak sulit, malahan aksesori lain dan belatinya yang lebih memakan waktu saat dikenakan.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

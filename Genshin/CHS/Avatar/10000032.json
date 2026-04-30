@@ -36,12 +36,12 @@
         "GroupId": 3231,
         "Proud": {
           "Descriptions": [
-            "一段伤害|{param1:F1P}",
-            "二段伤害|{param2:F1P}",
-            "三段伤害|{param3:F1P}",
-            "四段伤害|{param4:F1P}",
-            "五段伤害|{param5:F1P}",
-            "重击伤害|{param6:F1P}+{param7:F1P}",
+            "一段伤害|{param1:P}",
+            "二段伤害|{param2:P}",
+            "三段伤害|{param3:P}",
+            "四段伤害|{param4:P}",
+            "五段伤害|{param5:P}",
+            "重击伤害|{param6:P}+{param7:P}",
             "重击体力消耗|{param8:F1}点",
             "下坠期间伤害|{param9:F1P}",
             "低空/高空坠地冲击伤害|{param10:P}/{param11:P}"
@@ -314,8 +314,8 @@
         "Proud": {
           "Descriptions": [
             "点按伤害|{param1:P}",
-            "一段蓄力伤害|{param2:F1P}+{param3:F1P}",
-            "二段蓄力伤害|{param4:F1P}+{param5:F1P}",
+            "一段蓄力伤害|{param2:P}+{param3:P}",
+            "二段蓄力伤害|{param4:P}+{param5:P}",
             "爆炸伤害|{param6:P}",
             "冷却时间|{param7:F1}/{param8:F1}/{param9:F1}秒"
           ],
@@ -1224,7 +1224,6 @@
       "Id": 203201,
       "Name": "炽绘奇旅",
       "Description": "班尼特的纳塔游历装束，主色调是幸运的湖蓝，以及炽热的黄橙，如同这片土地一般洋溢着勃勃生机。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BennettCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_BennettCostumeSummer"
     },

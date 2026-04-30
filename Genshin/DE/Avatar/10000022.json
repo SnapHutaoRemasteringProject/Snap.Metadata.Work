@@ -37,12 +37,12 @@
         "Proud": {
           "Descriptions": [
             "SCH Phase 1|{param1:F1P} + {param1:F1P}",
-            "SCH Phase 2|{param2:F1P}",
-            "SCH Phase 3|{param3:F1P}",
+            "SCH Phase 2|{param2:P}",
+            "SCH Phase 3|{param3:P}",
             "SCH Phase 4|{param4:F1P} + {param4:F1P}",
-            "SCH Phase 5|{param5:F1P}",
-            "SCH Phase 6|{param6:F1P}",
-            "Gezielte Schüsse|{param7:F1P}",
+            "SCH Phase 5|{param5:P}",
+            "SCH Phase 6|{param6:P}",
+            "Gezielte Schüsse|{param7:P}",
             "Voll aufgeladene gezielte Schüsse|{param8:P}",
             "SCH beim Fallen|{param9:F1P}",
             "SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}",

@@ -36,12 +36,12 @@
         "GroupId": 3531,
         "Proud": {
           "Descriptions": [
-            "SCH Phase 1|{param1:F1P}",
-            "SCH Phase 2|{param2:F1P}",
+            "SCH Phase 1|{param1:P}",
+            "SCH Phase 2|{param2:P}",
             "SCH Phase 3|{param3:F1P} + {param3:F1P}",
             "SCH Phase 4|{param4:F1P} + {param4:F1P}",
-            "SCH Phase 5|{param5:F1P}",
-            "SCH heftiger Schläge|{param6:F1P} + {param6:F1P}",
+            "SCH Phase 5|{param5:P}",
+            "SCH heftiger Schläge|{param6:P} + {param6:P}",
             "Ausdauerverbrauch heftiger Schläge|{param7:F1} Punkte",
             "SCH beim Fallen|{param8:F1P}",
             "SCH beim Fallen aus niedriger/großer Höhe|{param9:P}/{param10:P}"
@@ -529,7 +529,7 @@
       "Proud": {
         "Descriptions": [
           "Fähigkeits-SCH|{param3:P}",
-          "Heilung|{param1:F1P} ANG + {param2:I}",
+          "Heilung|{param1:P} ANG + {param2:I}",
           "Dauer|{param4:F1} s",
           "Abklingzeit|{param5:F1} s",
           "Elementarenergie|{param6:I}"

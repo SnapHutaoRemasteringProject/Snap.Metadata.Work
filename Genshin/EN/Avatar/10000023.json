@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "1-Hit DMG|{param1:F1P}",
-            "2-Hit DMG|{param2:F1P}",
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
             "3-Hit DMG|{param3:F1P}+{param3:F1P}",
             "4-Hit DMG|{param4:F1P}*4",
-            "5-Hit DMG|{param5:F1P}",
+            "5-Hit DMG|{param5:P}",
             "Charged Attack DMG|{param6:P}",
             "Charged Attack Stamina Cost|{param7:F1}",
             "Plunge DMG|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "1-Hit Swing DMG|{param1:F1P}",
-          "2-Hit Swing DMG|{param2:F1P}",
+          "1-Hit Swing DMG|{param1:P}",
+          "2-Hit Swing DMG|{param2:P}",
           "3-Hit Swing DMG|{param3:P}",
           "Pyronado DMG|{param4:P}",
           "Duration|{param5:F1}s",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "New Year's Cheer",
       "Description": "Xiangling's outfit. The red coat glows like a stove amidst cold winds, topped with a hat that, at Hu Tao's suggestion, took inspiration from Guoba's appearance — a design that's right up Xiangling's alley.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

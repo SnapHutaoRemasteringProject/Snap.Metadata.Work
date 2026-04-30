@@ -36,12 +36,12 @@
         "GroupId": 2431,
         "Proud": {
           "Descriptions": [
-            "DMG Tahap 1|{param1:F1P}",
-            "DMG Tahap 2|{param2:F1P}",
-            "DMG Tahap 3|{param3:F1P}",
-            "DMG Tahap 4|{param4:F1P}",
+            "DMG Tahap 1|{param1:P}",
+            "DMG Tahap 2|{param2:P}",
+            "DMG Tahap 3|{param3:P}",
+            "DMG Tahap 4|{param4:P}",
             "DMG Tahap 5|{param5:P}",
-            "DMG Berputar Charged Attack|{param6:F1P}",
+            "DMG Berputar Charged Attack|{param6:P}",
             "DMG Akhir Charged Attack|{param7:P}",
             "Konsumsi Stamina Charged Attack|{param8:F1}/dtk",
             "Durasi Maksimum|{param9:F1} dtk",
@@ -514,7 +514,7 @@
       "Proud": {
         "Descriptions": [
           "DMG Skill|{param1:P}",
-          "DMG Lightning|{param2:F1P}",
+          "DMG Petir|{param2:P}",
           "Pengurangan DMG|{param3:P}",
           "Durasi|{param4:F1} dtk",
           "Cooldown|{param5:F1} dtk",

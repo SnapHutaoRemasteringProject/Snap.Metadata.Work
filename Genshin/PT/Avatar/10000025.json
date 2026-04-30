@@ -36,12 +36,12 @@
         "GroupId": 2531,
         "Proud": {
           "Descriptions": [
-            "Dano do 1° Golpe|{param1:F1P}",
-            "Dano do 2° Golpe|{param2:F1P}",
+            "Dano do 1° golpe|{param1:P}",
+            "Dano do 2° golpe|{param2:P}",
             "Dano do 3° Golpe|{param3:F1P}+{param4:F1P}",
-            "Dano do 4° Golpe|{param5:F1P}",
-            "Dano do 5° Golpe|{param6:F1P}+{param7:F1P}",
-            "Dano de Ataque Carregado|{param8:F1P}+{param9:F1P}",
+            "Dano do 4° Golpe|{param5:P}",
+            "Dano do 5° Golpe|{param6:P}+{param7:P}",
+            "Dano de Ataque Carregado|{param8:P}+{param9:P}",
             "Consumo de Stamina de Ataque Carregado|{param10:F1}",
             "Dano Durante a Queda|{param11:F1P}",
             "Dano de Queda de Baixa/Alta Altitude|{param12:P}/{param13:P}"
@@ -526,7 +526,7 @@
       "GroupId": 2539,
       "Proud": {
         "Descriptions": [
-          "Dano de Chuva de Espadas|{param1:F1P}",
+          "Dano de Chuva de Espadas|{param1:P}",
           "Duração|{param2:F1}s",
           "Tempo de Recarga|{param3:F1}s",
           "Energia Elemental|{param4:I}"
@@ -1164,7 +1164,6 @@
       "Id": 202501,
       "Name": "Bambu da Chuva",
       "Description": "Roupas formais da Guilda de Comerciantes de Feiyun para Xingqiu. Os bordados de bambu são refinados e lhe fazem vantagem, mas o aspecto favorito da roupa para Xingqiu são os bolsos internos, assim ele pode guardar uma novel.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

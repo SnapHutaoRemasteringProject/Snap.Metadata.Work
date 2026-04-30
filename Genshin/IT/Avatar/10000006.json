@@ -38,8 +38,8 @@
           "Descriptions": [
             "DAN da 1º colpo|{param1:F1P}",
             "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
-            "DAN da 4º colpo|{param4:F1P}",
+            "DAN da 3º colpo|{param3:P}",
+            "DAN da 4º colpo|{param4:P}",
             "DAN da ATT caricato|{param5:P}",
             "Costo vigore ATT caricato|{param6:F1}",
             "DAN da ATT in picchiata|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "#DAN da {LAYOUT_MOBILE#tocco}{LAYOUT_PC#pressione}{LAYOUT_PS#pressione}|{param6:F1P}",
+            "#DAN da {LAYOUT_MOBILE#tocco}{LAYOUT_PC#pressione}{LAYOUT_PS#pressione}|{param6:P}",
             "#TdR {LAYOUT_MOBILE#tocco}{LAYOUT_PC#pressione}{LAYOUT_PS#pressione}|{param7:F1} s",
             "DAN non conduttivi con pressione prolungata|{param1:P}",
             "DAN conduttivi con pressione prolungata accumulo 1|{param2:P}",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "Un nomignolo all'ombra",
       "Description": "Un completo commissionato da Lisa quando è tornata in visita a Sumeru. Un'unione perfetta tra praticità ed eleganza, che assomiglia alla vecchia uniforme di Lisa ai tempi dell'Akademiya.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
-            "3段ダメージ|{param3:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
+            "3段ダメージ|{param3:P}",
             "4段ダメージ|{param4:P}",
-            "連続重撃ダメージ|{param5:F1P}",
+            "連続重撃ダメージ|{param5:P}",
             "重撃終了ダメージ|{param6:P}",
             "重撃スタミナ消費|毎秒{param7:F1}",
             "最大継続時間|{param8:F1}秒",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
             "3段ダメージ|{param3:P}",
             "クールタイム|{param4:F1}秒"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "斬撃ダメージ|{param1:P}",
-          "継続ダメージ|{param2:F1P}",
+          "継続ダメージ|{param2:P}",
           "爆発ダメージ|{param3:P}",
           "クールタイム|{param4:F1}秒",
           "元素付与継続時間|{param5:F1}秒",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "レッドデッド·オブ·ナイト",
       "Description": "ディルックが隠密行動をする際に着る衣装の一つ。それはまるで、影の中で燃える炎のよう。敵の目に焼き付いた深紅の残痕は、彼らに消えることのない悪夢を植え付ける。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

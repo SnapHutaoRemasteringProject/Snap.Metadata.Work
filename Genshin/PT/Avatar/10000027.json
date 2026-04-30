@@ -38,7 +38,7 @@
           "Descriptions": [
             "Dano de Ataque Normal|{param1:F1P}",
             "Dano de Ataque Carregado|{param2:P}",
-            "Dano por Jade Estelar|{param3:F1P}",
+            "Dano por Jade Estelar|{param3:P}",
             "Consumo de Stamina de Ataque Carregado|{param4:F1}",
             "Dano Durante a Queda|{param5:F1P}",
             "Dano de Queda de Baixa/Alta Altitude|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "Dano de Cada Gema|{param1:F1P}",
+          "Dano de Cada Gema|{param1:P}",
           "Tempo de Recarga|{param2:F1}s",
           "Energia Elemental|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "Vestido de Noite Orquídea",
       "Description": "Vestuário formal de Ningguang. A saia longa ciano marca suas curvas elegantes, e as asas das borboletas em seu tornozelo lhe dão um leve toque de graciosidade.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

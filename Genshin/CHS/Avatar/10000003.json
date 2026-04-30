@@ -36,11 +36,11 @@
         "GroupId": 331,
         "Proud": {
           "Descriptions": [
-            "一段伤害|{param1:F1P}",
-            "二段伤害|{param2:F1P}",
-            "三段伤害|{param3:F1P}",
-            "四段伤害|{param4:F1P}",
-            "五段伤害|{param5:F1P}",
+            "一段伤害|{param1:P}",
+            "二段伤害|{param2:P}",
+            "三段伤害|{param3:P}",
+            "四段伤害|{param4:P}",
+            "五段伤害|{param5:P}",
             "重击伤害|{param6:P}",
             "重击体力消耗|{param7:F1}点",
             "下坠期间伤害|{param8:F1P}",
@@ -467,11 +467,11 @@
       "Proud": {
         "Descriptions": [
           "爆发伤害|{param1:P}",
-          "出入领域伤害|{param2:F1P}",
+          "出入领域伤害|{param2:P}",
           "领域发动治疗量|{param3:P}攻击力+{param4:I}",
           "持续治疗|每秒{param5:F2P}攻击力+{param6:I}",
-          "冷却时间|{param7:F1}秒",
-          "元素能量|{param8:I}"
+          "冷却时间|{param8:F1}秒",
+          "元素能量|{param9:I}"
         ],
         "Parameters": [
           {
@@ -1152,7 +1152,6 @@
       "Id": 200301,
       "Name": "海风之梦",
       "Description": "琴的夏日装束。清凉而不失优雅，是海滨之游的绝佳搭配。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1160,7 +1159,6 @@
       "Id": 200302,
       "Name": "古恩希尔德的传承",
       "Description": "琴的装扮款式。典雅干练的骑士礼服，适用于多种场合。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

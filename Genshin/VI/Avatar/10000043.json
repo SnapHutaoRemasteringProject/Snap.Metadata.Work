@@ -38,8 +38,8 @@
           "Descriptions": [
             "Sát Thương Lần 1|{param1:F1P}",
             "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
             "Sát Thương Trọng Kích|{param5:P}",
             "Thể lực Trọng Kích tiêu hao|{param6:F1} điểm",
             "Sát Thương Khi Rơi|{param7:F1P}",
@@ -444,7 +444,7 @@
       "Proud": {
         "Descriptions": [
           "Sát Thương Kéo Dài|{param1:P}",
-          "Sát Thương Nguyên Tố Kèm Theo|{param2:F1P}",
+          "Sát Thương Nguyên Tố Kèm Theo|{param2:P}",
           "Thời Gian Kéo Dài|{param3:F1}s",
           "CD|{param4:F1}s",
           "Năng Lượng Nguyên Tố|{param5:I}"
@@ -742,7 +742,7 @@
     "ConstellationBefore": "Cung Thiêu Bình",
     "CvChinese": "小敢",
     "CvJapanese": "藤田茜",
-    "CvEnglish": "Valeria Rodriguez & Anonymous",
+    "CvEnglish": "Maya Graydon",
     "CvKorean": "Kim Ha-young",
     "CookBonus": {
       "OriginItemId": 108066,

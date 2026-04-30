@@ -36,11 +36,11 @@
         "GroupId": 331,
         "Proud": {
           "Descriptions": [
-            "1-Hit DMG|{param1:F1P}",
-            "2-Hit DMG|{param2:F1P}",
-            "3-Hit DMG|{param3:F1P}",
-            "4-Hit DMG|{param4:F1P}",
-            "5-Hit DMG|{param5:F1P}",
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
             "Charged Attack DMG|{param6:P}",
             "Charged Attack Stamina Cost|{param7:F1}",
             "Plunge DMG|{param8:F1P}",
@@ -467,11 +467,11 @@
       "Proud": {
         "Descriptions": [
           "Burst DMG|{param1:P}",
-          "Field Entering/Exiting DMG|{param2:F1P}",
+          "Field Entering/Exiting DMG|{param2:P}",
           "Field Activation Healing|{param3:P} ATK+{param4:I}",
           "Continuous Regeneration|{param5:F2P} ATK+{param6:I}/s",
-          "CD|{param7:F1}s",
-          "Energy Cost|{param8:I}"
+          "CD|{param8:F1}s",
+          "Energy Cost|{param9:I}"
         ],
         "Parameters": [
           {
@@ -1152,7 +1152,6 @@
       "Id": 200301,
       "Name": "Sea Breeze Dandelion",
       "Description": "Jean's summer wear. Light and cool, but no less elegant for it. The perfect choice for a trip to the seaside.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1160,7 +1159,6 @@
       "Id": 200302,
       "Name": "Gunnhildr's Legacy",
       "Description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

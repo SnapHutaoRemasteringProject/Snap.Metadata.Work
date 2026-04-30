@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "DGT 1er coup|{param1:F1P}",
-            "DGT 2e coup|{param2:F1P}",
-            "DGT 3e coup|{param3:F1P}",
+            "DGT 1er coup|{param1:P}",
+            "DGT 2e coup|{param2:P}",
+            "DGT 3e coup|{param3:P}",
             "DGT 4e coup|{param4:P}",
-            "DGT enchaînement attaque chargée|{param5:F1P}",
+            "DGT enchaînement attaque chargée|{param5:P}",
             "DGT coup final attaque chargée|{param6:P}",
             "Coût d'endurance attaque chargée|{param7:F1} pts/s",
             "Durée max|{param8:F1} s",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "DGT 1er coup|{param1:F1P}",
-            "DGT 2e coup|{param2:F1P}",
+            "DGT 1er coup|{param1:P}",
+            "DGT 2e coup|{param2:P}",
             "DGT 3e coup|{param3:P}",
             "Temps de recharge|{param4:F1} s"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "DGT entaille|{param1:P}",
-          "DGT continus|{param2:F1P}",
+          "DGT continus|{param2:P}",
           "DGT explosion|{param3:P}",
           "Temps de recharge|{param4:F1} s",
           "Durée enchantement|{param5:F1} s",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "Nuit écarlate",
       "Description": "Une tenue que Diluc porte lorsqu'il part en mission secrète. Elle ressemble à une flamme dansante dans l'ombre dont les traces écarlates hanteront les nuits des ennemis pour le restant de leurs jours.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

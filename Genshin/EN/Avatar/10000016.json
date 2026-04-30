@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "1-Hit DMG|{param1:F1P}",
-            "2-Hit DMG|{param2:F1P}",
-            "3-Hit DMG|{param3:F1P}",
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
             "4-Hit DMG|{param4:P}",
-            "Charged Attack Cyclic DMG|{param5:F1P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
             "Charged Attack Final DMG|{param6:P}",
             "Charged Attack Stamina Cost|{param7:F1}/s",
             "Max Duration|{param8:F1}s",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "1-Hit DMG|{param1:F1P}",
-            "2-Hit DMG|{param2:F1P}",
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
             "3-Hit DMG|{param3:P}",
             "CD|{param4:F1}s"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "Slashing DMG|{param1:P}",
-          "DoT|{param2:F1P}",
+          "DoT|{param2:P}",
           "Explosion DMG|{param3:P}",
           "CD|{param4:F1}s",
           "Infusion Duration|{param5:F1}s",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "Red Dead of Night",
       "Description": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leaves behind at the edges of the enemy's vision will scar their nightmares forever.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

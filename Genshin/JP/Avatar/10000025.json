@@ -36,12 +36,12 @@
         "GroupId": 2531,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
             "3段ダメージ|{param3:F1P}+{param4:F1P}",
-            "4段ダメージ|{param5:F1P}",
-            "5段ダメージ|{param6:F1P}+{param7:F1P}",
-            "重撃ダメージ|{param8:F1P}+{param9:F1P}",
+            "4段ダメージ|{param5:P}",
+            "5段ダメージ|{param6:P}+{param7:P}",
+            "重撃ダメージ|{param8:P}+{param9:P}",
             "重撃スタミナ消費|{param10:F1}",
             "落下期間のダメージ|{param11:F1P}",
             "低空/高空落下攻撃ダメージ|{param12:P}/{param13:P}"
@@ -526,7 +526,7 @@
       "GroupId": 2539,
       "Proud": {
         "Descriptions": [
-          "剣雨のダメージ|{param1:F1P}",
+          "剣雨のダメージ|{param1:P}",
           "継続時間|{param2:F1}秒",
           "クールタイム|{param3:F1}秒",
           "元素エネルギー|{param4:I}"
@@ -1164,7 +1164,6 @@
       "Id": 202501,
       "Name": "竹身雨化",
       "Description": "飛雲商会が行秋のために用意した礼服。優雅な竹の模様が入っており、体にぴったり合うよう仕立てられている。なにより行秋が最も気に入っている点は、服の内側にあるほどよい大きさのポケット。薄めの小説がちょうど入るようになっている。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

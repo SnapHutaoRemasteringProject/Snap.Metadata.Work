@@ -38,8 +38,8 @@
           "Descriptions": [
             "Daño de 1er golpe|{param1:F1P}",
             "Daño de 2.º golpe|{param2:F1P}",
-            "Daño de 3er golpe|{param3:F1P}",
-            "Daño de 4.º golpe|{param4:F1P}",
+            "Daño de 3er golpe|{param3:P}",
+            "Daño de 4.º golpe|{param4:P}",
             "Daño de ATQ Cargado|{param5:P}",
             "Coste de Aguante de ATQ Cargado|{param6:F1} pts.",
             "Daño de Caída|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "#Daño {LAYOUT_MOBILE#por toque}{LAYOUT_PC#al pulsar una vez}{LAYOUT_PS#al pulsar una vez}|{param6:F1P}",
+            "#Daño {LAYOUT_MOBILE#por toque}{LAYOUT_PC#al pulsar una vez}{LAYOUT_PS#al pulsar una vez}|{param6:P}",
             "#TdE {LAYOUT_MOBILE#por toque}{LAYOUT_PC#al pulsar una vez}{LAYOUT_PS#al pulsar una vez}|{param7:F1} s",
             "Daño de conducción al mantener pulsado (0 cargas)|{param1:P}",
             "Daño de conducción al mantener pulsado (1 carga)|{param2:P}",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "Identidad velada",
       "Description": "Un atuendo que Lisa mandó hacer por encargo para volver de visita a Sumeru. Un vestido tan práctico como elegante que se asemeja al uniforme que solía llevar en sus años de estudiante.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

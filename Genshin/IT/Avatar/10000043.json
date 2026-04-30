@@ -38,8 +38,8 @@
           "Descriptions": [
             "DAN da 1º colpo|{param1:F1P}",
             "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
-            "DAN da 4º colpo|{param4:F1P}",
+            "DAN da 3º colpo|{param3:P}",
+            "DAN da 4º colpo|{param4:P}",
             "DAN da ATT caricato|{param5:P}",
             "Costo vigore ATT caricato|{param6:F1}",
             "DAN da ATT in picchiata|{param7:F1P}",
@@ -444,7 +444,7 @@
       "Proud": {
         "Descriptions": [
           "DAN nel tempo|{param1:P}",
-          "DAN elementali aggiuntivi|{param2:F1P}",
+          "DAN elementali aggiuntivi|{param2:P}",
           "Durata|{param3:F1} s",
           "TdR|{param4:F1} s",
           "Costo energia|{param5:I}"
@@ -742,7 +742,7 @@
     "ConstellationBefore": "Ampulla",
     "CvChinese": "小敢",
     "CvJapanese": "藤田茜",
-    "CvEnglish": "Valeria Rodriguez e Anonimo",
+    "CvEnglish": "Maya Graydon",
     "CvKorean": "Kim Ha-young",
     "CookBonus": {
       "OriginItemId": 108066,

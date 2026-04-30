@@ -36,15 +36,15 @@
         "GroupId": 3431,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
+            "DAN da 3º colpo|{param3:P}",
             "DAN da 4º colpo|{param4:P}",
-            "DAN da ATT caricato ciclico|{param5:F1P}",
-            "DAN da ATT caricato finali|{param6:F1P}",
+            "DAN da ATT caricato ciclico|{param5:P}",
+            "DAN da ATT caricato finali|{param6:P}",
             "Costo vigore ATT caricato|{param7:F1}/s",
             "Durata max|{param8:F1} s",
-            "DAN da ATT in picchiata|{param9:F1P}",
+            "DAN da ATT in picchiata|{param9:P}",
             "DAN da ATT in picchiata basso/alto|{param10:P}/{param11:P}"
           ],
           "Parameters": [
@@ -544,8 +544,8 @@
       "GroupId": 3439,
       "Proud": {
         "Descriptions": [
-          "DAN da esplosione|{param1:F1P}",
-          "DAN da abilità|{param2:F1P}",
+          "DAN da Tripudio|{param1:P}",
+          "DAN da abilità|{param2:P}",
           "Bonus ATT|{param3:P} DIF",
           "Durata|{param4:F1} s",
           "TdR|{param5:F1} s",

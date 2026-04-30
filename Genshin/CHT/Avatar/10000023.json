@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "一段傷害|{param1:F1P}",
-            "二段傷害|{param2:F1P}",
+            "一段傷害|{param1:P}",
+            "二段傷害|{param2:P}",
             "三段傷害|{param3:F1P}+{param3:F1P}",
             "四段傷害|{param4:F1P}*4",
-            "五段傷害|{param5:F1P}",
+            "五段傷害|{param5:P}",
             "重擊傷害|{param6:P}",
             "重擊體力消耗|{param7:F1}點",
             "下墜期間傷害|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "一段揮舞傷害|{param1:F1P}",
-          "二段揮舞傷害|{param2:F1P}",
+          "一段揮舞傷害|{param1:P}",
+          "二段揮舞傷害|{param2:P}",
           "三段揮舞傷害|{param3:P}",
           "旋火輪傷害|{param4:P}",
           "持續時間|{param5:F1}秒",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "歲夜歡譁",
       "Description": "香菱的裝扮款式。冷風中的一抹紅色灶火，帽子在胡桃的提議下特別根據鍋巴的形象設計而成，很受香菱喜愛。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

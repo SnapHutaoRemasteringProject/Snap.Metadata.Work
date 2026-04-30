@@ -957,6 +957,23 @@
         "Icon": "UI_Talent_S_Shougun_06"
       },
       {
+        "GroupId": 5223,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 522301,
+              "Level": 1,
+              "Parameters": []
+            }
+          ]
+        },
+        "Id": 522301,
+        "Name": "",
+        "Description": "",
+        "Icon": ""
+      },
+      {
         "GroupId": 5225,
         "Proud": {
           "Descriptions": [],
@@ -1030,13 +1047,16 @@
     "BirthDay": 26,
     "VisionBefore": "Elektrik",
     "VisionAfter": "Elektrik",
-    "VisionOverrideUnlocked": "Gnosis",
+    "VisionOverrideUnlocked": "Önsezi",
     "ConstellationBefore": "Gölgelerin İmparatoriçesi",
     "ConstellationAfter": "Gölgelerin İmparatoriçesi",
     "CvChinese": "菊花花",
     "CvJapanese": "沢城みゆき",
     "CvEnglish": "Anne Yatco",
     "CvKorean": "Park Ji-yoon",
+    "CookBonus": {
+      "InputList": []
+    },
     "Fetters": [
       {
         "Title": "Merhaba",

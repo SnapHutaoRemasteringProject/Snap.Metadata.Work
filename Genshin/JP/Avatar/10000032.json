@@ -36,12 +36,12 @@
         "GroupId": 3231,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
-            "3段ダメージ|{param3:F1P}",
-            "4段ダメージ|{param4:F1P}",
-            "5段ダメージ|{param5:F1P}",
-            "重撃ダメージ|{param6:F1P}+{param7:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
+            "3段ダメージ|{param3:P}",
+            "4段ダメージ|{param4:P}",
+            "5段ダメージ|{param5:P}",
+            "重撃ダメージ|{param6:P}+{param7:P}",
             "重撃スタミナ消費|{param8:F1}",
             "落下期間のダメージ|{param9:F1P}",
             "低空/高空落下攻撃ダメージ|{param10:P}/{param11:P}"
@@ -314,8 +314,8 @@
         "Proud": {
           "Descriptions": [
             "一回押しダメージ|{param1:P}",
-            "1段チャージダメージ|{param2:F1P}+{param3:F1P}",
-            "2段チャージダメージ|{param4:F1P}+{param5:F1P}",
+            "1段チャージダメージ|{param2:P}+{param3:P}",
+            "2段チャージダメージ|{param4:P}+{param5:P}",
             "爆発ダメージ|{param6:P}",
             "クールタイム|{param7:F1}/{param8:F1}/{param9:F1}秒"
           ],
@@ -1224,7 +1224,6 @@
       "Id": 203201,
       "Name": "燃えろ！ラクガキ大冒険",
       "Description": "ベネットがナタの旅で着ていた衣装。ラッキーカラーのターコイズブルーと、燃えるようなオレンジ色は、生命力に満ち溢れたナタの地を彷彿とさせる。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BennettCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_BennettCostumeSummer"
     },

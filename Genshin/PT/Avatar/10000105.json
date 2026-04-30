@@ -33,6 +33,16 @@
     "Arkhe": 0,
     "Skills": [
       {
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": []
+        },
+        "Id": 30506,
+        "Name": "Salto Especial",
+        "Description": "Se o personagem estiver em Natlan, depois de manter pressionado poderá consumir Flogisto para fazer um Salto Foguete Nível 2. Quando o Flogisto acabar, consumirá sua Stamina para fazer esse Salto Foguete Nível 2.",
+        "Icon": "Skill_E_Olorun_03"
+      },
+      {
         "GroupId": 10531,
         "Proud": {
           "Descriptions": [
@@ -41,7 +51,7 @@
             "Dano do 3° Golpe|{param3:F1P}",
             "Disparo com Mira|{param4:F1P}",
             "Disparo com Mira com Energização Completa|{param5:P}",
-            "Dano Durante a Queda|{param6:F1P}",
+            "Dano Durante a Queda|{param6:F1P}{param6:F1P}",
             "Dano de Queda de Baixa/Alta Altitude|{param7:P}/{param8:P}"
           ],
           "Parameters": [

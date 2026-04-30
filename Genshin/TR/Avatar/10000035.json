@@ -36,12 +36,12 @@
         "GroupId": 3531,
         "Proud": {
           "Descriptions": [
-            "1 Vuruş Hasarı|{param1:F1P}",
-            "2 Vuruş Hasarı|{param2:F1P}",
+            "1 Vuruş Hasarı|{param1:P}",
+            "2 Vuruş Hasarı|{param2:P}",
             "3 Vuruş Hasarı|{param3:F1P}+{param3:F1P}",
             "4 Vuruş Hasarı|{param4:F1P}+{param4:F1P}",
-            "5 Vuruş Hasarı|{param5:F1P}",
-            "Yüklü Saldırı Hasarı|{param6:F1P}+{param6:F1P}",
+            "5 Vuruş Hasarı|{param5:P}",
+            "Yüklü Saldırı Hasarı|{param6:P}+{param6:P}",
             "Yüklü Saldırı Dayanıklılık Maliyeti|{param7:F1}",
             "Havadan Saldırı Hasarı|{param8:F1P}",
             "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)|{param9:P}/{param10:P}"
@@ -529,7 +529,7 @@
       "Proud": {
         "Descriptions": [
           "Beceri Hasarı|{param3:P}",
-          "İyileştirme|{param1:F1P} Saldırı+{param2:I}",
+          "İyileştirme|{param1:P} Saldırı+{param2:I}",
           "Süre|{param4:F1}sn",
           "BS|{param5:F1}sn",
           "Enerji Maliyeti|{param6:I}"

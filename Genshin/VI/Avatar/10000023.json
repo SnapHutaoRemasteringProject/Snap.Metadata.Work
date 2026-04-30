@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
             "Sát Thương Lần 3|{param3:F1P}+{param3:F1P}",
             "Sát Thương Lần 4|{param4:F1P}*4",
-            "Sát Thương Lần 5|{param5:F1P}",
+            "Sát Thương Lần 5|{param5:P}",
             "Sát Thương Trọng Kích|{param6:P}",
             "Thể lực Trọng Kích tiêu hao|{param7:F1} điểm",
             "Sát Thương Khi Rơi|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "Sát Thương Chém Lần 1|{param1:F1P}",
-          "Sát Thương Chém Lần 2|{param2:F1P}",
+          "Sát Thương Chém Lần 1|{param1:P}",
+          "Sát Thương Chém Lần 2|{param2:P}",
           "Sát Thương Chém Lần 3|{param3:P}",
           "Sát Thương Bánh Xe Lửa|{param4:P}",
           "Thời Gian Kéo Dài|{param5:F1}s",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "Niềm Vui Xuân Về",
       "Description": "Phong cách của Xiangling. Chiếc áo khoác đỏ rực rỡ như bếp lò giữa những cơn gió lạnh. Theo góp ý của Hu Tao thì phần mũ được thiết kế dựa theo hình tượng Guoba, rất được Xiangling yêu thích.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

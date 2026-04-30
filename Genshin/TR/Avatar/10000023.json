@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "1 Vuruş Hasarı|{param1:F1P}",
-            "2 Vuruş Hasarı|{param2:F1P}",
+            "1 Vuruş Hasarı|{param1:P}",
+            "2 Vuruş Hasarı|{param2:P}",
             "3 Vuruş Hasarı|{param3:F1P}+{param3:F1P}",
             "4 Vuruş Hasarı|{param4:F1P}x4",
-            "5 Vuruş Hasarı|{param5:F1P}",
+            "5 Vuruş Hasarı|{param5:P}",
             "Yüklü Saldırı Hasarı|{param6:P}",
             "Yüklü Saldırı Dayanıklılık Maliyeti|{param7:F1}",
             "Havadan Saldırı Hasarı|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "1 Vuruşlu Savurma Hasarı|{param1:F1P}",
-          "2 Vuruşlu Savurma Hasarı|{param2:F1P}",
+          "1 Vuruşlu Savurma Hasarı|{param1:P}",
+          "2 Vuruşlu Savurma Hasarı|{param2:P}",
           "3 Vuruşlu Savurma Hasarı|{param3:P}",
           "Ateş Çarkı Hasarı|{param4:P}",
           "Süre|{param5:F1}sn",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "Yeni Yıl Coşkusu",
       "Description": "Xiangling'in giysisi. Soğuk rüzgarların ortasında ateş gibi parıldayan kırmızı ceket, Hu Tao'nun önerisiyle Guoba'nın görünüşünden ilhamla tasarlanan ve Xiangling'e çok yakışan bir şapka ile tamamlanmış.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

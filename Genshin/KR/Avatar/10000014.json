@@ -38,8 +38,8 @@
           "Descriptions": [
             "1단 공격 피해|{param1:F1P}",
             "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
-            "4단 공격 피해|{param4:F1P}",
+            "3단 공격 피해|{param3:P}",
+            "4단 공격 피해|{param4:P}",
             "강공격 피해|{param5:P}",
             "강공격 스태미나 소모|{param6:F1}pt",
             "낙하 기간 피해|{param7:F1P}",
@@ -284,7 +284,7 @@
           "Descriptions": [
             "명중 치유량|HP 최대치의 {param3:F2P}+{param4:I}",
             "지속 치유량|HP 최대치의 {param1:F2P}+{param2:I}",
-            "물방울 피해|{param5:F1P}",
+            "물방울 피해|{param5:P}",
             "지속 시간|{param6:F1}초",
             "재사용 대기시간|{param7:F1}초"
           ],
@@ -1114,7 +1114,6 @@
       "Id": 201401,
       "Name": "빛나는 협주",
       "Description": "바바라의 해변 코스튬. 상큼한 여름 분위기를 물씬 풍기는 예쁜 스커트로 시원한 바다 내음이 나는 듯하다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

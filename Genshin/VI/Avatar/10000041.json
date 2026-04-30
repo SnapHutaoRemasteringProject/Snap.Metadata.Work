@@ -38,8 +38,8 @@
           "Descriptions": [
             "Sát Thương Lần 1|{param1:F1P}",
             "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
             "Sát Thương Trọng Kích|{param5:P}",
             "Thể lực Trọng Kích tiêu hao|{param6:F1} điểm",
             "Sát Thương Khi Rơi|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "Ước Hẹn Trăng Sao",
       "Description": "Phong cách của Mona. Bộ trang phục được đặt mua để nghênh đón \"thời khắc định mệnh\" trong khái niệm chiêm tinh, cảm ơn phiếu ưu đãi 30% được tặng sau khi mua dụng cụ thiên văn.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

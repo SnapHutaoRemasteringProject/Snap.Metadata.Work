@@ -38,7 +38,7 @@
           "Descriptions": [
             "通常攻撃ダメージ|{param1:F1P}",
             "重撃ダメージ|{param2:P}",
-            "星璇ダメージ|1つにつき{param3:F1P}",
+            "星璇ダメージ|1つにつき{param3:P}",
             "重撃スタミナ消費|{param4:F1}",
             "落下期間のダメージ|{param5:F1P}",
             "低空/高空落下攻撃ダメージ|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "宝石ダメージ|1つにつき{param1:F1P}",
+          "宝石ダメージ|1つにつき{param1:P}",
           "クールタイム|{param2:F1}秒",
           "元素エネルギー|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "紗の幽蘭",
       "Description": "凝光の礼服。紺色のドレスは彼女の優雅で美しい曲線を描き、足首を飾っている蝶の羽はたおやかさを演出している。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

@@ -38,8 +38,8 @@
           "Descriptions": [
             "Урон атаки 1|{param1:F1P}",
             "Урон атаки 2|{param2:F1P}",
-            "Урон атаки 3|{param3:F1P}",
-            "Урон атаки 4|{param4:F1P}",
+            "Урон атаки 3|{param3:P}",
+            "Урон атаки 4|{param4:P}",
             "Урон заряженной атаки|{param5:P}",
             "Потребление выносливости|{param6:F1} ед.",
             "Урон в падении|{param7:F1P}",
@@ -444,7 +444,7 @@
       "Proud": {
         "Descriptions": [
           "Периодический урон|{param1:P}",
-          "Доп. элементальный урон|{param2:F1P}",
+          "Доп. элементальный урон|{param2:P}",
           "Длительность|{param3:F1} сек.",
           "Время отката|{param4:F1} сек.",
           "Потребление энергии|{param5:I}"
@@ -742,7 +742,7 @@
     "ConstellationBefore": "Горячая Колба",
     "CvChinese": "小敢",
     "CvJapanese": "藤田茜",
-    "CvEnglish": "Valeria Rodriguez & Anonymous",
+    "CvEnglish": "Maya Graydon",
     "CvKorean": "Kim Ha-young",
     "CookBonus": {
       "OriginItemId": 108066,

@@ -36,9 +36,9 @@
         "GroupId": 2931,
         "Proud": {
           "Descriptions": [
-            "1단 공격 피해|{param1:F1P}",
-            "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
+            "1단 공격 피해|{param1:P}",
+            "2단 공격 피해|{param2:P}",
+            "3단 공격 피해|{param3:P}",
             "강공격 피해|{param4:P}",
             "강공격 스태미나 소모|{param5:F1}pt",
             "낙하 기간 피해|{param6:F1P}",
@@ -266,7 +266,7 @@
         "GroupId": 2932,
         "Proud": {
           "Descriptions": [
-            "통통 폭탄 피해|{param1:F1P}",
+            "통통 폭탄 피해|{param1:P}",
             "부비트랩 피해|{param4:F1P}",
             "부비트랩 지속 시간|{param5:F1}초",
             "재사용 대기시간|{param6:F1}초"
@@ -1124,7 +1124,6 @@
       "Id": 202901,
       "Name": "크림꽃과 별빛 촛불",
       "Description": "클레가 중요한 연극에 출연할 때 입은 정교한 코스튬. 화려한 색감이 마치 크림꽃과 붉은 촛불로 장식된 케이크 같아서, 모험의 발길이 닿은 모든 곳에 즐거움과 웃음을 퍼뜨린다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

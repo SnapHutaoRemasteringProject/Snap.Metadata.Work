@@ -36,12 +36,12 @@
         "GroupId": 2531,
         "Proud": {
           "Descriptions": [
-            "一段伤害|{param1:F1P}",
-            "二段伤害|{param2:F1P}",
+            "一段伤害|{param1:P}",
+            "二段伤害|{param2:P}",
             "三段伤害|{param3:F1P}+{param4:F1P}",
-            "四段伤害|{param5:F1P}",
-            "五段伤害|{param6:F1P}+{param7:F1P}",
-            "重击伤害|{param8:F1P}+{param9:F1P}",
+            "四段伤害|{param5:P}",
+            "五段伤害|{param6:P}+{param7:P}",
+            "重击伤害|{param8:P}+{param9:P}",
             "重击体力消耗|{param10:F1}点",
             "下坠期间伤害|{param11:F1P}",
             "低空/高空坠地冲击伤害|{param12:P}/{param13:P}"
@@ -526,7 +526,7 @@
       "GroupId": 2539,
       "Proud": {
         "Descriptions": [
-          "剑雨伤害|{param1:F1P}",
+          "剑雨伤害|{param1:P}",
           "持续时间|{param2:F1}秒",
           "冷却时间|{param3:F1}秒",
           "元素能量|{param4:I}"
@@ -1164,7 +1164,6 @@
       "Id": 202501,
       "Name": "雨化竹身",
       "Description": "飞云商会为行秋准备的宴会衣装。竹纹清雅、剪裁服帖，但最令行秋满意的还是其内层的口袋，足够塞下一册较薄的小说了。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

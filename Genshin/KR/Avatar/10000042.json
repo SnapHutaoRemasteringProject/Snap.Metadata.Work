@@ -36,12 +36,12 @@
         "GroupId": 4231,
         "Proud": {
           "Descriptions": [
-            "1단 공격 피해|{param1:F1P}",
-            "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
+            "1단 공격 피해|{param1:P}",
+            "2단 공격 피해|{param2:P}",
+            "3단 공격 피해|{param3:P}",
             "4단 공격 피해|{param4:F1P}+{param5:F1P}",
-            "5단 공격 피해|{param6:F1P}",
-            "강공격 피해|{param7:F1P}+{param8:F1P}",
+            "5단 공격 피해|{param6:P}",
+            "강공격 피해|{param7:P}+{param8:P}",
             "강공격 스태미나 소모|{param9:F1}pt",
             "낙하 기간 피해|{param10:F1P}",
             "저공/고공 추락 충격 피해|{param11:P}/{param12:P}"
@@ -328,9 +328,9 @@
         "GroupId": 4232,
         "Proud": {
           "Descriptions": [
-            "뇌설 피해|{param1:F1P}",
+            "뇌설 피해|{param1:P}",
             "참격 피해|{param2:P}",
-            "뇌폭 연속 참격 피해|{param3:F1P}*2",
+            "뇌폭 연속 참격 피해|{param3:P}*2",
             "재사용 대기시간|{param4:F1}초"
           ],
           "Parameters": [
@@ -496,7 +496,7 @@
       "GroupId": 4239,
       "Proud": {
         "Descriptions": [
-          "스킬 피해|{param1:F1P}",
+          "스킬 피해|{param1:P}",
           "참격 피해|{param2:F1P}*8",
           "마지막 일격 피해|{param3:P}",
           "재사용 대기시간|{param4:F1}초",
@@ -795,7 +795,7 @@
     "ConstellationBefore": "금자정수자리",
     "CvChinese": "谢莹",
     "CvJapanese": "Kitamura Eri",
-    "CvEnglish": "Kayli Mills & Anonymous",
+    "CvEnglish": "Rosie Day",
     "CvKorean": "이보희",
     "CookBonus": {
       "OriginItemId": 108108,
@@ -1183,7 +1183,6 @@
       "Id": 204201,
       "Name": "살랑이는 무지개 자락",
       "Description": "각청의 예복 코스튬. 해등절의 아름다운 경치 속에서, 지난날의 노력으로 이루어진 먹의 선들이 오늘 밤, 가볍고 아름다운 자태로 엮인다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },

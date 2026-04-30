@@ -38,8 +38,8 @@
           "Descriptions": [
             "Sát Thương Lần 1|{param1:F1P}",
             "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
             "Sát Thương Trọng Kích|{param5:P}",
             "Thể lực Trọng Kích tiêu hao|{param6:F1} điểm",
             "Sát Thương Khi Rơi|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Nhấn|{param6:F1P}",
+            "Sát Thương Nhấn|{param6:P}",
             "CD Nhấn|{param7:F1}s",
             "Sát Thương Nhấn Giữ Không Dẫn Lôi|{param1:P}",
             "Sát Thương Nhấn Giữ Dẫn Lôi Tầng 1|{param2:P}",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "Danh Vang Trong Lá",
       "Description": "Trang phục Lisa đã đặt làm khi đến thăm Sumeru. Váy gọn gàng nhưng không kém phần trang nhã, có phần giống với đồng phục thời học sinh của cô.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

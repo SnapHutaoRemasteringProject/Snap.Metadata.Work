@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
+            "Sát Thương Lần 3|{param3:P}",
             "Sát Thương Lần 4|{param4:P}",
-            "Sát Thương Trọng Kích Tuần Hoàn|{param5:F1P}",
+            "Sát Thương Trọng Kích Tuần Hoàn|{param5:P}",
             "Sát Thương Trọng Kích Chí Mạng|{param6:P}",
             "Thể lực Trọng Kích tiêu hao|Mỗi giây {param7:F1} điểm",
             "Thời Gian Kéo Dài Tối Đa|{param8:F1}s",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
             "Sát Thương Lần 3|{param3:P}",
             "CD|{param4:F1}s"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "Sát Thương Chém|{param1:P}",
-          "Sát Thương Kéo Dài|{param2:F1P}",
+          "Sát Thương Kéo Dài|{param2:P}",
           "Sát Thương Nổ|{param3:P}",
           "CD|{param4:F1}s",
           "Thời Gian Đính Kèm Kéo Dài|{param5:F1}s",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "Màn Đêm Đỏ Thẫm",
       "Description": "Một trong những bộ trang phục mà Diluc đã mặc khi bí mật hành động, trông như ngọn lửa bùng cháy trong bóng tối. Dấu vết đỏ thẫm lưu lại trong tầm mắt của kẻ địch, cũng chính là cơn ác mộng mà chúng không thể nào quên được trong suốt phần đời còn lại.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

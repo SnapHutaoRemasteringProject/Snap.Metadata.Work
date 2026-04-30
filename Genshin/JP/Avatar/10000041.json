@@ -38,8 +38,8 @@
           "Descriptions": [
             "1段ダメージ|{param1:F1P}",
             "2段ダメージ|{param2:F1P}",
-            "3段ダメージ|{param3:F1P}",
-            "4段ダメージ|{param4:F1P}",
+            "3段ダメージ|{param3:P}",
+            "4段ダメージ|{param4:P}",
             "重撃ダメージ|{param5:P}",
             "重撃スタミナ消費|{param6:F1}",
             "落下期間のダメージ|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "星と月の約束",
       "Description": "モナの衣装。占星術の概念である「運命の時」を迎えるため、特別に買った服。プラネタリウム予約金で得た三割引きクーポンに感謝。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

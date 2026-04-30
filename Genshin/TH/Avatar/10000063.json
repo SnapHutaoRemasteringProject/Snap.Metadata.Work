@@ -318,8 +318,8 @@
             "เพิ่มความเสียหาย|{param3:F1P} ของพลังโจมตี",
             "#ระยะเวลาต่อเนื่องเมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}/{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}|{param4:F1}วิ/{param5:F1}วิ",
             "#จำนวนการเกิดเอฟเฟกต์เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}/{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}|{param6:I}ครั้ง/{param7:I}ครั้ง",
-            "#คูลดาวน์เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}|{param8:F1} วิ",
-            "#คูลดาวน์เมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}|{param9:F1} วิ"
+            "#เวลาคูลดาวน์เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}|{param8:F1} วิ",
+            "#เวลาคูลดาวน์เมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}|{param9:F1} วิ"
           ],
           "Parameters": [
             {
@@ -1221,7 +1221,6 @@
       "Id": 206301,
       "Name": "หยาดน้ำค้างเยือกแข็ง",
       "Description": "ของขวัญเทศกาล Lantern Rite ที่ Shenhe ได้รับ ชุดพิธีการแสนสง่างาม ที่จ้าววังวนเมฆาเชิญให้คนมาตัดเย็บให้ แม้เชือกสีแดงบนแขนทั้งสองข้างจะยังคงอยู่ แต่ความหนาวเย็นในใจของ Shenhe ได้จางหายไปแล้ว",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_ShenheCostumeDai",
       "SideIcon": "UI_AvatarIcon_Side_ShenheCostumeDai"
     },

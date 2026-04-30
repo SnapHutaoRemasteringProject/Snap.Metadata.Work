@@ -38,10 +38,10 @@
           "Descriptions": [
             "1단 공격 피해|{param1:F1P}",
             "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
-            "4단 공격 피해|{param4:F1P}",
-            "5단 공격 피해|{param5:F1P}",
-            "조준 사격|{param6:F1P}",
+            "3단 공격 피해|{param3:P}",
+            "4단 공격 피해|{param4:P}",
+            "5단 공격 피해|{param5:P}",
+            "조준 사격|{param6:P}",
             "풀차지 조준 사격|{param7:P}",
             "낙하 기간 피해|{param8:F1P}",
             "저공/고공 추락 충격 피해|{param9:P}/{param10:P}"
@@ -1131,7 +1131,6 @@
       "Id": 202101,
       "Name": "100% 정찰 기사",
       "Description": "엠버의 코스튬. 이번엔 더욱 포멀하고 멋진 정찰 기사 등장!",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AmborCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_AmborCostumeWic"
     },

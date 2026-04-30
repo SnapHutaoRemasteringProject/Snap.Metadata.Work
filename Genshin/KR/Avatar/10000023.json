@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "1단 공격 피해|{param1:F1P}",
-            "2단 공격 피해|{param2:F1P}",
+            "1단 공격 피해|{param1:P}",
+            "2단 공격 피해|{param2:P}",
             "3단 공격 피해|{param3:F1P}+{param3:F1P}",
             "4단 공격 피해|{param4:F1P}*4",
-            "5단 공격 피해|{param5:F1P}",
+            "5단 공격 피해|{param5:P}",
             "강공격 피해|{param6:P}",
             "강공격 스태미나 소모|{param7:F1}pt",
             "낙하 기간 피해|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "1단 공격 피해|{param1:F1P}",
-          "2단 공격 피해|{param2:F1P}",
+          "1단 공격 피해|{param1:P}",
+          "2단 공격 피해|{param2:P}",
           "3단 공격 피해|{param3:P}",
           "화륜 피해|{param4:P}",
           "지속 시간|{param5:F1}초",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "제야의 환호",
       "Description": "향릉의 코스튬. 차가운 바람 속에 피어나는 불꽃 같은 빨간색 의복이다. 누룽지를 모티브로 한 모자는 호두의 의견을 반영해서 만든 것인데, 아무래도 향릉의 마음에 쏙 든 것 같다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

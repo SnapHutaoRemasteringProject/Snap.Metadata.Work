@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
-            "DAN da 3º colpo|{param3:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
+            "DAN da 3º colpo|{param3:P}",
             "DAN da 4º colpo|{param4:P}",
-            "DAN da ATT caricato ciclico|{param5:F1P}",
+            "DAN da ATT caricato ciclico|{param5:P}",
             "DAN da ATT caricato finali|{param6:P}",
             "Costo vigore ATT caricato|{param7:F1}/s",
             "Durata max|{param8:F1} s",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
             "DAN da 3º colpo|{param3:P}",
             "TdR|{param4:F1} s"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "DAN da fendente|{param1:P}",
-          "DAN nel tempo|{param2:F1P}",
+          "DAN nel tempo|{param2:P}",
           "DAN da esplosione|{param3:P}",
           "TdR|{param4:F1} s",
           "Durata infusione|{param5:F1} s",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "Cuore della notte rosso",
       "Description": "Uno dei completi di Diluc che indossa durante le operazioni segrete e ricorda una fiamma che danza nelle ombre. Le tracce rosso scarlatto che lascia ai limiti del campo visivo dei nemici segneranno per sempre i loro incubi.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

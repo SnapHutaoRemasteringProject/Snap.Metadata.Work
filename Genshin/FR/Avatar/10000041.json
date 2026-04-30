@@ -38,8 +38,8 @@
           "Descriptions": [
             "DGT 1er coup|{param1:F1P}",
             "DGT 2e coup|{param2:F1P}",
-            "DGT 3e coup|{param3:F1P}",
-            "DGT 4e coup|{param4:F1P}",
+            "DGT 3e coup|{param3:P}",
+            "DGT 4e coup|{param4:P}",
             "DGT attaque chargée|{param5:P}",
             "Coût d'endurance attaque chargée|{param6:F1} pts",
             "DGT durant la chute|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "Pacte des étoiles et de la lune",
       "Description": "#Tenue de Mona. Un costume spécialement conçu pour englober le concept astrologique du «{NON_BREAK_SPACE}moment destiné{NON_BREAK_SPACE}», obtenu grâce au coupon de remboursement de 30{NON_BREAK_SPACE}% après avoir rendu le globe céleste{NON_BREAK_SPACE}!",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

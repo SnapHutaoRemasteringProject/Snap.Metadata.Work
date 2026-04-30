@@ -36,12 +36,12 @@
         "GroupId": 3131,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
-            "3段ダメージ|{param3:F1P}",
-            "4段ダメージ|{param4:F1P}",
-            "5段ダメージ|{param5:F1P}",
-            "狙い撃ち|{param6:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
+            "3段ダメージ|{param3:P}",
+            "4段ダメージ|{param4:P}",
+            "5段ダメージ|{param5:P}",
+            "狙い撃ち|{param6:P}",
             "フルチャージ狙い撃ち|{param7:P}",
             "落下期間のダメージ|{param8:F1P}",
             "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}"
@@ -298,7 +298,7 @@
         "GroupId": 3132,
         "Proud": {
           "Descriptions": [
-            "オズの攻撃ダメージ|{param1:F1P}",
+            "オズの攻撃ダメージ|{param1:P}",
             "召喚ダメージ|{param2:P}",
             "オズの存在時間|{param4:F1}秒",
             "クールタイム|{param5:F1}秒"
@@ -1157,7 +1157,6 @@
       "Id": 203101,
       "Name": "極夜の真夢",
       "Description": "皇女フィッシュルの祭礼衣装。高貴なる者がいつまでも勇気と誠意、そして善良な心を持ち続け、いかなる悪にも屈しないように。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

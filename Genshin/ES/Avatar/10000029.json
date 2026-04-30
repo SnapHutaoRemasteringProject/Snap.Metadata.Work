@@ -36,9 +36,9 @@
         "GroupId": 2931,
         "Proud": {
           "Descriptions": [
-            "Daño de 1er golpe|{param1:F1P}",
-            "Daño de 2.º golpe|{param2:F1P}",
-            "Daño de 3er golpe|{param3:F1P}",
+            "Daño de 1er golpe|{param1:P}",
+            "Daño de 2.º golpe|{param2:P}",
+            "Daño de 3er golpe|{param3:P}",
             "Daño de ATQ Cargado|{param4:P}",
             "Coste de Aguante de ATQ Cargado|{param5:F1} pts.",
             "Daño de Caída|{param6:F1P}",
@@ -266,7 +266,7 @@
         "GroupId": 2932,
         "Proud": {
           "Descriptions": [
-            "Daño de Bomba saltarina|{param1:F1P}",
+            "Daño de Bomba saltarina|{param1:P}",
             "Daño de mina|{param4:F1P}",
             "Duración de minas|{param5:F1} s",
             "TdE|{param6:F1} s"
@@ -1124,7 +1124,6 @@
       "Id": 202901,
       "Name": "Inocencia chispeante",
       "Description": "Un hermoso atuendo de Klee utilizado para cierta obra muy importante. De colores muy vivos, parece casi como un pastel adornado con crema batida y una vela roja en el sombrero, y tiene la capacidad de llevar sonrisas y felicidad a todos los rincones en los que haya aventuras que emprender.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

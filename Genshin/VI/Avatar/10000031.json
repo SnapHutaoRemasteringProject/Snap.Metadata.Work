@@ -36,12 +36,12 @@
         "GroupId": 3131,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
-            "Sát Thương Lần 5|{param5:F1P}",
-            "Ngắm Bắn|{param6:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
+            "Sát Thương Lần 5|{param5:P}",
+            "Ngắm Bắn|{param6:P}",
             "Tụ Lực Ngắm Bắn|{param7:P}",
             "Sát Thương Khi Rơi|{param8:F1P}",
             "Sát Thương Khi Rơi Từ Độ Cao Thấp/Cao|{param9:P}/{param10:P}"
@@ -298,7 +298,7 @@
         "GroupId": 3132,
         "Proud": {
           "Descriptions": [
-            "Sát thương tấn công Oz|{param1:F1P}",
+            "Sát thương tấn công Oz|{param1:P}",
             "Sát thương triệu hồi|{param2:P}",
             "Thời gian Oz tồn tại|{param4:F1}s",
             "CD|{param5:F1}s"
@@ -1157,7 +1157,6 @@
       "Id": 203101,
       "Name": "Giấc Mộng Đêm Khuya",
       "Description": "Trang phục nghi lễ của công chúa Fischl. Nguyện cho người cao quý luôn giữ vững lòng can đảm, sự chân thành và bản tính lương thiện. Có như thế thì tà ác mới không thể nào quật ngã cô ấy.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

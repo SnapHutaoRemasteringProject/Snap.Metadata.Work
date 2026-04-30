@@ -38,8 +38,8 @@
           "Descriptions": [
             "一段伤害|{param1:F1P}",
             "二段伤害|{param2:F1P}",
-            "三段伤害|{param3:F1P}",
-            "四段伤害|{param4:F1P}",
+            "三段伤害|{param3:P}",
+            "四段伤害|{param4:P}",
             "重击伤害|{param5:P}",
             "重击体力消耗|{param6:F1}点",
             "下坠期间伤害|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "点按伤害|{param6:F1P}",
+            "点按伤害|{param6:P}",
             "点按冷却时间|{param7:F1}秒",
             "无引雷长按伤害|{param1:P}",
             "一层引雷长按伤害|{param2:P}",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "叶隐芳名",
       "Description": "丽莎重游须弥时请人订做的服饰。裙装干练而不失优雅，与她学生时代的制服有几分相似之处。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

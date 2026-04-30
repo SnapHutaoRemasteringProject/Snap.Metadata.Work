@@ -38,8 +38,8 @@
           "Descriptions": [
             "DMG Tahap 1|{param1:F1P}",
             "DMG Tahap 2|{param2:F1P}",
-            "DMG Tahap 3|{param3:F1P}",
-            "DMG Tahap 4|{param4:F1P}",
+            "DMG Tahap 3|{param3:P}",
+            "DMG Tahap 4|{param4:P}",
             "DMG Charged Attack|{param5:P}",
             "Konsumsi Stamina Charged Attack|{param6:F1}",
             "DMG Selama Plunging|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "Pact of Stars and Moon",
       "Description": "Model pakaian Mona. Pakaian yang dibeli khusus untuk menyambut \"momen yang ditakdirkan\" dalam konsep astrologi. Untung ada voucher diskon 30% dari pengembalian dana planetarium.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

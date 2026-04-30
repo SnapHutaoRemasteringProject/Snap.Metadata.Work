@@ -38,7 +38,7 @@
           "Descriptions": [
             "Standardangriffs-SCH|{param1:F1P}",
             "SCH heftiger Schläge|{param2:P}",
-            "SCH pro Sternjade|{param3:F1P}",
+            "SCH pro Sternjade|{param3:P}",
             "Ausdauerverbrauch heftiger Schläge|{param4:F1} Punkte",
             "SCH beim Fallen|{param5:F1P}",
             "SCH beim Fallen aus niedriger/großer Höhe|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "SCH pro Edelstein|{param1:F1P}",
+          "SCH pro Edelstein|{param1:P}",
           "Abklingzeit|{param2:F1} s",
           "Elementarenergie|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "Orchideen-Abendkleid",
       "Description": "Ningguangs formelle Kleidung. Der lange türkisfarbene Rock zeichnet ihre eleganten Kurven nach und die Schmetterlingsflügel an ihren Knöcheln verleihen der Kleidung einen Hauch von leichter Anmut.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

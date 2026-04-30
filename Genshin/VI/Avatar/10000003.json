@@ -36,11 +36,11 @@
         "GroupId": 331,
         "Proud": {
           "Descriptions": [
-            "Sát Thương Lần 1|{param1:F1P}",
-            "Sát Thương Lần 2|{param2:F1P}",
-            "Sát Thương Lần 3|{param3:F1P}",
-            "Sát Thương Lần 4|{param4:F1P}",
-            "Sát Thương Lần 5|{param5:F1P}",
+            "Sát Thương Lần 1|{param1:P}",
+            "Sát Thương Lần 2|{param2:P}",
+            "Sát Thương Lần 3|{param3:P}",
+            "Sát Thương Lần 4|{param4:P}",
+            "Sát Thương Lần 5|{param5:P}",
             "Sát Thương Trọng Kích|{param6:P}",
             "Thể lực Trọng Kích tiêu hao|{param7:F1} điểm",
             "Sát Thương Khi Rơi|{param8:F1P}",
@@ -467,11 +467,11 @@
       "Proud": {
         "Descriptions": [
           "ST Bạo Phát|{param1:P}",
-          "Sát thương trong vùng đất|{param2:F1P}",
+          "Sát thương trong vùng đất|{param2:P}",
           "Vùng đất phát động trị liệu|{param3:P} tấn công +{param4:I}",
           "Kéo dài trị liệu|Mỗi giây {param5:F2P} tấn công +{param6:I}",
-          "CD|{param7:F1}s",
-          "Năng Lượng Nguyên Tố|{param8:I}"
+          "CD|{param8:F1}s",
+          "Năng Lượng Nguyên Tố|{param9:I}"
         ],
         "Parameters": [
           {
@@ -1152,7 +1152,6 @@
       "Id": 200301,
       "Name": "Giấc Mộng Gió Biển",
       "Description": "Trang phục mùa hè của Jean. Mát mẻ nhưng vẫn tao nhã, rất thích hợp cho du lịch bãi biển.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1160,7 +1159,6 @@
       "Id": 200302,
       "Name": "Thừa Kế Của Gunnhildr",
       "Description": "Phong cách của Jean. Lễ phục kỵ sĩ gọn gàng mà trang nhã, thích hợp cho mọi hoàn cảnh.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

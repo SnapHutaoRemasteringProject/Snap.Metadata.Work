@@ -38,7 +38,7 @@
           "Descriptions": [
             "일반 공격 피해|{param1:F1P}",
             "강공격 피해|{param2:P}",
-            "별 피해|개당 {param3:F1P}",
+            "별 피해|개당 {param3:P}",
             "강공격 스태미나 소모|{param4:F1}pt",
             "낙하 기간 피해|{param5:F1P}",
             "저공/고공 추락 충격 피해|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "보석 피해|개당 {param1:F1P}",
+          "보석 피해|개당 {param1:P}",
           "재사용 대기시간|{param2:F1}초",
           "원소 에너지|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "비단 속 난초",
       "Description": "응광의 예복 코스튬. 군청색의 긴 치마는 우아하고 아름다운 곡선을 그리고, 복사뼈에 달린 나비 날개는 경쾌한 느낌을 더해준다",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

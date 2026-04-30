@@ -36,12 +36,12 @@
         "GroupId": 3131,
         "Proud": {
           "Descriptions": [
-            "一段伤害|{param1:F1P}",
-            "二段伤害|{param2:F1P}",
-            "三段伤害|{param3:F1P}",
-            "四段伤害|{param4:F1P}",
-            "五段伤害|{param5:F1P}",
-            "瞄准射击|{param6:F1P}",
+            "一段伤害|{param1:P}",
+            "二段伤害|{param2:P}",
+            "三段伤害|{param3:P}",
+            "四段伤害|{param4:P}",
+            "五段伤害|{param5:P}",
+            "瞄准射击|{param6:P}",
             "满蓄力瞄准射击|{param7:P}",
             "下坠期间伤害|{param8:F1P}",
             "低空/高空坠地冲击伤害|{param9:P}/{param10:P}"
@@ -298,7 +298,7 @@
         "GroupId": 3132,
         "Proud": {
           "Descriptions": [
-            "奥兹攻击伤害|{param1:F1P}",
+            "奥兹攻击伤害|{param1:P}",
             "召唤伤害|{param2:P}",
             "奥兹存在时间|{param4:F1}秒",
             "冷却时间|{param5:F1}秒"
@@ -1157,7 +1157,6 @@
       "Id": 203101,
       "Name": "极夜真梦",
       "Description": "皇女菲谢尔的祭礼着装。愿高贵的人永远葆有勇气、诚挚与善心，如此，邪恶必无法挫败她。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

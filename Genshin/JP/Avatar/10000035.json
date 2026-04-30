@@ -36,12 +36,12 @@
         "GroupId": 3531,
         "Proud": {
           "Descriptions": [
-            "1段ダメージ|{param1:F1P}",
-            "2段ダメージ|{param2:F1P}",
+            "1段ダメージ|{param1:P}",
+            "2段ダメージ|{param2:P}",
             "3段ダメージ|{param3:F1P}+{param3:F1P}",
             "4段ダメージ|{param4:F1P}+{param4:F1P}",
-            "5段ダメージ|{param5:F1P}",
-            "重撃ダメージ|{param6:F1P}+{param6:F1P}",
+            "5段ダメージ|{param5:P}",
+            "重撃ダメージ|{param6:P}+{param6:P}",
             "重撃スタミナ消費|{param7:F1}",
             "落下期間のダメージ|{param8:F1P}",
             "低空/高空落下攻撃ダメージ|{param9:P}/{param10:P}"
@@ -529,7 +529,7 @@
       "Proud": {
         "Descriptions": [
           "スキルダメージ|{param3:P}",
-          "回復量|攻撃力{param1:F1P}+{param2:I}",
+          "回復量|攻撃力{param1:P}+{param2:I}",
           "継続時間|{param4:F1}秒",
           "クールタイム|{param5:F1}秒",
           "元素エネルギー|{param6:I}"

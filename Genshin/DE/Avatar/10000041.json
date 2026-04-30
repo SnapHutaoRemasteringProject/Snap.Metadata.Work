@@ -38,8 +38,8 @@
           "Descriptions": [
             "SCH Phase 1|{param1:F1P}",
             "SCH Phase 2|{param2:F1P}",
-            "SCH Phase 3|{param3:F1P}",
-            "SCH Phase 4|{param4:F1P}",
+            "SCH Phase 3|{param3:P}",
+            "SCH Phase 4|{param4:P}",
             "SCH heftiger Schläge|{param5:P}",
             "Ausdauerverbrauch heftiger Schläge|{param6:F1} Punkte",
             "SCH beim Fallen|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "Rendezvous von Mond und Sternen",
       "Description": "Monas Kleidung. Diese Kleidung wurde spezifisch für die „Stunde des Schicksals“ erstanden, die der Astrologin sehr am Herzen liegt. Ohne den Rabattgutschein von 30 % für die Nachzahlung der Planetenmaschinen hätte Mona sich diese Kleidung nicht kaufen können.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

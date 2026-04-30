@@ -36,9 +36,9 @@
         "GroupId": 2931,
         "Proud": {
           "Descriptions": [
-            "1 Vuruş Hasarı|{param1:F1P}",
-            "2 Vuruş Hasarı|{param2:F1P}",
-            "3 Vuruş Hasarı|{param3:F1P}",
+            "1 Vuruş Hasarı|{param1:P}",
+            "2 Vuruş Hasarı|{param2:P}",
+            "3 Vuruş Hasarı|{param3:P}",
             "Yüklü Saldırı Hasarı|{param4:P}",
             "Yüklü Saldırı Dayanıklılık Maliyeti|{param5:F1}",
             "Havadan Saldırı Hasarı|{param6:F1P}",
@@ -266,7 +266,7 @@
         "GroupId": 2932,
         "Proud": {
           "Descriptions": [
-            "Zıpzıp Bodur Hasarı|{param1:F1P}",
+            "Zıpzıp Bodur Hasarı|{param1:P}",
             "Mayın Hasarı|{param4:F1P}",
             "Mayın Süresi|{param5:F1}sn",
             "BS|{param6:F1}sn"
@@ -1124,7 +1124,6 @@
       "Id": 202901,
       "Name": "Çiçek Açan Yıldız Işığı",
       "Description": "Klee'nin, yalnızca önemli performanslar sırasında giydiği zarif bir giysi. Çiçek ve kırmızı mumlarla donatılmış bir pasta gibi canlı renkleri vardır. Bu giysiyle birlikte maceraların, mutluluk ve gülücüklerle dolu geçer.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

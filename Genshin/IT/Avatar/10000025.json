@@ -36,12 +36,12 @@
         "GroupId": 2531,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
             "DAN da 3º colpo|{param3:F1P}+{param4:F1P}",
-            "DAN da 4º colpo|{param5:F1P}",
-            "DAN da 5º colpo|{param6:F1P}+{param7:F1P}",
-            "DAN da ATT caricato|{param8:F1P}+{param9:F1P}",
+            "DAN da 4º colpo|{param5:P}",
+            "DAN da 5º colpo|{param6:P}+{param7:P}",
+            "DAN da ATT caricato|{param8:P}+{param9:P}",
             "Costo vigore ATT caricato|{param10:F1}",
             "DAN da ATT in picchiata|{param11:F1P}",
             "DAN da ATT in picchiata basso/alto|{param12:P}/{param13:P}"
@@ -526,7 +526,7 @@
       "GroupId": 2539,
       "Proud": {
         "Descriptions": [
-          "DAN da Pioggia di spade|{param1:F1P}",
+          "DAN da Pioggia di spade|{param1:P}",
           "Durata|{param2:F1} s",
           "TdR|{param3:F1} s",
           "Costo energia|{param4:I}"
@@ -1164,7 +1164,6 @@
       "Id": 202501,
       "Name": "Pioggia di bambù",
       "Description": "Un abito formale preparato dalla Gilda dei commercianti di Feiyun per Xingqiu. Il bambù è disegnato in modo raffinato e il taglio è lusinghiero, ma la parte preferita di Xingqiu sono le tasche interne, dentro le quali entrerebbe un libro non troppo spesso.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

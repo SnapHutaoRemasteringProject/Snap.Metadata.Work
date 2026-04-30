@@ -36,11 +36,11 @@
         "GroupId": 331,
         "Proud": {
           "Descriptions": [
-            "Dano do 1° Golpe|{param1:F1P}",
-            "Dano do 2° Golpe|{param2:F1P}",
-            "Dano do 3° Golpe|{param3:F1P}",
-            "Dano do 4° Golpe|{param4:F1P}",
-            "Dano do 5° Golpe|{param5:F1P}",
+            "Dano do 1° golpe|{param1:P}",
+            "Dano do 2° golpe|{param2:P}",
+            "Dano do 3° golpe |{param3:P}",
+            "Dano do 4° golpe|{param4:P}",
+            "Dano do 5° Golpe|{param5:P}",
             "Dano de Ataque Carregado|{param6:P}",
             "Consumo de Stamina de Ataque Carregado|{param7:F1}",
             "Dano Durante a Queda|{param8:F1P}",
@@ -467,11 +467,11 @@
       "Proud": {
         "Descriptions": [
           "Dano de Explosão|{param1:P}",
-          "Dano de Entrada e Saída da Área|{param2:F1P}",
+          "Dano de Entrada e Saída da Área|{param2:P}",
           "Cura de Ativação de Área|{param3:P} do ATQ +{param4:I}",
           "Regeneração Contínua|{param5:F2P} ATQ + {param6:I}/s",
-          "Tempo de Recarga|{param7:F1}s",
-          "Energia Elemental|{param8:I}"
+          "Tempo de Recarga|{param8:F1}s",
+          "Energia Elemental|{param9:I}"
         ],
         "Parameters": [
           {
@@ -1152,7 +1152,6 @@
       "Id": 200301,
       "Name": "Sonho da Brisa Marinha",
       "Description": "Roupa de verão de Jean. Refrescante, mas sem perder a elegância. Combina muito bem com a praia.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1160,7 +1159,6 @@
       "Id": 200302,
       "Name": "Legado de Gunnhildr",
       "Description": "Vestuário de Jean. Esse clássico vestuário cerimonial de cavaleiros é adequado para todas as ocasiões.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

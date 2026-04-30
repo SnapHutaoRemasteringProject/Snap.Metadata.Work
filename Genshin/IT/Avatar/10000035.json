@@ -36,12 +36,12 @@
         "GroupId": 3531,
         "Proud": {
           "Descriptions": [
-            "DAN da 1º colpo|{param1:F1P}",
-            "DAN da 2º colpo|{param2:F1P}",
+            "DAN da 1º colpo|{param1:P}",
+            "DAN da 2º colpo|{param2:P}",
             "DAN da 3º colpo|{param3:F1P}+{param3:F1P}",
             "DAN da 4º colpo|{param4:F1P}+{param4:F1P}",
-            "DAN da 5º colpo|{param5:F1P}",
-            "DAN da ATT caricato|{param6:F1P}+{param6:F1P}",
+            "DAN da 5º colpo|{param5:P}",
+            "DAN da ATT caricato|{param6:P}+{param6:P}",
             "Costo vigore ATT caricato|{param7:F1}",
             "DAN da ATT in picchiata|{param8:F1P}",
             "DAN da ATT in picchiata basso/alto|{param9:P}/{param10:P}"
@@ -529,7 +529,7 @@
       "Proud": {
         "Descriptions": [
           "DAN da abilità|{param3:P}",
-          "Guarigione|{param1:F1P} ATT+{param2:I}",
+          "Guarigione|{param1:P} ATT+{param2:I}",
           "Durata|{param4:F1} s",
           "TdR|{param5:F1} s",
           "Costo energia|{param6:I}"

@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "DMG Tahap 1|{param1:F1P}",
-            "DMG Tahap 2|{param2:F1P}",
+            "DMG Tahap 1|{param1:P}",
+            "DMG Tahap 2|{param2:P}",
             "DMG Tahap 3|{param3:F1P}+{param3:F1P}",
             "DMG Tahap 4|{param4:F1P}*4",
-            "DMG Tahap 5|{param5:F1P}",
+            "DMG Tahap 5|{param5:P}",
             "DMG Charged Attack|{param6:P}",
             "Konsumsi Stamina Charged Attack|{param7:F1}",
             "DMG Selama Plunging|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "DMG Tebasan Tahap 1|{param1:F1P}",
-          "DMG Tebasan Tahap 2|{param2:F1P}",
+          "DMG Tebasan Tahap 1|{param1:P}",
+          "DMG Tebasan Tahap 2|{param2:P}",
           "DMG Tebasan Tahap 3|{param3:P}",
           "DMG Pyronado|{param4:P}",
           "Durasi|{param5:F1} dtk",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "New Year's Cheer",
       "Description": "Model pakaian Xiangling. Jaketnya berwarna merah menyala bagai api di tengah dinginnya terpaan angin, dan topinya dibuat khusus berdasarkan penampilan Guoba atas saran Hu Tao. Xiangling sangat menyukai desain ini.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

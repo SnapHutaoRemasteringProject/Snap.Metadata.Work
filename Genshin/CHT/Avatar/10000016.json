@@ -36,11 +36,11 @@
         "GroupId": 1631,
         "Proud": {
           "Descriptions": [
-            "一段傷害|{param1:F1P}",
-            "二段傷害|{param2:F1P}",
-            "三段傷害|{param3:F1P}",
+            "一段傷害|{param1:P}",
+            "二段傷害|{param2:P}",
+            "三段傷害|{param3:P}",
             "四段傷害|{param4:P}",
-            "重擊循環傷害|{param5:F1P}",
+            "重擊循環傷害|{param5:P}",
             "重擊終結傷害|{param6:P}",
             "重擊體力消耗|每秒{param7:F1}點",
             "最大持續時間|{param8:F1}秒",
@@ -314,8 +314,8 @@
         "GroupId": 1632,
         "Proud": {
           "Descriptions": [
-            "一段傷害|{param1:F1P}",
-            "二段傷害|{param2:F1P}",
+            "一段傷害|{param1:P}",
+            "二段傷害|{param2:P}",
             "三段傷害|{param3:P}",
             "冷卻時間|{param4:F1}秒"
           ],
@@ -483,7 +483,7 @@
       "Proud": {
         "Descriptions": [
           "斬擊傷害|{param1:P}",
-          "持續傷害|{param2:F1P}",
+          "持續傷害|{param2:P}",
           "爆裂傷害|{param3:P}",
           "冷卻時間|{param4:F1}秒",
           "附魔持續時間|{param5:F1}秒",
@@ -1143,7 +1143,6 @@
       "Id": 201601,
       "Name": "殷紅終夜",
       "Description": "迪盧克隱秘行動時所穿的衣裝之一，如陰影之中翻騰的火焰。敵人視野盡頭所留下的殷紅殘痕，即是他們餘生揮之不去的夢魘。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

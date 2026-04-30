@@ -36,9 +36,9 @@
         "GroupId": 2931,
         "Proud": {
           "Descriptions": [
-            "一段傷害|{param1:F1P}",
-            "二段傷害|{param2:F1P}",
-            "三段傷害|{param3:F1P}",
+            "一段傷害|{param1:P}",
+            "二段傷害|{param2:P}",
+            "三段傷害|{param3:P}",
             "重擊傷害|{param4:P}",
             "重擊體力消耗|{param5:F1}點",
             "下墜期間傷害|{param6:F1P}",
@@ -266,7 +266,7 @@
         "GroupId": 2932,
         "Proud": {
           "Descriptions": [
-            "蹦蹦炸彈傷害|{param1:F1P}",
+            "蹦蹦炸彈傷害|{param1:P}",
             "詭雷傷害|{param4:F1P}",
             "詭雷持續時間|{param5:F1}秒",
             "冷卻時間|{param6:F1}秒"
@@ -1124,7 +1124,6 @@
       "Id": 202901,
       "Name": "琪花星燭",
       "Description": "可莉出演關鍵劇目時所穿的精緻服裝，色彩明麗，如同點綴著鮮奶油花朵和明紅蠟燭的蛋糕，能將快樂與笑容帶往冒險所至的每個角落。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

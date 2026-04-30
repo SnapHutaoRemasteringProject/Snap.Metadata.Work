@@ -36,11 +36,11 @@
         "GroupId": 331,
         "Proud": {
           "Descriptions": [
-            "Daño de 1er golpe|{param1:F1P}",
-            "Daño de 2.º golpe|{param2:F1P}",
-            "Daño de 3er golpe|{param3:F1P}",
-            "Daño de 4.º golpe|{param4:F1P}",
-            "Daño de 5.º golpe|{param5:F1P}",
+            "Daño de 1er golpe|{param1:P}",
+            "Daño de 2.º golpe|{param2:P}",
+            "Daño de 3er golpe|{param3:P}",
+            "Daño de 4.º golpe|{param4:P}",
+            "Daño de 5.º golpe|{param5:P}",
             "Daño de ATQ Cargado|{param6:P}",
             "Coste de Aguante de ATQ Cargado|{param7:F1} pts.",
             "Daño de Caída|{param8:F1P}",
@@ -467,11 +467,11 @@
       "Proud": {
         "Descriptions": [
           "Daño instantáneo|{param1:P}",
-          "Daño de entrada y salida del área|{param2:F1P}",
+          "Daño de entrada y salida del área|{param2:P}",
           "Curación instantánea|{param3:P} de ATQ. + {param4:I}",
           "Curación continua|{param5:F2P} de ATQ + {param6:I}/s",
-          "TdE|{param7:F1}/s",
-          "Energía Elemental|{param8:I}"
+          "TdE|{param8:F1}/s",
+          "Energía Elemental|{param9:I}"
         ],
         "Parameters": [
           {
@@ -893,7 +893,7 @@
       },
       {
         "Title": "Sobre la Visión...",
-        "Context": "“Proteger Mondstadt para siempre” es el lema de la familia Gunnhildr. Cada vez que uso mi Visión, recuerdo a mi madre y las esperanzas de la gente de Mondstadt. Por Mondstadt, por la libertad, lucho por eso."
+        "Context": "“Proteger Mondstadt para siempre” es el lema del clan Gunnhildr. Cada vez que uso mi Visión, recuerdo a mi madre y las esperanzas de la gente de Mondstadt. Por Mondstadt, por la libertad, lucho por eso."
       },
       {
         "Title": "¿Algo que decir?",
@@ -1152,7 +1152,6 @@
       "Id": 200301,
       "Name": "Sueño de la brisa marina",
       "Description": "El atuendo de verano de Jean. Fresco y, al mismo tiempo, elegante, este es el mejor conjunto para llevar a un viaje a la costa.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1160,7 +1159,6 @@
       "Id": 200302,
       "Name": "Heredera de los Gunnhildr",
       "Description": "Modelo de vestimenta de Jean. Unas elegantes ropas que denotan su experiencia como caballera, perfectas para todo tipo de ocasiones.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

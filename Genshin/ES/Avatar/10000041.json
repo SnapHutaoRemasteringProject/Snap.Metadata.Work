@@ -38,8 +38,8 @@
           "Descriptions": [
             "Daño de 1er golpe|{param1:F1P}",
             "Daño de 2.º golpe|{param2:F1P}",
-            "Daño de 3er golpe|{param3:F1P}",
-            "Daño de 4.º golpe|{param4:F1P}",
+            "Daño de 3er golpe|{param3:P}",
+            "Daño de 4.º golpe|{param4:P}",
             "Daño de ATQ Cargado|{param5:P}",
             "Coste de Aguante de ATQ Cargado|{param6:F1} pts.",
             "Daño de Caída|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "Pacto lunaestelar",
       "Description": "Modelo de vestimenta de Mona. Un atuendo comprado específicamente para recibir los “momentos predestinados” de los que habla la astrología y adquirido con un cupón de un 30% de descuento tras la compra de un globo celeste.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

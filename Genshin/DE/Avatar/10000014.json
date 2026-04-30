@@ -38,8 +38,8 @@
           "Descriptions": [
             "SCH Phase 1|{param1:F1P}",
             "SCH Phase 2|{param2:F1P}",
-            "SCH Phase 3|{param3:F1P}",
-            "SCH Phase 4|{param4:F1P}",
+            "SCH Phase 3|{param3:P}",
+            "SCH Phase 4|{param4:P}",
             "SCH heftiger Schläge|{param5:P}",
             "Ausdauerverbrauch heftiger Schläge|{param6:F1} Punkte",
             "SCH beim Fallen|{param7:F1P}",
@@ -284,7 +284,7 @@
           "Descriptions": [
             "Heilung bei Treffer|{param3:F2P} der max. LP + {param4:I}",
             "Fortlaufende Heilung|{param1:F2P} der max. LP + {param2:I}",
-            "SCH der Wassertropfen|{param5:F1P}",
+            "SCH der Wassertropfen|{param5:P}",
             "Dauer|{param6:F1} s",
             "Abklingzeit|{param7:F1} s"
           ],
@@ -1114,7 +1114,6 @@
       "Id": 201401,
       "Name": "Glänzende Darbietung",
       "Description": "Barbaras Strandkleidung. Der hübsche kurze Rock strotzt vor sommerlicher Vitalität und trägt die frische Luft des Meeres in sich.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

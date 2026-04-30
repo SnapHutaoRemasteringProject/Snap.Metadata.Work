@@ -36,11 +36,11 @@
         "GroupId": 2331,
         "Proud": {
           "Descriptions": [
-            "Dano do 1° Golpe|{param1:F1P}",
-            "Dano do 2° Golpe|{param2:F1P}",
+            "Dano do 1° golpe|{param1:P}",
+            "Dano do 2° golpe|{param2:P}",
             "Dano do 3° Golpe|{param3:F1P}+{param3:F1P}",
             "Dano do 4° Golpe|{param4:F1P}*4",
-            "Dano do 5° Golpe|{param5:F1P}",
+            "Dano do 5° Golpe|{param5:P}",
             "Dano de Ataque Carregado|{param6:P}",
             "Consumo de Stamina de Ataque Carregado|{param7:F1}",
             "Dano Durante a Queda|{param8:F1P}",
@@ -434,8 +434,8 @@
       "GroupId": 2339,
       "Proud": {
         "Descriptions": [
-          "Dano de Balanço do 1° Golpe|{param1:F1P}",
-          "Dano de Balanço do 2° Golpe|{param2:F1P}",
+          "Dano de Balanço do 1° Golpe|{param1:P}",
+          "Dano de Balanço do 2° Golpe|{param2:P}",
           "Dano de Balanço do 3° Golpe|{param3:P}",
           "Dano do Pyronado|{param4:P}",
           "Duração|{param5:F1}s",
@@ -1114,7 +1114,6 @@
       "Id": 202301,
       "Name": "Alegria de Ano Novo",
       "Description": "Vestuário de Xiangling. O casaco vermelho brilha como um forno em meio a ventos gelados, combinado com um chapéu, sob sugestão de Hutao, ele tirou inspiração da aparência de Guoba — um design que está bem no estilo de Xiangling.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

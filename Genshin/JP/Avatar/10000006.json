@@ -38,8 +38,8 @@
           "Descriptions": [
             "1段ダメージ|{param1:F1P}",
             "2段ダメージ|{param2:F1P}",
-            "3段ダメージ|{param3:F1P}",
-            "4段ダメージ|{param4:F1P}",
+            "3段ダメージ|{param3:P}",
+            "4段ダメージ|{param4:P}",
             "重撃ダメージ|{param5:P}",
             "重撃スタミナ消費|{param6:F1}",
             "落下期間のダメージ|{param7:F1P}",
@@ -282,7 +282,7 @@
         "GroupId": 432,
         "Proud": {
           "Descriptions": [
-            "一回押しダメージ|{param6:F1P}",
+            "一回押しダメージ|{param6:P}",
             "一回押しクールタイム|{param7:F1}秒",
             "誘雷なしの長押しダメージ|{param1:P}",
             "誘雷1重の長押しダメージ|{param2:P}",
@@ -1129,7 +1129,6 @@
       "Id": 200601,
       "Name": "葉に隠れし芳名",
       "Description": "リサがスメールを再訪した際に作らせた衣装。服装の実用性とエレガンスのバランスは絶妙。リサの学生時代の制服と少し似ている。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

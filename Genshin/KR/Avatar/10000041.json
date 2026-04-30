@@ -38,8 +38,8 @@
           "Descriptions": [
             "1단 공격 피해|{param1:F1P}",
             "2단 공격 피해|{param2:F1P}",
-            "3단 공격 피해|{param3:F1P}",
-            "4단 공격 피해|{param4:F1P}",
+            "3단 공격 피해|{param3:P}",
+            "4단 공격 피해|{param4:P}",
             "강공격 피해|{param5:P}",
             "강공격 스태미나 소모|{param6:F1}pt",
             "낙하 기간 피해|{param7:F1P}",
@@ -1212,7 +1212,6 @@
       "Id": 204101,
       "Name": "별과 달의 약속",
       "Description": "모나의 코스튬. 점성술 개념인 「운명이 정해진 순간」을 맞이해 특별히 구입한 옷이다. 천문 관측기 잔금 30% 할인 쿠폰에 감사를!",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

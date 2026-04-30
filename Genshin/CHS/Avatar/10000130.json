@@ -1,15 +1,15 @@
 {
   "Id": 10000130,
   "PromoteId": 130,
-  "Sort": 130,
-  "Body": 3,
+  "Sort": 114,
+  "Body": 2,
   "Icon": "UI_AvatarIcon_Linnea",
   "SideIcon": "UI_AvatarIcon_Side_Linnea",
   "Name": "莉奈娅",
   "Description": "冒险家协会挪德卡莱分会顾问，博物学家。",
   "BeginTime": "2026-04-07T00:00:00+08:00",
   "Quality": 5,
-  "Weapon": 13,
+  "Weapon": 12,
   "BaseValue": {
     "HpBase": 770.28253,
     "AttackBase": 11.172,
@@ -693,8 +693,7 @@
                 0.05
               ]
             }
-          ],
-          "Display": 1
+          ]
         },
         "Id": 1302201,
         "Name": "万类博物图鉴",
@@ -796,18 +795,22 @@
     "BirthMonth": 5,
     "BirthDay": 23,
     "VisionBefore": "岩",
+    "VisionOverrideUnlocked": "月之轮",
     "ConstellationBefore": "启喻鸟座",
     "CvChinese": "周侗",
     "CvJapanese": "白石晴香",
     "CvEnglish": "萨凡娜·门泽尔",
-    "CvKorean": "朱艺瑨",
+    "CvKorean": "金润睬",
     "CookBonus": {
-      "OriginItemId": 114514,
+      "OriginItemId": 108910,
       "ItemId": 108965,
-      "InputList": []
+      "InputList": [
+        101264,
+        101265,
+        110016,
+        110015
+      ]
     },
-    "VisionOverrideLocked": "月之轮",
-    "VisionOverrideUnlocked": "月之轮",
     "Fetters": [
       {
         "Title": "初次见面…",

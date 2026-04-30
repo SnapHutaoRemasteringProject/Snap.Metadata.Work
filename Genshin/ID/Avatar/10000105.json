@@ -33,6 +33,16 @@
     "Arkhe": 0,
     "Skills": [
       {
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": []
+        },
+        "Id": 30506,
+        "Name": "Special Jump",
+        "Description": "Jika Karakter berada di area Natlan, setelah ditahan, akan mengonsumsi Phlogiston untuk melancarkan Rocket Double Jump. Saat Phlogiston sudah habis terkonsumsi, akan mengonsumsi Stamina untuk melancarkan Rocket Double Jump.",
+        "Icon": "Skill_E_Olorun_03"
+      },
+      {
         "GroupId": 10531,
         "Proud": {
           "Descriptions": [

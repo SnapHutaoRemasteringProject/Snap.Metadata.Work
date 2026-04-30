@@ -37,12 +37,12 @@
         "Proud": {
           "Descriptions": [
             "#Daño de 1er golpe|{param1:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param1:F1P}",
-            "Daño de 2.º golpe|{param2:F1P}",
-            "Daño de 3er golpe|{param3:F1P}",
+            "Daño de 2.º golpe|{param2:P}",
+            "Daño de 3er golpe|{param3:P}",
             "#Daño de 4.º golpe|{param4:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param4:F1P}",
-            "Daño de 5.º golpe|{param5:F1P}",
-            "Daño de 6.º golpe|{param6:F1P}",
-            "Disparo Preciso|{param7:F1P}",
+            "Daño de 5.º golpe|{param5:P}",
+            "Daño de 6.º golpe|{param6:P}",
+            "Disparo Preciso|{param7:P}",
             "Disparo Preciso (carga completa)|{param8:P}",
             "Daño de Caída|{param9:F1P}",
             "Daño de impacto de caída baja/alta|{param10:P}/{param11:P}",

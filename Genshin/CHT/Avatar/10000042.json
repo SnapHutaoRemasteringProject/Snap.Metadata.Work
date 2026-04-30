@@ -36,12 +36,12 @@
         "GroupId": 4231,
         "Proud": {
           "Descriptions": [
-            "一段傷害|{param1:F1P}",
-            "二段傷害|{param2:F1P}",
-            "三段傷害|{param3:F1P}",
+            "一段傷害|{param1:P}",
+            "二段傷害|{param2:P}",
+            "三段傷害|{param3:P}",
             "四段傷害|{param4:F1P}+{param5:F1P}",
-            "五段傷害|{param6:F1P}",
-            "重擊傷害|{param7:F1P}+{param8:F1P}",
+            "五段傷害|{param6:P}",
+            "重擊傷害|{param7:P}+{param8:P}",
             "重擊體力消耗|{param9:F1}點",
             "下墜期間傷害|{param10:F1P}",
             "低空/高空墜地衝擊傷害|{param11:P}/{param12:P}"
@@ -328,9 +328,9 @@
         "GroupId": 4232,
         "Proud": {
           "Descriptions": [
-            "雷楔傷害|{param1:F1P}",
+            "雷楔傷害|{param1:P}",
             "斬擊傷害|{param2:P}",
-            "雷爆連斬傷害|{param3:F1P}*2",
+            "雷爆連斬傷害|{param3:P}*2",
             "冷卻時間|{param4:F1}秒"
           ],
           "Parameters": [
@@ -496,7 +496,7 @@
       "GroupId": 4239,
       "Proud": {
         "Descriptions": [
-          "技能傷害|{param1:F1P}",
+          "技能傷害|{param1:P}",
           "連斬傷害|{param2:F1P}*8",
           "最後一擊傷害|{param3:P}",
           "冷卻時間|{param4:F1}秒",
@@ -795,7 +795,7 @@
     "ConstellationBefore": "金紫定垂座",
     "CvChinese": "谢莹",
     "CvJapanese": "喜多村英梨",
-    "CvEnglish": "Kayli Mills & Anonymous",
+    "CvEnglish": "Rosie Day",
     "CvKorean": "李甫熙",
     "CookBonus": {
       "OriginItemId": 108108,
@@ -1183,7 +1183,6 @@
       "Id": 204201,
       "Name": "霓裾翩躚",
       "Description": "刻晴的禮服裝扮。於海燈節之良辰美景中，往日辛勞濃墨所繪的線條，交織成今夜輕盈而瑰麗的容姿。",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },

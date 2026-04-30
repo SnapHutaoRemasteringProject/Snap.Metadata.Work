@@ -38,7 +38,7 @@
           "Descriptions": [
             "DGT attaque normale|{param1:F1P}",
             "DGT attaque chargée|{param2:P}",
-            "DGT par Jade d'étoile|{param3:F1P}",
+            "DGT par Jade d'étoile|{param3:P}",
             "Coût d'endurance attaque chargée|{param4:F1} pts",
             "DGT durant la chute|{param5:F1P}",
             "DGT chute basse/élevée|{param6:P}/{param7:P}"
@@ -417,7 +417,7 @@
       "GroupId": 2739,
       "Proud": {
         "Descriptions": [
-          "DGT par gemme|{param1:F1P}",
+          "DGT par gemme|{param1:P}",
           "Temps de recharge|{param2:F1} s",
           "Énergie élémentaire|{param3:I}"
         ],
@@ -1037,7 +1037,6 @@
       "Id": 202701,
       "Name": "Robe de soirée d'orchidées",
       "Description": "Tenue formelle de Ningguang. La longue jupe bleue épouse ses formes élégantes et les ailes de papillons à ses chevilles ajoutent une touche aérienne.",
-      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },
