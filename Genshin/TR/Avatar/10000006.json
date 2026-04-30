@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10060,
         "Name": "Yıldırım Dokunuşu",
@@ -486,7 +487,8 @@
                 1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10061,
         "Name": "Mor Akım",
@@ -654,7 +656,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10062,
       "Name": "Şimşek Gülü",
@@ -713,7 +716,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 42301,
         "Name": "Genel Eczacılık",
@@ -1129,6 +1133,7 @@
       "Id": 200601,
       "Name": "Yaprakların Gölgesindeki Bilgelik",
       "Description": "Lisa'nın Sumeru'yu tekrar ziyaret ettiğinde sipariş ettiği bir giysi. Pratiklik ve zarafet arasında mükemmel bir uyumda olan bu giysi, Lisa'nın Akademi günlerinden kalma eski üniformasıyla benzerlikler taşıyor.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

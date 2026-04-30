@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Bằng Bằng",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Bom Nảy",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Tia Lửa Mãnh Liệt",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Toàn Là Báu Vật",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "Hoa Lửa Rực Rỡ",
       "Description": "Bộ trang phục xinh xắn mà Klee đã mặc khi tham gia diễn xuất trong vở kịch quan trọng. Màu sắc sặc sỡ, giống như một chiếc bánh kem được tô điểm bằng những bông hoa bằng kem cùng với nến màu đỏ rực, có thể đem đến niềm vui và nụ cười trên mọi nẻo đường mạo hiểm.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

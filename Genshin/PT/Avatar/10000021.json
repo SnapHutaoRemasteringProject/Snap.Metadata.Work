@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10041,
         "Name": "Pontaria",
@@ -453,7 +454,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10032,
         "Name": "Marionete Explosiva",
@@ -637,7 +639,8 @@
               2
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10017,
       "Name": "Chuva Ardente",
@@ -697,7 +700,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 212301,
         "Name": "Campeã Voadora",
@@ -1131,6 +1135,7 @@
       "Id": 202101,
       "Name": "100% Aventureira",
       "Description": "Vestuário de Amber. É uma versão mais formal do uniforme de Aventureira!",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AmborCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_AmborCostumeWic"
     },

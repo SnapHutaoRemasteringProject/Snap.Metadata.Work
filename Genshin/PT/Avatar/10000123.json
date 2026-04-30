@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11231,
         "Name": "Golpe da Asa Radiante",
@@ -483,7 +484,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11232,
         "Name": "Forma Binária: Convergência e Divisão",
@@ -797,7 +799,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11235,
       "Name": "Princípio da Pureza: Transformação da Luz",
@@ -860,7 +863,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1232301,
         "Name": "Ecos da Terra Surgente",
@@ -1313,6 +1317,7 @@
       "Id": 212301,
       "Name": "Histórias Distantes",
       "Description": "Vestuário de Durin. A roupa original de Durin recebeu uma nova vida, agora que ele assumiu a caneta de sua mãe. No final, ele se despediu do passado pintado por outros. Quando o cadeado em forma de coração de seu peito se desvaneceu, o horizonte distante de seu desejo agora aponta para a direção em que sua história se revelará.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
     },

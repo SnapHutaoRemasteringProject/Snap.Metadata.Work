@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "砰砰",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "蹦蹦炸弹",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "轰轰火花",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "全是宝藏",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "琪花星烛",
       "Description": "可莉出演关键剧目时所穿的精致服装，色彩明丽，如同点缀着奶油花朵和明红蜡烛的蛋糕，能将快乐与笑容带往冒险所至的每个角落。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10231,
         "Name": "Un-Fu",
@@ -422,7 +423,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10232,
         "Name": "Guoba Saldırısı",
@@ -638,7 +640,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10235,
       "Name": "Ateş Çarkı",
@@ -697,7 +700,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 232301,
         "Name": "Usta Şef",
@@ -1114,6 +1118,7 @@
       "Id": 202301,
       "Name": "Yeni Yıl Coşkusu",
       "Description": "Xiangling'in giysisi. Soğuk rüzgarların ortasında ateş gibi parıldayan kırmızı ceket, Hu Tao'nun önerisiyle Guoba'nın görünüşünden ilhamla tasarlanan ve Xiangling'e çok yakışan bir şapka ile tamamlanmış.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

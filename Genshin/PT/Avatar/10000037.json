@@ -335,7 +335,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10371,
         "Name": "Disparo Liutian",
@@ -502,7 +503,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10372,
         "Name": "Rastros de Qilin",
@@ -670,7 +672,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10373,
       "Name": "Chuva Celestial",
@@ -729,7 +732,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 372301,
         "Name": "Preservado para a Caça",
@@ -1162,6 +1166,7 @@
       "Id": 203701,
       "Name": "Fragrância Preciosa do Jade Preto",
       "Description": "Um vestuário festivo leve e gracioso predominantemente preto e azul. O acessório no cabelo é radiante como a Qingxin, uma combinação que Ganyu adora.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_GanyuCostumeYu",
       "SideIcon": "UI_AvatarIcon_Side_GanyuCostumeYu"
     },

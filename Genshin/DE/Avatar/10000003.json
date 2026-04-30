@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10031,
         "Name": "Favonius-Schwertkunst",
@@ -454,7 +455,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10033,
         "Name": "Luftdruckschwert",
@@ -684,7 +686,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10034,
       "Name": "Löwenzahnbrise",
@@ -743,7 +746,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 32301,
         "Name": "Führende Brise",
@@ -1152,6 +1156,7 @@
       "Id": 200301,
       "Name": "Traum von der Meeresbrise",
       "Description": "Jeans Sommerkleidung. Leicht und kühl, aber deswegen nicht weniger elegant. Ein perfekter Begleiter für einen Ausflug ans Meer.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1159,6 +1164,7 @@
       "Id": 200302,
       "Name": "Gunnhildrs Erbe",
       "Description": "Jeans Kleidung. Die elegante Ritterkleidung passt perfekt zu allen möglichen Anlässen.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

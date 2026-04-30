@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10031,
         "Name": "Técnica de Favonius",
@@ -454,7 +455,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10033,
         "Name": "Espada do Temporal",
@@ -684,7 +686,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10034,
       "Name": "Brisa de Dandelion",
@@ -743,7 +746,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 32301,
         "Name": "Brisa de Planagem",
@@ -1152,6 +1156,7 @@
       "Id": 200301,
       "Name": "Sonho da Brisa Marinha",
       "Description": "Roupa de verão de Jean. Refrescante, mas sem perder a elegância. Combina muito bem com a praia.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1159,6 +1164,7 @@
       "Id": 200302,
       "Name": "Legado de Gunnhildr",
       "Description": "Vestuário de Jean. Esse clássico vestuário cerimonial de cavaleiros é adequado para todas as ocasiões.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

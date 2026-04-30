@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Bom!",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Zıpzıp Bodur",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Kıvılcımlar ve Patlama",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Hazinelerim!",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "Çiçek Açan Yıldız Işığı",
       "Description": "Klee'nin, yalnızca önemli performanslar sırasında giydiği zarif bir giysi. Çiçek ve kırmızı mumlarla donatılmış bir pasta gibi canlı renkleri vardır. Bu giysiyle birlikte maceraların, mutluluk ve gülücüklerle dolu geçer.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

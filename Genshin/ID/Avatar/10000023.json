@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10231,
         "Name": "Dough-Fu",
@@ -422,7 +423,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10232,
         "Name": "Guoba Attack",
@@ -638,7 +640,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10235,
       "Name": "Pyronado",
@@ -697,7 +700,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 232301,
         "Name": "Chef de Cuisine",
@@ -1114,6 +1118,7 @@
       "Id": 202301,
       "Name": "New Year's Cheer",
       "Description": "Model pakaian Xiangling. Jaketnya berwarna merah menyala bagai api di tengah dinginnya terpaan angin, dan topinya dibuat khusus berdasarkan penampilan Guoba atas saran Hu Tao. Xiangling sangat menyukai desain ini.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

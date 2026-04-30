@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10031,
         "Name": "西風剣術",
@@ -454,7 +455,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10033,
         "Name": "風圧剣",
@@ -684,7 +686,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10034,
       "Name": "蒲公英の風",
@@ -743,7 +746,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 32301,
         "Name": "導きの風",
@@ -1152,6 +1156,7 @@
       "Id": 200301,
       "Name": "海風の夢",
       "Description": "夏をモチーフにしたジンの衣装。涼しげな作りだが、同時に優雅さも感じられる。海辺の旅にぴったり。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1159,6 +1164,7 @@
       "Id": 200302,
       "Name": "グンヒルドの伝承",
       "Description": "ジンの衣装。あらゆる場面に適応する、優雅で洗練された礼服。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

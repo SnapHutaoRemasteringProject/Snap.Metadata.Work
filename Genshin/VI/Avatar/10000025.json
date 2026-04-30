@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Cổ Hoa Kiếm Pháp",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Cổ Hoa Kiếm - Họa Vũ Lung Sơn",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Cổ Hoa Kiếm - Tài Vũ Lưu Hồng",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Ánh Sáng Lấp Lánh",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Màn Mưa Rừng Trúc",
       "Description": "Trang phục dự tiệc do Thương Hội Phi Vân chuẩn bị cho Xingqiu. Hoa văn hình trúc thanh tao, những đường cắt xẻ tuyệt mỹ, nhưng Xingqiu hài lòng nhất vẫn là chiếc túi bên trong, đủ để nhét một quyển tiểu thuyết mỏng vào.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

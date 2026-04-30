@@ -270,7 +270,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10701,
         "Name": "Danza de la media luna",
@@ -546,7 +547,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10702,
         "Name": "Danza de los siete reinos",
@@ -714,7 +716,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10705,
       "Name": "Danza del loto: Manantial onírico",
@@ -776,7 +779,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 702301,
         "Name": "Loto de jade blanco",
@@ -1165,6 +1169,7 @@
       "Id": 207001,
       "Name": "Brisa de Sabaa",
       "Description": "Un elegante atuendo para Nilou. Este vestido, ligero como una pluma, parece estar tejido con innumerables flores. Con él, flota una suave fragancia que evoca el viento del este durante el amanecer, trayendo consigo las hermosas bendiciones de un mundo fantástico.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NilouCostumeFairy",
       "SideIcon": "UI_AvatarIcon_Side_NilouCostumeFairy"
     },

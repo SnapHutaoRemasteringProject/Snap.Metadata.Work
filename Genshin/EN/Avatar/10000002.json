@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10024,
         "Name": "Kamisato Art: Kabuki",
@@ -452,7 +453,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10018,
         "Name": "Kamisato Art: Hyouka",
@@ -477,7 +479,8 @@
                 5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10013,
         "Name": "Kamisato Art: Senho",
@@ -661,7 +664,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10019,
       "Name": "Kamisato Art: Soumetsu",
@@ -725,7 +729,8 @@
                 2
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 22301,
         "Name": "Fruits of Shinsa",
@@ -1129,6 +1134,7 @@
       "Id": 200201,
       "Name": "Springbloom Missive",
       "Description": "Ayaka's travel outfit. Its design is based on the Fontaine dresses depicted in light novel illustrations and seems to serve as a window into the lifestyle of proper ladies who live in that nation.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AyakaCostumeFruhling",
       "SideIcon": "UI_AvatarIcon_Side_AyakaCostumeFruhling"
     },

@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10231,
         "Name": "Pastelaria Kung Fu",
@@ -422,7 +423,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10232,
         "Name": "Ataque de Guoba",
@@ -638,7 +640,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10235,
       "Name": "Pyronado",
@@ -697,7 +700,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 232301,
         "Name": "Chefe de Cozinha",
@@ -1114,6 +1118,7 @@
       "Id": 202301,
       "Name": "Alegria de Ano Novo",
       "Description": "Vestuário de Xiangling. O casaco vermelho brilha como um forno em meio a ventos gelados, combinado com um chapéu, sob sugestão de Hutao, ele tirou inspiração da aparência de Guoba — um design que está bem no estilo de Xiangling.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

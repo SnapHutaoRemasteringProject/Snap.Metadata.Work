@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "古華剣法",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "古華剣·画雨籠山",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "古華剣·裁雨留虹",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "靈光突如",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "竹身雨化",
       "Description": "飛雲商会が行秋のために用意した礼服。優雅な竹の模様が入っており、体にぴったり合うよう仕立てられている。なにより行秋が最も気に入っている点は、服の内側にあるほどよい大きさのポケット。薄めの小説がちょうど入るようになっている。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

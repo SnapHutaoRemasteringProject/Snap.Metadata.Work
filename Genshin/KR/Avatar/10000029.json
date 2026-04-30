@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "펑펑",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "통통 폭탄",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "쾅쾅 불꽃",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "전부 보물이야",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "크림꽃과 별빛 촛불",
       "Description": "클레가 중요한 연극에 출연할 때 입은 정교한 코스튬. 화려한 색감이 마치 크림꽃과 붉은 촛불로 장식된 케이크 같아서, 모험의 발길이 닿은 모든 곳에 즐거움과 웃음을 퍼뜨린다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

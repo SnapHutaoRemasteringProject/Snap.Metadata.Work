@@ -333,7 +333,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10871,
         "Name": "Acque chete",
@@ -516,7 +517,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10872,
         "Name": "O lagrime, i debiti ripagherò",
@@ -684,7 +686,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10875,
       "Name": "O maree, ai patrii lidi ritorno",
@@ -747,7 +750,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 872301,
         "Name": "Adunanza delle maree",
@@ -1171,6 +1175,7 @@
       "Id": 208701,
       "Name": "Dono melusino",
       "Description": "Una sorpresa per Neuvillette. La gioia non deriva solo dal dono in sé, ma da ogni manina che ha contribuito a crearlo. Come i fiumi sfociano nel mare sconfinato, così anche le gocce di rugiada possono unirsi per creare un miracolo luminoso come l'arcobaleno.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

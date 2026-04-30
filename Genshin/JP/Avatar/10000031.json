@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10311,
         "Name": "罪滅ぼしの矢",
@@ -484,7 +485,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10312,
         "Name": "夜巡りの翼",
@@ -706,7 +708,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10313,
       "Name": "夜の幻現",
@@ -764,7 +767,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 312301,
         "Name": "吾の裏庭",
@@ -1157,6 +1161,7 @@
       "Id": 203101,
       "Name": "極夜の真夢",
       "Description": "皇女フィッシュルの祭礼衣装。高貴なる者がいつまでも勇気と誠意、そして善良な心を持ち続け、いかなる悪にも屈しないように。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

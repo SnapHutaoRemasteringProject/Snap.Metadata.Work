@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10411,
         "Name": "Destino revelado",
@@ -452,7 +453,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10412,
         "Name": "Espejismo del agua",
@@ -475,7 +477,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10413,
         "Name": "Torrente ilusorio",
@@ -762,7 +765,8 @@
               0.6
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10415,
       "Name": "Órbita divina",
@@ -823,7 +827,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 412301,
         "Name": "Principios de la astrología",
@@ -1212,6 +1217,7 @@
       "Id": 204101,
       "Name": "Pacto lunaestelar",
       "Description": "Modelo de vestimenta de Mona. Un atuendo comprado específicamente para recibir los “momentos predestinados” de los que habla la astrología y adquirido con un cupón de un 30% de descuento tras la compra de un globo celeste.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

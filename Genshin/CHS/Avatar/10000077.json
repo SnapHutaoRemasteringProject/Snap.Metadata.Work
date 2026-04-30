@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10771,
         "Name": "颠扑连环枪",
@@ -484,7 +485,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10772,
         "Name": "云台团团降芦菔",
@@ -715,7 +717,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10775,
       "Name": "玉颗珊珊月中落",
@@ -775,7 +778,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 772301,
         "Name": "踮脚·蹑影轻踪",
@@ -1176,6 +1180,7 @@
       "Id": 207701,
       "Name": "聆雨听竹",
       "Description": "瑶瑶的装扮款式。新梢清影叩书案，有时客来不是风。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YaoyaoCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
     },

@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10421,
         "Name": "Escrime des nuages",
@@ -484,7 +485,8 @@
                 7.5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10422,
         "Name": "Retour des étoiles",
@@ -668,7 +670,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10425,
       "Name": "Promenade céleste",
@@ -728,7 +731,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 422301,
         "Name": "Agencement des terres",
@@ -1183,6 +1187,7 @@
       "Id": 204201,
       "Name": "Splendeur opulente",
       "Description": "Tenue formelle de Keqing. Dans la splendeur du Festival des lanternes, des fils ont été tissés pendant des jours de labeur pour assembler cette tenue du soir pleine de légèreté et d'élégance.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },

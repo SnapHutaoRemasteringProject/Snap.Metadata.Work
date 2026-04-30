@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10031,
         "Name": "Favonius Bladework",
@@ -454,7 +455,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10033,
         "Name": "Gale Blade",
@@ -684,7 +686,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10034,
       "Name": "Dandelion Breeze",
@@ -743,7 +746,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 32301,
         "Name": "Guiding Breeze",
@@ -1152,6 +1156,7 @@
       "Id": 200301,
       "Name": "ความฝันในสายลมแห่งท้องทะเล",
       "Description": "คอสตูมหน้าร้อนของ Jean ที่ดูเย็นสบายแต่ยังคงความสง่างามเอาไว้ เป็นชุดที่เหมาะกับการไปเที่ยวทะเลเป็นที่สุด",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1159,6 +1164,7 @@
       "Id": 200302,
       "Name": "มรดกแห่ง Gunnhildr",
       "Description": "คอสตูมของ Jean ชุดเครื่องแบบอัศวินแสนสง่างาม เหมาะที่จะสวมใส่ได้ในหลากหลายโอกาส",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

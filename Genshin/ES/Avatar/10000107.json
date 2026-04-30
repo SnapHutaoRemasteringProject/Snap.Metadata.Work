@@ -33,9 +33,11 @@
     "Arkhe": 0,
     "Skills": [
       {
+        "GroupId": 0,
         "Proud": {
           "Descriptions": [],
-          "Parameters": []
+          "Parameters": [],
+          "Display": 0
         },
         "Id": 11076,
         "Name": "",
@@ -265,7 +267,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11071,
         "Name": "Espiritismo atrapasombras",
@@ -511,7 +514,8 @@
                 100
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11072,
         "Name": "Estrella negra albaescarcha",
@@ -711,7 +715,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11075,
       "Name": "Edicto multiastral",
@@ -778,7 +783,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1072301,
         "Name": "Gracia de la noche: Espejos, humo y vientos",
@@ -795,7 +801,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1072501,
         "Name": "Cantos enigmáticos",

@@ -316,7 +316,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10611,
         "Name": "Kartonschnitt",
@@ -592,7 +593,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10612,
         "Name": "Miauteoritentritt",
@@ -776,7 +778,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10615,
       "Name": "Geheime Kunst – Besondere Überraschung",
@@ -837,7 +840,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 612301,
         "Name": "Mieze auf der Pirsch",
@@ -1238,6 +1242,7 @@
       "Id": 206101,
       "Name": "Gestiefeltes Phantom",
       "Description": "Kiraras Kleidung. Die märchenhaft, nobel das Schwert schwingende Nekomata, die junge Botin der Wünsche bestellt ihre besten Grüße!",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MomokaCostumeErrantry",
       "SideIcon": "UI_AvatarIcon_Side_MomokaCostumeErrantry"
     },

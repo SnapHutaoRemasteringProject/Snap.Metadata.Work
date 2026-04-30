@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10311,
         "Name": "罪灭之矢",
@@ -484,7 +485,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10312,
         "Name": "夜巡影翼",
@@ -706,7 +708,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10313,
       "Name": "至夜幻现",
@@ -764,7 +767,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 312301,
         "Name": "吾之后花园",
@@ -1157,6 +1161,7 @@
       "Id": 203101,
       "Name": "极夜真梦",
       "Description": "皇女菲谢尔的祭礼着装。愿高贵的人永远葆有勇气、诚挚与善心，如此，邪恶必无法挫败她。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

@@ -333,7 +333,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10871,
         "Name": "Wie stille Wasser",
@@ -516,7 +517,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10872,
         "Name": "O Tränen, ich werd’s vergelten",
@@ -684,7 +686,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10875,
       "Name": "O Gezeiten, ich bin zurückgekehrt",
@@ -747,7 +750,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 872301,
         "Name": "Den Wellen gleich zusammenkommen",
@@ -1171,6 +1175,7 @@
       "Id": 208701,
       "Name": "Geschenk der Melusinen",
       "Description": "Ein Überraschungsgeschenk für Neuvillette. Die Überraschung war nicht nur das Geschenk selbst, sondern auch die vielen kleinen helfenden Hände, die an seiner Herstellung beteiligt waren. Wie Flüsse ins weite Meer münden, können sich auch Tautropfen zu einem Wunder ansammeln, das in allen sieben Farben schimmert.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

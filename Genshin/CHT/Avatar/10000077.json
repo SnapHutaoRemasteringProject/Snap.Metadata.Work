@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10771,
         "Name": "顛撲連環槍",
@@ -484,7 +485,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10772,
         "Name": "雲臺團團降蘆菔",
@@ -715,7 +717,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10775,
       "Name": "玉顆珊珊月中落",
@@ -775,7 +778,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 772301,
         "Name": "踮腳·躡影輕蹤",
@@ -1176,6 +1180,7 @@
       "Id": 207701,
       "Name": "聆雨聽竹",
       "Description": "瑤瑤的裝扮款式。新梢清影叩書案，有時客來不是風。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YaoyaoCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
     },

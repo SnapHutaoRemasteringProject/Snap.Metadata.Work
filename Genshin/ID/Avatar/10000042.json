@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10421,
         "Name": "Yunlai Swordsmanship",
@@ -484,7 +485,8 @@
                 7.5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10422,
         "Name": "Stellar Restoration",
@@ -668,7 +670,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10425,
       "Name": "Starward Sword",
@@ -728,7 +731,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 422301,
         "Name": "Land's Overseer",
@@ -1183,6 +1187,7 @@
       "Id": 204201,
       "Name": "Opulent Splendor",
       "Description": "Pakaian resmi Keqing. Ia hadir di tengah pagi yang indah pada momen Lantern Rite. Benang yang sudah dirajut begitu lama oleh jerih payah ini, kemudian terjalin menjadi penampilan yang sederhana namun mengesankan.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },

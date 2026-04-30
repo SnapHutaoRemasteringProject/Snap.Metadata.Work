@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10231,
         "Name": "Dough-Fu",
@@ -422,7 +423,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10232,
         "Name": "Guoba Attack",
@@ -638,7 +640,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10235,
       "Name": "Pyronado",
@@ -697,7 +700,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 232301,
         "Name": "Chef de Cuisine",
@@ -1114,6 +1118,7 @@
       "Id": 202301,
       "Name": "รื่นเริงส่งท้ายปี",
       "Description": "คอสตูมของ Xiangling ชุดที่ให้ความรู้สึกเหมือนเตาไฟสีแดงท่ามกลางลมหนาว หมวกใบนี้ได้รับแรงบันดาลใจจากรูปลักษณ์ของ Guoba ตามคำแนะนำของ Hu Tao ซึ่ง Xiangling ชื่นชอบมันอย่างมาก",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XianglingCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_XianglingCostumeWinter"
     },

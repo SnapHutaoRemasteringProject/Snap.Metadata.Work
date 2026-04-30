@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10421,
         "Name": "雲來劍法",
@@ -484,7 +485,8 @@
                 7.5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10422,
         "Name": "星斗歸位",
@@ -668,7 +670,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10425,
       "Name": "天街巡遊",
@@ -728,7 +731,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 422301,
         "Name": "總務土地",
@@ -1183,6 +1187,7 @@
       "Id": 204201,
       "Name": "霓裾翩躚",
       "Description": "刻晴的禮服裝扮。於海燈節之良辰美景中，往日辛勞濃墨所繪的線條，交織成今夜輕盈而瑰麗的容姿。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },

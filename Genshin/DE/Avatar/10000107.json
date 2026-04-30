@@ -33,9 +33,11 @@
     "Arkhe": 0,
     "Skills": [
       {
+        "GroupId": 0,
         "Proud": {
           "Descriptions": [],
-          "Parameters": []
+          "Parameters": [],
+          "Display": 0
         },
         "Id": 11076,
         "Name": "",
@@ -265,7 +267,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11071,
         "Name": "Schattenfesseln der schlummernden Seelen",
@@ -511,7 +514,8 @@
                 100
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11072,
         "Name": "Schwarzer Stern am frostigen Tag",
@@ -711,7 +715,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11075,
       "Name": "Edikt der verflochtenen Pracht",
@@ -778,7 +783,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1072301,
         "Name": "Geschenk des Nachtreichs – Rauch, Spiegel und die fließenden Winde",
@@ -795,7 +801,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1072501,
         "Name": "Mysteriöse Gesänge",

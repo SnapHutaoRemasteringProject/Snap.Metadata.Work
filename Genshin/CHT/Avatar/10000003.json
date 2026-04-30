@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10031,
         "Name": "西風劍術",
@@ -454,7 +455,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10033,
         "Name": "風壓劍",
@@ -684,7 +686,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10034,
       "Name": "蒲公英之風",
@@ -743,7 +746,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 32301,
         "Name": "引領之風",
@@ -1152,6 +1156,7 @@
       "Id": 200301,
       "Name": "海風之夢",
       "Description": "琴的夏日裝束。清涼而不失優雅，是海濱之遊的絕佳搭配。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1159,6 +1164,7 @@
       "Id": 200302,
       "Name": "古恩希爾德的傳承",
       "Description": "琴的裝扮款式。典雅幹練的騎士禮服，適用於多種場合。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

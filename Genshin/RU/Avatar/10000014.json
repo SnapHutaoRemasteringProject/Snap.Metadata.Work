@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10070,
         "Name": "Шёпот воды",
@@ -484,7 +485,8 @@
                 32
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10071,
         "Name": "Да начнётся шоу♪",
@@ -651,7 +653,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10072,
       "Name": "Чудесное сияние♪",
@@ -710,7 +713,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 142301,
         "Name": "Со всей душой♪",
@@ -1114,6 +1118,7 @@
       "Id": 201401,
       "Name": "Летний блеск",
       "Description": "Пляжный наряд Барбары. Прекрасная юбка наполнена энергией лета и пропитана свежим воздухом океана.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

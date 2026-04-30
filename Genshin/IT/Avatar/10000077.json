@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10771,
         "Name": "Lancia spasmodica",
@@ -484,7 +485,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10772,
         "Name": "Ravanelli a grappolo",
@@ -715,7 +717,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10775,
       "Name": "Cascata di giada lunare",
@@ -775,7 +778,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 772301,
         "Name": "In punta di piedi",
@@ -1176,6 +1180,7 @@
       "Id": 207701,
       "Name": "Fantasticheria di bambù nella pioggia",
       "Description": "Il completo di Yaoyao. Sulla babelica scrivania, nuovi germogli proiettano un'ombra mutevole; a volte, l'ospite a entrare non è il vento carezzevole.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YaoyaoCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
     },

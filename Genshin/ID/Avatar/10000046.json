@@ -318,7 +318,8 @@
                 3.750534
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10461,
         "Name": "Secret Spear of Wangsheng",
@@ -532,7 +533,8 @@
                 4
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10462,
         "Name": "Guide to Afterlife",
@@ -747,7 +749,8 @@
               0.5
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10463,
       "Name": "Spirit Soother",
@@ -807,7 +810,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 462301,
         "Name": "The More the Merrier",
@@ -1234,6 +1238,7 @@
       "Id": 204601,
       "Name": "Cherries Snow-Laden",
       "Description": "Model pakaian Hu Tao. Berbeda dengan baju formal warna gelap yang dikenakan untuk urusan Wangsheng Funeral Parlor, gaun ini adalah hadiah spesial dari Xiangling untuk Hu Tao. Kalau kacamata hitamnya sih dari koleksi pribadi yang bersangkutan ya.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_HutaoCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_HutaoCostumeWinter"
     },

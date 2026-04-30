@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Guhua-Stil",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Guhua-Schwert – Wolkenbruch",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Guhua-Schwert – Regen und Bogen",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Gedankenblitz",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Bambusregen",
       "Description": "Eine formelle Kleidung, die die Händlergilde Feiyun für Xingqiu hat anfertigen lassen. Die Bambusdrucke sind raffiniert und der Schnitt ist sehr schmeichelhaft, aber Xingqius Lieblingsaspekt dieser Kleidung sind die Innentaschen, in die man einen dünnen Roman stecken kann.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

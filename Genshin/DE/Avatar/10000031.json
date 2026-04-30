@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10311,
         "Name": "Pfeil der Vergebung",
@@ -484,7 +485,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10312,
         "Name": "Schutz der Dunkelheit",
@@ -706,7 +708,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10313,
       "Name": "Mitternachtstraum",
@@ -764,7 +767,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 312301,
         "Name": "Mein Hausgarten",
@@ -1157,6 +1161,7 @@
       "Id": 203101,
       "Name": "Ein Immernachtstraum",
       "Description": "Das Ritualkleid der Prinzessin Fischl. Möge die edle Person immer Mut, Aufrichtigkeit und Herzensgüte besitzen, sodass das Böse sie nicht überkommen kann.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

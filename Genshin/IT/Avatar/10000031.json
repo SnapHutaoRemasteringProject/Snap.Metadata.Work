@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10311,
         "Name": "Cascata di dardi",
@@ -484,7 +485,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10312,
         "Name": "Guardiano della notte",
@@ -706,7 +708,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10313,
       "Name": "Fantasmagoria di mezzanotte",
@@ -764,7 +767,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 312301,
         "Name": "Mein Hausgarten",
@@ -1157,6 +1161,7 @@
       "Id": 203101,
       "Name": "Ein Immernachtstraum",
       "Description": "Un completo cerimoniale della Prinzessin. Possa colei che è nobile preservare coraggio, sincerità e gentilezza in eterno, affinché nessun male riesca mai sopraffarla.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

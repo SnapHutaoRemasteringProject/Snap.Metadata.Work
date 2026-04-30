@@ -239,7 +239,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10271,
         "Name": "千金擲",
@@ -405,7 +406,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10272,
         "Name": "璇璣屏",
@@ -557,7 +559,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10274,
       "Name": "天權崩玉",
@@ -614,7 +617,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 272301,
         "Name": "奇石珠寶錄",
@@ -1037,6 +1041,7 @@
       "Id": 202701,
       "Name": "紗中幽蘭",
       "Description": "凝光的禮服裝扮。紺藍長裙勾勒出麗人優雅的曲線，腳踝上的蝶翼又為她平添了幾分輕盈。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

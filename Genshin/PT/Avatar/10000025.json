@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Estilo Guhua",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Espada de Guhua: Chuva Torrencial",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Espada Guhua: Retalhador de Chuva",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Flash do Gênio",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Bambu da Chuva",
       "Description": "Roupas formais da Guilda de Comerciantes de Feiyun para Xingqiu. Os bordados de bambu são refinados e lhe fazem vantagem, mas o aspecto favorito da roupa para Xingqiu são os bolsos internos, assim ele pode guardar uma novel.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

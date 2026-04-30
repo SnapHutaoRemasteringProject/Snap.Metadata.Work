@@ -287,7 +287,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10031,
         "Name": "Técnica de espada Favonius",
@@ -454,7 +455,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10033,
         "Name": "Filo de ventisca",
@@ -684,7 +686,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10034,
       "Name": "Brisa de Dandelion",
@@ -743,7 +746,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 32301,
         "Name": "Viento guía",
@@ -1152,6 +1156,7 @@
       "Id": 200301,
       "Name": "Sueño de la brisa marina",
       "Description": "El atuendo de verano de Jean. Fresco y, al mismo tiempo, elegante, este es el mejor conjunto para llevar a un viaje a la costa.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeSea",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeSea"
     },
@@ -1159,6 +1164,7 @@
       "Id": 200302,
       "Name": "Heredera de los Gunnhildr",
       "Description": "Modelo de vestimenta de Jean. Unas elegantes ropas que denotan su experiencia como caballera, perfectas para todo tipo de ocasiones.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_QinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_QinCostumeWic"
     },

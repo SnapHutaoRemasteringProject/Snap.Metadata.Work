@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10631,
         "Name": "별의 포획자",
@@ -547,7 +548,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10632,
         "Name": "위령 소환 구사술",
@@ -747,7 +749,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10635,
       "Name": "신녀 강령 비결",
@@ -808,7 +811,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 632301,
         "Name": "정확 깔끔한 행동",
@@ -1221,6 +1225,7 @@
       "Id": 206301,
       "Name": "차가운 꽃이슬",
       "Description": "신학이 받은 해등절 선물. 스승인 류운차풍진군의 주문으로 맞춤 제작된 우아한 예복이다. 양팔의 붉은 끈은 여전하지만, 신학의 마음속 매서운 추위는 이미 옅어지고 있었다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_ShenheCostumeDai",
       "SideIcon": "UI_AvatarIcon_Side_ShenheCostumeDai"
     },

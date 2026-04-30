@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10411,
         "Name": "Increspatura del fato",
@@ -452,7 +453,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10412,
         "Name": "Condanna riflessa",
@@ -475,7 +477,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10413,
         "Name": "Torrente illusorio",
@@ -762,7 +765,8 @@
               0.6
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10415,
       "Name": "Fantasma stellaris",
@@ -823,7 +827,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 412301,
         "Name": "Principio di astrologia",
@@ -1212,6 +1217,7 @@
       "Id": 204101,
       "Name": "Patto delle stelle e della luna",
       "Description": "Il completo di Mona. Un abito realizzato per racchiudere il concetto astrologico del \"momento predestinato\", grazie al buono sconto del 30% che ha ottenuto come rimborso per il globo celeste.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "儀典の剣術",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "霜の襲撃",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "凛冽なる輪舞",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "秘められた実力",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "帆影に戯る風",
       "Description": "ガイアが舞台上で「短刀の大盗賊」を演じる時の衣装。「目を引く」ことをコンセプトとした華やかな作り。しかし、着用にはそこまで手間がかからず、むしろ一番手入れに時間を要するのは装飾品と短刀のほうになっている。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

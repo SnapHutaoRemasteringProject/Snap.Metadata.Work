@@ -303,7 +303,8 @@
                 5.978574
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10160,
         "Name": "Tempered Sword",
@@ -470,7 +471,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10161,
         "Name": "Searing Onslaught",
@@ -670,7 +672,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10165,
       "Name": "Dawn",
@@ -730,7 +733,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 162301,
         "Name": "Tradition of the Dawn Knight",
@@ -1143,6 +1147,7 @@
       "Id": 201601,
       "Name": "เพลิงมหันต์รัตติกาล",
       "Description": "หนึ่งในชุดที่ Diluc สวมใส่เมื่อออกปฏิบัติการลับ ราวกับเปลวไฟที่ลุกโชนท่ามกลางเงามืด ร่องรอยสีแดงเข้มที่สุดปลายทัศนวิสัยของศัตรู คือฝันร้ายที่จะคงอยู่กับพวกเขาไปตลอดชีวิต",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

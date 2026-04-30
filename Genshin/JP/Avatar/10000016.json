@@ -303,7 +303,8 @@
                 5.978574
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10160,
         "Name": "百煉の剣",
@@ -470,7 +471,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10161,
         "Name": "逆焔の刃",
@@ -670,7 +672,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10165,
       "Name": "黎明",
@@ -730,7 +733,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 162301,
         "Name": "アカツキの伝統",
@@ -1143,6 +1147,7 @@
       "Id": 201601,
       "Name": "レッドデッド·オブ·ナイト",
       "Description": "ディルックが隠密行動をする際に着る衣装の一つ。それはまるで、影の中で燃える炎のよう。敵の目に焼き付いた深紅の残痕は、彼らに消えることのない悪夢を植え付ける。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

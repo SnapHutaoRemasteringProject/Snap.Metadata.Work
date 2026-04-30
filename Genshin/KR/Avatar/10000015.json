@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "의전 검술",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "서리 엄습",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "살을 에는 윤무",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "숨겨진 실력",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "펄럭이는 돛의 그림자",
       "Description": "케이아가 무대에서 「단검 대도」를 연기할 때 입은 코스튬. 「이목」을 끌 수 있도록 화려하게 디자인됐다. 의외로 입기 편하며, 오히려 장식과 단검 관리에 시간이 가장 많이 들어간다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

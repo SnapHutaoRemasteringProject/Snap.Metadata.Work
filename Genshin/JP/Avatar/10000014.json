@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10070,
         "Name": "水の囁き",
@@ -484,7 +485,8 @@
                 32
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10071,
         "Name": "公演、開始♪",
@@ -651,7 +653,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10072,
       "Name": "シャイニングミラクル♪",
@@ -710,7 +713,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 142301,
         "Name": "気持ち♪注入",
@@ -1114,6 +1118,7 @@
       "Id": 201401,
       "Name": "サマータイムスパークル",
       "Description": "海辺をモチーフにしたバーバラの衣装。夏の活気溢れる煌びやかなスカートからは、爽やかな海の香りが漂ってくる。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

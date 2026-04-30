@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10311,
         "Name": "Flèche de culpabilité",
@@ -484,7 +485,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10312,
         "Name": "Ailes de surveillance nocturne",
@@ -706,7 +708,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10313,
       "Name": "Incarnation de la nuit",
@@ -764,7 +767,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 312301,
         "Name": "Jardin secret",
@@ -1157,6 +1161,7 @@
       "Id": 203101,
       "Name": "Songe de la nuit éternelle",
       "Description": "Tenue cérémoniale de Fischl. Que celle qui est noble conserve pour toujours son courage, sa sincérité et sa bonté, de telle sorte qu'aucun mal ne puisse jamais l'atteindre.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

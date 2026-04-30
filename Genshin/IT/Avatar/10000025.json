@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Stile Guhua",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Spada Guhua: Velo di pioggia fatale",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Spada Guhua: Fendipioggia",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Luce divina",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Pioggia di bambù",
       "Description": "Un abito formale preparato dalla Gilda dei commercianti di Feiyun per Xingqiu. Il bambù è disegnato in modo raffinato e il taglio è lusinghiero, ma la parte preferita di Xingqiu sono le tasche interne, dentro le quali entrerebbe un libro non troppo spesso.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

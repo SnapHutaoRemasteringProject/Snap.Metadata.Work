@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Técnica de espada Guhua",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Espada Guhua: Lluvia torrencial mortal",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Espada Guhua: Sable de lluvia",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Destello repentino",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Lluvia de bambú",
       "Description": "Un traje de gala que el Gremio de Comerciantes de Feiyun preparó para Xingchiu. Cuenta con unos elegantes patrones de bambú y un corte muy apropiado, pero lo que más le gusta de él a Xingchiu es el bolsillo interior que tiene, lo suficientemente grande como para esconder en él una novela no muy gruesa.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

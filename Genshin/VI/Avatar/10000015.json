@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "Nghi Lễ Kiếm Thuật",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "Đột Kích Băng Giá",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "Vũ Điệu Giá Rét",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "Che Giấu Sức Mạnh",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "Cánh Buồm Lướt Gió",
       "Description": "Trang phục Kaeya đã mặc khi diễn vở \"Đạo Chích Dao Găm\", là bộ trang phục lộng lẫy được thiết kế với nguyên tắc \"thu hút ánh nhìn\". Việc mặc trang phục không phiền phức lắm, chỉ mất thời gian ở chỗ gắn trang sức và dao găm.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

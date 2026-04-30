@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10411,
         "Name": "Kader Dalgası",
@@ -452,7 +453,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10412,
         "Name": "Kıyamet Yansıması",
@@ -475,7 +477,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10413,
         "Name": "Hayali Akıntı",
@@ -762,7 +765,8 @@
               0.6
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10415,
       "Name": "Kaderin Yıldızı",
@@ -823,7 +827,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 412301,
         "Name": "Astrolojinin İlkeleri",
@@ -1212,6 +1217,7 @@
       "Id": 204101,
       "Name": "Yıldızların ve Ayın Sözü",
       "Description": "Mona'nın giysisi. Özellikle astrolojideki \"kaderdeki an\" kavramını kapsayacak şekilde, Mona'nın gök küre iadesinden aldığı %30 indirim çeki sayesinde üretilmiş bir giysi.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

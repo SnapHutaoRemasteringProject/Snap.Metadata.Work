@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10060,
         "Name": "Touche d'éclair",
@@ -486,7 +487,8 @@
                 1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10061,
         "Name": "Arc fulminant",
@@ -654,7 +656,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10062,
       "Name": "Rose de foudre",
@@ -713,7 +716,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 42301,
         "Name": "Connaissances médicinales",
@@ -1129,6 +1133,7 @@
       "Id": 200601,
       "Name": "Sobriquet à l'ombre",
       "Description": "Tenue que Lisa avait commandée lors d'une nouvelle visite à Sumeru. D'un équilibre parfait entre praticité et élégance, cette robe ressemble à l'uniforme qu'elle portait lorsqu'elle étudiait à l'Académie.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

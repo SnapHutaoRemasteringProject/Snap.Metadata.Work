@@ -303,7 +303,8 @@
                 5.978574
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10160,
         "Name": "Kiếm Tôi Luyện",
@@ -470,7 +471,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10161,
         "Name": "Lưỡi Đao Rực Lửa",
@@ -670,7 +672,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10165,
       "Name": "Bình Minh",
@@ -730,7 +733,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 162301,
         "Name": "Truyền Thống Của Bình Minh",
@@ -1143,6 +1147,7 @@
       "Id": 201601,
       "Name": "Màn Đêm Đỏ Thẫm",
       "Description": "Một trong những bộ trang phục mà Diluc đã mặc khi bí mật hành động, trông như ngọn lửa bùng cháy trong bóng tối. Dấu vết đỏ thẫm lưu lại trong tầm mắt của kẻ địch, cũng chính là cơn ác mộng mà chúng không thể nào quên được trong suốt phần đời còn lại.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

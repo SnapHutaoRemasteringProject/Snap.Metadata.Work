@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11231,
         "Name": "불꽃 날개 베기",
@@ -483,7 +484,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11232,
         "Name": "이원식·융합분열",
@@ -797,7 +799,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11235,
       "Name": "백화·흐르는 빛",
@@ -860,7 +863,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1232301,
         "Name": "대지의 울림",
@@ -1313,6 +1317,7 @@
       "Id": 212301,
       "Name": "저편의 이야기",
       "Description": "두린의 코스튬. 어머니의 펜을 물려받자 옷도 새 모습으로 바뀌었다. 그는 결국 그 펜이 그려 온 과거와 이별했다. 가슴 위의 심장 자물쇠가 사라지자, 그의 소원이 가리킨 방향으로 이야기가 흘러가기 시작했다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
     },

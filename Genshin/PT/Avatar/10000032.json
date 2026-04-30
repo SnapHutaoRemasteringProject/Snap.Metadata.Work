@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10321,
         "Name": "Espada da Sorte",
@@ -545,7 +546,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10322,
         "Name": "Sobrecarga de Paixão",
@@ -760,7 +762,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10323,
       "Name": "Viagem Fantástica",
@@ -814,7 +817,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 322301,
         "Name": "Deve Ser Seguro...",
@@ -1224,6 +1228,7 @@
       "Id": 203201,
       "Name": "Jornada das Chamas",
       "Description": "Vestuário de viagem de Natlan de Bennett. As cores principais são azul-lago e laranja flamejante, que exalam vitalidade, assim como essa terra.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BennettCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_BennettCostumeSummer"
     },

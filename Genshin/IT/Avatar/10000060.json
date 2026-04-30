@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10606,
         "Name": "Tiro furtivo",
@@ -453,7 +454,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10607,
         "Name": "Linea persistente",
@@ -637,7 +639,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10610,
       "Name": "Dado Chiaroprofondo",
@@ -701,7 +704,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 602301,
         "Name": "Calcoli necessari",
@@ -1105,6 +1109,7 @@
       "Id": 206001,
       "Name": "Banchetto sereno",
       "Description": "Il completo che Yelan ha preparato per la sua vacanza. Elegante e raffinato, trasmette un senso di tranquillità, ma ha anche un tocco nascosto di aggressività...",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YelanCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_YelanCostumeSummer"
     },

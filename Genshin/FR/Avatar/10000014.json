@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10070,
         "Name": "Murmure de l'eau",
@@ -484,7 +485,8 @@
                 32
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10071,
         "Name": "C'est parti pour le show ♪",
@@ -651,7 +653,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10072,
       "Name": "Miracle brillant ♪",
@@ -710,7 +713,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 142301,
         "Name": "De tout mon cœur ♪",
@@ -1114,6 +1118,7 @@
       "Id": 201401,
       "Name": "Été radieux",
       "Description": "Tenue de plage de Barbara. La jolie mini-jupe déborde de vitalité estivale et porte la fraîcheur de l'océan.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

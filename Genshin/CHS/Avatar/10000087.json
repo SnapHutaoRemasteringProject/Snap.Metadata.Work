@@ -333,7 +333,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10871,
         "Name": "如水从平",
@@ -516,7 +517,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10872,
         "Name": "泪水啊，我必偿还",
@@ -684,7 +686,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10875,
       "Name": "潮水啊，我已归来",
@@ -747,7 +750,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 872301,
         "Name": "汇聚如浪潮一般",
@@ -1171,6 +1175,7 @@
       "Id": 208701,
       "Name": "莘露的赠礼",
       "Description": "那维莱特收到的惊喜礼物。惊喜不仅源于礼物本身，更来自于参与礼物制作的每一双小小援手。就像河流汇于大海，露水也凝聚成闪耀着七色光芒的奇迹。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

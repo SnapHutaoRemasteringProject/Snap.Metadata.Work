@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Guhua Style",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Guhua Sword: Fatal Rainscreen",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Guhua Sword: Raincutter",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Flash of Genius",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "ไผ่พิรุณ",
       "Description": "ชุดงานเลี้ยงที่ทางสมาคมการค้า Feiyun จัดเตรียมไว้ให้แก่ Xingqiu ลวดลายไม้ไผ่ที่ดูหรูหรา และเสื้อผ้าที่ตัดเย็บอย่างดี แต่สิ่งที่ Xingqiu พอใจมากที่สุดก็คือกระเป๋าด้านในของมัน ที่เพียงพอให้ใส่นิยายเล่มบาง ๆ ได้",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

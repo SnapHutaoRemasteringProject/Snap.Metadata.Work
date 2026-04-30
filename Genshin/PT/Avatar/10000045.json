@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10451,
         "Name": "Lança Eclesiástica",
@@ -452,7 +453,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10452,
         "Name": "Confissão Desoladora",
@@ -651,7 +653,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10453,
       "Name": "Ritos de Terminação",
@@ -714,7 +717,8 @@
                 0.1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 452301,
         "Name": "Caminhada Noturna",
@@ -1113,6 +1117,7 @@
       "Id": 204501,
       "Name": "Aos Libertos da Igreja",
       "Description": "Vestuário de Rosaria. Parece ter sido confeccionado especialmente para ela pela Igreja.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_RosariaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_RosariaCostumeWic"
     },

@@ -33,9 +33,11 @@
     "Arkhe": 0,
     "Skills": [
       {
+        "GroupId": 0,
         "Proud": {
           "Descriptions": [],
-          "Parameters": []
+          "Parameters": [],
+          "Display": 0
         },
         "Id": 30506,
         "Name": "特殊ジャンプ",
@@ -265,7 +267,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 30501,
         "Name": "憑霊の閃矢",
@@ -400,7 +403,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 30502,
         "Name": "冥色のタイトロープ",
@@ -584,7 +588,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 30505,
       "Name": "闇声の残響",
@@ -649,7 +654,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1052301,
         "Name": "夜域の賜物・流霧躍影",
@@ -666,7 +672,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1052501,
         "Name": "獣の姿を借る者の妙技",

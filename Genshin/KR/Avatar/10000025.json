@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "고화 검법",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "고화검·화우농산",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "고화검·재우유홍",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "번뜩이는 영감",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "비에 물든 대나무",
       "Description": "비운 상회에서 행추를 위해 준비한 연회 의상. 청아한 대나무 무늬와 완벽에 가까운 마름질도 훌륭하지만, 특히 행추의 마음에 드는 부분은 얇은 소설책 한 권을 넣을 수 있을 정도로 넉넉한 속주머니다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

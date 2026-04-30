@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10070,
         "Name": "Suspiro da Água",
@@ -484,7 +485,8 @@
                 32
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10071,
         "Name": "Que Comece o Espetáculo ♪",
@@ -651,7 +653,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10072,
       "Name": "Milagre Brilhante ♪",
@@ -710,7 +713,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 142301,
         "Name": "Com Todo o Meu Coração♪",
@@ -1114,6 +1118,7 @@
       "Id": 201401,
       "Name": "Performance Brilhante",
       "Description": "Vestuário de Barbara para a praia. É um lindo vestido curto com a energia do verão, parece emitir o cheiro relaxante do mar.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

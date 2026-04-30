@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10411,
         "Name": "因果点破",
@@ -452,7 +453,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10412,
         "Name": "水中幻願",
@@ -475,7 +477,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10413,
         "Name": "虚実流動",
@@ -762,7 +765,8 @@
               0.6
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10415,
       "Name": "星命定軌",
@@ -823,7 +827,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 412301,
         "Name": "運行原理",
@@ -1212,6 +1217,7 @@
       "Id": 204101,
       "Name": "星と月の約束",
       "Description": "モナの衣装。占星術の概念である「運命の時」を迎えるため、特別に買った服。プラネタリウム予約金で得た三割引きクーポンに感謝。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Style Guhua",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Épée Guhua : Pluie battante",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Épée Guhua : Pluie et arc-en-ciel",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Illumination",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Pluie de bambous",
       "Description": "Une tenue de banquet préparée par la Guilde des marchands de Feiyun pour Xingqiu. Les imprimés en bambou sont raffinés et la coupe est des plus flatteuses, mais l'aspect préféré de Xingqiu réside dans ses poches intérieures, dans lesquelles on pourrait glisser un petit roman.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

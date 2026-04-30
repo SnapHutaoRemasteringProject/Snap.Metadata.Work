@@ -333,7 +333,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10871,
         "Name": "Tĩnh Lặng Như Nước",
@@ -516,7 +517,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10872,
         "Name": "Hoàn Trả Nước Mắt",
@@ -684,7 +686,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10875,
       "Name": "Về Với Thủy Triều",
@@ -747,7 +750,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 872301,
         "Name": "Dung Hòa Như Thủy Triều",
@@ -1171,6 +1175,7 @@
       "Id": 208701,
       "Name": "Quà Tặng Của Melusine",
       "Description": "Món quà bất ngờ mà Neuvillette nhận được. Bất ngờ không chỉ đến từ bản thân món quà, mà còn đến từ mỗi một đôi tay nhỏ giúp đỡ khi tham gia tạo ra. Giống như dòng sông hòa vào biển lớn, sương mai cũng ngưng tụ thành phép màu lấp lánh ánh sáng óng ánh.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

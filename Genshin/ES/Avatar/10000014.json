@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10070,
         "Name": "Murmullo del agua",
@@ -484,7 +485,8 @@
                 32
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10071,
         "Name": "Que empiece el concierto ♪",
@@ -651,7 +653,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10072,
       "Name": "Milagro brillante ♪",
@@ -710,7 +713,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 142301,
         "Name": "Con todo mi corazón ♪",
@@ -1114,6 +1118,7 @@
       "Id": 201401,
       "Name": "Verano radiante",
       "Description": "La vestimenta de playa de Bárbara. Este veraniego y hermoso vestido recuerda a una fresca brisa estival.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Guhua Tarzı",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Guhua Kılıcı: Ölümcül Yağmur",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Guhua Kılıcı: Yağmurkesici",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Zeka Parıltısı",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Bambu Yağmuru",
       "Description": "Feiyun Ticaret Loncasının Xingqiu için hazırladığı resmi bir giysi. Zarif bambu baskıları vardır ve oldukça hoş bir kesime sahiptir ancak Xingqiu'nun bu giyside en sevdiği özellik, içine ince romanlarını koyabileceği iç cepleridir.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

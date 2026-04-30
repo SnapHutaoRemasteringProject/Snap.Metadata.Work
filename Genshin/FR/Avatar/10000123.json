@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11231,
         "Name": "Coupe d'aile radieuse",
@@ -483,7 +484,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11232,
         "Name": "Forme binaire : Convergence et division",
@@ -797,7 +799,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11235,
       "Name": "Principe de pureté : Comme la lumière qui fluctue",
@@ -860,7 +863,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1232301,
         "Name": "Échos de la terre jaillissante",
@@ -1313,6 +1317,7 @@
       "Id": 212301,
       "Name": "Par-delà l'histoire",
       "Description": "Tenue de Durin. La tenue originale de Durin a pris une nouvelle forme après qu'il a reçu la plume de sa mère. Finalement, il a dû faire ses adieux au passé, jadis tracé par cette même plume. Lorsque le cadenas sur son cœur s'est effacé, son souhait s'est porté vers l'horizon lointain au-delà de son histoire... Et son récit a continué à se dérouler le long de ce chemin...",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
     },

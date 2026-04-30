@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "バンバン",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "ボンボン爆弾",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "ドッカン花火",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "宝物揃い",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "星燭に揺れる爛花",
       "Description": "クレーが特定の演劇に出演する際に着る丁寧な作りの衣装。鮮やかな色をしており、まるでクリームの花と真紅のロウソクで飾られたケーキのように、「ハッピー」と「スマイル」を冒険の至るところに振りまいてくれる。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

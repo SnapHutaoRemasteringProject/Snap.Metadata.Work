@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10060,
         "Name": "Toque de relámpago",
@@ -486,7 +487,8 @@
                 1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10061,
         "Name": "Arco violeta",
@@ -654,7 +656,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10062,
       "Name": "Rayo de la rosa",
@@ -713,7 +716,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 42301,
         "Name": "Conocimientos farmacéuticos",
@@ -1129,6 +1133,7 @@
       "Id": 200601,
       "Name": "Identidad velada",
       "Description": "Un atuendo que Lisa mandó hacer por encargo para volver de visita a Sumeru. Un vestido tan práctico como elegante que se asemeja al uniforme que solía llevar en sus años de estudiante.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

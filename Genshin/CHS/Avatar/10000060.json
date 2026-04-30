@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10606,
         "Name": "潜形隐曜弓",
@@ -453,7 +454,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10607,
         "Name": "萦络纵命索",
@@ -637,7 +639,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10610,
       "Name": "渊图玲珑骰",
@@ -701,7 +704,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 602301,
         "Name": "长考一着",
@@ -1105,6 +1109,7 @@
       "Id": 206001,
       "Name": "静暇雅宴",
       "Description": "夜兰为假日时光所搭配的装束，典雅而不失利落，捎来悠暇的心境之余，也不失为一种「充满攻势」的伪装…",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YelanCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_YelanCostumeSummer"
     },

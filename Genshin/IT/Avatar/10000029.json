@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Megaboom!",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Coniglio Bumbum",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Schizzi e scintille",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Tutti i miei tesori!",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "Luce stellare fiorente",
       "Description": "Un delizioso completo che Klee indossa solo per le esibizioni più importanti. Dai colori brillanti, sembra una torta decorata con fiori di panna e coronata da candele scarlatte. Indossandolo, la felicità e i sorrisi riempiranno le vostre avventure.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

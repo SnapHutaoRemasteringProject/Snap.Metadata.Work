@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10771,
         "Name": "Wackel aber wacker!",
@@ -484,7 +485,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10772,
         "Name": "Rübchen in flauschigen Wolken",
@@ -715,7 +717,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10775,
       "Name": "Kaninchen-Regen im Mondschein",
@@ -775,7 +778,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 772301,
         "Name": "Auf Zehenspitzen",
@@ -1176,6 +1180,7 @@
       "Id": 207701,
       "Name": "Ein Traum von Regen und Bambus",
       "Description": "Yaoyaos Kleidung. Klare Schatten der jungen Triebe fallen auf den Schreibtisch, manchmal ist der hereinkommende Gast nicht der spielerische Wind.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YaoyaoCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
     },

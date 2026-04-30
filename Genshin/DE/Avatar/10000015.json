@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "Rituelle Schwertkunst",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "Kälteatem",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "Kreis aus Eis",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "Verborgene Stärke",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "Schatten flatternder Segel",
       "Description": "Kaeyas Kostüm aus seiner Darbietung als „Großer Räuber Kurzklinge“. Ein prächtiges Kleidungsstück, das als absoluter „Hingucker“ entworfen wurde. Das Kostüm selbst ist nicht aufwendig anzuziehen; ganz anders sieht es da allerdings mit den Accessoires und dem Messer aus.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

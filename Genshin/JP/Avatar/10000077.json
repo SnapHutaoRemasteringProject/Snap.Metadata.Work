@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10771,
         "Name": "顛撲連撃槍",
@@ -484,7 +485,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10772,
         "Name": "祥雲団々落清白",
@@ -715,7 +717,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10775,
       "Name": "玉顆珊々月中落",
@@ -775,7 +778,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 772301,
         "Name": "爪立ち·躡景足跡",
@@ -1176,6 +1180,7 @@
       "Id": 207701,
       "Name": "竹林に響く雨音",
       "Description": "ヨォーヨの衣装。新たな梢の清き影、響くは机を叩く音。客は風かと振り向けば、思いもよらぬ姿あり。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YaoyaoCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_YaoyaoCostumeWinter"
     },

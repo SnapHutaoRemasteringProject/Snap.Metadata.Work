@@ -270,7 +270,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10701,
         "Name": "현월의 춤",
@@ -546,7 +547,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10702,
         "Name": "칠역의 춤",
@@ -714,7 +716,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10705,
       "Name": "수련의 춤·먼 꿈속 샘물 소리",
@@ -776,7 +779,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 702301,
         "Name": "백옥련 잔",
@@ -1165,6 +1169,7 @@
       "Id": 207001,
       "Name": "사바의 숨결",
       "Description": "닐루의 코스튬. 천 송이 꽃을 엮어 만든 듯 가벼운 치마는 마치 새벽녘의 동풍이 실어 오는 은은한 향기처럼 동화 속 세계의 아름다운 축복을 품고 있다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NilouCostumeFairy",
       "SideIcon": "UI_AvatarIcon_Side_NilouCostumeFairy"
     },

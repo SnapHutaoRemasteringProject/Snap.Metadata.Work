@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10411,
         "Name": "Destino Desencapado",
@@ -452,7 +453,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10412,
         "Name": "Água Ilusória",
@@ -475,7 +477,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10413,
         "Name": "Vicissitude",
@@ -762,7 +765,8 @@
               0.6
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10415,
       "Name": "Órbita Divina",
@@ -823,7 +827,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 412301,
         "Name": "Princípio da Astrologia",
@@ -1212,6 +1217,7 @@
       "Id": 204101,
       "Name": "Pacto das Estrelas e da Lua",
       "Description": "Vestuário de Mona. Um vestuário feito especificamente para englobar o conceito de \"Momento Destinado\" das Previsões Astrológicas e como agradecimento pelo desconto de 30% no planetário.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MonaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_MonaCostumeWic"
     },

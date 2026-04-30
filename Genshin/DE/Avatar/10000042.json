@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10421,
         "Name": "Schwertkunst aus den Wolken",
@@ -484,7 +485,8 @@
                 7.5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10422,
         "Name": "Rückkehr der Sterne",
@@ -668,7 +670,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10425,
       "Name": "Himmelswanderung",
@@ -728,7 +731,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 422301,
         "Name": "Aufseher der Ländereien",
@@ -1183,6 +1187,7 @@
       "Id": 204201,
       "Name": "Üppige Pracht",
       "Description": "Keqings formelle Kleidung. Die Fäden, die in tagelanger harter Arbeit gewebt wurden, verflechten sich inmitten der schönen Morgenstunden des Laternenrituals zu einem leichten und doch prächtigen Erscheinungsbild.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },

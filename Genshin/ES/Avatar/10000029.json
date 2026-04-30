@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "¡Buuum!",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Bomba saltarina",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Chispas explosivas",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Todos mis tesoros",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "Inocencia chispeante",
       "Description": "Un hermoso atuendo de Klee utilizado para cierta obra muy importante. De colores muy vivos, parece casi como un pastel adornado con crema batida y una vela roja en el sombrero, y tiene la capacidad de llevar sonrisas y felicidad a todos los rincones en los que haya aventuras que emprender.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

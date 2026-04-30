@@ -316,7 +316,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10611,
         "Name": "Ouvre-colis",
@@ -592,7 +593,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10612,
         "Name": "Coup de patte miaou-téorite",
@@ -776,7 +778,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10615,
       "Name": "Art secret : Livraison surprise",
@@ -837,7 +840,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 612301,
         "Name": "Foulée féline",
@@ -1238,6 +1242,7 @@
       "Id": 206101,
       "Name": "Fantôme en bottes",
       "Description": "Tenue de Kirara. La féline fanfaronne des contes de fées, la messagère rusée des rêves... est heureuse de faire votre connaissance !",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MomokaCostumeErrantry",
       "SideIcon": "UI_AvatarIcon_Side_MomokaCostumeErrantry"
     },

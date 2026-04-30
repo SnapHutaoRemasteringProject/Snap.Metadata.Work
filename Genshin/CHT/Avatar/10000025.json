@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "古華劍法",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "古華劍·畫雨籠山",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "古華劍·裁雨留虹",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "靈光乍現",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "雨化竹身",
       "Description": "飛雲商會為行秋準備的宴會衣裝。竹紋清雅、剪裁服貼，但最令行秋滿意的還是其內層的口袋，足夠塞下一冊較薄的小說了。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

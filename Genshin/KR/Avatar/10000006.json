@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10060,
         "Name": "손끝의 뇌폭",
@@ -486,7 +487,8 @@
                 1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10061,
         "Name": "창뢰",
@@ -654,7 +656,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10062,
       "Name": "장미의 뇌광",
@@ -713,7 +716,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 42301,
         "Name": "포션 통찰",
@@ -1129,6 +1133,7 @@
       "Id": 200601,
       "Name": "잎새에 숨겨진 이름",
       "Description": "리사가 수메르를 다시 방문했을 때 주문 제작한 코스튬. 우아하면서도 세련된 이 옷은 리사의 학창 시절 교복과도 닮았다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

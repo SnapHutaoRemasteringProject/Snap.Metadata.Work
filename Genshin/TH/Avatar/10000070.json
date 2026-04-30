@@ -270,7 +270,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10701,
         "Name": "Dance of Samser",
@@ -546,7 +547,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10702,
         "Name": "Dance of Haftkarsvar",
@@ -714,7 +716,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10705,
       "Name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
@@ -776,7 +779,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 702301,
         "Name": "White Jade Lotus",
@@ -1165,6 +1169,7 @@
       "Id": 207001,
       "Name": "สายลมแห่ง Sabaa",
       "Description": "ชุดเดรสอันหรูหราของ Nilou ที่ราวกับถักทอขึ้นจากดอกไม้นับพัน กรุ่นกลิ่นหอมอ่อน ๆ ราวกับสายลมตะวันออกยามรุ่งอรุณ บรรจุพรอันแสนวิเศษ จากโลกนิทานเอาไว้",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NilouCostumeFairy",
       "SideIcon": "UI_AvatarIcon_Side_NilouCostumeFairy"
     },

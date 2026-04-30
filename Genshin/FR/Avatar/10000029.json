@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Boum ! Boum !",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Bombe rebondissante",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Fleur bombardier",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Des trésors partout !",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "Lumière stellaire en fleurs",
       "Description": "Une tenue exquise que Klee ne porte que pour les performances les plus importantes. Les couleurs sont brillantes, comme un gâteau à la crème décoré de fleurs et couronné de bougies écarlates. Avec cette tenue, bonheur et sourires combleront vos aventures !",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

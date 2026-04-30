@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "Tecnica cerimoniale",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "Attacco gelante",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "Valzer glaciale",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "Forza nascosta",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "Ombra Navigavento",
       "Description": "Il completo che Kaeya indossa quando interpreta il \"Bandito della Daga\". Sebbene sia alquanto appariscente, non è difficile da indossare, anche se ci vuole del tempo per sistemare tutti quegli accessori e tutte quelle daghe.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

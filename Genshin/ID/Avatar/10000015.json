@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "Ceremonial Bladework",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "Frostgnaw",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "Glacial Waltz",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "Hidden Strength",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "Sailwind Shadow",
       "Description": "Kostum Kaeya yang dikenakan saat memerankan \"Bandit Belati\". Desain kostum ini sengaja dibuat agar terlihat sangat mencolok. Tapi mengenakannya pun tidak sulit, malahan aksesori lain dan belatinya yang lebih memakan waktu saat dikenakan.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

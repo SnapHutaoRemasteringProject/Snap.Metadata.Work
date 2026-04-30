@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10070,
         "Name": "Whisper of Water",
@@ -484,7 +485,8 @@
                 32
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10071,
         "Name": "Let the Show Begin♪",
@@ -651,7 +653,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10072,
       "Name": "Shining Miracle♪",
@@ -710,7 +713,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 142301,
         "Name": "With My Whole Heart♪",
@@ -1114,6 +1118,7 @@
       "Id": 201401,
       "Name": "ซัมเมอร์ซ่าท้าร้อน",
       "Description": "คอสตูมชายหาดของ Barbara กระโปรงสั้นสุดสวยงาม ที่เต็มไปด้วยความสดใสของฤดูร้อน และดูเหมือนจะแผ่ซ่านกลิ่นอาย อันเย็นสดชื่นของทะเลอีกด้วย",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BarbaraCostumeSummertime",
       "SideIcon": "UI_AvatarIcon_Side_BarbaraCostumeSummertime"
     },

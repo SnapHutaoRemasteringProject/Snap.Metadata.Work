@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11231,
         "Name": "輝炎の翼斬り",
@@ -483,7 +484,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11232,
         "Name": "二元術式・融合精錬",
@@ -797,7 +799,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11235,
       "Name": "純白の法則・変転する光",
@@ -860,7 +863,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1232301,
         "Name": "大地の残響",
@@ -1313,6 +1317,7 @@
       "Id": 212301,
       "Name": "物語の彼方",
       "Description": "ドゥリンの衣装。母が書いた物語を受け継ぎ、ドゥリンの衣装は新たな姿へと変化を遂げた——母が記した過去に別れを告げる時が来たのだ。胸元の鎖が解かれた今、この物語は彼の心が向かう方へと続いていく。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
     },

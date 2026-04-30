@@ -270,7 +270,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10701,
         "Name": "Vũ Điệu Samser",
@@ -546,7 +547,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10702,
         "Name": "Vũ Điệu Haftkarsvar",
@@ -714,7 +716,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10705,
       "Name": "Vũ Điệu Abzendegi - Viễn Mộng Linh Tuyền",
@@ -776,7 +779,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 702301,
         "Name": "Sen Ngọc Tinh Khôi",
@@ -1165,6 +1169,7 @@
       "Id": 207001,
       "Name": "Ngọn Gió Sabaa",
       "Description": "Trang phục tao nhã của Nilou. Chiếc váy nhẹ nhàng như hàng ngàn bông hoa, mang theo hương thơm nhẹ nhàng của gió đông khi bình minh đến, chứa đựng lời chúc phúc tuyệt vời của thế giới cổ tích.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NilouCostumeFairy",
       "SideIcon": "UI_AvatarIcon_Side_NilouCostumeFairy"
     },

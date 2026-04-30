@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10024,
         "Name": "Trường Phái Kamisato - Kabuki",
@@ -452,7 +453,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10018,
         "Name": "Trường Phái Kamisato - Hyouka",
@@ -477,7 +479,8 @@
                 5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10013,
         "Name": "Trường Phái Kamisato - Senho",
@@ -661,7 +664,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10019,
       "Name": "Trường Phái Kamisato - Soumetsu",
@@ -725,7 +729,8 @@
                 2
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 22301,
         "Name": "Bí Kíp Kiểm Tra",
@@ -1129,6 +1134,7 @@
       "Id": 200201,
       "Name": "Thư Từ Hoa Xuân",
       "Description": "Trang phục đi chơi của Kamisato Ayaka. Bộ váy được may dựa theo kiểu dáng trang phục nữ giới Fontaine trong tiểu thuyết, dường như có thể thông qua đó để nhìn thấy được diện mạo cuộc sống của các cô gái Fontaine.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AyakaCostumeFruhling",
       "SideIcon": "UI_AvatarIcon_Side_AyakaCostumeFruhling"
     },

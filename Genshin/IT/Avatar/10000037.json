@@ -335,7 +335,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10371,
         "Name": "Arciere di Liutian",
@@ -502,7 +503,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10372,
         "Name": "Scia del Qilin",
@@ -670,7 +672,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10373,
       "Name": "Pioggia celestiale",
@@ -729,7 +732,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 372301,
         "Name": "Arco di riserva",
@@ -1162,6 +1166,7 @@
       "Id": 203701,
       "Name": "Bocciolo crepuscolare",
       "Description": "Un completo da festa leggero ed elegante, dalla tonalità nero notte e con accenti blu cerulei. I suoi accessori per capelli brillano come i Qingxin, un abbinamento molto gradito a Ganyu.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_GanyuCostumeYu",
       "SideIcon": "UI_AvatarIcon_Side_GanyuCostumeYu"
     },

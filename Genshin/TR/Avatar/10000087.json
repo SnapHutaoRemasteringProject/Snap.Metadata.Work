@@ -333,7 +333,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10871,
         "Name": "Suyun Dengesi",
@@ -516,7 +517,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10872,
         "Name": "Baki Kalan Gözyaşları",
@@ -684,7 +686,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10875,
       "Name": "Metcezir, Geri Döndüm",
@@ -747,7 +750,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 872301,
         "Name": "Dalgalar Gibi Bir Arada",
@@ -1171,6 +1175,7 @@
       "Id": 208701,
       "Name": "Melusinaların Hediyesi",
       "Description": "Neuvillette için sürpriz bir hediye. Verdiği mutluluk yalnızca hediyenin kendisinden değil, onun yapımına yardım eden tüm minik ellerden de kaynaklanıyor. Tıpkı nehirlerin engin denize karışması gibi, çiy damlaları da bir araya gelerek rengarenk ışıldayan bir mucize yaratabilir.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

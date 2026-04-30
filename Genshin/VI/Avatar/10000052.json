@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10521,
         "Name": "Cội Nguồn",
@@ -485,7 +486,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10522,
         "Name": "Thần Biến - Ánh Chớp Tà Ác",
@@ -905,7 +907,8 @@
               90
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10525,
       "Name": "Bí Kỹ - Mộng Tưởng Chân Thuyết",
@@ -966,7 +969,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 522301,
         "Name": "",
@@ -983,7 +987,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 522501,
         "Name": "Kẻ Trấn Giữ Thiên Hạ",
@@ -1055,6 +1060,8 @@
     "CvEnglish": "Anne Yatco",
     "CvKorean": "Park Ji-yoon",
     "CookBonus": {
+      "OriginItemId": 0,
+      "ItemId": 0,
       "InputList": []
     },
     "Fetters": [

@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Kaboom!",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Bomba Saltitante",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Faíscas Explosivas",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Tem tesouros por toda parte",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "Luz Estelar Florescente",
       "Description": "Uma vestimenta requintada que a Klee usa apenas para as apresentações mais importantes. As cores são brilhantes, como um bolo de creme decorado com flores e coroado com velas escarlates. Com ela, felicidades e sorrisos irão encher suas aventuras.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11231,
         "Name": "Flammenflügel-Hieb",
@@ -483,7 +484,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11232,
         "Name": "Zweifach – Spannung und Schmelzung",
@@ -797,7 +799,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11235,
       "Name": "Prinzip der Helligkeit – Fluss des Lichts",
@@ -860,7 +863,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1232301,
         "Name": "Echo der Erde",
@@ -1313,6 +1317,7 @@
       "Id": 212301,
       "Name": "Ferne der Geschichten",
       "Description": "Durins Kleidung. Nachdem Durin den Stift seiner Mutter erhalten hatte, nahm sein ursprüngliches Outfit eine neue Form an. Am Ende musste er sich von der Vergangenheit verabschieden, die einst mit eben diesem Stift gemalt worden war. Nachdem das Schloss auf seiner Brust verblasst war, richtete sich sein Wunsch auf den fernen Horizont – und so sollte die Geschichte eben jenem Pfad folgen.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
     },

@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10321,
         "Name": "Espada de la suerte",
@@ -545,7 +546,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10322,
         "Name": "Sobrecarga de pasión",
@@ -760,7 +762,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10323,
       "Name": "Aventura maravillosa",
@@ -814,7 +817,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 322301,
         "Name": "Supuestamente seguro",
@@ -1224,6 +1228,7 @@
       "Id": 203201,
       "Name": "Aventura ardorosa",
       "Description": "El atuendo de viaje de Bennett en Natlan. El afortunado azul de los lagos y el amarillo y naranja de las llamas son los colores más importantes de su vestimenta, que representan la vitalidad a raudales de esta tierra.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BennettCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_BennettCostumeSummer"
     },

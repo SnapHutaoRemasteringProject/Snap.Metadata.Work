@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10041,
         "Name": "神射手",
@@ -453,7 +454,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10032,
         "Name": "爆弹玩偶",
@@ -637,7 +639,8 @@
               2
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10017,
       "Name": "箭雨",
@@ -697,7 +700,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 212301,
         "Name": "飞行冠军",
@@ -1131,6 +1135,7 @@
       "Id": 202101,
       "Name": "100%侦察骑士",
       "Description": "安柏的装扮款式。这一次出现的，是更为正式也更为英气的侦察骑士哦！",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AmborCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_AmborCostumeWic"
     },

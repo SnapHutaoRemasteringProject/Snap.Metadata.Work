@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10451,
         "Name": "教會槍術",
@@ -452,7 +453,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10452,
         "Name": "噬罪的告解",
@@ -651,7 +653,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10453,
       "Name": "終命的聖禮",
@@ -714,7 +717,8 @@
                 0.1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 452301,
         "Name": "夜行",
@@ -1113,6 +1117,7 @@
       "Id": 204501,
       "Name": "致教會自由人",
       "Description": "蘿莎莉亞的裝扮款式。這套衣服似乎是教會為她專門定製的禮物。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_RosariaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_RosariaCostumeWic"
     },

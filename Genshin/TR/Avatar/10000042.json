@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10421,
         "Name": "Yunlai Kılıç Tekniği",
@@ -484,7 +485,8 @@
                 7.5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10422,
         "Name": "Yıldızların Düzeni",
@@ -668,7 +670,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10425,
       "Name": "Yıldız Çarpışması",
@@ -728,7 +731,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 422301,
         "Name": "Diyarın Gözetmeni",
@@ -1183,6 +1187,7 @@
       "Id": 204201,
       "Name": "Göz Alıcı İhtişam",
       "Description": "Keqing'in resmi kıyafeti. Fener Şenliğinin güzel şafağının ortasında, ince ince işlenmiş iplikler hafif ama muhteşem bir görünüm katıyor.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },

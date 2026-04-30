@@ -332,7 +332,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10381,
         "Name": "Guhua Style",
@@ -514,7 +515,8 @@
                 21
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10382,
         "Name": "Guhua Sword: Fatal Rainscreen",
@@ -682,7 +684,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10385,
       "Name": "Guhua Sword: Raincutter",
@@ -736,7 +739,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 252301,
         "Name": "Flash of Genius",
@@ -1164,6 +1168,7 @@
       "Id": 202501,
       "Name": "Bamboo Rain",
       "Description": "Baju formal yang disediakan Feiyun Commerce Guild untuk Xingqiu. Motif bambunya elok dan potongannya serasi di badan, namun yang paling Xingqiu sukai dari baju ini adalah kantong dalamnya, yang bisa dipakai untuk menyimpan buku novel tipis.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_XingqiuCostumeBamboo",
       "SideIcon": "UI_AvatarIcon_Side_XingqiuCostumeBamboo"
     },

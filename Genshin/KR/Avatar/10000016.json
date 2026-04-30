@@ -303,7 +303,8 @@
                 5.978574
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10160,
         "Name": "단련의 검",
@@ -470,7 +471,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10161,
         "Name": "역날의 화염",
@@ -670,7 +672,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10165,
       "Name": "여명",
@@ -730,7 +733,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 162301,
         "Name": "새벽의 전통",
@@ -1143,6 +1147,7 @@
       "Id": 201601,
       "Name": "진홍빛 종야",
       "Description": "다이루크가 은밀한 행동을 할 때 착용하는 코스튬 중 하나. 그림자 속에서 활활 타오르는 불꽃과도 같다. 적의 시야 끝에 진홍빛 잔흔을 남겨서 영원히 잊지 못할 악몽을 선사한다",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DilucCostumeFlamme",
       "SideIcon": "UI_AvatarIcon_Side_DilucCostumeFlamme"
     },

@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10451,
         "Name": "Thương Thuật Giáo Hội",
@@ -452,7 +453,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10452,
         "Name": "Lời Cáo Tội",
@@ -651,7 +653,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10453,
       "Name": "Thánh Lễ Cuối Cùng",
@@ -714,7 +717,8 @@
                 0.1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 452301,
         "Name": "Dạ Hành",
@@ -1113,6 +1117,7 @@
       "Id": 204501,
       "Name": "Tu Nữ Tự Do",
       "Description": "Phong cách của Rosaria. Bộ trang phục này dường như là món quà mà Giáo Hội đã đặc biệt làm riêng cho cô ấy.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_RosariaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_RosariaCostumeWic"
     },

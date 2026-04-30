@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10321,
         "Name": "好運劍",
@@ -545,7 +546,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10322,
         "Name": "熱情超載",
@@ -760,7 +762,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10323,
       "Name": "美妙旅程",
@@ -814,7 +817,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 322301,
         "Name": "應該安全",
@@ -1224,6 +1228,7 @@
       "Id": 203201,
       "Name": "熾繪奇旅",
       "Description": "班尼特的納塔遊歷裝束，主色調是幸運的湖藍，以及熾熱的黃橙，如同這片土地一般洋溢著勃勃生機。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_BennettCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_BennettCostumeSummer"
     },

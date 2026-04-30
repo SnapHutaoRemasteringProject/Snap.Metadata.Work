@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10311,
         "Name": "Bolts of Downfall",
@@ -484,7 +485,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10312,
         "Name": "Nightrider",
@@ -706,7 +708,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10313,
       "Name": "Midnight Phantasmagoria",
@@ -764,7 +767,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 312301,
         "Name": "Mein Hausgarten",
@@ -1157,6 +1161,7 @@
       "Id": 203101,
       "Name": "Ein Immernachtstraum",
       "Description": "Pakaian upacara untuk Prinzessin. Semoga dia yang hatinya mulia selalu mempunyai keberanian, ketulusan dan kebaikan selamanya di dalam hatinya, dan agar tidak ada kejahatan yang bisa mengalahkannya.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

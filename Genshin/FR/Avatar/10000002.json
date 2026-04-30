@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10024,
         "Name": "École Kamisato : Sveltesse",
@@ -452,7 +453,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10018,
         "Name": "École Kamisato : Fleur de glace",
@@ -477,7 +479,8 @@
                 5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10013,
         "Name": "École Kamisato : Sentier de givre",
@@ -661,7 +664,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10019,
       "Name": "École Kamisato : Givre mortel",
@@ -725,7 +729,8 @@
                 2
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 22301,
         "Name": "Fruits de Shinsa",
@@ -1129,6 +1134,7 @@
       "Id": 200201,
       "Name": "Missive de floraison printanière",
       "Description": "Tenue de voyage d'Ayaka. Sa conception est basée sur les robes fontainoises représentées dans les romans légers et semble refléter le style de vie des dames respectables qui résident dans cette nation.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AyakaCostumeFruhling",
       "SideIcon": "UI_AvatarIcon_Side_AyakaCostumeFruhling"
     },

@@ -255,7 +255,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10291,
         "Name": "Bumm-Bumm",
@@ -452,7 +453,8 @@
                 20
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10292,
         "Name": "Bimm-Bamm-Bombe",
@@ -661,7 +663,8 @@
               10
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10295,
       "Name": "Funkelfunken",
@@ -715,7 +718,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 292301,
         "Name": "Alles voller Schätze",
@@ -1124,6 +1128,7 @@
       "Id": 202901,
       "Name": "Blütenreines Sternenlicht",
       "Description": "Klees exquisites Kostüm, welches sie nur zu den wichtigsten Aufführungen trägt. Mit seinen leuchtenden Farben erinnert es an eine mit cremefarbenen Blumen und roten Kerzen verzierte Torte. Hiermit trägt Klee Freude und ein Lächeln in jede Ecke dieser Welt, wohin ihr Abenteuer sie auch führen mag.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KleeCostumeWitch",
       "SideIcon": "UI_AvatarIcon_Side_KleeCostumeWitch"
     },

@@ -270,7 +270,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10701,
         "Name": "Dance of Samser",
@@ -546,7 +547,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10702,
         "Name": "Dance of Haftkarsvar",
@@ -714,7 +716,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10705,
       "Name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
@@ -776,7 +779,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 702301,
         "Name": "White Jade Lotus",
@@ -1165,6 +1169,7 @@
       "Id": 207001,
       "Name": "Breeze of Sabaa",
       "Description": "Gaun elegan yang dibuat untuk Nilou. Gaun ringan yang ditenun dari begitu banyaknya jenis bunga ini beraroma sangat harum tatkala ia diterpa oleh angin timur di kala fajar, dan juga membawakan berkah yang begitu indah dari negeri dongeng.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NilouCostumeFairy",
       "SideIcon": "UI_AvatarIcon_Side_NilouCostumeFairy"
     },

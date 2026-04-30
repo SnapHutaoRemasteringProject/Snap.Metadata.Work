@@ -239,7 +239,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10271,
         "Name": "Teure Geschosse",
@@ -405,7 +406,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10272,
         "Name": "Jadeschirm",
@@ -557,7 +559,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10274,
       "Name": "Sternensplitter",
@@ -614,7 +617,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 272301,
         "Name": "Edelsteinhort",
@@ -1037,6 +1041,7 @@
       "Id": 202701,
       "Name": "Orchideen-Abendkleid",
       "Description": "Ningguangs formelle Kleidung. Der lange türkisfarbene Rock zeichnet ihre eleganten Kurven nach und die Schmetterlingsflügel an ihren Knöcheln verleihen der Kleidung einen Hauch von leichter Anmut.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "Passe d'armes",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "Attaque givrée",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "Valse glaciale",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "Force cachée",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "Ombre nautique",
       "Description": "La tenue que Kaeya porte en jouant le Bandit au poignard. Bien qu'il s'agisse d'une tenue flamboyante conçue pour être aussi accrocheuse que possible, elle n'est pas difficile à enfiler, bien qu'il faille un certain temps pour arranger tous les accessoires et son poignard.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

@@ -316,7 +316,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10611,
         "Name": "Cào Rách Hộp",
@@ -592,7 +593,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10612,
         "Name": "Mèo Tung Cước",
@@ -776,7 +778,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10615,
       "Name": "Bí Pháp - Chuyển Phát Đặc Biệt",
@@ -837,7 +840,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 612301,
         "Name": "Mèo Đi Rón Rén",
@@ -1238,6 +1242,7 @@
       "Id": 206101,
       "Name": "Ảo Ảnh Đi Hia",
       "Description": "Phong cách của Kirara. Mèo kiếm khách hành hiệp trượng nghĩa, thiếu nữ lanh lợi truyền đạt nguyện vọng trong câu chuyện cổ tích, xin được gửi lời chào.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_MomokaCostumeErrantry",
       "SideIcon": "UI_AvatarIcon_Side_MomokaCostumeErrantry"
     },

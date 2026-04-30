@@ -270,7 +270,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10701,
         "Name": "Danza di Samser",
@@ -546,7 +547,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10702,
         "Name": "Danza di Haftkarsvar",
@@ -714,7 +716,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10705,
       "Name": "Danza di Abzendegi: Sogni distanti, sorgenti che ascoltano",
@@ -776,7 +779,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 702301,
         "Name": "Loto della giada bianca",
@@ -1165,6 +1169,7 @@
       "Id": 207001,
       "Name": "Brezza di Sabaa",
       "Description": "Un abito elegante per Nilou. Sembra che il tessuto di questo leggerissimo abito sia composto da innumerevoli fiori, e per tale motivo emana una fragranza delicata come il vento orientale all'alba, portando con sé graziose benedizioni di una terra fiabesca.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NilouCostumeFairy",
       "SideIcon": "UI_AvatarIcon_Side_NilouCostumeFairy"
     },

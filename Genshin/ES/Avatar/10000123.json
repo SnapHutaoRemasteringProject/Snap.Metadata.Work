@@ -286,7 +286,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11231,
         "Name": "Corte del ala ardiente",
@@ -483,7 +484,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 11232,
         "Name": "Forma binaria: Convergencia y división",
@@ -797,7 +799,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 11235,
       "Name": "Principio de pureza: Fluctuación lumínica",
@@ -860,7 +863,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 1232301,
         "Name": "Ecos de la tierra",
@@ -1313,6 +1317,7 @@
       "Id": 212301,
       "Name": "Hacia un horizonte lejano",
       "Description": "Modelo de vestimenta de Durin. El atuendo original de Durin ha adquirido un nuevo aspecto después de que este recibiera la pluma de su madre. Al final, tuvo que despedirse del pasado que una vez pintó aquella misma pluma. Cuando el candado con forma de corazón de su pecho se desvaneció, su deseo apuntó hacia un horizonte lejano... y la historia continúa desarrollándose siguiendo dicho camino.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_DurinCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_DurinCostumeWic"
     },

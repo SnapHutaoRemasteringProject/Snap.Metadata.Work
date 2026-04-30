@@ -335,7 +335,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10371,
         "Name": "流天射術",
@@ -502,7 +503,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10372,
         "Name": "山澤麟跡",
@@ -670,7 +672,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10373,
       "Name": "降眾天華",
@@ -729,7 +732,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 372301,
         "Name": "藏弓待用",
@@ -1162,6 +1166,7 @@
       "Id": 203701,
       "Name": "玄玉瑤芳",
       "Description": "輕盈優雅的佳節服飾，以龍葵紫黑和玉鈫藍為主調，髮飾則如清心般明麗，正是甘雨最喜愛的搭配。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_GanyuCostumeYu",
       "SideIcon": "UI_AvatarIcon_Side_GanyuCostumeYu"
     },

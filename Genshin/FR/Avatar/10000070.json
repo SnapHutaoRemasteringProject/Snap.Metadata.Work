@@ -270,7 +270,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10701,
         "Name": "Danse de shamshir",
@@ -546,7 +547,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10702,
         "Name": "Danse des haftkarsvars",
@@ -714,7 +716,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10705,
       "Name": "Danse d'abzendegi : Ruisseau des rêves lointains",
@@ -776,7 +779,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 702301,
         "Name": "Lotus de jade blanc",
@@ -1165,6 +1169,7 @@
       "Id": 207001,
       "Name": "Brise de Sabaa",
       "Description": "Une tenue élégante pour Nilou. Cette robe légère est apparemment tissée d'innombrables fleurs, et avec elle dérive un léger parfum comme le vent d'est à l'aube, transportant de belles bénédictions venues d'un pays de conte de fées.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NilouCostumeFairy",
       "SideIcon": "UI_AvatarIcon_Side_NilouCostumeFairy"
     },

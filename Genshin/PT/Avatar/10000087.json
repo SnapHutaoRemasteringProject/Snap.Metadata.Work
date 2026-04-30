@@ -333,7 +333,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10871,
         "Name": "Como Águas Paradas",
@@ -516,7 +517,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10872,
         "Name": "Lágrimas, Eu Retribuirei",
@@ -684,7 +686,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10875,
       "Name": "Marés, Eu Retornei",
@@ -747,7 +750,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 872301,
         "Name": "Reunindo-se como a Maré",
@@ -1171,6 +1175,7 @@
       "Id": 208701,
       "Name": "Presente Melusente",
       "Description": "Um presente surpresa do Neuvillette. A alegria não apenas vem do próprio presente, mas de todas as pequenas mãos que ajudaram a fazê-lo. Assim como os rios se unem no mar infinito, as gotas de orvalho também podem se unir para criar um milagre que brilha com uma luz iridescente.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

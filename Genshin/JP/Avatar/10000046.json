@@ -318,7 +318,8 @@
                 3.750534
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10461,
         "Name": "往生秘伝槍法",
@@ -532,7 +533,8 @@
                 4
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10462,
         "Name": "蝶導来世",
@@ -747,7 +749,8 @@
               0.5
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10463,
       "Name": "安神秘法",
@@ -807,7 +810,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 462301,
         "Name": "多々益善",
@@ -1234,6 +1238,7 @@
       "Id": 204601,
       "Name": "残雪に咲く紅",
       "Description": "胡桃の衣装。暗い色を基調とした往生堂の服とは異なり、明るい色のワンピース。服は友人の香菱が胡桃のために用意してくれたプレゼントで、サングラスは胡桃の自前である。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_HutaoCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_HutaoCostumeWinter"
     },

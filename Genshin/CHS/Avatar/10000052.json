@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10521,
         "Name": "源流",
@@ -485,7 +486,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10522,
         "Name": "神变·恶曜开眼",
@@ -905,7 +907,8 @@
               90
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10525,
       "Name": "奥义·梦想真说",
@@ -966,7 +969,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 522301,
         "Name": "暂缺",
@@ -983,7 +987,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 522501,
         "Name": "天下名物狩",
@@ -1055,6 +1060,8 @@
     "CvEnglish": "安妮·雅科",
     "CvKorean": "朴志㣧",
     "CookBonus": {
+      "OriginItemId": 0,
+      "ItemId": 0,
       "InputList": []
     },
     "Fetters": [

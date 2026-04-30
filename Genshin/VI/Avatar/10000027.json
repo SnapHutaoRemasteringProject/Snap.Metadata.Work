@@ -239,7 +239,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10271,
         "Name": "Ngàn Vàng Lấp Lánh",
@@ -405,7 +406,8 @@
                 12
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10272,
         "Name": "Vách Toàn Cơ",
@@ -557,7 +559,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10274,
       "Name": "Thiên Quyền Băng Ngọc",
@@ -614,7 +617,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 272301,
         "Name": "Bộ Sưu Tập Đá Quý",
@@ -1037,6 +1041,7 @@
       "Id": 202701,
       "Name": "U Lan Tinh Diệu",
       "Description": "Lễ phục của Ningguang. Bộ váy dài màu xanh lam tôn lên đường nét xinh đẹp trang nhã, cánh bướm ở phần chân càng làm tăng phần thanh thoát.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NingguangCostumeFloral",
       "SideIcon": "UI_AvatarIcon_Side_NingguangCostumeFloral"
     },

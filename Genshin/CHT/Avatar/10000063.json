@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10631,
         "Name": "踏辰攝斗",
@@ -547,7 +548,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10632,
         "Name": "仰靈威召將役咒",
@@ -747,7 +749,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10635,
       "Name": "神女遣靈真訣",
@@ -808,7 +811,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 632301,
         "Name": "來復知時",
@@ -1221,6 +1225,7 @@
       "Id": 206301,
       "Name": "冷花幽露",
       "Description": "申鶴收到的海燈節賀禮。由其師留雲借風真君請人縫製的優雅禮服，雙臂上紅繩依舊，但申鶴心中的苦寒之意已淡。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_ShenheCostumeDai",
       "SideIcon": "UI_AvatarIcon_Side_ShenheCostumeDai"
     },

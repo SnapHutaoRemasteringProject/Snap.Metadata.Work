@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10060,
         "Name": "Tocco di fulmine",
@@ -486,7 +487,8 @@
                 1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10061,
         "Name": "Tuono violetto",
@@ -654,7 +656,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10062,
       "Name": "Rosa fulminante",
@@ -713,7 +716,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 42301,
         "Name": "Farmaci generici",
@@ -1129,6 +1133,7 @@
       "Id": 200601,
       "Name": "Un nomignolo all'ombra",
       "Description": "Un completo commissionato da Lisa quando è tornata in visita a Sumeru. Un'unione perfetta tra praticità ed eleganza, che assomiglia alla vecchia uniforme di Lisa ai tempi dell'Akademiya.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10451,
         "Name": "教会槍術",
@@ -452,7 +453,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10452,
         "Name": "罪喰いの懺悔",
@@ -651,7 +653,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10453,
       "Name": "臨終の聖礼",
@@ -714,7 +717,8 @@
                 0.1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 452301,
         "Name": "夜行",
@@ -1113,6 +1117,7 @@
       "Id": 204501,
       "Name": "教会の自由人へ",
       "Description": "ロサリアの衣装。彼女のためだけに教会から贈られた特注品のようだ。",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_RosariaCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_RosariaCostumeWic"
     },

@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10606,
         "Name": "Stealthy Bowshot",
@@ -453,7 +454,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10607,
         "Name": "Lingering Lifeline",
@@ -637,7 +639,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10610,
       "Name": "Depth-Clarion Dice",
@@ -701,7 +704,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 602301,
         "Name": "Necessary Calculation",
@@ -1105,6 +1109,7 @@
       "Id": 206001,
       "Name": "Tranquil Banquet",
       "Description": "Pakaian yang dikenakan Yelan saat liburan. Sangat elegan dan sama sekali tidak terkesan sembarangan. Bukan hanya menyampaikan suasana hati, tapi juga merupakan sebuah penyamaran yang \"penuh dengan ancaman\" ....",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YelanCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_YelanCostumeSummer"
     },

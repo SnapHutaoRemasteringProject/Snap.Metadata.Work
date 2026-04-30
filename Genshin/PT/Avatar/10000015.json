@@ -302,7 +302,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10073,
         "Name": "Lâmina Cerimonial",
@@ -437,7 +438,8 @@
                 6
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10074,
         "Name": "Mordida Congelante",
@@ -605,7 +607,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10075,
       "Name": "Valsa Glacial",
@@ -659,7 +662,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 152301,
         "Name": "Força Oculta",
@@ -1078,6 +1082,7 @@
       "Id": 201501,
       "Name": "Sombra da Vela Tremulante",
       "Description": "Vestimenta do Kaeya enquanto fazia o papel de Bandido da Adaga. Embora seja uma vestimenta extravagante, feita para chamar o máximo de atenção possível, não é difícil de vestir, embora seja necessário um bom tempo para lidar com todos os acessórios e adagas.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KaeyaCostumeDancer",
       "SideIcon": "UI_AvatarIcon_Side_KaeyaCostumeDancer"
     },

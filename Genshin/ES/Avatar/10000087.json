@@ -333,7 +333,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10871,
         "Name": "Remanso acuático",
@@ -516,7 +517,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10872,
         "Name": "Plañido del resarcimiento",
@@ -684,7 +686,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10875,
       "Name": "Retorno mareal",
@@ -747,7 +750,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 872301,
         "Name": "Impetuosidad marítima",
@@ -1171,6 +1175,7 @@
       "Id": 208701,
       "Name": "Obsequio de las melusinas",
       "Description": "Un regalo sorpresa para Neuvillette. La alegría no solo proviene del regalo en sí, sino de cada pequeña mano que ayudó a hacerlo. Al igual que los ríos convergen en el mar infinito, las gotas de rocío también pueden unirse para crear un milagro que brilla con luz iridiscente.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_NeuvilletteCostumeWinter",
       "SideIcon": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter"
     },

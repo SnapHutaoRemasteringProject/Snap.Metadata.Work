@@ -271,7 +271,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10060,
         "Name": "Elektrisierende Berührung",
@@ -486,7 +487,8 @@
                 1
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10061,
         "Name": "Lila Lichtbogen",
@@ -654,7 +656,8 @@
               80
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10062,
       "Name": "Rosenblitz",
@@ -713,7 +716,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 42301,
         "Name": "Allgemeinwissen über Tränke",
@@ -1129,6 +1133,7 @@
       "Id": 200601,
       "Name": "Weisheit unter dem Grün",
       "Description": "Die Kleidung, die Lisa eigens bestellt hat, als sie Sumeru wieder besuchte. Das Kleid ist praktisch, aber auch elegant und hat eine leichte Ähnlichkeit mit ihrer Studentenuniform.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_LisaCostumeStudentin",
       "SideIcon": "UI_AvatarIcon_Side_LisaCostumeStudentin"
     },

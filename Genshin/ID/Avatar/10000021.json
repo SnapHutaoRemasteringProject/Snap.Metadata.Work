@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10041,
         "Name": "Sharpshooter",
@@ -453,7 +454,8 @@
                 15
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10032,
         "Name": "Explosive Puppet",
@@ -637,7 +639,8 @@
               2
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10017,
       "Name": "Fiery Rain",
@@ -697,7 +700,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 212301,
         "Name": "Gliding Champion",
@@ -1131,6 +1135,7 @@
       "Id": 202101,
       "Name": "100% Outrider",
       "Description": "Model pakaian Amber. Yang muncul kali ini, tidak lain adalah Outrider yang lebih keren dan lebih formal loh!",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_AmborCostumeWic",
       "SideIcon": "UI_AvatarIcon_Side_AmborCostumeWic"
     },

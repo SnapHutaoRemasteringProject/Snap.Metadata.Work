@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10311,
         "Name": "죄멸의 화살",
@@ -484,7 +485,8 @@
                 8
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10312,
         "Name": "밤을 순찰하는 그림자 날개",
@@ -706,7 +708,8 @@
               60
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10313,
       "Name": "암야의 환상",
@@ -764,7 +767,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 312301,
         "Name": "황녀의 화원",
@@ -1157,6 +1161,7 @@
       "Id": 203101,
       "Name": "극야의 진실된 꿈",
       "Description": "황녀 피슬의 제례 코스튬. 고귀한 자에게 용기와 진실 그리고 선한 마음이 영원히 깃들기를, 그래야만 사악한 기운이 그녀를 꺾을 수 없을지니",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_FischlCostumeHighness",
       "SideIcon": "UI_AvatarIcon_Side_FischlCostumeHighness"
     },

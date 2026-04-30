@@ -287,7 +287,8 @@
                 3.79592
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10606,
         "Name": "Gizli Ok Saldırısı",
@@ -453,7 +454,8 @@
                 10
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10607,
         "Name": "Uzun Yaşam Hattı",
@@ -637,7 +639,8 @@
               70
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10610,
       "Name": "Berrak Zar",
@@ -701,7 +704,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 602301,
         "Name": "Gerekli Hesaplama",
@@ -1105,6 +1109,7 @@
       "Id": 206001,
       "Name": "Sessiz Ziyafet",
       "Description": "Yelan'ın tatil için hazırladığı giysi. Zarif ve şık tarzıyla hem rahat bir havası var hem de ardında belli belirsiz bir saldırganlık gizli...",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_YelanCostumeSummer",
       "SideIcon": "UI_AvatarIcon_Side_YelanCostumeSummer"
     },

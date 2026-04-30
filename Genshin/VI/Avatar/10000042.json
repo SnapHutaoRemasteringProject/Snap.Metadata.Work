@@ -317,7 +317,8 @@
                 4.27041
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10421,
         "Name": "Vân Lai Kiếm Pháp",
@@ -484,7 +485,8 @@
                 7.5
               ]
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 10422,
         "Name": "Tinh Đẩu Quy Vị",
@@ -668,7 +670,8 @@
               40
             ]
           }
-        ]
+        ],
+        "Display": 0
       },
       "Id": 10425,
       "Name": "Tuần Du Thiên Nhai",
@@ -728,7 +731,8 @@
               "Level": 1,
               "Parameters": []
             }
-          ]
+          ],
+          "Display": 0
         },
         "Id": 422301,
         "Name": "Thổ Địa Tổng Vụ",
@@ -1183,6 +1187,7 @@
       "Id": 204201,
       "Name": "Vũ Điệu Nghê Thường",
       "Description": "Lễ phục của Keqing. Trong khoảnh khắc tươi đẹp của Tết Hải Đăng, từng đường nét được vẽ bằng sự vất vả trong quá khứ, đã kết nên dung mạo xinh tươi nhẹ nhàng của hôm nay.",
+      "IsDefault": false,
       "FrontIcon": "UI_AvatarIcon_KeqingCostumeFeather",
       "SideIcon": "UI_AvatarIcon_Side_KeqingCostumeFeather"
     },
