@@ -472,8 +472,8 @@
           "Field Entering/Exiting DMG|{param2:P}",
           "Field Activation Healing|{param3:P} ATK+{param4:I}",
           "Continuous Regeneration|{param5:F2P} ATK+{param6:I}/s",
-          "CD|{param8:F1}s",
-          "Energy Cost|{param9:I}"
+          "CD|{param7:F1}s",
+          "Energy Cost|{param8:I}"
         ],
         "Parameters": [
           {

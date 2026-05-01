@@ -472,8 +472,8 @@
           "DGT entrée/sortie de zone|{param2:P}",
           "Soins du champ|{param3:P} ATQ + {param4:I} PV",
           "Soins continus|{param5:F2P} ATQ + {param6:I} PV/s",
-          "Temps de recharge|{param8:F1} s",
-          "Énergie élémentaire|{param9:I}"
+          "Temps de recharge|{param7:F1} s",
+          "Énergie élémentaire|{param8:I}"
         ],
         "Parameters": [
           {
