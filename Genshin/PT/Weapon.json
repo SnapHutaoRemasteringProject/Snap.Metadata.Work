@@ -920,7 +920,7 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "#<color=#99FFFFFF>Efetivo apenas para jogadores da seguinte plataforma:</color>\n<color=#99FFFFFF>\"PlayStation™Network\"</color>\nAcertar oponentes com um Ataque Normal ou Carregado concede <color=#99FFFFFF>50%</color> de chance de causar <color=#99FFFFFF>200%</color> do ATQ como Dano em uma pequena AdE. Este efeito pode ocorrer apenas uma vez a cada 10s. Adicionalmente, se {M#o}{F#a} Viajante equipar a Espada do Advento, seu ATQ é aumentado em <color=#99FFFFFF>66</color>."
+          "Description": "<color=#99FFFFFF>Efetivo apenas para jogadores da seguinte plataforma:</color>\n<color=#99FFFFFF>\"PlayStation™Network\"</color>\nAcertar oponentes com um Ataque Normal ou Carregado concede <color=#99FFFFFF>50%</color> de chance de causar <color=#99FFFFFF>200%</color> do ATQ como Dano em uma pequena AdE. Este efeito pode ocorrer apenas uma vez a cada 10s. Adicionalmente, se {M#o}{F#a} Viajante equipar a Espada do Advento, seu ATQ é aumentado em <color=#99FFFFFF>66</color>."
         }
       ]
     },
@@ -4509,6 +4509,29 @@
       114020,
       112028,
       112037
+    ]
+  },
+  {
+    "Id": 12505,
+    "PromoteId": 11101,
+    "Sort": 5204,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Espada de Jade Primordial",
+    "Description": "Um espadão de jade que pertenceu a um Arconte e lançado nas profundezas do oceano para acalmar uma tempestade monstruosa.",
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
     ]
   },
   {
@@ -8475,7 +8498,7 @@
   {
     "Id": 14434,
     "PromoteId": 14434,
-    "Sort": 4425,
+    "Sort": 4426,
     "WeaponType": 10,
     "RankLevel": 4,
     "Name": "Estrela Gelada",
@@ -11418,6 +11441,52 @@
     ]
   },
   {
+    "Id": 15504,
+    "PromoteId": 11101,
+    "Sort": 5503,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Caça-Dragões de Kunwu",
+    "Description": "Um grande arco feito de veias de dragão. É tão poderoso que poderia matar um dragão. A flecha disparada tem a força de um trovão.",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
+    "Id": 15505,
+    "PromoteId": 11101,
+    "Sort": 5504,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Vista da Jade Primordial",
+    "Description": "Um arco forte feito de jade antigo, com uma corda feita de um único feixe de luz convergente. Possui poder suficiente para proteger um reino.",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 15507,
     "PromoteId": 15507,
     "Sort": 5507,
@@ -11839,6 +11908,59 @@
       114012,
       112016,
       112037
+    ]
+  },
+  {
+    "Id": 15516,
+    "PromoteId": 15516,
+    "Sort": 5514,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Ramo Dourado do Juramento Gelado",
+    "Description": "Um Arco Longo feito de madeira branca ancestral que, em um passado distante, pertenceu ao Rei dos Geladinhos do norte.",
+    "Icon": "UI_EquipIcon_Bow_Alkonost",
+    "AwakenIcon": "UI_EquipIcon_Bow_Alkonost_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Saudação da Alvorada",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>16%</color>. Quando a Habilidade Elemental ou ataques de Cristalização Lunar do portador atingirem o inimigo, obtém o efeito Gentileza Feérica por 6s: aumenta o Dano Geo do portador em <color=#99FFFFFF>40%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>40%</color>. Na duração do efeito, se o portador estiver perto de uma Jaula Lunar, os outros membros próximos da equipe obtêm o efeito Truque Maléfico Feérico: aumenta o Dano Geo em <color=#99FFFFFF>20%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>20%</color>. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo."
+        },
+        {
+          "Level": 1,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>20%</color>. Quando a Habilidade Elemental ou ataques de Cristalização Lunar do portador atingirem o inimigo, obtém o efeito Gentileza Feérica por 6s: aumenta o Dano Geo do portador em <color=#99FFFFFF>50%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>50%</color>. Na duração do efeito, se o portador estiver perto de uma Jaula Lunar, os outros membros próximos da equipe obtêm o efeito Truque Maléfico Feérico: aumenta o Dano Geo em <color=#99FFFFFF>25%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>25%</color>. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo."
+        },
+        {
+          "Level": 2,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>24%</color>. Quando a Habilidade Elemental ou ataques de Cristalização Lunar do portador atingirem o inimigo, obtém o efeito Gentileza Feérica por 6s: aumenta o Dano Geo do portador em <color=#99FFFFFF>60%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>60%</color>. Na duração do efeito, se o portador estiver perto de uma Jaula Lunar, os outros membros próximos da equipe obtêm o efeito Truque Maléfico Feérico: aumenta o Dano Geo em <color=#99FFFFFF>30%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>30%</color>. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo."
+        },
+        {
+          "Level": 3,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>28%</color>. Quando a Habilidade Elemental ou ataques de Cristalização Lunar do portador atingirem o inimigo, obtém o efeito Gentileza Feérica por 6s: aumenta o Dano Geo do portador em <color=#99FFFFFF>70%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>70%</color>. Na duração do efeito, se o portador estiver perto de uma Jaula Lunar, os outros membros próximos da equipe obtêm o efeito Truque Maléfico Feérico: aumenta o Dano Geo em <color=#99FFFFFF>35%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>35%</color>. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo."
+        },
+        {
+          "Level": 4,
+          "Description": "Aumenta a DEF em <color=#99FFFFFF>32%</color>. Quando a Habilidade Elemental ou ataques de Cristalização Lunar do portador atingirem o inimigo, obtém o efeito Gentileza Feérica por 6s: aumenta o Dano Geo do portador em <color=#99FFFFFF>80%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>80%</color>. Na duração do efeito, se o portador estiver perto de uma Jaula Lunar, os outros membros próximos da equipe obtêm o efeito Truque Maléfico Feérico: aumenta o Dano Geo em <color=#99FFFFFF>40%</color>, aumenta o Dano de Cristalização Lunar em <color=#99FFFFFF>40%</color>. Esse efeito pode ser desencadeado mesmo quando o portador não for o personagem ativo."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114080,
+      112142,
+      112127
     ]
   }
 ]

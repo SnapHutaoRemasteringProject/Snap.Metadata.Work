@@ -1822,7 +1822,7 @@
     "WeaponType": 1,
     "RankLevel": 5,
     "Name": "風鷹劍",
-    "Description": "#西風騎士團的靈魂。歷經千年仍在呼喚{F#妳}{M#你}捲起正義之風，拔除奸邪，一如上一位揮舞此劍的女傑。",
+    "Description": "西風騎士團的靈魂。歷經千年仍在呼喚你捲起正義之風，拔除奸邪，一如上一位揮舞此劍的女傑。",
     "Icon": "UI_EquipIcon_Sword_Falcon",
     "AwakenIcon": "UI_EquipIcon_Sword_Falcon_Awaken",
     "GrowCurves": [
@@ -4008,23 +4008,23 @@
       "Descriptions": [
         {
           "Level": 0,
-          "Description": "#攻擊力提升<color=#99FFFFFF>12%</color>。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>12%</color>。"
+          "Description": "攻擊力提升<color=#99FFFFFF>12%</color>。不僅如此！海沫村中曾蒙你幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>12%</color>。"
         },
         {
           "Level": 1,
-          "Description": "#攻擊力提升<color=#99FFFFFF>15%</color>。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>15%</color>。"
+          "Description": "攻擊力提升<color=#99FFFFFF>15%</color>。不僅如此！海沫村中曾蒙你幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>15%</color>。"
         },
         {
           "Level": 2,
-          "Description": "#攻擊力提升<color=#99FFFFFF>18%</color>。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>18%</color>。"
+          "Description": "攻擊力提升<color=#99FFFFFF>18%</color>。不僅如此！海沫村中曾蒙你幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>18%</color>。"
         },
         {
           "Level": 3,
-          "Description": "#攻擊力提升<color=#99FFFFFF>21%</color>。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>21%</color>。"
+          "Description": "攻擊力提升<color=#99FFFFFF>21%</color>。不僅如此！海沫村中曾蒙你幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>21%</color>。"
         },
         {
           "Level": 4,
-          "Description": "#攻擊力提升<color=#99FFFFFF>24%</color>。不僅如此！海沫村中曾蒙{F#妳}{M#你}幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>24%</color>。"
+          "Description": "攻擊力提升<color=#99FFFFFF>24%</color>。不僅如此！海沫村中曾蒙你幫助的美露莘們的聲援心意充滿了力量，依照她們的數目，攻擊力至多進一步提升<color=#99FFFFFF>24%</color>。"
         }
       ]
     },
@@ -4509,6 +4509,29 @@
       114020,
       112028,
       112037
+    ]
+  },
+  {
+    "Id": 12505,
+    "PromoteId": 11101,
+    "Sort": 5204,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "砥厄魚",
+    "Description": "曾屬於魔神的玉璋。一度被擲入漆黑的海洋，以鎮服滔天的滄波。",
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
     ]
   },
   {
@@ -8475,7 +8498,7 @@
   {
     "Id": 14434,
     "PromoteId": 14434,
-    "Sort": 4425,
+    "Sort": 4426,
     "WeaponType": 10,
     "RankLevel": 4,
     "Name": "霜辰",
@@ -11418,6 +11441,52 @@
     ]
   },
   {
+    "Id": 15504,
+    "PromoteId": 11101,
+    "Sort": 5503,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "昆吾墜龍",
+    "Description": "名匠昆吾以辰筋做的大弓，其勁可以殲龍。釋弦時，其勢如雷。",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
+    "Id": 15505,
+    "PromoteId": 11101,
+    "Sort": 5504,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "懸黎千鈞",
+    "Description": "遠古寶玉造的，能守護一國的勁弓，以匯聚一線的翠光為幻造的弦。",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 15507,
     "PromoteId": 15507,
     "Sort": 5507,
@@ -11839,6 +11908,59 @@
       114012,
       112016,
       112037
+    ]
+  },
+  {
+    "Id": 15516,
+    "PromoteId": 15516,
+    "Sort": 5514,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "霜結的誓金枝",
+    "Description": "由古老的白木打造而成的長弓，在遙遠的過去曾屬於北境的霜精之王。",
+    "Icon": "UI_EquipIcon_Bow_Alkonost",
+    "AwakenIcon": "UI_EquipIcon_Bow_Alkonost_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "與君致意的黎明",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "防禦力提高<color=#99FFFFFF>16%</color>。裝備者的元素戰技或月結晶攻擊命中敵人時，將獲得持續6秒的「霜妖精的報恩」效果：裝備者造成的岩元素傷害提升<color=#99FFFFFF>40%</color>，月結晶反應傷害提升<color=#99FFFFFF>40%</color>。持續期間，若裝備者附近存在月籠，則隊伍中附近的所有其他角色還會獲得「霜妖精的惡戲」效果：造成的岩元素傷害提升<color=#99FFFFFF>20%</color>，月結晶反應傷害提升<color=#99FFFFFF>20%</color>。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 1,
+          "Description": "防禦力提高<color=#99FFFFFF>20%</color>。裝備者的元素戰技或月結晶攻擊命中敵人時，將獲得持續6秒的「霜妖精的報恩」效果：裝備者造成的岩元素傷害提升<color=#99FFFFFF>50%</color>，月結晶反應傷害提升<color=#99FFFFFF>50%</color>。持續期間，若裝備者附近存在月籠，則隊伍中附近的所有其他角色還會獲得「霜妖精的惡戲」效果：造成的岩元素傷害提升<color=#99FFFFFF>25%</color>，月結晶反應傷害提升<color=#99FFFFFF>25%</color>。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 2,
+          "Description": "防禦力提高<color=#99FFFFFF>24%</color>。裝備者的元素戰技或月結晶攻擊命中敵人時，將獲得持續6秒的「霜妖精的報恩」效果：裝備者造成的岩元素傷害提升<color=#99FFFFFF>60%</color>，月結晶反應傷害提升<color=#99FFFFFF>60%</color>。持續期間，若裝備者附近存在月籠，則隊伍中附近的所有其他角色還會獲得「霜妖精的惡戲」效果：造成的岩元素傷害提升<color=#99FFFFFF>30%</color>，月結晶反應傷害提升<color=#99FFFFFF>30%</color>。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 3,
+          "Description": "防禦力提高<color=#99FFFFFF>28%</color>。裝備者的元素戰技或月結晶攻擊命中敵人時，將獲得持續6秒的「霜妖精的報恩」效果：裝備者造成的岩元素傷害提升<color=#99FFFFFF>70%</color>，月結晶反應傷害提升<color=#99FFFFFF>70%</color>。持續期間，若裝備者附近存在月籠，則隊伍中附近的所有其他角色還會獲得「霜妖精的惡戲」效果：造成的岩元素傷害提升<color=#99FFFFFF>35%</color>，月結晶反應傷害提升<color=#99FFFFFF>35%</color>。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        },
+        {
+          "Level": 4,
+          "Description": "防禦力提高<color=#99FFFFFF>32%</color>。裝備者的元素戰技或月結晶攻擊命中敵人時，將獲得持續6秒的「霜妖精的報恩」效果：裝備者造成的岩元素傷害提升<color=#99FFFFFF>80%</color>，月結晶反應傷害提升<color=#99FFFFFF>80%</color>。持續期間，若裝備者附近存在月籠，則隊伍中附近的所有其他角色還會獲得「霜妖精的惡戲」效果：造成的岩元素傷害提升<color=#99FFFFFF>40%</color>，月結晶反應傷害提升<color=#99FFFFFF>40%</color>。裝備者處於隊伍後臺時，依然能觸發上述效果。"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114080,
+      112142,
+      112127
     ]
   }
 ]

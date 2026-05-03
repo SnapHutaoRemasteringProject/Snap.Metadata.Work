@@ -4512,6 +4512,29 @@
     ]
   },
   {
+    "Id": 12505,
+    "PromoteId": 11101,
+    "Sort": 5204,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "美玉魚",
+    "Description": "かつて魔神に所有された美玉、一度荒波を静まらせるために漆黒の海に投げられた。",
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 12510,
     "PromoteId": 12510,
     "Sort": 5206,
@@ -8475,7 +8498,7 @@
   {
     "Id": 14434,
     "PromoteId": 14434,
-    "Sort": 4425,
+    "Sort": 4426,
     "WeaponType": 10,
     "RankLevel": 4,
     "Name": "霜辰",
@@ -11418,6 +11441,52 @@
     ]
   },
   {
+    "Id": 15504,
+    "PromoteId": 11101,
+    "Sort": 5503,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "昆吾の堕龍",
+    "Description": "名匠昆吾が龍の筋を使って作った大弓、龍さえも殺せる強さがある。矢を放つ時、雷のような勢いがある。",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
+    "Id": 15505,
+    "PromoteId": 11101,
+    "Sort": 5504,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "高価なオーブ",
+    "Description": "上古の宝玉で作られた、一国を守れる弓。一線に集まる光は幻造の弦になる。",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 15507,
     "PromoteId": 15507,
     "Sort": 5507,
@@ -11839,6 +11908,59 @@
       114012,
       112016,
       112037
+    ]
+  },
+  {
+    "Id": 15516,
+    "PromoteId": 15516,
+    "Sort": 5514,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "霜契の金枝",
+    "Description": "古い白木で作られた長弓。遥か昔、北方の霜の精の王が所有していたものである。",
+    "Icon": "UI_EquipIcon_Bow_Alkonost",
+    "AwakenIcon": "UI_EquipIcon_Bow_Alkonost_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "想いを伝える黎明",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "防御力+<color=#99FFFFFF>16%</color>。装備者の元素スキルまたは月結晶攻撃が敵に命中した時、6秒間継続する「霜の精の恩返し」効果を獲得する。この効果により、装備者の与える岩元素ダメージ+<color=#99FFFFFF>40%</color>。月結晶反応ダメージ+<color=#99FFFFFF>40%</color>。継続期間中、装備者の近くに月籠が存在する場合、チーム内の近くにいる他のキャラクター全員が「霜の精のいたずら」効果を獲得し、与える岩元素ダメージ+<color=#99FFFFFF>20%</color>、月結晶反応ダメージ+<color=#99FFFFFF>20%</color>。装備者が待機中でも、上記効果を発動できる。"
+        },
+        {
+          "Level": 1,
+          "Description": "防御力+<color=#99FFFFFF>20%</color>。装備者の元素スキルまたは月結晶攻撃が敵に命中した時、6秒間継続する「霜の精の恩返し」効果を獲得する。この効果により、装備者の与える岩元素ダメージ+<color=#99FFFFFF>50%</color>。月結晶反応ダメージ+<color=#99FFFFFF>50%</color>。継続期間中、装備者の近くに月籠が存在する場合、チーム内の近くにいる他のキャラクター全員が「霜の精のいたずら」効果を獲得し、与える岩元素ダメージ+<color=#99FFFFFF>25%</color>、月結晶反応ダメージ+<color=#99FFFFFF>25%</color>。装備者が待機中でも、上記効果を発動できる。"
+        },
+        {
+          "Level": 2,
+          "Description": "防御力+<color=#99FFFFFF>24%</color>。装備者の元素スキルまたは月結晶攻撃が敵に命中した時、6秒間継続する「霜の精の恩返し」効果を獲得する。この効果により、装備者の与える岩元素ダメージ+<color=#99FFFFFF>60%</color>。月結晶反応ダメージ+<color=#99FFFFFF>60%</color>。継続期間中、装備者の近くに月籠が存在する場合、チーム内の近くにいる他のキャラクター全員が「霜の精のいたずら」効果を獲得し、与える岩元素ダメージ+<color=#99FFFFFF>30%</color>、月結晶反応ダメージ+<color=#99FFFFFF>30%</color>。装備者が待機中でも、上記効果を発動できる。"
+        },
+        {
+          "Level": 3,
+          "Description": "防御力+<color=#99FFFFFF>28%</color>。装備者の元素スキルまたは月結晶攻撃が敵に命中した時、6秒間継続する「霜の精の恩返し」効果を獲得する。この効果により、装備者の与える岩元素ダメージ+<color=#99FFFFFF>70%</color>。月結晶反応ダメージ+<color=#99FFFFFF>70%</color>。継続期間中、装備者の近くに月籠が存在する場合、チーム内の近くにいる他のキャラクター全員が「霜の精のいたずら」効果を獲得し、与える岩元素ダメージ+<color=#99FFFFFF>35%</color>、月結晶反応ダメージ+<color=#99FFFFFF>35%</color>。装備者が待機中でも、上記効果を発動できる。"
+        },
+        {
+          "Level": 4,
+          "Description": "防御力+<color=#99FFFFFF>32%</color>。装備者の元素スキルまたは月結晶攻撃が敵に命中した時、6秒間継続する「霜の精の恩返し」効果を獲得する。この効果により、装備者の与える岩元素ダメージ+<color=#99FFFFFF>80%</color>。月結晶反応ダメージ+<color=#99FFFFFF>80%</color>。継続期間中、装備者の近くに月籠が存在する場合、チーム内の近くにいる他のキャラクター全員が「霜の精のいたずら」効果を獲得し、与える岩元素ダメージ+<color=#99FFFFFF>40%</color>、月結晶反応ダメージ+<color=#99FFFFFF>40%</color>。装備者が待機中でも、上記効果を発動できる。"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114080,
+      112142,
+      112127
     ]
   }
 ]

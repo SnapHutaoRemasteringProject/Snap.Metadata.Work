@@ -8475,7 +8475,7 @@
   {
     "Id": 14434,
     "PromoteId": 14434,
-    "Sort": 4425,
+    "Sort": 4426,
     "WeaponType": 10,
     "RankLevel": 4,
     "Name": "霜辰",
@@ -11863,11 +11863,6 @@
         "Value": 2301
       }
     ],
-    "CultivationItems": [
-      114080,
-      112142,
-      112127
-    ],
     "Affix": {
       "Name": "与君致意的黎明",
       "Descriptions": [
@@ -11892,6 +11887,11 @@
           "Description": "防御力提高<color=#99FFFFFF>32%</color>。装备者的元素战技或月结晶攻击命中敌人时，将获得持续6秒的「霜妖精的报恩」效果：装备者造成的岩元素伤害提升<color=#99FFFFFF>80%</color>，月结晶反应伤害提升<color=#99FFFFFF>80%</color>；持续期间，若装备者附近存在月笼，则队伍中附近的所有其他角色还会获得「霜妖精的恶戏」效果：造成的岩元素伤害提升<color=#99FFFFFF>40%</color>，月结晶反应伤害提升<color=#99FFFFFF>40%</color>。装备者处于队伍后台时，依然能触发上述效果。"
         }
       ]
-    }
+    },
+    "CultivationItems": [
+      114080,
+      112142,
+      112127
+    ]
   }
 ]

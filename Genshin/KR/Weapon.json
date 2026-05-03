@@ -4512,6 +4512,29 @@
     ]
   },
   {
+    "Id": 12505,
+    "PromoteId": 11101,
+    "Sort": 5204,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "고래 비녀",
+    "Description": "마신이 들고 있던 옥홀. 칠흑 같던 바다에 던져져 하늘을 뒤덮을 듯한 파도를 굴복시킨 적이 있다",
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 12510,
     "PromoteId": 12510,
     "Sort": 5206,
@@ -8475,7 +8498,7 @@
   {
     "Id": 14434,
     "PromoteId": 14434,
-    "Sort": 4425,
+    "Sort": 4426,
     "WeaponType": 10,
     "RankLevel": 4,
     "Name": "서릿빛 새벽",
@@ -11418,6 +11441,52 @@
     ]
   },
   {
+    "Id": 15504,
+    "PromoteId": 11101,
+    "Sort": 5503,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "곤오추룡",
+    "Description": "용을 죽일 수 있는 힘을 가지고 있는 큰 활. 활시위를 놓을 때의 기세는 벼락과도 같다",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
+    "Id": 15505,
+    "PromoteId": 11101,
+    "Sort": 5504,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "현려천균",
+    "Description": "고대 보옥으로 만들어진 일국을 수호할 수 있는 강한 활. 푸른빛 줄기가 모여 활시위가 됐다",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 15507,
     "PromoteId": 15507,
     "Sort": 5507,
@@ -11839,6 +11908,59 @@
       114012,
       112016,
       112037
+    ]
+  },
+  {
+    "Id": 15516,
+    "PromoteId": 15516,
+    "Sort": 5514,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "서리 맺힌 금빛 가지",
+    "Description": "오래된 하얀 나무로 만든 장궁. 먼 옛날 북쪽의 서리 요정의 왕이 소유했던 물건이다",
+    "Icon": "UI_EquipIcon_Bow_Alkonost",
+    "AwakenIcon": "UI_EquipIcon_Bow_Alkonost_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "여명의 인사",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "방어력이 <color=#99FFFFFF>16%</color> 증가한다. 장착 캐릭터가 원소전투 스킬 또는 달 결정 공격으로 적 명중 시, 6초 동안 지속되는 「서리 요정의 보은」 효과를 획득한다: 장착 캐릭터가 주는 바위 원소 피해가 <color=#99FFFFFF>40%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>40%</color> 증가한다. 지속 시간 동안 장착 캐릭터 주변에 달빛 조각이 존재할 경우, 파티 내 주변의 다른 모든 캐릭터가 추가로 「서리 요정의 장난」 효과를 획득한다: 주는 바위 원소 피해가 <color=#99FFFFFF>20%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>20%</color> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다"
+        },
+        {
+          "Level": 1,
+          "Description": "방어력이 <color=#99FFFFFF>20%</color> 증가한다. 장착 캐릭터가 원소전투 스킬 또는 달 결정 공격으로 적 명중 시, 6초 동안 지속되는 「서리 요정의 보은」 효과를 획득한다: 장착 캐릭터가 주는 바위 원소 피해가 <color=#99FFFFFF>50%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>50%</color> 증가한다. 지속 시간 동안 장착 캐릭터 주변에 달빛 조각이 존재할 경우, 파티 내 주변의 다른 모든 캐릭터가 추가로 「서리 요정의 장난」 효과를 획득한다: 주는 바위 원소 피해가 <color=#99FFFFFF>25%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>25%</color> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다"
+        },
+        {
+          "Level": 2,
+          "Description": "방어력이 <color=#99FFFFFF>24%</color> 증가한다. 장착 캐릭터가 원소전투 스킬 또는 달 결정 공격으로 적 명중 시, 6초 동안 지속되는 「서리 요정의 보은」 효과를 획득한다: 장착 캐릭터가 주는 바위 원소 피해가 <color=#99FFFFFF>60%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>60%</color> 증가한다. 지속 시간 동안 장착 캐릭터 주변에 달빛 조각이 존재할 경우, 파티 내 주변의 다른 모든 캐릭터가 추가로 「서리 요정의 장난」 효과를 획득한다: 주는 바위 원소 피해가 <color=#99FFFFFF>30%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>30%</color> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다"
+        },
+        {
+          "Level": 3,
+          "Description": "방어력이 <color=#99FFFFFF>28%</color> 증가한다. 장착 캐릭터가 원소전투 스킬 또는 달 결정 공격으로 적 명중 시, 6초 동안 지속되는 「서리 요정의 보은」 효과를 획득한다: 장착 캐릭터가 주는 바위 원소 피해가 <color=#99FFFFFF>70%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>70%</color> 증가한다. 지속 시간 동안 장착 캐릭터 주변에 달빛 조각이 존재할 경우, 파티 내 주변의 다른 모든 캐릭터가 추가로 「서리 요정의 장난」 효과를 획득한다: 주는 바위 원소 피해가 <color=#99FFFFFF>35%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>35%</color> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다"
+        },
+        {
+          "Level": 4,
+          "Description": "방어력이 <color=#99FFFFFF>32%</color> 증가한다. 장착 캐릭터가 원소전투 스킬 또는 달 결정 공격으로 적 명중 시, 6초 동안 지속되는 「서리 요정의 보은」 효과를 획득한다: 장착 캐릭터가 주는 바위 원소 피해가 <color=#99FFFFFF>80%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>80%</color> 증가한다. 지속 시간 동안 장착 캐릭터 주변에 달빛 조각이 존재할 경우, 파티 내 주변의 다른 모든 캐릭터가 추가로 「서리 요정의 장난」 효과를 획득한다: 주는 바위 원소 피해가 <color=#99FFFFFF>40%</color> 증가하고, 달 결정 반응 피해가 <color=#99FFFFFF>40%</color> 증가한다. 장착 캐릭터가 대기 상태일 때도 해당 효과는 발동된다"
+        }
+      ]
+    },
+    "CultivationItems": [
+      114080,
+      112142,
+      112127
     ]
   }
 ]

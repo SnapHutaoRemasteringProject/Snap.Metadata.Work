@@ -4512,6 +4512,29 @@
     ]
   },
   {
+    "Id": 12505,
+    "PromoteId": 11101,
+    "Sort": 5204,
+    "WeaponType": 11,
+    "RankLevel": 5,
+    "Name": "Primordial Jade Greatsword",
+    "Description": "A jade greatsword that once belonged to an Archon, and cast into the depths of the ocean to calm a monstrous storm.",
+    "Icon": "UI_EquipIcon_Claymore_Aniki",
+    "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 12510,
     "PromoteId": 12510,
     "Sort": 5206,
@@ -8475,7 +8498,7 @@
   {
     "Id": 14434,
     "PromoteId": 14434,
-    "Sort": 4425,
+    "Sort": 4426,
     "WeaponType": 10,
     "RankLevel": 4,
     "Name": "Dawning Frost",
@@ -11418,6 +11441,52 @@
     ]
   },
   {
+    "Id": 15504,
+    "PromoteId": 11101,
+    "Sort": 5503,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Kunwu's Wyrmbane",
+    "Description": "A greatbow made from dragon vein. It is so powerful that it could slay a dragon. A nocked arrow fires with the force of thunder.",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
+    "Id": 15505,
+    "PromoteId": 11101,
+    "Sort": 5504,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Primordial Jade Vista",
+    "Description": "A strong bow that was made from ancient jade, with a bowstring made from a single beam of converging light. Possesses enough power to protect a kingdom.",
+    "Icon": "UI_EquipIcon_Bow_Hunters",
+    "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 45.9364,
+        "Type": 4,
+        "Value": 1101
+      }
+    ],
+    "CultivationItems": [
+      114003,
+      112015,
+      112012
+    ]
+  },
+  {
     "Id": 15507,
     "PromoteId": 15507,
     "Sort": 5507,
@@ -11839,6 +11908,59 @@
       114012,
       112016,
       112037
+    ]
+  },
+  {
+    "Id": 15516,
+    "PromoteId": 15516,
+    "Sort": 5514,
+    "WeaponType": 12,
+    "RankLevel": 5,
+    "Name": "Golden Frostbound Oath",
+    "Description": "A longbow carved from ancient whitewood, once, in ages past, wielded by the Jack Frost King of the northern lands.",
+    "Icon": "UI_EquipIcon_Bow_Alkonost",
+    "AwakenIcon": "UI_EquipIcon_Bow_Alkonost_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 44.3358,
+        "Type": 4,
+        "Value": 1304
+      },
+      {
+        "InitValue": 0.192,
+        "Type": 22,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Dawn's Salutation Returned",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Increase DEF by <color=#99FFFFFF>16%</color>. When the equipping character's Elemental Skill or Lunar-Crystallize attacks hit opponents, gain the Frost Fae's Favor effect for 6s: Geo DMG inflicted by the equipping character increases by <color=#99FFFFFF>40%</color>, Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>40%</color>. While this effect is active, if there are Moondrifts near the equipping character, all other nearby party members will gain the Frost Fae's Mischief effect: Geo DMG dealt increases by <color=#99FFFFFF>20%</color> and Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>20%</color>. This effect can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 1,
+          "Description": "Increase DEF by <color=#99FFFFFF>20%</color>. When the equipping character's Elemental Skill or Lunar-Crystallize attacks hit opponents, gain the Frost Fae's Favor effect for 6s: Geo DMG inflicted by the equipping character increases by <color=#99FFFFFF>50%</color>, Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>50%</color>. While this effect is active, if there are Moondrifts near the equipping character, all other nearby party members will gain the Frost Fae's Mischief effect: Geo DMG dealt increases by <color=#99FFFFFF>25%</color> and Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>25%</color>. This effect can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 2,
+          "Description": "Increase DEF by <color=#99FFFFFF>24%</color>. When the equipping character's Elemental Skill or Lunar-Crystallize attacks hit opponents, gain the Frost Fae's Favor effect for 6s: Geo DMG inflicted by the equipping character increases by <color=#99FFFFFF>60%</color>, Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>60%</color>. While this effect is active, if there are Moondrifts near the equipping character, all other nearby party members will gain the Frost Fae's Mischief effect: Geo DMG dealt increases by <color=#99FFFFFF>30%</color> and Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>30%</color>. This effect can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 3,
+          "Description": "Increase DEF by <color=#99FFFFFF>28%</color>. When the equipping character's Elemental Skill or Lunar-Crystallize attacks hit opponents, gain the Frost Fae's Favor effect for 6s: Geo DMG inflicted by the equipping character increases by <color=#99FFFFFF>70%</color>, Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>70%</color>. While this effect is active, if there are Moondrifts near the equipping character, all other nearby party members will gain the Frost Fae's Mischief effect: Geo DMG dealt increases by <color=#99FFFFFF>35%</color> and Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>35%</color>. This effect can be triggered even when the equipping character is off-field."
+        },
+        {
+          "Level": 4,
+          "Description": "Increase DEF by <color=#99FFFFFF>32%</color>. When the equipping character's Elemental Skill or Lunar-Crystallize attacks hit opponents, gain the Frost Fae's Favor effect for 6s: Geo DMG inflicted by the equipping character increases by <color=#99FFFFFF>80%</color>, Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>80%</color>. While this effect is active, if there are Moondrifts near the equipping character, all other nearby party members will gain the Frost Fae's Mischief effect: Geo DMG dealt increases by <color=#99FFFFFF>40%</color> and Lunar-Crystallize Reaction DMG increases by <color=#99FFFFFF>40%</color>. This effect can be triggered even when the equipping character is off-field."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114080,
+      112142,
+      112127
     ]
   }
 ]
