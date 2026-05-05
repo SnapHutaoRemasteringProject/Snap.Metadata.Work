@@ -17556,160 +17556,6 @@
     ]
   },
   {
-    "Id": 129,
-    "Level": 0,
-    "AddProperties": [
-      {
-        "Type": 1,
-        "Value": 0
-      },
-      {
-        "Type": 7,
-        "Value": 0
-      },
-      {
-        "Type": 4,
-        "Value": 0
-      },
-      {
-        "Type": 22,
-        "Value": 0
-      }
-    ]
-  },
-  {
-    "Id": 129,
-    "Level": 1,
-    "AddProperties": [
-      {
-        "Type": 1,
-        "Value": 841.9073
-      },
-      {
-        "Type": 7,
-        "Value": 53.0955
-      },
-      {
-        "Type": 4,
-        "Value": 23.546604
-      },
-      {
-        "Type": 22,
-        "Value": 0
-      }
-    ]
-  },
-  {
-    "Id": 129,
-    "Level": 2,
-    "AddProperties": [
-      {
-        "Type": 1,
-        "Value": 1440.1045
-      },
-      {
-        "Type": 7,
-        "Value": 90.82125
-      },
-      {
-        "Type": 4,
-        "Value": 40.27709
-      },
-      {
-        "Type": 22,
-        "Value": 0.096
-      }
-    ]
-  },
-  {
-    "Id": 129,
-    "Level": 3,
-    "AddProperties": [
-      {
-        "Type": 1,
-        "Value": 2237.701
-      },
-      {
-        "Type": 7,
-        "Value": 141.12225
-      },
-      {
-        "Type": 4,
-        "Value": 62.584396
-      },
-      {
-        "Type": 22,
-        "Value": 0.192
-      }
-    ]
-  },
-  {
-    "Id": 129,
-    "Level": 4,
-    "AddProperties": [
-      {
-        "Type": 1,
-        "Value": 2835.8982
-      },
-      {
-        "Type": 7,
-        "Value": 178.848
-      },
-      {
-        "Type": 4,
-        "Value": 79.31488
-      },
-      {
-        "Type": 22,
-        "Value": 0.192
-      }
-    ]
-  },
-  {
-    "Id": 129,
-    "Level": 5,
-    "AddProperties": [
-      {
-        "Type": 1,
-        "Value": 3434.0955
-      },
-      {
-        "Type": 7,
-        "Value": 216.57375
-      },
-      {
-        "Type": 4,
-        "Value": 96.045364
-      },
-      {
-        "Type": 22,
-        "Value": 0.288
-      }
-    ]
-  },
-  {
-    "Id": 129,
-    "Level": 6,
-    "AddProperties": [
-      {
-        "Type": 1,
-        "Value": 4032.2927
-      },
-      {
-        "Type": 7,
-        "Value": 254.2995
-      },
-      {
-        "Type": 4,
-        "Value": 112.77585
-      },
-      {
-        "Type": 22,
-        "Value": 0.384
-      }
-    ]
-  },
-  {
     "Id": 130,
     "Level": 0,
     "AddProperties": [
@@ -17726,7 +17572,7 @@
         "Value": 0
       },
       {
-        "Type": 22,
+        "Type": 20,
         "Value": 0
       }
     ]
@@ -17737,18 +17583,18 @@
     "AddProperties": [
       {
         "Type": 1,
-        "Value": 841.9073
+        "Value": 660.44763
       },
       {
         "Type": 7,
-        "Value": 53.0955
+        "Value": 60.534
       },
       {
         "Type": 4,
-        "Value": 23.546604
+        "Value": 9.57828
       },
       {
-        "Type": 22,
+        "Type": 20,
         "Value": 0
       }
     ]
@@ -17759,19 +17605,19 @@
     "AddProperties": [
       {
         "Type": 1,
-        "Value": 1440.1045
+        "Value": 1129.7131
       },
       {
         "Type": 7,
-        "Value": 90.82125
+        "Value": 103.545
       },
       {
         "Type": 4,
-        "Value": 40.27709
+        "Value": 16.3839
       },
       {
-        "Type": 22,
-        "Value": 0.096
+        "Type": 20,
+        "Value": 0.048
       }
     ]
   },
@@ -17781,19 +17627,19 @@
     "AddProperties": [
       {
         "Type": 1,
-        "Value": 2237.701
+        "Value": 1755.4003
       },
       {
         "Type": 7,
-        "Value": 141.12225
+        "Value": 160.893
       },
       {
         "Type": 4,
-        "Value": 62.584396
+        "Value": 25.45806
       },
       {
-        "Type": 22,
-        "Value": 0.192
+        "Type": 20,
+        "Value": 0.096
       }
     ]
   },
@@ -17803,19 +17649,19 @@
     "AddProperties": [
       {
         "Type": 1,
-        "Value": 2835.8982
+        "Value": 2224.6658
       },
       {
         "Type": 7,
-        "Value": 178.848
+        "Value": 203.904
       },
       {
         "Type": 4,
-        "Value": 79.31488
+        "Value": 32.26368
       },
       {
-        "Type": 22,
-        "Value": 0.192
+        "Type": 20,
+        "Value": 0.096
       }
     ]
   },
@@ -17825,19 +17671,19 @@
     "AddProperties": [
       {
         "Type": 1,
-        "Value": 3434.0955
+        "Value": 2693.9312
       },
       {
         "Type": 7,
-        "Value": 216.57375
+        "Value": 246.915
       },
       {
         "Type": 4,
-        "Value": 96.045364
+        "Value": 39.0693
       },
       {
-        "Type": 22,
-        "Value": 0.288
+        "Type": 20,
+        "Value": 0.144
       }
     ]
   },
@@ -17847,19 +17693,19 @@
     "AddProperties": [
       {
         "Type": 1,
-        "Value": 4032.2927
+        "Value": 3163.1965
       },
       {
         "Type": 7,
-        "Value": 254.2995
+        "Value": 289.926
       },
       {
         "Type": 4,
-        "Value": 112.77585
+        "Value": 45.87492
       },
       {
-        "Type": 22,
-        "Value": 0.384
+        "Type": 20,
+        "Value": 0.192
       }
     ]
   },
