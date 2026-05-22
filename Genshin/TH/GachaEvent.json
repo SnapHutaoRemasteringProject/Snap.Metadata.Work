@@ -5454,5 +5454,61 @@
       14434,
       15401
     ]
+  },
+  {
+    "Name": "เพลงภาวนาใต้นภาเพลิง",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/250cbef3228f0e6c317f15b4098e2e9f_6261806771237384484_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/250cbef3228f0e6c317f15b4098e2e9f_6261806771237384484_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000131
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "แร่ขาวแปรสีชาด",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/0bc8464747a998d3ca71cb9baf139def_5960505975289486231_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/0bc8464747a998d3ca71cb9baf139def_5960505975289486231_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000123
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "สรรค์สร้างเซียน",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/aed4e2698b2ad090997534af0943600c_5323504649243944744_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/aed4e2698b2ad090997534af0943600c_5323504649243944744_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11518
+    ],
+    "UpPurpleList": [
+      11434,
+      12402,
+      13401,
+      14402,
+      15412
+    ]
   }
 ]

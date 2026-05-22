@@ -22661,6 +22661,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82309,
+    "Goal": 0,
+    "Order": 2309,
+    "PreviousId": 0,
+    "Title": "Đừng Phá Vỡ Bức Tường Đó",
+    "Description": "Tránh né sự trói buộc của màn chắn, phá vỡ ngục tù mà Dottore tạo ra.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -26690,6 +26707,159 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84382,
+    "Goal": 0,
+    "Order": 5157,
+    "PreviousId": 0,
+    "Title": "Tận Thế Dành Cho Dị Chủng",
+    "Description": "Thu thập đủ tất cả Tủy Cây Dị Chất.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84383,
+    "Goal": 0,
+    "Order": 5158,
+    "PreviousId": 0,
+    "Title": "Vết Mờ Trong Mắt, Không Hoa Loạn Lạc",
+    "Description": "Ở Sumeru, giấc mơ thường là điềm báo nguy hiểm.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84384,
+    "Goal": 0,
+    "Order": 5159,
+    "PreviousId": 0,
+    "Title": "Sóng Lớn Cuồn Cuộn, Bao Trùm Thân Ta",
+    "Description": "Sức mạnh của sự sống luôn hưởng ứng lẫn nhau.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84385,
+    "Goal": 0,
+    "Order": 5160,
+    "PreviousId": 0,
+    "Title": "Bút Đã Đưa Lên, Cuộn Giấy Đã Khô",
+    "Description": "Chia ly là cuộc hội ngộ dông dài.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84386,
+    "Goal": 0,
+    "Order": 5161,
+    "PreviousId": 0,
+    "Title": "Thân Thổ Tiêu Tan, Ngũ Uẩn Chuyển Biến",
+    "Description": "Hoàn thành \"Thân Thổ Tiêu Tan, Ngũ Uẩn Chuyển Biến\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84387,
+    "Goal": 0,
+    "Order": 5162,
+    "PreviousId": 0,
+    "Title": "Xuyên Qua Đồng Lau, Aaru Một Lối",
+    "Description": "Giành chiến thắng trong ván cờ với ba vị vua.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84388,
+    "Goal": 0,
+    "Order": 5163,
+    "PreviousId": 0,
+    "Title": "Đủ Để Lặn Biển Lớn, Đủ Để Đấu Quỷ Đạo",
+    "Description": "Tập hợp nguyện vọng của mọi người, dựa vào đó để giải cứu Sumeru.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84389,
+    "Goal": 0,
+    "Order": 5164,
+    "PreviousId": 0,
+    "Title": "Kiếp Hỏa Chói Lóa, Đại Ngàn Chưa Tận",
+    "Description": "Sau khi kiếp hỏa bùng cháy, ấy là bầu trời trong veo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84390,
+    "Goal": 0,
+    "Order": 5165,
+    "PreviousId": 0,
+    "Title": "Purana Hư Không Và Tro Tàn",
+    "Description": "Hoàn thành \"Purana Hư Không Và Tro Tàn\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84501,
     "Goal": 10,
     "Order": 4026,
@@ -26943,23 +27113,6 @@
     "Icon": "",
     "Version": "1.0",
     "IsDailyQuest": true
-  },
-  {
-    "Id": 84517,
-    "Goal": 0,
-    "Order": 4041,
-    "PreviousId": 0,
-    "Title": "Thiện giả thiện lai",
-    "Description": "Vạch trần tiểu thư Marjorie và nhận quà cảm ơn từ Jack.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "6.5",
-    "IsDailyQuest": false
   },
   {
     "Id": 84518,

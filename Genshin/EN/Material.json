@@ -2367,6 +2367,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Lohen's Stella Fortuna",
+    "Description": "Lohen's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2374,6 +2385,28 @@
     "Description": "Linnea's Constellation Activation Material",
     "TypeDescription": "Activates Constellation",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Nicole's Stella Fortuna",
+    "Description": "Nicole's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prune's Stella Fortuna",
+    "Description": "Prune's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3621,6 +3654,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Lohen's Stella Fortuna",
+    "Description": "Lohen's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3628,6 +3672,28 @@
     "Description": "Linnea's Constellation Activation Material",
     "TypeDescription": "Activates Constellation",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Nicole's Stella Fortuna",
+    "Description": "Nicole's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prune's Stella Fortuna",
+    "Description": "Prune's Constellation Activation Material",
+    "TypeDescription": "Activates Constellation",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -32206,6 +32272,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restores 70 Stamina.",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Stuffed Tofu with Minced Meat",
+    "Description": "A savory tofu dish stuffed with a succulent meat filling. The first time you try to pick up a piece, the tofu falls apart completely. The second time, the tofu and filling separate on the spot... Tempting as the aroma is, after failing twice in a row, you've completely lost the will to try again.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restores 85 Stamina.",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Stuffed Tofu with Minced Meat",
+    "Description": "A savory tofu dish stuffed with a succulent meat filling. Each block of tofu is hollowed out and packed with a perfectly seasoned minced meat, then seared until golden-brown before being braised in a rich, flavorful sauce. From humble, everyday ingredients emerges a taste of home, the most beloved and familiar comfort food found in every street and alleyway.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restores 100 Stamina.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Stuffed Tofu with Minced Meat",
+    "Description": "A savory tofu dish stuffed with a succulent meat filling. Four golden pieces sit neatly on a wide, gold-rimmed bone china plate. Steam rises in soft, fragrant curls, carrying an aroma that stirs the appetite at once. The tofu is finished in only a few bites, and the amber sauce left behind is too delicious to leave untouched — made to be poured over rice.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revives a character and restores 900 HP.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Mint Bubblegum",
+    "Description": "A soft, chewy candy. You brave the mint's powerful chill, puff up your cheeks, and with great effort finally blow a tiny bubble. Then, just before success is within reach, it leaks with a few sad little pffts, and the whole attempt is ruined...",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revives a character and restores 1,200 HP.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mint Bubblegum",
+    "Description": "A soft, chewy candy featuring a blend of two distinct flavors. With a bit of practice, you can blow impressively massive bubbles! Just watch out — if you push it too far and the bubble pops, you'll end up with a face full of sticky goo!",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revives a character and restores 1,500 HP.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Mint Bubblegum",
+    "Description": "A soft, chewy candy. Its fresh flavor glides smoothly down your throat, bringing an instantly cool and refreshing sensation. Better still, with a gentle puff, you can blow a clear, glossy bubble. A perfect little treat for passing the time!",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "Decreases all party members' climbing and sprinting Stamina consumption by 25% for 1500s. In Co-Op Mode, this effect only applies to your own character(s).",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Spinning Special",
+    "Description": "Prune's specialty. \"This Spinning Special is a game only grown-ups in Nod-Krai get to play! Hehe, I'll show you how it works.\" With a smug little flourish, she sets a drink-filled spinning tray in front of you. The juices are bright and colorful, sweet and delicious, but the moment you see the tray itself, your mind jumps to the words \"Roulette Special\"... Wait. Did she get the name wrong?",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restores 130 Stamina.",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gilded Chest",
+    "Description": "Nicole's specialty. \"Surprised? I already knew how to make this a long time ago. Well, back then...\" \"Lately, I heard from Mr. Nine that it's become popular again in Liyue...\" \"A treasure chest design, and a culinary icon all in one? I'm a genius...\" As a golden \"treasure chest\" is set before you, a flood of nonstop chatter instantly fills your mind... It could only be Nicole. Your head may be left buzzing from the barrage, but the delight on your taste buds is even more rewarding than opening a luxurious treasure chest.",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revives the selected character and restores 20% of Max HP, then restores an additional 1,500 HP.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Boredom-Busting Bubblegum",
+    "Description": "Lohen's specialty. Seeing that you were bored, he handed you a few candies and grandly claimed they'd help pass the time. After only a few chews, he suddenly pulled out a mirror and flashed it in front of you, looking entirely too pleased with himself. Oh no — it was a setup all along! Your tongue was already dyed a bright blue-green... So by \"help pass the time,\" he meant his own?",
+    "TypeDescription": "Food",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -35139,6 +35313,28 @@
     "ItemType": 2,
     "Name": "Recipe: Millhaven's Morning Plate",
     "Description": "A detailed step-by-step recipe for making Millhaven's Morning Plate.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recipe: Stuffed Tofu with Minced Meat",
+    "Description": "A detailed step-by-step recipe for making Stuffed Tofu with Minced Meat.",
+    "TypeDescription": "Recipe",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Recipe: Mint Bubblegum",
+    "Description": "A detailed step-by-step recipe for making Mint Bubblegum.",
     "TypeDescription": "Recipe",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -38162,6 +38358,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Counterfeit Resin",
+    "Description": "A resin recovered from the shattered depths of the Ley Lines after the defeat of the heretic hidden within Irminsul.\nOnce a crystal meant to bear the many beautiful memories that make up this world, it is now filled instead with delusions and malice that do not belong here.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Twisted Withered Branch",
+    "Description": "A withered branch recovered from the shattered depths of the Ley Lines after the defeat of the heretic hidden within Irminsul.\nA twisted bough grown from a giant tree meant to remain buried deep beneath the earth. Even cut off from its source, it still holds a strange and malevolent power.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Profaned Sprout",
+    "Description": "A sprig recovered from the shattered depths of the Ley Lines after the defeat of the heretic hidden within Irminsul.\nWhat should have been a bud of hope has now become a beacon of profanation. Through its spreading veins, the sinful tree continues to climb toward the sky.",
+    "TypeDescription": "Character Level-Up Material",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39830,6 +40059,28 @@
     "ItemType": 2,
     "Name": "Domain Reliquary: Tier I",
     "Description": "A reliquary used to hold artifacts. May the one who sees it be blessed.\n\nEach reliquary will grant an artifact from the following sets:\n· Aubade of Morningstar and Moon\n· A Day Carved From Rising Winds",
+    "TypeDescription": "Reliquary",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Domain Reliquary: Tier II",
+    "Description": "A reliquary used to hold artifacts. May the one who sees it be blessed.\n\nEach reliquary will grant an artifact from the following sets:\n·Celestial Gift\n·Disenchantment in Deep Shadow\n·Berserker\n·Instructor\n·The Exile",
+    "TypeDescription": "Reliquary",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Domain Reliquary: Tier I",
+    "Description": "A reliquary used to hold artifacts. May the one who sees it be blessed.\n\nEach reliquary will grant an artifact from the following sets:\n·Celestial Gift\n·Disenchantment in Deep Shadow",
     "TypeDescription": "Reliquary",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52563,6 +52814,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohen's \"Friendship Fee\"",
+    "Description": "A heavy Mora pouch, its opening shimmering with the golden glow of \"friendship.\"",
+    "TypeDescription": "Consumable",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohen's \"Friendship Fee\"",
+    "Description": "A now-empty Mora pouch, its opening once shimmered with the golden glow of \"friendship.\"",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52612,7 +52885,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "The Dream of Rhonabwy",
+    "Name": "The Dream of Rhonabouillet",
     "Description": "A book of poetry from Lenormand Publishing. It tells the story of a protagonist who travels back in time and falls in love with a maid at the court of the Lochknight.",
     "TypeDescription": "Quest Item",
     "Icon": "UI_ItemIcon_100178"
@@ -52634,7 +52907,7 @@
     "Id": 121563,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "The Canon of Love, Divine Inspiration, and Virtue",
+    "Name": "Revelations of Divine Love",
     "Description": "A book of poetry said to have been composed by a priest of the ancient Church of Favonius under the guidance of the Anemo Archon. The work reflects on the distinction between the love of the gods and human love, and ultimately concludes that human compassion, friendship, and romantic affection are all inherently imbued with the sacred, for they all arise from the same longing for freedom.",
     "TypeDescription": "Quest Item",
     "Icon": "UI_ItemIcon_100182"
@@ -52649,6 +52922,72 @@
     "Description": "Note",
     "TypeDescription": "Quest Item",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anomalous Tree Marrow I",
+    "Description": "Suspected to be a resinous concretion exuded from Irminsul's incinerated trunk. Its form is peculiar, and where it remains exposed, a baleful light emanates from within.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anomalous Tree Marrow II",
+    "Description": "Suspected to be a resinous concretion exuded from Irminsul's incinerated trunk. Its form is peculiar, and where it remains exposed, a baleful light emanates from within.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anomalous Tree Marrow III",
+    "Description": "Suspected to be a resinous concretion exuded from Irminsul's incinerated trunk. Its form is peculiar, and where it remains exposed, a baleful light emanates from within.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anomalous Tree Marrow",
+    "Description": "Suspected to be a resinous concretion exuded from Irminsul's incinerated trunk. Its form is peculiar, and where it remains exposed, a baleful light emanates from within.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Dango Milk \"Infused With Magic\"",
+    "Description": "A bottle of dango milk that looks ordinary and, in fact, is ordinary. According to Prune, however, she won it from a witch, so she believes it's anything but your average dango milk!",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Primal Construct Component",
+    "Description": "Commissioned by Nahida and Grand Sage Naphis, Alhaitham and Kaveh are undertaking an urgent project. As the next phase requires a vast supply of materials, they have turned to the Primal Constructs within The Mausoleum of King Deshret as the ideal source. Their ancient technology and high-grade components will be dismantled into microscopic parts, then reconfigured for a new environment.",
+    "TypeDescription": "Quest Item",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -53768,7 +54107,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Cerulean Doppeldrake",
-    "Description": "A large fish rumored to be a descendant of dragons.\nA branch member of the Koi family, its body is primarily a deep, somber bluish-black, contrasted by a striking pale-gold underbelly. Compared to its many cousins, this species is exceptionally mild and tempered. It never initiates conflict with other aquatic life. However, this should not be mistaken for weakness. When provoked, they can erupt in a sudden strike as fierce and direct as a golden spear, swiftly repelling intruders several times their size and leaving the entire surrounding waters in awe.",
+    "Description": "A large fish rumored to be a descendant of dragons.\nA branch member of the Koi family, its body is primarily a deep, somber bluish-black, contrasted by a striking pale-gold underbelly. Compared to its many cousins, this species is exceptionally mild-tempered. It never initiates conflict with other aquatic life. However, this should not be mistaken for weakness. When provoked, they can erupt in a sudden strike as fierce and direct as a golden spear, swiftly repelling intruders several times their size and leaving the entire surrounding waters in awe.",
     "TypeDescription": "Fish",
     "Icon": "UI_ItemIcon_131053"
   },
@@ -59851,7 +60190,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Secret Research Lab",
-    "Description": "A detailed step-by-step blueprint for making a \"Secret Research Lab.\"\nA plain old alchemy workshop. Take out the specialized, intricate apparatus and it would look just like any other study, but for the collection of books on the shelves, the reagents in their containers, and the various experimental samples marked \"Do Not Open,\" the uses of which can only be wildly guessed at by the uninitiated. An incident is probably unavoidable should some curious cat fail to heed this instruction.\nAfter actual cats that mistakenly entered the workshop caused two such alchemical potion accidents, the Knights of Favonius Investigation Team would place strict entry-exit regulations on alchemy workshops within the city. A great number of the strange rumors concerning alchemy were also born around this time, causing no small number of headaches for researchers just trying to concentrate on their work.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Klee, Sucrose, Albedo, Lisa",
+    "Description": "A detailed step-by-step blueprint for making a \"Secret Research Lab.\"\nA plain old alchemy workshop. Take out the specialized, intricate apparatus and it would look just like any other study, but for the collection of books on the shelves, the reagents in their containers, and the various experimental samples marked \"Do Not Open,\" the uses of which can only be wildly guessed at by the uninitiated. An incident is probably unavoidable should some curious cat fail to heed this instruction.\nAfter actual cats that mistakenly entered the workshop caused two such alchemical potion accidents, the Knights of Favonius Investigation Team would place strict entry-exit regulations on alchemy workshops within the city. A great number of the strange rumors concerning alchemy were also born around this time, causing no small number of headaches for researchers just trying to concentrate on their work.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Klee, Sucrose, Albedo, Lisa, Prune",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59939,7 +60278,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Of Hunting and Dancing",
-    "Description": "A detailed step-by-step blueprint for making \"Of Hunting and Dancing.\"\nAn encampment set up with some skill that has referenced the famed writings of the researcher Musk to recreate a hilichurl dwelling, and which can be used to study their living habits.\nThey say that in the past, the Knights of Favonius would set up such camps and engage in detailed planning, led by the Outriders, ahead of expeditions against monsters. The seafaring Crux Fleet also tends to set sand tables up in a similar fashion based on various sources of intelligence to simulate boarding an island and clearing it of monsters.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Amber, Sucrose, Klee, Beidou, Aloy",
+    "Description": "A detailed step-by-step blueprint for making \"Of Hunting and Dancing.\"\nAn encampment set up with some skill that has referenced the famed writings of the researcher Musk to recreate a hilichurl dwelling, and which can be used to study their living habits.\nThey say that in the past, the Knights of Favonius would set up such camps and engage in detailed planning, led by the Outriders, ahead of expeditions against monsters. The seafaring Crux Fleet also tends to set sand tables up in a similar fashion based on various sources of intelligence to simulate boarding an island and clearing it of monsters.\nAfter using this item, you can view it in the Placement Screen.\nThis Furnishing Set is favored by the following companions: Amber, Sucrose, Klee, Beidou, Aloy, Lohen",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60544,7 +60883,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "A Comfy Room for Guests From Near and Far",
-    "Description": "A fully furnished room, inspired by the guest rooms at The Flagship, the largest tavern in Nasha Town. Targeted improvements have been made to better meet the needs of its occupants.\nThe guests of The Flagship come from a variety of backgrounds, each with their own idea of what \"comfort\" means. Striking a balance between all these different expectations is no easy task. Eventually, The Flagship settled on a unique solution: furnish its rooms with every amenity a client might possibly need, then remove the unneeded items based on their feedback. Although the room may feel a little cluttered as a result, it provides everything a guest could need, allowing them to find comfort in their own way.",
+    "Description": "A fully furnished room, inspired by the guest rooms at The Flagship, the largest tavern in Nasha Town. Targeted improvements have been made to better meet the needs of its occupants.\nThe guests of The Flagship come from a variety of backgrounds, each with their own idea of what \"comfort\" means. Striking a balance between all these different expectations is no easy task. Eventually, The Flagship settled on a unique solution: furnish its rooms with every amenity a client might possibly need, then remove the unneeded items based on their feedback. Although the room may feel a little cluttered as a result, it provides everything a guest could need, allowing them to find comfort in their own way.\nThis Furnishing Set is favored by the following companions: Linnea, Nicole",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60599,7 +60938,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Wilderness of the Far North",
-    "Description": "A wilderness that brings together vegetation and landforms that are commonly seen in Nod-Krai, particularly an authentic recreation of the unique landscape of Hiisi Island.\nNod-Krai enjoys an abundance of kuuvahki, which in turn has given rise to brightly colored plants, creatures with distinctive habits, and landforms of unusual shapes. For naturalists, this area holds countless treasures of new knowledge, while for ordinary tourists, it offers wondrous sights that demand a pause to admire.\nThis Furnishing Set is favored by the following companions: Durin",
+    "Description": "A wilderness that brings together vegetation and landforms that are commonly seen in Nod-Krai, particularly an authentic recreation of the unique landscape of Hiisi Island.\nNod-Krai enjoys an abundance of kuuvahki, which in turn has given rise to brightly colored plants, creatures with distinctive habits, and landforms of unusual shapes. For naturalists, this area holds countless treasures of new knowledge, while for ordinary tourists, it offers wondrous sights that demand a pause to admire.\nThis Furnishing Set is favored by the following companions: Durin, Linnea, Nicole",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60610,7 +60949,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Bustling Border Town",
-    "Description": "A regional landscape centered on various distinctive buildings, with shops of various kinds. It is a perfect re-creation of a corner of Nasha Town.\nIt is said that Nasha Town differs from other cities in that it has no true administrator and no clear planning structure. This has led to countless narrow passages and scarcely noticed gaps emerging between the town's buildings. For most residents, these passages are merely conduits for noise. For those focused on gathering information, however, they serve as pathways for the spread of secrets and shortcuts for ease of travel.\nThis Furnishing Set is favored by the following companions: Nefer, Jahoda, Varka",
+    "Description": "A regional landscape centered on various distinctive buildings, with shops of various kinds. It is a perfect re-creation of a corner of Nasha Town.\nIt is said that Nasha Town differs from other cities in that it has no true administrator and no clear planning structure. This has led to countless narrow passages and scarcely noticed gaps emerging between the town's buildings. For most residents, these passages are merely conduits for noise. For those focused on gathering information, however, they serve as pathways for the spread of secrets and shortcuts for ease of travel.\nThis Furnishing Set is favored by the following companions: Nefer, Jahoda, Varka, Lohen, Prune",
     "TypeDescription": "Furnishing Set Blueprint",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74955,6 +75294,17 @@
     "ItemType": 2,
     "Name": "\"All Fangs and Snarls\"",
     "Description": "A detailed step-by-step blueprint for making \"All Fangs and Snarls.\"\nAfter using this item, you can view it in the Creation Screen.",
+    "TypeDescription": "Furnishing Blueprint",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Miniature Stonecraft\"",
+    "Description": "A detailed step-by-step blueprint for making \"Miniature Stonecraft\".\nAfter using this item, you can view it in the Creation Screen.",
     "TypeDescription": "Furnishing Blueprint",
     "Icon": "UI_ItemIcon_Home_Common"
   }

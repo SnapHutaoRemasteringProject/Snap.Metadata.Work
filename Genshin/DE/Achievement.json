@@ -22661,6 +22661,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82309,
+    "Goal": 0,
+    "Order": 2309,
+    "PreviousId": 0,
+    "Title": "„Zerstöre jene Wand nicht.“",
+    "Description": "Umgehe die Fesseln der Barrieren und zerstöre das von Il Dottore errichtete Gefängnis.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -26690,6 +26707,159 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84382,
+    "Goal": 0,
+    "Order": 5157,
+    "PreviousId": 0,
+    "Title": "Ein Ende für die Fremdartigen",
+    "Description": "Sammle das gesamte „Fremdartige Baummark“.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84383,
+    "Goal": 0,
+    "Order": 5158,
+    "PreviousId": 0,
+    "Title": "Mit einem Schleier im Auge erblühen die Illusionen",
+    "Description": "Träume sind in Sumeru häufig Vorboten von Gefahr.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84384,
+    "Goal": 0,
+    "Order": 5159,
+    "PreviousId": 0,
+    "Title": "Unter den tobenden Wogen versinkt das Selbst",
+    "Description": "Die Kräfte des Lebens werden stets ihren Widerhall finden.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84385,
+    "Goal": 0,
+    "Order": 5160,
+    "PreviousId": 0,
+    "Title": "Die Feder erhoben, die Schriftrollen getrocknet",
+    "Description": "Ein Abschied ist nichts anderes als ein aufgeschobenes Wiedersehen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84386,
+    "Goal": 0,
+    "Order": 5161,
+    "PreviousId": 0,
+    "Title": "Wenn alles in die Leere fällt",
+    "Description": "Schließ „Wenn alles in die Leere fällt“ ab.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84387,
+    "Goal": 0,
+    "Order": 5162,
+    "PreviousId": 0,
+    "Title": "Durch die Schilffelder, Aaru enthüllt",
+    "Description": "Schlage die drei Könige beim Schach.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84388,
+    "Goal": 0,
+    "Order": 5163,
+    "PreviousId": 0,
+    "Title": "Die Tiefen bezwungen, die Strategie gemeistert",
+    "Description": "Sammle die Wünsche aller, um Sumeru zu retten.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84389,
+    "Goal": 0,
+    "Order": 5164,
+    "PreviousId": 0,
+    "Title": "Die Kalpa-Flamme lodert, die Welt bleibt unbefleckt",
+    "Description": "Jenseits der Asche der Kalpa-Flamme bleibt der unberührte Himmel bestehen.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84390,
+    "Goal": 0,
+    "Order": 5165,
+    "PreviousId": 0,
+    "Title": "Wahrheit zwischen den Seiten von Purana",
+    "Description": "Schließ „Wahrheit zwischen den Seiten von Purana“ ab.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84501,
     "Goal": 10,
     "Order": 4026,
@@ -26943,23 +27113,6 @@
     "Icon": "",
     "Version": "1.0",
     "IsDailyQuest": true
-  },
-  {
-    "Id": 84517,
-    "Goal": 0,
-    "Order": 4041,
-    "PreviousId": 0,
-    "Title": "Gutes mit Gutem begleichen",
-    "Description": "Entlarve Marjorie und erhalte Jacks Dank.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "6.5",
-    "IsDailyQuest": false
   },
   {
     "Id": 84518,

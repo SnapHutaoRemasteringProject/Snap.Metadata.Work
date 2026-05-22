@@ -182,7 +182,7 @@
     "RankLevel": 2,
     "ItemType": 2,
     "Name": "Esencia original (obsoleto)",
-    "Description": "Puede ser usado para revitalizar temporalmente el Irminsul. Se pueden obtener antiguos tesoros a través de él. La Energía se recupera lentamente cada cierto periodo de tiempo.",
+    "Description": "Puede ser usado para revitalizar temporalmente árboles de Irminsul. Se pueden obtener antiguos tesoros a través de él. La Energía se recupera lentamente cada cierto periodo de tiempo.",
     "TypeDescription": "Artículo de resultado de desafío",
     "Icon": "UI_ItemIcon_211"
   },
@@ -193,7 +193,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Resina original (obsoleto)",
-    "Description": "Puede ser usado para revitalizar temporalmente el Irminsul. Se pueden obtener generosos tesoros a través de él. La Energía se recupera lentamente cada cierto periodo de tiempo.",
+    "Description": "Puede ser usado para revitalizar temporalmente árboles de Irminsul. Se pueden obtener generosos tesoros a través de él. La Energía se recupera lentamente cada cierto periodo de tiempo.",
     "TypeDescription": "Artículo de resultado de desafío",
     "Icon": "UI_ItemIcon_211"
   },
@@ -2224,6 +2224,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Lohen",
+    "Description": "Material de activación de constelación de Lohen.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2231,6 +2242,28 @@
     "Description": "Material de activación de constelación de Linnéa.",
     "TypeDescription": "Activación de constelación",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Nicole",
+    "Description": "Material de activación de constelación de Nicole.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Prune",
+    "Description": "Material de activación de constelación de Prune.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3478,6 +3511,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Lohen",
+    "Description": "Material de activación de constelación de Lohen.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3485,6 +3529,28 @@
     "Description": "Material de activación de constelación de Linnéa.",
     "TypeDescription": "Activación de constelación",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Nicole",
+    "Description": "Material de activación de constelación de Nicole.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Prune",
+    "Description": "Material de activación de constelación de Prune.",
+    "TypeDescription": "Activación de constelación",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -32052,6 +32118,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 70 pts. de Aguante.",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu relleno de carne picada extraño",
+    "Description": "Un plato de tofu relleno de carne. Al tratar de tomar un trozo con los palillos, el tofu se desmorona por completo. La segunda vez, el relleno se separa... Puede que el aroma resulte tentador, pero tras tantos intentos fallidos, la motivación de probarlo se desvanece.",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 85 pts. de Aguante.",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu relleno de carne picada",
+    "Description": "Un plato de tofu relleno de carne. Cada trozo de tofu está ahuecado y relleno de una carne picada especiada a la perfección. Primero se fríe hasta que adquiere un color dorado, y luego se estofa con una deliciosa y densa salsa. De unos ingredientes comunes y sencillos, nace el sabor del hogar, una comida familiar y bien recibida en todas partes de la ciudad.",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 100 pts. de Aguante.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu relleno de carne picada delicioso",
+    "Description": "Un plato de tofu relleno de carne. Los cuatro trozos dorados de tofu relleno se han dispuesto ordenadamente en un amplio plato de porcelana con bordes áureos. El vapor se alza, transportando un aroma sabroso que te despierta el apetito en un instante. El tofu desaparece en unos pocos bocados, y la salsa color ámbar que queda atrás es demasiado deliciosa como para no mezclarla con arroz.",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive a un personaje y restaura 900 pts. de su Vida.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chicles de menta extraños",
+    "Description": "Unas golosinas blandas y chiclosas. Tras luchar contra el intenso frescor de la menta, hinchas las mejillas y finalmente logras hacer una pequeña burbuja. Pero, justo en el último momento, esta revienta con un triste sonido al desinflarse y todo tu esfuerzo resulta en vano...",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive a un personaje y restaura 1200 pts. de su Vida.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chicles de menta",
+    "Description": "Unas golosinas blandas y chiclosas que presentan una mezcla de dos sabores diferentes. Con un poco de práctica, ¡podrás hacer pompas enormes! Pero ten cuidado... Si soplas demasiado fuerte y la pompa estalla, ¡acabarás con la cara entera cubierta de esa sustancia pegajosa!",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive a un personaje y restaura 1500 pts. de su Vida.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chicles de menta deliciosos",
+    "Description": "Unas golosinas blandas y chiclosas. Su fresco sabor se desliza por la garganta, dejando tras de sí una sensación refrescante. Y lo mejor de todo: con solo soplar suavemente, puedes hacer una pompa perfecta. ¡La forma ideal de pasar el rato!",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "#Disminuye en un 25% el Coste de Aguante de todos los miembros del equipo al escalar y esprintar durante 1500{NON_BREAK_SPACE}s. En modo multijugador, solo tendrá efecto en tus propios personajes.",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Bebidas “gira-gira”",
+    "Description": "La especialidad de Prune. “¡Las bebidas ‘gira-gira’ son un juego al que solo los adultos de Nod Krai pueden jugar! Jeje, te enseñaré cómo funciona”. Con una sonrisilla un tanto petulante, dispone una bandeja giratoria llena de bebidas frente a ti. Los jugos son coloridos, brillantes y dulces, pero el diseño te recuerda de inmediato a una ruleta de bebidas... Un momento, ¿acaso se habrá equivocado de nombre?",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 130 pts. de Aguante.",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Cofre dorado",
+    "Description": "#La especialidad de Nicole. “¿Sorprendid{F#a}{M#o}? Aprendí a preparar esto hace mucho tiempo. Bueno, en aquel entonces...”. “Hace poco, el Sr. Noveno me contó que se ha vuelto popular de nuevo en Liyue...”. “El diseño de un cofre del tesoro, ¿y una guía a la buena comida? ¡Qué lista soy!...”. Tras presentarte un cofre dorado, un torrente de palabras inunda tu mente... ¡Pero así es Nicole! Puede que la cabeza empiece a darte vueltas, pero la satisfacción que sienten tus pupilas gustativas resulta una sensación incluso más maravillosa que al abrir un cofre lujoso.",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive a un personaje y restaura un 20% de la Vida Máx. más 1500 pts. de Vida adicionales.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chicles antitedio",
+    "Description": "#La especialidad de Lohen. Al verte sumid{F#a}{M#o} en el tedio, te ofrece unos cuantos chicles, asegurando que podrán animarte. Tras mascar un poco, saca un espejo y lo pone frente a ti con una sonrisa traviesa. Oh, no. ¡Te la ha jugado! Ya tienes la lengua completamente teñida de verde... ¿Así era como pensaba animarte? ¿O tan solo pretendía divertirse a tu costa?",
+    "TypeDescription": "Comida",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -34985,6 +35159,28 @@
     "ItemType": 2,
     "Name": "Receta: mañana en Villamolino",
     "Description": "Receta paso a paso para hacer “mañana en Villamolino”.",
+    "TypeDescription": "Receta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Receta: tofu relleno de carne picada",
+    "Description": "Receta paso a paso para hacer tofu relleno de carne picada.",
+    "TypeDescription": "Receta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Receta: chicles de menta",
+    "Description": "Receta paso a paso para hacer chicles de menta.",
     "TypeDescription": "Receta",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -38008,6 +38204,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Resina falsa",
+    "Description": "Un trozo de resina recogido de las profundidades de las líneas ley destrozadas tras derrotar al hereje que se escondía en el interior del Irminsul.\nEn un pasado, fue un cristal que debía albergar los recuerdos más hermosos que forman este mundo, pero ahora está repleto de unos engaños y una maldad que no pertenecen a este lugar.",
+    "TypeDescription": "Material de mejora de personaje",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Rama marchita retorcida",
+    "Description": "Una rama marchita recogida de las profundidades de las líneas ley destrozadas tras derrotar al hereje que se escondía en el interior del Irminsul.\nSe trata de una rama retorcida que creció de un gran árbol que debía permanecer oculto en las profundidades de la tierra. Incluso tras ser arrancada, continúa poseyendo un poder extraño y malévolo.",
+    "TypeDescription": "Material de mejora de personaje",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Brote blasfemo",
+    "Description": "Un brote recogido de las profundidades de las líneas ley destrozadas tras derrotar al hereje que se escondía en el interior del Irminsul.\nUn brote que debería haber simbolizado la esperanza, pero que ahora es un foco de blasfemia. A través de su nervadura, este árbol corrupto continúa su incesante ascenso hacia los cielos.",
+    "TypeDescription": "Material de mejora de personaje",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39676,6 +39905,28 @@
     "ItemType": 2,
     "Name": "Cofre de artefactos de los dominios - Categoría 1",
     "Description": "Una reliquia obtenida de un cofre de artefactos. Que aquel que lo encuentre reciba un milagro.\n\nDe cada cofre se puede obtener una pieza de alguno de los siguientes conjuntos:\n·Alborada de la Estrella del Alba y la Luna\n·Día de los Vientos Alzantes",
+    "TypeDescription": "Cofre de artefactos",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Cofre de artefactos de los dominios - Categoría 2",
+    "Description": "Una reliquia obtenida de un cofre de artefactos. Que aquel que lo encuentre sea bendecido.\n\nDe cada cofre se puede obtener una pieza de alguno de los siguientes conjuntos:\n·Dádiva Celestial\n·Desilusión Congelada en las Sombras\n·Berserker\n·Instructor\n·Exiliado",
+    "TypeDescription": "Cofre de artefactos",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Cofre de artefactos de los dominios - Categoría 1",
+    "Description": "Una reliquia obtenida de un cofre de artefactos. Que aquel que lo encuentre reciba un milagro.\n\nDe cada cofre se puede obtener una pieza de alguno de los siguientes conjuntos:\n·Dádiva Celestial\n·Desilusión Congelada en las Sombras",
     "TypeDescription": "Cofre de artefactos",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52409,6 +52660,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "“Cuota de amigos” de Lohen",
+    "Description": "Un pesado saco lleno de Moras, que deja ver el reluciente y dorado brillo de la “amistad” en su interior.",
+    "TypeDescription": "Consumible",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "“Cuota de amigos” de Lohen",
+    "Description": "Un saco de Moras que ya ha sido vaciado. En el pasado, podía verse el reluciente y dorado brillo de la “amistad” en su interior.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52458,7 +52731,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "El sueño de Rhonabwy",
+    "Name": "El sueño de Rhonabouillet",
     "Description": "Un poemario publicado por la Editorial Lenormand. Narra la historia de su protagonista, que viaja en el tiempo hasta el pasado y se enamora de una dama en la corte de los Caballeros Aguapura.",
     "TypeDescription": "Objeto de misión",
     "Icon": "UI_ItemIcon_100178"
@@ -52480,7 +52753,7 @@
     "Id": 121563,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Códice del amor, la palabra divina y la virtud",
+    "Name": "Revelaciones del amor divino",
     "Description": "Dicen que se trata de una colección de poemas escrita por un sacerdote de la antigua Iglesia de Favonius siguiendo la palabra del Arconte Anemo. Principalmente, contiene reflexiones sobre la diferencia entre el amor divino y el amor humano, y concluye que el amor al prójimo, la amistad y el amor romántico de los humanos nacen del anhelo por la libertad, por lo que estos tipos de amor son sagrados por naturaleza.",
     "TypeDescription": "Objeto de misión",
     "Icon": "UI_ItemIcon_100182"
@@ -52495,6 +52768,72 @@
     "Description": "Una nota.",
     "TypeDescription": "Objeto de misión",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Médula de árbol anómala (I)",
+    "Description": "Parece ser algún tipo de resina solidificada. Fue extraída del tronco calcinado del Irminsul y presenta una forma anómala. La parte que no está cubierta por la resina emana un brillo siniestro.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Médula de árbol anómala (II)",
+    "Description": "Parece ser algún tipo de resina solidificada. Fue extraída del tronco calcinado del Irminsul y presenta una forma anómala. La parte que no está cubierta por la resina emana un brillo siniestro.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Médula de árbol anómala (III)",
+    "Description": "Parece ser algún tipo de resina solidificada. Fue extraída del tronco calcinado del Irminsul y presenta una forma anómala. La parte que no está cubierta por la resina emana un brillo siniestro.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Médula de árbol anómala",
+    "Description": "Parece ser algún tipo de resina solidificada. Fue extraída del tronco calcinado del Irminsul y presenta una forma anómala. La parte que no está cubierta por la resina emana un brillo siniestro.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Leche de dango con un “aura mágica”",
+    "Description": "Una botella de leche de dango que parece normal y, de hecho, lo es. Según Prune, es un botín que obtuvo de manos de una bruja, por lo que está convencida de que no puede ser una leche de dango común y corriente.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Componente de Creación Primigenia",
+    "Description": "Alhacén y Kaveh han sido enviados por la Arconte Dendro Nahida y el Gran Sabio Nafís para llevar a cabo un proyecto de ingeniería urgente, y la siguiente fase requiere una gran cantidad de materiales. En las profundidades del Mausoleo del Rey Deshret, no hay nada más idóneo que los materiales de los que están compuestas las Creaciones Primigenias. Su tecnología ancestral y sus componentes de primera serán desmontados en piezas diminutas para después volver a cobrar forma en un entorno completamente nuevo.",
+    "TypeDescription": "Objeto de misión",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -59697,7 +60036,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Instituto de las artes secretas",
-    "Description": "Plano detallado para colocar Instituto de las artes secretas.\nUn taller de alquimia normal y corriente. Si se obvian los intrincados aparatos especializados, es como cualquier otro estudio. Bueno, a excepción de los libros que hay en las estanterías, los reactivos de los recipientes y las muestras experimentales en las que está escrito “No abrir” y cuyos usos las personas comunes no pueden ni imaginar. Si algún curioso hiciera caso omiso de los avisos, sería inevitable que ocurriera un accidente.\nDespués de que un gato que entró por error al taller causara dos “crisis de las pociones”, la Compañía de Investigación de los Caballeros de Favonius impuso un estricto control de acceso en los talleres de alquimia de la ciudad. La mayoría de los extraños rumores en torno a la alquimia también surgieron a raíz de esos incidentes y causaron muchas molestias a los investigadores dedicados.\nTras usarlo, entra en el menú de colocación para verlo.\nLos siguientes acompañantes prefieren este conjunto: Klee, Sacarosa, Albedo, Lisa.",
+    "Description": "Plano detallado para colocar Instituto de las artes secretas.\nUn taller de alquimia normal y corriente. Si se obvian los intrincados aparatos especializados, es como cualquier otro estudio. Bueno, a excepción de los libros que hay en las estanterías, los reactivos de los recipientes y las muestras experimentales en las que está escrito “No abrir” y cuyos usos las personas comunes no pueden ni imaginar. Si algún curioso hiciera caso omiso de los avisos, sería inevitable que ocurriera un accidente.\nDespués de que un gato que entró por error al taller causara dos “crisis de las pociones”, la Compañía de Investigación de los Caballeros de Favonius impuso un estricto control de acceso en los talleres de alquimia de la ciudad. La mayoría de los extraños rumores en torno a la alquimia también surgieron a raíz de esos incidentes y causaron muchas molestias a los investigadores dedicados.\nTras usarlo, entra en el menú de colocación para verlo.\nLos siguientes acompañantes prefieren este conjunto: Klee, Sacarosa, Albedo, Lisa y Prune.",
     "TypeDescription": "Plano de conjunto de decoración",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59785,7 +60124,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cánticos de cazadores",
-    "Description": "Plano detallado para colocar Cánticos de cazadores.\nUn campamento erigido con cierta habilidad y que se basa en las afamadas obras del investigador Musk para recrear un asentamiento Hilichurl. Puede usarse para estudiar los hábitos de estas criaturas.\nSe dice que, en el pasado, los Caballeros de Favonius montaban campamentos así y realizaban exploraciones minuciosas antes de lanzar una expedición para luchar contra monstruos. La Flota Crux Meridianam, normalmente en alta mar, utiliza información de distintas fuentes para montar una recreación parecida y ensayar la conquista y eliminación de monstruos de una isla.\nTras usarlo, entra en el menú de colocación para verlo.\nLos siguientes acompañantes prefieren este conjunto: Amber, Sacarosa, Klee, Beidou, Aloy.",
+    "Description": "Plano detallado para colocar Cánticos de cazadores.\nUn campamento erigido con cierta habilidad y que se basa en las afamadas obras del investigador Musk para recrear un asentamiento Hilichurl. Puede usarse para estudiar los hábitos de estas criaturas.\nSe dice que, en el pasado, los Caballeros de Favonius montaban campamentos así y realizaban exploraciones minuciosas antes de lanzar una expedición para luchar contra monstruos. La Flota Crux Meridianam, normalmente en alta mar, utiliza información de distintas fuentes para montar una recreación parecida y ensayar la conquista y eliminación de monstruos de una isla.\nTras usarlo, entra en el menú de colocación para verlo.\nLos siguientes acompañantes prefieren este conjunto: Amber, Sacarosa, Klee, Beidou, Aloy y Lohen.",
     "TypeDescription": "Plano de conjunto de decoración",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60390,7 +60729,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Habitación acogedora para huéspedes de todo el mundo",
-    "Description": "Un dormitorio completamente amueblado, inspirado en el diseño de las habitaciones del Buque Insignia, la taberna más grande de la Villa Nasha, y optimizado según las necesidades de sus huéspedes.\nLos clientes de la taberna provienen de lugares muy diversos y cada uno tiene su propia definición de comodidad. No fue fácil encontrar un equilibrio entre tantas expectativas diferentes, así que el Buque Insignia optó por una solución única: equipar las habitaciones con todo lo que un huésped pudiera necesitar y luego ir quitando lo que considerara innecesario. Aunque la distribución resulta algo abarrotada por la cantidad de mobiliario, la ventaja es que está equipada con todo lo necesario, permitiendo que cada huésped encuentre su propia versión de comodidad.",
+    "Description": "Un dormitorio completamente amueblado, inspirado en el diseño de las habitaciones del Buque Insignia, la taberna más grande de la Villa Nasha, y optimizado según las necesidades de sus huéspedes.\nLos clientes de la taberna provienen de lugares muy diversos y cada uno tiene su propia definición de comodidad. No fue fácil encontrar un equilibrio entre tantas expectativas diferentes, así que el Buque Insignia optó por una solución única: equipar las habitaciones con todo lo que un huésped pudiera necesitar y luego ir quitando lo que considerara innecesario. Aunque la distribución resulta algo abarrotada por la cantidad de mobiliario, la ventaja es que está equipada con todo lo necesario, permitiendo que cada huésped encuentre su propia versión de comodidad.\nLos siguientes acompañantes prefieren este conjunto: Linnéa y Nicole.",
     "TypeDescription": "Plano de conjunto de decoración",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60445,7 +60784,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Prado del Lejano Norte",
-    "Description": "Un prado que reúne la vegetación y el relieve típicos de la región de Nod Krai, reproduciendo fielmente el singular paisaje natural de la Isla Hiisi.\nLa región de Nod Krai posee abundante kuuvahki, lo que ha dado lugar a plantas de colores vivos, animales de comportamiento peculiar y formaciones de relieve únicas. Para los naturalistas, esta zona alberga innumerables tesoros llamados nuevos conocimientos. Y para los visitantes comunes, estos paisajes maravillosos también invitan a detenerse y contemplarlos.\nEl siguiente acompañante prefiere este conjunto: Durin.",
+    "Description": "Un prado que reúne la vegetación y el relieve típicos de la región de Nod Krai, reproduciendo fielmente el singular paisaje natural de la Isla Hiisi.\nLa región de Nod Krai posee abundante kuuvahki, lo que ha dado lugar a plantas de colores vivos, animales de comportamiento peculiar y formaciones de relieve únicas. Para los naturalistas, esta zona alberga innumerables tesoros llamados nuevos conocimientos. Y para los visitantes comunes, estos paisajes maravillosos también invitan a detenerse y contemplarlos.\nEl siguiente acompañante prefiere este conjunto: Durin, Linnéa y Nicole.",
     "TypeDescription": "Plano de conjunto de decoración",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60456,7 +60795,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "La bulliciosa ciudad de las tierras fronterizas",
-    "Description": "Un paisaje regional centrado en una variedad de edificios característicos, con tiendas de diversas funciones que recrean a la perfección un rincón de la Villa Nasha.\nSegún cuenta la leyenda, la Villa Nasha se distingue de otras ciudades por no tener un verdadero gobernante ni una estructura de planificación definida. Esto ha dado lugar a innumerables pasajes estrechos y grietas ocultas entre los edificios del pueblo. Para los residentes normales, estos pasajes no son más que conductos por donde se propaga el ruido; sin embargo, para aquellos con buen ojo para captar información, son una de las vías por donde circulan los secretos más ocultos, además de atajos por los que moverse con agilidad...\nLos siguientes acompañantes prefieren este conjunto: Néfer, Jahoda y Varka.",
+    "Description": "Un paisaje regional centrado en una variedad de edificios característicos, con tiendas de diversas funciones que recrean a la perfección un rincón de la Villa Nasha.\nSegún cuenta la leyenda, la Villa Nasha se distingue de otras ciudades por no tener un verdadero gobernante ni una estructura de planificación definida. Esto ha dado lugar a innumerables pasajes estrechos y grietas ocultas entre los edificios del pueblo. Para los residentes normales, estos pasajes no son más que conductos por donde se propaga el ruido; sin embargo, para aquellos con buen ojo para captar información, son una de las vías por donde circulan los secretos más ocultos, además de atajos por los que moverse con agilidad...\nLos siguientes acompañantes prefieren este conjunto: Néfer, Jahoda, Varka, Lohen y Prune.",
     "TypeDescription": "Plano de conjunto de decoración",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74801,6 +75140,17 @@
     "ItemType": 2,
     "Name": "Sacacolmillos",
     "Description": "Plano detallado para fabricar “Sacacolmillos”.\nTras usarlo, entra en el menú de fabricación para verlo.",
+    "TypeDescription": "Plano de decoración",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tallado de piedra en miniatura",
+    "Description": "Plano detallado para fabricar “Tallado de piedra en miniatura”.\nTras usarlo, entra en el menú de fabricación para verlo.",
     "TypeDescription": "Plano de decoración",
     "Icon": "UI_ItemIcon_Home_Common"
   }

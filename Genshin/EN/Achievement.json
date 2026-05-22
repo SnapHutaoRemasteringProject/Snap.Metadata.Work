@@ -22661,6 +22661,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82309,
+    "Goal": 0,
+    "Order": 2309,
+    "PreviousId": 0,
+    "Title": "\"Don't Break The Wall\"",
+    "Description": "Evade the constraints of the barrier and dismantle the prison realm constructed by Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -26690,6 +26707,159 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84382,
+    "Goal": 0,
+    "Order": 5157,
+    "PreviousId": 0,
+    "Title": "A Finality for the Anomalous",
+    "Description": "Collect all Anomalous Tree Marrows",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84383,
+    "Goal": 0,
+    "Order": 5158,
+    "PreviousId": 0,
+    "Title": "Upon a Speck in the Eye, the Illusions Bloom",
+    "Description": "In Sumeru, dreams often foretell danger.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84384,
+    "Goal": 0,
+    "Order": 5159,
+    "PreviousId": 0,
+    "Title": "All Your Waves and Breakers Have Swept Over Me",
+    "Description": "The forces of life shall always find their resonance.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84385,
+    "Goal": 0,
+    "Order": 5160,
+    "PreviousId": 0,
+    "Title": "The Pen Uplifted, the Scrolls Dried",
+    "Description": "Parting is but a long-drawn reunion.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84386,
+    "Goal": 0,
+    "Order": 5161,
+    "PreviousId": 0,
+    "Title": "As All Falls to Emptiness",
+    "Description": "Complete \"As All Falls to Emptiness.\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84387,
+    "Goal": 0,
+    "Order": 5162,
+    "PreviousId": 0,
+    "Title": "Through the Reed Fields Unto Aaru",
+    "Description": "Beat the Three Kings in the chess game.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84388,
+    "Goal": 0,
+    "Order": 5163,
+    "PreviousId": 0,
+    "Title": "To Conquer the Depths, To Command All Deceptions",
+    "Description": "Gather everyone's wishes to save Sumeru.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84389,
+    "Goal": 0,
+    "Order": 5164,
+    "PreviousId": 0,
+    "Title": "The Kalpa Flame Ravages All",
+    "Description": "Beyond the ash of calamitous fires, the pristine sky remains.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84390,
+    "Goal": 0,
+    "Order": 5165,
+    "PreviousId": 0,
+    "Title": "Truth Amongst the Pages of Purana",
+    "Description": "Complete \"Truth Amongst the Pages of Purana\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84501,
     "Goal": 10,
     "Order": 4026,
@@ -26943,23 +27113,6 @@
     "Icon": "",
     "Version": "1.0",
     "IsDailyQuest": true
-  },
-  {
-    "Id": 84517,
-    "Goal": 0,
-    "Order": 4041,
-    "PreviousId": 0,
-    "Title": "Instant Karma",
-    "Description": "Expose Marjorie and receive Jack's thanks.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "6.5",
-    "IsDailyQuest": false
   },
   {
     "Id": 84518,

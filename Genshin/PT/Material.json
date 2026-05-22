@@ -2224,6 +2224,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Lohen",
+    "Description": "Material de Ativação da Constelação de Lohen",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2231,6 +2242,28 @@
     "Description": "Material de Ativação da Constelação de Linnea",
     "TypeDescription": "Ativação de Constelação",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Nicole",
+    "Description": "Material de Ativação da Constelação de Nicole",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Prune",
+    "Description": "Material de Ativação da Constelação de Prune",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3478,6 +3511,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Lohen",
+    "Description": "Material de Ativação da Constelação de Lohen",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3485,6 +3529,28 @@
     "Description": "Material de Ativação da Constelação de Linnea",
     "TypeDescription": "Ativação de Constelação",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Nicole",
+    "Description": "Material de Ativação da Constelação de Nicole",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna de Prune",
+    "Description": "Material de Ativação da Constelação de Prune",
+    "TypeDescription": "Ativação de Constelação",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -32019,6 +32085,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 70 de Stamina.",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu Recheado com Carne Estranho",
+    "Description": "Um prato de tofu recheado com carne moída. Na primeira mordida, o tofu desmoronou completamente. Na segunda, o tofu e o recheio se separaram... Embora o aroma seja tentador, depois de tantas falhas seguidas, já não há mais motivação para dar outra mordida.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 85 de Stamina.",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu Recheado com Carne",
+    "Description": "Um prato de tofu salgado recheado com carne suculenta. Cada bloco de tofu recebe um buraco no meio e é recheado com uma carne moída perfeitamente temperada, então é grelhado até dourar, antes de ser braseado em um molho encorpado e saboroso. De ingredientes humildes e cotidianos, surge um sabor de casa, a comida de conforto mais amada e familiar encontrada em toda rua e beco.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 100 de Stamina.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu Recheado com Carne Delicioso",
+    "Description": "Um prato de tofu salgado recheado com carne suculenta. Quatro pedaços dourados de tofu recheado são organizados lindamente num prato de porcelana largo com bordas douradas. Vapor sobe com um aroma profundo e salgado que instiga o apetite instantaneamente. O tofu se vai em algumas mordidas e a poça de molho âmbar deixada para trás é boa demais para não se misturar com arroz.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive um personagem e restaura 900 de Vida.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chiclete de Menta Estranho",
+    "Description": "Um doce macio e elástico. Batalhando contra o frescor afiado da menta, você infla suas bochechas e finalmente consegue soprar uma bolha minúscula. Mas bem no último momento, ela explode com alguns sons tristes e todo o esforço é desperdiçado...",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive um personagem e restaura 1200 de Vida.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chiclete de Menta",
+    "Description": "Doce macio e elástico. Combina dois sabores diferentes e, com um pouco de técnica, você pode soprar bolhas enormes e impressionantes! Mas cuidado para não exagerar no tamanho, pois se a bolha estourar, vai grudar tudo no seu rosto!",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive um personagem e restaura 1500 de Vida.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chiclete de Menta Delicioso",
+    "Description": "Um doce macio e elástico. O sabor fresco desliza pela garganta suavemente, trazendo uma sensação refrescante e agradável. E o melhor de tudo: basta soprar levemente para criar uma bolha translúcida e brilhante. Definitivamente, a melhor escolha para passar o tempo!",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "Diminui o consumo de Stamina ao correr e escalar de todos os membros da equipe em 25% por 1500s. Durante o modo multijogador, este efeito é aplicado apenas em seus próprios personagens.",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Giro Especial",
+    "Description": "Especialidade de Prune. \"Esse Rodopio Especial é um jogo que só os adultos em Nod-Krai podem jogar! Hehe, vou te mostrar como funciona.\" Com um sorriso maroto, ela prepara uma travessa rodopiante cheia de bebidas na sua frente. Os sucos têm cores vivas e são doces, mas algo sobre o design lembra você da Roleta Especial... Espera. Ela entendeu o nome errado?",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Restaura 130 de Stamina.",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Baú Dourado",
+    "Description": "#Especialidade de Nicole. \"Surpres{M#o}{F#a}? Eu já conhecia essa receita há muito tempo, aliás, antigamente...\" \"Recentemente, o Sr. Nove me disse que ela parece estar em alta novamente em Liyue...\" \"O formato é de um baú, e ainda serve como guia gastronômico? Sou genial demais...\" Com a aparição de um \"baú\" dourado, uma enxurrada de palavras surgiu instantaneamente na mente... Definitivamente, isso é coisa de Nicole. Apesar de seu cérebro estar sendo bombardeado por essas vozes ensurdecedoras, a satisfação das papilas gustativas é mais surpreendente do que abrir um Baú Luxuoso.",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Revive um personagem e restaura 20% da Vida máxima, e então restaura um adicional de 1500 de Vida.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Chiclete da Diversão",
+    "Description": "#Especialidade de Lohen. Vendo você entediad{M#o}{F#a}, ele te oferece algumas balas, alegando que vão te distrair. Você mal começou a mastigar e ele já saca um espelho apontado para você, com um sorriso maroto estampado no rosto. Droga! Você caiu na pegadinha! Sua língua já está tingida de verde-azulado... Então era para distrair ele, não você?",
+    "TypeDescription": "Alimento",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -34952,6 +35126,28 @@
     "ItemType": 2,
     "Name": "Receita: Prato Matinal do Moleiro",
     "Description": "Uma receita passo a passo detalhada para fazer Prato Matinal do Moleiro.",
+    "TypeDescription": "Receita",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Receita: Tofu Recheado com Carne",
+    "Description": "Uma receita passo a passo detalhada para fazer Tofu Recheado com Carne.",
+    "TypeDescription": "Receita",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Receita: Chiclete de Menta",
+    "Description": "Uma receita passo a passo detalhada para fazer Chiclete de Menta.",
     "TypeDescription": "Receita",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37975,6 +38171,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Resina Falsificada",
+    "Description": "Uma resina recuperada das profundezas destruídas das Linhas Ley após derrotar os hereges escondidos na Irminsul.\nNo passado, era um cristal que deveria carregar muitas belas memórias que compõem esse mundo; agora está cheio de ilusões e malícia que não pertencem aqui.",
+    "TypeDescription": "Material de Elevação de Personagem",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Galho Seco Retorcido",
+    "Description": "Um galho seco recuperado das profundezas destruídas das Linhas Ley após derrotar os hereges escondidos na Irminsul.\nUm galho retorcido que cresceu de uma grande árvore que deveria permanecer escondido sob a terra. Mesmo separado de sua fonte, ainda retém um poder estranho e malevolente.",
+    "TypeDescription": "Material de Elevação de Personagem",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Broto Profano",
+    "Description": "Um broto recuperado das profundezas destruídas das Linhas Ley após derrotar os hereges escondidos na Irminsul.\nUm broto que deveria simbolizar esperança se tornou um farol para a blasfêmia. Por veias carmesim, essa árvore pecaminosa continua sua escalada implacável em direção ao céu.",
+    "TypeDescription": "Material de Elevação de Personagem",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39643,6 +39872,28 @@
     "ItemType": 2,
     "Name": "Relicário Misterioso - Categoria I",
     "Description": "Um relicário usado para guardar artefatos. Que aquele que o veja, seja abençoado.\n\nCada relicário irá conceder um artefato dos seguintes conjuntos de artefatos:\n· Serenata das Estrelas e da Lua\n· Ascensão Zéfira",
+    "TypeDescription": "Relicário",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Relicário Misterioso - Categoria II",
+    "Description": "Um relicário usado para guardar artefatos. Que aquele que o veja, seja abençoado.\n\nCada relicário irá conceder um artefato dos seguintes conjuntos de artefatos:\n·Dádiva Celestial\n·Desencantamento na Sombra Profunda\n·Berserker\n·Instrutor\n·Exilado",
+    "TypeDescription": "Relicário",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Relicário Misterioso - Categoria I",
+    "Description": "Um relicário usado para guardar artefatos. Que aquele que o veja, seja abençoado.\n\nCada relicário irá conceder um artefato dos seguintes conjuntos de artefatos:\n·Dádiva Celestial\n·Desencantamento na Sombra Profunda",
     "TypeDescription": "Relicário",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52376,6 +52627,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Tarifa de Amizade\" de Lohen",
+    "Description": "Uma bolsa de Mora pesada, a abertura dela brilha com uma \"amizade\" dourada.",
+    "TypeDescription": "Consumível",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Tarifa de Amizade\" de Lohen",
+    "Description": "Uma bolsa de Mora vazia, a abertura dela já brilhou com uma \"amizade\" dourada.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52392,7 +52665,7 @@
     "Id": 121558,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Um Canto de Valivija",
+    "Name": "\"Um Canto de Valivija\"",
     "Description": "Um Canto de Valivija",
     "TypeDescription": "Item de Missão",
     "Icon": "UI_ItemIcon_121558"
@@ -52425,7 +52698,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "O Sonho de Rhonabwy",
+    "Name": "O Sonho de Rhonabouillet",
     "Description": "Uma coleção de poesia publicada pela Editora Lenormand, contando da história de um protagonista que viaja de volta no tempo e se apaixona por uma empregada na corte da Cavaleira da Água Pura.",
     "TypeDescription": "Item de Missão",
     "Icon": "UI_ItemIcon_100178"
@@ -52462,6 +52735,72 @@
     "Description": "Carta",
     "TypeDescription": "Item de Missão",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Medula Heterogênea I",
+    "Description": "Suspeita-se que seja uma concreção resinosa exsudada do tronco carbonizado da Irminsul. Sua forma é peculiar e, nos pontos em que está exposta, uma luz sinistra emana de seu interior.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Medula Heterogênea II",
+    "Description": "Suspeita-se que seja uma concreção resinosa exsudada do tronco carbonizado da Irminsul. Sua forma é peculiar e, nos pontos em que está exposta, uma luz sinistra emana de seu interior.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Medula Heterogênea III",
+    "Description": "Suspeita-se que seja uma concreção resinosa exsudada do tronco carbonizado da Irminsul. Sua forma é peculiar e, nos pontos em que está exposta, uma luz sinistra emana de seu interior.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Medula Heterogênea",
+    "Description": "Suspeita-se que seja uma concreção resinosa exsudada do tronco carbonizado da Irminsul. Sua forma é peculiar e, nos pontos em que está exposta, uma luz sinistra emana de seu interior.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Leite de Dango \"Infundido com Magia\"",
+    "Description": "Uma garrafa de Leite de Dango que parece comum e, na verdade, é comum. Segundo Prune, entretanto, ela a ganhou de uma bruxa, então Prune acredita que é qualquer coisa, menos um leite de dango qualquer!",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Componentes de Estrutura Primordial",
+    "Description": "Comissionados por Nahida e o Grande Sábio Naphis, Alhaitham e Kaveh estão lidando com um projeto urgente. Como a próxima fase exige um grande volume de materiais, eles recorreram aos Constructos Primordiais dentro do Mausoléu do Rei Deshret como fonte ideal. Sua tecnologia antiga e componentes de alta qualidade serão desmontados em peças microscópicas e então reconfigurados para um novo ambiente.",
+    "TypeDescription": "Item de Missão",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -53581,7 +53920,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Koi Cinza",
-    "Description": "Um peixe grande dito ser descendente de dragões.\nUm ramo da família Koi, seu corpo é principalmente de uma cor preta azulada profunda, contrastada com uma barriga dourada pálida. Comparado a muitos de seus primos, essa espécie é excepcionalmente dócil. Nunca inicia conflito com outras vidas aquáticas. Contudo, isso não deve ser confundido com fraqueza. Quando provocados, podem irromper em um ataque repentino tão feroz e direto quanto uma lança dourada, repelindo rapidamente invasores muitas vezes maiores, deixando todas as águas ao redor em choque.",
+    "Description": "Um peixe grande dito ser descendente de dragões.\nUm ramo da família Koi, seu corpo é principalmente de uma cor preta azulada profunda, contrastada com uma barriga dourada pálida. Comparada a muitos de seus primos, essa espécie é excepcionalmente dócil. Nunca inicia conflito com outras vidas aquáticas. Contudo, isso não deve ser confundido com fraqueza. Quando provocados, podem irromper em um ataque repentino tão feroz e direto quanto uma lança dourada, repelindo rapidamente invasores muitas vezes maiores.",
     "TypeDescription": "Peixe",
     "Icon": "UI_ItemIcon_131053"
   },
@@ -59664,7 +60003,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Instituto das Artes Secretas",
-    "Description": "Um diagrama detalhado com o passo a passo para colocar \"Instituto das Artes Secretas\".\nUma simples e antiga oficina de alquimia. Tirando o aparelho especializado e intrincado, ele se pareceria com qualquer outro quarto de estudo, com exceção da coleção de livros nas prateleiras, dos reagentes em seus recipientes e das várias amostras experimentais marcadas com a inscrição \"Não Abra\", cujos usos só podem ser imaginados de forma grosseira pela pessoa comum. Um incidente é provavelmente inevitável caso algum gato curioso vá contra qualquer uma dessas proibições.\nDepois de gatos que erroneamente entraram nas oficinas e causaram dois acidentes com poção alquímica, a Equipe de Investigação dos Cavaleiros de Favonius colocou regulamentos rigorosos de entrada e saída nas oficinas de alquimia dentro da cidade. Grande parte dos estranhos rumores sobre alquimia também nasceu dali, causando um número nada pequeno de dores de cabeça aos pesquisadores apenas tentando se concentrar.\nApós usar este item, você pode visualizá-lo na Interface de Colocação.\nOs personagens a seguir preferem este Conjunto de Decoração: Klee, Sucrose, Albedo, Lisa",
+    "Description": "Um diagrama detalhado com o passo a passo para colocar \"Instituto das Artes Secretas\".\nUma simples e antiga oficina de alquimia. Tirando o aparelho especializado e intrincado, ele se pareceria com qualquer outro quarto de estudo, com exceção da coleção de livros nas prateleiras, dos reagentes em seus recipientes e das várias amostras experimentais marcadas com a inscrição \"Não Abra\", cujos usos só podem ser imaginados de forma grosseira pela pessoa comum. Um incidente é provavelmente inevitável caso algum gato curioso vá contra qualquer uma dessas proibições.\nDepois de gatos que erroneamente entraram nas oficinas e causaram dois acidentes com poção alquímica, a Equipe de Investigação dos Cavaleiros de Favonius colocou regulamentos rigorosos de entrada e saída nas oficinas de alquimia dentro da cidade. Grande parte dos estranhos rumores sobre alquimia também nasceu dali, causando um número nada pequeno de dores de cabeça aos pesquisadores apenas tentando se concentrar.\nApós usar este item, você pode visualizá-lo na Interface de Colocação.\nOs personagens a seguir preferem este Conjunto de Decoração: Klee, Sucrose, Albedo, Lisa, Prune",
     "TypeDescription": "Diagrama de Conjunto de Decorações",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59752,7 +60091,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Acampamento de Caça e Canções",
-    "Description": "Um diagrama detalhado com o passo a passo para colocar \"Acampamento de Caça e Canções\".\nUm acampamento montado com alguma habilidade que fez referência aos famosos escritos do pesquisador Musk para recriar uma moradia Hilichurl, e que pode ser usado para estudar seus hábitos de vida.\nDizem que no passado, os Cavaleiros de Favonius criavam tais campos e se engajavam em um planejamento detalhado, liderado pelos Batedores, antes das expedições contra monstros. A Frota Crux, muitas vezes navegando, também tende a montar mesas de areia de forma semelhante com base em várias fontes de inteligência para simular o embarque em uma ilha e a remoção de monstros.\nApós usar este item, você pode visualizá-lo na Interface de Colocação.\nOs personagens a seguir preferem este Conjunto de Decoração: Amber, Sucrose, Klee, Beidou, Aloy",
+    "Description": "Um diagrama detalhado com o passo a passo para colocar \"Acampamento de Caça e Canções\".\nUm acampamento montado com alguma habilidade que fez referência aos famosos escritos do pesquisador Musk para recriar uma moradia Hilichurl, e que pode ser usado para estudar seus hábitos de vida.\nDizem que no passado, os Cavaleiros de Favonius criavam tais campos e se engajavam em um planejamento detalhado, liderado pelos Batedores, antes das expedições contra monstros. A Frota Crux, muitas vezes navegando, também tende a montar mesas de areia de forma semelhante com base em várias fontes de inteligência para simular o embarque em uma ilha e a remoção de monstros.\nApós usar este item, você pode visualizá-lo na Interface de Colocação.\nOs personagens a seguir preferem este Conjunto de Decoração: Amber, Sucrose, Klee, Beidou, Aloy, Lohen",
     "TypeDescription": "Diagrama de Conjunto de Decorações",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60357,7 +60696,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Quarto Confortável para Convidados de Longe e de Perto",
-    "Description": "Um quarto totalmente mobiliado, inspirado pelos quartos no Navio-Chefe, a maior taverna na Cidade de Nasha. Melhorias direcionadas foram feitas para atender melhor às necessidades dos ocupantes.\nOs convidados do Navio-Chefe vêm de uma variedade de origens, cada um com a própria ideia de conforto. Alcançar o equilíbrio entre todas essas expectativas diferentes não é fácil. Eventualmente, o Navio-Chefe decidiu uma solução única: mobiliar os quartos com cada amenidade que um cliente poderia precisar, então remover itens desnecessários com base nos comentários deles. Embora o quarto possa ficar um pouco desordenado por isso, também fornece tudo que um convidado poderia precisar, permitindo que ele encontre o conforto à própria maneira.",
+    "Description": "Um quarto totalmente mobiliado, inspirado pelos quartos no Navio-Chefe, a maior taverna na Cidade de Nasha. Melhorias direcionadas foram feitas para atender melhor às necessidades dos ocupantes.\nOs convidados do Navio-Chefe vêm de uma variedade de origens, cada um com a própria ideia de conforto. Alcançar o equilíbrio entre todas essas expectativas diferentes não é fácil. Eventualmente, o Navio-Chefe decidiu uma solução única: mobiliar os quartos com cada amenidade que um cliente poderia precisar, então remover itens desnecessários com base nos comentários deles. Embora o quarto possa ficar um pouco desordenado por isso, também fornece tudo que um convidado poderia precisar, permitindo que ele encontre o conforto à própria maneira.\nOs personagens a seguir preferem este Conjunto de Decoração: Linnea, Nicole",
     "TypeDescription": "Diagrama de Conjunto de Decorações",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60412,7 +60751,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Natureza do Extremo Norte",
-    "Description": "Uma natureza que reúne vegetação e topografias vistas comumente em Nod-Krai, especificamente uma recriação autêntica da paisagem única da Ilha Hiisi.\nA região de Nod-Krai desfruta de uma abundância de Kuuvahki que, por sua vez, deu origem a plantas de cores vivas, criaturas de hábitos distintos e topografias de formatos incomuns. Para naturalistas, essa área possui incontáveis tesouros de novo conhecimento, enquanto para turistas comuns, oferece paisagens maravilhosas que exigem uma pausa para admiração.\nOs personagens a seguir preferem este Conjunto de Decoração: Durin",
+    "Description": "Uma natureza que reúne vegetação e topografias vistas comumente em Nod-Krai, especificamente uma recriação autêntica da paisagem única da Ilha Hiisi.\nA região de Nod-Krai desfruta de uma abundância de Kuuvahki que, por sua vez, deu origem a plantas de cores vivas, criaturas de hábitos distintos e topografias de formatos incomuns. Para naturalistas, essa área possui incontáveis tesouros de novo conhecimento, enquanto para turistas comuns, oferece paisagens maravilhosas que exigem uma pausa para admiração.\nOs personagens a seguir preferem este Conjunto de Decoração: Durin, Linnea, Nicole",
     "TypeDescription": "Diagrama de Conjunto de Decorações",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60423,7 +60762,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cidade Fronteiriça Agitada",
-    "Description": "Uma paisagem regional centrada em vários prédios distintos, com lojas de vários tipos. É uma réplica perfeita de uma esquina da Cidade de Nasha.\nAs lendas dizem que a Cidade de Nasha é diferente das outras cidades porque não possui nenhum administrador e nenhuma estrutura clara de planejamento. Isso levou a incontáveis passagens estreitas e vãos discretos surgindo entre os prédios da cidade. Para a maioria dos habitantes, essas passagens são apenas espaços para que o barulho se espalhe. Para aqueles focados em reunir informações, entretanto, servem como caminhos em que segredos se espalham, e atalhos para viagens mais rápidas.\nOs personagens a seguir preferem este Conjunto de Decoração: Nefer, Jahoda, Varka",
+    "Description": "Uma paisagem regional centrada em vários prédios distintos, com lojas de vários tipos. É uma réplica perfeita de uma esquina da Cidade de Nasha.\nAs lendas dizem que a Cidade de Nasha é diferente das outras cidades porque não possui nenhum administrador e nenhuma estrutura clara de planejamento. Isso levou a incontáveis passagens estreitas e vãos discretos surgindo entre os prédios da cidade. Para a maioria dos habitantes, essas passagens são apenas espaços para que o barulho se espalhe. Para aqueles focados em reunir informações, entretanto, servem como caminhos em que segredos se espalham, e atalhos para viagens mais rápidas.\nOs personagens a seguir preferem este Conjunto de Decoração: Nefer, Jahoda, Varka, Lohen, Prune",
     "TypeDescription": "Diagrama de Conjunto de Decorações",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74768,6 +75107,17 @@
     "ItemType": 2,
     "Name": "\"Uivos Cortantes\"",
     "Description": "Um diagrama que descreve passo a passo como fabricar \"Uivos Cortantes\".\nApós usar, você pode entrar na Tela de Criação para visualizar.",
+    "TypeDescription": "Diagrama de Decoração",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Miniatura de Pedras\"",
+    "Description": "Um diagrama que descreve passo a passo como fabricar \"Miniatura de Pedras\".\nDepois de usar, você pode entrar na interface de colocação para visualizar.",
     "TypeDescription": "Diagrama de Decoração",
     "Icon": "UI_ItemIcon_Home_Common"
   }

@@ -5454,5 +5454,61 @@
       14434,
       15401
     ]
+  },
+  {
+    "Name": "Грёзы ангела",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/8b068582f6dd874631491c4d797df862_3741325464019369580_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/8b068582f6dd874631491c4d797df862_3741325464019369580_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000131
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "Рубедо, воплощённый белым камнем",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/a882e667e2256e5ce0f054aedf88985e_4622226071470560962_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/a882e667e2256e5ce0f054aedf88985e_4622226071470560962_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000123
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "Воплощение божества",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/ea4d6b9a8ee9110de52aa95d2e3677fc_8449102186383008191_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/ea4d6b9a8ee9110de52aa95d2e3677fc_8449102186383008191_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11518
+    ],
+    "UpPurpleList": [
+      11434,
+      12402,
+      13401,
+      14402,
+      15412
+    ]
   }
 ]

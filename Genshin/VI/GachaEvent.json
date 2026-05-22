@@ -5454,5 +5454,61 @@
       14434,
       15401
     ]
+  },
+  {
+    "Name": "Khúc Mặc Tưởng Rực Trời",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/9599470cbec0b1504292ef451bd77bad_1230706316008501739_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/9599470cbec0b1504292ef451bd77bad_1230706316008501739_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000131
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "Đá Trắng Hóa Đỏ",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/83143f68b371cf3f9144ec9bf8644dd3_8691222302062571792_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/83143f68b371cf3f9144ec9bf8644dd3_8691222302062571792_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000123
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "Thân Hình Thần Đúc",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/bca180cbdd4f09da552fae490cbe713c_5493871665749181289_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/bca180cbdd4f09da552fae490cbe713c_5493871665749181289_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11518
+    ],
+    "UpPurpleList": [
+      11434,
+      12402,
+      13401,
+      14402,
+      15412
+    ]
   }
 ]

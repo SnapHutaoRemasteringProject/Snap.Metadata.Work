@@ -6913,6 +6913,59 @@
     ]
   },
   {
+    "Id": 13517,
+    "PromoteId": 13517,
+    "Sort": 5313,
+    "WeaponType": 13,
+    "RankLevel": 5,
+    "Name": "Disaster and Remorse",
+    "Description": "A polearm forged from Whitestone and Starsilver. Its keen point is constantly enveloped in a bone-piercing chill.",
+    "Icon": "UI_EquipIcon_Pole_Carbine",
+    "AwakenIcon": "UI_EquipIcon_Pole_Carbine_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.048,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Dolorous Stroke",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "After the equipping character uses an Elemental Skill, they gain \"Path of Conflict\" for 17s, as well as \"Unforgivable\" and \"Irreparable\" for 3s each. This effect can trigger once every 18s.\nUnforgivable: Increases the equipping character's Normal Attack and Charged Attack DMG by <color=#99FFFFFF>40%</color>.\nIrreparable: Increases the equipping character's Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>40%</color>.\nWhile Path of Conflict is in effect, when the equipping character hits an opponent with a Normal Attack or Charged Attack, Irreparable's duration will be increased by 1s. When the equipping character hits an opponent with their Elemental Skill or Elemental Burst, Unforgivable's duration will be increased by 1s. Each of the above effects can be triggered once every 0.1s. When Path of Conflict ends or the equipping character leaves the field, both Unforgivable and Irreparable will be removed.\nHexerei: Secret Rite: The above DMG boosts are increased by 75%."
+        },
+        {
+          "Level": 1,
+          "Description": "After the equipping character uses an Elemental Skill, they gain \"Path of Conflict\" for 17s, as well as \"Unforgivable\" and \"Irreparable\" for 3s each. This effect can trigger once every 18s.\nUnforgivable: Increases the equipping character's Normal Attack and Charged Attack DMG by <color=#99FFFFFF>50%</color>.\nIrreparable: Increases the equipping character's Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>50%</color>.\nWhile Path of Conflict is in effect, when the equipping character hits an opponent with a Normal Attack or Charged Attack, Irreparable's duration will be increased by 1s. When the equipping character hits an opponent with their Elemental Skill or Elemental Burst, Unforgivable's duration will be increased by 1s. Each of the above effects can be triggered once every 0.1s. When Path of Conflict ends or the equipping character leaves the field, both Unforgivable and Irreparable will be removed.\nHexerei: Secret Rite: The above DMG boosts are increased by 75%."
+        },
+        {
+          "Level": 2,
+          "Description": "After the equipping character uses an Elemental Skill, they gain \"Path of Conflict\" for 17s, as well as \"Unforgivable\" and \"Irreparable\" for 3s each. This effect can trigger once every 18s.\nUnforgivable: Increases the equipping character's Normal Attack and Charged Attack DMG by <color=#99FFFFFF>60%</color>.\nIrreparable: Increases the equipping character's Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>60%</color>.\nWhile Path of Conflict is in effect, when the equipping character hits an opponent with a Normal Attack or Charged Attack, Irreparable's duration will be increased by 1s. When the equipping character hits an opponent with their Elemental Skill or Elemental Burst, Unforgivable's duration will be increased by 1s. Each of the above effects can be triggered once every 0.1s. When Path of Conflict ends or the equipping character leaves the field, both Unforgivable and Irreparable will be removed.\nHexerei: Secret Rite: The above DMG boosts are increased by 75%."
+        },
+        {
+          "Level": 3,
+          "Description": "After the equipping character uses an Elemental Skill, they gain \"Path of Conflict\" for 17s, as well as \"Unforgivable\" and \"Irreparable\" for 3s each. This effect can trigger once every 18s.\nUnforgivable: Increases the equipping character's Normal Attack and Charged Attack DMG by <color=#99FFFFFF>70%</color>.\nIrreparable: Increases the equipping character's Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>70%</color>.\nWhile Path of Conflict is in effect, when the equipping character hits an opponent with a Normal Attack or Charged Attack, Irreparable's duration will be increased by 1s. When the equipping character hits an opponent with their Elemental Skill or Elemental Burst, Unforgivable's duration will be increased by 1s. Each of the above effects can be triggered once every 0.1s. When Path of Conflict ends or the equipping character leaves the field, both Unforgivable and Irreparable will be removed.\nHexerei: Secret Rite: The above DMG boosts are increased by 75%."
+        },
+        {
+          "Level": 4,
+          "Description": "After the equipping character uses an Elemental Skill, they gain \"Path of Conflict\" for 17s, as well as \"Unforgivable\" and \"Irreparable\" for 3s each. This effect can trigger once every 18s.\nUnforgivable: Increases the equipping character's Normal Attack and Charged Attack DMG by <color=#99FFFFFF>80%</color>.\nIrreparable: Increases the equipping character's Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>80%</color>.\nWhile Path of Conflict is in effect, when the equipping character hits an opponent with a Normal Attack or Charged Attack, Irreparable's duration will be increased by 1s. When the equipping character hits an opponent with their Elemental Skill or Elemental Burst, Unforgivable's duration will be increased by 1s. Each of the above effects can be triggered once every 0.1s. When Path of Conflict ends or the equipping character leaves the field, both Unforgivable and Irreparable will be removed.\nHexerei: Secret Rite: The above DMG boosts are increased by 75%."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112133,
+      112040
+    ]
+  },
+  {
     "Id": 14101,
     "PromoteId": 14101,
     "Sort": 1401,
@@ -9503,6 +9556,59 @@
     ]
   },
   {
+    "Id": 14523,
+    "PromoteId": 14523,
+    "Sort": 5420,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Angelos' Heptades",
+    "Description": "A golden box as splendid as the light of the heavens. According to legend, it once belonged to a divine envoy of the Eternal Court.",
+    "Icon": "UI_EquipIcon_Catalyst_FairyGarden",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 49.1377,
+        "Type": 4,
+        "Value": 1303
+      },
+      {
+        "InitValue": 0.036,
+        "Type": 6,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Crown of the Final Scion",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "ATK is increased by <color=#99FFFFFF>12%</color>. After the equipping character creates a Shield, they gain \"Pathfinder's Light\" for 20s: Increases your active party member's DMG by <color=#99FFFFFF>10%</color> for every 1,000 ATK the equipping character has, up to a maximum of <color=#99FFFFFF>26%</color>. Additionally, when the equipping character creates a Shield, they will also gain \"Guide's Contentment\": Restores <color=#99FFFFFF>14</color> Elemental Energy to the equipping character. The aforementioned effect can trigger once every 14s, and can also be triggered when any type of chest is opened outside of combat. The equipping character may trigger this effect even when they are an off-field.\nHexerei: Secret Rite: When your own Hexerei character is off-field in the party, they will also gain 50% of the DMG increase from Pathfinder's Light."
+        },
+        {
+          "Level": 1,
+          "Description": "ATK is increased by <color=#99FFFFFF>15%</color>. After the equipping character creates a Shield, they gain \"Pathfinder's Light\" for 20s: Increases your active party member's DMG by <color=#99FFFFFF>13%</color> for every 1,000 ATK the equipping character has, up to a maximum of <color=#99FFFFFF>34%</color>. Additionally, when the equipping character creates a Shield, they will also gain \"Guide's Contentment\": Restores <color=#99FFFFFF>15</color> Elemental Energy to the equipping character. The aforementioned effect can trigger once every 14s, and can also be triggered when any type of chest is opened outside of combat. The equipping character may trigger this effect even when they are an off-field.\nHexerei: Secret Rite: When your own Hexerei character is off-field in the party, they will also gain 50% of the DMG increase from Pathfinder's Light."
+        },
+        {
+          "Level": 2,
+          "Description": "ATK is increased by <color=#99FFFFFF>18%</color>. After the equipping character creates a Shield, they gain \"Pathfinder's Light\" for 20s: Increases your active party member's DMG by <color=#99FFFFFF>16%</color> for every 1,000 ATK the equipping character has, up to a maximum of <color=#99FFFFFF>42%</color>. Additionally, when the equipping character creates a Shield, they will also gain \"Guide's Contentment\": Restores <color=#99FFFFFF>16</color> Elemental Energy to the equipping character. The aforementioned effect can trigger once every 14s, and can also be triggered when any type of chest is opened outside of combat. The equipping character may trigger this effect even when they are an off-field.\nHexerei: Secret Rite: When your own Hexerei character is off-field in the party, they will also gain 50% of the DMG increase from Pathfinder's Light."
+        },
+        {
+          "Level": 3,
+          "Description": "ATK is increased by <color=#99FFFFFF>21%</color>. After the equipping character creates a Shield, they gain \"Pathfinder's Light\" for 20s: Increases your active party member's DMG by <color=#99FFFFFF>19%</color> for every 1,000 ATK the equipping character has, up to a maximum of <color=#99FFFFFF>50%</color>. Additionally, when the equipping character creates a Shield, they will also gain \"Guide's Contentment\": Restores <color=#99FFFFFF>17</color> Elemental Energy to the equipping character. The aforementioned effect can trigger once every 14s, and can also be triggered when any type of chest is opened outside of combat. The equipping character may trigger this effect even when they are an off-field.\nHexerei: Secret Rite: When your own Hexerei character is off-field in the party, they will also gain 50% of the DMG increase from Pathfinder's Light."
+        },
+        {
+          "Level": 4,
+          "Description": "ATK is increased by <color=#99FFFFFF>24%</color>. After the equipping character creates a Shield, they gain \"Pathfinder's Light\" for 20s: Increases your active party member's DMG by <color=#99FFFFFF>22%</color> for every 1,000 ATK the equipping character has, up to a maximum of <color=#99FFFFFF>58%</color>. Additionally, when the equipping character creates a Shield, they will also gain \"Guide's Contentment\": Restores <color=#99FFFFFF>18</color> Elemental Energy to the equipping character. The aforementioned effect can trigger once every 14s, and can also be triggered when any type of chest is opened outside of combat. The equipping character may trigger this effect even when they are an off-field.\nHexerei: Secret Rite: When your own Hexerei character is off-field in the party, they will also gain 50% of the DMG increase from Pathfinder's Light."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114076,
+      112142,
+      112124
+    ]
+  },
+  {
     "Id": 15101,
     "PromoteId": 15101,
     "Sort": 1501,
@@ -11807,7 +11913,7 @@
   {
     "Id": 15514,
     "PromoteId": 15514,
-    "Sort": 5512,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Astral Vulture's Crimson Plumage",
@@ -11860,7 +11966,7 @@
   {
     "Id": 15515,
     "PromoteId": 15515,
-    "Sort": 5513,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "The Daybreak Chronicles",
@@ -11913,7 +12019,7 @@
   {
     "Id": 15516,
     "PromoteId": 15516,
-    "Sort": 5514,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Golden Frostbound Oath",

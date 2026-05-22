@@ -697,7 +697,7 @@
               ]
             }
           ],
-          "Display": 0
+          "Display": 1
         },
         "Id": 1302201,
         "Name": "博物分類図鑑",
@@ -801,6 +801,7 @@
     "BirthMonth": 5,
     "BirthDay": 23,
     "VisionBefore": "岩",
+    "VisionOverrideLocked": "月の輪",
     "VisionOverrideUnlocked": "月の輪",
     "ConstellationBefore": "予見鳥座",
     "CvChinese": "周侗",

@@ -697,7 +697,7 @@
               ]
             }
           ],
-          "Display": 0
+          "Display": 1
         },
         "Id": 1302201,
         "Name": "Энциклопедия натуралиста",
@@ -801,6 +801,7 @@
     "BirthMonth": 5,
     "BirthDay": 23,
     "VisionBefore": "Гео",
+    "VisionOverrideLocked": "Лунное колесо",
     "VisionOverrideUnlocked": "Лунное колесо",
     "ConstellationBefore": "Птица Откровения",
     "CvChinese": "周侗",

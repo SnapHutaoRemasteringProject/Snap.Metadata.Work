@@ -6913,6 +6913,59 @@
     ]
   },
   {
+    "Id": 13517,
+    "PromoteId": 13517,
+    "Sort": 5313,
+    "WeaponType": 13,
+    "RankLevel": 5,
+    "Name": "Katastrophe und Reue",
+    "Description": "Ein aus Marmor und Sternsilber geschmiedeter Speer, dessen scharfe Klinge stets von beißender Kälte umhüllt ist.",
+    "Icon": "UI_EquipIcon_Pole_Carbine",
+    "AwakenIcon": "UI_EquipIcon_Pole_Carbine_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.048,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Verhängnisvoller Schlag",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Verleiht dem Träger nach dem Anwenden der Elementarfähigkeit 17{NON_BREAK_SPACE}s lang „Weg des Konflikts“ sowie jeweils 3{NON_BREAK_SPACE}s lang die Effekte „Gnadenlos“ und „Unheilbar“, 18{NON_BREAK_SPACE}s Abklingzeit.\nGnadenlos: Erhöht den Schaden durch Standardangriffe und heftige Schläge des Trägers um <color=#99FFFFFF>40{NON_BREAK_SPACE}%</color>.\nUnheilbar: Erhöht den durch die Elementarfähigkeit und Spezialfähigkeit des Trägers verursachten Schaden um <color=#99FFFFFF>40{NON_BREAK_SPACE}%</color>.\nVerlängert zudem während der Dauer von „Weg des Konflikts“, wenn der Träger Gegner mit Standardangriffen und heftigen Schlägen trifft, die Dauer des Effekts „Unheilbar“ um 1{NON_BREAK_SPACE}s. Verlängert zudem, wenn der Träger Gegner mit der Elementarfähigkeit oder Spezialfähigkeit trifft, die Dauer des Effekts „Gnadenlos“ um 1{NON_BREAK_SPACE}s. Die oben genannten Effekte können jeweils einmal alle 0,1{NON_BREAK_SPACE}s ausgelöst werden. Nach dem Ende von „Weg des Konflikts“ oder beim Auswechseln des Trägers werden die Effekte „Gnadenlos“ und „Unheilbar“ aufgehoben.\nHexerei – Geheimes Ritual: Erhöht alle oben genannten Schadenserhöhungseffekte um 75{NON_BREAK_SPACE}%."
+        },
+        {
+          "Level": 1,
+          "Description": "Verleiht dem Träger nach dem Anwenden der Elementarfähigkeit 17{NON_BREAK_SPACE}s lang „Weg des Konflikts“ sowie jeweils 3{NON_BREAK_SPACE}s lang die Effekte „Gnadenlos“ und „Unheilbar“, 18{NON_BREAK_SPACE}s Abklingzeit.\nGnadenlos: Erhöht den Schaden durch Standardangriffe und heftige Schläge des Trägers um <color=#99FFFFFF>50{NON_BREAK_SPACE}%</color>.\nUnheilbar: Erhöht den durch die Elementarfähigkeit und Spezialfähigkeit des Trägers verursachten Schaden um <color=#99FFFFFF>50{NON_BREAK_SPACE}%</color>.\nVerlängert zudem während der Dauer von „Weg des Konflikts“, wenn der Träger Gegner mit Standardangriffen und heftigen Schlägen trifft, die Dauer des Effekts „Unheilbar“ um 1{NON_BREAK_SPACE}s. Verlängert zudem, wenn der Träger Gegner mit der Elementarfähigkeit oder Spezialfähigkeit trifft, die Dauer des Effekts „Gnadenlos“ um 1{NON_BREAK_SPACE}s. Die oben genannten Effekte können jeweils einmal alle 0,1{NON_BREAK_SPACE}s ausgelöst werden. Nach dem Ende von „Weg des Konflikts“ oder beim Auswechseln des Trägers werden die Effekte „Gnadenlos“ und „Unheilbar“ aufgehoben.\nHexerei – Geheimes Ritual: Erhöht alle oben genannten Schadenserhöhungseffekte um 75{NON_BREAK_SPACE}%."
+        },
+        {
+          "Level": 2,
+          "Description": "Verleiht dem Träger nach dem Anwenden der Elementarfähigkeit 17{NON_BREAK_SPACE}s lang „Weg des Konflikts“ sowie jeweils 3{NON_BREAK_SPACE}s lang die Effekte „Gnadenlos“ und „Unheilbar“, 18{NON_BREAK_SPACE}s Abklingzeit.\nGnadenlos: Erhöht den Schaden durch Standardangriffe und heftige Schläge des Trägers um <color=#99FFFFFF>60{NON_BREAK_SPACE}%</color>.\nUnheilbar: Erhöht den durch die Elementarfähigkeit und Spezialfähigkeit des Trägers verursachten Schaden um <color=#99FFFFFF>60{NON_BREAK_SPACE}%</color>.\nVerlängert zudem während der Dauer von „Weg des Konflikts“, wenn der Träger Gegner mit Standardangriffen und heftigen Schlägen trifft, die Dauer des Effekts „Unheilbar“ um 1{NON_BREAK_SPACE}s. Verlängert zudem, wenn der Träger Gegner mit der Elementarfähigkeit oder Spezialfähigkeit trifft, die Dauer des Effekts „Gnadenlos“ um 1{NON_BREAK_SPACE}s. Die oben genannten Effekte können jeweils einmal alle 0,1{NON_BREAK_SPACE}s ausgelöst werden. Nach dem Ende von „Weg des Konflikts“ oder beim Auswechseln des Trägers werden die Effekte „Gnadenlos“ und „Unheilbar“ aufgehoben.\nHexerei – Geheimes Ritual: Erhöht alle oben genannten Schadenserhöhungseffekte um 75{NON_BREAK_SPACE}%."
+        },
+        {
+          "Level": 3,
+          "Description": "Verleiht dem Träger nach dem Anwenden der Elementarfähigkeit 17{NON_BREAK_SPACE}s lang „Weg des Konflikts“ sowie jeweils 3{NON_BREAK_SPACE}s lang die Effekte „Gnadenlos“ und „Unheilbar“, 18{NON_BREAK_SPACE}s Abklingzeit.\nGnadenlos: Erhöht den Schaden durch Standardangriffe und heftige Schläge des Trägers um <color=#99FFFFFF>70{NON_BREAK_SPACE}%</color>.\nUnheilbar: Erhöht den durch die Elementarfähigkeit und Spezialfähigkeit des Trägers verursachten Schaden um <color=#99FFFFFF>70{NON_BREAK_SPACE}%</color>.\nVerlängert zudem während der Dauer von „Weg des Konflikts“, wenn der Träger Gegner mit Standardangriffen und heftigen Schlägen trifft, die Dauer des Effekts „Unheilbar“ um 1{NON_BREAK_SPACE}s. Verlängert zudem, wenn der Träger Gegner mit der Elementarfähigkeit oder Spezialfähigkeit trifft, die Dauer des Effekts „Gnadenlos“ um 1{NON_BREAK_SPACE}s. Die oben genannten Effekte können jeweils einmal alle 0,1{NON_BREAK_SPACE}s ausgelöst werden. Nach dem Ende von „Weg des Konflikts“ oder beim Auswechseln des Trägers werden die Effekte „Gnadenlos“ und „Unheilbar“ aufgehoben.\nHexerei – Geheimes Ritual: Erhöht alle oben genannten Schadenserhöhungseffekte um 75{NON_BREAK_SPACE}%."
+        },
+        {
+          "Level": 4,
+          "Description": "Verleiht dem Träger nach dem Anwenden der Elementarfähigkeit 17{NON_BREAK_SPACE}s lang „Weg des Konflikts“ sowie jeweils 3{NON_BREAK_SPACE}s lang die Effekte „Gnadenlos“ und „Unheilbar“, 18{NON_BREAK_SPACE}s Abklingzeit.\nGnadenlos: Erhöht den Schaden durch Standardangriffe und heftige Schläge des Trägers um <color=#99FFFFFF>80{NON_BREAK_SPACE}%</color>.\nUnheilbar: Erhöht den durch die Elementarfähigkeit und Spezialfähigkeit des Trägers verursachten Schaden um <color=#99FFFFFF>80{NON_BREAK_SPACE}%</color>.\nVerlängert zudem während der Dauer von „Weg des Konflikts“, wenn der Träger Gegner mit Standardangriffen und heftigen Schlägen trifft, die Dauer des Effekts „Unheilbar“ um 1{NON_BREAK_SPACE}s. Verlängert zudem, wenn der Träger Gegner mit der Elementarfähigkeit oder Spezialfähigkeit trifft, die Dauer des Effekts „Gnadenlos“ um 1{NON_BREAK_SPACE}s. Die oben genannten Effekte können jeweils einmal alle 0,1{NON_BREAK_SPACE}s ausgelöst werden. Nach dem Ende von „Weg des Konflikts“ oder beim Auswechseln des Trägers werden die Effekte „Gnadenlos“ und „Unheilbar“ aufgehoben.\nHexerei – Geheimes Ritual: Erhöht alle oben genannten Schadenserhöhungseffekte um 75{NON_BREAK_SPACE}%."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112133,
+      112040
+    ]
+  },
+  {
     "Id": 14101,
     "PromoteId": 14101,
     "Sort": 1401,
@@ -9503,6 +9556,59 @@
     ]
   },
   {
+    "Id": 14523,
+    "PromoteId": 14523,
+    "Sort": 5420,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Sieben Gebote von Staub und Licht",
+    "Description": "Ein goldenes Kästchen, so schön wie das Licht des Himmels, das der Legende nach in ferner Vergangenheit einem Gesandten des Ewigen Hofes gehörte.",
+    "Icon": "UI_EquipIcon_Catalyst_FairyGarden",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 49.1377,
+        "Type": 4,
+        "Value": 1303
+      },
+      {
+        "InitValue": 0.036,
+        "Type": 6,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Krone des Endankömmlings",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Erhöht den ANG um <color=#99FFFFFF>12{NON_BREAK_SPACE}%</color>. Verleiht dem Träger nach dem Generieren des Schildes 20{NON_BREAK_SPACE}s lang den Effekt „Licht der Pfadfinder“: Erhöht den von der eigenen aktuellen Figur verursachten Schaden pro 1.000 Punkte ANG des Trägers um <color=#99FFFFFF>10{NON_BREAK_SPACE}%</color>, um max. <color=#99FFFFFF>26{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn er einen Schild generiert, zusätzlich den Effekt „Zufriedenheit des Leiters“, der dem Träger <color=#99FFFFFF>14</color>{NON_BREAK_SPACE}Punkte Elementarenergie wiederherstellt, 14{NON_BREAK_SPACE}s Abklingzeit. Er erhält den Effekt auch, wenn er sich beim Öffnen einer beliebigen Truhe nicht im Kampf befindet. Obige Effekte können auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.\nHexerei – Geheimes Ritual: Verleiht, wenn sich die eigene Hexerei-Figur inaktiv in der Truppe befindet, dieser ebenfalls einen Schadensbonus von 50{NON_BREAK_SPACE}% aus „Licht der Pfadfinder“."
+        },
+        {
+          "Level": 1,
+          "Description": "Erhöht den ANG um <color=#99FFFFFF>15{NON_BREAK_SPACE}%</color>. Verleiht dem Träger nach dem Generieren des Schildes 20{NON_BREAK_SPACE}s lang den Effekt „Licht der Pfadfinder“: Erhöht den von der eigenen aktuellen Figur verursachten Schaden pro 1.000 Punkte ANG des Trägers um <color=#99FFFFFF>13{NON_BREAK_SPACE}%</color>, um max. <color=#99FFFFFF>34{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn er einen Schild generiert, zusätzlich den Effekt „Zufriedenheit des Leiters“, der dem Träger <color=#99FFFFFF>15</color>{NON_BREAK_SPACE}Punkte Elementarenergie wiederherstellt, 14{NON_BREAK_SPACE}s Abklingzeit. Er erhält den Effekt auch, wenn er sich beim Öffnen einer beliebigen Truhe nicht im Kampf befindet. Obige Effekte können auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.\nHexerei – Geheimes Ritual: Verleiht, wenn sich die eigene Hexerei-Figur inaktiv in der Truppe befindet, dieser ebenfalls 50{NON_BREAK_SPACE}% des Schadensbonus von „Licht der Pfadfinder“."
+        },
+        {
+          "Level": 2,
+          "Description": "Erhöht den ANG um <color=#99FFFFFF>18{NON_BREAK_SPACE}%</color>. Verleiht dem Träger nach dem Generieren des Schildes 20{NON_BREAK_SPACE}s lang den Effekt „Licht der Pfadfinder“: Erhöht den von der eigenen aktuellen Figur verursachten Schaden pro 1.000 Punkte ANG des Trägers um <color=#99FFFFFF>16{NON_BREAK_SPACE}%</color>, um max. <color=#99FFFFFF>42{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn er einen Schild generiert, zusätzlich den Effekt „Zufriedenheit des Leiters“, der dem Träger <color=#99FFFFFF>16</color>{NON_BREAK_SPACE}Punkte Elementarenergie wiederherstellt, 14{NON_BREAK_SPACE}s Abklingzeit. Er erhält den Effekt auch, wenn er sich beim Öffnen einer beliebigen Truhe nicht im Kampf befindet. Obige Effekte können auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.\nHexerei – Geheimes Ritual: Verleiht, wenn sich die eigene Hexerei-Figur inaktiv in der Truppe befindet, dieser ebenfalls einen Schadensbonus von 50{NON_BREAK_SPACE}% aus „Licht der Pfadfinder“."
+        },
+        {
+          "Level": 3,
+          "Description": "Erhöht den ANG um <color=#99FFFFFF>21{NON_BREAK_SPACE}%</color>. Verleiht dem Träger nach dem Generieren des Schildes 20{NON_BREAK_SPACE}s lang den Effekt „Licht der Pfadfinder“: Erhöht den von der eigenen aktuellen Figur verursachten Schaden pro 1.000 Punkte ANG des Trägers um <color=#99FFFFFF>19{NON_BREAK_SPACE}%</color>, um max. <color=#99FFFFFF>50{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn er einen Schild generiert, zusätzlich den Effekt „Zufriedenheit des Leiters“, der dem Träger <color=#99FFFFFF>17</color>{NON_BREAK_SPACE}Punkte Elementarenergie wiederherstellt, 14{NON_BREAK_SPACE}s Abklingzeit. Er erhält den Effekt auch, wenn er sich beim Öffnen einer beliebigen Truhe nicht im Kampf befindet. Obige Effekte können auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.\nHexerei – Geheimes Ritual: Verleiht, wenn sich die eigene Hexerei-Figur inaktiv in der Truppe befindet, dieser ebenfalls einen Schadensbonus von 50{NON_BREAK_SPACE}% aus „Licht der Pfadfinder“."
+        },
+        {
+          "Level": 4,
+          "Description": "Erhöht den ANG um <color=#99FFFFFF>24{NON_BREAK_SPACE}%</color>. Verleiht dem Träger nach dem Generieren des Schildes 20{NON_BREAK_SPACE}s lang den Effekt „Licht der Pfadfinder“: Erhöht den von der eigenen aktuellen Figur verursachten Schaden pro 1.000 Punkte ANG des Trägers um <color=#99FFFFFF>22{NON_BREAK_SPACE}%</color>, um max. <color=#99FFFFFF>58{NON_BREAK_SPACE}%</color>. Verleiht dem Träger, wenn er einen Schild generiert, zusätzlich den Effekt „Zufriedenheit des Leiters“, der dem Träger <color=#99FFFFFF>18</color>{NON_BREAK_SPACE}Punkte Elementarenergie wiederherstellt, 14{NON_BREAK_SPACE}s Abklingzeit. Er erhält den Effekt auch, wenn er sich beim Öffnen einer beliebigen Truhe nicht im Kampf befindet. Obige Effekte können auch ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet.\nHexerei – Geheimes Ritual: Verleiht, wenn sich die eigene Hexerei-Figur inaktiv in der Truppe befindet, dieser ebenfalls einen Schadensbonus von 50{NON_BREAK_SPACE}% aus „Licht der Pfadfinder“."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114076,
+      112142,
+      112124
+    ]
+  },
+  {
     "Id": 15101,
     "PromoteId": 15101,
     "Sort": 1501,
@@ -11807,7 +11913,7 @@
   {
     "Id": 15514,
     "PromoteId": 15514,
-    "Sort": 5512,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Karmesinrotes Federkleid des Astralgeiers",
@@ -11860,7 +11966,7 @@
   {
     "Id": 15515,
     "PromoteId": 15515,
-    "Sort": 5513,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Chroniken der Morgendämmerung",
@@ -11913,7 +12019,7 @@
   {
     "Id": 15516,
     "PromoteId": 15516,
-    "Sort": 5514,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Goldener Frostschwur",

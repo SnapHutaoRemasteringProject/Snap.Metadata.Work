@@ -22661,6 +22661,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82309,
+    "Goal": 0,
+    "Order": 2309,
+    "PreviousId": 0,
+    "Title": "«Не ломайте ту стену!»",
+    "Description": "Уклоняйтесь от оков барьера и разрушьте темницу, созданную Дотторе.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -26690,6 +26707,159 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84382,
+    "Goal": 0,
+    "Order": 5157,
+    "PreviousId": 0,
+    "Title": "Удел отверженных",
+    "Description": "Соберите всю аномальную древесную смолу.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84383,
+    "Goal": 0,
+    "Order": 5158,
+    "PreviousId": 0,
+    "Title": "Соринка в глазу - цветы в пустоте",
+    "Description": "Сны в Сумеру часто предвещают опасность.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84384,
+    "Goal": 0,
+    "Order": 5159,
+    "PreviousId": 0,
+    "Title": "Волны и воды прошли надо мною",
+    "Description": "Силы жизни резонируют друг с другом.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84385,
+    "Goal": 0,
+    "Order": 5160,
+    "PreviousId": 0,
+    "Title": "Высохли перья и свёрнуты свитки",
+    "Description": "Разлука - это долгое воссоединение.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84386,
+    "Goal": 0,
+    "Order": 5161,
+    "PreviousId": 0,
+    "Title": "И всё возвратится в прах",
+    "Description": "Завершите задание «И всё возвратится в прах».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84387,
+    "Goal": 0,
+    "Order": 5162,
+    "PreviousId": 0,
+    "Title": "Сквозь тростниковые заросли в Аару",
+    "Description": "Одержите победу в противостоянии с тремя царями.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84388,
+    "Goal": 0,
+    "Order": 5163,
+    "PreviousId": 0,
+    "Title": "Покорить бездны, повелевать всеми заблуждениями",
+    "Description": "Соберите желания всех людей, чтобы спасти Сумеру.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84389,
+    "Goal": 0,
+    "Order": 5164,
+    "PreviousId": 0,
+    "Title": "Пламя кальпы губит всё",
+    "Description": "За пеплом разрушительных пожаров остаётся непорочное небо.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84390,
+    "Goal": 0,
+    "Order": 5165,
+    "PreviousId": 0,
+    "Title": "Истина среди страниц Пураны",
+    "Description": "Завершите задание «Истина среди страниц Пураны».",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84501,
     "Goal": 10,
     "Order": 4026,
@@ -26943,23 +27113,6 @@
     "Icon": "",
     "Version": "1.0",
     "IsDailyQuest": true
-  },
-  {
-    "Id": 84517,
-    "Goal": 0,
-    "Order": 4041,
-    "PreviousId": 0,
-    "Title": "Мгновенная карма",
-    "Description": "Разоблачите Марджори и получите благодарность от Джека.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "6.5",
-    "IsDailyQuest": false
   },
   {
     "Id": 84518,

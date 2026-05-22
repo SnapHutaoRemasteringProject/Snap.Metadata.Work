@@ -5454,5 +5454,61 @@
       14434,
       15401
     ]
+  },
+  {
+    "Name": "熾天的默想曲",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/4197de8d403b72ee659951364f7997ed_6215408202030150751_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/4197de8d403b72ee659951364f7997ed_6215408202030150751_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000131
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "白礜赤成",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/9f4ce8c5842139709bc85722d8c48a7c_10321006606233174_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/9f4ce8c5842139709bc85722d8c48a7c_10321006606233174_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000123
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/478a5a5d7ad03a8038c7a944a2435d4c_7081425788912953146_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/478a5a5d7ad03a8038c7a944a2435d4c_7081425788912953146_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11518
+    ],
+    "UpPurpleList": [
+      11434,
+      12402,
+      13401,
+      14402,
+      15412
+    ]
   }
 ]

@@ -1200,5 +1200,11 @@
     "Description": "İsim Kartı arka planı.\nBayan Navia'nın çiçekli şemsiyesi tıpkı güller gibi açar. Ancak dikkatli ol, gülün dikeni nasılsa Navia'nın şemsiyesi de öyle can yakar.",
     "Icon": "UI_NameCardIcon_Navia",
     "PicturePrefix": "UI_NameCardPic_Navia"
+  },
+  "TraceEffect": {
+    "Id": 215021,
+    "Name": "Yankı: Parlak Gülün Önderi",
+    "Description": "Navia'nın Hayali Yankısı. \"Körü körüne iyimser olmak bir işe yaramaz. Parlak bir gelecek istiyorsan bir adım atmalı ve geleceğini kendi ellerinle yaratmalısın!\"",
+    "Icon": "UI_TraceEffectIcon_Navia"
   }
 }

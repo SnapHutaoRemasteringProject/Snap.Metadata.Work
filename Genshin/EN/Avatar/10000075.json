@@ -1194,5 +1194,11 @@
     "Description": "Namecard style.\nIn a world most transient does the past hide, and in the whims of flowing flowers does thin snow abide.",
     "Icon": "UI_NameCardIcon_Wanderer",
     "PicturePrefix": "UI_NameCardPic_Wanderer"
+  },
+  "TraceEffect": {
+    "Id": 215020,
+    "Name": "Echo: Eons Adrift",
+    "Description": "Wanderer's Envisaged Echo. \"Like the breeze, he lives in this world, and he walks its length and breadth.\"",
+    "Icon": "UI_TraceEffectIcon_Wanderer"
   }
 }

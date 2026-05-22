@@ -681,7 +681,7 @@
         },
         "Id": 1302101,
         "Name": "Notizen der Feldbeobachtung",
-        "Description": "# Verringert, wenn Lumi sich auf dem Feld befindet, den <color=#FFE699FF>Geo-WDS</color> von Gegnern in Lumis Nähe um 15{NON_BREAK_SPACE}%.\n\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Verstärkt Linneas Elementarfähigkeit <color=#FFD780FF>{LINK#S11302}Gegenmaßnahme – Lumis Kampfschrei!{/LINK}</color> und Spezialfähigkeit <color=#FFD780FF>{LINK#S11305}Notiz – Überlebensratgeber für ausweglose Lagen{/LINK}</color>. Verringert, nachdem Lumi auf das Schlachtfeld gerufen wurde, den <color=#FFE699FF>Geo-WDS</color> von Gegnern in Lumis Nähe zusätzlich um 15{NON_BREAK_SPACE}%.",
+        "Description": "#Verringert, wenn Lumi sich auf dem Feld befindet, den <color=#FFE699FF>Geo-WDS</color> von Gegnern in Lumis Nähe um 15{NON_BREAK_SPACE}%.\n\n<color=#FFD780FF>Mondomen – Reifer Glanz</color>: Verstärkt Linneas Elementarfähigkeit <color=#FFD780FF>{LINK#S11302}Gegenmaßnahme – Lumis Kampfschrei!{/LINK}</color> und Spezialfähigkeit <color=#FFD780FF>{LINK#S11305}Notiz – Überlebensratgeber für ausweglose Lagen{/LINK}</color>. Verringert, nachdem Lumi auf das Schlachtfeld gerufen wurde, den <color=#FFE699FF>Geo-WDS</color> von Gegnern in Lumis Nähe zusätzlich um 15{NON_BREAK_SPACE}%.",
         "Icon": "UI_Talent_S_Linnea_05"
       },
       {
@@ -697,7 +697,7 @@
               ]
             }
           ],
-          "Display": 0
+          "Display": 1
         },
         "Id": 1302201,
         "Name": "Umfassendes Naturkundearchiv",
@@ -801,6 +801,7 @@
     "BirthMonth": 5,
     "BirthDay": 23,
     "VisionBefore": "Geo",
+    "VisionOverrideLocked": "Mondrad",
     "VisionOverrideUnlocked": "Mondrad",
     "ConstellationBefore": "Alcyon",
     "CvChinese": "周侗",

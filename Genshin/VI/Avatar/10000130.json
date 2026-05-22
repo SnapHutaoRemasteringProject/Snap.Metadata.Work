@@ -697,7 +697,7 @@
               ]
             }
           ],
-          "Display": 0
+          "Display": 1
         },
         "Id": 1302201,
         "Name": "Cẩm Nang Khoa Học Tự Nhiên Muôn Loài",
@@ -801,6 +801,7 @@
     "BirthMonth": 5,
     "BirthDay": 23,
     "VisionBefore": "Nham",
+    "VisionOverrideLocked": "Vòng Mặt Trăng",
     "VisionOverrideUnlocked": "Vòng Mặt Trăng",
     "ConstellationBefore": "Cung Khải Dụ Điểu",
     "CvChinese": "周侗",

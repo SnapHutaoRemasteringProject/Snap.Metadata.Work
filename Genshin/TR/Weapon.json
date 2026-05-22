@@ -6890,6 +6890,59 @@
     ]
   },
   {
+    "Id": 13517,
+    "PromoteId": 13517,
+    "Sort": 5313,
+    "WeaponType": 13,
+    "RankLevel": 5,
+    "Name": "Felaket ve Pişmanlık",
+    "Description": "Beyaz Taş ve Gümüş Yıldızdan dövülen bir mızrak. Sivri ucu her daim kemiği delebilen bir soğukla çevrilidir.",
+    "Icon": "UI_EquipIcon_Pole_Carbine",
+    "AwakenIcon": "UI_EquipIcon_Pole_Carbine_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.048,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Hazin Son",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 17 saniyeliğine \"Çatışma Yolu\" etkisini ve 3 saniyeliğine \"Affedilemez\" ve \"Onarılamaz\" etkilerini kazanır. Bu etki 18 saniyede bir tetiklenebilir.\nAffedilemez: Kuşanan karakterin Normal Saldırı ve Yüklü Saldırı Hasarı <color=#99FFFFFF>%40</color> artar.\nOnarılamaz: Kuşanan karakterin Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%40</color> artar.\nÇatışma Yolu etkinken, kuşanan karakterin Normal Saldırısı ve Yüklü Saldırısı bir düşmana isabet ettiğinde Onarılamaz etkisinin süresi 1sn uzar. Kuşanan karakterin Element Becerisi ve Element Patlaması bir düşmana isabet ettiğinde Affedilemez etkisinin süresi 1sn uzar. Yukarıdaki etkilerin her biri 0,1 saniyede bir tetiklenebilir. Çatışma Yolu sona erdiğinde veya kuşanan karakter alandan ayrıldığında, hem Affedilemez hem de Onarılamaz kaldırılır.\nCadılık: Saklı Ayin: Yukarıdaki Hasar güçlendirmeleri %75 artar."
+        },
+        {
+          "Level": 1,
+          "Description": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 17 saniyeliğine \"Çatışma Yolu\" etkisini ve 3 saniyeliğine \"Affedilemez\" ve \"Onarılamaz\" etkilerini kazanır. Bu etki 18 saniyede bir tetiklenebilir.\nAffedilemez: Kuşanan karakterin Normal Saldırı ve Yüklü Saldırı Hasarı <color=#99FFFFFF>%50</color> artar.\nOnarılamaz: Kuşanan karakterin Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%50</color> artar.\nÇatışma Yolu etkinken, kuşanan karakterin Normal Saldırısı ve Yüklü Saldırısı bir düşmana isabet ettiğinde Onarılamaz etkisinin süresi 1sn uzar. Kuşanan karakterin Element Becerisi veya Element Patlaması bir düşmana isabet ettiğinde Affedilemez etkisinin süresi 1sn uzar. Yukarıdaki etkilerin her biri 0,1 saniyede bir tetiklenebilir. Çatışma Yolu sona erdiğinde veya kuşanan karakter alandan ayrıldığında, hem Affedilemez hem de Onarılamaz kaldırılır.\nCadılık: Saklı Ayin: Yukarıdaki Hasar güçlendirmeleri %75 artar."
+        },
+        {
+          "Level": 2,
+          "Description": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 17 saniyeliğine \"Çatışma Yolu\" etkisini ve 3 saniyeliğine \"Affedilemez\" ve \"Onarılamaz\" etkilerini kazanır. Bu etki 18 saniyede bir tetiklenebilir.\nAffedilemez: Kuşanan karakterin Normal Saldırı ve Yüklü Saldırı Hasarı <color=#99FFFFFF>%60</color> artar.\nOnarılamaz: Kuşanan karakterin Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%60</color> artar.\nÇatışma Yolu etkinken, kuşanan karakterin Normal Saldırısı ve Yüklü Saldırısı bir düşmana isabet ettiğinde Onarılamaz etkisinin süresi 1sn uzar. Kuşanan karakterin Element Becerisi ve Element Patlaması bir düşmana isabet ettiğinde Affedilemez etkisinin süresi 1sn uzar. Yukarıdaki etkilerin her biri 0,1 saniyede bir tetiklenebilir. Çatışma Yolu sona erdiğinde veya kuşanan karakter alandan ayrıldığında, hem Affedilemez hem de Onarılamaz kaldırılır.\nCadılık: Saklı Ayin: Yukarıdaki Hasar güçlendirmeleri %75 artar."
+        },
+        {
+          "Level": 3,
+          "Description": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 17 saniyeliğine \"Çatışma Yolu\" etkisini ve 3 saniyeliğine \"Affedilemez\" ve \"Onarılamaz\" etkilerini kazanır. Bu etki 18 saniyede bir tetiklenebilir.\nAffedilemez: Kuşanan karakterin Normal Saldırı ve Yüklü Saldırı Hasarı <color=#99FFFFFF>%70</color> artar.\nOnarılamaz: Kuşanan karakterin Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%70</color> artar.\nÇatışma Yolu etkinken, kuşanan karakterin Normal Saldırısı ve Yüklü Saldırısı bir düşmana isabet ettiğinde Onarılamaz etkisinin süresi 1sn uzar. Kuşanan karakterin Element Becerisi ve Element Patlaması bir düşmana isabet ettiğinde Affedilemez etkisinin süresi 1sn uzar. Yukarıdaki etkilerin her biri 0,1 saniyede bir tetiklenebilir. Çatışma Yolu sona erdiğinde veya kuşanan karakter alandan ayrıldığında, hem Affedilemez hem de Onarılamaz kaldırılır.\nCadılık: Saklı Ayin: Yukarıdaki Hasar güçlendirmeleri %75 artar."
+        },
+        {
+          "Level": 4,
+          "Description": "Kuşanan karakter bir Element Becerisi kullandıktan sonra 17 saniyeliğine \"Çatışma Yolu\" etkisini ve 3 saniyeliğine \"Affedilemez\" ve \"Onarılamaz\" etkilerini kazanır. Bu etki 18 saniyede bir tetiklenebilir.\nAffedilemez: Kuşanan karakterin Normal Saldırı ve Yüklü Saldırı Hasarı <color=#99FFFFFF>%80</color> artar.\nOnarılamaz: Kuşanan karakterin Element Becerisi ve Element Patlaması Hasarı <color=#99FFFFFF>%80</color> artar.\nÇatışma Yolu etkinken, kuşanan karakterin Normal Saldırısı ve Yüklü Saldırısı bir düşmana isabet ettiğinde Onarılamaz etkisinin süresi 1sn uzar. Kuşanan karakterin Element Becerisi ve Element Patlaması bir düşmana isabet ettiğinde Affedilemez etkisinin süresi 1sn uzar. Yukarıdaki etkilerin her biri 0,1 saniyede bir tetiklenebilir. Çatışma Yolu sona erdiğinde veya kuşanan karakter alandan ayrıldığında, hem Affedilemez hem de Onarılamaz kaldırılır.\nCadılık: Saklı Ayin: Yukarıdaki Hasar güçlendirmeleri %75 artar."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112133,
+      112040
+    ]
+  },
+  {
     "Id": 14101,
     "PromoteId": 14101,
     "Sort": 1401,
@@ -9480,6 +9533,59 @@
     ]
   },
   {
+    "Id": 14523,
+    "PromoteId": 14523,
+    "Sort": 5420,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Meleğin Yedi Fermanı",
+    "Description": "Göklerin ışığı kadar ihtişamlı altın bir kutu. Efsaneye göre bir zamanlar Ebedi Saray'ın kutsal bir elçisine aitmiş.",
+    "Icon": "UI_EquipIcon_Catalyst_FairyGarden",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 49.1377,
+        "Type": 4,
+        "Value": 1303
+      },
+      {
+        "InitValue": 0.036,
+        "Type": 6,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Son Varisin Tacı",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Saldırı <color=#99FFFFFF>%12</color> artar. Kuşanan karakter bir Kalkan oluşturduktan sonra 20 saniyeliğine \"Öncünün Işığı\" etkisini kazanır: Aktif grup üyesinin Hasarı, kuşanan karakterin sahip olduğu her 1.000 Saldırı başına <color=#99FFFFFF>%10</color> artar, bu artış en fazla <color=#99FFFFFF>%26</color> olabilir. Ayrıca kuşanan karakter bir Kalkan oluşturduğunda \"Rehberin Memnuniyeti\" etkisini kazanır: Kuşanan karakter <color=#99FFFFFF>14</color> Element Enerjisi yeniler. Bu etki 14 saniyede bir tetiklenebilir ve savaş dışında herhangi bir tür sandık açıldığında da tetiklenebilir. Kuşanan karakter bu etkiyi alanda olmasa bile tetikleyebilir.\nCadılık: Saklı Ayin: Gruptaki Cadılık karakterin alanda olmadığında o da Öncünün Işığının sağladığı Hasar Artışının %50'sini kazanır."
+        },
+        {
+          "Level": 1,
+          "Description": "Saldırı <color=#99FFFFFF>%15</color> artar. Kuşanan karakter bir Kalkan oluşturduktan sonra 20 saniyeliğine \"Öncünün Işığı\" etkisini kazanır: Aktif grup üyesinin Hasarı, kuşanan karakterin sahip olduğu her 1.000 Saldırı başına <color=#99FFFFFF>%13</color> artar, bu artış en fazla <color=#99FFFFFF>%34</color> olabilir. Ayrıca kuşanan karakter bir Kalkan oluşturduğunda \"Rehberin Memnuniyeti\" etkisini kazanır: Kuşanan karakter <color=#99FFFFFF>15</color> Element Enerjisi yeniler. Bu etki 14 saniyede bir tetiklenebilir ve savaş dışında herhangi bir tür sandık açıldığında da tetiklenebilir. Kuşanan karakter bu etkiyi alanda olmasa bile tetikleyebilir.\nCadılık: Saklı Ayin: Gruptaki Cadılık karakterin alanda olmadığında o da Öncünün Işığının sağladığı Hasar Artışının %50'sini kazanır."
+        },
+        {
+          "Level": 2,
+          "Description": "Saldırı <color=#99FFFFFF>%18</color> artar. Kuşanan karakter bir Kalkan oluşturduktan sonra 20 saniyeliğine \"Öncünün Işığı\" etkisini kazanır: Aktif grup üyesinin Hasarı, kuşanan karakterin sahip olduğu her 1.000 Saldırı başına <color=#99FFFFFF>%16</color> artar, bu artış en fazla <color=#99FFFFFF>%42</color> olabilir. Ayrıca kuşanan karakter bir Kalkan oluşturduğunda \"Rehberin Memnuniyeti\" etkisini kazanır: Kuşanan karakter <color=#99FFFFFF>16</color> Element Enerjisi yeniler. Bu etki 14 saniyede bir tetiklenebilir ve savaş dışında herhangi bir tür sandık açıldığında da tetiklenebilir. Kuşanan karakter bu etkiyi alanda olmasa bile tetikleyebilir.\nCadılık: Saklı Ayin: Gruptaki Cadılık karakterin alanda olmadığında o da Öncünün Işığının sağladığı Hasar Artışının %50'sini kazanır."
+        },
+        {
+          "Level": 3,
+          "Description": "Saldırı <color=#99FFFFFF>%21</color> artar. Kuşanan karakter bir Kalkan oluşturduktan sonra 20 saniyeliğine \"Öncünün Işığı\" etkisini kazanır: Aktif grup üyesinin Hasarı, kuşanan karakterin sahip olduğu her 1.000 Saldırı başına <color=#99FFFFFF>%19</color> artar, bu artış en fazla <color=#99FFFFFF>%50</color> olabilir. Ayrıca kuşanan karakter bir Kalkan oluşturduğunda \"Rehberin Memnuniyeti\" etkisini kazanır: Kuşanan karakter <color=#99FFFFFF>17</color> Element Enerjisi yeniler. Bu etki 14 saniyede bir tetiklenebilir ve savaş dışında herhangi bir tür sandık açıldığında da tetiklenebilir. Kuşanan karakter bu etkiyi alanda olmasa bile tetikleyebilir.\nCadılık: Saklı Ayin: Gruptaki Cadılık karakterin alanda olmadığında o da Öncünün Işığının sağladığı Hasar Artışının %50'sini kazanır."
+        },
+        {
+          "Level": 4,
+          "Description": "Saldırı <color=#99FFFFFF>%24</color> artar. Kuşanan karakter bir Kalkan oluşturduktan sonra 20 saniyeliğine \"Öncünün Işığı\" etkisini kazanır: Aktif grup üyesinin Hasarı, kuşanan karakterin sahip olduğu her 1.000 Saldırı başına <color=#99FFFFFF>%22</color> artar, bu artış en fazla <color=#99FFFFFF>%58</color> olabilir. Ayrıca kuşanan karakter bir Kalkan oluşturduğunda \"Rehberin Memnuniyeti\" etkisini kazanır: Kuşanan karakter <color=#99FFFFFF>18</color> Element Enerjisi yeniler. Bu etki 14 saniyede bir tetiklenebilir ve savaş dışında herhangi bir tür sandık açıldığında da tetiklenebilir. Kuşanan karakter bu etkiyi alanda olmasa bile tetikleyebilir.\nCadılık: Saklı Ayin: Gruptaki Cadılık karakterin alanda olmadığında o da Öncünün Işığının sağladığı Hasar Artışının %50'sini kazanır."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114076,
+      112142,
+      112124
+    ]
+  },
+  {
     "Id": 15101,
     "PromoteId": 15101,
     "Sort": 1501,
@@ -11738,7 +11844,7 @@
   {
     "Id": 15514,
     "PromoteId": 15514,
-    "Sort": 5512,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Astral Akbabanın Kızıl Tüyü",
@@ -11791,7 +11897,7 @@
   {
     "Id": 15515,
     "PromoteId": 15515,
-    "Sort": 5513,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Şafak Günlükleri",
@@ -11844,7 +11950,7 @@
   {
     "Id": 15516,
     "PromoteId": 15516,
-    "Sort": 5514,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Altuni Buzul Yemin",

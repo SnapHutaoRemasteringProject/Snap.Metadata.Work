@@ -6913,6 +6913,59 @@
     ]
   },
   {
+    "Id": 13517,
+    "PromoteId": 13517,
+    "Sort": 5313,
+    "WeaponType": 13,
+    "RankLevel": 5,
+    "Name": "Disaster and Remorse",
+    "Description": "Tombak panjang yang ditempa dari batu putih dan Starsilver. Ujungnya yang tajam selalu diliputi hawa dingin yang menusuk tulang.",
+    "Icon": "UI_EquipIcon_Pole_Carbine",
+    "AwakenIcon": "UI_EquipIcon_Pole_Carbine_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.048,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ruin and Blame",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, mendapatkan efek Path of Conflict yang berlangsung selama 17 detik dan efek \"Unforgivable\" dan \"Irreparable\" yang masing-masingnya berlangsung selama 3 detik, dapat terpicu sekali setiap 18 detik.\nUnforgivable: DMG Normal Attack dan Charged Attack Karakter yang mengenakan +<color=#99FFFFFF>40%.</color>\nIrreparable: DMG Elemental Skill dan Elemental Burst Karakter yang mengenakan +<color=#99FFFFFF>40%</color>.\nSelama durasi Path of Conflict, saat Normal Attack dan Charged Attack Karakter yang mengenakan mengenai musuh, durasi Irreparable akan bertambah 1 detik. Saat Elemental Skill dan Elemental Burst Karakter yang mengenakan mengenai musuh, durasi Unforgivable akan bertambah 1 detik. Efek di atas masing-masing dapat terpicu sekali setiap 0,1 detik. Efek Unforgivable dan Irreparable akan hilang saat durasi Path of Conflict berakhir, atau saat Karakter yang mengenakan meninggalkan medan pertempuran.\n\nHexerei: Secret Rite: Seluruh efek peningkatan DMG yang disebutkan di atas meningkat sebesar 75%."
+        },
+        {
+          "Level": 1,
+          "Description": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, mendapatkan efek Path of Conflict yang berlangsung selama 17 detik dan efek \"Unforgivable\" dan \"Irreparable\" yang masing-masingnya berlangsung selama 3 detik, dapat terpicu sekali setiap 18 detik.\nUnforgivable: DMG Normal Attack dan Charged Attack Karakter yang mengenakan +<color=#99FFFFFF>50%.</color>\nIrreparable: DMG Elemental Skill dan Elemental Burst Karakter yang mengenakan +<color=#99FFFFFF>50%</color>.\nSelama durasi Path of Conflict, saat Normal Attack dan Charged Attack Karakter yang mengenakan mengenai musuh, durasi Irreparable akan bertambah 1 detik. Saat Elemental Skill dan Elemental Burst Karakter yang mengenakan mengenai musuh, durasi Unforgivable akan bertambah 1 detik. Efek di atas masing-masing dapat terpicu sekali setiap 0,1 detik. Efek Unforgivable dan Irreparable akan hilang saat durasi Path of Conflict berakhir, atau saat Karakter yang mengenakan meninggalkan medan pertempuran.\n\nHexerei: Secret Rite: Seluruh efek peningkatan DMG yang disebutkan di atas meningkat sebesar 75%."
+        },
+        {
+          "Level": 2,
+          "Description": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, mendapatkan efek Path of Conflict yang berlangsung selama 17 detik dan efek \"Unforgivable\" dan \"Irreparable\" yang masing-masingnya berlangsung selama 3 detik, dapat terpicu sekali setiap 18 detik.\nUnforgivable: DMG Normal Attack dan Charged Attack Karakter yang mengenakan +<color=#99FFFFFF>60%.</color>\nIrreparable: DMG Elemental Skill dan Elemental Burst Karakter yang mengenakan +<color=#99FFFFFF>60%</color>.\nSelama durasi Path of Conflict, saat Normal Attack dan Charged Attack Karakter yang mengenakan mengenai musuh, durasi Irreparable akan bertambah 1 detik. Saat Elemental Skill dan Elemental Burst Karakter yang mengenakan mengenai musuh, durasi Unforgivable akan bertambah 1 detik. Efek di atas masing-masing dapat terpicu sekali setiap 0,1 detik. Efek Unforgivable dan Irreparable akan hilang saat durasi Path of Conflict berakhir, atau saat Karakter yang mengenakan meninggalkan medan pertempuran.\n\nHexerei: Secret Rite: Seluruh efek peningkatan DMG yang disebutkan di atas meningkat sebesar 75%."
+        },
+        {
+          "Level": 3,
+          "Description": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, mendapatkan efek Path of Conflict yang berlangsung selama 17 detik dan efek \"Unforgivable\" dan \"Irreparable\" yang masing-masingnya berlangsung selama 3 detik, dapat terpicu sekali setiap 18 detik.\nUnforgivable: DMG Normal Attack dan Charged Attack Karakter yang mengenakan +<color=#99FFFFFF>70%.</color>\nIrreparable: DMG Elemental Skill dan Elemental Burst Karakter yang mengenakan +<color=#99FFFFFF>70%</color>.\nSelama durasi Path of Conflict, saat Normal Attack dan Charged Attack Karakter yang mengenakan mengenai musuh, durasi Irreparable akan bertambah 1 detik. Saat Elemental Skill dan Elemental Burst Karakter yang mengenakan mengenai musuh, durasi Unforgivable akan bertambah 1 detik. Efek di atas masing-masing dapat terpicu sekali setiap 0,1 detik. Efek Unforgivable dan Irreparable akan hilang saat durasi Path of Conflict berakhir, atau saat Karakter yang mengenakan meninggalkan medan pertempuran.\n\nHexerei: Secret Rite: Seluruh efek peningkatan DMG yang disebutkan di atas meningkat sebesar 75%."
+        },
+        {
+          "Level": 4,
+          "Description": "Setelah Karakter yang mengenakan melancarkan Elemental Skill, mendapatkan efek Path of Conflict yang berlangsung selama 17 detik dan efek \"Unforgivable\" dan \"Irreparable\" yang masing-masingnya berlangsung selama 3 detik, dapat terpicu sekali setiap 18 detik.\nUnforgivable: DMG Normal Attack dan Charged Attack Karakter yang mengenakan +<color=#99FFFFFF>80%.</color>\nIrreparable: DMG Elemental Skill dan Elemental Burst Karakter yang mengenakan +<color=#99FFFFFF>80%</color>.\nSelama durasi Path of Conflict, saat Normal Attack dan Charged Attack Karakter yang mengenakan mengenai musuh, durasi Irreparable akan bertambah 1 detik. Saat Elemental Skill dan Elemental Burst Karakter yang mengenakan mengenai musuh, durasi Unforgivable akan bertambah 1 detik. Efek di atas masing-masing dapat terpicu sekali setiap 0,1 detik. Efek Unforgivable dan Irreparable akan hilang saat durasi Path of Conflict berakhir, atau saat Karakter yang mengenakan meninggalkan medan pertempuran.\n\nHexerei: Secret Rite: Seluruh efek peningkatan DMG yang disebutkan di atas meningkat sebesar 75%."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112133,
+      112040
+    ]
+  },
+  {
     "Id": 14101,
     "PromoteId": 14101,
     "Sort": 1401,
@@ -9503,6 +9556,59 @@
     ]
   },
   {
+    "Id": 14523,
+    "PromoteId": 14523,
+    "Sort": 5420,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Angelos' Heptades",
+    "Description": "Kotak emas secantik cahaya langit. Konon katanya di masa lalu, pernah menjadi milik utusan Pengadilan Abadi.",
+    "Icon": "UI_EquipIcon_Catalyst_FairyGarden",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 49.1377,
+        "Type": 4,
+        "Value": 1303
+      },
+      {
+        "InitValue": 0.036,
+        "Type": 6,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Crown of the Final Scion",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "ATK +<color=#99FFFFFF>12%</color>. Selama 20 detik setelah Karakter yang mengenakan menciptakan Perisai, Karakter tersebut mendapatkan efek Pathfinder's Light: Untuk setiap 1.000 poin ATK yang dimiliki oleh Karakter yang mengenakan, akan meningkatkan DMG yang diakibatkan Karakter aktif sendiri dalam party sebesar <color=#99FFFFFF>10%</color>, hingga maksimum <color=#99FFFFFF>26%</color>. Selain itu, saat Karakter yang mengenakan menciptakan Perisai, Karakter tersebut juga akan mendapatkan efek Guide's Contentment: Memulihkan <color=#99FFFFFF>14</color> poin Energy Karakter yang mengenakan. Efek ini dapat terpicu sekali setiap 14 detik. Efek ini juga dapat terpicu saat membuka segala jenis peti harta karun di luar pertempuran. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nHexerei: Secret Rite: Saat Karakter Hexerei sendiri dalam party ada di dalam party namun sedang tidak berada di medan pertempuran, mereka juga akan mendapatkan 50% efek peningkatan DMG dari Pathfinder's Light."
+        },
+        {
+          "Level": 1,
+          "Description": "ATK +<color=#99FFFFFF>15%</color>. Selama 20 detik setelah Karakter yang mengenakan menciptakan Perisai, Karakter tersebut mendapatkan efek Pathfinder's Light: Untuk setiap 1.000 poin ATK yang dimiliki oleh Karakter yang mengenakan, akan meningkatkan DMG yang diakibatkan Karakter aktif sendiri dalam party sebesar <color=#99FFFFFF>13%</color>, hingga maksimum <color=#99FFFFFF>34%</color>. Selain itu, saat Karakter yang mengenakan menciptakan Perisai, Karakter tersebut juga akan mendapatkan efek Guide's Contentment: Memulihkan <color=#99FFFFFF>15</color> poin Energy Karakter yang mengenakan. Efek ini dapat terpicu sekali setiap 14 detik. Efek ini juga dapat terpicu saat membuka segala jenis peti harta karun di luar pertempuran. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nHexerei: Secret Rite: Saat Karakter Hexerei sendiri dalam party ada di dalam party namun sedang tidak berada di medan pertempuran, mereka juga akan mendapatkan 50% efek peningkatan DMG dari Pathfinder's Light."
+        },
+        {
+          "Level": 2,
+          "Description": "ATK +<color=#99FFFFFF>18%</color>. Selama 20 detik setelah Karakter yang mengenakan menciptakan Perisai, Karakter tersebut mendapatkan efek Pathfinder's Light: Untuk setiap 1.000 poin ATK yang dimiliki oleh Karakter yang mengenakan, akan meningkatkan DMG yang diakibatkan Karakter aktif sendiri dalam party sebesar <color=#99FFFFFF>16%</color>, hingga maksimum <color=#99FFFFFF>42%</color>. Selain itu, saat Karakter yang mengenakan menciptakan Perisai, Karakter tersebut juga akan mendapatkan efek Guide's Contentment: Memulihkan <color=#99FFFFFF>16</color> poin Energy Karakter yang mengenakan. Efek ini dapat terpicu sekali setiap 14 detik. Efek ini juga dapat terpicu saat membuka segala jenis peti harta karun di luar pertempuran. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nHexerei: Secret Rite: Saat Karakter Hexerei sendiri dalam party ada di dalam party namun sedang tidak berada di medan pertempuran, mereka juga akan mendapatkan 50% efek peningkatan DMG dari Pathfinder's Light."
+        },
+        {
+          "Level": 3,
+          "Description": "ATK +<color=#99FFFFFF>21%</color>. Selama 20 detik setelah Karakter yang mengenakan menciptakan Perisai, Karakter tersebut mendapatkan efek Pathfinder's Light: Untuk setiap 1.000 poin ATK yang dimiliki oleh Karakter yang mengenakan, akan meningkatkan DMG yang diakibatkan Karakter aktif sendiri dalam party sebesar <color=#99FFFFFF>19%</color>, hingga maksimum <color=#99FFFFFF>50%</color>. Selain itu, saat Karakter yang mengenakan menciptakan Perisai, Karakter tersebut juga akan mendapatkan efek Guide's Contentment: Memulihkan <color=#99FFFFFF>17</color> poin Energy Karakter yang mengenakan. Efek ini dapat terpicu sekali setiap 14 detik. Efek ini juga dapat terpicu saat membuka segala jenis peti harta karun di luar pertempuran. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nHexerei: Secret Rite: Saat Karakter Hexerei sendiri dalam party ada di dalam party namun sedang tidak berada di medan pertempuran, mereka juga akan mendapatkan 50% efek peningkatan DMG dari Pathfinder's Light."
+        },
+        {
+          "Level": 4,
+          "Description": "ATK +<color=#99FFFFFF>24%</color>. Selama 20 detik setelah Karakter yang mengenakan menciptakan Perisai, Karakter tersebut mendapatkan efek Pathfinder's Light: Untuk setiap 1.000 poin ATK yang dimiliki oleh Karakter yang mengenakan, akan meningkatkan DMG yang diakibatkan Karakter aktif sendiri dalam party sebesar <color=#99FFFFFF>22%</color>, hingga maksimum <color=#99FFFFFF>58%</color>. Selain itu, saat Karakter yang mengenakan menciptakan Perisai, Karakter tersebut juga akan mendapatkan efek Guide's Contentment: Memulihkan <color=#99FFFFFF>18</color> poin Energy Karakter yang mengenakan. Efek ini dapat terpicu sekali setiap 14 detik. Efek ini juga dapat terpicu saat membuka segala jenis peti harta karun di luar pertempuran. Efek ini tetap dapat terpicu meskipun Karakter yang mengenakan ada di dalam party namun sedang tidak berada di medan pertempuran.\nHexerei: Secret Rite: Saat Karakter Hexerei sendiri dalam party ada di dalam party namun sedang tidak berada di medan pertempuran, mereka juga akan mendapatkan 50% efek peningkatan DMG dari Pathfinder's Light."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114076,
+      112142,
+      112124
+    ]
+  },
+  {
     "Id": 15101,
     "PromoteId": 15101,
     "Sort": 1501,
@@ -11807,7 +11913,7 @@
   {
     "Id": 15514,
     "PromoteId": 15514,
-    "Sort": 5512,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Astral Vulture's Crimson Plumage",
@@ -11860,7 +11966,7 @@
   {
     "Id": 15515,
     "PromoteId": 15515,
-    "Sort": 5513,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "The Daybreak Chronicles",
@@ -11913,7 +12019,7 @@
   {
     "Id": 15516,
     "PromoteId": 15516,
-    "Sort": 5514,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Golden Frostbound Oath",

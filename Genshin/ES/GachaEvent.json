@@ -5454,5 +5454,61 @@
       14434,
       15401
     ]
+  },
+  {
+    "Name": "la Taciturna Clamorosa",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/2cd52c1e532abb547dc7028f3910ac98_4910346066045937776_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/2cd52c1e532abb547dc7028f3910ac98_4910346066045937776_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000131
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "el Fuego Inextinguible",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/68f159efb96b4c955da1f58dacf4464b_4774324459768427235_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/68f159efb96b4c955da1f58dacf4464b_4774324459768427235_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000123
+    ],
+    "UpPurpleList": [
+      10000020,
+      10000031,
+      10000132
+    ]
+  },
+  {
+    "Name": "Encarnación divina",
+    "Version": "6.6",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/6f6ddb73e79839f089a5f116dcbe9d67_9210550110634019576_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/6f6ddb73e79839f089a5f116dcbe9d67_9210550110634019576_transformed.jpg",
+    "From": "2026-05-20T06:00:00+08:00",
+    "To": "2026-06-09T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      11518
+    ],
+    "UpPurpleList": [
+      11434,
+      12402,
+      13401,
+      14402,
+      15412
+    ]
   }
 ]

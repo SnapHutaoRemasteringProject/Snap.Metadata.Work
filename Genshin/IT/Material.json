@@ -2125,6 +2125,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Lohen",
+    "Description": "Materiale per l'attivazione della costellazione di Lohen",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2132,6 +2143,28 @@
     "Description": "Materiale per l'attivazione della costellazione di Linnea",
     "TypeDescription": "Attiva costellazione",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Nicole",
+    "Description": "Materiale per l'attivazione della costellazione di Nicole",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Prune",
+    "Description": "Materiale per l'attivazione della costellazione di Prune",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3379,6 +3412,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Lohen",
+    "Description": "Materiale per l'attivazione della costellazione di Lohen",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3386,6 +3430,28 @@
     "Description": "Materiale per l'attivazione della costellazione di Linnea",
     "TypeDescription": "Attiva costellazione",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Nicole",
+    "Description": "Materiale per l'attivazione della costellazione di Nicole",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna di Prune",
+    "Description": "Materiale per l'attivazione della costellazione di Prune",
+    "TypeDescription": "Attiva costellazione",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -18497,7 +18563,7 @@
     "Id": 101992,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Testimonianza sulla shut di Aaru",
+    "Name": "Testimonianza sul Riflesso di Aaru",
     "Description": "Una tavoletta di pietra che hai trovato nel punto più alto del Mausoleo di Re Deshret. Sembra la testimonianza di una civiltà perduta.",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_101988"
@@ -31689,6 +31755,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Ripristina 70 di vigore.",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu ripieno di carne macinata sospetto",
+    "Description": "Un saporito piatto a base di tofu farcito con un succulento ripieno di carne. La prima volta che provi a prenderne un pezzo, vedi il tofu sfaldarsi completamente. La seconda volta, il tofu e il ripieno si separano all'istante... Per quanto l'aroma sia invitante, dopo aver fallito due volte di seguito, hai perso completamente la voglia di riprovarci.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Ripristina 85 di vigore.",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu ripieno di carne macinata",
+    "Description": "Un saporito piatto a base di tofu farcito con un succulento ripieno di carne. Ogni cubetto di tofu viene svuotato e riempito con carne macinata condita alla perfezione, poi scottato fino a doratura e infine stufato in una salsa ricca e saporita. Da umili ingredienti quotidiani nasce un sapore di casa, il cibo più amato e familiare che si possa trovare in ogni strada e vicolo.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Ripristina 100 di vigore.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tofu ripieno di carne macinata delizioso",
+    "Description": "Un saporito piatto a base di tofu farcito con un succulento ripieno di carne. Quattro pezzi dorati sono disposti ordinatamente su un ampio piatto di porcellana con bordo color oro. Il vapore si leva in soffici e fragranti riccioli, sprigionando un aroma che stuzzica subito l'appetito. Il tofu si finisce in pochi bocconi e la salsa ambrata che rimane è troppo deliziosa per non essere usata: è perfetta per condire il riso.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Rianima un personaggio e ripristina 900 PS.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gomme da masticare alla menta sospette",
+    "Description": "Delle caramelle morbide e gommose. Sfidando il potente freddo della menta, gonfi le guance e con grande sforzo riesci a creare un timido e minuscolo palloncino. Ma proprio quando il successo sembra a portata di mano, si sgonfia con tanti piccoli e tristi \"pfff\", e l'intero tentativo va in fumo...",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Rianima un personaggio e ripristina 1.200 PS.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gomme da masticare alla menta",
+    "Description": "Delle caramelle morbide e gommose caratterizzate da una miscela di due gusti distinti. Con un po' di pratica, è possibile usarle per creare palloni incredibilmente grandi! Ma attenzione: se esageri e il pallone scoppia, ti ritroverai con la faccia viscida e appiccicosa!",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Rianima un personaggio e ripristina 1.500 PS.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gomme da masticare alla menta deliziose",
+    "Description": "Delle caramelle morbide e gommose. Il loro sapore fresco scivola dolcemente in gola, donando un'immediata sensazione di sollievo. E non è tutto: soffiando dolcemente, è possibile gonfiare un pallone trasparente e lucido. Dei dolcetti perfetti per passare il tempo!",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "#Riduce di un 25% il consumo di vigore di tutti i membri del gruppo durante le arrampicate e gli scatti per 1.500{NON_BREAK_SPACE}s. In modalità cooperativa, si applica solo ai tuoi personaggi.",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Roulette roteante",
+    "Description": "La specialità di Prune. \"Questa Roulette roteante è un gioco a cui solo gli adulti di Nod-Krai possono partecipare! Eheh, ti faccio vedere come funziona\". Con un piccolo gesto compiaciuto, posiziona davanti a te un vassoio girevole pieno di bevande. I succhi sono vivaci, colorati, dolci e saporiti, ma non appena vedi il vassoio, ti viene subito in mente la \"Roulette delle bevande\"... Aspetta! Avrà mica sbagliato nome?",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Ripristina 130 di vigore.",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Baule dorato",
+    "Description": "#La specialità di Nicole. \"Sei {F#sorpresa}{M#sorpreso}? Sapevo già come prepararlo da molto tempo. Beh, a quei tempi...\" \"Ultimamente, ho sentito dal signor Nove che è tornato in voga a Liyue...\" \"La forma di un baule e un'icona culinaria, tutto in uno? Sono un genio...\" Mentre un \"baule\" dorato viene posto davanti a te, un fiume di chiacchiere incessanti ti riempie la mente all'istante... Non può che trattarsi di Nicole. La testa potrebbe finire per ronzarti per la raffica di parole, ma il piacere che proverà il tuo palato sarà ancora più appagante dell'apertura di un lussuoso baule.",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Rianima il personaggio selezionato e ripristina un 20% dei PS max, quindi ripristina 1.500 PS aggiuntivi.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gomme da masticare scaccianoia",
+    "Description": "La specialità di Lohen. Vedendo che ti annoiavi, ti ha porto delle caramelle sostenendo con orgoglio che avrebbero aiutato a passare il tempo. Dopo averti visto masticare un po', ha tirato fuori all'improvviso uno specchio e te l'ha mostrato, con fare decisamente troppo compiaciuto. Oh, no... Era una trappola fin dall'inizio! La tua lingua è già tinta di un brillante blu verdastro... Quindi, con \"aiutare a passare il tempo\" intendeva il suo?",
+    "TypeDescription": "Cibo",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -34622,6 +34796,28 @@
     "ItemType": 2,
     "Name": "Ricetta: Piatto del mattino di Borgo Mulino",
     "Description": "Una ricetta dettagliata passo dopo passo per preparare un Piatto del mattino di Borgo Mulino.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ricetta: tofu ripieno di carne macinata",
+    "Description": "Una ricetta passo dopo passo per preparare del tofu ripieno di carne macinata.",
+    "TypeDescription": "Ricetta",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Ricetta: gomme da masticare alla menta",
+    "Description": "Una ricetta passo dopo passo per preparare delle gomme da masticare alla menta.",
     "TypeDescription": "Ricetta",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37645,6 +37841,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Resina contraffatta",
+    "Description": "Una resina recuperata dalle profondità infrante delle linee geomantiche dopo aver sconfitto l'eretico nascosto all'interno dell'Irminsul.\nUn tempo era un cristallo destinato a custodire i tanti, splendidi ricordi che compongono questo mondo, ora è invece colmo d'illusioni ed empia malvagità.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Ramo avvizzito contorto",
+    "Description": "Un ramo avvizzito recuperato dalle profondità infrante delle linee geomantiche dopo aver sconfitto l'eretico nascosto all'interno dell'Irminsul.\nUn ramo contorto cresciuto da un gigantesco albero destinato a rimanere seppellito nelle profondità della terra. Benché sia stato reciso, conserva ancora uno strano e malevolo potere.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Germoglio profanato",
+    "Description": "Un germoglio recuperato dalle profondità infrante delle linee geomantiche dopo aver sconfitto l'eretico nascosto all'interno dell'Irminsul.\nQuello che sarebbe dovuto essere un bocciolo di speranza è ora diventato un faro di profanazione. Attraverso le sue vene tentacolari, l'albero peccaminoso continua a protendersi verso il cielo.",
+    "TypeDescription": "Materiale per aumento livello dei personaggi",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39313,6 +39542,28 @@
     "ItemType": 2,
     "Name": "Reliquiario del dominio: livello I",
     "Description": "Un reliquiario utilizzato per conservare i manufatti. Sia benedetto chi lo vede.\n\nOgni reliquiario garantisce un manufatto dai seguenti set:\n· Aubade della stella del mattino e della luna\n· Un giorno scolpito dai venti ascendenti",
+    "TypeDescription": "Reliquiario",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Reliquiario del dominio: livello II",
+    "Description": "Un reliquiario utilizzato per conservare i manufatti. Sia benedetto chi lo vede.\n\nOgni reliquiario garantisce un manufatto dai seguenti set:\n· Dono del cielo\n· Disincanto nell'ombra profonda\n· Berserker\n· Istruttore\n· Esule",
+    "TypeDescription": "Reliquiario",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Reliquiario del dominio: livello I",
+    "Description": "Un reliquiario utilizzato per conservare i manufatti. Sia benedetto chi lo vede.\n\nOgni reliquiario garantisce un manufatto dai seguenti set:\n· Dono del cielo\n· Disincanto nell'ombra profonda",
     "TypeDescription": "Reliquiario",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52046,6 +52297,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Tassa dell'amicizia\" di Lohen",
+    "Description": "Un pesante sacchetto di Mora. Una volta aperto, emana il bagliore dorato dell'\"amicizia\".",
+    "TypeDescription": "Consumabile",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Tassa dell'amicizia\" di Lohen",
+    "Description": "Un sacchetto di Mora ora vuoto. Un tempo, quando veniva aperto emanava il bagliore dorato dell'\"amicizia\".",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52095,7 +52368,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Il sogno di Rhonabwy",
+    "Name": "Il sogno di Rhonabouillet",
     "Description": "Una raccolta di poesie pubblicata dalla Lenormand Edizioni, che narra la storia di un protagonista che viaggia indietro nel tempo e si innamora di una domestica alla corte del cavaliere di Loch.",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_100178"
@@ -52117,7 +52390,7 @@
     "Id": 121563,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Canone dell'Amore, dell'Ispirazione divina e della Virtù",
+    "Name": "Rivelazioni d'amore divino",
     "Description": "Una raccolta di poesie che si dice sia stata scritta da un sacerdote dell'antica Chiesa di Favonius sotto la guida dell'Archon di Anemo. L'opera riflette sulla distinzione tra amore divino e amore umano, giungendo alla conclusione che la compassione, l'amicizia e l'affetto romantico che contraddistinguono l'umanità possiedono le intrinseche qualità del sacro, poiché nascono tutti dal medesimo desiderio di libertà.",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_100182"
@@ -52132,6 +52405,72 @@
     "Description": "Nota",
     "TypeDescription": "Oggetto missione",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Midollo d'albero anomalo I",
+    "Description": "Si sospetta che sia una concrezione resinosa trasudata dal tronco incenerito dell'Irminsul. La sua forma è peculiare e, laddove rimane esposta, dal suo interno emana una luce funesta.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Midollo d'albero anomalo II",
+    "Description": "Si sospetta che sia una concrezione resinosa trasudata dal tronco incenerito dell'Irminsul. La sua forma è peculiare e, laddove rimane esposta, dal suo interno emana una luce funesta.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Midollo d'albero anomalo III",
+    "Description": "Si sospetta che sia una concrezione resinosa trasudata dal tronco incenerito dell'Irminsul. La sua forma è peculiare e, laddove rimane esposta, dal suo interno emana una luce funesta.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Midollo d'albero anomalo",
+    "Description": "Si sospetta che sia una concrezione resinosa trasudata dal tronco incenerito dell'Irminsul. La sua forma è peculiare e, laddove rimane esposta, dal suo interno emana una luce funesta.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Latte ai dango \"infuso di magia\"",
+    "Description": "Una bottiglia di latte ai dango apparentemente ordinario e che, di fatto, lo è. Secondo Prune, però, è tutt'altro che normale, poiché l'ha vinto a una strega!",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Componente Costrutto primordiale",
+    "Description": "Incaricati da Nahida e dal Grande Saggio Naphis, Alhaitham e Kaveh si stanno occupando di un progetto urgente. Poiché la fase successiva richiede un'enorme quantità di materiali, hanno scelto i Costrutti primordiali all'interno del Mausoleo di Re Deshret come fonte ideale. La loro antica tecnologia e i componenti di alta qualità verranno smantellati in parti microscopiche, per poi essere riconfigurati per un nuovo ambiente.",
+    "TypeDescription": "Oggetto missione",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -56671,7 +57010,7 @@
     "Id": 220003,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola di Geo",
+    "Name": "Bussola cercatesori di Geo",
     "Description": "Una bussola utilizzabile a Liyue per cercare bauli e indizi rilevanti nelle vicinanze.\nLa Terra di Geo è piena di risorse preziose, con tesori nascosti tra montagne e terre selvagge che aspettano solo di essere trovati.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220003"
@@ -56737,7 +57076,7 @@
     "Id": 220009,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola di Anemo",
+    "Name": "Bussola cercatesori di Anemo",
     "Description": "Una bussola utilizzabile a Mondstadt per cercare bauli e indizi rilevanti nelle vicinanze.\nL'ago di questo strumento non gira seguendo le leggi del campo magnetico del mondo, ma segue l'energia delle linee geomantiche per condurre chi la usa verso tesori nascosti.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220009"
@@ -56979,7 +57318,7 @@
     "Id": 220034,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola di Electro",
+    "Name": "Bussola cercatesori di Electro",
     "Description": "Uno strumento utile che si può usare a Inazuma per cercare bauli e indizi rilevanti nelle vicinanze.\nLa terra dell'arcipelago tonante ha subito molte ferite in passato. Il gran numero di bauli sparsi sulle isole simboleggia la sua rinascita dalle ferite passate.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220034"
@@ -57221,7 +57560,7 @@
     "Id": 220058,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola di Dendro",
+    "Name": "Bussola cercatesori di Dendro",
     "Description": "Una bussola utilizzabile a Sumeru per cercare bauli e indizi rilevanti nelle vicinanze.\nPer alcuni, il senso della vita risiede nell'esplorazione e nella scoperta: una volta giunti a destinazione, troveranno sempre un tesoro ad attenderli.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220058"
@@ -57518,7 +57857,7 @@
     "Id": 220087,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola di Hydro",
+    "Name": "Bussola cercatesori di Hydro",
     "Description": "Una bussola utilizzabile a Fontaine per cercare bauli e indizi rilevanti nelle vicinanze.\nQuesti bauli sparsi in tutta Fontaine non sono di proprietà di un individuo o di un'organizzazione. Il più delle volte, rivendicarne i contenuti è un atto legittimo.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220087"
@@ -57705,7 +58044,7 @@
     "Id": 220104,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola di Pyro",
+    "Name": "Bussola cercatesori di Pyro",
     "Description": "Una bussola utilizzabile a Natlan per cercare bauli e indizi rilevanti nelle vicinanze.\nCon i tumulti e le guerre che imperversano, molti tesori dell'immensa Nazione di Pyro sono andati perduti senza lasciare alcuna traccia.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220104"
@@ -57903,7 +58242,7 @@
     "Id": 220123,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola lunare",
+    "Name": "Bussola cercatesori lunare",
     "Description": "Una bussola utilizzabile a Nod-Krai per cercare bauli e indizi rilevanti nelle vicinanze.\nQuesto globo sublunare contiene innumerevoli tesori sconosciuti, in attesa di essere scoperti da avventurieri coraggiosi o astuti.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220123"
@@ -57980,7 +58319,7 @@
     "Id": 220130,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bussola dei tesori del Dominio-Segmento",
+    "Name": "Bussola cercatesori del Dominio-Segmento",
     "Description": "Se utilizzato all'interno del Tempio dello Spazio, questo dispositivo rileva i tesori presenti nelle vicinanze e i relativi indizi.\nAnche nelle camere blindate nascoste, a cui perfino i Mille Venti non hanno accesso, ci sono comunque dei fili invisibili che indicano la via verso le collezioni più preziose, così come ai significati nascosti che esse celano.",
     "TypeDescription": "Gadget",
     "Icon": "UI_ItemIcon_220130"
@@ -58024,8 +58363,8 @@
     "Id": 221003,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Diagramma: bussola di Geo",
-    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una bussola di Geo, con cui potrai trovare facilmente i tesori sparsi per Liyue.",
+    "Name": "Diagramma: Bussola cercatesori di Geo",
+    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una Bussola cercatesori di Geo, con cui potrai trovare facilmente i tesori sparsi per Liyue.",
     "TypeDescription": "Progetto per la forgia",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58090,8 +58429,8 @@
     "Id": 221009,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Diagramma: bussola di Anemo",
-    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una bussola di Anemo, con cui potrai trovare facilmente i tesori sparsi per Mondstadt.",
+    "Name": "Diagramma: Bussola cercatesori di Anemo",
+    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una Bussola cercatesori di Anemo, con cui potrai trovare facilmente i tesori sparsi per Mondstadt.",
     "TypeDescription": "Progetto per la forgia",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58321,8 +58660,8 @@
     "Id": 221034,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Diagramma: bussola di Electro",
-    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una bussola di Electro, con cui potrai trovare facilmente i tesori sparsi per Inazuma.",
+    "Name": "Diagramma: Bussola cercatesori di Electro",
+    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una Bussola cercatesori di Electro, con cui potrai trovare facilmente i tesori sparsi per Inazuma.",
     "TypeDescription": "Progetto per la forgia",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58530,8 +58869,8 @@
     "Id": 221058,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Diagramma: bussola di Dendro",
-    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una bussola di Dendro, con cui potrai trovare facilmente i tesori sparsi per Sumeru.",
+    "Name": "Diagramma: Bussola cercatesori di Dendro",
+    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una Bussola cercatesori di Dendro, con cui potrai trovare facilmente i tesori sparsi per Sumeru.",
     "TypeDescription": "Progetto per la forgia",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58552,8 +58891,8 @@
     "Id": 221060,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Diagramma: bussola di Hydro",
-    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una bussola di Hydro, con cui potrai trovare facilmente i tesori sparsi per Fontaine.",
+    "Name": "Diagramma: Bussola cercatesori di Hydro",
+    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una Bussola cercatesori di Hydro, con cui potrai trovare facilmente i tesori sparsi per Fontaine.",
     "TypeDescription": "Progetto per la forgia",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58596,8 +58935,8 @@
     "Id": 221064,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Diagramma: bussola di Pyro",
-    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una bussola di Pyro, con cui potrai trovare facilmente i tesori sparsi per Natlan.",
+    "Name": "Diagramma: Bussola cercatesori di Pyro",
+    "Description": "Un diagramma con istruzioni passo dopo passo per realizzare una Bussola cercatesori di Pyro, con cui potrai trovare facilmente i tesori sparsi per Natlan.",
     "TypeDescription": "Progetto per la forgia",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -59334,7 +59673,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Laboratorio di ricerca segreto",
-    "Description": "Un progetto con istruzioni passo dopo passo per allestire un set Laboratorio di ricerca segreto.\nUn semplice e vecchio laboratorio di alchimia. Ignorando i marchingegni intricati e specializzati sembra uno studio come tanti altri, tranne che per la quantità di libri sugli scaffali, i reagenti nei loro contenitori e i vari campioni sperimentali con l'etichetta \"Non aprire\", di cui gli inesperti possono solo vagamente immaginare l'uso. Basterebbe probabilmente un gatto poco propenso a rispettare tale istruzione a causare un incidente.\nDopo che dei veri gatti sono entrati per caso nel laboratorio, causando due di questi incidenti con le pozioni alchemiche, la squadra investigativa dei Cavalieri di Favonius ha imposto delle regole ferree sull'entrata e uscita dai laboratori di alchimia all'interno della città. In quello stesso periodo, molte strambe dicerie sull'alchimia hanno iniziato a diffondersi, causando altrettanti grattacapi ai ricercatori che desideravano solo concentrarsi sul proprio lavoro.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Klee, Sucrose, Albedo e Lisa.",
+    "Description": "Un progetto con istruzioni passo dopo passo per allestire un set Laboratorio di ricerca segreto.\nUn semplice e vecchio laboratorio di alchimia. Ignorando i marchingegni intricati e specializzati sembra uno studio come tanti altri, tranne che per la quantità di libri sugli scaffali, i reagenti nei loro contenitori e i vari campioni sperimentali con l'etichetta \"Non aprire\", di cui gli inesperti possono solo vagamente immaginare l'uso. Basterebbe probabilmente un gatto poco propenso a rispettare tale istruzione a causare un incidente.\nDopo che dei veri gatti sono entrati per caso nel laboratorio, causando due di questi incidenti con le pozioni alchemiche, la squadra investigativa dei Cavalieri di Favonius ha imposto delle regole ferree sull'entrata e uscita dai laboratori di alchimia all'interno della città. In quello stesso periodo, molte strambe dicerie sull'alchimia hanno iniziato a diffondersi, causando altrettanti grattacapi ai ricercatori che desideravano solo concentrarsi sul proprio lavoro.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Klee, Sucrose, Albedo, Lisa e Prune.",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59422,7 +59761,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Campo da caccia",
-    "Description": "Un progetto con istruzioni passo dopo passo per allestire un set Campo da caccia.\nUn accampamento abilmente predisposto che, basandosi sulle famose ricerche di Musk, ricrea una dimora di Hilichurl utile per studiare il loro habitat.\nSi dice che, in passato, i Cavalieri di Favonius preparassero tali accampamenti e ne pianificassero ogni dettaglio, guidati dai Vigilanti, prima delle spedizioni contro i mostri. Anche la flotta della Crux tende a preparare dei modelli tattici in modo simile, attingendo da varie fonti d'informazioni per simulare gli approdi sulle isole allo scopo di liberarle dai mostri.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Amber, Sucrose, Klee, Beidou e Aloy.",
+    "Description": "Un progetto con istruzioni passo dopo passo per allestire un set Campo da caccia.\nUn accampamento abilmente predisposto che, basandosi sulle famose ricerche di Musk, ricrea una dimora di Hilichurl utile per studiare le loro abitudini di vita.\nSi dice che, in passato, i Cavalieri di Favonius preparassero tali accampamenti e ne pianificassero ogni dettaglio, guidati dai Vigilanti, prima delle spedizioni contro i mostri. Anche la flotta della Crux tende a preparare dei modelli tattici in modo simile, attingendo da varie fonti d'informazioni per simulare gli approdi sulle isole allo scopo di liberarle dai mostri.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di posizionamento.\nQuesto set decorativo piace particolarmente a Amber, Sucrose, Klee, Beidou, Aloy e Lohen.",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60027,7 +60366,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Una stanza accogliente per visitatori da ogni dove",
-    "Description": "Una stanza completamente arredata, ispirata alle camere per gli ospiti dell'Ammiraglia, la più grande taverna di Nasha. Sono stati apportati miglioramenti mirati per soddisfare al meglio le esigenze dei suoi ospiti.\nI visitatori dell'Ammiraglia provengono da contesti molto diversi, e ognuno ha la propria idea di \"comfort\". Trovare un equilibrio tra tutte queste diverse aspettative non è un compito facile. Alla fine, l'Ammiraglia ha optato per una soluzione unica: arredare le sue stanze con ogni comodità di cui un cliente potrebbe aver bisogno, per poi rimuovere gli oggetti non necessari in base al loro feedback. Sebbene la stanza possa risultare un po' disordinata, fornisce tutto ciò di cui un ospite potrebbe aver bisogno, permettendogli di trovare il comfort a modo suo.",
+    "Description": "Una stanza completamente arredata, ispirata alle camere per gli ospiti dell'Ammiraglia, la più grande taverna di Nasha. Sono stati apportati miglioramenti mirati per soddisfare al meglio le esigenze dei suoi ospiti.\nI visitatori dell'Ammiraglia provengono da contesti molto diversi, e ognuno ha la propria idea di \"comfort\". Trovare un equilibrio tra tutte queste diverse aspettative non è un compito facile. Alla fine, l'Ammiraglia ha optato per una soluzione unica: arredare le sue stanze con ogni comodità di cui un cliente potrebbe aver bisogno, per poi rimuovere gli oggetti non necessari in base al loro feedback. Sebbene la stanza possa risultare un po' disordinata, fornisce tutto ciò di cui un ospite potrebbe aver bisogno, permettendogli di trovare il comfort a modo suo.\nQuesto set decorativo piace particolarmente a Linnea e Nicole.",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60082,7 +60421,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Lande selvagge dell'Estremo Nord",
-    "Description": "Un'area selvaggia che riunisce la vegetazione e le formazioni geologiche tipiche di Nod-Krai, nonché un'autentica riproduzione del paesaggio unico dell'Isola di Hiisi.\nNod-Krai gode di un'abbondanza di Kuuvahki, che a sua volta ha dato origine a piante dai colori vivaci, a creature dalle abitudini peculiari e a formazioni geologiche dalle forme insolite. Per i naturalisti, quest'area custodisce innumerevoli tesori di nuova conoscenza, mentre per i turisti comuni offre panorami meravigliosi che richiedono una pausa per essere ammirati.\nQuesto set decorativo piace particolarmente a Durin.",
+    "Description": "Un'area selvaggia che riunisce la vegetazione e le formazioni geologiche tipiche di Nod-Krai, nonché un'autentica riproduzione del paesaggio unico dell'Isola di Hiisi.\nNod-Krai gode di un'abbondanza di Kuuvahki, che a sua volta ha dato origine a piante dai colori vivaci, a creature dalle abitudini peculiari e a formazioni geologiche dalle forme insolite. Per i naturalisti, quest'area custodisce innumerevoli tesori di nuova conoscenza, mentre per i turisti comuni offre panorami meravigliosi che richiedono una pausa per essere ammirati.\nQuesto set decorativo piace particolarmente a Durin, Linnea e Nicole.",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60093,7 +60432,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Vivace città di frontiera",
-    "Description": "Un paesaggio regionale incentrato su vari edifici caratteristici, con negozi di vario genere. È una riproduzione perfetta di un angolo della città di Nasha.\nDicono che la città di Nasha si differenzi dalle altre perché non ha un vero amministratore né una chiara struttura urbanistica. Questo ha portato alla nascita di innumerevoli passaggi stretti e spazi vuoti quasi impercettibili tra gli edifici della città. Per la maggior parte dei residenti, questi passaggi sono solo canali per il rumore; per coloro che si concentrano sulla raccolta di informazioni, invece, fungono da vie per la diffusione di segreti e da scorciatoie per spostarsi più facilmente.\nQuesto set decorativo piace particolarmente a Nefer, Jahoda e Varka.",
+    "Description": "Un paesaggio regionale incentrato su vari edifici caratteristici, con negozi di vario genere. È una riproduzione perfetta di un angolo della città di Nasha.\nDicono che la città di Nasha si differenzi dalle altre perché non ha un vero amministratore né una chiara struttura urbanistica. Questo ha portato alla nascita di innumerevoli passaggi stretti e spazi vuoti quasi impercettibili tra gli edifici della città. Per la maggior parte dei residenti, questi passaggi sono solo canali per il rumore; per coloro che si concentrano sulla raccolta di informazioni, invece, fungono da vie per la diffusione di segreti e da scorciatoie per spostarsi più facilmente.\nQuesto set decorativo piace particolarmente a Nefer, Jahoda, Varka, Lohen e Prune.",
     "TypeDescription": "Progetto per set decorativo",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -68485,8 +68824,8 @@
     "Id": 391116,
     "RankLevel": 3,
     "ItemType": 2,
-    "Name": "Sorgente in pietra bianca Calore traboccante",
-    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una sorgente in pietra bianca Calore traboccante.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "Name": "Sorgente in Pietrabianca Calore traboccante",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una sorgente in Pietrabianca Calore traboccante.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
     "TypeDescription": "Progetto per decorazione",
     "Icon": "UI_ItemIcon_Home_Common"
   },
@@ -69310,8 +69649,8 @@
     "Id": 391248,
     "RankLevel": 3,
     "ItemType": 2,
-    "Name": "Scala in pietra bianca goffrata",
-    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una scala in pietra bianca goffrata.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "Name": "Scala in Pietrabianca goffrata",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una scala in Pietrabianca goffrata.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
     "TypeDescription": "Progetto per decorazione",
     "Icon": "UI_ItemIcon_Home_Common"
   },
@@ -71631,8 +71970,8 @@
     "Id": 393408,
     "RankLevel": 3,
     "ItemType": 2,
-    "Name": "Lanterna Meichuu in pietra bianca",
-    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una lanterna Meichuu in pietra bianca.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "Name": "Lanterna Meichuu in Pietrabianca",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una lanterna Meichuu in Pietrabianca.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
     "TypeDescription": "Progetto per decorazione",
     "Icon": "UI_ItemIcon_Home_Common"
   },
@@ -74438,6 +74777,17 @@
     "ItemType": 2,
     "Name": "Zanne ululanti",
     "Description": "Un progetto con istruzioni passo dopo passo per realizzare Zanne ululanti.\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
+    "TypeDescription": "Progetto per decorazione",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Scultura di pietra in miniatura\"",
+    "Description": "Un progetto con istruzioni passo dopo passo per realizzare una \"Scultura di pietra in miniatura\".\nDopo aver usato quest'oggetto, potrai visualizzarlo nella Schermata di creazione.",
     "TypeDescription": "Progetto per decorazione",
     "Icon": "UI_ItemIcon_Home_Common"
   }

@@ -2224,6 +2224,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Lohen's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Lohen",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2231,6 +2242,28 @@
     "Description": "Material Aktivasi Konstelasi untuk Linnea",
     "TypeDescription": "Aktivasi Konstelasi",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Nicole's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Nicole",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prune's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Prune",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3478,6 +3511,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Lohen's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Lohen",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3485,6 +3529,28 @@
     "Description": "Material Aktivasi Konstelasi untuk Linnea",
     "TypeDescription": "Aktivasi Konstelasi",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Nicole's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Nicole",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prune's Stella Fortuna",
+    "Description": "Material Aktivasi Konstelasi untuk Prune",
+    "TypeDescription": "Aktivasi Konstelasi",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -31832,6 +31898,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Memulihkan 70 poin Stamina.",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Stuffed Tofu with Minced Meat",
+    "Description": "Hidangan tahu yang berisi daging. Saat pertama kali diapit, tahunya hancur berantakan. Kedua kalinya, tahu dan isian dagingnya terpisah ... Meski aromanya menggoda, setelah berulang kali gagal, keinginan untuk makan dengan sumpit pun hilang.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Memulihkan 85 poin Stamina.",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Stuffed Tofu with Minced Meat",
+    "Description": "Hidangan tahu yang berisi daging. Gali lubang di antara potongan tahu dan masukkan isian daging yang sudah diaduk rata, lalu goreng sampai berwarna keemasan. Kemudian tuangkan saus dan rebus hingga matang. Begitu saja, bahan sederhana yang tidak mencolok pun menyatu dengan cita rasa paling familiar di jalanan dan gang-gang.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Memulihkan 100 poin Stamina.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Stuffed Tofu with Minced Meat",
+    "Description": "Hidangan tahu yang berisi daging. Di atas piring porselen tulang berbingkai emas yang lebar, empat potong tahu isi berwarna keemasan tersusun rapi. Uap panas mengepul bersama dengan aroma wanginya, langsung menyusup ke hidung dan membangkitkan selera makan. Dalam beberapa suapan saja, tahu itu pun habis, namun genangan saus yang tersisa di dasar piring justru menjadi inti kenikmatan yang tak tergantikan untuk dicampur dan dimakan bersama nasi.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Menghidupkan kembali Karakter dan memulihkan 900 HP.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Suspicious Mint Bubblegum",
+    "Description": "Permen karet yang kenyal. Tahan sensasi dingin yang kuat dari mint, gembungkan pipi dengan keras dan akhirnya mengembus sebuah gelembung kecil. Sayang sekali, pada saat-saat terakhir, seiring dengan \"embusan\" kebocoran udara, semua usahanya gagal ....",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Menghidupkan kembali Karakter dan memulihkan 1.200 HP.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mint Bubblegum",
+    "Description": "Permen karet yang kenyal, menggabungkan dua rasa yang berbeda. Dengan sedikit keterampilan, kamu akan bisa membuat gelembung besar yang keren. Tapi hati-hati ya, gelembungnya jangan terlalu besar, soalnya kalau meledak, lengket di muka!",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Menghidupkan kembali Karakter dan memulihkan 1.500 HP.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Delicious Mint Bubblegum",
+    "Description": "Permen karet yang kenyal. Aroma segar mengalir di tenggorokan bagai seluncuran, membawa rasa lega yang menyegarkan. Yang lebih menarik lagi, tiup perlahan saja untuk membuat gelembung bening. Merupakan pilihan terbaik untuk menghabiskan waktu!",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "Mengurangi 25% konsumsi Stamina seluruh anggota party saat memanjat atau berlari selama 1.500 detik. Dalam Mode Co-Op, efek ini hanya berlaku pada Karaktermu sendiri.",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Spinning Special",
+    "Description": "Masakan andalan Prune. \"Spinning Special ini permainan yang cuma dimainkan orang dewasa di Nod-Krai! Aku ajari cara mainnya ya, hehe.\" Seiring ucapannya yang penuh bangga, sebuah nampan putar berisi minuman muncul di hadapanmu. Jusnya berwarna-warni, tampak manis dan menggugah selera. Hanya saja, bentuk nampan putarnya itu ... langsung membuatmu teringat pada \"Roulette Special\". Tunggu, jangan-jangan dia salah ingat nama?",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Memulihkan 130 poin Stamina.",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Gilded Chest",
+    "Description": "Masakan andalan Nicole. \"Kaget, ya? Aku sebenarnya sudah lama tahu cara buat hidangan ini. Ngomong-ngomong soal dulu ....\"\"Belakangan aku dengar dari Mr. Nine, kayaknya makanan ini populer lagi di Liyue ....\" \"Bentuknya seperti peti harta karun, sekaligus penunjuk kuliner, aku memang jenius dalam desain ....\" Seiring kemunculan sebuah \"peti harta\" berwarna emas, rentetan kata-kata yang tak berhenti pun langsung bermunculan di kepala ... Memang benar, ini pasti ulah Nicole. Meski otak terasa berdengung karena dibombardir oleh suara-suara itu, tapi kepuasan yang dirasakan oleh lidah justru jauh lebih mengejutkan, bahkan lebih terkejut dibandingkan membuka Luxurious Chest.",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Menghidupkan kembali Karakter lalu memulihkan 20% HP dan 1.500 HP tambahan pada Karakter yang dipilih.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Boredom-Busting Bubblegum",
+    "Description": "Masakan andalan Lohen. Melihatmu bosan, dia menyodorkan permen, katanya sih untuk mengusir kebosananmu. Baru saja kamu mengunyah beberapa kali, dia langsung mengeluarkan cermin dan mengarahkannya ke wajahmu, dengan senyum jahil penuh kemenangan. Gawat! Kena jebakan! Lidahmu sudah berubah jadi hijau kebiruan ... jadi \"mengusir kebosanan\" itu sebenarnya mengusir kebosanannya sendiri, ya?",
+    "TypeDescription": "Makanan",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -34769,6 +34943,28 @@
     "Icon": "UI_ItemIcon_109000"
   },
   {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Resep: Stuffed Tofu with Minced Meat",
+    "Description": "Resep yang berisi langkah-langkah untuk membuat Stuffed Tofu with Minced Meat.",
+    "TypeDescription": "Resep",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Resep: Mint Bubblegum",
+    "Description": "Resep yang berisi langkah-langkah untuk membuat Mint Bubblegum.",
+    "TypeDescription": "Resep",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
     "Rank": 322,
     "MaterialType": 4,
     "Id": 110000,
@@ -36815,7 +37011,7 @@
     "RankLevel": 2,
     "ItemType": 2,
     "Name": "Faded Flaming Hilt",
-    "Description": "Gagang pedang yang tersisa dari pedang berapi milik seorang Realm Keeper.\nPedang berapi yang menyala-nyala dulunya adalah simbol perlindungan. Diberdayakan oleh otoritas 'Ruang', pedang ini menyegel batas antara keabadian dan momen yang singkat.",
+    "Description": "Gagang pedang yang tersisa dari pedang berapi milik seorang Domain Keeper.\nPedang berapi yang menyala-nyala dulunya adalah simbol perlindungan. Diberdayakan oleh otoritas 'Ruang', pedang ini menyegel batas antara keabadian dan momen yang singkat.",
     "TypeDescription": "Material Penguatan Karakter dan Senjata",
     "Icon": "UI_ItemIcon_112140"
   },
@@ -36826,7 +37022,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Fractured Flaming Hilt",
-    "Description": "Gagang pedang berapi yang pernah digenggam oleh seorang Realm Keeper.\nPedang berapi yang menyala-nyala pernah menjadi simbol penghakiman. Diberdayakan oleh otoritas 'Ruang', pedang ini menghalangi jalan masuk terhadap pelanggaran dan penodaan.",
+    "Description": "Gagang pedang berapi yang pernah digenggam oleh seorang Domain Keeper.\nPedang berapi yang menyala-nyala pernah menjadi simbol penghakiman. Diberdayakan oleh otoritas 'Ruang', pedang ini menghalangi jalan masuk terhadap pelanggaran dan penodaan.",
     "TypeDescription": "Material Penguatan Karakter dan Senjata",
     "Icon": "UI_ItemIcon_112141"
   },
@@ -36837,7 +37033,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Jeweled Flaming Hilt",
-    "Description": "Gagang pedang berapi yang pernah digenggam oleh seorang Realm Keeper.\nPedang berapi yang menyala-nyala ini dulunya adalah simbol peringatan. Diberdayakan oleh otoritas 'Ruang', pedang ini mengumumkan kehendak absolut dan sempurna dari yang ilahi.",
+    "Description": "Gagang pedang berapi yang pernah digenggam oleh seorang Domain Keeper.\nPedang berapi yang menyala-nyala ini dulunya adalah simbol peringatan. Diberdayakan oleh otoritas 'Ruang', pedang ini mengumumkan kehendak absolut dan sempurna dari yang ilahi.",
     "TypeDescription": "Material Penguatan Karakter dan Senjata",
     "Icon": "UI_ItemIcon_112142"
   },
@@ -37786,6 +37982,39 @@
     "Description": "Bulu yang jatuh, terkumpul dari sudut dunia fana setelah mengalahkan Fallen Watcher.\nDibandingkan dengan utusan ilahi sejati, para pengamat berbulu ini lebih mirip dengan \"malaikat\" dalam cerita rakyat biasa. Mungkin ini karena sang pencipta mereka gagal memahami desain ilahi Yang Bersayap di atas, dan hanya bisa menawarkan tiruan kaku dari bayangan yang dilemparkan oleh cita-cita mereka.",
     "TypeDescription": "Material Penguatan Karakter",
     "Icon": "UI_ItemIcon_113086"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Counterfeit Resin",
+    "Description": "Resin yang ditemukan dari kedalaman Ley Line yang sudah hancur setelah mengalahkan penista yang bersembunyi di dalam Irminsul.\nKristal yang seharusnya menyimpan berbagai kenangan indah yang membentuk dunia ini, kini justru dipenuhi oleh khayalan dan niat jahat yang bukan berasal dari dunia ini.",
+    "TypeDescription": "Material Penguatan Karakter",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Twisted Withered Branch",
+    "Description": "Ranting yang ditemukan dari kedalaman Ley Line yang sudah hancur setelah mengalahkan penista yang bersembunyi di dalam Irminsul.\nRanting yang terdistorsi ini tumbuh dari pohon raksasa yang seharusnya tersembunyi jauh di bawah tanah. Bahkan setelah terpisah dari pemilik aslinya, di dalamnya masih tersisa kekuatan aneh dan jahat.",
+    "TypeDescription": "Material Penguatan Karakter",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Profaned Sprout",
+    "Description": "Dedaunan yang ditemukan dari kedalaman Ley Line yang sudah hancur setelah mengalahkan penista yang bersembunyi di dalam Irminsul.\nTunas baru yang seharusnya melambangkan harapan kini telah berubah menjadi penanda penistaan. Pohon berdosa itu terus-menerus menjulang ke langit melalui perpanjangan urat daunnya.",
+    "TypeDescription": "Material Penguatan Karakter",
+    "Icon": "UI_ItemIcon_113089"
   },
   {
     "Rank": 15101,
@@ -39456,6 +39685,28 @@
     "ItemType": 2,
     "Name": "Domain Reliquary: Tier I",
     "Description": "Tempat yang digunakan untuk menyimpan Artefak, semoga keajaiban terjadi kepada orang yang menemukannya.\n\nDalam setiap Reliquary, bisa didapatkan salah satu dari set Artefak berikut:\n· \"Aubade of Morningstar and Moon\"\n· \"A Day Carved From Rising Winds\"",
+    "TypeDescription": "Reliquary",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Domain Reliquary: Tier II",
+    "Description": "Tempat yang digunakan untuk menyimpan Artefak, semoga orang yang menemukannya diberkati.\n\nDalam setiap Reliquary, bisa didapatkan salah satu dari set Artefak berikut:\n· \"Celestial Gift\"\n· \"Disenchantment in Deep Shadow\"\n· \"Berserker\"\n· \"Instructor\"\n· \"The Exile\"",
+    "TypeDescription": "Reliquary",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Domain Reliquary: Tier I",
+    "Description": "Tempat yang digunakan untuk menyimpan Artefak, semoga keajaiban terjadi kepada orang yang menemukannya.\n\nDalam setiap Reliquary, bisa didapatkan salah satu dari set Artefak berikut:\n· \"Celestial Gift\"\n· \"Disenchantment in Deep Shadow\"",
     "TypeDescription": "Reliquary",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52189,6 +52440,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohen's \"Friendship Fee\"",
+    "Description": "Kantong Mora yang berat, dengan cahaya \"pertemenanan\" yang bersinar bak emas di bagian mulut kantongnya.",
+    "TypeDescription": "Konsumsi",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohen's \"Friendship Fee\"",
+    "Description": "Kantong Mora yang sudah kosong, cahaya \"pertemanan\" pernah bersinar bak emas di bagian mulut kantongnya.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52238,7 +52511,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Mimpi Rhonabwy",
+    "Name": "Mimpi Rhonabouillet",
     "Description": "Kumpulan puisi yang diterbitkan oleh Lenormand Publishing House, menceritakan kisah tentang seorang protagonis yang melakukan perjalanan waktu dan jatuh cinta kepada seorang pelayan di istana Lochknight.",
     "TypeDescription": "Item Quest",
     "Icon": "UI_ItemIcon_100178"
@@ -52260,7 +52533,7 @@
     "Id": 121563,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Kitab Cinta, Inspirasi Ilahi, dan Kebajikan",
+    "Name": "Wahyu Kasih Ilahi",
     "Description": "Kumpulan puisi yang konon ditulis oleh seorang pendeta dari Church of Favonius kuno di bawah bimbingan Archon Anemo. Kumpulan puisi ini merenungkan perbedaan antara cinta kepada para dewa dan cinta kepada manusia, dan pada akhirnya menyimpulkan bahwa belas kasih, persahabatan, dan kasih sayang romantis manusia semuanya muncul dari kerinduan akan kebebasan, dan karena itu secara alami semuanya itu mengandung karakteristik kesucian.",
     "TypeDescription": "Item Quest",
     "Icon": "UI_ItemIcon_100182"
@@ -52275,6 +52548,72 @@
     "Description": "Catatan",
     "TypeDescription": "Item Quest",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sumsum Pohon Heterogen I",
+    "Description": "Diduga merupakan sejenis resin yang mengkristal. Muncul dari batang utama Irminsul yang terbakar, bentuknya sedikit tak wajar. Bagian yang tidak terbungkus resin memancarkan cahaya penuh dosa.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sumsum Pohon Heterogen II",
+    "Description": "Diduga merupakan sejenis resin yang mengkristal. Muncul dari batang utama Irminsul yang terbakar, bentuknya sedikit tak wajar. Bagian yang tidak terbungkus resin memancarkan cahaya penuh dosa.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sumsum Pohon Heterogen III",
+    "Description": "Diduga merupakan sejenis resin yang mengkristal. Muncul dari batang utama Irminsul yang terbakar, bentuknya sedikit tak wajar. Bagian yang tidak terbungkus resin memancarkan cahaya penuh dosa.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Sumsum Pohon Heterogen",
+    "Description": "Diduga merupakan sejenis resin yang mengkristal. Muncul dari batang utama Irminsul yang terbakar, bentuknya sedikit tak wajar. Bagian yang tidak terbungkus resin memancarkan cahaya penuh dosa.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Susu Dango \"Rasa Sihir\"",
+    "Description": "Sebotol Susu Dango yang terlihat biasa, tapi ya memang biasa saja sebenarnya. Menurut Prune, ini adalah hadiah yang didapat dari tangan penyihir, karena itu dia yakin ini bukan Susu Dango biasa!",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Komponen Primal Construct",
+    "Description": "Alhaitham dan Kaveh ditugaskan oleh Archon Dendro Nahida dan Grand Sage Naphis untuk melakukan proyek darurat. Tahap selanjutnya ini membutuhkan banyak bahan. Di Mausoleum of King Deshret, yang paling cocok digunakan sebagai bahan adalah Primal Construct. Teknologi kuno dan komponen berkualitas yang mereka miliki akan dibongkar menjadi komponen-komponen yang sangat kecil, lalu dirakit kembali dalam lingkungan baru.",
+    "TypeDescription": "Item Quest",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -53394,7 +53733,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Cerulean Doppeldrake",
-    "Description": "Ikan besar yang konon katanya merupakan keturunan naga.\nIkan ini adalah varian dari Koi, bagian tubuh utamanya berwarna biru kehitaman pekat, dengan bagian perut berwarna emas mencolok. Dibandingkan dengan kerabatnya, spesies ini biasanya lebih jinak dan tidak pernah memulai konflik dengan makhluk air lainnya. Tapi, jangan menyalahartikannya dengan mudah ditindas. Saat diserang, mereka akan melancarkan serangan kuat dan tajam bagai tusukan tombak, yang bisa mengusir penyusup dengan cepat yang ukurannya bahkan beberapa kali lipat lebih besar dari tubuhnya sendiri, serta mengejutkan seluruh perairan ....",
+    "Description": "Ikan besar yang konon katanya merupakan keturunan naga.\nIkan ini adalah varian dari Koi, bagian tubuh utamanya berwarna biru kehitaman pekat, dengan bagian perut berwarna emas pucat. Dibandingkan dengan kerabatnya, spesies ini biasanya lebih jinak dan tidak pernah memulai konflik dengan makhluk air lainnya. Tapi, jangan menyalahartikannya dengan mudah ditindas. Saat diserang, mereka akan melancarkan serangan kuat dan tajam bagai tusukan tombak, yang bisa mengusir penyusup dengan cepat yang ukurannya bahkan beberapa kali lipat lebih besar dari tubuhnya sendiri, serta mengejutkan seluruh perairan ....",
     "TypeDescription": "Ikan",
     "Icon": "UI_ItemIcon_131053"
   },
@@ -59477,7 +59816,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Laboratorium Penelitian Rahasia",
-    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Laboratorium Penelitian Rahasia\".\nSebuah tempat kerja alkimia yang biasa saja. Dengan beberapa komponen dan peralatan rumit, tempat ini terlihat seperti tempat penelitian pada umumnya, namun koleksi buku di rak dan sampel eksperimen yang disimpan di lemari dengan tanda \"Jangan Dibuka\", membuat orang biasa menebak-nebak apa yang terdapat di dalamnya. Dan mungkin saja bisa terjadi kecelakaan tak terduga jika seseorang mengabaikannya.\nSetelah kejadian seekor kucing tidak sengaja masuk ke tempat kerja tersebut dan menyebabkan dua kecelakaan dari ramuan alkimia, Tim Investigasi Knights of Favonius akhirnya memberlakukan regulasi peraturan keluar masuk yang ketat pada tempat alkimia di dalam kota. Sejumlah besar rumor aneh tentang alkimia juga lahir dari sana, menyebabkan banyak masalah bagi para peneliti yang hanya mencoba untuk berkonsentrasi.\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.\nRekan yang menyukai Set Perabotan ini: Klee, Sucrose, Albedo, Lisa",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Laboratorium Penelitian Rahasia\".\nSebuah tempat kerja alkimia yang biasa saja. Dengan beberapa komponen dan peralatan rumit, tempat ini terlihat seperti tempat penelitian pada umumnya, namun koleksi buku di rak dan sampel eksperimen yang disimpan di lemari dengan tanda \"Jangan Dibuka\", membuat orang biasa menebak-nebak apa yang terdapat di dalamnya. Dan mungkin saja bisa terjadi kecelakaan tak terduga jika seseorang mengabaikannya.\nSetelah kejadian seekor kucing tidak sengaja masuk ke tempat kerja tersebut dan menyebabkan dua kecelakaan dari ramuan alkimia, Tim Investigasi Knights of Favonius akhirnya memberlakukan regulasi peraturan keluar masuk yang ketat pada tempat alkimia di dalam kota. Sejumlah besar rumor aneh tentang alkimia juga lahir dari sana, menyebabkan banyak masalah bagi para peneliti yang hanya mencoba untuk berkonsentrasi.\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.\nRekan yang menyukai Set Perabotan ini: Klee, Sucrose, Albedo, Lisa, Prune",
     "TypeDescription": "Blueprint Set Perabotan",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59565,7 +59904,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Kemah Berburu dan Menari",
-    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Kemah Berburu dan Menari\".\nPerkemahan yang disiapkan dengan beberapa keahlian khusus yang merujuk pada tulisan terkenal dari peneliti Musk untuk menciptakan kembali hunian bagi para Hilichurl, dan dapat digunakan untuk mempelajari kebiasaan hidup mereka.\nDikatakan bahwa di masa lalu, Knights of Favonius akan membangun perkemahan seperti ini dan mendiskusikan rencana mereka secara terperinci, dipimpin oleh Outrider, pergi ke ekspedisi untuk melawan monster. Crux Fleet yang sering berlayar juga sering memasang meja pasir dengan cara yang sama untuk mensimulasikan keadaan setelah mendarat di sebuah pulau dan membersihkannya dari monster.\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.\nRekan yang menyukai Set Perabotan ini: Amber, Sucrose, Klee, Beidou, Aloy",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Kemah Berburu dan Menari\".\nPerkemahan yang disiapkan dengan beberapa keahlian khusus yang merujuk pada tulisan terkenal dari peneliti Musk untuk menciptakan kembali hunian bagi para Hilichurl, dan dapat digunakan untuk mempelajari kebiasaan hidup mereka.\nDikatakan bahwa di masa lalu, Knights of Favonius akan membangun perkemahan seperti ini dan mendiskusikan rencana mereka secara terperinci, dipimpin oleh Outrider, pergi ke ekspedisi untuk melawan monster. Crux Fleet yang sering berlayar juga sering memasang meja pasir dengan cara yang sama untuk mensimulasikan keadaan setelah mendarat di sebuah pulau dan membersihkannya dari monster.\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Penempatan.\nRekan yang menyukai Set Perabotan ini: Amber, Sucrose, Klee, Beidou, Aloy, Lohen",
     "TypeDescription": "Blueprint Set Perabotan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60170,7 +60509,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Kamar Nyaman Bagi Semua Tamu",
-    "Description": "Sebuah kamar berperabot lengkap, terinspirasi oleh kamar-kamar tamu di The Flagship, kedai terbesar di Kota Nasha. Renovasi yang dikerjakan tujuannya untuk lebih memenuhi kebutuhan penghuninya.\nPara tamu The Flagship berasal dari latar belakang yang bervariasi, masing-masing memiliki gagasannya sendiri tentang apa arti \"kenyamanan\". Mencari titik tengah dari semua harapan yang beragam ini bukanlah tugas yang mudah. Akhirnya, The Flagship memutuskan sebuah solusi yang unik: melengkapi setiap kamarnya dengan fasilitas-fasilitas yang mungkin dibutuhkan klien, kemudian mengurangi barang-barang yang tidak dibutuhkan berdasarkan umpan balik mereka. Meskipun tata letaknya mungkin tampak sedikit sempit karena banyaknya fasilitas, tapi kini segala yang dibutuhkan menjadi ada, dan di situlah letak keindahannya — sebuah pelayanan yang mengutamakan kenyamanan dari sudut pandang konsumen itu sendiri.",
+    "Description": "Sebuah kamar berperabot lengkap, terinspirasi oleh kamar-kamar tamu di The Flagship, kedai terbesar di Kota Nasha. Renovasi yang dikerjakan tujuannya untuk lebih memenuhi kebutuhan penghuninya.\nPara tamu The Flagship berasal dari latar belakang yang bervariasi, masing-masing memiliki gagasannya sendiri tentang apa arti \"kenyamanan\". Mencari titik tengah dari semua harapan yang beragam ini bukanlah tugas yang mudah. Akhirnya, The Flagship memutuskan sebuah solusi yang unik: melengkapi setiap kamarnya dengan fasilitas-fasilitas yang mungkin dibutuhkan klien, kemudian mengurangi barang-barang yang tidak dibutuhkan berdasarkan umpan balik mereka. Meskipun tata letaknya mungkin tampak sedikit sempit karena banyaknya fasilitas, tapi kini segala yang dibutuhkan menjadi ada, dan di situlah letak keindahannya, sebuah pelayanan yang mengutamakan kenyamanan dari sudut pandang konsumen itu sendiri.\nRekan yang menyukai set perabot ini: Linnea, Nicole",
     "TypeDescription": "Blueprint Set Perabotan",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60225,7 +60564,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Hutan Belantara di Ujung Utara",
-    "Description": "Suatu kawasan liar yang menyatukan vegetasi dan bentang alam yang biasa dijumpai di Nod-Krai, khususnya rekreasi otentik dari lanskap unik Pulau Hiisi.\nWilayah Nod-Krai berlimpah dengan kuuvahki, dan dengan hal itu telah menghasilkan tanaman berwarna cerah, makhluk dengan kebiasaan yang unik, dan bentang alam dengan bentuk yang menakjubkan. Bagi para naturalis, daerah ini mengandung banyak sekali harta karun pengetahuan baru, sementara bagi para wisatawan biasa, daerah ini menawarkan pemandangan memesona yang patut dikagumi.\nRekan yang menyukai set perabot ini: Durin",
+    "Description": "Suatu kawasan liar yang menyatukan vegetasi dan bentang alam yang biasa dijumpai di Nod-Krai, khususnya rekreasi otentik dari lanskap unik Pulau Hiisi.\nWilayah Nod-Krai berlimpah dengan kuuvahki, dan dengan hal itu telah menghasilkan tanaman berwarna cerah, makhluk dengan kebiasaan yang unik, dan bentang alam dengan bentuk yang menakjubkan. Bagi para naturalis, daerah ini mengandung banyak sekali harta karun pengetahuan baru, sementara bagi para wisatawan biasa, daerah ini menawarkan pemandangan memesona yang patut dikagumi.\nRekan yang menyukai set perabot ini: Durin, Linnea, Nicole",
     "TypeDescription": "Blueprint Set Perabotan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60236,7 +60575,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Kota Perbatasan yang Ramai",
-    "Description": "Lanskap regional yang berpusat pada berbagai bangunan khas, dengan berbagai macam toko. Ini adalah rekreasi sempurna dari sudut Kota Nasha.\nMenurut legenda, Kota Nasha berbeda dari kota-kota lain karena tidak memiliki pengurus resmi dan struktur perencanaan yang jelas. Hal ini menyebabkan munculnya lorong-lorong sempit yang tak terhitung jumlahnya dan celah-celah yang hampir tidak terlihat di antara bangunan-bangunan kota. Bagi sebagian besar penduduk, lorong-lorong ini hanyalah saluran untuk kebisingan; namun, bagi mereka yang fokus mengumpulkan informasi, lorong-lorong ini berfungsi sebagai jalur penyebaran rahasia dan jalan pintas untuk memudahkan perjalanan.\nRekan yang menyukai set perabot ini: Nefer, Jahoda, Varka",
+    "Description": "Lanskap regional yang berpusat pada berbagai bangunan khas, dengan berbagai macam toko. Ini adalah rekreasi sempurna dari sudut Kota Nasha.\nMenurut legenda, Kota Nasha berbeda dari kota-kota lain karena tidak memiliki pengurus resmi dan struktur perencanaan yang jelas. Hal ini menyebabkan munculnya lorong-lorong sempit yang tak terhitung jumlahnya dan celah-celah yang hampir tidak terlihat di antara bangunan-bangunan kota. Bagi sebagian besar penduduk, lorong-lorong ini hanyalah saluran untuk kebisingan; namun, bagi mereka yang fokus mengumpulkan informasi, lorong-lorong ini berfungsi sebagai jalur penyebaran rahasia dan jalan pintas untuk memudahkan perjalanan.\nRekan yang menyukai set perabot ini: Nefer, Jahoda, Varka, Lohen, Prune",
     "TypeDescription": "Blueprint Set Perabotan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74581,6 +74920,17 @@
     "ItemType": 2,
     "Name": "Taring Tajam Melolong",
     "Description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat \"Taring Tajam Melolong\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
+    "TypeDescription": "Blueprint Perabotan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Kerajinan Batu Miniatur",
+    "Description": "Blueprint yang berisi langkah-langkah untuk membuat \"Kerajinan Batu Miniatur\".\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.",
     "TypeDescription": "Blueprint Perabotan",
     "Icon": "UI_ItemIcon_Home_Common"
   }

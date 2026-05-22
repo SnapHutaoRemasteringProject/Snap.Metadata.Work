@@ -697,7 +697,7 @@
               ]
             }
           ],
-          "Display": 0
+          "Display": 1
         },
         "Id": 1302201,
         "Name": "Diario naturalistico universale",
@@ -801,6 +801,7 @@
     "BirthMonth": 5,
     "BirthDay": 23,
     "VisionBefore": "Geo",
+    "VisionOverrideLocked": "Disco lunare",
     "VisionOverrideUnlocked": "Disco lunare",
     "ConstellationBefore": "Alcyon",
     "CvChinese": "周侗",

@@ -1194,5 +1194,11 @@
     "Description": "Stile per la carta giocatore.\nEffimero è il mondo che cela il passato, la neve è in balia del fiore agitato.",
     "Icon": "UI_NameCardIcon_Wanderer",
     "PicturePrefix": "UI_NameCardPic_Wanderer"
+  },
+  "TraceEffect": {
+    "Id": 215020,
+    "Name": "Eco: Eternamente perduto",
+    "Description": "L'Eco immaginario del Vagabondo. \"Come la fresca brezza del vento, vive percorrendo in lungo e in largo ogni angolo di questo mondo.\"",
+    "Icon": "UI_TraceEffectIcon_Wanderer"
   }
 }

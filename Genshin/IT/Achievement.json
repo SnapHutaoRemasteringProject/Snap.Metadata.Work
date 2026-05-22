@@ -22661,6 +22661,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 82309,
+    "Goal": 0,
+    "Order": 2309,
+    "PreviousId": 0,
+    "Title": "\"Non sfondate la parete\"",
+    "Description": "Evita i vincoli della barriera e demolisci il regno-prigione costruito da Dottore.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84000,
     "Goal": 0,
     "Order": 4001,
@@ -26690,6 +26707,159 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 84382,
+    "Goal": 0,
+    "Order": 5157,
+    "PreviousId": 0,
+    "Title": "La fine di un'anomalia",
+    "Description": "Raccogli tutti i Midolli d'albero anomali",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84383,
+    "Goal": 0,
+    "Order": 5158,
+    "PreviousId": 0,
+    "Title": "Con un granello nell'occhio, sbocciano le illusioni",
+    "Description": "A Sumeru, i sogni spesso preannunciano il pericolo.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84384,
+    "Goal": 0,
+    "Order": 5159,
+    "PreviousId": 0,
+    "Title": "Tutte le tue onde e i tuoi flutti sono passati su di me",
+    "Description": "Le forze della vita trovano sempre la propria risonanza.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84385,
+    "Goal": 0,
+    "Order": 5160,
+    "PreviousId": 0,
+    "Title": "La penna si solleva, i rotoli si asciugano",
+    "Description": "Il commiato non è che un lungo ricongiungimento.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84386,
+    "Goal": 0,
+    "Order": 5161,
+    "PreviousId": 0,
+    "Title": "Tutto cade nel vuoto",
+    "Description": "Completa \"Tutto cade nel vuoto\".",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84387,
+    "Goal": 0,
+    "Order": 5162,
+    "PreviousId": 0,
+    "Title": "Tra i canneti, fino ad Aaru",
+    "Description": "Sconfiggi i Tre Re nella partita a scacchi.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84388,
+    "Goal": 0,
+    "Order": 5163,
+    "PreviousId": 0,
+    "Title": "Conquistare gli abissi, dominare l'inganno",
+    "Description": "Raccogli i desideri di tutti per salvare Sumeru.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84389,
+    "Goal": 0,
+    "Order": 5164,
+    "PreviousId": 0,
+    "Title": "La fiamma del kalpa divampa",
+    "Description": "Oltre le ceneri della calamità ardente, il cielo rimane incontaminato.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
+    "Id": 84390,
+    "Goal": 0,
+    "Order": 5165,
+    "PreviousId": 0,
+    "Title": "La verità tra le pagine dei Purana",
+    "Description": "Completa \"La verità tra le pagine dei Purana\"",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 10
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 1,
+    "Icon": "UI_AchievementIcon_O001",
+    "Version": "6.6",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 84501,
     "Goal": 10,
     "Order": 4026,
@@ -26943,23 +27113,6 @@
     "Icon": "",
     "Version": "1.0",
     "IsDailyQuest": true
-  },
-  {
-    "Id": 84517,
-    "Goal": 0,
-    "Order": 4041,
-    "PreviousId": 0,
-    "Title": "Karma istantaneo",
-    "Description": "Smaschera Marjorie e ricevi i ringraziamenti di Jack.",
-    "FinishReward": {
-      "Id": 201,
-      "Count": 5
-    },
-    "IsDeleteWatcherAfterFinish": true,
-    "Progress": 1,
-    "Icon": "UI_AchievementIcon_O001",
-    "Version": "6.5",
-    "IsDailyQuest": false
   },
   {
     "Id": 84518,

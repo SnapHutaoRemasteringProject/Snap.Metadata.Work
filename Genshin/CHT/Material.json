@@ -2367,6 +2367,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "洛恩的命星",
+    "Description": "洛恩的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2374,6 +2385,28 @@
     "Description": "莉奈婭的命之座啟用素材",
     "TypeDescription": "命之座啟用",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "尼可的命星",
+    "Description": "尼可的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "布倫妮的命星",
+    "Description": "布倫妮的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3621,6 +3654,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "洛恩的命星",
+    "Description": "洛恩的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3628,6 +3672,28 @@
     "Description": "莉奈婭的命之座啟用素材",
     "TypeDescription": "命之座啟用",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "尼可的命星",
+    "Description": "尼可的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "布倫妮的命星",
+    "Description": "布倫妮的命之座啟用素材",
+    "TypeDescription": "命之座啟用",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -32195,6 +32261,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "恢復70點體力。",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "奇怪的肉末釀豆腐",
+    "Description": "有肉餡的豆腐菜餚。第一次動筷子，豆腐完全碎掉了；第二次動筷子，豆腐和肉餡分離了…雖然香味誘人不假，但失敗三番兩次造訪，已經完全失去再動一次筷子的動力了。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "恢復85點體力。",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "肉末釀豆腐",
+    "Description": "有肉餡的豆腐菜餚。將豆腐中間挖洞，填上攪拌均勻的肉餡，先炸至金黃，再淋上醬汁燜煮後出鍋。簡單不起眼的食材，就這樣融合成了街頭巷尾最為親切的味道。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "恢復100點體力。",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "美味的肉末釀豆腐",
+    "Description": "有肉餡的豆腐菜餚。金邊骨瓷寬盤裡，整齊地裝著四塊亮晶晶的釀豆腐。熱氣裹著香氣裊裊升起，直直往鼻腔裡鑽，瞬間便勾起了食慾。三兩下吃完豆腐，盤底留下的那汪琥珀色湯汁，更是無法割捨的拌飯精華。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "復甦選取的角色，為其恢復900點生命值。",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "奇怪的薄荷泡泡糖",
+    "Description": "有彈性的柔軟糖果。忍著薄荷那股強勁的清涼感，使勁鼓起腮幫子，好不容易才吹出一個小泡泡。可惜，就在最後一刻，伴隨著「噗噗」幾聲漏氣，還是功虧一簣了…",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "復甦選取的角色，為其恢復1200點生命值。",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "薄荷泡泡糖",
+    "Description": "有彈性的柔軟糖果。融合了兩種不同的味道，用些許技巧就能帥氣地吹出很大的泡泡。不過千萬要小心，別讓泡泡吹得太大，萬一破了是會被弄得滿臉都是的！",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "復甦選取的角色，為其恢復1500點生命值。",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "美味的薄荷泡泡糖",
+    "Description": "有彈性的柔軟糖果。那股清新的味道如滑梯般順喉而下，帶來一陣沁人的舒爽。更妙的是，只需輕輕一吹，便能鼓起一個透亮的泡泡。絕對是打發時間的最佳選擇！",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "隊伍中所有角色攀爬和衝刺消耗的體力降低25%，持續1500秒。多人遊戲時，僅對自己的角色生效。",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "轉轉特調",
+    "Description": "#布倫妮的特色料理。「這個轉轉特調是挪德卡萊的大人們才會玩的遊戲！我來教{F#妳}{M#你}怎麼玩吧，哼哼。」伴隨著她得意的話音，一個裝著飲料的轉盤出現在了面前。果汁色彩繽紛、香甜可口，只是這個轉盤的造型讓{F#妳}{M#你}瞬間聯想到了「轉盤特調」…等等，她不會是記錯名字了吧？",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "恢復130點體力。",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "「鏤金的寶箱」",
+    "Description": "尼可的特色料理。「驚訝嗎？這道菜的做法我以前就知道了，話說以前…」、「最近聽九老師說似乎又在璃月流行起來了…」、「造型是寶箱，又是美食的指引，我太會設計了…」隨著一個金色「寶箱」的登場，腦內瞬間出現了一連串滔滔不絕的話語…果然是尼可。雖然腦子被這些聲音轟炸吵得嗡嗡作響，但味蕾傳來的滿足感比開啟一個華麗的寶箱更讓人驚喜。",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "復甦選取的角色，為其恢復生命值上限的20%，並額外恢復1500點生命值。",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "解悶泡泡糖",
+    "Description": "#洛恩的特色料理。看{F#妳}{M#你}無聊，他遞來幾顆糖，美其名曰替{F#妳}{M#你}解悶。{F#妳}{M#你}剛咬了幾口，他便掏出一面鏡子對準{F#妳}{M#你}，臉上露出得逞的壞笑。糟了！中計了！舌頭早已被染成了青綠色…原來這個解悶是解他自己的悶嗎？",
+    "TypeDescription": "食物",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -35128,6 +35302,28 @@
     "ItemType": 2,
     "Name": "食譜：早安風車鎮",
     "Description": "步驟詳實的食譜，記載著「早安風車鎮」的製作方法。",
+    "TypeDescription": "食譜",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "食譜：肉末釀豆腐",
+    "Description": "步驟詳實的食譜，記載著「肉末釀豆腐」的製作方法。",
+    "TypeDescription": "食譜",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "食譜：薄荷泡泡糖",
+    "Description": "步驟詳實的食譜，記載著「薄荷泡泡糖」的製作方法。",
     "TypeDescription": "食譜",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -38151,6 +38347,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "贗作的樹脂",
+    "Description": "戰勝藏身於世界樹中的異端者後，從殘毀的地脈深處拾得的樹脂。\n本應承載著構成這個世界諸多美好記憶的晶體，如今卻被種種不屬於此世的妄想與惡念所填滿。",
+    "TypeDescription": "角色培養素材",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "扭曲的枯枝",
+    "Description": "戰勝藏身於世界樹中的異端者後，從殘毀的地脈深處拾得的枯枝。\n自本應隱藏於深邃地底的巨木上生長出的扭曲枝條。即使遠離它的原主，其中也殘留著怪異邪惡的力量。",
+    "TypeDescription": "角色培養素材",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "褻瀆的新芽",
+    "Description": "戰勝藏身於世界樹中的異端者後，從殘毀的地脈深處拾得的枝葉。\n本應象徵著希望的新芽，如今已化作褻瀆的信標。深罪的樹木藉由葉脈的延展，正不斷向著天空攀升。",
+    "TypeDescription": "角色培養素材",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39819,6 +40048,28 @@
     "ItemType": 2,
     "Name": "深秘聖物匣·一等",
     "Description": "收納聖遺物的聖物匣。願見者可以感受聖蹟。\n\n每個聖物匣中，能獲得以下聖遺物套裝中的一件：\n·「晨星與月的曉歌」\n·「風起之日」",
+    "TypeDescription": "聖物匣",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "深秘聖物匣·二等",
+    "Description": "收納聖遺物的聖物匣。願見者可以蒙受祝福。\n\n每個聖物匣中，能獲得以下聖遺物套裝中的一件：\n·「天之美賜」\n·「影中沉凝的幻滅」\n·「戰狂」\n·「教官」\n·「流放者」",
+    "TypeDescription": "聖物匣",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "深秘聖物匣·一等",
+    "Description": "收納聖遺物的聖物匣。願見者可以感受聖蹟。\n\n每個聖物匣中，能獲得以下聖遺物套裝中的一件：\n·「天之美賜」\n·「影中沉凝的幻滅」",
     "TypeDescription": "聖物匣",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52552,6 +52803,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "洛恩的「朋友費」",
+    "Description": "沉甸甸的摩拉袋，袋口閃爍著黃金般閃耀的「友情」。",
+    "TypeDescription": "消耗品",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "洛恩的「朋友費」",
+    "Description": "已經一空的摩拉袋，袋口曾經閃爍著黃金般閃耀的「友情」。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52568,7 +52841,7 @@
     "Id": 121558,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "「瓦力·韋傑的一隅」",
+    "Name": "「瓦利·韋傑的一隅」",
     "Description": "「瓦力·韋傑的一隅」",
     "TypeDescription": "任務道具",
     "Icon": "UI_ItemIcon_121558"
@@ -52638,6 +52911,72 @@
     "Description": "便條",
     "TypeDescription": "任務道具",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "異質的樹髓·一",
+    "Description": "疑似某種樹脂凝結物。從被焚毀的世界樹主幹中析出，形態有些異常。未被樹脂包裹的部分正泛著罪惡的光。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "異質的樹髓·二",
+    "Description": "疑似某種樹脂凝結物。從被焚毀的世界樹主幹中析出，形態有些異常。未被樹脂包裹的部分正泛著罪惡的光。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "異質的樹髓·三",
+    "Description": "疑似某種樹脂凝結物。從被焚毀的世界樹主幹中析出，形態有些異常。未被樹脂包裹的部分正泛著罪惡的光。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "異質的樹髓",
+    "Description": "疑似某種樹脂凝結物。從被焚毀的世界樹主幹中析出，形態有些異常。未被樹脂包裹的部分正泛著罪惡的光。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "沾染「魔法氣息」的糰子牛奶",
+    "Description": "一瓶看似普通實則真的普通的糰子牛奶。根據布倫妮的說法，這是從魔女手中贏來的戰利品，因此她堅信這絕不是普通的糰子牛奶！",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "元能構裝體零件",
+    "Description": "艾爾海森與卡維受草神納西妲與大賢者納菲斯指派進行一項緊急工程，而工程下一階段需要大量材料。赤王陵內，最適合用作材料的莫過於元能構裝體。它們所擁有的古老技術與優質零件將被拆解得極小，再在新環境內重組成型。",
+    "TypeDescription": "任務道具",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -53757,7 +54096,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "綦假龍",
-    "Description": "被傳為龍之後裔的大型魚類。\n是假龍群族的旁支，主體呈深沉的青黑色，腹部則是醒目的淡金。與眾多表親相比，個性極為溫和，從不主動與其他水生生物起衝突。當然，這不意味著牠們好欺負——受到攻擊時，牠們能如金槍直刺般暴起一擊，將體型數倍於自己的進犯者俐落打退，震懾整片水域…",
+    "Description": "被傳為龍之後裔的大型魚類。\n是假龍族群的旁支，主體呈深沉的青黑色，腹部則是醒目的淡金。與眾多表親相比，個性極為溫和，從不主動與其他水生生物起衝突。當然，這不意味著牠們好欺負——受到攻擊時，牠們能如金槍直刺般暴起一擊，將體型數倍於自己的進犯者俐落打退，震懾整片水域…",
     "TypeDescription": "魚",
     "Icon": "UI_ItemIcon_131053"
   },
@@ -59840,7 +60179,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "秘術研究所",
-    "Description": "步驟詳實的圖紙，記載著「秘術研究所」的放置方法。\n平平無奇的煉金工坊，除去個別精巧的器件，看似與普通書房並無差異，但書架上的典籍，容器中的試劑，還有保存在櫃子中標註著「嚴禁拆封」的實驗樣本，普通人大多聞所未聞，只能憑藉自己的印象揣測它們的用途和內容。倘若有好奇之人違背禁令，安全事故就在所難免了。\n誤入工坊的貓貓引發兩次雷聲大雨點小的「煉金藥劑危機」後，西風騎士團的調查小隊就對城內的煉金工坊實施了嚴格的出入管制。大量關於煉金術的奇怪傳說就是在那時誕生的，讓潛心研究的學者們頭疼不已。\n使用後可進入放置介面查看。\n偏好這套擺設的同伴：可莉、砂糖、阿貝多、麗莎",
+    "Description": "步驟詳實的圖紙，記載著「秘術研究所」的放置方法。\n平平無奇的煉金工坊，除去個別精巧的器件，看似與普通書房並無差異，但書架上的典籍、容器中的試劑，還有保存在櫃子中標註著「嚴禁拆封」的實驗樣本，普通人大多聞所未聞，只能憑藉自己的印象揣測它們的用途和內容。倘若有好奇之人違背禁令，安全事故就在所難免了。\n誤入工坊的貓貓引發兩次雷聲大雨點小的「煉金藥劑危機」後，西風騎士團的調查小隊就對城內的煉金工坊實施了嚴格的出入管制。大量關於煉金術的奇怪傳說就是在那時誕生的，讓潛心研究的學者們頭疼不已。\n使用後可進入放置介面查看。\n偏好這套擺設的同伴：可莉、砂糖、阿貝多、麗莎、布倫妮",
     "TypeDescription": "擺設套裝圖紙",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59928,7 +60267,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "狩獵與歌舞之營",
-    "Description": "步驟詳實的圖紙，記載著「狩獵與歌舞之營」的放置方法。\n巧妙佈設的營地，參考學者馬斯克的著作，完美還原了丘丘人部落的實景，可被用於研究丘丘人的生活習性。\n據說在過去，西風騎士團常在討伐魔物前佈設這種營地，由偵察騎士主導，進行詳盡的推演。而常年漂泊在外的南十字船隊，也會綜合各方情報建立沙盤，來模擬登上陌生島嶼後的境況，排除魔物的威脅。\n使用後可進入放置介面查看。\n偏好這套擺設的同伴：安柏、砂糖、可莉、北斗、亞蘿伊",
+    "Description": "步驟詳實的圖紙，記載著「狩獵與歌舞之營」的放置方法。\n巧妙設計的營地，參考學者馬斯克的著作，完美還原了丘丘人部落的實景，可被用於研究丘丘人的生活習性。\n據說在過去，西風騎士團常在討伐魔物前佈設這種營地，由偵察騎士主導，進行詳盡的推演。而常年漂泊在外的南十字船隊，也會綜合各方情報建立沙盤，來模擬登上陌生島嶼後的境況，排除魔物的威脅。\n使用後可進入放置介面查看。\n偏好這套擺設的同伴：安柏、砂糖、可莉、北斗、亞蘿伊、洛恩",
     "TypeDescription": "擺設套裝圖紙",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60533,7 +60872,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "各方來客的舒心居室",
-    "Description": "陳設齊全的臥室，借鑑了那夏鎮最大酒館「旗艦」的客房設計，並針對居住者的需求做出改良。\n「旗艦」酒館的客人背景複雜多樣，對舒適的定義也各不相同。要在各方期待之間找到平衡並非易事，最終「旗艦」選擇了一種獨特的解決方案：將客人可能需要的一切陳設配置到客房之中，再根據客人的看法減去不必要的物品。儘管房間佈置因堆滿東西而稍顯擁擠，但勝在功能齊備，每一位客人都能從中找到屬於自己的舒適。",
+    "Description": "陳設齊全的臥室，借鑑了那夏鎮最大酒館「旗艦」的客房設計，並針對居住者的需求做出改良。\n「旗艦」酒館的客人背景複雜多樣，對舒適的定義也各不相同。要在各方期待之間找到平衡並非易事，最終「旗艦」選擇了一種獨特的解決方案：將客人可能需要的一切陳設配置到客房之中，再根據客人的看法減去不必要的物品。儘管房間佈置因堆滿東西而稍顯擁擠，但勝在功能齊備，每一位客人都能從中找到屬於自己的舒適。\n偏好這套擺設的同伴：莉奈婭、尼可",
     "TypeDescription": "擺設套裝圖紙",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60588,7 +60927,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "終北之地的原野",
-    "Description": "雲集了挪德卡萊地區常見植被與地貌的原野，較為真實地還原了希汐島野外的獨特風光。\n挪德卡萊地區有著豐沛的月矩力，催生了色彩鮮豔的植物、習性奇特的動物，以及形態獨特的地貌。對於博物學家而言，這片區域蘊藏著無數名為新知的寶藏。而對於普通遊客而言，這樣的奇妙景致也令人不禁駐足欣賞。\n偏好這套擺設的同伴：杜林",
+    "Description": "雲集了挪德卡萊地區常見植被與地貌的原野，相當真實地還原了希汐島野外的獨特風光。\n挪德卡萊地區有著豐沛的月矩力，催生了色彩鮮豔的植物、習性奇特的動物，以及形態獨特的地貌。對於博物學家而言，這片區域蘊藏著無數名為新知的寶藏。而對於普通遊客而言，這樣的奇妙景致也令人不禁駐足欣賞。\n偏好這套擺設的同伴：杜林、莉奈婭、尼可",
     "TypeDescription": "擺設套裝圖紙",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60599,7 +60938,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "繁忙的邊地小鎮",
-    "Description": "以多種特色建築為核心的區域景觀，設立了功能各異的店鋪，完美還原那夏鎮一角的風貌。\n據傳，那夏鎮有別於其他城市，沒有真正的管理者，也缺乏明確的規劃結構，使得鎮上的建築之間充滿了無數狹窄的通道與隱秘縫隙。對普通居民而言，這些通道只不過是噪音傳播的工具，然而對於善於捕捉資訊的有心者而言，這些通道卻是秘聞傳播的路徑之一，還有靈巧穿行的捷徑…\n偏好這套擺設的同伴：奈芙爾、雅珂達、法爾伽",
+    "Description": "以多種特色建築為核心的區域景觀，設立了功能各異的店鋪，完美還原那夏鎮一角的風貌。\n據傳，那夏鎮有別於其他城市，沒有真正的管理者，也缺乏明確的規劃結構，使得鎮上的建築之間充滿了無數狹窄的通道與隱秘縫隙。對普通居民而言，這些通道只不過是噪音傳播的工具，然而對於善於捕捉資訊的有心者而言，這些通道卻是秘聞傳播的路徑之一，還有靈巧穿行的捷徑…\n偏好這套擺設的同伴：奈芙爾、雅珂達、法爾伽、洛恩、布倫妮",
     "TypeDescription": "擺設套裝圖紙",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74944,6 +75283,17 @@
     "ItemType": 2,
     "Name": "「嚎嚎利齒」",
     "Description": "步驟詳實的圖紙，記載著「『嚎嚎利齒』」的製作方法。\n使用後可進入製作介面查看。",
+    "TypeDescription": "擺設圖紙",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "「石間小塑」",
+    "Description": "步驟詳實的圖紙，記載著「『石間小塑』」的製作方法。\n使用後可進入製作介面查看。",
     "TypeDescription": "擺設圖紙",
     "Icon": "UI_ItemIcon_Home_Common"
   }

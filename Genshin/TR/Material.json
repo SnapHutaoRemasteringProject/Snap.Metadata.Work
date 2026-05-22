@@ -2125,6 +2125,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Lohen'in Yaşam Yıldızı",
+    "Description": "Lohen'in Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2132,6 +2143,28 @@
     "Description": "Linnea'nın Takımyıldız Etkinleştirme Malzemesi",
     "TypeDescription": "Takımyıldızı Etkinleştirir",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Nicole'un Yaşam Yıldızı",
+    "Description": "Nicole'un Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prune'un Yaşam Yıldızı",
+    "Description": "Prune'un Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3379,6 +3412,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Lohen'in Yaşam Yıldızı",
+    "Description": "Lohen'in Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3386,6 +3430,28 @@
     "Description": "Linnea'nın Takımyıldız Etkinleştirme Malzemesi",
     "TypeDescription": "Takımyıldızı Etkinleştirir",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Nicole'un Yaşam Yıldızı",
+    "Description": "Nicole'un Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Prune'un Yaşam Yıldızı",
+    "Description": "Prune'un Takımyıldız Etkinleştirme Malzemesi",
+    "TypeDescription": "Takımyıldızı Etkinleştirir",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -31689,6 +31755,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "70 Dayanıklılık yeniler.",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kıymalı Tofu Dolması (Tuhaf)",
+    "Description": "Bol et dolgulu enfes bir tofu yemeği. Bir parça almaya çalıştığın ilk seferde tofu tamamen dağılıyor. İkinci denemende ise tofu ve iç harç oracıkta birbirinden ayrılıyor... Kokusu ne kadar cezbedici olsa da üst üste gelen iki başarısızlıktan sonra yeniden deneme hevesin bütünüyle kaçıyor.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "85 Dayanıklılık yeniler.",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kıymalı Tofu Dolması",
+    "Description": "Bol et dolgulu enfes bir tofu yemeği. İçi oyulan her bir tofu parçası, mükemmel baharatlanmış kıymayla doldurulur. Altın sarısı olana dek kızartıldıktan sonra zengin ve leziz bir sosta kısık ateşte pişirilir. Mütevazı ve sıradan malzemelerin birleşimiyle her köşe başında bulabileceğin bu tanıdık, rahatlatıcı, ev sıcaklığında lezzet ortaya çıkar.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "100 Dayanıklılık yeniler.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kıymalı Tofu Dolması (Lezzetli)",
+    "Description": "Bol et dolgulu enfes bir tofu yemeği. Geniş, altın kenarlı porselen tabağın üzerinde dört altın sarısı parça muntazam bir şekilde duruyor. Hafif ve güzel kokulu dalgalar halinde yükselen buhar, anında iştah kabartan bir aroma yayıyor. Tofu sadece birkaç lokmada tükeniyor, geriye kalan o kehribar rengi sos ise ziyan edilemeyecek kadar leziz, tam pilavın üstünde gezdirmelik.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Bir karakteri diriltir ve 900 Can yeniler.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Balonlu Nane Sakızı (Tuhaf)",
+    "Description": "Yumuşak, çiğnenebilir bir şekerleme. Nanenin o güçlü serinliğine meydan okuyup yanaklarını dolduruyor ve yoğun bir uğraşın sonunda minik bir balon yapmayı başarıyorsun. Tam amacına ulaşmak üzereyken balon birden acıklı sesler çıkararak sönüveriyor ve tüm çaban boşa gidiyor...",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Bir karakteri diriltir ve 1.200 Can yeniler.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Balonlu Nane Sakızı",
+    "Description": "İki farklı lezzeti bir araya getiren, yumuşak ve çiğnenebilir bir şekerleme. Biraz pratikle etkileyici büyüklükte balonlar şişirebilirsin! Ama dikkatli ol, çok zorlarsan ve balon patlarsa yüzün yapış yapış olur!",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Bir karakteri diriltir ve 1.500 Can yeniler.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Balonlu Nane Sakızı (Lezzetli)",
+    "Description": "Yumuşak, çiğnenebilir bir şekerleme. Taze aroması boğazından süzülürken anında serinletici ve ferahlatıcı bir his veriyor. Dahası, hafif bir üfleyişte bile berrak ve parlak bir balon şişirebiliyorsun. Boş vakit geçirmek için birebir, küçük ve nefis bir atıştırmalık!",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "1.500 saniyeliğine tüm grup üyelerinin tırmanma ve depar esnasında harcadığı Dayanıklılık %25 azalır. Eşli Modda oynarken bu etki yalnızca senin karakterlerine uygulanır.",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Dönen Spesiyal",
+    "Description": "Prune'un özel tarifi. \"Dönen Spesiyal, Nod-Krai'da sadece yetişkinlerin oynayabildiği bir oyundur! Hehe, sana nasıl oynandığını göstereyim bak.\" Kendini beğenmiş bir hareketle önüne içecek dolu dönen bir tepsi koyar. İçecekler parlak, renkli ve lezzetlidir ama tepsiyi görür görmez aklına \"Özel Rulet\" gelir... Bir dakika. Adını yanlış mı öğrenmiş yoksa?",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "130 Dayanıklılık yeniler.",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Yaldızlı Sandık",
+    "Description": "Nicole'un özel tarifi. \"Şaşırdın mı? Bunu yapmasını çok uzun zamandır biliyorum. Eh, o zamanlar...\" \"Son zamanlarda Bay Dokuz'dan Liyue'de tekrar popüler olduğunu duydum...\" \"Hem bir hazine sandığı tasarımı hem de bir mutfak ikonu mu? Ben bir dahiyim...\" Önüne altın renginde bir \"hazine sandığı\" konunca zihnin bir anda dur durak bilmeyen bir gevezelikle dolup taşıyor... Bu olsa olsa Nicole'dur. Bu gevezelik seli yüzünden başın zonkluyor olabilir ama yemeğin damağında bıraktığı keyif, bir gösterişli sandık açmaktan bile daha keyifli.",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Seçili karakteri diriltir ve Maks. Canını %20 yeniler, ardından 1.500 Can verir.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Sıkıntı Geçiren Balonlu Sakız",
+    "Description": "Lohen'in özel tarifi. Sıkıldığını görünce sana birkaç şekerleme uzatıp bunların vakit geçirmeye yardımcı olacağını söyledi. Daha çiğnemene kalmadan aniden büyük bir keyifle bir ayna çıkarıp sana doğrulttu. Eyvah, meğer bir yuzakmış! Dilin parlak bir turkuaz renge boyanmış... O zaman \"vakit geçirmeye yardımcı olur\" derken kendi vaktini mi kastediyordu acaba?",
+    "TypeDescription": "Yiyecek",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -34622,6 +34796,28 @@
     "ItemType": 2,
     "Name": "Tarif: Değirmenköy Kahvaltı Tabağı",
     "Description": "Değirmenköy Kahvaltı Tabağı yapımını adım adım anlatan detaylı bir tarif.",
+    "TypeDescription": "Tarif",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tarif: Kıymalı Tofu Dolması",
+    "Description": "Kıymalı Tofu Dolması yapımını adım adım anlatan detaylı bir tarif.",
+    "TypeDescription": "Tarif",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Tarif: Balonlu Nane Sakızı",
+    "Description": "Balonlu Nane Sakızı yapımını adım adım anlatan detaylı bir tarif.",
     "TypeDescription": "Tarif",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37645,6 +37841,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Sahte Reçine",
+    "Description": "Irminsul'da saklanan sapkın yenildikten sonra Ley Hatlarının parçalanmış derinliklerinden çıkarılan bir reçine.\nBir zamanlar bu dünyayı oluşturan nice güzel anıyı taşıması gereken bir kristalken şimdi buraya ait olmayan sanrılar ve kötülüklerle dolu.",
+    "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Kurumuş Çarpık Dal",
+    "Description": "Irminsul'da saklanan sapkın yenildikten sonra Ley Hatlarının parçalanmış derinliklerinden çıkarılan kurumuş bir dal.\nToprağın derinliklerinde gömülü kalması gereken dev bir ağacın çarpık bir dalı. Kaynağından kopmuş olmasına rağmen içinde hâlâ tuhaf ve kötücül bir güç barındırıyor.",
+    "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Kirlenmiş Filiz",
+    "Description": "Irminsul'da saklanan sapkın yenildikten sonra Ley Hatlarının parçalanmış derinliklerinden çıkarılan bir filiz.\nBir umut tomurcuğu olması gerekirken şimdi kutsala hakaret etmenin bir sembolü haline geldi. Günahkar ağaç, yayılan damarları aracılığıyla gökyüzüne tırmanmaya devam ediyor.",
+    "TypeDescription": "Karakter Seviyesi Yükseltme Malzemesi",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39313,6 +39542,28 @@
     "ItemType": 2,
     "Name": "Zindan Yadigar Sandığı: Kademe I",
     "Description": "Yadigarları saklamak için kullanılan bir yadigar sandığı. Görenlerin bahtı açık olsun.\n\nHer yadigar sandığı şu setlerden bir yadigar verir:\n·Seher Yıldızı ve Ayın Sabah Şarkısı\n·Rüzgarların Şekillendirdiği Bir Gün",
+    "TypeDescription": "Yadigar Sandığı",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Zindan Yadigar Sandığı: Kademe II",
+    "Description": "Yadigarları saklamak için kullanılan bir yadigar sandığı. Görenlerin bahtı açık olsun.\n\nHer yadigar sandığı şu setlerden bir yadigar verir:\n·Göklerin Hediyesi\n·Derin Gölgelerde Uyanış\n·Vahşi Savaşçı\n·Eğitmen\n·Sürgün",
+    "TypeDescription": "Yadigar Sandığı",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Zindan Yadigar Sandığı: Kademe I",
+    "Description": "Yadigarları saklamak için kullanılan bir yadigar sandığı. Görenlerin bahtı açık olsun.\n\nHer yadigar sandığı şu setlerden bir yadigar verir:\n·Göklerin Hediyesi\n·Derin Gölgelerde Uyanış",
     "TypeDescription": "Yadigar Sandığı",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52046,6 +52297,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohen'in \"Arkadaşlık Ücreti\"",
+    "Description": "İçinden \"arkadaşlığın\" altın parıltısı ışıldayan ağır bir Mora kesesi.",
+    "TypeDescription": "Sarf Malzemesi",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohen'in \"Arkadaşlık Ücreti\"",
+    "Description": "Artık boş kalan Mora kesesi. İçinden bir zamanlar \"arkadaşlığın\" altın parıltısı ışıldıyordu.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52095,7 +52368,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Rhonabwy'nin Rüyası",
+    "Name": "Rhonabouillet'nin Rüyası",
     "Description": "Lenormand Yayınevi'nden bir şiir kitabı. Zamanda geriye yolculuk yapıp Göl Şövalyesi'nin sarayındaki bir hizmetçiye aşık olan bir kahramanın hikayesini anlatıyor.",
     "TypeDescription": "Görev Eşyası",
     "Icon": "UI_ItemIcon_100178"
@@ -52117,7 +52390,7 @@
     "Id": 121563,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Sevgi, İlahi İlham ve Erdem Kanonu",
+    "Name": "İlahi Aşkın Tezahürü",
     "Description": "Eski Favonius Kilisesine mensup bir rahip tarafından Rüzgar Hükümdarı'nın rehberliğinde yazıldığı söylenen bir şiir kitabı. Eser, tanrıların sevgisi ile insanların sevgisi arasındaki farkı ele alır ve nihayetinde insani şefkat, arkadaşlık ve romantik sevginin özünde kutsallık barındırdığı sonucuna varır; zira bunların hepsi aynı özgürlük özleminden kaynaklanır.",
     "TypeDescription": "Görev Eşyası",
     "Icon": "UI_ItemIcon_100182"
@@ -52132,6 +52405,72 @@
     "Description": "Not",
     "TypeDescription": "Görev Eşyası",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anormal Ağaç İliği I",
+    "Description": "Irminsul'un yakılmış gövdesinden sızan reçinemsi bir katılaşma olduğundan şüphelenilen bir madde. Şekli tuhaftır ve açıktaki yerlerinden tekinsiz bir ışık yayılır.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anormal Ağaç İliği II",
+    "Description": "Irminsul'un yakılmış gövdesinden sızan reçinemsi bir katılaşma olduğundan şüphelenilen bir madde. Şekli tuhaftır ve açıktaki yerlerinden tekinsiz bir ışık yayılır.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anormal Ağaç İliği III",
+    "Description": "Irminsul'un yakılmış gövdesinden sızan reçinemsi bir katılaşma olduğundan şüphelenilen bir madde. Şekli tuhaftır ve açıktaki yerlerinden tekinsiz bir ışık yayılır.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Anormal Ağaç İliği",
+    "Description": "Irminsul'un yakılmış gövdesinden sızan reçinemsi bir katılaşma olduğundan şüphelenilen bir madde. Şekli tuhaftır ve açıktaki yerlerinden tekinsiz bir ışık yayılır.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "\"Büyüyle Harmanlanmış\" Sütlü Dango",
+    "Description": "Sıradan görünen ve aslında tamamen sıradan olan bir şişe Sütlü Dango. Ancak Prune, bunu bir cadıdan kazandığı için bir Sütlü Dangodan çok daha fazlası olduğuna inanıyor!",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kadim Yapı Bileşeni",
+    "Description": "Nahida ve Büyük Bilge Naphis tarafından görevlendirilen Alhaitham ve Kaveh aciliyeti olan bir projeyi yürütüyor. Projenin bir sonraki aşaması için çok miktarda malzeme gerektiğinden ideal kaynak olarak Kral Deshret'in Anıt Mezarındaki Kadim Yapıları seçtiler. Bu yapıların kadim teknolojisi ve yüksek kaliteli bileşenleri, mikroskobik parçalara ayrılıp yeni bir ortam için yeniden yapılandırılacak.",
+    "TypeDescription": "Görev Eşyası",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -53251,7 +53590,7 @@
     "RankLevel": 3,
     "ItemType": 2,
     "Name": "Mavi Yalancı Ejder",
-    "Description": "Ejderhaların soyundan geldiği söylenen büyük bir balık.\nEjder Balığı ailesinin bir kolu olan bu türün vücudu ağırlıklı olarak koyu, kasvetli bir mavimsi-siyah renktedir ve karnının altındaki çarpıcı soluk altın rengiyle tezat oluşturur. Birçok kuzenine kıyasla bu tür son derece uysal ve ölçülüdür. Diğer su canlılarıyla asla bir çatışma başlatmaz. Ancak bu bir zayıflık olarak görülmemelidir. Kışkırtıldıklarında altın bir mızrak kadar şiddetli ve doğrudan ani bir saldırıyla ortaya çıkabilir, kendilerinden birkaç kat büyük davetsiz misafirleri hızla püskürtebilir ve çevrelerindeki tüm suları hayretler içinde bırakabilirler.",
+    "Description": "Ejderhaların soyundan geldiği söylenen büyük bir balık.\nEjder Balığı ailesinin bir kolu olan bu türün vücudu ağırlıklı olarak koyu, kasvetli bir mavimsi-siyah renktedir ve karnının altındaki çarpıcı soluk altın rengiyle tezat oluşturur. Birçok kuzenine kıyasla bu tür son derece uysaldır. Diğer su canlılarıyla asla bir çatışma başlatmaz. Ancak bu bir zayıflık olarak görülmemelidir. Kışkırtıldıklarında altın bir mızrak kadar şiddetli ve doğrudan ani bir saldırıyla ortaya çıkabilir, kendilerinden birkaç kat büyük davetsiz misafirleri hızla püskürtebilir ve çevrelerindeki tüm suları hayretler içinde bırakabilirler.",
     "TypeDescription": "Balık",
     "Icon": "UI_ItemIcon_131053"
   },
@@ -59334,7 +59673,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Gizli Araştırma Laboratuvarı",
-    "Description": "\"Gizli Araştırma Laboratuvarı\" yapımını adım adım anlatan detaylı bir taslak.\nEski, basit bir simya atölyesi. Özelleştirilmiş ve karmaşık araçları odadan çıkardığında diğer çalışma odaları gibi görünecektir. Ancak raflardaki kitapların, kutulardaki ayıraçların ve üzerinde \"Açmayın\" yazan numunelerin ne olduğunu konudan bihaber kişiler sadece tahmin edebilir. Bu uyarıya kulak asmayan meraklı bir \"kedi\"nin kazaya yol açması kaçınılmazdır.\nGerçek kediler atölyeye yanlışlıkla girip iki simya iksiri düşürerek kazaya yol açmıştı. Favonius Şövalyeleri Soruşturma Ekibi de şehirdeki simya atölyelerine sıkı bir giriş çıkış yönetmeliği getirmişti. Simyayla ilgili birçok tuhaf söylenti de bu sıralarda ortaya çıktı. Bu durum da işine odaklanmaya çalışan araştırmacıların başını oldukça ağrıttı.\nBu eşyayı kullandıktan sonra Yerleştirme Ekranında görüntüleyebilirsin.\nYoldaşların arasından Klee, Sucrose, Albedo ve Lisa bu Dekorasyon Setini tercih eder.",
+    "Description": "\"Gizli Araştırma Laboratuvarı\" yapımını adım adım anlatan detaylı bir taslak.\nEski, basit bir simya atölyesi. Özelleştirilmiş ve karmaşık araçları odadan çıkardığında diğer çalışma odaları gibi görünecektir. Ancak raflardaki kitapların, kutulardaki ayıraçların ve üzerinde \"Açmayın\" yazan numunelerin ne olduğunu konudan bihaber kişiler sadece tahmin edebilir. Bu uyarıya kulak asmayan meraklı bir \"kedi\"nin kazaya yol açması kaçınılmazdır.\nGerçek kediler atölyeye yanlışlıkla girip iki simya iksiri düşürerek kazaya yol açmıştı. Favonius Şövalyeleri Soruşturma Ekibi de şehirdeki simya atölyelerine sıkı bir giriş çıkış yönetmeliği getirmişti. Simyayla ilgili birçok tuhaf söylenti de bu sıralarda ortaya çıktı. Bu durum da işine odaklanmaya çalışan araştırmacıların başını oldukça ağrıttı.\nBu eşyayı kullandıktan sonra Yerleştirme Ekranında görüntüleyebilirsin.\nYoldaşların arasından Klee, Sucrose, Albedo, Lisa ve Prune bu Dekorasyon Setini tercih eder.",
     "TypeDescription": "Dekorasyon Seti Taslağı",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59422,7 +59761,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Neşeli Av Kampı",
-    "Description": "Neşeli Av Kampı yapımını adım adım anlatan ayrıntılı bir taslak.\nAraştırmacı Musk'ın dağ yabanilerinin yaşam alanını tekrar oluşturmak için yazdığı meşhur yazılarından esinlenerek özenle kurulmuş bir kamp yeri. Dağ yabanilerinin gündelik alışkanlıklarını araştırmak için kullanılabilir.\nBir zamanlar Favonius Şövalyelerinin, Kaşiflerin önderliğinde canavarlara karşı sefere çıkmadan önce bu tarz kamplar kurduğu ve detaylı planlar yaptığı söylenir. Güneyhaçı Filosu da genelde adaya çıkarma yapma ve adadaki yaratıkları ortadan kaldırma tatbikatı yapmak için çeşitli istihbarat kaynaklarından öğrendiklerine göre benzer tarzda kum masalar kurar.\nBu eşyayı kullandıktan sonra Yerleştirme Ekranında görüntüleyebilirsin.\nYoldaşların arasından Amber, Sucrose, Klee, Beidou ve Aloy bu Dekorasyon Setini tercih eder.",
+    "Description": "Neşeli Av Kampı yapımını adım adım anlatan ayrıntılı bir taslak.\nAraştırmacı Musk'ın Dağ Yabanilerinin yaşam alanını tekrar oluşturmak için yazdığı meşhur yazılarından esinlenerek özenle kurulmuş bir kamp yeri. Dağ Yabanilerinin gündelik alışkanlıklarını araştırmak için kullanılabilir.\nBir zamanlar Favonius Şövalyelerinin, Kaşiflerin önderliğinde canavarlara karşı sefere çıkmadan önce bu tarz kamplar kurduğu ve detaylı planlar yaptığı söylenir. Güneyhaçı Filosu da genelde adaya çıkarma yapma ve adadaki yaratıkları ortadan kaldırma tatbikatı yapmak için çeşitli istihbarat kaynaklarından öğrendiklerine göre benzer tarzda kum masalar kurar.\nBu eşyayı kullandıktan sonra Yerleştirme Ekranında görüntüleyebilirsin.\nYoldaşların arasından Amber, Sucrose, Klee, Beidou, Aloy ve Lohen bu Dekorasyon Setini tercih eder.",
     "TypeDescription": "Dekorasyon Seti Taslağı",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60027,7 +60366,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Dört Bir Yandan Gelen Misafirler İçin Rahat Bir Oda",
-    "Description": "Nasha Kasabası'ndaki en büyük han olan Sancak Gemisi'nin misafir odalarından esinlenerek döşenmiş bir oda. Sakinlerinin ihtiyaçlarına nokta atışı cevap verebilmek için özel iyileştirmeler yapılmıştır.\nSancak Gemisi'nde konaklayan birbirinden farklı tüm misafirlerin kendine has bir \"konfor\" anlayışı vardır. Haliyle tüm bu beklentiler arasında bir denge tutturmak hiç de kolay değildir. Nitekim Sancak Gemisi en son kendince bir çözüm buldu: Odaları bir müşterinin ihtiyaç duyabileceği her türlü eşyayla donatıp, ardından aldıkları geri bildirimlere göre gereksiz olanları çıkarıyorlar. Bu yüzden oda biraz dağınık görünse de misafirin ihtiyaç duyabileceği her şeyi elinin altına koyarak kendine göre konforlu bir alan yaratmasına olanak tanıyorlar.",
+    "Description": "Nasha Kasabası'ndaki en büyük han olan Sancak Gemisi'nin misafir odalarından esinlenerek döşenmiş bir oda. Sakinlerinin ihtiyaçlarına nokta atışı cevap verebilmek için özel iyileştirmeler yapılmıştır.\nSancak Gemisi'nde konaklayan birbirinden farklı tüm misafirlerin kendine has bir \"konfor\" anlayışı vardır. Haliyle tüm bu beklentiler arasında bir denge tutturmak hiç de kolay değildir. Nitekim Sancak Gemisi en son kendince bir çözüm buldu: Odaları bir müşterinin ihtiyaç duyabileceği her türlü eşyayla donatıp, ardından aldıkları geri bildirimlere göre gereksiz olanları çıkarıyorlar. Bu yüzden oda biraz dağınık görünse de misafirin ihtiyaç duyabileceği her şeyi elinin altına koyarak kendine göre konforlu bir alan yaratmasına olanak tanıyorlar.\nYoldaşların arasından Linnea ve Nicole bu Dekorasyon Setini tercih eder.",
     "TypeDescription": "Dekorasyon Seti Taslağı",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60082,7 +60421,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Uzak Kuzeyin Yabanı",
-    "Description": "Nod-Krai'da sıkça görülen bitki örtüsünü ve arazi şekillerini bir araya getiren, özellikle de Hiisi Adası'nın eşsiz manzarasını aslına sadık şekilde yeniden canlandıran yaban arazi.\nNod-Krai bölgesi bol miktarda Kuuvahki barındırır. Bu da parlak renkli bitkilerin, kendine özgü alışkanlıklara sahip canlıların ve sıra dışı şekillerdeki arazi oluşumlarının ortaya çıkmasını sağlamıştır. Bu bölge, doğa bilimciler için pek çok yeni bilgi barındırırken sıradan turistlere de durup hayranlıkla izleyebilecekleri harika manzaralar sunar.\nYoldaşların arasından Durin bu Dekorasyon Setini tercih eder.",
+    "Description": "Nod-Krai'da sıkça görülen bitki örtüsünü ve arazi şekillerini bir araya getiren, özellikle de Hiisi Adası'nın eşsiz manzarasını aslına sadık şekilde yeniden canlandıran yaban arazi.\nNod-Krai bölgesi bol miktarda Kuuvahki barındırır. Bu da parlak renkli bitkilerin, kendine özgü alışkanlıklara sahip canlıların ve sıra dışı şekillerdeki arazi oluşumlarının ortaya çıkmasını sağlamıştır. Bu bölge, doğa bilimciler için pek çok yeni bilgi barındırırken sıradan turistlere de durup hayranlıkla izleyebilecekleri harika manzaralar sunar.\nYoldaşların arasından Durin, Linnea ve Nicole bu Dekorasyon Setini tercih eder.",
     "TypeDescription": "Dekorasyon Seti Taslağı",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60093,7 +60432,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Cıvıl Cıvıl Sınır Kasabası",
-    "Description": "Merkezinde çeşitli özgün binalar yer alan, her türden dükkanın bulunduğu bölgesel bir peyzaj. Nasha Kasabası'nın bir köşesinin bire bir kopyasıdır.\nRivayete göre Nasha Kasabası'nı diğer şehirlerden ayıran şey, gerçek bir yöneticisinin ve net bir planlama yapısının olmayışıdır. Bu durum, binalar arasında sayısız dar geçidin ve göze çarpmayan boşlukların ortaya çıkmasına neden olmuştur. Sakinlerin çoğu için bu geçitler, gürültüden başka bir şey değildir. Fakat bilginin peşindekiler için sırların yayıldığı, yolcuların ise yollarını kısaltan kestirmelerdir.\nYoldaşların arasından Nefer, Jahoda ve Varka bu Dekorasyon Setini tercih eder.",
+    "Description": "Merkezinde çeşitli özgün binalar yer alan, her türden dükkanın bulunduğu bölgesel bir peyzaj. Nasha Kasabası'nın bir köşesinin bire bir kopyasıdır.\nRivayete göre Nasha Kasabası'nı diğer şehirlerden ayıran şey, gerçek bir yöneticisinin ve net bir planlama yapısının olmayışıdır. Bu durum, binalar arasında sayısız dar geçidin ve göze çarpmayan boşlukların ortaya çıkmasına neden olmuştur. Sakinlerin çoğu için bu geçitler, gürültüden başka bir şey değildir. Fakat bilginin peşindekiler için sırların yayıldığı, yolcuların ise yollarını kısaltan kestirmelerdir.\nYoldaşların arasından Nefer, Jahoda, Varka, Lohen ve Prune bu Dekorasyon Setini tercih eder.",
     "TypeDescription": "Dekorasyon Seti Taslağı",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74438,6 +74777,17 @@
     "ItemType": 2,
     "Name": "\"Keskin Dişler ve Hırıltılar\"",
     "Description": "\"Keskin Dişler ve Hırıltılar\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
+    "TypeDescription": "Dekorasyon Taslağı",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"İşlenmiş Minyatür Taş\"",
+    "Description": "\"İşlenmiş Minyatür Taş\" yapımını adım adım anlatan detaylı bir taslak.\nEşyayı kullandıktan sonra Üretim Ekranında görüntüleyebilirsin.",
     "TypeDescription": "Dekorasyon Taslağı",
     "Icon": "UI_ItemIcon_Home_Common"
   }

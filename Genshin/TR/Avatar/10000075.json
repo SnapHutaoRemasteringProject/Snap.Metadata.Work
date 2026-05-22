@@ -1194,5 +1194,11 @@
     "Description": "İsim Kartı arka planı.\nGeçmiş, geçici bir dünyada saklanır, yaşam ise rüzgarda salınan bir çiçeğe konmuş kar tanesi gibidir.",
     "Icon": "UI_NameCardIcon_Wanderer",
     "PicturePrefix": "UI_NameCardPic_Wanderer"
+  },
+  "TraceEffect": {
+    "Id": 215020,
+    "Name": "Yankı: Sonsuzluğa Sürüklenme",
+    "Description": "Avare'nin Hayali Yankısı. \"Bir rüzgar gibi yaşıyor bu hayatta, oradan oraya savrularak.\"",
+    "Icon": "UI_TraceEffectIcon_Wanderer"
   }
 }

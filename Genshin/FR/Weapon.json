@@ -6913,6 +6913,59 @@
     ]
   },
   {
+    "Id": 13517,
+    "PromoteId": 13517,
+    "Sort": 5313,
+    "WeaponType": 13,
+    "RankLevel": 5,
+    "Name": "Désastre et remords",
+    "Description": "Une arme d'hast forgée à partir d'argétoile et de pierre blanche. Sa pointe acérée est constamment enveloppée d'un froid perçant.",
+    "Icon": "UI_EquipIcon_Pole_Carbine",
+    "AwakenIcon": "UI_EquipIcon_Pole_Carbine_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 47.537,
+        "Type": 4,
+        "Value": 1302
+      },
+      {
+        "InitValue": 0.048,
+        "Type": 20,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Ruine et blâme",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, il obtient l'effet Voie du conflit pendant 17 s, ainsi que les effets Impardonnable et Irréparable pendant 3 s, ceci pouvant être déclenché une fois toutes les 18 s.\nImpardonnable : augmente les DGT des attaques normales et chargées de <color=#99FFFFFF>40 %</color>.\nIrréparable : augmente les DGT des compétences et déchaînements élémentaires de <color=#99FFFFFF>40 %</color>.\nPendant la durée de la voie du conflit : si le personnage équipé de l'arme touche un ennemi avec une attaque normale ou chargée, la durée d'Irréparable est prolongée d'une seconde, tandis que toucher un ennemi avec une compétence ou un déchaînement élémentaire lui permet de prolonger la durée d'Impardonnable d'une seconde. Chacun des effets ci-dessus peuvent être déclenchés une fois toutes les 0,1 s. Les effets Impardonnable et Irréparable s'arrêtent à la fin de la voie du conflit ou lorsque le personnage équipé de l'arme quitte le terrain.\nHexerei : Rituel secret : Les effets d'augmentation des DGT augmentent de 75 %."
+        },
+        {
+          "Level": 1,
+          "Description": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, il obtient l'effet Voie du conflit pendant 17 s, ainsi que les effets Impardonnable et Irréparable pendant 3 s, ceci pouvant être déclenché une fois toutes les 18 s.\nImpardonnable : augmente les DGT des attaques normales et chargées de <color=#99FFFFFF>50 %</color>.\nIrréparable : augmente les DGT des compétences et déchaînements élémentaires de <color=#99FFFFFF>50 %</color>.\nPendant la durée de la voie du conflit : si le personnage équipé de l'arme touche un ennemi avec une attaque normale ou chargée, la durée d'Irréparable est prolongée d'une seconde, tandis que toucher un ennemi avec une compétence ou un déchaînement élémentaire lui permet de prolonger la durée d'Impardonnable d'une seconde. Les effets ci-dessus peuvent être déclenchés une fois toutes les 0,1 s. Les effets Impardonnable et Irréparable s'arrêtent à la fin de la voie du conflit ou lorsque le personnage équipé de l'arme quitte le terrain.\nHexerei : Rituel secret : Les effets d'augmentation des DGT augmentent de 75 %."
+        },
+        {
+          "Level": 2,
+          "Description": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, il obtient l'effet Voie du conflit pendant 17 s, ainsi que les effets Impardonnable et Irréparable pendant 3 s, ceci pouvant être déclenché une fois toutes les 18 s.\nImpardonnable : augmente les DGT des attaques normales et chargées de <color=#99FFFFFF>60 %</color>.\nIrréparable : augmente les DGT des compétences et déchaînements élémentaires de <color=#99FFFFFF>60 %</color>.\nPendant la durée de la voie du conflit : si le personnage équipé de l'arme touche un ennemi avec une attaque normale ou chargée, la durée d'Irréparable est prolongée d'une seconde, tandis que toucher un ennemi avec une compétence ou un déchaînement élémentaire lui permet de prolonger la durée d'Impardonnable d'une seconde. Les effets ci-dessus peuvent être déclenchés une fois toutes les 0,1 s. Les effets Impardonnable et Irréparable s'arrêtent à la fin de la voie du conflit ou lorsque le personnage équipé de l'arme quitte le terrain.\nHexerei : Rituel secret : Les effets d'augmentation des DGT augmentent de 75 %."
+        },
+        {
+          "Level": 3,
+          "Description": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, il obtient l'effet Voie du conflit pendant 17 s, ainsi que les effets Impardonnable et Irréparable pendant 3 s, ceci pouvant être déclenché une fois toutes les 18 s.\nImpardonnable : augmente les DGT des attaques normales et chargées de <color=#99FFFFFF>70 %</color>.\nIrréparable : augmente les DGT des compétences et déchaînements élémentaires de <color=#99FFFFFF>70 %</color>.\nPendant la durée de la voie du conflit : si le personnage équipé de l'arme touche un ennemi avec une attaque normale ou chargée, la durée d'Irréparable est prolongée d'une seconde, tandis que toucher un ennemi avec une compétence ou un déchaînement élémentaire lui permet de prolonger la durée d'Impardonnable d'une seconde. Les effets ci-dessus peuvent être déclenchés une fois toutes les 0,1 s. Les effets Impardonnable et Irréparable s'arrêtent à la fin de la voie du conflit ou lorsque le personnage équipé de l'arme quitte le terrain.\nHexerei : Rituel secret : Les effets d'augmentation des DGT augmentent de 75 %."
+        },
+        {
+          "Level": 4,
+          "Description": "Lorsque le personnage équipé de l'arme a utilisé une compétence élémentaire, il obtient l'effet Voie du conflit pendant 17 s, ainsi que les effets Impardonnable et Irréparable pendant 3 s, ceci pouvant être déclenché une fois toutes les 18 s.\nImpardonnable : augmente les DGT des attaques normales et chargées de <color=#99FFFFFF>80 %</color>.\nIrréparable : augmente les DGT des compétences et déchaînements élémentaires de <color=#99FFFFFF>80 %</color>.\nPendant la durée de la voie du conflit : si le personnage équipé de l'arme touche un ennemi avec une attaque normale ou chargée, la durée d'Irréparable est prolongée d'une seconde, tandis que toucher un ennemi avec une compétence ou un déchaînement élémentaire lui permet de prolonger la durée d'Impardonnable d'une seconde. Les effets ci-dessus peuvent être déclenchés une fois toutes les 0,1 s. Les effets Impardonnable et Irréparable s'arrêtent à la fin de la voie du conflit ou lorsque le personnage équipé de l'arme quitte le terrain.\nHexerei : Rituel secret : Les effets d'augmentation des DGT augmentent de 75 %."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114004,
+      112133,
+      112040
+    ]
+  },
+  {
     "Id": 14101,
     "PromoteId": 14101,
     "Sort": 1401,
@@ -9503,6 +9556,59 @@
     ]
   },
   {
+    "Id": 14523,
+    "PromoteId": 14523,
+    "Sort": 5420,
+    "WeaponType": 10,
+    "RankLevel": 5,
+    "Name": "Heptades des anges",
+    "Description": "Une boîte dorée, aussi splendide que la lumière des cieux. Selon la légende, elle appartenait jadis à un envoyé divin de la cour éternelle.",
+    "Icon": "UI_EquipIcon_Catalyst_FairyGarden",
+    "AwakenIcon": "UI_EquipIcon_Catalyst_FairyGarden_Awaken",
+    "GrowCurves": [
+      {
+        "InitValue": 49.1377,
+        "Type": 4,
+        "Value": 1303
+      },
+      {
+        "InitValue": 0.036,
+        "Type": 6,
+        "Value": 2301
+      }
+    ],
+    "Affix": {
+      "Name": "Couronne du dernier héritier",
+      "Descriptions": [
+        {
+          "Level": 0,
+          "Description": "Augmente l'ATQ de <color=#99FFFFFF>12 %</color>. Lorsque le personnage équipé de l'arme a créé un bouclier, il obtient l'effet Lumière de l'éclaireur pendant 20 s : chaque tranche de 1 000 pts d'ATQ du personnage équipé de l'arme augmente les DGT de votre personnage déployé de <color=#99FFFFFF>10 %</color>, jusqu'à un maximum de <color=#99FFFFFF>26 %</color>. De plus, lorsque le personnage équipé de l'arme crée un bouclier, il obtient l'effet Contentement du guide, ce qui lui restaure <color=#99FFFFFF>14</color> pts d'énergie, cet effet pouvant être déclenché une fois toutes les 14 s et pouvant également être déclenché lors de l'ouverture de tout type de coffre en dehors des combats. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nHexerei : Rituel secret : Tout personnage héxère faisant partie de votre équipe mais n'étant pas déployé bénéficie d'une augmentation de DGT de 50 % de celle de l'effet Lumière de l'éclaireur."
+        },
+        {
+          "Level": 1,
+          "Description": "Augmente l'ATQ de <color=#99FFFFFF>15 %</color>. Lorsque le personnage équipé de l'arme a créé un bouclier, il obtient l'effet Lumière de l'éclaireur pendant 20 s : chaque tranche de 1 000 pts d'ATQ du personnage équipé de l'arme augmente les DGT de votre personnage déployé de <color=#99FFFFFF>13 %</color>, jusqu'à un maximum de <color=#99FFFFFF>34 %</color>. De plus, lorsque le personnage équipé de l'arme crée un bouclier, il obtient l'effet Contentement du guide, ce qui lui restaure <color=#99FFFFFF>15</color> pts d'énergie, cet effet pouvant être déclenché une fois toutes les 14 s et pouvant également être déclenché lors de l'ouverture de tout type de coffre en dehors des combats. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nHexerei : Rituel secret : Tout personnage héxère faisant partie de votre équipe mais n'étant pas déployé bénéficie d'une augmentation de DGT de 50 % de celle de l'effet Lumière de l'éclaireur."
+        },
+        {
+          "Level": 2,
+          "Description": "Augmente l'ATQ de <color=#99FFFFFF>18 %</color>. Lorsque le personnage équipé de l'arme a créé un bouclier, il obtient l'effet Lumière de l'éclaireur pendant 20 s : chaque tranche de 1 000 pts d'ATQ du personnage équipé de l'arme augmente les DGT de votre personnage déployé de <color=#99FFFFFF>16 %</color>, jusqu'à un maximum de <color=#99FFFFFF>42 %</color>. De plus, lorsque le personnage équipé de l'arme crée un bouclier, il obtient l'effet Contentement du guide, ce qui lui restaure <color=#99FFFFFF>16</color> pts d'énergie, cet effet pouvant être déclenché une fois toutes les 14 s et pouvant également être déclenché lors de l'ouverture de tout type de coffre en dehors des combats. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nHexerei : Rituel secret : Tout personnage héxère faisant partie de votre équipe mais n'étant pas déployé bénéficie d'une augmentation de DGT de 50 % de celle de l'effet Lumière de l'éclaireur."
+        },
+        {
+          "Level": 3,
+          "Description": "Augmente l'ATQ de <color=#99FFFFFF>21 %</color>. Lorsque le personnage équipé de l'arme a créé un bouclier, il obtient l'effet Lumière de l'éclaireur pendant 20 s : chaque tranche de 1 000 pts d'ATQ du personnage équipé de l'arme augmente les DGT de votre personnage déployé de <color=#99FFFFFF>19 %</color>, jusqu'à un maximum de <color=#99FFFFFF>50 %</color>. De plus, lorsque le personnage équipé de l'arme crée un bouclier, il obtient l'effet Contentement du guide, ce qui lui restaure <color=#99FFFFFF>17</color> pts d'énergie, cet effet pouvant être déclenché une fois toutes les 14 s et pouvant également être déclenché lors de l'ouverture de tout type de coffre en dehors des combats. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nHexerei : Rituel secret : Tout personnage héxère faisant partie de votre équipe mais n'étant pas déployé bénéficie d'une augmentation de DGT de 50 % de celle de l'effet Lumière de l'éclaireur."
+        },
+        {
+          "Level": 4,
+          "Description": "Augmente l'ATQ de <color=#99FFFFFF>24 %</color>. Lorsque le personnage équipé de l'arme a créé un bouclier, il obtient l'effet Lumière de l'éclaireur pendant 20 s : chaque tranche de 1 000 pts d'ATQ du personnage équipé de l'arme augmente les DGT de votre personnage déployé de <color=#99FFFFFF>22 %</color>, jusqu'à un maximum de <color=#99FFFFFF>58 %</color>. De plus, lorsque le personnage équipé de l'arme crée un bouclier, il obtient l'effet Contentement du guide, ce qui lui restaure <color=#99FFFFFF>18</color> pts d'énergie, cet effet pouvant être déclenché une fois toutes les 14 s et pouvant également être déclenché lors de l'ouverture de tout type de coffre en dehors des combats. Les effets susmentionnés peuvent être déclenchés même si le personnage équipé de l'arme fait partie de l'équipe mais n'est pas déployé.\nHexerei : Rituel secret : Tout personnage héxère faisant partie de votre équipe mais n'étant pas déployé bénéficie d'une augmentation de DGT de 50 % de celle de l'effet Lumière de l'éclaireur."
+        }
+      ]
+    },
+    "CultivationItems": [
+      114076,
+      112142,
+      112124
+    ]
+  },
+  {
     "Id": 15101,
     "PromoteId": 15101,
     "Sort": 1501,
@@ -11807,7 +11913,7 @@
   {
     "Id": 15514,
     "PromoteId": 15514,
-    "Sort": 5512,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Plumage cramoisi du vautour astral",
@@ -11860,7 +11966,7 @@
   {
     "Id": 15515,
     "PromoteId": 15515,
-    "Sort": 5513,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Les chroniques de l'aube",
@@ -11913,7 +12019,7 @@
   {
     "Id": 15516,
     "PromoteId": 15516,
-    "Sort": 5514,
+    "Sort": 0,
     "WeaponType": 12,
     "RankLevel": 5,
     "Name": "Serment de gel doré",

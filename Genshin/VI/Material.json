@@ -2224,6 +2224,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Lohen",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Lohen",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2231,6 +2242,28 @@
     "Description": "Nguyên liệu kích hoạt cung mệnh Linnea",
     "TypeDescription": "Kích Hoạt Cung Mệnh",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Nicole",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Nicole",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Prune",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Prune",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3478,6 +3511,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Lohen",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Lohen",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3485,6 +3529,28 @@
     "Description": "Nguyên liệu kích hoạt cung mệnh Linnea",
     "TypeDescription": "Kích Hoạt Cung Mệnh",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Nicole",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Nicole",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Chòm Sao Của Prune",
+    "Description": "Nguyên liệu kích hoạt cung mệnh Prune",
+    "TypeDescription": "Kích Hoạt Cung Mệnh",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -32052,6 +32118,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 70 điểm thể lực",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Đậu Phụ Nhồi Thịt Kỳ Lạ",
+    "Description": "Món đậu phụ nhồi thịt. Lần đầu gắp, đậu phụ vỡ tan, lần thứ hai gắp, đậu phụ và nhân thịt tách rời... Tuy mùi thơm khá hấp dẫn, nhưng thất bại liên tiếp khiến mất đi hứng thú để gắp thêm lần nữa.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 85 điểm thể lực",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Đậu Phụ Nhồi Thịt",
+    "Description": "Món đậu phụ nhồi thịt. Khoét một lỗ ở giữa miếng đậu, nhồi đầy nhân thịt đã trộn đều, chiên sơ cho vàng rồi rưới nước sốt lên, hầm chín rồi bắc ra. Những nguyên liệu đơn sơ ấy đã hòa quyện thành hương vị thân thuộc nhất trên khắp các ngõ ngách của phố phường.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 100 điểm thể lực.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Đậu Phụ Nhồi Thịt Ngon",
+    "Description": "Món đậu phụ nhồi thịt. Trên đĩa gốm xương rộng với viền vàng, bốn miếng đậu phụ nhồi màu vàng óng được xếp gọn gàng. Hơi nóng hòa quyện cùng mùi thơm bay lên nghi ngút, xộc thẳng vào khoang mũi, trong nháy mắt đã gợi lên cảm giác thèm ăn. Ăn hết đậu phụ, nước sốt màu hổ phách còn sót lại trong đĩa mới chính là tinh túy không thể bỏ qua khi dùng để trộn cơm.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 900 điểm HP cho nhân vật được chọn hồi sinh.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kẹo Cao Su Bạc Hà Kỳ Lạ",
+    "Description": "Kẹo cao su mềm dẻo. Cố nhịn cảm giác mát lạnh mãnh liệt của Bạc Hà, phồng má lên hết sức, cuối cùng cũng thổi được một bong bóng nhỏ. Đáng tiếc, vào giây phút cuối cùng, cùng với vài tiếng \"bụp bụp\" khi bong bóng xì hơi, cuối cùng vẫn thất bại trong gang tấc...",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 1200 điểm HP cho nhân vật được chọn hồi sinh.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kẹo Cao Su Bạc Hà",
+    "Description": "Kẹo cao su mềm dẻo. Kết hợp hai hương vị khác nhau, chỉ cần chút kỹ xảo là có thể thổi ra bong bóng cực lớn. Tuy nhiên nhớ cẩn thận, đừng thổi bong bóng quá lớn, lỡ như vỡ ra là sẽ dính đầy mặt đấy!",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 1500 điểm HP cho nhân vật được chọn hồi sinh.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kẹo Cao Su Bạc Hà Ngon",
+    "Description": "Kẹo cao su mềm dẻo. Vị thanh mát như chiếc cầu trượt lướt nhẹ xuống cổ họng, mang đến cảm giác sảng khoái dễ chịu. Điều tuyệt vời hơn là chỉ cần thổi nhẹ là có thể tạo ra một quả bóng trong suốt. Chắc chắn là lựa chọn hoàn hảo để giết thời gian!",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "Giảm 25% tiêu hao thể lực cho toàn thành viên đội khi xung kích và leo trèo, kéo dài 1500s. Trong chế độ nhiều người chơi, chỉ có hiệu lực với bản thân.",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Vòng Xoay Đặc Biệt",
+    "Description": "Món ăn độc quyền của Prune. \"Vòng Xoay Đặc Biệt này là trò chơi dành cho người lớn ở Nod-Krai! Để tôi dạy cách chơi nhé, haha.\" Cùng với giọng nói đắc ý của Prune, một chiếc đĩa xoay đựng đồ uống xuất hiện trước mặt. Nước trái cây đủ màu sắc rực rỡ, ngọt ngào thơm ngon, chỉ là hình dáng chiếc đĩa xoay này khiến người ta liên tưởng ngay đến Vòng Quay Đặc Biệt... Khoan đã, không phải cô ấy nhớ nhầm tên rồi chứ?",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 130 điểm thể lực",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rương Vàng Chạm Trổ",
+    "Description": "Món ăn độc quyền của Nicole. \"Ngạc nhiên không? Cách làm món này tôi biết từ lâu rồi, kể ra thì trước đây...\" \"Gần đây nghe Thầy Cửu nói món này có vẻ lại thịnh hành ở Liyue...\" \"Tạo hình rương báu, lại còn là chỉ dẫn cho các món ngon, tôi thiết kế giỏi quá đi...\" Cùng với sự xuất hiện của một chiếc \"rương\" màu vàng, trong đầu lập tức vang lên một tràng những lời nói không ngừng... Quả nhiên là Nicole. Dù đầu óc bị những âm thanh này oanh tạc đến mức ù tai, nhưng cảm giác thỏa mãn từ vị giác lại mang đến niềm vui bất ngờ hơn cả việc mở một chiếc rương lộng lẫy.",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Hồi 20% giới hạn HP cho nhân vật được chọn hồi sinh, và hồi thêm 1500 điểm HP.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kẹo Cao Su Giải Sầu",
+    "Description": "Món ăn độc quyền của Lohen. Thấy bạn buồn chán, cậu ấy liền đưa vài viên kẹo, nói một cách mỹ miều là để giải sầu cho bạn. Vừa nhai được vài miếng, Lohen liền lôi ra một chiếc gương hướng về phía bạn, trên mặt nở nụ cười xấu xa đắc chí. Tiêu rồi! Trúng kế! Lưỡi đã bị nhuộm thành màu xanh lục... Hóa ra giải sầu ở đây là giải sầu cho chính cậu ấy sao?",
+    "TypeDescription": "Thực Phẩm",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -34985,6 +35159,28 @@
     "ItemType": 2,
     "Name": "Công Thức: Chào Buổi Sáng Thị Trấn Cối Xay Gió",
     "Description": "Công thức món ăn, ghi lại cách làm món \"Chào Buổi Sáng Thị Trấn Cối Xay Gió\".",
+    "TypeDescription": "Công Thức",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Công Thức: Đậu Phụ Nhồi Thịt",
+    "Description": "Công thức món ăn, ghi lại cách làm món \"Đậu Phụ Nhồi Thịt\".",
+    "TypeDescription": "Công Thức",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Công Thức: Kẹo Cao Su Bạc Hà",
+    "Description": "Công thức món ăn, ghi lại cách làm món \"Kẹo Cao Su Bạc Hà\"",
     "TypeDescription": "Công Thức",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -38008,6 +38204,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Nhựa Cây Giả Tạo",
+    "Description": "Nhựa cây thu được từ sâu trong Địa Mạch bị tàn phá sau khi đánh bại kẻ dị giáo ẩn náu trong Cây Thế Giới.\nTinh thể vốn chứa đựng vô số ký ức tươi đẹp cấu thành thế giới này, giờ đây lại bị lấp đầy bởi những vọng tưởng và ác niệm không thuộc về nơi đây.",
+    "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Cành Khô Vặn Xoắn",
+    "Description": "Cành khô thu được từ sâu trong Địa Mạch bị tàn phá sau khi đánh bại kẻ dị giáo ẩn náu trong Cây Thế Giới.\nCành cây vặn vẹo mọc ra từ cây khổng lồ vốn ẩn sâu dưới lòng đất. Dù đã xa rời chủ thể ban đầu, bên trong nó vẫn còn sót lại sức mạnh tà ác kỳ dị.",
+    "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Chồi Non Báng Bổ",
+    "Description": "Cành lá thu được từ sâu trong Địa Mạch bị tàn phá sau khi đánh bại kẻ dị giáo ẩn náu trong Cây Thế Giới.\nChồi non vốn tượng trưng cho hy vọng, nay đã hóa thành ngọn hải đăng báo hiệu sự báng bổ. Cây tội lỗi dựa vào sự mở rộng của cành lá, đang không ngừng vươn lên bầu trời.",
+    "TypeDescription": "Nguyên Liệu Bồi Dưỡng Nhân Vật",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39676,6 +39905,28 @@
     "ItemType": 2,
     "Name": "Hộp Thánh Vật Thần Bí - Hạng 1",
     "Description": "Hộp Thánh Vật để cất giữ Thánh Di Vật. Mong rằng người nhìn thấy nó sẽ nhận được thánh tích.\n\nTrong mỗi Hộp Thánh Vật, có thể nhận được một trong các bộ Thánh Di Vật sau:\n· \"Khúc Ca Của Trăng Và Sao Mai\"\n· \"Ngày Nổi Gió\"",
+    "TypeDescription": "Hộp Thánh Vật",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Hộp Thánh Vật Thần Bí - Hạng 2",
+    "Description": "Hộp Thánh Vật để cất giữ Thánh Di Vật. Mong rằng người nhìn thấy nó sẽ nhận được chúc phúc.\n\nTrong mỗi Hộp Thánh Vật, có thể nhận được một trong các bộ Thánh Di Vật sau:\n·\"Phước Lành Trời Cao\"\n·\"Ảo Tưởng Vụn Vỡ Trong Bóng Tối\"\n·\"Cuồng Chiến\"\n·\"Giáo Quan\"\n·\"Kẻ Lưu Đày\"",
+    "TypeDescription": "Hộp Thánh Vật",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Hộp Thánh Vật Thần Bí - Hạng 1",
+    "Description": "Hộp Thánh Vật để cất giữ Thánh Di Vật. Mong rằng người nhìn thấy nó sẽ nhận được thánh tích.\n\nTrong mỗi Hộp Thánh Vật, có thể nhận được một trong các bộ Thánh Di Vật sau:\n·\"Phước Lành Trời Cao\"\n·\"Ảo Tưởng Vụn Vỡ Trong Bóng Tối\"",
     "TypeDescription": "Hộp Thánh Vật",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52409,6 +52660,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Phí Bạn Bè\" của Lohen",
+    "Description": "Túi Mora nặng trĩu, miệng túi lấp lánh ánh vàng rực rỡ của \"tình bạn\".",
+    "TypeDescription": "Vật Phẩm Tiêu Hao",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "\"Phí Bạn Bè\" của Lohen",
+    "Description": "Túi Mora đã trống rỗng, miệng túi từng lấp lánh ánh vàng rực rỡ của \"tình bạn\".",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52458,7 +52731,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "\"Giấc Mơ Của Rhonabwy\"",
+    "Name": "\"Giấc Mơ Của Rhonabouillet\"",
     "Description": "Tập thơ do nhà xuất bản Lenormand phát hành, kể về câu chuyện nhân vật chính xuyên không về quá khứ và đem lòng yêu một thị nữ trong cung điện của Kỵ Sĩ Nước Trong.",
     "TypeDescription": "Đạo Cụ Nhiệm Vụ",
     "Icon": "UI_ItemIcon_100178"
@@ -52495,6 +52768,72 @@
     "Description": "Giấy Nhớ",
     "TypeDescription": "Đạo Cụ Nhiệm Vụ",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tủy Cây Dị Chất I",
+    "Description": "Nghi ngờ là một loại nhựa cây đông đặc nào đó. Tiết ra từ thân chính của Cây Thế Giới bị thiêu rụi, hình dạng có phần khác thường. Những phần không được nhựa cây bao phủ đang toát ra thứ ánh sáng tội lỗi.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tủy Cây Dị Chất II",
+    "Description": "Nghi ngờ là một loại nhựa cây đông đặc nào đó. Tiết ra từ thân chính của Cây Thế Giới bị thiêu rụi, hình dạng có phần khác thường. Những phần không được nhựa cây bao phủ đang toát ra thứ ánh sáng tội lỗi.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tủy Cây Dị Chất III",
+    "Description": "Nghi ngờ là một loại nhựa cây đông đặc nào đó. Tiết ra từ thân chính của Cây Thế Giới bị thiêu rụi, hình dạng có phần khác thường. Những phần không được nhựa cây bao phủ đang toát ra thứ ánh sáng tội lỗi.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tủy Cây Dị Chất",
+    "Description": "Nghi ngờ là một loại nhựa cây đông đặc nào đó. Tiết ra từ thân chính của Cây Thế Giới bị thiêu rụi, hình dạng có phần khác thường. Những phần không được nhựa cây bao phủ đang toát ra thứ ánh sáng tội lỗi.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Sữa Dango Nhiễm \"Ma Thuật\"",
+    "Description": "Một bình Sữa Dango bình thường, nhưng theo Prune thì đây là chiến lợi phẩm giành được từ tay ma nữ, nên không thể là Sữa Dango bình thường được!",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Linh Kiện Kết Cấu Nguyên Thủy",
+    "Description": "Alhaitham và Kaveh được Thảo Thần Nahida cùng Đại Hiền Giả Naphis chỉ định thực hiện một dự án khẩn cấp, và giai đoạn tiếp theo của dự án cần đến một lượng lớn nguyên liệu. Trong Lăng Mộ Vua Deshret, thứ phù hợp nhất để làm nguyên liệu không gì khác ngoài Kết Cấu Nguyên Thủy. Công nghệ cổ xưa và các linh kiện chất lượng cao do chúng sở hữu sẽ được tháo rời thành các phần cực nhỏ, sau đó được tái tổ hợp thành hình trong môi trường mới.",
+    "TypeDescription": "Đạo Cụ Nhiệm Vụ",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -57034,7 +57373,7 @@
     "Id": 220003,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "La Bàn Tìm Báu Vật - Nham",
+    "Name": "La Bàn Tầm Bảo - Nham",
     "Description": "Khi sử dụng ở Liyue, có thể tìm được kho báu và dấu vết kho báu ở xung quanh.\nVùng đất của Nham có nhiều sản vật phong phú, giữa những dãy núi và cao nguyên ắt hẳn cất giấu bảo vật.",
     "TypeDescription": "Đạo cụ nhỏ",
     "Icon": "UI_ItemIcon_220003"
@@ -57100,7 +57439,7 @@
     "Id": 220009,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "La Bàn Tìm Báu Vật - Phong",
+    "Name": "La Bàn Tầm Bảo - Phong",
     "Description": "Khi sử dụng ở Mondstadt, có thể tìm được kho báu và dấu vết kho báu ở xung quanh.\nLa Bàn Tầm Bảo không tuân theo quy luật từ trường của đại lục, nó hướng về địa mạch, nơi cất giữ những báu vật gần đó.",
     "TypeDescription": "Đạo cụ nhỏ",
     "Icon": "UI_ItemIcon_220009"
@@ -57342,7 +57681,7 @@
     "Id": 220034,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "La Bàn Tìm Báu Vật - Lôi",
+    "Name": "La Bàn Tầm Bảo - Lôi",
     "Description": "Khi sử dụng ở Inazuma, có thể tìm được kho báu và dấu vết kho báu ở xung quanh.\nVùng đất trên quần đảo hội tụ nguyên tố Lôi từng phải gánh chịu nhiều tổn thương. Đi đôi với việc bị tổn thương và hồi phục, đó là khắp nơi trên đảo xuất hiện nhiều kho báu.",
     "TypeDescription": "Đạo cụ nhỏ",
     "Icon": "UI_ItemIcon_220034"
@@ -57584,7 +57923,7 @@
     "Id": 220058,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "La Bàn Tìm Báu Vật - Thảo",
+    "Name": "La Bàn Tầm Bảo - Thảo",
     "Description": "Khi sử dụng ở Sumeru, có thể tìm được kho báu và dấu vết kho báu ở xung quanh.\nĐối với một số người, ý nghĩa của cuộc sống là thám hiểm và khám phá. Và khi kết thúc quá trình thám hiểm và khám phá, thường có những kho báu phong phú đang chờ đợi họ.",
     "TypeDescription": "Đạo Cụ Nhỏ",
     "Icon": "UI_ItemIcon_220058"
@@ -57881,7 +58220,7 @@
     "Id": 220087,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "La Bàn Tìm Báu Vật - Thủy",
+    "Name": "La Bàn Tầm Bảo - Thủy",
     "Description": "Khi sử dụng ở Fontaine, có thể tìm được kho báu và dấu vết kho báu ở xung quanh.\nNhững kho báu này rải rác ở khắp Fontaine, không ai tuyên bố quyền sở hữu chúng cả. Trong đa số trường hợp, gom chúng làm của riêng sẽ không vi phạm pháp luật.",
     "TypeDescription": "Đạo Cụ Nhỏ",
     "Icon": "UI_ItemIcon_220087"
@@ -58068,7 +58407,7 @@
     "Id": 220104,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "La Bàn Tìm Báu Vật - Hỏa",
+    "Name": "La Bàn Tầm Bảo - Hỏa",
     "Description": "Khi sử dụng ở Natlan, có thể tìm được kho báu và dấu vết kho báu ở xung quanh.\nVùng đất của lửa đầy rẫy tranh chấp, có rất nhiều kho báu cũng vì thế mà mất đi manh mối và dấu vết.",
     "TypeDescription": "Đạo Cụ Nhỏ",
     "Icon": "UI_ItemIcon_220104"
@@ -58266,7 +58605,7 @@
     "Id": 220123,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "La Bàn Tìm Báu Vật - Nguyệt",
+    "Name": "La Bàn Tầm Bảo - Nguyệt",
     "Description": "Khi sử dụng ở Nod-Krai, có thể tìm được kho báu và manh mối liên quan ở xung quanh.\nThế giới dưới trăng cũng có rất nhiều kho báu vô chủ, chỉ đợi nhà mạo hiểm có dũng khí và trí tuệ đến tìm kiếm.",
     "TypeDescription": "Đạo Cụ Nhỏ",
     "Icon": "UI_ItemIcon_220123"
@@ -58387,8 +58726,8 @@
     "Id": 221003,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bản Vẽ: La Bàn Tìm Báu Vật Nham",
-    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tìm Báu Vật - Nham\". Có thể dùng để tìm báu vật ở Liyue",
+    "Name": "Bản Vẽ: La Bàn Tầm Bảo - Nham",
+    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tầm Bảo - Nham\". Có thể dùng để tìm báu vật ở Liyue",
     "TypeDescription": "Bản Vẽ Rèn",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58453,8 +58792,8 @@
     "Id": 221009,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bản Vẽ: La Bàn Tìm Báu Vật Phong",
-    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tìm Bảo Phong\". Có thể dùng để tìm báu vật ở Mondstadt.",
+    "Name": "Bản Vẽ: La Bàn Tầm Bảo - Phong",
+    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tầm Bảo - Phong\". Có thể dùng để tìm báu vật ở Mondstadt.",
     "TypeDescription": "Bản Vẽ Rèn",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58684,8 +59023,8 @@
     "Id": 221034,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bản Vẽ: La Bàn Tìm Báu Vật - Lôi",
-    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tìm Báu Vật - Lôi\". Có thể dùng để tìm báu vật ở Inazuma.",
+    "Name": "Bản Vẽ: La Bàn Tầm Bảo - Lôi",
+    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tầm Bảo - Lôi\". Có thể dùng để tìm báu vật ở Inazuma.",
     "TypeDescription": "Bản Vẽ Rèn",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58893,8 +59232,8 @@
     "Id": 221058,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bản Vẽ: La Bàn Tìm Báu Vật - Thảo",
-    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tìm Báu Vật - Thảo\". Có thể dùng để tìm báu vật ở Sumeru.",
+    "Name": "Bản Vẽ: La Bàn Tầm Bảo - Thảo",
+    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tầm Bảo - Thảo\". Có thể dùng để tìm báu vật ở Sumeru.",
     "TypeDescription": "Bản Vẽ Rèn",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58915,8 +59254,8 @@
     "Id": 221060,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bản Vẽ: La Bàn Tìm Báu Vật Thủy",
-    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tìm Báu Vật - Thủy\". Có thể dùng để tìm báu vật ở Fontaine.",
+    "Name": "Bản Vẽ: La Bàn Tầm Bảo - Thủy",
+    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tầm Bảo - Thủy\". Có thể dùng để tìm báu vật ở Fontaine.",
     "TypeDescription": "Bản Vẽ Rèn",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -58959,8 +59298,8 @@
     "Id": 221064,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Bản Vẽ: La Bàn Tìm Báu Vật Hỏa",
-    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tìm Báu Vật - Hỏa\". Có thể dùng để tìm báu vật ở Natlan.",
+    "Name": "Bản Vẽ: La Bàn Tầm Bảo - Hỏa",
+    "Description": "Bản vẽ mô tả chi tiết các bước làm \"La Bàn Tầm Bảo - Hỏa\". Có thể dùng để tìm báu vật ở Natlan.",
     "TypeDescription": "Bản Vẽ Rèn",
     "Icon": "UI_ItemIcon_221003"
   },
@@ -59697,7 +60036,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Viện Nghiên Cứu Bí Thuật",
-    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Viện Nghiên Cứu Bí Thuật\".\nXưởng giả kim bình thường, ngoài một số dụng cụ tinh xảo thì trông không khác gì một thư phòng bình thường, nhưng sách trên kệ, thuốc thử trong bình, còn có cả tiêu bản thí nghiệm dán nhãn \"cấm mở\" được lưu giữ trong tủ, đều là những thứ mà phần lớn người thường chưa từng thấy qua, chỉ có thể suy đoán tác dụng hoặc nội dung của chúng qua ấn tượng của bản thân. Nếu người hiếu kỳ vi phạm lệnh cấm, thì khó mà đảm bảo an toàn.\nSau khi một chú mèo đi nhầm vào xưởng gây ra hai vụ \"sự cố thuốc giả kim\", đội điều tra của Đội Kỵ Sĩ Tây Phong đã kiểm soát chặt chẽ việc ra vào các xưởng giả kim trong thành. Nhiều huyền thoại kỳ lạ về thuật giả kim cũng ra đời từ đó, khiến các học giả chuyên tâm nghiên cứu vô cùng đau đầu.\nSau khi dùng có thể đến giao diện bày trí để xem.\nBạn đồng hành thích bộ trang trí này: Klee, Sucrose, Albedo, Lisa",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách bày trí \"Viện Nghiên Cứu Bí Thuật\".\nXưởng giả kim bình thường, ngoài một số dụng cụ tinh xảo thì trông không khác gì một thư phòng bình thường, nhưng sách trên kệ, thuốc thử trong bình, còn có cả tiêu bản thí nghiệm dán nhãn \"cấm mở\" được lưu giữ trong tủ, đều là những thứ mà phần lớn người thường chưa từng thấy qua, chỉ có thể suy đoán tác dụng hoặc nội dung của chúng qua ấn tượng của bản thân. Nếu người hiếu kỳ vi phạm lệnh cấm, thì khó mà đảm bảo an toàn.\nSau khi một chú mèo đi nhầm vào xưởng gây ra hai vụ \"sự cố thuốc giả kim\", đội điều tra của Đội Kỵ Sĩ Tây Phong đã kiểm soát chặt chẽ việc ra vào các xưởng giả kim trong thành. Nhiều huyền thoại kỳ lạ về thuật giả kim cũng ra đời từ đó, khiến các học giả chuyên tâm nghiên cứu vô cùng đau đầu.\nSau khi dùng có thể đến giao diện bày trí để xem.\nBạn đồng hành thích bộ trang trí này: Klee, Sucrose, Albedo, Lisa, Prune",
     "TypeDescription": "Bản Vẽ Bộ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59785,7 +60124,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Doanh Trại Săn Bắn Và Múa Ca",
-    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách bố trí \"Doanh Trại Săn Bắn Và Múa Ca\".\nDoanh trại được bày bố tinh tế, tham khảo tác phẩm của học giả Marcus, tái hiện một cách hoàn hảo cuộc sống Hilichurl, có thể dùng để nghiên cứu tập quán của Hilichurl.\nNghe nói trước đây, Đội Kỵ Sĩ Tây Phong thường bày doanh trại kiểu này khi thảo phạt ma vật, do Kỵ Sĩ Trinh Thám hướng dẫn. Đội thuyền Nam Thập Tự thường xuyên lênh đênh bên ngoài cũng sẽ tổng hợp các tình báo tạo sa bàn, mô phỏng cảnh tượng sau khi lên đảo xa lạ, loại trừ các mối nguy hại từ ma vật.\nSau khi dùng có thể đến giao diện bày trí để xem.\nBạn đồng hành thích bộ trang trí này: Amber, Sucrose, Klee, Beidou, Aloy",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách bố trí \"Doanh Trại Săn Bắn Và Múa Ca\".\nDoanh trại được bày bố tinh tế, tham khảo tác phẩm của học giả Marcus, tái hiện một cách hoàn hảo cuộc sống Hilichurl, có thể dùng để nghiên cứu tập quán của Hilichurl.\nNghe nói trước đây, Đội Kỵ Sĩ Tây Phong thường bày doanh trại kiểu này khi thảo phạt ma vật, do Kỵ Sĩ Trinh Thám hướng dẫn. Đội thuyền Nam Thập Tự thường xuyên lênh đênh bên ngoài cũng sẽ tổng hợp các tình báo tạo sa bàn, mô phỏng cảnh tượng sau khi lên đảo xa lạ, loại trừ các mối nguy hại từ ma vật.\nSau khi dùng có thể đến giao diện bày trí để xem.\nBạn đồng hành thích bộ trang trí này: Amber, Sucrose, Klee, Beidou, Aloy, Lohen",
     "TypeDescription": "Bản Vẽ Bộ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60390,7 +60729,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Nhà Thoải Mái Cho Khách Phương Xa",
-    "Description": "Phòng ngủ được bài trí đầy đủ tiện nghi, lấy cảm hứng từ thiết kế phòng khách của quán rượu lớn nhất Thị Trấn Nasha - Soái Hạm, đồng thời được tối ưu hóa theo nhu cầu của người ở.\nKhách của Quán Rượu Soái Hạm có nhiều bối cảnh phức tạp khác nhau, định nghĩa về sự thoải mái cũng vậy. Việc cân bằng giữa các kỳ vọng khác nhau không hề dễ dàng, cuối cùng Soái Hạm đã chọn một giải pháp độc đáo: Bố trí tất cả vật dụng mà khách có thể sẽ cần vào trong phòng, sau đó loại bỏ những thứ không cần thiết dựa trên ý kiến của khách. Dù bố cục có phần chật chội vì chứa đầy đồ đạc, nhưng ưu điểm là đầy đủ chức năng, mỗi vị khách đều có thể tìm thấy sự thoải mái riêng của mình.",
+    "Description": "Phòng ngủ được bài trí đầy đủ tiện nghi, lấy cảm hứng từ thiết kế phòng khách của quán rượu lớn nhất Thị Trấn Nasha - Soái Hạm, đồng thời được tối ưu hóa theo nhu cầu của người ở.\nKhách của Quán Rượu Soái Hạm có nhiều bối cảnh phức tạp khác nhau, định nghĩa về sự thoải mái cũng vậy. Việc cân bằng giữa các kỳ vọng khác nhau không hề dễ dàng, cuối cùng Soái Hạm đã chọn một giải pháp độc đáo: Bố trí tất cả vật dụng mà khách có thể sẽ cần vào trong phòng, sau đó loại bỏ những thứ không cần thiết dựa trên ý kiến của khách. Dù bố cục có phần chật chội vì chứa đầy đồ đạc, nhưng ưu điểm là đầy đủ chức năng, mỗi vị khách đều có thể tìm thấy sự thoải mái riêng của mình.\nBạn đồng hành thích bộ trang trí này: Linnea, Nicole",
     "TypeDescription": "Bản Vẽ Bộ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60445,7 +60784,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Thảo Nguyên Vùng Cực Bắc",
-    "Description": "Cánh đồng tập hợp các loại thảm thực vật và địa hình phổ biến ở khu vực Nod-Krai, tái hiện khá chân thực phong cảnh hoang dã độc đáo của Đảo Hiisi.\nKhu vực Nod-Krai có nguồn Kuuvahki dồi dào, sản sinh ra những loài thực vật màu sắc rực rỡ, động vật có tập tính kỳ lạ cùng địa hình độc đáo. Đối với các nhà nghiên cứu tự nhiên học, vùng đất này ẩn chứa vô số kho báu mang tên tri thức mới. Còn đối với du khách bình thường, cảnh quan kỳ diệu như vậy cũng khiến người ta không khỏi dừng chân chiêm ngưỡng.\nBạn đồng hành thích bộ trang trí này: Durin",
+    "Description": "Cánh đồng tập hợp các loại thảm thực vật và địa hình phổ biến ở khu vực Nod-Krai, tái hiện khá chân thực phong cảnh hoang dã độc đáo của Đảo Hiisi.\nKhu vực Nod-Krai có nguồn Kuuvahki dồi dào, sản sinh ra những loài thực vật màu sắc rực rỡ, động vật có tập tính kỳ lạ cùng địa hình độc đáo. Đối với các nhà nghiên cứu tự nhiên học, vùng đất này ẩn chứa vô số kho báu mang tên tri thức mới. Còn đối với du khách bình thường, cảnh quan kỳ diệu như vậy cũng khiến người ta không khỏi dừng chân chiêm ngưỡng.\nBạn đồng hành thích bộ trang trí này: Durin, Linnea, Nicole",
     "TypeDescription": "Bản Vẽ Bộ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60456,7 +60795,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Thị Trấn Biên Giới Nhộn Nhịp",
-    "Description": "Cảnh quan khu vực lấy các công trình kiến trúc đặc sắc làm cốt lõi, bố trí các cửa hàng với chức năng khác nhau, tái hiện hoàn hảo một góc phong cảnh của Thị Trấn Nasha.\nTương truyền, Thị Trấn Nasha khác biệt với các thành phố khác, nơi đây không có người quản lý thực sự, cũng thiếu cấu trúc quy hoạch rõ ràng. Điều này khiến khoảng không giữa các tòa nhà trong thị trấn chứa đựng vô số lối đi hẹp và khe hở bí mật. Đối với cư dân bình thường, những lối đi này cũng chỉ là công cụ lan truyền tiếng ồn. Nhưng với những người lưu tâm giỏi nắm bắt thông tin, những lối đi này lại là một trong những đường dẫn để truyền tải bí mật, và còn là lối tắt để di chuyển nhanh chóng...\nBạn đồng hành thích bộ trang trí này: Nefer, Jahoda, Varka",
+    "Description": "Cảnh quan khu vực lấy các công trình kiến trúc đặc sắc làm cốt lõi, bố trí các cửa hàng với chức năng khác nhau, tái hiện hoàn hảo một góc phong cảnh của Thị Trấn Nasha.\nTương truyền, Thị Trấn Nasha khác biệt với các thành phố khác, nơi đây không có người quản lý thực sự, cũng thiếu cấu trúc quy hoạch rõ ràng. Điều này khiến khoảng không giữa các tòa nhà trong thị trấn chứa đựng vô số lối đi hẹp và khe hở bí mật. Đối với cư dân bình thường, những lối đi này cũng chỉ là công cụ lan truyền tiếng ồn. Nhưng với những người lưu tâm giỏi nắm bắt thông tin, những lối đi này lại là một trong những đường dẫn để truyền tải bí mật, và còn là lối tắt để di chuyển nhanh chóng...\nBạn đồng hành thích bộ trang trí này: Nefer, Jahoda, Varka, Lohen, Prune",
     "TypeDescription": "Bản Vẽ Bộ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74801,6 +75140,17 @@
     "ItemType": 2,
     "Name": "Nanh Nhọn Gầm Vang",
     "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Nanh Nhọn Gầm Vang\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
+    "TypeDescription": "Bản Vẽ Đồ Trang Trí",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Tượng Nhỏ Giữa Đá",
+    "Description": "Bản vẽ chi tiết từng bước, ghi lại cách chế tạo \"Tượng Nhỏ Giữa Đá\".\nSau khi dùng có thể đến giao diện chế tạo để xem.",
     "TypeDescription": "Bản Vẽ Đồ Trang Trí",
     "Icon": "UI_ItemIcon_Home_Common"
   }

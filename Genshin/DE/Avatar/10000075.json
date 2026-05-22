@@ -1194,5 +1194,11 @@
     "Description": "Ein Motiv für Namenskärtchen.\nDie Geschichte der Vergangenheit ist in der sterblichen Welt ausgeblendet worden, dennoch bieten die Schneeflocken den Blumen, die auf den Flüssen treiben, weiterhin ihre Begleitung.",
     "Icon": "UI_NameCardIcon_Wanderer",
     "PicturePrefix": "UI_NameCardPic_Wanderer"
+  },
+  "TraceEffect": {
+    "Id": 215020,
+    "Name": "Echo – Bis in die Ewigkeit driften",
+    "Description": "Gemalte Echos des Wanderers. „Wie der Wind lebt und wandert er in der Welt.“",
+    "Icon": "UI_TraceEffectIcon_Wanderer"
   }
 }

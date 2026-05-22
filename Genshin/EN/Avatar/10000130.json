@@ -697,7 +697,7 @@
               ]
             }
           ],
-          "Display": 0
+          "Display": 1
         },
         "Id": 1302201,
         "Name": "Universal Naturalist Archive",
@@ -801,6 +801,7 @@
     "BirthMonth": 5,
     "BirthDay": 23,
     "VisionBefore": "Geo",
+    "VisionOverrideLocked": "Moon Wheel",
     "VisionOverrideUnlocked": "Moon Wheel",
     "ConstellationBefore": "Alcyon",
     "CvChinese": "周侗",

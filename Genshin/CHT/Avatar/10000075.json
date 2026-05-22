@@ -1194,5 +1194,11 @@
     "Description": "名片紋飾。\n浮世隱昔話，薄雪伴流花。",
     "Icon": "UI_NameCardIcon_Wanderer",
     "PicturePrefix": "UI_NameCardPic_Wanderer"
+  },
+  "TraceEffect": {
+    "Id": 215020,
+    "Name": "遊跡·久世浮傾",
+    "Description": "流浪者的繪想遊跡。「如清風一般，活在世間，行在世間。」",
+    "Icon": "UI_TraceEffectIcon_Wanderer"
   }
 }

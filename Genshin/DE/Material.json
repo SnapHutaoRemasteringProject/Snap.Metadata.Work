@@ -2224,6 +2224,17 @@
   {
     "Rank": 30,
     "MaterialType": 20,
+    "Id": 5129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Lohen",
+    "Description": "Material zum Aktivieren von Lohens Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
     "Id": 5130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -2231,6 +2242,28 @@
     "Description": "Material zum Aktivieren von Linneas Sternbild",
     "TypeDescription": "Zur Aktivierung von Sternbildern",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 20,
+    "Id": 5131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Nicole",
+    "Description": "Material zum Aktivieren von Nicoles Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 20,
+    "Id": 5132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Prune",
+    "Description": "Material zum Aktivieren von Prunes Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 30,
@@ -3478,6 +3511,17 @@
   {
     "Rank": 30,
     "MaterialType": 73,
+    "Id": 6129,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Lohen",
+    "Description": "Material zum Aktivieren von Lohens Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
     "Id": 6130,
     "RankLevel": 5,
     "ItemType": 2,
@@ -3485,6 +3529,28 @@
     "Description": "Material zum Aktivieren von Linneas Sternbild",
     "TypeDescription": "Zur Aktivierung von Sternbildern",
     "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 30,
+    "MaterialType": 73,
+    "Id": 6131,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Nicole",
+    "Description": "Material zum Aktivieren von Nicoles Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1102"
+  },
+  {
+    "Rank": 20,
+    "MaterialType": 73,
+    "Id": 6132,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Stella Fortuna von Prune",
+    "Description": "Material zum Aktivieren von Prunes Sternbild",
+    "TypeDescription": "Zur Aktivierung von Sternbildern",
+    "Icon": "UI_ItemIcon_1103"
   },
   {
     "Rank": 90000,
@@ -31832,6 +31898,114 @@
     "Icon": "UI_ItemIcon_108874"
   },
   {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Stellt 70 Punkte Ausdauer wieder her.",
+    "Id": 108967,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Misslungener mit Hackfleisch gefüllter Tofu",
+    "Description": "Ein Tofugericht mit Hackfleisch. Beim ersten Versuch mit den Stäbchen ist der Tofu komplett zerfallen. Beim zweiten Versuch haben sich Tofu und Hackfleisch voneinander gelöst ... Der Duft ist zwar verlockend, aber nach so vielen Fehlschlägen ist jegliche Motivation für einen weiteren Versuch dahin.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Stellt 85 Punkte Ausdauer wieder her.",
+    "Id": 108968,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Mit Hackfleisch gefüllter Tofu",
+    "Description": "Ein herzhaftes Tofu-Gericht, gefüllt mit saftigem Fleisch. Jeder Tofublock wird ausgehöhlt und mit perfekt gewürztem Hackfleisch gefüllt, anschließend goldbraun angebraten und schließlich in einer würzig-aromatischen Sauce geschmort. Aus einfachen, alltäglichen Zutaten entsteht der Geschmack von Zuhause. Eines der beliebtesten und vertrautesten Wohlfühlessen, das man in jeder Straße und Gasse vorfindet.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Stellt 100 Punkte Ausdauer wieder her.",
+    "Id": 108969,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leckerer mit Hackfleisch gefüllter Tofu",
+    "Description": "Ein Tofugericht mit Hackfleisch. Auf einem breiten Teller aus weißem Porzellan mit goldenem Rand liegen vier goldbraune gefüllte Tofustücke ordentlich aneinandergereiht. Heißer Dampf steigt auf, trägt das Aroma direkt in die Nase und weckt sofort den Appetit. Nach wenigen Bissen ist der Tofu verspeist. Doch die bernsteinfarbene Soße, die auf dem Teller zurückbleibt, ist zu gut, um sie nicht noch mit dem Reis aufzutunken.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108875"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Belebt die gewählte Figur wieder und stellt ihr 900 LP wieder her.",
+    "Id": 108970,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Misslungener Minz-Kaugummi",
+    "Description": "Eine weiche, gummiartige Süßigkeit. Dem intensiven, erfrischenden und etwas überwältigenden Gefühl der Minze trotzend pustet man mit aller Kraft die Backen auf und bläst eine kleine Blase. Doch im letzten Moment macht es „Puff“, die Luft entweicht und die ganze Mühe war umsonst ...",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Belebt die gewählte Figur wieder und stellt ihr 1.200 LP wieder her.",
+    "Id": 108971,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Minz-Kaugummi",
+    "Description": "Ein weicher, zäher Kaugummi in zwei verschiedenen Geschmacksrichtungen. Mit ein bisschen Übung kannst du beeindruckend große Blasen machen! Aber pass auf: Wenn du es übertreibst und die Blase platzt, ist dein ganzes Gesicht von einer klebrigen Gummimasse überzogen!",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Belebt die gewählte Figur wieder und stellt ihr 1.500 LP wieder her.",
+    "Id": 108972,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Leckerer Minz-Kaugummi",
+    "Description": "Eine weiche, gummiartige Süßigkeit. Der frische Geschmack rutscht locker-flockig am Gaumen vorbei die Kehle runter und sorgt für ein erfrischendes Wohlgefühl. Und es wird noch besser: Mit nur einem sanften Pusten lässt sich eine glänzende Blase aufblasen, perfekt, um sich die Zeit zu vertreiben!",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108876"
+  },
+  {
+    "Rank": 421008,
+    "MaterialType": 1,
+    "EffectDescription": "#Verringert die beim Klettern und Rennen verbrauchte Ausdauer aller Truppenmitglieder 1.500{NON_BREAK_SPACE}s lang um 25{NON_BREAK_SPACE}%. Wirkung ist im Mehrspielermodus auf eigene Figuren beschränkt.",
+    "Id": 108973,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Wirbelnde Spezialmischung",
+    "Description": "Prunes Spezialzubereitung. „Diese rotierende Spezialmischung ist ein Spiel nur für die Erwachsenen aus Nod-Krai! Ich zeige dir, wie man es spielt, hehe.“ Während sie stolz diese Worte verkündet, erscheint ein Drehteller mit Getränken vor dir. Die Säfte sind farbenfroh und süß-aromatisch. Nur die Form dieses Drehtellers erinnert dich sofort an die „Runde Mischung“ ... Moment mal, hat sie sich etwa mit dem Namen vertan?",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108877"
+  },
+  {
+    "Rank": 420008,
+    "MaterialType": 1,
+    "EffectDescription": "Stellt 130 Punkte Ausdauer wieder her.",
+    "Id": 108974,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "„Vergoldete Truhe“",
+    "Description": "#Nicoles Spezialzubereitung. „Überrascht? Ich kenne das Rezept noch von früher. Apropos früher{NON_BREAK_SPACE}...“ „Herr Neun hat mir neulich erzählt, dass es in Liyue wieder ziemlich beliebt ist ...“ „Es sieht aus wie eine Truhe und ist ein Wegweiser zu gutem Essen. Ich bin einfach ein Designgenie ...“ Mit dem Auftritt einer goldenen „Truhe“ schießt einem sofort ein nicht enden wollender Wortschwall durch den Kopf ... Einfach typisch Nicole. Obwohl das Gehirn förmlich von diesen Stimmen bombardiert wird und nur noch summt, ist die Zufriedenheit, die die Geschmacksknospen einem sogleich vermitteln, überraschender als das Öffnen jeder noch so luxuriösen Truhe.",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108878"
+  },
+  {
+    "Rank": 320015,
+    "MaterialType": 1,
+    "EffectDescription": "Belebt die gewählte Figur wieder und stellt ihr 20 % LP sowie zusätzlich 1.500 LP wieder her.",
+    "Id": 108975,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Kaugummi zum Zeitvertreib",
+    "Description": "Lohens Spezialzubereitung. Als er bemerkte, dass dir langweilig war, reichte er dir ein paar Bonbons, um dir die Zeit zu vertreiben. Nachdem du nur ein paar Mal gekaut hattest, hielt er dir auch schon einen Spiegel vors Gesicht und grinste dabei voller Schadenfreude. Mist – das war wohl von langer Hand geplant! Und deine Zunge schon längst blaugrün verfärbt ... Wollte er mit der ganzen Aktion etwa nur seine eigene Langeweile vertreiben?",
+    "TypeDescription": "Nahrung",
+    "Icon": "UI_ItemIcon_108879"
+  },
+  {
     "Rank": 300501,
     "MaterialType": 5,
     "Id": 109000,
@@ -34765,6 +34939,28 @@
     "ItemType": 2,
     "Name": "Rezept: Windmühlhausener Frühstück",
     "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Windmühlhausener Frühstück“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109651,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rezept: Mit Hackfleisch gefüllter Tofu",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Mit Hackfleisch gefüllter Tofu“.",
+    "TypeDescription": "Rezept",
+    "Icon": "UI_ItemIcon_109000"
+  },
+  {
+    "Rank": 300501,
+    "MaterialType": 5,
+    "Id": 109652,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Rezept: Minz-Kaugummi",
+    "Description": "Rezept mit detaillierten Schritten zur Zubereitung von „Minz-Kaugummi“.",
     "TypeDescription": "Rezept",
     "Icon": "UI_ItemIcon_109000"
   },
@@ -37788,6 +37984,39 @@
     "Icon": "UI_ItemIcon_113086"
   },
   {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113087,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Gefälschtes Harz",
+    "Description": "Ein Harz, das nach dem Sieg über den in Irminsul verborgenen Ketzer aus den zerschmetterten Tiefen des Flusses der Elemente geborgen wurde.\nEinst war es ein Kristall, der die vielen schönen Erinnerungen tragen sollte, die diese Welt ausmachen. Nun ist er stattdessen mit Wahn und Bosheit gefüllt, die nicht hierher gehören.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113087"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113088,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Verdrehter verdorrter Ast",
+    "Description": "Ein verdorrter Ast, der nach dem Sieg über den in Irminsul verborgenen Ketzer aus den zerschmetterten Tiefen des Flusses der Elemente geborgen wurde.\nEin verdrehter Ast von einem riesigen Baum, der eigentlich tief unter der Erde bleiben sollte. Obwohl er nun von seiner Quelle getrennt ist, birgt er dennoch eine seltsame und bösartige Kraft.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113088"
+  },
+  {
+    "Rank": 11101,
+    "MaterialType": 14,
+    "Id": 113089,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Entweihter Spross",
+    "Description": "Ein Spross, der nach dem Sieg über den in Irminsul verborgenen Ketzer aus den zerschmetterten Tiefen des Flusses der Elemente geborgen wurde.\nWas einst eigentlich ein Keim der Hoffnung sein sollte, ist nun zu einem Symbol der Entweihung geworden. Durch seine sich ausbreitenden Äste streckt sich der sündige Baum weiter gen Himmel.",
+    "TypeDescription": "Material zur Verbesserung von Figuren",
+    "Icon": "UI_ItemIcon_113089"
+  },
+  {
     "Rank": 15101,
     "MaterialType": 14,
     "Id": 114001,
@@ -39456,6 +39685,28 @@
     "ItemType": 2,
     "Name": "Rätselhafte Artefaktkiste – Rang 1",
     "Description": "Eine Kiste mit Artefakten. Möge ihr Entdecker Wunder erleben.\n\nIn jeder Artefaktkiste ist ein Artefakt der folgenden Artefaktsets erhältlich:\n· „Gesang von Stern und Mond“\n· „Tag des aufkommenden Windes“",
+    "TypeDescription": "Artefaktkiste",
+    "Icon": "UI_ItemIcon_117003"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117028,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Rätselhafte Artefaktkiste – Rang 2",
+    "Description": "Eine Kiste mit Artefakten. Möge ihr Entdecker gesegnet sein.\n\nIn jeder Artefaktkiste ist ein Artefakt der folgenden Artefaktsets erhältlich:\n· Gabe des Himmels\n· Bedrückende Desillusionierung im Schatten\n· Berserker\n· Ausbilder\n· Verbannter",
+    "TypeDescription": "Artefaktkiste",
+    "Icon": "UI_ItemIcon_117002"
+  },
+  {
+    "Rank": 100101,
+    "MaterialType": 24,
+    "Id": 117029,
+    "RankLevel": 5,
+    "ItemType": 2,
+    "Name": "Rätselhafte Artefaktkiste – Rang 1",
+    "Description": "Eine Kiste mit Artefakten. Möge ihr Entdecker Wunder erleben.\n\nIn jeder Artefaktkiste ist ein Artefakt der folgenden Artefaktsets erhältlich:\n· Gabe des Himmels\n· Bedrückende Desillusionierung im Schatten",
     "TypeDescription": "Artefaktkiste",
     "Icon": "UI_ItemIcon_117003"
   },
@@ -52007,7 +52258,7 @@
     "Id": 121528,
     "RankLevel": 4,
     "ItemType": 2,
-    "Name": "Unverziert",
+    "Name": "Keine Verzierung",
     "Description": "Ohne jegliche Verzierungen ist dieser Rucksack in seiner ursprünglichen Form ebenso schön wie praktisch.",
     "TypeDescription": "Figurenzierde",
     "Icon": "UI_ItemIcon_121528"
@@ -52222,6 +52473,28 @@
     "Icon": "UI_ItemIcon_100356"
   },
   {
+    "Rank": 430011,
+    "MaterialType": 12,
+    "Id": 121555,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohens Freundschaftsgebühren",
+    "Description": "Ein schwerer Mora-Beutel, an dessen Öffnung die goldglänzenden „Freundschaften“ funkeln.",
+    "TypeDescription": "Verbrauchsgegenstand",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121556,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Lohens Freundschaftsgebühren",
+    "Description": "Ein leerer Mora-Beutel, an dessen Öffnung die goldglänzenden „Freundschaften“ einst funkelten.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_100309"
+  },
+  {
     "Rank": 10,
     "MaterialType": 2,
     "Id": 121557,
@@ -52271,7 +52544,7 @@
     "Id": 121561,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Der Traum von Rhonabwy",
+    "Name": "Der Traum von Rhonabouillet",
     "Description": "Ein Gedichtband aus dem Hause Lenormand. Er erzählt die Geschichte eines Protagonisten, der in die Vergangenheit reist und sich in eine Magd am Hofe der Okeanidenritter verliebt.",
     "TypeDescription": "Auftragsobjekt",
     "Icon": "UI_ItemIcon_100178"
@@ -52293,7 +52566,7 @@
     "Id": 121563,
     "RankLevel": 0,
     "ItemType": 2,
-    "Name": "Der Kanon der Liebe, göttlicher Inspiration und Tugend",
+    "Name": "Offenbarung der heiligen Liebe",
     "Description": "Ein Gedichtband, der angeblich von einem Priester der alten Favonius-Kathedrale unter der Anleitung des Anemo-Archon verfasst wurde. Das Werk reflektiert den Unterschied zwischen der Liebe der Götter und der der Menschen und kommt letztendlich zu dem Schluss, dass menschliches Mitgefühl, Freundschaft und romantische Zuneigung von Natur aus mit dem Heiligen durchdrungen sind, da sie alle aus derselben Sehnsucht nach Freiheit erwachsen.",
     "TypeDescription": "Auftragsobjekt",
     "Icon": "UI_ItemIcon_100182"
@@ -52308,6 +52581,72 @@
     "Description": "Notiz",
     "TypeDescription": "Auftragsobjekt",
     "Icon": "UI_ItemIcon_121564"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121574,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fremdartiges Baummark – I",
+    "Description": "Vermutlich handelt es sich um eine harzartige Verkrustung, die aus dem verkohlten Stamm von Irminsul ausgetreten ist. Ihre Form ist eigenartig, und an den Stellen, an denen sie freiliegt, geht ein unheilvolles Licht hervor.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121575,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fremdartiges Baummark – II",
+    "Description": "Vermutlich handelt es sich um eine harzartige Verkrustung, die aus dem verkohlten Stamm von Irminsul ausgetreten ist. Ihre Form ist eigenartig, und an den Stellen, an denen sie freiliegt, geht ein unheilvolles Licht hervor.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121576,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fremdartiges Baummark – III",
+    "Description": "Vermutlich handelt es sich um eine harzartige Verkrustung, die aus dem verkohlten Stamm von Irminsul ausgetreten ist. Ihre Form ist eigenartig, und an den Stellen, an denen sie freiliegt, geht ein unheilvolles Licht hervor.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121580,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "Fremdartiges Baummark",
+    "Description": "Vermutlich handelt es sich um eine harzartige Verkrustung, die aus dem verkohlten Stamm von Irminsul ausgetreten ist. Ihre Form ist eigenartig, und an den Stellen, an denen sie freiliegt, geht ein unheilvolles Licht hervor.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_121574"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121581,
+    "RankLevel": 2,
+    "ItemType": 2,
+    "Name": "Kloßmilch mit „magischer Aura“",
+    "Description": "Eine Flasche Kloßmilch, die ganz gewöhnlich aussieht und eigentlich wirklich auch so ist. Dabei handelt es sich laut Prune um die Beute, die sie von einer Hexe errungen hat, weshalb sie fest daran glaubt, dass diese keine normale Kloßmilch ist!",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_101514"
+  },
+  {
+    "Rank": 10,
+    "MaterialType": 2,
+    "Id": 121582,
+    "RankLevel": 3,
+    "ItemType": 2,
+    "Name": "Urkonstrukt-Komponente",
+    "Description": "Im Auftrag von Nahida und dem Großen Weisen Naphis haben Alhaitham und Kaveh ein dringendes Projekt in Angriff genommen. Da für die nächste Phase eine riesige Menge an Materialien erforderlich ist, haben sie sich an die Urkonstrukte im Mausoleum von König Deshret als ideale Quelle gewandt. Ihre veraltete Technologie und ihre hochwertigen Komponenten werden in mikroskopisch kleine Teile zerlegt und anschließend für eine neue Umgebung neu konfiguriert.",
+    "TypeDescription": "Auftragsobjekt",
+    "Icon": "UI_ItemIcon_112072"
   },
   {
     "Rank": 410007,
@@ -59510,7 +59849,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Geheimtechniklabor",
-    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Geheimtechniklabor“.\nEine einfache, alte Alchimie-Werkstatt. Denkt man sich die speziellen, komplexen Apparate weg, so sieht sie aus wie jedes andere Arbeitszimmer, doch was die Sammlung von Büchern auf den Regalen und die verschiedenen Reagenzien in ihren Behältern und Experimentproben angeht, die mit „Nicht öffnen“ beschriftet sind, so kann man als normaler Mensch ihren Nutzen nur blind raten. Sollte irgendjemand mit überschwänglicher Neugier sich nicht an diese Hinweise halten, so wäre ein Unfall wohl unvermeidbar.\nNachdem aus Versehen Katzen in die Alchimie-Werkstatt gelangten und zwei solche Unfälle mit alchimistischem Gebräu auslösten, hat die Ermittlungstruppe des Ordo Favonius allen Alchimie-Werkstätten der Stadt strenge Ein- und Ausgangsregeln auferlegt. Daher stammen auch viele der seltsamen Gerüchte, was Alchimie angeht, die Gelehrten, die sich einfach nur auf ihre Arbeit konzentrieren möchten, nicht gerade wenig Kopfzerbrechen bereiten.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Klee, Saccharose, Albedo und Lisa",
+    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Geheimtechniklabor“.\nEine einfache, alte Alchimie-Werkstatt. Denkt man sich die speziellen, komplexen Apparate weg, so sieht sie aus wie jedes andere Arbeitszimmer, doch was die Sammlung von Büchern auf den Regalen und die verschiedenen Reagenzien in ihren Behältern und Experimentproben angeht, die mit „Nicht öffnen“ beschriftet sind, so kann man als normaler Mensch ihren Nutzen nur blind raten. Sollte irgendjemand mit überschwänglicher Neugier sich nicht an diese Hinweise halten, so wäre ein Unfall wohl unvermeidbar.\nNachdem aus Versehen Katzen in die Alchimie-Werkstatt gelangten und zwei solche Unfälle mit alchimistischem Gebräu auslösten, hat die Ermittlungstruppe des Ordo Favonius allen Alchimie-Werkstätten der Stadt strenge Ein- und Ausgangsregeln auferlegt. Daher stammen auch viele der seltsamen Gerüchte, was Alchimie angeht, die Gelehrten, die sich einfach nur auf ihre Arbeit konzentrieren möchten, nicht gerade wenig Kopfzerbrechen bereiten.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Klee, Saccharose, Albedo, Lisa und Prune.",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -59598,7 +59937,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Von Jagd und Tanz",
-    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Von Jagd und Tanz“.\nEin Lager, das gekonnt nach den berühmten Schriften des Gelehrten Musk aufgebaut wurde, um eine Hilichurl-Behausung nachzuahmen, durch die ihre Lebensweise untersucht werden kann.\nMan sagt, dass der Ordo Favonius in der Vergangenheit solche Lager aufbaute und unter der Führung von Kundschaftern einen detaillierten Plan aufstellte, bevor man Expeditionen gegen Monster unternahm. Auch die Crux, die oft auf See ist, soll häufig auf ähnliche Weise Sandbänke vorbereiten, die auf verschiedenen gesammelten Informationen basieren, um das Anlanden auf Inseln und Räumen von Monstern zu simulieren.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Amber, Saccharose, Klee, Beidou und Aloy.",
+    "Description": "Bauplan mit detaillierten Schritten zur Platzierung von „Von Jagd und Tanz“.\nEin Lager, das gekonnt nach den berühmten Schriften des Gelehrten Musk aufgebaut wurde, um eine Hilichurl-Behausung nachzuahmen, durch die ihre Lebensweise untersucht werden kann.\nMan sagt, dass der Ordo Favonius in der Vergangenheit solche Lager aufbaute und unter der Führung von Kundschaftern einen detaillierten Plan aufstellte, bevor man Expeditionen gegen Monster unternahm. Auch die Crux, die oft auf See ist, soll häufig auf ähnliche Weise Sandbänke vorbereiten, die auf verschiedenen gesammelten Informationen basieren, um das Anlanden auf Inseln und Räumen von Monstern zu simulieren.\nNach der Anwendung im Platzierungsmenü zu finden.\nDieses Set wird von den folgenden Kameraden bevorzugt: Amber, Saccharose, Klee, Beidou, Aloy und Lohen.",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60203,7 +60542,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Ein behagliches Gemach für alle Gäste",
-    "Description": "Dieses vollständig ausgestattete Schlafzimmer orientiert sich am Design der Gästezimmer der Taverne „Flaggschiff“ in Nasha und wurde gezielt an die Bedürfnisse seiner Bewohner angepasst.\nDie Gäste des „Flaggschiffs“ stammen aus den unterschiedlichsten Gegenden und bringen entsprechend verschiedene Vorstellungen von Komfort mit sich. Ein Ausgleich all dieser Erwartungen war keine leichte Aufgabe. Schließlich entschied sich das „Flaggschiff“ für einen ungewöhnlichen Ansatz: Man vereinte alles, was ein Gast womöglich benötigen könnte, in einem Raum und entfernte Überflüssiges erst nach dessen Urteil. Trotz der stellenweise dichten Anordnung liegt gerade darin die Stärke dieses Konzepts, denn in dieser funktionalen Fülle findet jeder Gast seine ganz persönliche Form von Behaglichkeit.",
+    "Description": "Dieses vollständig ausgestattete Schlafzimmer orientiert sich am Design der Gästezimmer der Taverne „Flaggschiff“ in Nasha und wurde gezielt an die Bedürfnisse seiner Bewohner angepasst.\nDie Gäste des „Flaggschiffs“ stammen aus den unterschiedlichsten Gegenden und bringen entsprechend verschiedene Vorstellungen von Komfort mit sich. Ein Ausgleich all dieser Erwartungen war keine leichte Aufgabe. Schließlich entschied sich das „Flaggschiff“ für einen ungewöhnlichen Ansatz: Man vereinte alles, was ein Gast womöglich benötigen könnte, in einem Raum und entfernte Überflüssiges erst nach dessen Urteil. Trotz der stellenweise dichten Anordnung liegt gerade darin die Stärke dieses Konzepts, denn in dieser funktionalen Fülle findet jeder Gast seine ganz persönliche Form von Behaglichkeit.\nDieses Set wird von folgenden Kameraden bevorzugt: Linnea und Nicole.",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Indoor"
   },
@@ -60258,7 +60597,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Die Ebenen des hohen Nordens",
-    "Description": "Eine weitläufige Landschaft, die typische Vegetation und Geländeformen der Nod-Krai-Region vereint und die besondere Wildnis der Insel Hiisi authentisch nachzeichnet.\nDurch das reiche Vorkommen an Kuuvahki dieser Region gedeihen farbenprächtige Pflanzen, Tiere mit ungewöhnlichen Charakteristika und eigenwillige Landschaftsformen. Für Naturkundler birgt dieses Gebiet zahllose Schätze neuen Wissens – doch auch gewöhnliche Besucher können kaum anders, als innezuhalten und die wunderbare Szenerie auf sich wirken zu lassen.\nDieses Set wird von folgenden Kameraden bevorzugt: Durin",
+    "Description": "Eine weitläufige Landschaft, die typische Vegetation und Geländeformen der Nod-Krai-Region vereint und die besondere Wildnis der Insel Hiisi authentisch nachzeichnet.\nDurch das reiche Vorkommen an Kuuvahki dieser Region gedeihen farbenprächtige Pflanzen, Tiere mit ungewöhnlichen Charakteristika und eigenwillige Landschaftsformen. Für Naturkundler birgt dieses Gebiet zahllose Schätze neuen Wissens – doch auch gewöhnliche Besucher können kaum anders, als innezuhalten und die wunderbare Szenerie auf sich wirken zu lassen.\nDieses Set wird von folgenden Kameraden bevorzugt: Durin, Linnea und Nicole.",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -60269,7 +60608,7 @@
     "RankLevel": 4,
     "ItemType": 2,
     "Name": "Geschäftiges Grenzstädtchen",
-    "Description": "Eine Gebietslandschaft, geprägt von markanten Gebäuden und unterschiedlich ausgerichteten Geschäften, die einen typischen Winkel von Nasha lebendig nachzeichnet.\nDer Überlieferung nach unterscheidet sich Nasha von anderen Städten: Es fehlt an einem wirklichen Verwalter ebenso wie an einer klaren städtebaulichen Ordnung. So entstanden zwischen den Häusern zahllose schmale Durchgänge und verborgene Zwischenräume. Für die meisten Bewohner sind sie kaum mehr als Wege, auf denen sich Lärm ausbreitet. Für aufmerksame Beobachter jedoch dienen sie als Routen für geheime Nachrichten und als geschickte Abkürzungen durch die Stadt.\nDieses Set wird von folgenden Kameraden bevorzugt: Nefer, Jahoda und Varka",
+    "Description": "Eine Gebietslandschaft, geprägt von markanten Gebäuden und unterschiedlich ausgerichteten Geschäften, die einen typischen Winkel von Nasha lebendig nachzeichnet.\nDer Überlieferung nach unterscheidet sich Nasha von anderen Städten: Es fehlt an einem wirklichen Verwalter ebenso wie an einer klaren städtebaulichen Ordnung. So entstanden zwischen den Häusern zahllose schmale Durchgänge und verborgene Zwischenräume. Für die meisten Bewohner sind sie kaum mehr als Wege, auf denen sich Lärm ausbreitet. Für aufmerksame Beobachter jedoch dienen sie als Routen für geheime Nachrichten und als geschickte Abkürzungen durch die Stadt.\nDieses Set wird von folgenden Kameraden bevorzugt: Nefer, Jahoda, Varka, Lohen und Prune.",
     "TypeDescription": "Dekorationssetbauplan",
     "Icon": "UI_ItemIcon_Home_Outdoor"
   },
@@ -74614,6 +74953,17 @@
     "ItemType": 2,
     "Name": "„Jaulende Reißzähne“",
     "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Jaulende Reißzähne“.\nNach der Anwendung im Herstellungsmenü zu finden.",
+    "TypeDescription": "Dekorationsbauplan",
+    "Icon": "UI_ItemIcon_Home_Common"
+  },
+  {
+    "Rank": 300401,
+    "MaterialType": 27,
+    "Id": 394837,
+    "RankLevel": 4,
+    "ItemType": 2,
+    "Name": "„Miniatur-Steinmetzkunst“",
+    "Description": "Bauplan mit detaillierten Schritten zur Herstellung von „Miniatur-Steinmetzkunst“.\nNach der Anwendung im Herstellungsmenü zu finden.",
     "TypeDescription": "Dekorationsbauplan",
     "Icon": "UI_ItemIcon_Home_Common"
   }
