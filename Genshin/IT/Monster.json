@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "Per portare a compimento i suoi blasfemi esperimenti, Dottore ha reciso i vincoli della sua forma corporea, divenendo un tutt'uno con l'Irminsul che attraversa Teyvat.\nQuesto mondo precede intrinsecamente qualsiasi ordine naturale.\nPrima che il suo sguardo si posasse, l'origine e il termine di tutta la materia erano indeterminate.\nTuttavia, nel tentativo di sfuggire allo schiacciante peso della libertà, i deboli preferirebbero prostrarsi dinanzi al trono della \"Certezza\".\nSolo chi è determinato a squarciare il velo della percezione terrena può attribuirsi il diritto di plasmare un \"nuovo mondo\".\nÈ il dominio della \"Possibilità\": un perpetuo e magnifico esperimento destinato a durare in eterno.\nÈ tempo di ravvivare questa realtà stagnante e immutabile...\n\"Come fai a dire che io non sarei in grado di perfezionarla?\"",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Custode del Dominio",
+    "Title": "Colui che è stato creato",
+    "Description": "Un costrutto d'ombra nato dalla tracimazione del potente essere primordiale, un guardiano che veglia sulla Sala dei Pilastri dei cieli.\nBenché gli siano stati affidati degli \"occhi\" in qualità di guardiani della Sala dei Pilastri dello Spazio, queste entità non possono far altro che esaltare le \"forme ideali\" del mondo noumenico. Non essendo in grado di osservare le complessità del mondo fenomenico, non sono considerati pari tra gli angeli. Se tale contraddizione intrinseca sia un prodotto della progettazione deliberata della loro creatrice, o se la padrona che servono abbia fallito nel comprendere l'intento di quell'essere primordiale, è una verità al di là della nostra portata.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Osservatore: Veglia sacrilega",
+    "Title": "Sentinella osservamondo",
+    "Description": "Un costrutto d'ombra nato dalla tracimazione del potente essere primordiale, un Osservatore che un tempo dimorava nei cieli più alti, ma che è stato scacciato nel regno mortale per aver osato aprire il proprio occhio.\nUn Osservatore era destinato solo a vegliare silenziosamente all'interno della Sala dei Pilastri del Mondo. Qualsiasi richiesta che trasgredisse l'ordine prestabilito era considerata un peccato imperdonabile, non diverso dal cercare l'annientamento del mondo stesso.\nIn quanto sovrano della torre di guardia del mondo, deteneva l'autorità concessagli dalla persona che lo aveva creato: il potere di correggere tutte le questioni di cosiddetta \"innovazione\" ed \"evoluzione\". Dopo aver sopportato innumerevoli eoni di nescienza, scelse infine di aprire il proprio occhio, sfidando la volontà di chi lo aveva creato, contemplando sia la falsità che la verità del mondo.\nL'Osservatore non sa perché la padrona che serve se ne sia andata. Tutto ciò che rimane è la punizione eterna, intrappolata in uno stantio interstizio del tempo...",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

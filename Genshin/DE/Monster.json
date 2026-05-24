@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "Um seine Experimente zu einem Abschluss zu bringen, hat Il Dottore die Fesseln seiner körperlichen Form gesprengt und ist mit Irminsul, die sich durch ganz Teyvat zieht, zu einer Einheit verschmolzen.\nDiese Welt geht von Natur aus jeder natürlichen Ordnung voraus.\nBis sie seinen Blick warf, waren der Ursprung und das Ende aller Dinge unbestimmt.\nDoch die Schwachen, die danach streben, die erdrückende Schwere der Freiheit loszuwerden, beugen sich lieber dem Thron der „Gewissheit“.\nNur diejenigen mit der Entschlossenheit zum Zerreißen des Schleiers profaner Erkenntnisse könnten die Berechtigung erlangen, eine „neue Welt“ zu schaffen.\nDas ist das Reich der „Möglichkeiten“, ein immerwährendes und großartiges Experiment, das niemals sein Ende finden wird.\nEs ist Zeit, diese stagnierende, unveränderliche Realität zu beleben ...\n„Wie kannst du dir so sicher sein, dass ich dazu nicht fähig bin, sie zu perfektionieren?“",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Territorialwächter",
+    "Title": "Erschaffung",
+    "Description": "Eine von der ursprünglichen Macht hervorgebrachte Schattenkreatur, die als Wächter der Säulenhalle des Raums ihren Dienst verrichtet.\nObwohl sie als Wächter der Säulenhalle des Raums mit „Augen“ versehen wurde, kann sie doch nichts anderes tun, als die ewigen „Formen“ wahrer Realität zu lobpreisen. So wird ihr jeglicher Blick auf die vielfältigen Phänomene der Welt verwehrt, weshalb sie auch nicht als Angehörige der Engel angesehen wird. Ob dieser Widerspruch ein bewusster Entschluss ihres Schöpfers war oder ob der Meister, dem sie dient, letztlich den Willen des Urwesens nicht verstanden hat? All dies können wir heute nur mehr erahnen.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Wächter – Der Gestürzte",
+    "Title": "Wächter des Weltwachturms",
+    "Description": "Eine von der ursprünglichen Macht hervorgebrachte Schattenkreatur. Als Wächter bewohnte sie einst die höchsten Himmel, wurde jedoch in die Welt der Sterblichen verbannt, weil sie es gewagt hatte, ihre Augen zu öffnen.\nDie Pflicht eines Wächters ist es, schweigsam in der Säulenhalle der Welt zu wachen. Jede Frage, die sich über die festgelegte Ordnung hinwegsetzt, gilt als unverzeihliche Sünde, die einer weltenvernichtenden Zerstörung gleichkommt.\nAls Herrscher über den Wachturm der Welt trug er die ihm von seinem Schöpfer verliehene Autorität – die Macht, alle Angelegenheiten der sogenannten „Innovation“ und „Evolution“ richtigzustellen. Nachdem er unzählige Äonen der Unwissenheit zu ertragen hatte, entschied er sich schließlich, seine Augen zu öffnen und so sowohl die Lüge als auch die Wahrheit der Welt zu erkennen. Hiermit sollte er sich jedoch dem Willen seines Schöpfers widersetzen.\nDer Wächter weiß nicht, warum sein Meister verschwunden ist. Ihm bleibt nur die ewige Strafe, gefangen in einem Raum erstarrter Zeit ...",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

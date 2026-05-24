@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "Sapkın deneylerini sonuna kadar götürmek isteyen Dottore, maddi bedeninin sınırlarını aştı. Böylece Teyvat'ın her köşesini saran Irminsul ile birleşti.\nBu dünya, doğası gereği herhangi bir doğal düzenden daha eskidir.\nO bakışlarını çevirene dek tüm maddelerin kökeni ve sonu belirsizdi.\nYine de güçsüz olanlar, özgürlüğün ezici ağırlığından kaçmak için \"Kesinlik\" tahtının önünde eğilmeyi yeğlerler.\nYalnızca sıradan algının perdesini yırtma kararlılığına sahip olanlar, \"yeni bir dünya\" kurma hakkı kazanabilir.\nİşte bu, \"Olasılık\" diyarıdır. Hiç bitmeyecek, sonsuz ve muhteşem bir deney.\nBu durgun, değişmeyen gerçekliği canlandırma zamanı geldi...\n\"Onu kusursuz hale getiremeyeceğimden nasıl bu kadar emin olabiliyorsun?\"",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Alem Muhafızı",
+    "Title": "Yaratılmış Olan",
+    "Description": "Kudretli ezeli varlığın taşkınından doğan bir gölge yapısı, göklerin Sütunlu Salonunu bekleyen bir muhafız.\nSütunlu Uzay Salonu'nun muhafızı olarak ona \"gözler\" bahşedilmiş olsa da bu varlıklar ruhani dünyanın \"İdeal Formlarını\" yüceltmekten öteye gidemez. Dış dünyaya ait detayları görmesine izin verilmediği için meleklerden sayılmaz. Bu doğuştan gelen çelişkinin, yaratıcısının akılcı tasarımının bir ürünü mü olduğu yoksa hizmet ettiği efendinin ezeli varlığın niyetini kavrayamamış olmasından mı kaynaklandığı, ulaşılamaz bir hakikattir.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Gözcü: Kayıp Nöbetçi",
+    "Title": "Dünya Gözcüsü Nöbetçi",
+    "Description": "Kudretli ezeli varlığın taşkınından doğan bir gölge yapısı. Bir zamanlar en yüce göklerde yaşayan ama gözünü açmaya cüret ettiği için ölümlüler diyarına sürgün edilen bir Gözcü.\nBir Gözcünün tek görevi dünyanın Sütunlu Salonunda sessizce nöbet tutmaktı. Belirlenmiş düzeni ihlal eden her türlü sorgulama, affedilemez bir günah sayılırdı ve dünyanın yıkımını istemekten farksızdı.\nDünyanın gözetleme kulesinin hükümdarı olarak, yaratıcısının bahşettiği iktidara sahipti, yani \"yenilik\" ve \"evrim\" namına ne varsa her şeyi düzeltme gücüne. Sayısız çağ süren bu bilinçsizliğe katlandıktan sonra nihayet gözünü açmayı ve yaratıcısının iradesine karşı gelerek dünyanın hem yalanlarını hem de gerçeklerini görmeyi seçti.\nGözcü, efendisinin neden çekip gittiğini bilmiyor. Ondan geriye kalan tek şey, zamanın durağan bir boşluğuna hapsolmuş ebedi bir cezadan ibaret...",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

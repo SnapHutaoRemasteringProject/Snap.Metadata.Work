@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "이단의 실험을 완성하기 위해 도토레는 육신의 속박을 벗어던지고, 티바트를 관통하는 세계수와 하나가 되었다.\n이 세계는 본디 「이치」에 앞서 존재했다.\n「이치」의 관측이 닿기 전까지, 그 누구도 만물의 시작과 끝을 알지 못했다.\n하지만 약자들은 자유의 무게에서 도망치고자, 기꺼이 「확실성」의 왕좌 앞에 무릎을 꿇었다.\n오직 범속한 견해를 꿰뚫어 보는 각성자만이 「신세계」를 창조할 자격을 손에 넣으리라.\n이것은 「가능성」의 영역이자, 영원히 끝나지 않는 위대한 실험이다.\n이 고리타분한 세상을 좀 더 흥미롭게 만들어 볼까…\n「내가 더 잘해내지 못할 거라고, 어떻게 장담할 수 있지?」",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "영역 수호자",
+    "Title": "피조물",
+    "Description": "원초의 전능자로부터 흘러나온 그림자의 피조물이자, 공간의 신전을 지키는 수호자.\n공간의 신전 경비병으로서 「눈」을 받았으나, 영원한 「이데아」만을 찬송하고 번잡한 현상 세계는 보지 못해 천사의 동족으로는 여겨지지 않는다. 이러한 모순된 설계가 창조주의 이성적인 의도인지, 아니면 이들이 섬기는 창조주가 끝내 원초 전능자의 뜻을 이해하지 못한 결과인지는 알 길이 없다",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "파수꾼·타락",
+    "Title": "세계 망루의 파수꾼",
+    "Description": "원초의 전능자로부터 흘러나온 그림자의 피조물. 한때는 하늘의 신전을 지키는 파수꾼이었으나, 결국 눈을 떴기에 속세로 추락했다.\n파수꾼은 공간의 신전에서 조용히 망을 봐야 한다. 규칙을 넘어서는 탐구는 용납되지 않으며, 그것은 곧 세계를 파괴하려는 것과 동급의 대죄다.\n파수꾼은 세계의 망루를 통솔하는 자로서 창조주에게서 모든 「혁신과 진화」를 교정할 권한을 받았지만, 영겁의 무명을 겪은 끝에 눈을 떠 세상의 거짓과 진실을 마주하기로 결심했다. 그러나 그것은 창조주의 의지에 어긋나는 행위였다.\n파수꾼은 주인이 왜 떠났는지 알지 못한 채, 영원한 징벌만이 남은 멈춰버린 틈새에 머물러 있을 뿐이다…",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

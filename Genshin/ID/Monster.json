@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "Untuk mendorong eksperimennya hingga akhir, Il Dottore telah melepaskan diri dari belenggu tubuh manusianya. Sekarang, dia telah menyatu dengan Irminsul yang mengalir melalui seluruh Teyvat.\nDunia ini pada dasarnya mendahului tatanan alam apa pun.\nSebelum diobservasi oleh tatanan, siapa pun tidak bisa menentukan awal dan akhir dari segala sesuatu di dunia ini.\nNamun yang lemah yang berusaha melepaskan diri dari beban kebebasan yang menghancurkan, lebih memilih untuk tunduk di hadapan takhta \"Kepastian.\"\nHanya mereka yang memiliki tekad untuk menembus tabir persepsi duniawi yang dapat memperoleh hak untuk menempa \"dunia baru.\"\nItulah ranah \"Kemungkinan\", sebuah eksperimen abadi dan luar biasa yang tidak akan pernah mencapai akhirnya.\nSaatnya menghidupkan kembali realitas yang stagnan dan tidak berubah ini ....\n\"Bagaimana kamu bisa yakin kalau aku tidak mampu menyempurnakannya?\"",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Domain Keeper",
+    "Title": "The Created",
+    "Description": "Konstruksi bayangan yang terlahir dari luapan makhluk purba perkasa, berdiri sebagai penjaga Pillar Hall yang mengangkasa.\nSebagai penjaga Pillar Hall of Space, meski telah diberikan \"mata\", tapi dia tetap hanya bisa memuji \"bentuk\" realitas sejati dan tak sanggup melihat menembus berbagai fenomena di dunia ini. Oleh sebab itu, dia tidak dianggap sebagai malaikat untuk jenisnya. Entah kontradiksi semacam itu merupakan rancangan yang disengaja dari penalaran penciptanya, atau apakah pemilik yang dilayaninya akhirnya gagal memahami kehendak makhluk purba, mungkin sudah tidak mungkin lagi menguak misteri ini.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Watcher: Fallen Vigil",
+    "Title": "Pengawas Menara Dunia",
+    "Description": "Konstruksi bayangan yang terlahir dari luapan makhluk purba perkasa, Watcher yang pernah tinggal di angkasa tertinggi, namun dijatuhkan ke dunia karena membuka matanya.\nSang Watcher hanya bisa berjaga di Pillar Hall of the World dalam diam. Semua pertanyaan yang melampaui maksud yang sudah ditentukan ini dianggap sebagai dosa tak terampuni, sama seperti pencarian kehancuran dunia itu sendiri.\nSebagai penguasa menara pengawas dunia, dia memiliki otoritas yang diberikan oleh penciptanya, untuk memperbaiki semua \"inovasi\" dan \"evolusi\". Setelah melewati berbagai kebodohan, dia akhirnya memilih untuk membuka matanya dan menghadapi kebohongan dan kebenaran dunia, namun tindakan ini bertentangan dengan kehendak penciptanya.\nSang Watcher tidak tahu kenapa penciptanya pergi. Hanya hukuman abadi yang tersisa, memerangkapnya dalam celah-celah yang membeku ....",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

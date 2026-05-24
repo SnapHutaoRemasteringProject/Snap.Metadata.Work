@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "ドットーレは邪道の実験を完遂するため凡俗な肉体という束縛を断ち切り、今やテイワットを貫く世界樹と一体化している。\nこの世界はもとより「理」に先んじて存在していた。\n「理」によって観測される以前は、誰にも万物の始まりと終わりを定めることなどできなかったのだ。\nしかし、弱者は自由の重荷から逃れるため、「確実性」の王座にひれ伏すことを選んだ。\n俗見を看破する真理を悟った者のみが、「新世界」を創造する資格を手にできる。\nそれは「可能性」の領域であり、永遠に終わりを迎えることのない偉大なる実験なのだ。\nこの退屈で単調な世界を面白くしてやろう…\n「私が間違っていると、なぜお前に断言できる？」",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "領域の番人",
+    "Title": "造られし物",
+    "Description": "原初の大いなる者から溢れ出た影の造物。高天の神殿を守る番人。\n空の神殿の守衛として「目」を与えられながらも、永遠の真実である「理想」を称えることしかできず、現象世界の諸相を見ることは叶わない。それゆえ、天の使いの同類とは見なされない。このような矛盾が、その創造主の理性による設計なのか、あるいは彼らが仕える創造主ですら原初の存在の意図を理解できなかったからなのか、もはや知る由もない。",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "守護者・堕天",
+    "Title": "世界を望む監視者",
+    "Description": "原初の大いなる者から溢れ出た影の造物。たとえ高天の神殿にいようとも、ひとたび目を開ければ、俗世へ堕ちてしまうものだ。\n守護者は世界の柱そびえ立つ神殿で沈黙を守るべきであり、規則を超えた探求はすべて、世界の破滅を企てるに等しい許されざる罪となる。\n世界の望楼を統括する権限を持ち、その創造主より授かった、あらゆる「革新と進化の事象」を正す力を司る。百千劫の無明を経たのち、ついに目を開いて世界の嘘と真実に向き合うことを選んだが、それゆえに創造主の意志に背くこととなった。\n守護者は主がなぜ去ったのかを知らず、ただ永遠の懲罰のみが停滞した狭間に留まり続けている…",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

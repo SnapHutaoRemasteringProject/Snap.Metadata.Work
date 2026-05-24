@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "To push his heretical experiments to their end, Dottore has severed the constraints of his corporeal form. Now, he has merged as one with the Irminsul that threads through all of Teyvat.\nThis world inherently predates any natural order.\nUntil it cast its gaze, the origin and terminus of all matter were indeterminate.\nYet the weak, seeking to escape the crushing weight of freedom, would rather bow before the throne of \"Certainty.\"\nOnly those with the resolve to pierce the veil of mundane perception may earn the right to forge a \"new world.\"\nThat is the domain of \"Possibility\" — a perpetual and magnificent experiment that shall never reach its end.\nIt's time to enliven this stagnant, unchanging reality...\n\"How can you be certain that I am not capable of perfecting it?\"",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Domain Keeper",
+    "Title": "The Created",
+    "Description": "A shadow construct born from the overflow of the mighty primordial being, it is a guardian who watches over the Pillar Hall of the heavens.\nThough entrusted with \"eyes\" as a guardian of the Pillar Hall of Space, these entities can do nothing but extol the \"Ideal Forms\" of the noumenal world. With no way to behold the complexities of the phenomenal world, they are thus not counted among the kindred of angels. Whether this inherent contradiction is a product of their creator's rational design, or if the master they serve ultimately failed to grasp the intent of that primordial being, is a truth that remains beyond our reach.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Watcher: Fallen Vigil",
+    "Title": "World-Watch Sentry",
+    "Description": "A shadow construct born from the overflow of the mighty primordial being, a Watcher who once dwelt in the highest heavens, yet was cast down into the mortal realm for daring to open its eye.\nA Watcher was meant only to stand in silent vigil within the Pillar Hall of the World. Any inquiry that transgressed the ordained order was deemed an unforgivable sin, tantamount to seeking the world's annihilation.\nAs sovereign of the world's watchtower, it wielded the authority bestowed by its creator — the power to correct all matters of \"innovation\" and \"evolution.\" After enduring countless aeons of nescience, it finally chose to open that eye, defying the will of its creator, beholding both the falsehoods and the truths of the world.\nThe Watcher does not know why its master departed. Only the eternal punishment remains, trapped within a stagnant interstice of time...",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

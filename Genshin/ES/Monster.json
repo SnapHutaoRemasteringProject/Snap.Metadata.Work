@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "Con tal de llevar a cabo sus heréticos experimentos hasta el final, Dottore ha cercenado todo lo que lo ataba a su forma corpórea. Ahora, se ha fusionado con el Irminsul que conecta todo Teyvat.\nEste mundo es anterior a la “Razón”.\nAntes de que esta posara en él su mirada, el origen y el fin de toda materia eran indeterminados.\nSin embargo, los débiles, intentando escapar del aplastante peso de la libertad, prefieren postrarse ante el trono de la “certeza”.\nSolo aquellos con la determinación de atravesar el velo de la percepción mundana podrán ganarse el derecho a forjar un “nuevo mundo”.\nEso es el dominio de la “posibilidad”, un experimento perpetuo y magnífico que nunca alcanzará su fin.\nYa es hora de animar esta realidad estancada e inmutable...\n“¿Cómo puedes tener la certeza de que yo no seré capaz de perfeccionarla?”.",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Guardián de Dominio",
+    "Title": "El que fue creado",
+    "Description": "Una creación de una de las sombras que emanó del todopoderoso ser primordial, así como el guardián que protege el Salón de Columnas del cielo.\nComo guardián del Salón de Columnas del Espacio, aunque se le concedió un “ojo”, solo puede alabar las “formas ideales” eternas y verdaderas, incapaz de percibir la complejidad del mundo fenoménico, por lo que no se le considera igual a los ángeles. Si esta contradicción intrínseca fue un diseño racional de su creadora o si aquella a la que sirve tampoco comprende la voluntad del ser primordial, es algo que ya no se puede saber.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Vigilante Celestecaído",
+    "Title": "Vigía de la atalaya del mundo",
+    "Description": "Una creación de una de las sombras que emanó del todopoderoso ser primordial. Residía en lo alto de los cielos, pero cayó al mundo terrenal tras abrir los ojos.\nEl único deber de los Vigilantes es vigilar en silencio desde el Templo del Mundo, y cualquier ambición que transgreda las reglas es un pecado imperdonable, equivalente a buscar la destrucción del mundo.\nComo administrador de la atalaya del mundo, empuña la autoridad que le concedió su creadora para corregir todo acto de “innovación y evolución”. Tras eones viviendo en la ignorancia, por fin ha decidido abrir los ojos y hacer frente a las mentiras y verdades del mundo, pero al hacerlo, ha traicionado la voluntad de su creadora.\nEl Vigilante desconoce por qué su señora se marchó. Lo único que permanece en la grieta del tiempo detenido es su castigo eterno...",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

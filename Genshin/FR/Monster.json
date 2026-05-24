@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "#Afin de mener ses expériences hérétiques à leur terme, Dottore s'est affranchi des entraves de sa forme corporelle. À présent, il a fusionné pour ne faire qu'un avec l'Irminsul qui tisse sa trame à travers tout Teyvat.\nCe monde préexiste, par nature, à tout ordre naturel.\nAvant qu'il ne pose son regard, l'origine et le terme de toute matière demeuraient indéterminés.\nPourtant, les faibles, cherchant à échapper au poids écrasant de la liberté, préfèrent s'incliner devant le trône de la «{NON_BREAK_SPACE}certitude{NON_BREAK_SPACE}».\nSeuls ceux qui possèdent la résolution de percer le voile de la perception ordinaire peuvent s'arroger le droit de forger un «{NON_BREAK_SPACE}nouveau monde{NON_BREAK_SPACE}».\nTel est le domaine de la «{NON_BREAK_SPACE}possibilité{NON_BREAK_SPACE}»{NON_BREAK_SPACE}: une expérience perpétuelle et grandiose qui ne connaîtra jamais de fin.\nIl est temps d'insuffler la vie à cette réalité stagnante et immuable...\n«{NON_BREAK_SPACE}Comment pouvez-vous être certain que je ne suis pas capable de la perfectionner{NON_BREAK_SPACE}?{NON_BREAK_SPACE}»",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Protecteur du royaume",
+    "Title": "Le créé",
+    "Description": "Né du débordement du puissant être primordial, le Protecteur du royaume se dresse en gardien du Hall aux piliers.\nBien que doté d'un œil en tant que gardien du Hall aux piliers de l'espace, il ne peut que célébrer les « formes » éternelles de la réalité véritable. Incapable de percevoir la multiplicité des phénomènes du monde, il n'est pas considéré comme un ange. Que cette contradiction soit le fruit de la raison de son créateur, ou que le maître qu'il sert ait finalement échoué à comprendre la volonté de l'être primordial, cela, peut-être, ne nous est plus donné de le savoir.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Veilleur : Veille déchue",
+    "Title": "Sentinelle de garde mondiale",
+    "Description": "Né du débordement du puissant être primordial, ce veilleur résidait jadis dans les cieux les plus élevés, mais il a été précipité dans le royaume des mortels pour avoir osé ouvrir les yeux.\nUn veilleur était destiné à veiller en silence dans le Hall aux piliers du l'espace. Toute question transgressant l'ordre établi était considérée comme un péché impardonnable, équivalent à la volonté d'anéantir le monde.\nSouverain de la tour de guet du monde, il détenait l'autorité conférée par son créateur : le pouvoir de corriger tout ce qui relevait de la prétendue « innovation » et de l'« évolution ». Après avoir enduré d'innombrables éons d'ignorance, il choisit finalement d'ouvrir les yeux et de contempler à la fois le mensonge et la vérité du monde, défiant ainsi la volonté de son créateur.\nLe veilleur ignore pourquoi son maître l'a quitté. Seul demeure le châtiment éternel, prisonnier d'un interstice temporel figé...",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

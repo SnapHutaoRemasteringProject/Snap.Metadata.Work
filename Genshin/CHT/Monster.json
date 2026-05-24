@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "為了將左道的實驗進行到底，在擺脫了凡俗肉身的桎梏後，如今的多托雷已與貫穿提瓦特的世界樹融為一體。\n這個世界本就先於「理」而存在。\n在被「理」所觀測之前，誰也無法確定世間萬物的起始與終末。\n然而弱者為了逃避自由的重負，卻甘願向「確定性」的王座俯首。\n唯有敢於看破俗見的覺悟者，才有機會取得創造「新世界」的資格。\n那是屬於「可能性」的領域，那是永遠不會迎來終結的偉大實驗。\n讓這枯燥乏味、一成不變的世界變得有趣起來吧…\n「你怎麼知道，我就不能做得更好呢？」",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "轄域守護者",
+    "Title": "受造之物",
+    "Description": "原初的大能者流溢而出的影之造物，守衛高天之柱殿的守護者。\n身為空之柱殿的守衛，雖被賦予了「眼」，卻只能頌讚永恆實在的「理型」，無從得見現象世界的紛繁，因此不被視為天使的同類。這般自相乖離之事究竟是其造主理性的設計，又或是它們所侍奉的主人終究也不理解原初那一位的心意，恐怕已無從得知。",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "守望者·墮天",
+    "Title": "世界望樓之守望",
+    "Description": "原初的大能者流溢而出的影之造物，曾居於高天之上的守望者，終因開眼而墮入塵世。\n守望者只應沉默地於世界之柱殿守望，一切逾越規則的探求，皆是與謀求世界破滅等同的不赦之罪。\n身為世界望樓的統權，執掌其造主所賦予的糾正一切「革新進化之事」的權柄。在歷經百千劫的無明後，終於選擇開眼直面世界的謊言與真實，卻也因此違背了造主的意志。\n守望者不知曉那位離去的主人因何離去，唯有永恆的懲罰依然駐留在凝滯的隙間…",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

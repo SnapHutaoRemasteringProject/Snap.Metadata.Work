@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "Để đưa thí nghiệm tà đạo của mình đến hồi kết, Dottore đã cắt đứt mọi ràng buộc của thân xác phàm tục. Giờ đây hắn đã hòa làm một với Cây Thế Giới xuyên suốt Teyvat.\nThế giới này vốn tồn tại trước cả \"Lý\".\nTrước khi bị \"Lý\" quan sát, không ai có thể xác định được khởi đầu và kết thúc của vạn vật trên thế gian.\nThế nhưng kẻ yếu đuối để trốn tránh gánh nặng của tự do, lại cam tâm cúi đầu trước ngai vàng của \"sự chắc chắn\".\nChỉ có những kẻ giác ngộ dám phá bỏ bức màn nhận thức tầm thường, mới có cơ hội đạt được tư cách sáng tạo \"thế giới mới\".\nĐó là lĩnh vực thuộc về \"tính khả năng\", là thí nghiệm vĩ đại sẽ không bao giờ chào đón kết thúc.\nHãy để thế giới nhàm chán, bất biến này trở nên thú vị hơn...\n\"Sao ngươi biết được ta không thể làm tốt hơn?\"",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Thủ Hộ Cõi Giới",
+    "Title": "Vật Được Tạo Ra",
+    "Description": "Tạo vật bóng tối sinh ra từ sự dâng trào của đấng quyền năng nguyên sơ, là người thủ hộ của điện trụ trên trời cao.\nLà người thủ hộ của Điện Trụ Không Gian, tuy được ban \"mắt\", nhưng chỉ có thể ngợi ca \"lý tưởng\" của thực tại vĩnh cửu, không thể nhìn thấy sự phức tạp của thế giới hiện tượng, nên không được xem là đồng loại của thiên sứ. Liệu sự khác biệt này là do thiết kế lý trí của đấng tạo hóa, hay cũng có thể là chủ nhân mà chúng phục vụ cũng không hiểu được ý định của đấng nguyên sơ. E là giờ đây cũng không còn cách nào biết được.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Người Canh Gác - Sa Ngã",
+    "Title": "Kẻ Đứng Gác Tháp Canh Thế Giới",
+    "Description": "Tạo vật bóng tối sinh ra từ sự dâng trào của đấng quyền năng nguyên sơ, là người canh gác từng ngự trên trời cao, nhưng cuối cùng vì mở mắt mà bị đày xuống trần gian.\nNgười canh gác chỉ nên lặng lẽ canh giữ tại Điện Trụ Thế Giới, mọi sự tìm kiếm vượt quy tắc đều là tội lỗi không thể tha thứ, tương đương với việc mưu cầu thế giới bị hủy diệt.\nLà người quản lý tháp canh của thế giới, nắm giữ quyền năng mà đấng tạo hóa ban cho để sửa chữa mọi \"đổi mới tiến hóa\". Sau nhiều kiếp vô minh, cuối cùng đã lựa chọn mở mắt để đối diện với dối trá và chân thật của thế giới, nhưng cũng vì thế mà đi ngược lại ý chí của đấng tạo hóa.\nNgười canh gác không biết vì sao vị chủ nhân ấy rời đi, chỉ còn hình phạt vĩnh hằng vẫn lưu lại giữa những khoảng không ngưng đọng...",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]

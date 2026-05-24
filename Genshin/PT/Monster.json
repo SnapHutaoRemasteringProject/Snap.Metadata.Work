@@ -17558,5 +17558,117 @@
     "Icon": "",
     "Type": 0,
     "Arkhe": 0
+  },
+  {
+    "Id": 29150101,
+    "DescribeId": 0,
+    "MonsterName": "Monster_DrData",
+    "Description": "Para levar os experimentos heréticos até o fim, após se libertar dos grilhões de seu corpo mortal, Dottore agora se fundiu com a Irminsul, a árvore que permeia Teyvat.\nEste mundo já existia antes da Razão.\nAntes de ser observado pela Razão, ninguém poderia determinar o início ou o fim de todas as coisas.\nNo entanto, os fracos, para escapar do peso da liberdade, preferem se curvar ao trono da \"Certeza\".\nSomente aqueles iluminados que ousam romper com as visões mundanas têm a chance de obter a qualificação para criar um Novo Mundo.\nEsse é o domínio das \"Possibilidades\", esse é o grande experimento que jamais chegará ao fim.\nTorne este mundo tedioso e imutável algo interessante...\n\"Como você sabe que eu não posso fazer ainda melhor?\"",
+    "Icon": "",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 1304.064,
+      "AttackBase": 150.72,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24110101,
+    "DescribeId": 41101,
+    "MonsterName": "Watcher_Normal_01",
+    "Name": "Guardião do Reino",
+    "Title": "O Criado",
+    "Description": "Um constructo sombrio nascido do transbordamento do poderoso ser primordial, ele permanece como o guardião do Salão dos Pilares dos céus.\nEmbora confiado com \"olhos\" como guardião do Pilar do Espaço, ele não pode fazer nada senão exaltar as \"formas\" eternas da verdadeira realidade. É-lhe negado qualquer visão dos múltiplos fenômenos do mundo e, portanto, não é considerado como pertencente à espécie dos anjos. Se tal contradição foi um desígnio deliberado da razão de seu criador, ou se o mestre a quem serve acabou por não compreender a vontade do ser primordial, talvez isso já não nos caiba saber.",
+    "Icon": "UI_MonsterIcon_Watcher_Normal_01",
+    "Type": 1,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 95.088,
+      "AttackBase": 75.36,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
+  },
+  {
+    "Id": 24111101,
+    "DescribeId": 41111,
+    "MonsterName": "Watcher_Primo_01",
+    "Name": "Guardião: Vigia Caída",
+    "Title": "Sentinela do Mundo",
+    "Description": "Um constructo sombrio nascido do transbordamento do poderoso ser primordial, um Guardião que outrora habitava nos céus mais elevados, mas que foi lançado ao reino mortal por ousar abrir seus olhos.\nUm Guardião deveria apenas permanecer em silêncio dentro do Templo do Mundo. Qualquer questionamento que transgredisse a ordem estabelecida era considerado um pecado imperdoável, não diferente de buscar a aniquilação do próprio mundo.\nComo soberano da torre de vigia do mundo, ele detinha a autoridade concedida pelo seu criador, o poder de corrigir todas as questões relacionadas com as chamadas \"inovações\" e \"evoluções\". Após suportar incontáveis eras de ignorância, ele finalmente decidiu abrir seus olhos e contemplar tanto a mentira quanto a verdade do mundo, desafiando assim a vontade do seu criador.\nO Guardião não sabe o motivo da partida de seu mestre. Apenas a punição eterna permanece, suspensa em uma fenda imóvel do tempo.",
+    "Icon": "UI_MonsterIcon_Watcher_Primo_01",
+    "Type": 2,
+    "Arkhe": 0,
+    "BaseValue": {
+      "HpBase": 326.016,
+      "AttackBase": 100.48,
+      "DefenseBase": 500,
+      "FireSubHurt": 0.1,
+      "GrassSubHurt": 0.1,
+      "WaterSubHurt": 0.1,
+      "ElecSubHurt": 0.1,
+      "WindSubHurt": 0.1,
+      "IceSubHurt": 0.1,
+      "RockSubHurt": 0.1,
+      "PhysicalSubHurt": 0.1
+    },
+    "GrowCurves": [
+      {
+        "Type": 1,
+        "Value": 23
+      },
+      {
+        "Type": 4,
+        "Value": 24
+      },
+      {
+        "Type": 7,
+        "Value": 12
+      }
+    ]
   }
 ]
