@@ -5510,5 +5510,62 @@
       14402,
       15412
     ]
+  },
+  {
+    "Name": "한밤의 서리검",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/bb85fa6094999e2120973b8d5e9d7bf0_6766796511447117435_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/bb85fa6094999e2120973b8d5e9d7bf0_6766796511447117435_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000129
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "고대의 불꽃",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/8b723e104a391e9c0aeb4b839ebd44d3_6893630046947159113_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/8b723e104a391e9c0aeb4b839ebd44d3_6893630046947159113_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000106
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "신의 주조",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/a61f5042c9fc20bc33031782423ab226_487597787625386805_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/a61f5042c9fc20bc33031782423ab226_487597787625386805_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12514,
+      13517
+    ],
+    "UpPurpleList": [
+      11410,
+      12405,
+      13407,
+      14410,
+      15410
+    ]
   }
 ]

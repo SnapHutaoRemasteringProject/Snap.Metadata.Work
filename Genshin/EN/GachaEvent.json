@@ -5510,5 +5510,62 @@
       14402,
       15412
     ]
+  },
+  {
+    "Name": "Frostedge Nocturne",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/6e2332f7260870ec1f038fae01d15410_1758511445747219081_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/6e2332f7260870ec1f038fae01d15410_1758511445747219081_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000129
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "Ancient Flame Ablaze",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/6c9b148294759af9c6779fbb2e68d044_7427675332185019467_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/6c9b148294759af9c6779fbb2e68d044_7427675332185019467_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000106
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "Epitome Invocation",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/876b3ff0b41fd52f6e6d3cb5b5bfeab0_5206167858263106248_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/876b3ff0b41fd52f6e6d3cb5b5bfeab0_5206167858263106248_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12514,
+      13517
+    ],
+    "UpPurpleList": [
+      11410,
+      12405,
+      13407,
+      14410,
+      15410
+    ]
   }
 ]

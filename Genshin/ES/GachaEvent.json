@@ -5510,5 +5510,62 @@
       14402,
       15412
     ]
+  },
+  {
+    "Name": "el Lancero Punzante",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/01c504829bfb925309f4b1e982f448b3_4514937059991049144_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/01c504829bfb925309f4b1e982f448b3_4514937059991049144_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000129
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "la Calcinadora de la Noche",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/8e1033fd96ad900be4e2362120543ab9_8935919019552053474_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/8e1033fd96ad900be4e2362120543ab9_8935919019552053474_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000106
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "Encarnación divina",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/f805a6b0a72b5c2d450b7833206e83e5_9124589505812319828_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/f805a6b0a72b5c2d450b7833206e83e5_9124589505812319828_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12514,
+      13517
+    ],
+    "UpPurpleList": [
+      11410,
+      12405,
+      13407,
+      14410,
+      15410
+    ]
   }
 ]

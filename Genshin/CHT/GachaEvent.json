@@ -5510,5 +5510,62 @@
       14402,
       15412
     ]
+  },
+  {
+    "Name": "霜鋒夜白",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/542e3c364b5452db387e79be1aaa7026_2116493702050418925_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/542e3c364b5452db387e79be1aaa7026_2116493702050418925_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000129
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "宿古的赫炎",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/9577bea74af57ffffe2fd8c183d36b2e_6120290090195687845_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/9577bea74af57ffffe2fd8c183d36b2e_6120290090195687845_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000106
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/1aacf575db182ab28f944a4191563775_7067355832389205527_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/1aacf575db182ab28f944a4191563775_7067355832389205527_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12514,
+      13517
+    ],
+    "UpPurpleList": [
+      11410,
+      12405,
+      13407,
+      14410,
+      15410
+    ]
   }
 ]

@@ -5510,5 +5510,62 @@
       14402,
       15412
     ]
+  },
+  {
+    "Name": "คมเหมันต์ราตรีสกาว",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/96c7e87d33717e48d83506e9533f91ab_858083531467082815_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/96c7e87d33717e48d83506e9533f91ab_858083531467082815_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000129
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "เพลิงอดีตกาลสีชาด",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/251253918dd179dc2306d0512555f95f_2594304428546706547_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/251253918dd179dc2306d0512555f95f_2594304428546706547_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000106
+    ],
+    "UpPurpleList": [
+      10000023,
+      10000032,
+      10000080
+    ]
+  },
+  {
+    "Name": "สรรค์สร้างเซียน",
+    "Version": "6.6",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/e433c131e3a512e5602f9aa2f29bac75_8302260727593882095_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/26/e433c131e3a512e5602f9aa2f29bac75_8302260727593882095_transformed.jpg",
+    "From": "2026-06-05T18:00:00+08:00",
+    "To": "2026-06-30T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12514,
+      13517
+    ],
+    "UpPurpleList": [
+      11410,
+      12405,
+      13407,
+      14410,
+      15410
+    ]
   }
 ]
