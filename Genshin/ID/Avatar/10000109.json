@@ -448,6 +448,31 @@
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 10951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1095101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                2.5,
+                0.1,
+                5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1095101,
+        "Name": "Vast Be the Dream",
+        "Description": "Setelah Yumemizuki Mizuki memicu reaksi Swirl saat berada dalam status Dreamdrifter, <color=#80FFD7FF>Anemo DMG Area</color> selanjutnya yang diakibatkan terhadap musuh di sekitar secara berkala selama durasi Dreamdrifter kali ini akan meningkat sebesar 1.000% Elemental Mastery Yumemizuki Mizuki. Efek di atas dapat terpicu sekali setiap 2,5 detik.\nSelain itu, saat berada dalam status Dreamdrifter, Elemental Mastery Karakter party di sekitar meningkat sebesar 10% dari Elemental Mastery Yumemizuki Mizuki sendiri.",
+        "Icon": "UI_Talent_S_Mizuki_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 10939,
       "Proud": {

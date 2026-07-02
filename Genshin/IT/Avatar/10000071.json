@@ -479,6 +479,26 @@
         "Icon": "Skill_S_Cyno_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 7124,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 712401,
+              "Level": 1,
+              "Parameters": []
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 712401,
+        "Name": "Una stella con cui iniziare il viaggio",
+        "Description": "#Se Cyno scatena l'abilità elementale <color=#FFD780FF>Rito arcano: Guida delle anime del baratro</color> mentre non è nello stato di Precorritore giurato, entra nel suddetto stato per 6{NON_BREAK_SPACE}s.\nInoltre, quando si trova all'interno di un {LINK#N11330003}<color=#FFD780FF>Campo astropolare</color>{/LINK}, Cyno entra nello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>.",
+        "Icon": "UI_Talent_S_Cyno_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 7139,
       "Proud": {
@@ -832,7 +852,8 @@
               "Level": 1,
               "Parameters": [
                 0.35,
-                1
+                1,
+                2
               ]
             }
           ],
@@ -853,7 +874,8 @@
               "Level": 1,
               "Parameters": [
                 1.5,
-                2.5
+                2.5,
+                6
               ]
             }
           ],

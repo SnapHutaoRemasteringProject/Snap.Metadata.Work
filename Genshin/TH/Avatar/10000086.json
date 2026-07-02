@@ -539,6 +539,33 @@
         "Icon": "Skill_S_Wriothesley_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 8651,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 865101,
+              "Level": 1,
+              "Parameters": [
+                0.6,
+                0.3,
+                2,
+                0.3,
+                -0.4,
+                -0.2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 865101,
+        "Name": "There Shall Be an Unveiling for Injustice",
+        "Description": "<color=#FFD780FF>เจิดจรัส: นำไฟฟ้าดารา</color>: เอฟเฟกต์ของพรสวรรค์เพิ่มเติม \"There Shall Be a Plea for Justice\" จะเปลี่ยนเป็น:\nเมื่อพลังชีวิตของ Wriothesley ต่ำกว่า 60% จะได้รับ \"Gracious Rebuke: Unveiling\" ทำให้การชาร์จโจมตีของ<color=#FFD780FF>โจมตีปกติ - Forceful Fists of Frost</color> ในครั้งต่อไปได้รับการเสริมพลังเป็น Luster: Vaulting Fist : การโจมตีดังกล่าวจะไม่ใช้พลังกาย และหลังจากโดนเป้าหมาย จะฟื้นฟูพลังชีวิตให้กับ Wriothesley เท่ากับ 30% ของพลังชีวิตสูงสุดของ Wriothesley โดยจะฟื้นฟูพลังชีวิตให้กับ Wriothesley ด้วยวิธีนี้ได้มากสุดหนึ่งครั้งทุก 2 วินาที\nนอกจากนี้ การโจมตีครั้งที่ 3 และครั้งที่ 5 ของ Repelling Fist ที่ถูกเสริมพลังโดย <color=#FFD780FF>Chilling Penalty</color> จะสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> 60%/80% ของความเสียหายเดิมตามลำดับ และ Luster: Vaulting Fist จะสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color> 100% ของความเสียหายเดิม ความเสียหายดังกล่าวจะถูกนับเป็นความเสียหายปฏิกิริยานำไฟฟ้าดารา; Wriothesley จะสร้างความเสียหายปฏิกิริยานำไฟฟ้าดาราเพิ่มขึ้น 30%\nนอกจากนี้ เมื่ออยู่ใน{LINK#N11330003}<color=#FFD780FF>เขตแดนดาราฉาย</color>{/LINK} Wriothesley จะเข้าสู่สถานะ <color=#FFD780FF>เจิดจรัส: นำไฟฟ้าดารา</color>",
+        "Icon": "UI_Talent_S_Wriothesley_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 8639,
       "Proud": {

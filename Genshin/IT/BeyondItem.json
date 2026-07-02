@@ -1128,6 +1128,38 @@
     "RankLevel": 5
   },
   {
+    "Id": 250473,
+    "Name": "Super cuore!",
+    "Description": "Pollice in su gigante!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 3
+  },
+  {
+    "Id": 250474,
+    "Name": "È l'ora della granita!",
+    "Description": "Fresca e rinfrescante!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 4
+  },
+  {
+    "Id": 250475,
+    "Name": "Alla salute!",
+    "Description": "Goditi una bevanda rinfrescante!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
+    "Id": 250476,
+    "Name": "Cin cin!",
+    "Description": "Rinfrescati con una bevanda dissetante!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
     "Id": 251001,
     "Name": "Teatro fiabesco La ballata della strega",
     "Description": "Un tempo noto per la rappresentazione de \"La ballata della strega\", il teatro ora punta i suoi riflettori su una nuova generazione di ospiti.",
@@ -1192,6 +1224,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 251009,
+    "Name": "Isola solitaria Onde azzurre",
+    "Description": "La luce del sole qui non è fatta per illuminare qualcosa, ma per essere assaporata. Le onde qui non sono semplicemente blu, ma formano un mare di gemme liquide.",
+    "Icon": "UI_Beyd_HallThemeIcon_Xrht",
+    "Type": 10,
+    "RankLevel": 4
+  },
+  {
     "Id": 251201,
     "Name": "Teletrasporto generale",
     "Description": "Arriva e parti con eleganza...",
@@ -1244,6 +1284,14 @@
     "Name": "Scie di farfalle turbinanti",
     "Description": "Come una fragranza visibile...",
     "Icon": "UI_UGC_Transfer_BP_SuperRare_S0121",
+    "Type": 7,
+    "RankLevel": 4
+  },
+  {
+    "Id": 251208,
+    "Name": "Onde scintillanti",
+    "Description": "Fluttuando con la brezza e la schiuma del mare.",
+    "Icon": "UI_UGC_Transfer_BP_SuperRare_S0017",
     "Type": 7,
     "RankLevel": 4
   },
@@ -1536,6 +1584,38 @@
     "RankLevel": 4
   },
   {
+    "Id": 257037,
+    "Name": "Mantello delle prove: Tzitzimitl albergaspiriti",
+    "Description": "Un mantello con la capacità magica di replicare i completi. Dopo l'utilizzo, assume automaticamente l'aspetto del completo designato, replicandone alla perfezione anche ogni accessorio e dettaglio del trucco. Una volta riposto, assume una forma simile a quella di una carta, facilitandone il posizionamento e semplificando il riconoscimento del completo corrispondente.\nSe usato correttamente, è un articolo comodo per provare i completi.\nPuò essere utilizzato entro 14 giorni dall'ottenimento. Una volta usato, l'effetto di prova dura 1 giorno. Questo articolo scade al termine del Pass Miliastra attuale.\nÈ possibile indossare solo il set completo, non i singoli componenti.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257038,
+    "Name": "Mantello delle prove: Tzitzimitl albergaspiriti",
+    "Description": "Un mantello con la capacità magica di replicare i completi. Dopo l'utilizzo, assume automaticamente l'aspetto del completo designato, replicandone alla perfezione anche ogni accessorio e dettaglio del trucco. Una volta riposto, assume una forma simile a quella di una carta, facilitandone il posizionamento e semplificando il riconoscimento del completo corrispondente.\nSe usato correttamente, è un articolo comodo per provare i completi.\nPuò essere utilizzato entro 14 giorni dall'ottenimento. Una volta usato, l'effetto di prova dura 1 giorno. Questo articolo scade al termine del Pass Miliastra attuale.\nÈ possibile indossare solo il set completo, non i singoli componenti.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257039,
+    "Name": "Mantello delle prove: Fresco rinvigorente",
+    "Description": "Un mantello con la capacità magica di replicare i completi. Dopo l'utilizzo, assume automaticamente l'aspetto del completo designato, replicandone alla perfezione anche ogni accessorio e dettaglio del trucco. Una volta riposto, assume una forma simile a quella di una carta, facilitandone il posizionamento e semplificando il riconoscimento del completo corrispondente.\nSe usato correttamente, è un articolo comodo per provare i completi.\nPuò essere utilizzato entro 14 giorni dall'ottenimento. Una volta usato, l'effetto di prova dura 1 giorno. Questo articolo scade al termine del Pass Miliastra attuale.\nÈ possibile indossare solo il set completo, non i singoli componenti.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257040,
+    "Name": "Mantello delle prove: Fresco rinvigorente",
+    "Description": "Un mantello con la capacità magica di replicare i completi. Dopo l'utilizzo, assume automaticamente l'aspetto del completo designato, replicandone alla perfezione anche ogni accessorio e dettaglio del trucco. Una volta riposto, assume una forma simile a quella di una carta, facilitandone il posizionamento e semplificando il riconoscimento del completo corrispondente.\nSe usato correttamente, è un articolo comodo per provare i completi.\nPuò essere utilizzato entro 14 giorni dall'ottenimento. Una volta usato, l'effetto di prova dura 1 giorno. Questo articolo scade al termine del Pass Miliastra attuale.\nÈ possibile indossare solo il set completo, non i singoli componenti.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
     "Id": 258001,
     "Name": "Bundle completo: Grazia in movimento",
     "Description": "Questo pacchetto include due set completi Grazia in movimento, uno da Manekino e uno da Manekina.\nRispetto ad acquistarli individualmente, comprarli insieme fornisce al secondo set uno sconto del 50%.",
@@ -1652,6 +1732,38 @@
     "Name": "Bundle completo: Corsa verdeggiante",
     "Description": "Questo pacchetto include due set completi Corsa verdeggiante, uno da Manekino e uno da Manekina.\nRispetto ad acquistarli individualmente, comprarli insieme fornisce al secondo set un 50% di sconto.",
     "Icon": "UI_Beyd_Avatar_Optional_Suit_S0175",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258016,
+    "Name": "Bundle completo: \"Artista degli schizzi\"",
+    "Description": "Questo pacchetto include due set completi Artista degli schizzi, uno da Manekino e uno da Manekina.\nRispetto ad acquistarli individualmente, comprarli insieme fornisce al secondo set un 50% di sconto.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0132",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258017,
+    "Name": "Bundle completo: \"Tzitzimitl albergaspiriti\"",
+    "Description": "Questo pacchetto include due set completi Tzitzimitl albergaspiriti, uno da Manekino e uno da Manekina.\nRispetto ad acquistarli individualmente, comprarli insieme fornisce al secondo set un 50% di sconto.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0190",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258018,
+    "Name": "Bundle completo: \"Ricetta dolce\"",
+    "Description": "Questo pacchetto include due set completi Ricetta dolce, uno da Manekino e uno da Manekina.\nRispetto ad acquistarli individualmente, comprarli insieme fornisce al secondo set uno sconto del 50%.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0174",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258019,
+    "Name": "Bundle completo: \"Squalo fannullone\"",
+    "Description": "Questo pacchetto include due set completi Squalo fannullone, uno da Manekino e uno da Manekina.\nRispetto ad acquistarli individualmente, comprarli insieme fornisce al secondo set un 50% di sconto.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0054",
     "Type": 16,
     "RankLevel": 3
   },
@@ -1897,6 +2009,46 @@
   },
   {
     "Id": 258531,
+    "Name": "Mantello delle prove casuale: completo da Manekino",
+    "Description": "Un mantello con la capacità magica di replicare i completi. Dopo l'utilizzo, assume automaticamente l'aspetto di un completo da Manekino casuale, replicandone alla perfezione anche ogni accessorio e dettaglio del trucco.\nSe usato correttamente, è un articolo comodo per provare i completi.\nPuò essere utilizzato entro 14 giorni dall'ottenimento. Una volta usato, l'effetto di prova dura 1 giorno. Questo articolo scade al termine del Pass Miliastra attuale.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258532,
+    "Name": "Deposito delle Cronache: Eccezionale",
+    "Description": "Un pacchetto regalo contenente completi di prima qualità. Puoi usarlo per selezionare uno dei completi al suo interno.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0146",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258533,
+    "Name": "Deposito delle Cronache: Eccezionale",
+    "Description": "Un pacchetto regalo contenente completi di prima qualità. Puoi usarlo per selezionare uno dei completi al suo interno.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0147",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258534,
+    "Name": "Deposito delle Cronache: Superiore",
+    "Description": "Un pacchetto regalo contenente completi di prima qualità. Puoi usarlo per selezionare uno dei completi al suo interno.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0191",
+    "Type": 14,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258535,
+    "Name": "Mantello delle prove casuale: completo da Manekina",
+    "Description": "Un mantello con la capacità magica di replicare i completi. Dopo l'utilizzo, assume automaticamente l'aspetto di un completo da Manekina casuale, replicandone alla perfezione anche ogni accessorio e dettaglio del trucco.\nSe usato correttamente, è un articolo comodo per provare i completi.\nPuò essere utilizzato entro 14 giorni dall'ottenimento. Una volta usato, l'effetto di prova dura 1 giorno. Questo articolo scade al termine del Pass Miliastra attuale.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258536,
     "Name": "Mantello delle prove casuale: completo da Manekino",
     "Description": "Un mantello con la capacità magica di replicare i completi. Dopo l'utilizzo, assume automaticamente l'aspetto di un completo da Manekino casuale, replicandone alla perfezione anche ogni accessorio e dettaglio del trucco.\nSe usato correttamente, è un articolo comodo per provare i completi.\nPuò essere utilizzato entro 14 giorni dall'ottenimento. Una volta usato, l'effetto di prova dura 1 giorno. Questo articolo scade al termine del Pass Miliastra attuale.",
     "Icon": "UI_ItemIcon_BydBox_4",
@@ -4825,7 +4977,7 @@
   },
   {
     "Id": 263233,
-    "Name": "Iride generale: occhi dorati nocciola",
+    "Name": "Iride generale: occhi ambrati",
     "Description": "Lenti a contatto colorate. La particolare sfumatura dorata addolcisce l'espressione e fa sì che la persona risulti più affabile.",
     "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0150",
     "Type": 1,
@@ -6864,6 +7016,174 @@
     "RankLevel": 4
   },
   {
+    "Id": 264267,
+    "Name": "Aspetto generale: Dottor Zampillo",
+    "Description": "Un copricapo pieno di meraviglia e fantasia. Indossalo e la tua testa si trasformerà in un piedistallo per una piccola balena appena emersa dall'acqua per respirare. Chissà, potresti avere un improvviso \"zampillo\" di ispirazione mentre sei in giro con questo piccolo compagno adorabile!",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_P0450",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262673,
+    "Name": "Sopracciglia generali: Salice al vento rosa chiaro",
+    "Description": "Sopracciglia rosa chiaro che ricordano i rami di un salice piangente. Le linee naturali e delicate conferiscono un tocco morbido.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0039",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262674,
+    "Name": "Sopracciglia generali: Salice al vento viola chiaro",
+    "Description": "Sopracciglia viola chiaro che ricordano i rami di un salice piangente. Le linee naturali e delicate conferiscono un tocco morbido.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0040",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262675,
+    "Name": "Sopracciglia generali: Verso il cielo rosa chiaro",
+    "Description": "Sopracciglia rosa chiaro che ricordano i germogli di bambù appena emersi dal terreno. Le linee forti e potenti aggiungono un tocco di energia.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0041",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262676,
+    "Name": "Sopracciglia generali: Verso il cielo viola chiaro",
+    "Description": "Sopracciglia viola chiaro che ricordano i germogli di bambù appena emersi dal terreno. Le linee forti e potenti aggiungono un tocco di energia.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0042",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262677,
+    "Name": "Sopracciglia generali: Rupe sublime",
+    "Description": "Sopracciglia tagliate che donano un look deciso e risoluto, pervase da un fascino che nasce dalla forza.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0280",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262678,
+    "Name": "Sopracciglia generali: Nebbia alla deriva",
+    "Description": "Sopracciglia dall'arco delicato ed elegante che conferiscono un fascino fresco e discreto.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0281",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262999,
+    "Name": "Forma degli occhi da Manekina: Fendente dell'alba",
+    "Description": "Una forma degli occhi da Manekina, riservata ma astuta come una lama che trafigge l'alba nell'oscurità.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0054",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263000,
+    "Name": "Forma degli occhi da Manekina: Cieli di sole",
+    "Description": "Una forma degli occhi da Manekina, radiosa e vivace come il sole brillante in un cielo sereno.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0056",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263001,
+    "Name": "Forma degli occhi da Manekino: Foresta di fiori brinati",
+    "Description": "Una forma degli occhi da Manekino, solitaria e riservata come i boschi orgogliosi nelle notti d'inverno.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0268",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263002,
+    "Name": "Forma degli occhi da Manekino: Bagliore rosato",
+    "Description": "Una forma degli occhi da Manekino, aggraziata e radiosa come l'alba.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0271",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263014,
+    "Name": "Forma degli occhi da Manekino: Bagliore dorato",
+    "Description": "Una forma degli occhi da Manekino, piena di fiducia e vitalità. Le linee e i colori evocano l'immagine della luce che danza sulle onde a mezzogiorno.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263015,
+    "Name": "Forma degli occhi da Manekina: Bagliore dorato",
+    "Description": "Una forma degli occhi da Manekina, piena di fiducia e vitalità. Le linee e i colori evocano l'immagine della luce che danza sulle onde a mezzogiorno.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263016,
+    "Name": "Forma degli occhi da Manekino: Bagliore dorato Crepuscolo",
+    "Description": "Una forma degli occhi da Manekino, piena di raffinatezza e grazia. Le linee e i colori evocano l'immagine della luce che danza sulle onde color ametista al tramonto.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263017,
+    "Name": "Forma degli occhi da Manekina: Bagliore dorato Crepuscolo",
+    "Description": "Una forma degli occhi da Manekina, piena di raffinatezza e grazia. Le linee e i colori evocano l'immagine della luce che danza sulle onde color ametista al tramonto.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263298,
+    "Name": "Iride generale: Conchiglie ingioiellate arancione brillante",
+    "Description": "Lenti a contatto colorate che ricordano un paio di conchiglie inondate dalla luce del mattino.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0064",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263263,
+    "Name": "Iride generale: Conchiglie ingioiellate rosa chiaro",
+    "Description": "Lenti a contatto colorate che ricordano un paio di conchiglie inondate dalla luce rosa del tramonto.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0067",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263305,
+    "Name": "Iride generale: Colori del mare Onde di giada",
+    "Description": "Lenti a contatto colorate, serene e profonde come il mare. Tieni a bada la luce abbagliante con queste lenti mentre ti godi la pura felicità della tua vacanza.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0466",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263307,
+    "Name": "Iride generale: Colori del mare Rivalità viola",
+    "Description": "Lenti a contatto colorate, serene e profonde come il mare. Tieni a bada la luce abbagliante con queste lenti mentre ti godi la pura felicità della tua vacanza.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0467",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263932,
+    "Name": "Trucco viso generale: Macchie di leopardo",
+    "Description": "Uno stile di trucco luminoso che ricrea perfettamente l'abbronzatura screziata che si ottiene dopo una giornata sotto il sole cocente. Un look sontuoso e di grande impatto, proprio come le macchie di un leopardo.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0482",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263947,
+    "Name": "Trucco viso generale: Rossore delicato - Fiori caduchi",
+    "Description": "Uno stile di trucco che si applica sulle palpebre inferiori per \"aprire\" visivamente gli occhi e donare un fascino ancora più attraente e vivace.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0493",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
     "Id": 265001,
     "Name": "Completo da Manekina: Parata",
     "Description": "Il set Parata. Quando le campane suonano a festa, indossa questo look stravagante e diventa la stella più brillante della parata. Con lanterne per guidare il cammino e zucche come compagne, goditi appieno questa notte di gioia e allegria.",
@@ -8284,6 +8604,214 @@
     "Name": "Completo da Manekino - Sfarzo di farfalle: nebbia indaco",
     "Description": "La versione migliorata del set Sfarzo di farfalle. Avvolta in sfumature indaco fluttuanti come un velo di nebbia, si muove al ritmo del linguaggio dei fiori, divenendo un tutt'uno con la volontà della natura e proseguendo l'eterna melodia del canto della vita.\nMentre i due studiosi danzavano con passi sinceri, la \"Cerimonia dei sussurri dei fiori\" raggiunse un momento cruciale. Il mare floreale centrale sembrò rispondere a un richiamo misterioso, mentre strati su strati di tenue luce si levavano come onde. Poi, avvolte in una foschia simile a polvere di gemme, le figure di un ragazzo e una ragazza emersero lentamente. Indossavano abiti formali dello stesso stile degli studiosi, e i loro volti erano identici a quelli degli studiosi in gioventù, come se il tempo stesso fosse tornato indietro... Le tonalità indaco dei loro abiti rivelavano la loro identità: incarnazioni della volontà del pianeta. Dolcemente, accolsero i due studiosi e li condussero nelle profondità del mare floreale, dove svanirono gradualmente dalla vista...\nSolo allora divenne chiaro che il pianeta aveva testimoniato gli sforzi della sua gente nel corso dei secoli. Alla fine aveva scelto le sembianze dei due studiosi per plasmare i suoi \"Emissari\" e comunicare con l'umanità.\nQuando Octavia si congedò, la storia dei due studiosi e degli Emissari era già diventata un racconto amato, conosciuto in ogni casa. Il pianeta continuò il proprio corso, sviluppandosi in modo sano e prospero, pronto a resistere a una calamità virulenta...",
     "Icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265338,
+    "Name": "Completo da Manekina: Grampasso delle lande",
+    "Description": "Il set Grampasso delle lande. Snello e aderente, questo completo è realizzato con materiali ultra-resistenti e durevoli. Con questo completo al tuo fianco, anche le spedizioni più estreme nel mezzo della natura sembreranno una passeggiata.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265339,
+    "Name": "Completo da Manekino: Grampasso delle lande",
+    "Description": "Il set Grampasso delle lande. Snello e aderente, questo completo è realizzato con materiali ultra-resistenti e durevoli. Con questo completo al tuo fianco, anche le spedizioni più estreme nel mezzo della natura sembreranno una passeggiata.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265419,
+    "Name": "Completo da Manekina: Ricetta dolce",
+    "Description": "Il set Ricetta dolce. Si tratta di un completo da chef davvero unico, che incorpora ingegnosamente il piatto più iconico della cucina nel cappello da chef. Lascia a ogni commensale una prima impressione dolce come miele colato.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265420,
+    "Name": "Completo da Manekino: Ricetta dolce",
+    "Description": "Il set Ricetta dolce. Si tratta di un completo da chef davvero unico, che incorpora ingegnosamente il piatto più iconico della cucina nel cappello da chef. Lascia a ogni commensale una prima impressione dolce come miele colato.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265340,
+    "Name": "Completo da Manekina: Viandante del Mare crepuscolare",
+    "Description": "Il set Viandante del Mare crepuscolare. Realizzato con tinte che catturano le sfumature del mare al tramonto, questo completo è pervaso da un bagliore profondo e affascinante. Indossandolo, affronterai senza timore le maree più tempestose.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265341,
+    "Name": "Completo da Manekino: Viandante del Mare crepuscolare",
+    "Description": "Il set Viandante del Mare crepuscolare. Realizzato con tinte che catturano le sfumature del mare al tramonto, questo completo è pervaso da un bagliore profondo e affascinante. Indossandolo, affronterai senza timore le maree più tempestose.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265342,
+    "Name": "Completo da Manekina: Squalo fannullone",
+    "Description": "Il set Squalo fannullone. Ispirato a un certo squalo docile dal nuoto lento, questo costume ne cattura perfettamente l'atmosfera straordinariamente rilassata. Si dice che su alcuni pianeti con ecosistemi marini rigogliosi, questi giganti dall'aspetto feroce siano incredibilmente popolari tra gli abitanti, essendo così tanto alla mano.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265343,
+    "Name": "Completo da Manekino: Squalo fannullone",
+    "Description": "Il set Squalo fannullone. Ispirato a un certo squalo docile dal nuoto lento, questo costume ne cattura perfettamente l'atmosfera straordinariamente rilassata. Si dice che su alcuni pianeti con ecosistemi marini rigogliosi, questi giganti dall'aspetto feroce siano incredibilmente popolari tra gli abitanti, essendo così tanto alla mano.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265320,
+    "Name": "Completo da Manekina: Brezza propizia",
+    "Description": "Il set Brezza propizia. Con il verde foglia fresco come tonalità predominante, questo completo da esterno è realizzato in un materiale morbido e confortevole sulla pelle. Impreziosito da motivi a trifoglio, ti fa sentire come se una leggera brezza propizia fosse sempre al tuo fianco.\n\nNon tutti i \"Sussurratori dei fiori\" del 311º pianeta aderiscono al metodo di coltivazione noto come \"Giardini eterni\", una pratica concepita per mantenere le piante perpetuamente al loro picco di crescita ottimale. Questi tranquilli ribelli credono fermamente che la volontà del pianeta non possa essere calcolata né riprodotta in serie in una serra. Al contrario, la brezza propizia dell'abbondanza può nascere solo spontaneamente negli angoli dimenticati della natura. Per andare in cerca di questo dono della natura, hanno adattato il loro abbigliamento a uno stile funzionale da esterno, pensato per lunghi viaggi. Le piante che coltivano ora non sono i fiori vistosi che si contendono i riflettori, bensì le erbe basse che si trovano ovunque, e che crescono nell'infinito ciclo della vita. In segno di riconoscimento e rispetto per questa filosofia, Octavia ha fedelmente ricreato il loro abbigliamento in questo design...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265321,
+    "Name": "Completo da Manekino: Brezza propizia",
+    "Description": "Il set Brezza propizia. Con il verde foglia fresco come tonalità predominante, questo completo da esterno è realizzato in un materiale morbido e confortevole sulla pelle. Impreziosito da motivi a trifoglio, ti fa sentire come se una leggera brezza propizia fosse sempre al tuo fianco.\n\nNon tutti i \"Sussurratori dei fiori\" del 311º pianeta aderiscono al metodo di coltivazione noto come \"Giardini eterni\", una pratica concepita per mantenere le piante perpetuamente al loro picco di crescita ottimale. Questi tranquilli ribelli credono fermamente che la volontà del pianeta non possa essere calcolata né riprodotta in serie in una serra. Al contrario, la brezza propizia dell'abbondanza può nascere solo spontaneamente negli angoli dimenticati della natura. Per andare in cerca di questo dono della natura, hanno adattato il loro abbigliamento a uno stile funzionale da esterno, pensato per lunghi viaggi. Le piante che coltivano ora non sono i fiori vistosi che si contendono i riflettori, bensì le erbe basse che si trovano ovunque, e che crescono nell'infinito ciclo della vita. In segno di riconoscimento e rispetto per questa filosofia, Octavia ha fedelmente ricreato il loro abbigliamento in questo design...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265344,
+    "Name": "Completo da Manekina: Dolci sogni d'estate",
+    "Description": "Il set Dolci sogni d'estate. Un completo estivo formale e leggero, pervaso da un'aura di silenziosa contemplazione. Con un design tranquillo e casual intrecciato armoniosamente con misteriose sfumature di viola, cattura magnificamente la magia incantevole e unica del sogno di una notte di mezza estate.\n\nQuando la luce delle stelle incontra quella della luna in una notte di mezza estate sul 311º pianeta, i \"Sussurratori dei fiori\" si riuniscono nel cuore della natura selvaggia per il \"Banchetto delle lucciole\". In questa distesa libera da qualsivoglia muro, questa celebrazione accoglie solo l'ondeggiare delle erbe, il danzare delle lucciole e il mormorio dei ruscelli. Per i Sussurratori dei fiori, la vera abbondanza è uno splendore che fiorisce soltanto al ritmo della natura indomita, proprio come l'orlo di un abito che si dispiega strato dopo strato a ogni piroetta, o come un fiore che respira dolcemente sotto il chiaro di luna. Per immortalare questa celebrazione destinata solo alle anime selvagge, Octavia ha catturato il crepuscolo e la rugiada del mattino, intrecciandoli direttamente nelle pieghe della stoffa. La sfumatura a cascata dal viola al bianco dell'abito evoca il cielo serale mentre cala dolcemente l'oscurità, decorata con motivi intricati che sembrano increspature create dal vento di mezzanotte su aiuole fiorite. Indossandolo, da semplice osservatore diventerai la star della sala da ballo. Abbracciato da una brezza leggera e da un profumo inebriante, danzerai al fianco delle stelle, immergendoti in un'eterea fantasticheria nata dalla pura libertà e dall'immaginazione.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265345,
+    "Name": "Completo da Manekino: Dolci sogni d'estate",
+    "Description": "Il set Dolci sogni d'estate. Un completo estivo formale e leggero, pervaso da un'aura di silenziosa contemplazione. Con un design tranquillo e casual intrecciato armoniosamente con misteriose sfumature di viola, cattura magnificamente la magia incantevole e unica del sogno di una notte di mezza estate.\n\nQuando la luce delle stelle incontra quella della luna in una notte di mezza estate sul 311º pianeta, i \"Sussurratori dei fiori\" si riuniscono nel cuore della natura selvaggia per il \"Banchetto delle lucciole\". In questa distesa libera da qualsivoglia muro, questa celebrazione accoglie solo l'ondeggiare delle erbe, il danzare delle lucciole e il mormorio dei ruscelli. Per i Sussurratori dei fiori, la vera abbondanza è uno splendore che fiorisce soltanto al ritmo della natura indomita, proprio come l'orlo di un abito che si dispiega strato dopo strato a ogni piroetta, o come un fiore che respira dolcemente sotto il chiaro di luna. Per immortalare questa celebrazione destinata solo alle anime selvagge, Octavia ha catturato il crepuscolo e la rugiada del mattino, intrecciandoli direttamente nelle pieghe della stoffa. La sfumatura a cascata dal viola al bianco dell'abito evoca il cielo serale mentre cala dolcemente l'oscurità, decorata con motivi intricati che sembrano increspature create dal vento di mezzanotte su aiuole fiorite. Indossandolo, da semplice osservatore diventerai la star della sala da ballo. Abbracciato da una brezza leggera e da un profumo inebriante, danzerai al fianco delle stelle, immergendoti in un'eterea fantasticheria nata dalla pura libertà e dall'immaginazione.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265437,
+    "Name": "Completo da Manekina: Fresco rinvigorente",
+    "Description": "Il set Fresco rinvigorente. Un completo estivo fresco e pulito, in una vivace tonalità azzurra che regala una sensazione rinfrescante come un dolce boccone di granita. Indossalo e all'istante ti farà sentire più fresco.\n\nQuando si parla della minaccia più grande di una vacanza estiva al mare, persino Octavia, la strega capace di solcare le stelle, darebbe la stessa identica risposta di qualsiasi comune mortale: il caldo soffocante. Ecco perché gli abitanti del \"Mondo dell'Oceano\" (il 503º pianeta), perennemente flagellati da un'afa brutale, hanno fatto dei dolci ghiacciati la loro priorità assoluta. Ogni mezz'estate, organizzano uno sfrenato \"Festival delle bevande ghiacciate\", radunando i migliori maestri del gelato e dei dessert freddi dell'universo per sfidarsi in un grandioso torneo per il trono del Re dell'Estate. Il campione riceve il premio supremo: una maestosa corona ornata di un fresco budino gelato. Da viaggiatrice di passaggio in quei luoghi e anch'essa amante dei festeggiamenti, Octavia presentò al vincitore del tempo un dono in perfetto stile da strega: una piccola scintilla di magia del freddo. Quella magia trasformò la corona in una vera granita che non si scioglie mai, capace di assorbire continuamente il calore circostante, regalando a tutti quelli nelle vicinanze una frescura profondamente ristoratrice.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265438,
+    "Name": "Completo da Manekino: Fresco rinvigorente",
+    "Description": "Il set Fresco rinvigorente. Un completo estivo fresco e pulito, in una vivace tonalità azzurra che regala una sensazione rinfrescante come un dolce boccone di granita. Indossalo e all'istante ti farà sentire più fresco.\n\nQuando si parla della minaccia più grande di una vacanza estiva al mare, persino Octavia, la strega capace di solcare le stelle, darebbe la stessa identica risposta di qualsiasi comune mortale: il caldo soffocante. Ecco perché gli abitanti del \"Mondo dell'Oceano\" (il 503º pianeta), perennemente flagellati da un'afa brutale, hanno fatto dei dolci ghiacciati la loro priorità assoluta. Ogni mezz'estate, organizzano uno sfrenato \"Festival delle bevande ghiacciate\", radunando i migliori maestri del gelato e dei dessert freddi dell'universo per sfidarsi in un grandioso torneo per il trono del Re dell'Estate. Il campione riceve il premio supremo: una maestosa corona ornata di un fresco budino gelato. Da viaggiatrice di passaggio in quei luoghi e anch'essa amante dei festeggiamenti, Octavia presentò al vincitore del tempo un dono in perfetto stile da strega: una piccola scintilla di magia del freddo. Quella magia trasformò la corona in una vera granita che non si scioglie mai, capace di assorbire continuamente il calore circostante, regalando a tutti quelli nelle vicinanze una frescura profondamente ristoratrice.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265348,
+    "Name": "Completo da Manekina: Effervescenza estiva",
+    "Description": "Il set Effervescenza estiva. Un completo da vacanza al mare che sprigiona un'energia fresca e vivace. Realizzato con una stoffa leggera e traspirante, i suoi colori vivaci e accattivanti ricordano un sorso corroborante di acqua tonica ghiacciata al limone. Indossalo e potrai facilmente combattere il caldo di mezz'estate prima di lanciarti tra il sole e le onde per divertirti ancora di più!\n\nNel perennemente torrido \"Mondo dell'Oceano\" (il 503º pianeta), Octavia non era l'unica novità sulla spiaggia: aveva portato con sé un frutto giallo, ovale e acidulo noto come limone. A dire il vero, Octavia non era affatto un'amante dei limoni e li trovava in realtà un po' sgradevoli. Ciononostante, seppur a malincuore, ne portò alcuni con sé nel suo lungo viaggio, come mezzo per scongiurare possibili malattie.\nUna volta arrivata sul pianeta, dopo un arduo viaggio su altri cinquecento pianeti, era passato talmente tanto tempo che Octavia aveva completamente dimenticato i limoni nella borsa. Ma quando cercò di ordinare la bevanda \"Effervescenza estiva\" in un locale del pianeta, scoprì che gli abitanti del posto non avevano la minima idea di cosa fosse un limone, dato che il frutto cresce solo in climi temperati. In quel momento, il ricordo dimenticato le tornò in mente all'improvviso. A quanto pareva, una bevanda fresca era il rimedio perfetto contro il caldo feroce. Tra le suppliche degli abitanti del pianeta, Octavia donò generosamente tutti i suoi limoni affinché potessero piantarli e coltivarli. Ma poiché non aveva alcun interesse nel recitare la parte di una divinità, rifiutò con fermezza il pomposo titolo di \"Regina dei limoni\" che volevano conferirle. Si tenne solo questo fresco completo, donatole dagli abitanti, come dolce ricordo di questo incontro extraplanetario.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265349,
+    "Name": "Completo da Manekino: Effervescenza estiva",
+    "Description": "Il set Effervescenza estiva. Un completo da vacanza al mare che sprigiona un'energia fresca e vivace. Realizzato con una stoffa leggera e traspirante, i suoi colori vivaci e accattivanti ricordano un sorso corroborante di acqua tonica ghiacciata al limone. Indossalo e potrai facilmente combattere il caldo di mezz'estate prima di lanciarti tra il sole e le onde per divertirti ancora di più!\n\nNel perennemente torrido \"Mondo dell'Oceano\" (il 503º pianeta), Octavia non era l'unica novità sulla spiaggia: aveva portato con sé un frutto giallo, ovale e acidulo noto come limone. A dire il vero, Octavia non era affatto un'amante dei limoni e li trovava in realtà un po' sgradevoli. Ciononostante, seppur a malincuore, ne portò alcuni con sé nel suo lungo viaggio, come mezzo per scongiurare possibili malattie.\nUna volta arrivata sul pianeta, dopo un arduo viaggio su altri cinquecento pianeti, era passato talmente tanto tempo che Octavia aveva completamente dimenticato i limoni nella borsa. Ma quando cercò di ordinare la bevanda \"Effervescenza estiva\" in un locale del pianeta, scoprì che gli abitanti del posto non avevano la minima idea di cosa fosse un limone, dato che il frutto cresce solo in climi temperati. In quel momento, il ricordo dimenticato le tornò in mente all'improvviso. A quanto pareva, una bevanda fresca era il rimedio perfetto contro il caldo feroce. Tra le suppliche degli abitanti del pianeta, Octavia donò generosamente tutti i suoi limoni affinché potessero piantarli e coltivarli. Ma poiché non aveva alcun interesse nel recitare la parte di una divinità, rifiutò con fermezza il pomposo titolo di \"Regina dei limoni\" che volevano conferirle. Si tenne solo questo fresco completo, donatole dagli abitanti, come dolce ricordo di questo incontro extraplanetario.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265350,
+    "Name": "Completo da Manekina: Zanna suprema",
+    "Description": "Il set Zanna suprema. Un completo sportivo all'insegna di una passione ardente. Indossalo e diventerai una figura di suprema autorità, animata dalla forza bruta delle zanne e degli artigli che dominano questo regno. Prendi questo potere indomabile e abbatti ogni ostacolo che ti si para davanti!\n\nMolto, molto tempo fa, ben prima che Octavia mettesse piede sul lontano 67º pianeta, esso era stato un tempo la dimora di una razza di draghi. Tuttavia, questi bestioni colossali non acquisirono mai la grande intelligenza e le ambizioni dei loro simili a Teyvat, e quando alla fine perirono nella polvere del tempo, non lasciarono dietro di sé altro che fossili monumentali. Soverchiando qualsiasi creatura vivente conosciuta per dimensioni e ferocia, questi fossili accesero un'infinita fascinazione per un mondo primitivo di vita selvaggia e brutali spargimenti di sangue, dando origine a un intero genere di prodotti artistici avvincenti incentrati su queste bestie colossali. Oggi, la presenza autorevole di quegli antichi dominatori è stata reinterpretata dagli artisti come un'icona dello stile moderno, che continua a parlare in silenzio del loro spirito feroce e indomabile.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265351,
+    "Name": "Completo da Manekino: Zanna suprema",
+    "Description": "Il set Zanna suprema. Un completo sportivo all'insegna di una passione ardente. Indossalo e diventerai una figura di suprema autorità, animata dalla forza bruta delle zanne e degli artigli che dominano questo regno. Prendi questo potere indomabile e abbatti ogni ostacolo che ti si para davanti!\n\nMolto, molto tempo fa, ben prima che Octavia mettesse piede sul lontano 67º pianeta, esso era stato un tempo la dimora di una razza di draghi. Tuttavia, questi bestioni colossali non acquisirono mai la grande intelligenza e le ambizioni dei loro simili a Teyvat, e quando alla fine perirono nella polvere del tempo, non lasciarono dietro di sé altro che fossili monumentali. Soverchiando qualsiasi creatura vivente conosciuta per dimensioni e ferocia, questi fossili accesero un'infinita fascinazione per un mondo primitivo di vita selvaggia e brutali spargimenti di sangue, dando origine a un intero genere di prodotti artistici avvincenti incentrati su queste bestie colossali. Oggi, la presenza autorevole di quegli antichi dominatori è stata reinterpretata dagli artisti come un'icona dello stile moderno, che continua a parlare in silenzio del loro spirito feroce e indomabile.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265415,
+    "Name": "Completo da Manekina: Tzitzimitl albergaspiriti",
+    "Description": "Il set Tzitzimitl albergaspiriti. Sul 777º pianeta, dove la magia è la linfa vitale dell'esistenza stessa, solo pochissimi maghi possiedono il potere di sigillare frammenti di stelle e manipolare la polvere cosmica. Quest'arte antica richiede non solo un talento straordinario, ma anche una vita intera dedicata all'accumulo di conoscenze. I pericoli che ne derivano sono altrettanto immensi, e un solo passo falso può provocare un catastrofico contraccolpo. Pertanto, la maestria è un privilegio detenuto quasi esclusivamente da venerabili studiosi con secoli dedicati all'arcano.\nMentre Paimon sfogliava il registro del 777º pianeta, non riuscì a trattenere un sospiro meravigliato. \"Secoli... e quegli studiosi riescono ancora a malapena ad avvicinarsi a Citlali?\nAnche se, a dire il vero, visto che Citlalin e Itzpapa stanno aiutando Nonna Itztli, quegli studiosi non riuscirebbero mai a starle al passo!\"\nCome se stesse rispondendo alle parole di Paimon, il Mirabilia reagì. I due completi originariamente semplici cominciarono a trasformarsi, acquisendo gradualmente le caratteristiche distintive di Citlalin e Itzpapa dai ricordi di Paimon...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265416,
+    "Name": "Completo da Manekino: Tzitzimitl albergaspiriti",
+    "Description": "Il set Tzitzimitl albergaspiriti. Sul 777º pianeta, dove la magia è la linfa vitale dell'esistenza stessa, solo pochissimi maghi possiedono il potere di sigillare frammenti di stelle e manipolare la polvere cosmica. Quest'arte antica richiede non solo un talento straordinario, ma anche una vita intera dedicata all'accumulo di conoscenze. I pericoli che ne derivano sono altrettanto immensi, e un solo passo falso può provocare un catastrofico contraccolpo. Pertanto, la maestria è un privilegio detenuto quasi esclusivamente da venerabili studiosi con secoli dedicati all'arcano.\nMentre Paimon sfogliava il registro del 777º pianeta, non riuscì a trattenere un sospiro meravigliato. \"Secoli... e quegli studiosi riescono ancora a malapena ad avvicinarsi a Citlali?\nAnche se, a dire il vero, visto che Citlalin e Itzpapa stanno aiutando Nonna Itztli, quegli studiosi non riuscirebbero mai a starle al passo!\"\nCome se stesse rispondendo alle parole di Paimon, il Mirabilia reagì. I due completi originariamente semplici cominciarono a trasformarsi, acquisendo gradualmente le caratteristiche distintive di Citlalin e Itzpapa dai ricordi di Paimon...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265356,
+    "Name": "Completo da Manekina: Lampo della savana",
+    "Description": "Il set Lampo della savana. Un completo casual che emana l'energia grezza e selvaggia della natura indomita. Il design complessivo si ispira ai felini agili e sinuosi che sfrecciano attraverso la savana. Irradiando un senso di spensieratezza e una selvatichezza tutta sua, questo look infonde una sicurezza audace e splendente in chiunque lo indossi.\n\nGodere di un'evoluzione pacifica e naturale in un universo brulicante di pericoli è pura fortuna, specialmente per un mondo primitivo come il 206º pianeta, del tutto ignaro del vasto cosmo che lo circonda. In quanto prima visitatrice in assoluto dallo spazio, Octavia non poté fare a meno di preoccuparsi per l'incolumità del pianeta. Dopo lunga riflessione, si rivolse al vicino \"Pianeta dell'Accademia\" (93º pianeta), affidando a questo mondo neutrale il ruolo di silenzioso guardiano e osservatore del regno primitivo, vegliando da lontano mentre la giovane civiltà cresceva. Tuttavia, con sua enorme sorpresa, molto prima che la società avanzata del 93º pianeta potesse lasciare il proprio segno su quella terra indomita, l'energia grezza e primordiale del 206º pianeta aveva già conquistato il Pianeta dell'Accademia. Per i giovani da lungo tempo confinati nelle loro torri d'avorio fatte di studio infinito, quell'estetica quasi \"selvaggia\" fu una rivelazione assoluta, e ben presto una grande tendenza della moda che celebrava la natura grezza e l'energia indomita si diffuse in alcune scuole. Per commemorare questa curiosa nota storica, Octavia decise di immortalare il look più in voga del momento...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265357,
+    "Name": "Completo da Manekino: Lampo della savana",
+    "Description": "Il set Lampo della savana. Un completo casual che emana l'energia grezza e selvaggia della natura indomita. Il design complessivo si ispira ai felini agili e sinuosi che sfrecciano attraverso la savana. Irradiando un senso di spensieratezza e una selvatichezza tutta sua, questo look infonde una sicurezza audace e splendente in chiunque lo indossi.\n\nGodere di un'evoluzione pacifica e naturale in un universo brulicante di pericoli è pura fortuna, specialmente per un mondo primitivo come il 206º pianeta, del tutto ignaro del vasto cosmo che lo circonda. In quanto prima visitatrice in assoluto dallo spazio, Octavia non poté fare a meno di preoccuparsi per l'incolumità del pianeta. Dopo lunga riflessione, si rivolse al vicino \"Pianeta dell'Accademia\" (93º pianeta), affidando a questo mondo neutrale il ruolo di silenzioso guardiano e osservatore del regno primitivo, vegliando da lontano mentre la giovane civiltà cresceva. Tuttavia, con sua enorme sorpresa, molto prima che la società avanzata del 93º pianeta potesse lasciare il proprio segno su quella terra indomita, l'energia grezza e primordiale del 206º pianeta aveva già conquistato il Pianeta dell'Accademia. Per i giovani da lungo tempo confinati nelle loro torri d'avorio fatte di studio infinito, quell'estetica quasi \"selvaggia\" fu una rivelazione assoluta, e ben presto una grande tendenza della moda che celebrava la natura grezza e l'energia indomita si diffuse in alcune scuole. Per commemorare questa curiosa nota storica, Octavia decise di immortalare il look più in voga del momento...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265358,
+    "Name": "Completo da Manekina: Mare del destino cromatico",
+    "Description": "Il set Mare del destino cromatico. Una tuta da combattimento estiva da spiaggia che racchiude in un unico look pura esuberanza, gioia senza freni e vitalità inesauribile. Il sole cocente di mezza estate offre l'occasione perfetta per spazzare via ogni stanchezza e preoccupazione. È il momento di proteggersi completamente dal sole, impugnare la pistola ad acqua e dichiarare guerra alle proprie ansie su questa spiaggia abbagliante!\n\nIspirandosi allo stile dell'\"Artista degli schizzi\", gli abitanti del \"Mondo dell'Oceano\" (il 503º pianeta) hanno adottato un particolare \"rituale di guerra\" per ridefinire il loro rapporto con sé stessi e con la comunità. Ecco perché le spiagge sono sempre affollate di giovani in finto equipaggiamento da combattimento, che si lanciano tra le onde dell'oceano nel caldo soffocante, riversando la loro energia indomita nel caldo soffocante. Eppure, quelli che avevano colpito maggiormente Octavia erano un ragazzo e una ragazza apparentemente ordinari. Non avevano particolari doti fisiche, né disponevano di equipaggiamento avanzato. Anzi, agli occhi di qualcuno con le straordinarie capacità di combattimento di Octavia, i loro movimenti lenti sembravano esattamente come gocce d'inchiostro che si muovono e si dissolvono lentamente nell'acqua. Tuttavia, la straordinaria energia vitale che si sprigionava da questi \"colori\" che si dispiegavano lentamente era assolutamente affascinante, riempiendola di una gioia genuina che le rendeva impossibile distogliere lo sguardo. Forse era questo l'aspetto che la giovinezza avrebbe sempre dovuto avere, o forse era il vero scopo per cui quel rituale di guerra era stato creato fin dal principio. Toccata da questa visione, Octavia realizzò appositamente questo completo per i due ragazzi, sperando che potesse permettere loro di conservare a lungo quello spirito vivace e quell'energia giovanile.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265359,
+    "Name": "Completo da Manekino: Mare del destino cromatico",
+    "Description": "Il set Mare del destino cromatico. Una tuta da combattimento estiva da spiaggia che racchiude in un unico look pura esuberanza, gioia senza freni e vitalità inesauribile. Il sole cocente di mezza estate offre l'occasione perfetta per spazzare via ogni stanchezza e preoccupazione. È il momento di proteggersi completamente dal sole, impugnare la pistola ad acqua e dichiarare guerra alle proprie ansie su questa spiaggia abbagliante!\n\nIspirandosi allo stile dell'\"Artista degli schizzi\", gli abitanti del \"Mondo dell'Oceano\" (il 503º pianeta) hanno adottato un particolare \"rituale di guerra\" per ridefinire il loro rapporto con sé stessi e con la comunità. Ecco perché le spiagge sono sempre affollate di giovani in finto equipaggiamento da combattimento, che si lanciano tra le onde dell'oceano nel caldo soffocante, riversando la loro energia indomita nel caldo soffocante. Eppure, quelli che avevano colpito maggiormente Octavia erano un ragazzo e una ragazza apparentemente ordinari. Non avevano particolari doti fisiche, né disponevano di equipaggiamento avanzato. Anzi, agli occhi di qualcuno con le straordinarie capacità di combattimento di Octavia, i loro movimenti lenti sembravano esattamente come gocce d'inchiostro che si muovono e si dissolvono lentamente nell'acqua. Tuttavia, la straordinaria energia vitale che si sprigionava da questi \"colori\" che si dispiegavano lentamente era assolutamente affascinante, riempiendola di una gioia genuina che le rendeva impossibile distogliere lo sguardo. Forse era questo l'aspetto che la giovinezza avrebbe sempre dovuto avere, o forse era il vero scopo per cui quel rituale di guerra era stato creato fin dal principio. Toccata da questa visione, Octavia realizzò appositamente questo completo per i due ragazzi, sperando che potesse permettere loro di conservare a lungo quello spirito vivace e quell'energia giovanile.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265360,
+    "Name": "Completo da Manekina: Mare del destino cromatico: Crepuscolo",
+    "Description": "La versione ascesa del set Mare del destino cromatico. Qui ha assunto le tonalità serene e oniriche del crepuscolo. Ora che la notte è calata, è il momento di trattare questo sipario scuro e profondo come la tua tela. Afferra la tua pistola ad acqua, lasciati andare e dipingi uno spettacolo da notte estiva che sia unicamente tuo!\n\nIspirandosi all'estetica dell'\"Artista degli schizzi\", gli abitanti del \"Mondo dell'Oceano\" (il 503º pianeta) hanno adottato un particolare \"rituale di guerra\" per ridefinire il loro rapporto con sé stessi e con la comunità. Ecco perché d'estate le spiagge sono sempre affollate di giovani in finto equipaggiamento da combattimento, che si lanciano tra le onde dell'oceano nel caldo soffocante. Eppure, quelli che avevano colpito maggiormente Octavia erano un ragazzo e una ragazza apparentemente ordinari. Non avevano particolari doti fisiche, né disponevano di equipaggiamento avanzato. Anzi, agli occhi di qualcuno con le straordinarie capacità di combattimento di Octavia, i loro movimenti lenti sembravano esattamente come gocce d'inchiostro che si muovono e si dissolvono lentamente nell'acqua. Eppure, quei \"colori\" che si dispiegavano piano piano erano pervasi da una forza vitale così brillante, e guardarli era una gioia così autentica, che le era semplicemente impossibile distogliere lo sguardo. Forse era questo l'aspetto che la giovinezza avrebbe sempre dovuto avere, o forse era il vero scopo per cui quel rituale di guerra era stato creato fin dal principio. Toccata da questa visione, Octavia realizzò appositamente questo completo per i due ragazzi, sperando che potesse permettere loro di conservare a lungo quello spirito vivace e quell'energia giovanile.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0018",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265361,
+    "Name": "Completo da Manekino: Mare del destino cromatico: Crepuscolo",
+    "Description": "La versione ascesa del set Mare del destino cromatico. Qui ha assunto le tonalità serene e oniriche del crepuscolo. Ora che la notte è calata, è il momento di trattare questo sipario scuro e profondo come la tua tela. Afferra la tua pistola ad acqua, lasciati andare e dipingi uno spettacolo da notte estiva che sia unicamente tuo!\n\nIspirandosi all'estetica dell'\"Artista degli schizzi\", gli abitanti del \"Mondo dell'Oceano\" (il 503º pianeta) hanno adottato un particolare \"rituale di guerra\" per ridefinire il loro rapporto con sé stessi e con la comunità. Ecco perché d'estate le spiagge sono sempre affollate di giovani in finto equipaggiamento da combattimento, che si lanciano tra le onde dell'oceano nel caldo soffocante. Eppure, quelli che avevano colpito maggiormente Octavia erano un ragazzo e una ragazza apparentemente ordinari. Non avevano particolari doti fisiche, né disponevano di equipaggiamento avanzato. Anzi, agli occhi di qualcuno con le straordinarie capacità di combattimento di Octavia, i loro movimenti lenti sembravano esattamente come gocce d'inchiostro che si muovono e si dissolvono lentamente nell'acqua. Eppure, quei \"colori\" che si dispiegavano piano piano erano pervasi da una forza vitale così brillante, e guardarli era una gioia così autentica, che le era semplicemente impossibile distogliere lo sguardo. Forse era questo l'aspetto che la giovinezza avrebbe sempre dovuto avere, o forse era il vero scopo per cui quel rituale di guerra era stato creato fin dal principio. Toccata da questa visione, Octavia realizzò appositamente questo completo per i due ragazzi, sperando che potesse permettere loro di conservare a lungo quello spirito vivace e quell'energia giovanile.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0018",
     "Type": 2,
     "RankLevel": 5
   },
@@ -11024,6 +11552,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 275348,
+    "Name": "Catalogo set: Effervescenza estiva",
+    "Description": "Un cristallo formato da un agglomerato di fenomeni del Mirabilia. Contiene informazioni sul set completo \"Effervescenza estiva\". Durante la replicazione, puoi scegliere liberamente tra il completo da Manekino o Manekina corrispondente.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
+    "Type": 3,
+    "RankLevel": 4
+  },
+  {
     "Id": 280001,
     "Name": "Capo da Manekina: abito Nobile grazia",
     "Description": "Un abito elegante e di qualità, la cui gonna è caratterizzata da un orlo aggraziato e con un raffinato foulard al collo, che creano un look dignitoso e ordinato. Il fascino di una governante risiede nella sua professionalità e cura dei dettagli, e un abbigliamento appropriato non fa che contribuire ad accentuare tale fascino.",
@@ -11460,6 +11996,110 @@
     "Name": "Capo da Manekino: accessorio Artista degli schizzi",
     "Description": "Un accessorio per macchina fotografica dai colori vivaci e brillanti, spesso indossato in vita per un facile accesso ogni volta che appare qualcosa che sia degno di essere immortalato.",
     "Icon": "UI_Beyd_Avatar_Boy_WaistAcc_S0132",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280056,
+    "Name": "Completo da Manekina: abito formale Dolci sogni d'estate",
+    "Description": "Un raffinato abito formale color viola tenue che evoca il crepuscolo. Appaga il tuo spirito libero con questo abbinamento di un ornamento a forma di trifoglio dorato, un elegante papillon a forma di fiore viola e un delicato motivo floreale con bordature dorate che richiama l'atmosfera serena di una notte di mezza estate.",
+    "Icon": "UI_Beyd_Avatar_Girl_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280057,
+    "Name": "Completo da Manekina: calzature Dolci sogni d'estate",
+    "Description": "Un paio di calzature viola scuro con fiocchi decorativi, semplici ma al tempo stesso eleganti. È come se ogni passo lasciasse un'impronta delicata sul prato illuminato dalla luna.",
+    "Icon": "UI_Beyd_Avatar_Girl_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280058,
+    "Name": "Acconciatura da Manekina: capelli lunghi Dolci sogni d'estate",
+    "Description": "Dei capelli lunghi dall'aria sognante dominati da un bianco sereno. Un look che parla di eleganza casual, come se il fresco chiarore lunare di una notte di mezza estate e il bagliore scintillante delle lucciole fossero stati intrecciati tra i capelli di chi lo porta.",
+    "Icon": "UI_Beyd_Avatar_Girl_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280059,
+    "Name": "Completo da Manekina: cerchietto Dolci sogni d'estate",
+    "Description": "Un cerchietto per capelli bello ed elegante. Indossa il tenue bagliore delle lucciole e la serenità del crepuscolo tra i tuoi capelli con questo cerchietto, e potrai immergerti in uno splendido banchetto serale avvolto da luce di stelle e profumo di fiori nell'aria.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280060,
+    "Name": "Completo da Manekina: accessorio da polso Dolci sogni d'estate",
+    "Description": "Un accessorio da polso plissettato in bianco puro e candido, fissato al polso tramite un cinturino di colore scuro. Il suo design semplice e minimalista si abbina perfettamente al completo e aggiunge un tocco di raffinatezza al look.",
+    "Icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280061,
+    "Name": "Completo da Manekina: calze Dolci sogni d'estate",
+    "Description": "Calze bianche con un leggero motivo geometrico. Sembrano avvolgere le caviglie con la luce delle stelle di una notte di mezza estate, donando un'aria leggera ed elegante senza sforzo.",
+    "Icon": "UI_Beyd_Avatar_Girl_LegAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280062,
+    "Name": "Completo da Manekino: abito formale Dolci sogni d'estate",
+    "Description": "Un raffinato abito formale che sposa sapientemente i viola del crepuscolo con i grigi caldi dell'alba. Appaga il tuo spirito libero con questo abbinamento di un ornamento a forma di trifoglio dorato, un elegante papillon arancione lucciola e un sottile motivo geometrico con bordi dorati che evoca la serena atmosfera di una notte di mezza estate.",
+    "Icon": "UI_Beyd_Avatar_Boy_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280063,
+    "Name": "Completo da Manekino: pantaloni lunghi Dolci sogni d'estate",
+    "Description": "Un paio di pantaloni lunghi nei toni pacati del grigio e del viola, dalla silhouette semplice e pulita. I delicati motivi geometrici che decorano l'orlo catturano lo sguardo come una cascata di stelle in un cielo di mezza estate.",
+    "Icon": "UI_Beyd_Avatar_Boy_Bottom_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280064,
+    "Name": "Completo da Manekino: calzature Dolci sogni d'estate",
+    "Description": "Un paio di calzature con bordi dorati, semplici ma al tempo stesso eleganti. È come se ogni passo lasciasse un'impronta delicata sul prato illuminato dalla luna.",
+    "Icon": "UI_Beyd_Avatar_Boy_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280065,
+    "Name": "Acconciatura da Manekino: capelli corti Dolci sogni d'estate",
+    "Description": "Dei capelli corti dall'aria sognante dominati da un bianco sereno. Un look che parla di eleganza casual, come se il fresco chiarore lunare di una notte di mezza estate e il bagliore scintillante delle lucciole fossero stati intrecciati tra i capelli di chi lo porta.",
+    "Icon": "UI_Beyd_Avatar_Boy_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280066,
+    "Name": "Completo da Manekino: cappello Dolci sogni d'estate",
+    "Description": "Un nastro decorato con un motivo a trifoglio cinge la tesa. Trasuda una semplice eleganza che si sposa perfettamente con lo stile dell'intero completo.",
+    "Icon": "UI_Beyd_Avatar_Boy_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280067,
+    "Name": "Completo da Manekino: orologio da polso Dolci sogni d'estate",
+    "Description": "Un orologio da polso dal design semplice, sobrio ma comunque raffinato. Un delicato motivo dorato è inciso sul quadrante, in perfetta armonia con lo stile del completo.",
+    "Icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280068,
+    "Name": "Completo da Manekino: calzini Dolci sogni d'estate",
+    "Description": "Calzini dai toni chiari che si abbinano alla palette cromatica generale del completo. Nonostante il design semplice, trasmettono un'energia vivace, come petali che tremolano delicatamente nella brezza di una notte di mezza estate.",
+    "Icon": "UI_Beyd_Avatar_Boy_LegAcc_S0143",
     "Type": 1,
     "RankLevel": 4
   }

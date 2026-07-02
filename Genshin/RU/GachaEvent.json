@@ -5567,5 +5567,62 @@
       14410,
       15410
     ]
+  },
+  {
+    "Name": "Собирайся скорей, Зазеркальный народ!",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/8f60d7726c1b2b04afc6c858c4011540_5847894686581953801_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/8f60d7726c1b2b04afc6c858c4011540_5847894686581953801_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000133
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "Шёпот звёздной ночи",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/e0c69385fe3968206b3445384e302095_7783023086251054595_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/e0c69385fe3968206b3445384e302095_7783023086251054595_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000107
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "Воплощение божества",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/60af5cac1168fcb114f1cfc41d2946fb_4120870787052661090_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/60af5cac1168fcb114f1cfc41d2946fb_4120870787052661090_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12516,
+      14517
+    ],
+    "UpPurpleList": [
+      11401,
+      12405,
+      13401,
+      14403,
+      15403
+    ]
   }
 ]

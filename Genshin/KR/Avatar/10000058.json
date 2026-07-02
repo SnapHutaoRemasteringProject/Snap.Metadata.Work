@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "신사의 신탁",
+        "Description": "살생앵의 지속 시간이 10초 연장된다. 주변에 있는 파티 내 캐릭터가 초전도 또는 별 초전도 반응 발동 후, 다음 살생앵의 낙뢰가 강화된다: 주는 피해가 증가하며, 증가량은 야에 미코 공격력의 80%에 해당한다. 해당 효과는 2.5초마다 최대 1회 발동된다.\n<color=#FFD780FF>섬광·별 초전도</color>: 상술한 효과로 강화된 낙뢰가 적에게 명중 후, 추가로 야에 미코 공격력의 200%에 해당하는 <color=#FFACFFFF>번개 원소 피해</color>를 1회 준다. 해당 피해는 별 초전도 반응 피해로 간주된다.\n또한 {LINK#N11330003}<color=#FFD780FF>극지의 별영역</color>{/LINK} 내에 있을 경우, 야에 미코가 <color=#FFD780FF>섬광·별 초전도</color> 상태에 진입한다",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

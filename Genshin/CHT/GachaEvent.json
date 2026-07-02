@@ -5567,5 +5567,62 @@
       14410,
       15410
     ]
+  },
+  {
+    "Name": "鏡中的茶宴",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/d3a261ae645e1b2d0cefcd6f4fd3a19c_6576432371877734639_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/d3a261ae645e1b2d0cefcd6f4fd3a19c_6576432371877734639_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000133
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "星邊夜語",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/7a73a980ad6c6662bb7e41ee27b057ce_5446213695933525737_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/7a73a980ad6c6662bb7e41ee27b057ce_5446213695933525737_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000107
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "神鑄賦形",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/f834984a14885f433f72c8ae11fc2f15_3261384331564223932_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/f834984a14885f433f72c8ae11fc2f15_3261384331564223932_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12516,
+      14517
+    ],
+    "UpPurpleList": [
+      11401,
+      12405,
+      13401,
+      14403,
+      15403
+    ]
   }
 ]

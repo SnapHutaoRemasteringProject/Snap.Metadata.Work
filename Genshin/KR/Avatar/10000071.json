@@ -479,6 +479,26 @@
         "Icon": "Skill_S_Cyno_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 7124,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 712401,
+              "Level": 1,
+              "Parameters": []
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 712401,
+        "Name": "길을 밝히는 별",
+        "Description": "길을 여는 사자 상태가 아닐 경우, 원소전투 스킬 <color=#FFD780FF>비밀스러운 의식·명계의 인도자</color> 발동 후, 사이노는 짧은 시간 동안 길을 여는 사자 상태에 진입한다, 지속 시간: 6초.\n또한 {LINK#N11330003}<color=#FFD780FF>극지의 별영역</color>{/LINK} 내에 있을 경우, 사이노가 <color=#FFD780FF>섬광·별 초전도</color> 상태에 진입한다",
+        "Icon": "UI_Talent_S_Cyno_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 7139,
       "Proud": {
@@ -832,7 +852,8 @@
               "Level": 1,
               "Parameters": [
                 0.35,
-                1
+                1,
+                2
               ]
             }
           ],
@@ -853,7 +874,8 @@
               "Level": 1,
               "Parameters": [
                 1.5,
-                2.5
+                2.5,
+                6
               ]
             }
           ],

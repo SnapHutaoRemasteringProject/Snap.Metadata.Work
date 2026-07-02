@@ -448,6 +448,31 @@
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 10951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1095101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                2.5,
+                0.1,
+                5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1095101,
+        "Name": "Vasto sia il sogno",
+        "Description": "#Quando Yumemizuki Mizuki innesca una reazione di Turbinio mentre è nello stato di Girasogni, la successiva iterazione di <color=#80FFD7FF>DAN da Anemo ad area</color> periodici che infligge ai nemici vicini durante il suddetto stato aumenta di un 1.000% della sua maestria elementale. Tale effetto può attivarsi una volta ogni 2,5{NON_BREAK_SPACE}s.\nInoltre, mentre Yumemizuki Mizuki è nello stato di Girasogni, la maestria elementale dei membri vicini del gruppo aumenta di un 10% della maestria elementale di Yumemizuki Mizuki.",
+        "Icon": "UI_Talent_S_Mizuki_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 10939,
       "Proud": {

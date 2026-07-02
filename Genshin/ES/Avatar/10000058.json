@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "Proclama de purificación",
+        "Description": "#Aumenta en 10{NON_BREAK_SPACE}s la duración de los cerezos kitsune. Cuando un personaje cercano del equipo cause una reacción de Superconductor o Superconductor Estelar, el próximo rayo de un cerezo kitsune se fortalecerá, de manera que el daño que inflige aumentará en una cantidad equivalente al 80% del ATQ de Yae Miko. Este efecto solo se puede activar una vez cada 2.5{NON_BREAK_SPACE}s.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nCuando un rayo fortalecido de esta manera golpee a un enemigo, infligirá una vez adicional <color=#FFACFFFF>Daño Electro</color> considerado como daño de Superconductor Estelar en una cantidad equivalente al 200% del ATQ de Yae Miko.\nAdemás, Yae Miko entrará en el estado de <color=#FFD780FF>esplendor: Superconductor Estelar</color> mientras se encuentre dentro de un {LINK#N11330003}<color=#FFD780FF>campo estrellapolar</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

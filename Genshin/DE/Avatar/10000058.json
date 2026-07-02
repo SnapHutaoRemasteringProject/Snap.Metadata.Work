@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "Verkündung des Reinigungsortes",
+        "Description": "#Verlängert die Dauer der Sesshou-Sakura um 10{NON_BREAK_SPACE}s. Verstärkt, nachdem Truppenmitglieder in der Nähe die Reaktion Supraleiter oder Stellar-Supraleiter ausgelöst haben, den nächsten Blitzschlag der Sesshou-Sakura: Erhöht den verursachten Schaden um 80{NON_BREAK_SPACE}% von Yae Mikos ANG, 2,5{NON_BREAK_SPACE}s Abklingzeit.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Verursacht, nachdem ein mit obigem Effekt verstärkter Blitzschlag einen Gegner getroffen hat, zusätzlich einmal <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 200{NON_BREAK_SPACE}% von Yae Mikos ANG. Dieser Schaden wird als Schaden durch die Reaktion Stellar-Supraleiter gewertet.\nVersetzt Yae Miko zudem, wenn sie sich im {LINK#N11330003}<color=#FFD780FF>Sternglanzfeld</color>{/LINK} befindet, in den Zustand <color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>.",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

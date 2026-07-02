@@ -448,6 +448,31 @@
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 10951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1095101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                2.5,
+                0.1,
+                5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1095101,
+        "Name": "L'immensité d'un rêve",
+        "Description": "Lorsque Yumemizuki Mizuki a déclenché une réaction de Dispersion pendant l'état Flotte-rêves, la prochaine instance de <color=#80FFD7FF>DGT Anémo de zone</color> qu'elle inflige de façon régulière à des ennemis proches pendant cet état augmente d'une valeur équivalant à 1 000 % de sa maîtrise élémentaire. Cet effet peut être déclenché une fois toutes les 2,5 s.\nDe plus, la maîtrise élémentaire des personnages de l'équipe à proximité augmente d'une valeur équivalant à 10 % de la maîtrise élémentaire de Yumemizuki Mizuki pendant l'état Flotte-rêves.",
+        "Icon": "UI_Talent_S_Mizuki_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 10939,
       "Proud": {

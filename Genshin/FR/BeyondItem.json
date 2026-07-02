@@ -1128,6 +1128,38 @@
     "RankLevel": 5
   },
   {
+    "Id": 250473,
+    "Name": "Super cœur !",
+    "Description": "J'adore !",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 3
+  },
+  {
+    "Id": 250474,
+    "Name": "Bonne glace pilée",
+    "Description": "C'est frais et délicieux !",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 4
+  },
+  {
+    "Id": 250475,
+    "Name": "Santé !",
+    "Description": "Prenez une boisson bien fraîche !",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
+    "Id": 250476,
+    "Name": "Et glou, et glou",
+    "Description": "Il est des nôtres !",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
     "Id": 251001,
     "Name": "Théâtre féérique : Ballade de la sorcière",
     "Description": "Autrefois connu pour avoir mis en scène la « Ballade de la sorcière », le théâtre tourne désormais ses projecteurs vers une nouvelle génération d'invités.",
@@ -1192,6 +1224,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 251009,
+    "Name": "Île isolée : Ondulation azurée",
+    "Description": "Ici, la lumière du soleil n'est pas faite pour éclairer, mais pour être absorbée. Les vagues ne sont pas simplement bleues, mais forment une mer de pierres précieuses liquides.",
+    "Icon": "UI_Beyd_HallThemeIcon_Xrht",
+    "Type": 10,
+    "RankLevel": 4
+  },
+  {
     "Id": 251201,
     "Name": "Téléportation générale",
     "Description": "Arrivez et repartez avec grâce...",
@@ -1244,6 +1284,14 @@
     "Name": "Traînées de papillons tourbillonnants",
     "Description": "Comme un parfum rendu visible...",
     "Icon": "UI_UGC_Transfer_BP_SuperRare_S0121",
+    "Type": 7,
+    "RankLevel": 4
+  },
+  {
+    "Id": 251208,
+    "Name": "Vague scintillante",
+    "Description": "Dérivez au gré de la brise marine et de l'écume.",
+    "Icon": "UI_UGC_Transfer_BP_SuperRare_S0017",
     "Type": 7,
     "RankLevel": 4
   },
@@ -1536,6 +1584,38 @@
     "RankLevel": 4
   },
   {
+    "Id": 257037,
+    "Name": "Cape d'essai - Tzitzimime spirituel",
+    "Description": "Une cape dotée du pouvoir magique de reproduire des looks. Après utilisation, elle se transforme automatiquement en la tenue choisie, à tel point que même les accessoires et le maquillage sont reproduits à la perfection. Une fois rangée, elle se replie en forme de carte, ce qui aide à placer et à identifier l'ensemble correspondant.\nUtilisée correctement, elle est pratique pour les essayages.\nElle peut être utilisée dans les 14 jours suivant son achat, l'effet d'essayage durant 1 jour. Cet objet expire à la fin de la session de Chroniques en cours.\nCette cape d'essai ne peut être essayée que dans son intégralité sans pouvoir être portée pièce par pièce.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257038,
+    "Name": "Cape d'essai - Tzitzimime spirituel",
+    "Description": "Une cape dotée du pouvoir magique de reproduire des looks. Après utilisation, elle se transforme automatiquement en la tenue choisie, à tel point que même les accessoires et le maquillage sont reproduits à la perfection. Une fois rangée, elle se replie en forme de carte, ce qui aide à placer et à identifier l'ensemble correspondant.\nUtilisée correctement, elle est pratique pour les essayages.\nElle peut être utilisée dans les 14 jours suivant son achat, l'effet d'essayage durant 1 jour. Cet objet expire à la fin de la session de Chroniques en cours.\nCette cape d'essai ne peut être essayée que dans son intégralité sans pouvoir être portée pièce par pièce.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257039,
+    "Name": "Cape d'essai - Fraîcheur vivifiante",
+    "Description": "Une cape dotée du pouvoir magique de reproduire des looks. Après utilisation, elle se transforme automatiquement en la tenue choisie, à tel point que même les accessoires et le maquillage sont reproduits à la perfection. Une fois rangée, elle se replie en forme de carte, ce qui aide à placer et à identifier l'ensemble correspondant.\nUtilisée correctement, elle est pratique pour les essayages.\nElle peut être utilisée dans les 14 jours suivant son achat, l'effet d'essayage durant 1 jour. Cet objet expire à la fin de la session de Chroniques en cours.\nCette cape d'essai ne peut être essayée que dans son intégralité sans pouvoir être portée pièce par pièce.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257040,
+    "Name": "Cape d'essai - Fraîcheur vivifiante",
+    "Description": "Une cape dotée du pouvoir magique de reproduire des looks. Après utilisation, elle se transforme automatiquement en la tenue choisie, à tel point que même les accessoires et le maquillage sont reproduits à la perfection. Une fois rangée, elle se replie en forme de carte, ce qui aide à placer et à identifier l'ensemble correspondant.\nUtilisée correctement, elle est pratique pour les essayages.\nElle peut être utilisée dans les 14 jours suivant son achat, l'effet d'essayage durant 1 jour. Cet objet expire à la fin de la session de Chroniques en cours.\nCette cape d'essai ne peut être essayée que dans son intégralité sans pouvoir être portée pièce par pièce.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
     "Id": 258001,
     "Name": "Lot d'ensembles - Grâce en mouvement",
     "Description": "Ce lot comprend deux ensembles de grâce en mouvement, l'un conçu pour un Manekin et l'autre pour une Manekina.\n« Les acheter ensemble, c'est bénéficier du deuxième moitié moins cher que si vous l'achetiez séparément ! »",
@@ -1652,6 +1732,38 @@
     "Name": "Lot d'ensembles - Poursuite verdoyante",
     "Description": "Ce lot comprend deux ensembles de poursuite verdoyante, l'un conçu pour un Manekin et l'autre pour une Manekina.\n« Les acheter ensemble, c'est bénéficier du deuxième moitié moins cher que si vous l'achetiez séparément ! »",
     "Icon": "UI_Beyd_Avatar_Optional_Suit_S0175",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258016,
+    "Name": "Lot d'ensembles - Éclaboussure artistique",
+    "Description": "Ce lot comprend deux ensembles d'éclaboussure artistique, l'un conçu pour un Manekin et l'autre pour une Manekina.\n« Les acheter ensemble, c'est bénéficier du deuxième moitié moins cher que si vous l'achetiez séparément ! »",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0132",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258017,
+    "Name": "Lot d'ensembles - Tzitzimime spirituel",
+    "Description": "Ce lot comprend deux ensembles de tzitzimime spirituel, l'un conçu pour un Manekin et l'autre pour une Manekina.\n« Les acheter ensemble, c'est bénéficier du deuxième moitié moins cher que si vous l'achetiez séparément ! »",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0190",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258018,
+    "Name": "Lot d'ensembles - Recette sucrée",
+    "Description": "Ce lot comprend deux ensembles de recette sucrée, l'un conçu pour un Manekin et l'autre pour une Manekina.\n« Les acheter ensemble, c'est bénéficier du deuxième moitié moins cher que si vous l'achetiez séparément ! »",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0174",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258019,
+    "Name": "Lot d'ensembles - Requin paresseux",
+    "Description": "Ce lot comprend deux ensembles de requin paresseux, l'un conçu pour un Manekin et l'autre pour une Manekina.\n« Les acheter ensemble, c'est bénéficier du deuxième moitié moins cher que si vous l'achetiez séparément ! »",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0054",
     "Type": 16,
     "RankLevel": 3
   },
@@ -1897,6 +2009,46 @@
   },
   {
     "Id": 258531,
+    "Name": "Cape d'essai aléatoire - Ensemble de Manekin",
+    "Description": "Une cape dotée du pouvoir magique de reproduire des looks. Après utilisation, elle se transforme automatiquement en une tenue aléatoire pour Manekin, à tel point que même les accessoires et le maquillage sont reproduits à la perfection.\nUtilisée correctement, elle est pratique pour les essayages.\nElle peut être utilisée dans les 14 jours suivant son achat, l'effet d'essayage durant 1 jour. Cet objet expire à la fin de la session de Chroniques en cours.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258532,
+    "Name": "Coffret de Chroniques : exceptionnel",
+    "Description": "Un coffret cadeau contenant de magnifiques tenues. Utilisez-le pour choisir un des sets d'ensemble à l'intérieur.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0146",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258533,
+    "Name": "Coffret de Chroniques : exceptionnel",
+    "Description": "Un coffret cadeau contenant de magnifiques tenues. Utilisez-le pour choisir un des sets d'ensemble à l'intérieur.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0147",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258534,
+    "Name": "Coffret de Chroniques : élite",
+    "Description": "Un coffret cadeau contenant de magnifiques tenues. Utilisez-le pour choisir un des sets d'ensemble à l'intérieur.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0191",
+    "Type": 14,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258535,
+    "Name": "Cape d'essai aléatoire - Ensemble de Manekina",
+    "Description": "Une cape dotée du pouvoir magique de reproduire des looks. Après utilisation, elle se transforme automatiquement en une tenue aléatoire pour Manekina, à tel point que même les accessoires et le maquillage sont reproduits à la perfection.\nUtilisée correctement, elle est pratique pour les essayages.\nElle peut être utilisée dans les 14 jours suivant son achat, l'effet d'essayage durant 1 jour. Cet objet expire à la fin de la session de Chroniques en cours.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258536,
     "Name": "Cape d'essai aléatoire - Ensemble de Manekin",
     "Description": "Une cape dotée du pouvoir magique de reproduire des looks. Après utilisation, elle se transforme automatiquement en une tenue aléatoire pour Manekin, à tel point que même les accessoires et le maquillage sont reproduits à la perfection.\nUtilisée correctement, elle est pratique pour les essayages.\nElle peut être utilisée dans les 14 jours suivant son achat, l'effet d'essayage durant 1 jour. Cet objet expire à la fin de la session de Chroniques en cours.",
     "Icon": "UI_ItemIcon_BydBox_4",
@@ -6864,6 +7016,174 @@
     "RankLevel": 4
   },
   {
+    "Id": 264267,
+    "Name": "Ensemble mixte - Docteur Pschitt",
+    "Description": "Un couvre-chef plein de fantaisie et d'émerveillement. Coiffez-le pour qu'une petite baleine qui vient de sortir de l'eau pour respirer se tienne sur votre tête. Qui sait, l'inspiration pourrait soudainement faire « pschitt » dans votre esprit lors de vos promenades en compagnie de cet adorable petit compagnon !",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_P0450",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262673,
+    "Name": "Sourcils mixtes - Saule dans la brise : rose clair",
+    "Description": "Des sourcils rose clair, évoquant les saules pleureurs. Leurs lignes naturellement fluides apportent une touche de douceur et de délicatesse au regard.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0039",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262674,
+    "Name": "Sourcils mixtes - Saule dans la brise : violet clair",
+    "Description": "Des sourcils violet clair, évoquant les saules pleureurs. Leurs lignes naturellement fluides apportent une touche de douceur et de délicatesse au regard.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0040",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262675,
+    "Name": "Sourcils mixtes - Fierté de bambou : rose clair",
+    "Description": "Des sourcils rose clair, évoquant des pousses de bambou fraîchement sorties de terre. Leurs lignes fortes et affirmées confèrent une touche d'énergie.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0041",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262676,
+    "Name": "Sourcils mixtes - Fierté de bambou : violet clair",
+    "Description": "Des sourcils violet clair, évoquant des pousses de bambou fraîchement sorties de terre. Leurs lignes fortes et affirmées confèrent une touche d'énergie.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0042",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262677,
+    "Name": "Sourcils mixtes - Escarpée sublime",
+    "Description": "Des sourcils fins pour un regard acéré et inflexible, débordant d'un charme né de la force.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0280",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262678,
+    "Name": "Sourcils mixtes - Brume à la dérive",
+    "Description": "Des sourcils à l'arc doux et gracieux, qui confèrent un charme frais et discret.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0281",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262999,
+    "Name": "Paupières de Manekina - Fendoir d'aube",
+    "Description": "Un contour des yeux pour femme, réservé mais perçant comme une lame à travers l'aube dans l'obscurité.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0054",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263000,
+    "Name": "Paupières de Manekina - Ciel éclatant",
+    "Description": "Un contour des yeux pour femme, radieux et pétillant comme le soleil éclatant par une journée ensoleillée.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0056",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263001,
+    "Name": "Paupières de Manekin - Givre sur cime",
+    "Description": "Un contour des yeux pour homme, solitaire et réservé comme des bois fiers dans les nuits d'hiver.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0268",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263002,
+    "Name": "Paupières de Manekin - Lueur d'aurore",
+    "Description": "Un contour des yeux pour homme, gracieux et radieux comme des stries de lumière irisée.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0271",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263014,
+    "Name": "Paupières de Manekin - Scintillement doré",
+    "Description": "Un contour des yeux pour homme, plein de confiance et de vigueur. Ses lignes et ses couleurs évoquent l'image de la lumière dansant sur les vagues dorées à midi.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263015,
+    "Name": "Paupières de Manekina - Scintillement doré",
+    "Description": "Un contour des yeux pour femme, plein de confiance et de vigueur. Ses lignes et ses couleurs évoquent l'image de la lumière dansant sur les vagues dorées à midi.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263016,
+    "Name": "Paupières de Manekin - Scintillement doré : crépuscule",
+    "Description": "Un contour des yeux pour homme, empreint de sophistication et d'une grâce naturelle. Ses lignes et ses couleurs évoquent la lumière dansant sur les vagues améthystes au crépuscule.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263017,
+    "Name": "Paupières de Manekina - Scintillement doré : crépuscule",
+    "Description": "Un contour des yeux pour femme, empreint de sophistication et d'une grâce naturelle. Ses lignes et ses couleurs évoquent la lumière dansant sur les vagues améthystes au crépuscule.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263298,
+    "Name": "Pupilles mixtes - Coquillage-bijou : orange vif",
+    "Description": "Des lentilles de contact colorées qui ressemblent à deux coquillages dans la lumière du matin.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0064",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263263,
+    "Name": "Pupilles mixtes - Coquillage-bijou : rose clair",
+    "Description": "Des lentilles de contact colorées qui ressemblent à deux coquillages dans un crépuscule rose.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0067",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263305,
+    "Name": "Pupilles mixtes - Couleur océanique : vague azur",
+    "Description": "Des lentilles de contact colorées, à la fois sereines et profondes comme la mer. Protégez-vous des reflets agressifs grâce à ces lentilles et savourez pleinement le bonheur de vos vacances.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0466",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263307,
+    "Name": "Pupilles mixtes - Couleur océanique : duel violet",
+    "Description": "Des lentilles de contact colorées, à la fois sereines et profondes comme la mer. Protégez-vous des reflets agressifs grâce à ces lentilles et savourez pleinement le bonheur de vos vacances.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0467",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263932,
+    "Name": "Maquillage mixte du visage - Taches de léopard",
+    "Description": "Un des traits du visage. Recréant à la perfection le hâle moucheté d'une journée au soleil, c'est un look somptueux et captivant, à l'image des taches d'un léopard.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0482",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263947,
+    "Name": "Maquillage mixte du visage - Regard d'aura : pétale tombant",
+    "Description": "Un des traits du visage. Agissant sur les paupières inférieures pour « ouvrir » visuellement le regard, il donne un air encore plus charmant et pétillant.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0493",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
     "Id": 265001,
     "Name": "Ensemble de Manekina - Parade",
     "Description": "Le set de parade. Lorsque les cloches des festivités sonnent, enfilez cette tenue extravagante et devenez la star la plus éblouissante du défilé ! Sous les lanternes et les citrouilles, vous pourrez profiter pleinement d'une nuit de joie et de réjouissance.",
@@ -8284,6 +8604,214 @@
     "Name": "Ensemble de Manekin - Splendeur papillonneuse : brume indigo",
     "Description": "Le set ascensionné de splendeur papillonneuse. Au milieu d'un indigo mouvant tel un voile de brume, il évolue au rythme de la mélodie du langage des fleurs, ne faisant qu'un avec la volonté de la nature et perpétuant l'éternelle mélodie du chant de la vie.\nTandis que les deux érudits dansaient d'un pas sincère, la cérémonie du murmure des fleurs a atteint un moment crucial. La mer de fleurs centrale a semblé répondre à un certain appel, alors que des couches successives de lumière ténue s'élevaient telles des vagues. Puis, au sein d'une brume évoquant une poussière de gemmes, les silhouettes d'un jeune garçon et d'une jeune fille ont émergé lentement. Ils portaient une tenue d'apparat du même style que celle des érudits, et leurs visages étaient l'exacte réplique de ceux des érudits dans leur jeunesse, comme si le temps lui-même avait rebroussé chemin... Les teintes indigo de leurs vêtements révélaient leur identité : des incarnations de la volonté de la planète. Avec douceur, ils ont accueilli les deux érudits et les ont guidés vers les profondeurs de la mer de fleurs, où ils disparurent lentement de la vue...\nCe n'est qu'alors qu'il est devenu évident que la planète avait été témoin des efforts de son peuple au fil des siècles. En fin de compte, elle a choisi l'apparence des deux érudits pour façonner ses « émissaires » et communiquer avec l'humanité.\nAu moment où Octavia a pris congé, l'histoire des deux érudits et des émissaires était déjà devenue un conte chéri, connu de chaque foyer. La planète a poursuivi sa propre course, se développant de manière saine et prospère, et semblait prête à résister à une calamité virulente...",
     "Icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265338,
+    "Name": "Ensemble de Manekina - Terre désolée",
+    "Description": "Le set de terre désolée. Cette tenue profilée et ajustée est confectionnée dans des matériaux ultra-résistants. Avec elle à vos côtés, même les expéditions les plus périlleuses en pleine nature vous paraîtront une promenade de santé.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265339,
+    "Name": "Ensemble de Manekin - Terre désolée",
+    "Description": "Le set de terre désolée. Cette tenue profilée et ajustée est confectionnée dans des matériaux ultra-résistants. Avec elle à vos côtés, même les expéditions les plus périlleuses en pleine nature vous paraîtront une promenade de santé.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265419,
+    "Name": "Ensemble de Manekina - Recette sucrée",
+    "Description": "Le set de recette sucrée. Tenue de chef vraiment unique qui intègre astucieusement le plat le plus emblématique de la cuisine à la toque, elle laisse à chaque convive une première impression aussi douce que du miel.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265420,
+    "Name": "Ensemble de Manekin - Recette sucrée",
+    "Description": "Le set de recette sucrée. Tenue de chef vraiment unique qui intègre astucieusement le plat le plus emblématique de la cuisine à la toque, elle laisse à chaque convive une première impression aussi douce que du miel.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265340,
+    "Name": "Ensemble de Manekina - Voyage en mer",
+    "Description": "Le set de voyage en mer. Cette tenue, confectionnée avec des teintures qui capturent les nuances mêmes de la mer au crépuscule, est imprégnée d'une lueur profonde et envoûtante. Portez-la, et vous affronterez sans crainte même les plus hautes vagues.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265341,
+    "Name": "Ensemble de Manekin - Voyage en mer",
+    "Description": "Le set de voyage en mer. Cette tenue, confectionnée avec des teintures qui capturent les nuances mêmes de la mer au crépuscule, est imprégnée d'une lueur profonde et envoûtante. Portez-la, et vous affronterez sans crainte même les plus hautes vagues.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265342,
+    "Name": "Ensemble de Manekina - Requin paresseux",
+    "Description": "Le set de requin paresseux. Inspiré d'un certain requin docile et lent, ce costume capture à merveille son allure décontractée. On raconte que sur certaines planètes aux écosystèmes marins florissants, ces géants à l'air féroce sont extrêmement populaires auprès des populations locales car ils sont en réalité incroyablement paisibles.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265343,
+    "Name": "Ensemble de Manekin - Requin paresseux",
+    "Description": "Le set de requin paresseux. Inspiré d'un certain requin docile et lent, ce costume capture à merveille son allure décontractée. On raconte que sur certaines planètes aux écosystèmes marins florissants, ces géants à l'air féroce sont extrêmement populaires auprès des populations locales car ils sont en réalité incroyablement paisibles.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265320,
+    "Name": "Ensemble de Manekina - Brise propice",
+    "Description": "Le set de brise propice. Cette tenue d'extérieur, dont la couleur dominante est un vert tendre, est confectionnée dans une matière douce et agréable au toucher. Ornée du motif porte-bonheur du trèfle à trois feuilles, elle vous enveloppe d'une douce brise de chance.\n\nDans le 311e monde, tous les murmureurs des fleurs n'adhèrent pas à la méthode de culture des Jardins éternels, une pratique visant à maintenir les plantes dans leur phase de croissance optimale. Ces esprits libres et paisibles croient fermement que la nature ne peut être ni calculée ni reproduite en masse sous serre. Selon eux, la brise bienfaisante de l'abondance ne se lève jamais spontanément que dans les recoins les plus reculés. Pour aller à la recherche de ce don de la nature, ils ont adapté leurs vêtements à un style fonctionnel, conçu pour les longs voyages. La flore qu'ils cultivent désormais n'est plus celle des fleurs somptueuses sous les projecteurs, mais celle des herbes basses qui poussent partout et qui s'épanouissent dans un cycle de vie sans fin. Par respect pour cette philosophie, Octavia a fidèlement recréé leurs tenues dans ce modèle...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265321,
+    "Name": "Ensemble de Manekin - Brise propice",
+    "Description": "Le set de brise propice. Cette tenue d'extérieur, dont la couleur dominante est un vert tendre, est confectionnée dans une matière douce et agréable au toucher. Ornée du motif porte-bonheur du trèfle à trois feuilles, elle vous enveloppe d'une douce brise de chance.\n\nDans le 311e monde, tous les murmureurs des fleurs n'adhèrent pas à la méthode de culture des Jardins éternels, une pratique visant à maintenir les plantes dans leur phase de croissance optimale. Ces esprits libres et paisibles croient fermement que la nature ne peut être ni calculée ni reproduite en masse sous serre. Selon eux, la brise bienfaisante de l'abondance ne se lève jamais spontanément que dans les recoins les plus reculés. Pour aller à la recherche de ce don de la nature, ils ont adapté leurs vêtements à un style fonctionnel, conçu pour les longs voyages. La flore qu'ils cultivent désormais n'est plus celle des fleurs somptueuses sous les projecteurs, mais celle des herbes basses qui poussent partout et qui s'épanouissent dans un cycle de vie sans fin. Par respect pour cette philosophie, Octavia a fidèlement recréé leurs tenues dans ce modèle...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265344,
+    "Name": "Ensemble de Manekina - Été de farniente",
+    "Description": "Le set d'été de farniente. Cette tenue d'été légère et élégante évoque une douce contemplation. Son design décontracté, subtilement rehaussé de mystérieuses nuances violettes, capture à merveille la magie envoûtante d'un rêve d'une nuit d'été.\n\nLorsque la lumière des étoiles rencontre celle de la lune lors d'une nuit d'été dans le 311e monde, les murmureurs des fleurs se rassemblent au cœur de la nature sauvage pour le Banquet des lucioles. Dans cet espace ouvert, sans aucun mur, seuls les herbes ondulantes, les lucioles dansantes et le murmure des ruisseaux accompagnent cette célébration. Pour les murmureurs des fleurs, la véritable abondance est une splendeur qui s'épanouit au rythme de la nature, à l'image d'une robe qui se déploie couche après couche à chaque rotation, ou d'une fleur qui respire doucement au clair de lune. Pour immortaliser cette célébration réservée aux âmes libres, Octavia a capturé la lumière du crépuscule et la rosée matinale, les tissant directement dans les plis de la tenue. Le dégradé violet-blanc, tout en cascade, évoque le ciel du soir à la tombée de la nuit, avec des motifs complexes tels des ondulations agitées par le vent de minuit sur un parterre de fleurs. Enfilez-la, et vous ne vous contenterez plus d'assister au spectacle, vous deviendrez la star de la salle de bal. Dans une douce brise embaumant l'air de parfums floraux, vous danserez avec les étoiles et vous laisserez emporter par une rêverie éthérée, née de la liberté et de l'imagination.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265345,
+    "Name": "Ensemble de Manekin - Été de farniente",
+    "Description": "Le set d'été de farniente. Cette tenue d'été légère et élégante évoque une douce contemplation. Son design décontracté, subtilement rehaussé de mystérieuses nuances violettes, capture à merveille la magie envoûtante d'un rêve d'une nuit d'été.\n\nLorsque la lumière des étoiles rencontre celle de la lune lors d'une nuit d'été dans le 311e monde, les murmureurs des fleurs se rassemblent au cœur de la nature sauvage pour le Banquet des lucioles. Dans cet espace ouvert, sans aucun mur, seuls les herbes ondulantes, les lucioles dansantes et le murmure des ruisseaux accompagnent cette célébration. Pour les murmureurs des fleurs, la véritable abondance est une splendeur qui s'épanouit au rythme de la nature, à l'image d'une robe qui se déploie couche après couche à chaque rotation, ou d'une fleur qui respire doucement au clair de lune. Pour immortaliser cette célébration réservée aux âmes libres, Octavia a capturé la lumière du crépuscule et la rosée matinale, les tissant directement dans les plis de la tenue. Le dégradé violet-blanc, tout en cascade, évoque le ciel du soir à la tombée de la nuit, avec des motifs complexes tels des ondulations agitées par le vent de minuit sur un parterre de fleurs. Enfilez-la, et vous ne vous contenterez plus d'assister au spectacle, vous deviendrez la star de la salle de bal. Dans une douce brise embaumant l'air de parfums floraux, vous danserez avec les étoiles et vous laisserez emporter par une rêverie éthérée, née de la liberté et de l'imagination.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265437,
+    "Name": "Ensemble de Manekina - Fraîcheur vivifiante",
+    "Description": "Le set de fraîcheur vivifiante. Une tenue d'été décontractée, nette et élégante, d'un bleu clair éclatant qui évoque la fraîcheur d'une glace pilée. Enfilez-la, et la chaleur accablante disparaîtra instantanément.\n\nQuand il s'agit d'élire le plus grand ennemi des vacances d'été à la plage, même Octavia, la sorcière capable de parcourir les étoiles, donnerait la même réponse que n'importe quel mortel : la chaleur torride. C'est pourquoi les habitants du 503e monde, surnommé la Planète océan, constamment soumis à une chaleur étouffante, ont fait des douceurs glacées leur priorité absolue. Chaque été, ils organisent un festival des boissons glacées endiablé qui réunit les meilleurs maîtres des desserts glacés de l'univers, en lice pour le titre de Roi de l'été. Le vainqueur reçoit la récompense ultime : une couronne majestueuse ornée d'un flan glacé. En tant que voyageuse de passage dans ces contrées et fervente participante aux festivités, Octavia offrit au vainqueur un présent digne d'une sorcière : une minuscule étincelle de magie rafraîchissante. Celle-ci transforma la couronne en une véritable glace pilée, éternellement fondante, qui absorbe continuellement la chaleur ambiante, procurant une fraîcheur intense à tous.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265438,
+    "Name": "Ensemble de Manekin - Fraîcheur vivifiante",
+    "Description": "Le set de fraîcheur vivifiante. Une tenue d'été décontractée, nette et élégante, d'un bleu clair éclatant qui évoque la fraîcheur d'une glace pilée. Enfilez-la, et la chaleur accablante disparaîtra instantanément.\n\nQuand il s'agit d'élire le plus grand ennemi des vacances d'été à la plage, même Octavia, la sorcière capable de parcourir les étoiles, donnerait la même réponse que n'importe quel mortel : la chaleur torride. C'est pourquoi les habitants du 503e monde, surnommé la Planète océan, constamment soumis à une chaleur étouffante, ont fait des douceurs glacées leur priorité absolue. Chaque été, ils organisent un festival des boissons glacées endiablé qui réunit les meilleurs maîtres des desserts glacés de l'univers, en lice pour le titre de Roi de l'été. Le vainqueur reçoit la récompense ultime : une couronne majestueuse ornée d'un flan glacé. En tant que voyageuse de passage dans ces contrées et fervente participante aux festivités, Octavia offrit au vainqueur un présent digne d'une sorcière : une minuscule étincelle de magie rafraîchissante. Celle-ci transforma la couronne en une véritable glace pilée, éternellement fondante, qui absorbe continuellement la chaleur ambiante, procurant une fraîcheur intense à tous.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265348,
+    "Name": "Ensemble de Manekina - Limonade salée",
+    "Description": "Le set de limonade salée. Tenue de plage qui respire la fraîcheur et le dynamisme, elle est confectionnée dans un tissu léger et respirant et ses couleurs vives et attrayantes évoquent la sensation rafraîchissante d'une gorgée de soda glacé au citron salé. Enfilez-la et vous pourrez facilement vous désaltérer pendant les chaudes journées d'été avant de profiter du soleil et des vagues !\n\nDans le 503e monde, surnommé la Planète océan, où la chaleur est omniprésente, Octavia n'était pas la seule nouvelle venue sur la plage... Elle avait emporté avec elle un fruit jaune, ovale et acidulé : le citron. À vrai dire, Octavia n'aimait pas du tout les citrons et les trouvait même un peu repoussants. Malgré tout, elle en avait emporté à contrecœur pour son long voyage, dans l'espoir de prévenir d'éventuelles maladies.\nÀ son arrivée dans le 503e monde, Octavia avait complètement oublié les citrons dans son sac. Mais lorsqu'elle voulut commander un soda au citron salé dans un restaurant de la Planète océan, elle découvrit que les habitants ignoraient tout du citron, ce fruit ne poussant que sous les climats tempérés. À cet instant, ses souvenirs lui revinrent en mémoire. Il s'avéra qu'un soda au citron salé bien frais était le remède idéal contre la chaleur accablante, et lorsque les habitants la supplièrent, Octavia accepta avec joie de leur donner tous ses citrons pour qu'ils puissent les planter et les cultiver. Mais n'ayant aucune envie de jouer les déesses, elle refusa catégoriquement le titre prestigieux de Reine des citrons qu'ils tentaient de lui conférer. Elle accepta simplement cette jolie tenue offerte par les habitants comme un précieux souvenir de cette rencontre extraterrestre.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265349,
+    "Name": "Ensemble de Manekin - Limonade salée",
+    "Description": "Le set de limonade salée. Tenue de plage qui respire la fraîcheur et le dynamisme, elle est confectionnée dans un tissu léger et respirant et ses couleurs vives et attrayantes évoquent la sensation rafraîchissante d'une gorgée de soda glacé au citron salé. Enfilez-la et vous pourrez facilement vous désaltérer pendant les chaudes journées d'été avant de profiter du soleil et des vagues !\n\nDans le 503e monde, surnommé la Planète océan, où la chaleur est omniprésente, Octavia n'était pas la seule nouvelle venue sur la plage... Elle avait emporté avec elle un fruit jaune, ovale et acidulé : le citron. À vrai dire, Octavia n'aimait pas du tout les citrons et les trouvait même un peu repoussants. Malgré tout, elle en avait emporté à contrecœur pour son long voyage, dans l'espoir de prévenir d'éventuelles maladies.\nÀ son arrivée dans le 503e monde, Octavia avait complètement oublié les citrons dans son sac. Mais lorsqu'elle voulut commander un soda au citron salé dans un restaurant de la Planète océan, elle découvrit que les habitants ignoraient tout du citron, ce fruit ne poussant que sous les climats tempérés. À cet instant, ses souvenirs lui revinrent en mémoire. Il s'avéra qu'un soda au citron salé bien frais était le remède idéal contre la chaleur accablante, et lorsque les habitants la supplièrent, Octavia accepta avec joie de leur donner tous ses citrons pour qu'ils puissent les planter et les cultiver. Mais n'ayant aucune envie de jouer les déesses, elle refusa catégoriquement le titre prestigieux de Reine des citrons qu'ils tentaient de lui conférer. Elle accepta simplement cette jolie tenue offerte par les habitants comme un précieux souvenir de cette rencontre extraterrestre.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265350,
+    "Name": "Ensemble de Manekina - Prépotence acérée",
+    "Description": "Le set de prépotence acérée. Enfilez cette tenue de sport décontractée qui incarne la passion ardente et devenez une figure d'autorité suprême, alimentée par la puissance brute des crocs et des griffes qui dominent ce royaume. Appropriez-vous cette force indomptable et brisez tous les obstacles !\n\nIl y a fort longtemps, bien avant qu'Octavia ne pose le pied dans le 67e monde, cette planète lointaine abritait une race de dragons. Cependant, ces colosses n'ont jamais atteint l'intelligence et les ambitions de leurs cousins de Teyvat, et lorsqu'ils ont finalement péri dans les méandres du temps, ils n'ont laissé derrière eux que des fossiles monumentaux. Surpassant toute créature vivante connue en taille et en férocité, ces fossiles ont suscité une fascination sans fin pour un monde primitif de vie sauvage et de carnage, et ont donné naissance à tout un genre artistique captivant, centré sur les colosses. Aujourd'hui, la présence imposante de ces anciens seigneurs a été réinterprétée par les artistes comme une icône de style moderne qui continue de témoigner silencieusement de leur esprit farouche et inflexible.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265351,
+    "Name": "Ensemble de Manekin - Prépotence acérée",
+    "Description": "Le set de prépotence acérée. Enfilez cette tenue de sport décontractée qui incarne la passion ardente et devenez une figure d'autorité suprême, alimentée par la puissance brute des crocs et des griffes qui dominent ce royaume. Appropriez-vous cette force indomptable et brisez tous les obstacles !\n\nIl y a fort longtemps, bien avant qu'Octavia ne pose le pied dans le 67e monde, cette planète lointaine abritait une race de dragons. Cependant, ces colosses n'ont jamais atteint l'intelligence et les ambitions de leurs cousins de Teyvat, et lorsqu'ils ont finalement péri dans les méandres du temps, ils n'ont laissé derrière eux que des fossiles monumentaux. Surpassant toute créature vivante connue en taille et en férocité, ces fossiles ont suscité une fascination sans fin pour un monde primitif de vie sauvage et de carnage, et ont donné naissance à tout un genre artistique captivant, centré sur les colosses. Aujourd'hui, la présence imposante de ces anciens seigneurs a été réinterprétée par les artistes comme une icône de style moderne qui continue de témoigner silencieusement de leur esprit farouche et inflexible.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265415,
+    "Name": "Ensemble de Manekina - Tzitzimime spirituel",
+    "Description": "Le set de tzitzimime spirituel. Dans le 777e monde, où la magie est l'essence même de la vie, rares sont les mages capables de sceller des fragments d'étoiles et de manier la poussière cosmique. Cet art ancestral exige non seulement un talent prodigieux, mais aussi une vie entière d'apprentissage. Les dangers qu'il comporte sont tout aussi immenses, et un seul faux pas peut entraîner des conséquences catastrophiques. C'est pourquoi ceux qui le maîtrisent sont presque exclusivement des érudits vénérables qui ont consacré des siècles à l'étude des arcanes.\nTandis que Paimon feuilletait les archives du 777e monde, elle ne put s'empêcher de soupirer d'admiration. « Des siècles... Et ces érudits sont encore loin d'égaler Citlali ? »\n« Mais honnêtement, puisque Citlalin et Itzpapa aident grand-mère Itztli, ces érudits ne pourront jamais atteindre son niveau ! »\nComme pour répondre aux paroles de Paimon, le Paradisia réagit. Les deux tenues, initialement simples, commencèrent à se transformer, prenant peu à peu les caractéristiques distinctes de Citlalin et Itzpapa issues des souvenirs de Paimon...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265416,
+    "Name": "Ensemble de Manekin - Tzitzimime spirituel",
+    "Description": "Le set de tzitzimime spirituel. Dans le 777e monde, où la magie est l'essence même de la vie, rares sont les mages capables de sceller des fragments d'étoiles et de manier la poussière cosmique. Cet art ancestral exige non seulement un talent prodigieux, mais aussi une vie entière d'apprentissage. Les dangers qu'il comporte sont tout aussi immenses, et un seul faux pas peut entraîner des conséquences catastrophiques. C'est pourquoi ceux qui le maîtrisent sont presque exclusivement des érudits vénérables qui ont consacré des siècles à l'étude des arcanes.\nTandis que Paimon feuilletait les archives du 777e monde, elle ne put s'empêcher de soupirer d'admiration. « Des siècles... Et ces érudits sont encore loin d'égaler Citlali ? »\n« Mais honnêtement, puisque Citlalin et Itzpapa aident grand-mère Itztli, ces érudits ne pourront jamais atteindre son niveau ! »\nComme pour répondre aux paroles de Paimon, le Paradisia réagit. Les deux tenues, initialement simples, commencèrent à se transformer, prenant peu à peu les caractéristiques distinctes de Citlalin et Itzpapa issues des souvenirs de Paimon...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265356,
+    "Name": "Ensemble de Manekina - Éclair de savane",
+    "Description": "Le set d'éclair de savane. Cette tenue décontractée exhale l'énergie brute de la nature sauvage. Son design s'inspire des félins agiles et racés qui sillonnent la savane. Rayonnant d'une aisance naturelle et d'une sauvagerie singulière, ce look confère une confiance audacieuse et rayonnante.\n\nVivre une évolution paisible et naturelle au sein d'un univers regorgeant de dangers relève de la pure chance, surtout pour une planète primitive comme le 206e monde, totalement ignorante du vaste cosmos. Première visiteuse extraterrestre à y parvenir, Octavia ne put s'empêcher de s'inquiéter pour la sécurité de la planète. Après mûre réflexion, elle contacta la planète voisine, le 93e monde connu sous le nom de Planète académique, confiant à ce monde neutre la mission de veiller silencieusement sur le développement de la jeune civilisation planétaire. À sa grande surprise, avant même que la société avancée du 93e monde n'ait pu laisser son empreinte sur cette terre sauvage, l'énergie brute et primordiale du 206e monde avait déjà conquis le cœur des jeunes de la Planète académique. Pour ces jeunes gens, longtemps confinés dans leurs tours d'ivoire d'apprentissage sans fin, cette esthétique presque « sauvage » fut une véritable révélation. Rapidement, une tendance de mode célébrant la nature à l'état brut et l'énergie indomptée s'est imposée dans certains établissements scolaires. Pour immortaliser cet épisode historique marquant, Octavia décida de capturer le look le plus en vogue de l'époque...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265357,
+    "Name": "Ensemble de Manekin - Éclair de savane",
+    "Description": "Le set d'éclair de savane. Cette tenue décontractée exhale l'énergie brute de la nature sauvage. Son design s'inspire des félins agiles et racés qui sillonnent la savane. Rayonnant d'une aisance naturelle et d'une sauvagerie singulière, ce look confère une confiance audacieuse et rayonnante.\n\nVivre une évolution paisible et naturelle au sein d'un univers regorgeant de dangers relève de la pure chance, surtout pour une planète primitive comme le 206e monde, totalement ignorante du vaste cosmos. Première visiteuse extraterrestre à y parvenir, Octavia ne put s'empêcher de s'inquiéter pour la sécurité de la planète. Après mûre réflexion, elle contacta la planète voisine, le 93e monde connu sous le nom de Planète académique, confiant à ce monde neutre la mission de veiller silencieusement sur le développement de la jeune civilisation planétaire. À sa grande surprise, avant même que la société avancée du 93e monde n'ait pu laisser son empreinte sur cette terre sauvage, l'énergie brute et primordiale du 206e monde avait déjà conquis le cœur des jeunes de la Planète académique. Pour ces jeunes gens, longtemps confinés dans leurs tours d'ivoire d'apprentissage sans fin, cette esthétique presque « sauvage » fut une véritable révélation. Rapidement, une tendance de mode célébrant la nature à l'état brut et l'énergie indomptée s'est imposée dans certains établissements scolaires. Pour immortaliser cet épisode historique marquant, Octavia décida de capturer le look le plus en vogue de l'époque...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265358,
+    "Name": "Ensemble de Manekina - Mer colorée",
+    "Description": "Le set de mer colorée. Il s'agit d'une combinaison de combat côtière d'été qui incarne l'exubérance pure, la joie débridée et la vitalité sans limites en un seul look. Il n'y a pas de meilleur moment pour bannir toute fatigue et toute contrariété que dans la chaleur torride du milieu de l'été, alors équipez-vous d'une protection solaire complète et prenez votre pistolet à eau pour une « guerre » totale contre vos soucis sur ce rivage éblouissant !\n\nInformés par l'esthétique de l'éclaboussure artistique, les habitants du 503e monde, surnommé la Planète océan, ont adopté un « rituel de guerre » unique pour remodeler leurs liens avec eux-mêmes et avec la communauté. C'est pourquoi, en été, les plages regorgent toujours de jeunes en faux uniformes de combat qui se frayent un chemin à travers les vagues de l'océan dans une chaleur étouffante. Pourtant, ceux qui ont laissé la plus profonde impression sur Octavia étaient un jeune garçon et une jeune fille apparemment ordinaires. Ils n'avaient aucune prouesse physique exceptionnelle et ne portaient aucun équipement avancé. En fait, pour quelqu'un avec des capacités de combat exceptionnelles comme Octavia, leurs mouvements lents ressemblaient exactement à des gouttes d'encre tourbillonnant et se dissolvant progressivement dans l'eau. Cependant, ces « couleurs » qui se déployaient lentement débordaient d'une force vitale si brillante et étaient un tel plaisir à voir qu'il lui était tout simplement impossible de détourner ses yeux d'elles. Peut-être était-ce à cela que la jeunesse était censée ressembler, ou peut-être était-ce le véritable objectif pour lequel le rituel de guerre avait été créé en premier lieu... Émue, Octavia a spécialement conçu cette tenue pour le couple, dans l'espoir qu'elle leur permettrait de conserver cet esprit vibrant et cette énergie de jeunesse pendant longtemps.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265359,
+    "Name": "Ensemble de Manekin - Mer colorée",
+    "Description": "Le set de mer colorée. Il s'agit d'une combinaison de combat côtière d'été qui incarne l'exubérance pure, la joie débridée et la vitalité sans limites en un seul look. Il n'y a pas de meilleur moment pour bannir toute fatigue et toute contrariété que dans la chaleur torride du milieu de l'été, alors équipez-vous d'une protection solaire complète et prenez votre pistolet à eau pour une « guerre » totale contre vos soucis sur ce rivage éblouissant !\n\nInformés par l'esthétique de l'éclaboussure artistique, les habitants du 503e monde, surnommé la Planète océan, ont adopté un « rituel de guerre » unique pour remodeler leurs liens avec eux-mêmes et avec la communauté. C'est pourquoi, en été, les plages regorgent toujours de jeunes en faux uniformes de combat qui se frayent un chemin à travers les vagues de l'océan dans une chaleur étouffante. Pourtant, ceux qui ont laissé la plus profonde impression sur Octavia étaient un jeune garçon et une jeune fille apparemment ordinaires. Ils n'avaient aucune prouesse physique exceptionnelle et ne portaient aucun équipement avancé. En fait, pour quelqu'un avec des capacités de combat exceptionnelles comme Octavia, leurs mouvements lents ressemblaient exactement à des gouttes d'encre tourbillonnant et se dissolvant progressivement dans l'eau. Cependant, ces « couleurs » qui se déployaient lentement débordaient d'une force vitale si brillante et étaient un tel plaisir à voir qu'il lui était tout simplement impossible de détourner ses yeux d'elles. Peut-être était-ce à cela que la jeunesse était censée ressembler, ou peut-être était-ce le véritable objectif pour lequel le rituel de guerre avait été créé en premier lieu... Émue, Octavia a spécialement conçu cette tenue pour le couple, dans l'espoir qu'elle leur permettrait de conserver cet esprit vibrant et cette énergie de jeunesse pendant longtemps.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265360,
+    "Name": "Ensemble de Manekina - Mer colorée : crépuscule",
+    "Description": "Le set ascensionné de mer colorée. Ici, il a pris les teintes sereines et rêveuses du crépuscule. Maintenant que la nuit est tombée, il est temps de traiter ce rideau profond et sombre comme votre toile. Prenez votre pistolet à eau, lâchez vos cheveux et peignez un spectacle nocturne d'été qui vous est propre !\n\nInformés par l'esthétique de l'éclaboussure artistique, les habitants du 503e monde, surnommé la Planète océan, ont adopté un « rituel de guerre » unique pour remodeler leurs liens avec eux-mêmes et avec la communauté. C'est pourquoi, en été, les plages regorgent toujours de jeunes en faux uniformes de combat qui se frayent un chemin à travers les vagues de l'océan dans une chaleur étouffante. Pourtant, ceux qui ont laissé la plus profonde impression sur Octavia étaient un jeune garçon et une jeune fille apparemment ordinaires. Ils n'avaient aucune prouesse physique exceptionnelle et ne portaient aucun équipement avancé. En fait, pour quelqu'un avec des capacités de combat exceptionnelles comme Octavia, leurs mouvements lents ressemblaient exactement à des gouttes d'encre tourbillonnant et se dissolvant progressivement dans l'eau. Cependant, ces « couleurs » qui se déployaient lentement débordaient d'une force vitale si brillante et étaient un tel plaisir à voir qu'il lui était tout simplement impossible de détourner ses yeux d'elles. Peut-être était-ce à cela que la jeunesse était censée ressembler, ou peut-être était-ce le véritable objectif pour lequel le rituel de guerre avait été créé en premier lieu... Émue, Octavia a spécialement conçu cette tenue pour le couple, dans l'espoir qu'elle leur permettrait de conserver cet esprit vibrant et cette énergie de jeunesse pendant longtemps.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0018",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265361,
+    "Name": "Ensemble de Manekin - Mer colorée : crépuscule",
+    "Description": "Le set ascensionné de mer colorée. Ici, il a pris les teintes sereines et rêveuses du crépuscule. Maintenant que la nuit est tombée, il est temps de traiter ce rideau profond et sombre comme votre toile. Prenez votre pistolet à eau, lâchez vos cheveux et peignez un spectacle nocturne d'été qui vous est propre !\n\nInformés par l'esthétique de l'éclaboussure artistique, les habitants du 503e monde, surnommé la Planète océan, ont adopté un « rituel de guerre » unique pour remodeler leurs liens avec eux-mêmes et avec la communauté. C'est pourquoi, en été, les plages regorgent toujours de jeunes en faux uniformes de combat qui se frayent un chemin à travers les vagues de l'océan dans une chaleur étouffante. Pourtant, ceux qui ont laissé la plus profonde impression sur Octavia étaient un jeune garçon et une jeune fille apparemment ordinaires. Ils n'avaient aucune prouesse physique exceptionnelle et ne portaient aucun équipement avancé. En fait, pour quelqu'un avec des capacités de combat exceptionnelles comme Octavia, leurs mouvements lents ressemblaient exactement à des gouttes d'encre tourbillonnant et se dissolvant progressivement dans l'eau. Cependant, ces « couleurs » qui se déployaient lentement débordaient d'une force vitale si brillante et étaient un tel plaisir à voir qu'il lui était tout simplement impossible de détourner ses yeux d'elles. Peut-être était-ce à cela que la jeunesse était censée ressembler, ou peut-être était-ce le véritable objectif pour lequel le rituel de guerre avait été créé en premier lieu... Émue, Octavia a spécialement conçu cette tenue pour le couple, dans l'espoir qu'elle leur permettrait de conserver cet esprit vibrant et cette énergie de jeunesse pendant longtemps.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0018",
     "Type": 2,
     "RankLevel": 5
   },
@@ -11024,6 +11552,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 275348,
+    "Name": "Catalogue de set - Limonade salée",
+    "Description": "Un cristal condensé à partir de phénomènes du Paradisia, contenant des informations sur le set de limonade salée. Lors de la recréation, vous pouvez choisir librement l'ensemble de Manekin ou de Manekina correspondant.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
+    "Type": 3,
+    "RankLevel": 4
+  },
+  {
     "Id": 280001,
     "Name": "Ensemble de Manekina - Robe d'élégance gracieuse",
     "Description": "Une robe élégante et finement confectionnée. Elle est dotée d'une jupe gracieuse et d'un foulard en satin discret, créant une allure digne et soignée. Le charme d'une majordome réside dans son sens du devoir et sa discipline, et une tenue appropriée contribue à renforcer cette prestance.",
@@ -11460,6 +11996,110 @@
     "Name": "Ensemble de Manekin - Ornement d'éclaboussure artistique",
     "Description": "Un accessoire de type appareil photo aux couleurs vives et éclatantes, souvent porté à la taille pour un accès facile dès qu'apparaît quelque chose qui mérite d'être immortalisé.",
     "Icon": "UI_Beyd_Avatar_Boy_WaistAcc_S0132",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280056,
+    "Name": "Ensemble de Manekina - Tenue formelle d'été de farniente",
+    "Description": "Une robe de soirée exquise d'un doux violet évoquant le crépuscule. Laissez libre cours à votre esprit grâce à l'association d'un trèfle à trois feuilles doré, d'un élégant nœud papillon fleuri violet et d'un subtil motif floral bordé d'or qui évoque la sérénité d'une nuit d'été.",
+    "Icon": "UI_Beyd_Avatar_Girl_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280057,
+    "Name": "Ensemble de Manekina - Chaussures d'été de farniente",
+    "Description": "Des chaussures violet foncé ornées de nœuds, simples mais élégantes. On a l'impression que chaque pas laissera une douce empreinte sur la pelouse éclairée par la lune.",
+    "Icon": "UI_Beyd_Avatar_Girl_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280058,
+    "Name": "Ensemble de Manekina - Coiffure longue d'été de farniente",
+    "Description": "Une longue coiffure vaporeuse, dominée par un blanc serein. Ce look évoque une élégance décontractée, comme si la fraîcheur du clair de lune d'une nuit d'été et la lueur scintillante des lucioles s'étaient incrustées dans la chevelure.",
+    "Icon": "UI_Beyd_Avatar_Girl_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280059,
+    "Name": "Ensemble de Manekina - Bandeau d'été de farniente",
+    "Description": "Un bandeau magnifique et élégant. Apportez à votre chevelure la douce lueur des lucioles et la sérénité du crépuscule grâce à ce bandeau, et vous pourrez vivre une soirée féerique sous les étoiles, embaumée de parfums floraux.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280060,
+    "Name": "Ensemble de Manekina - Bracelets d'été de farniente",
+    "Description": "Un bracelet plissé d'un blanc pur, fixé au poignet par un bandeau foncé. Son design simple et minimaliste s'accorde parfaitement avec la tenue et apporte une touche de raffinement.",
+    "Icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280061,
+    "Name": "Ensemble de Manekina - Chaussettes longues d'été de farniente",
+    "Description": "Des bas blancs à motif géométrique discret. Ils semblent tisser la lumière des étoiles d'une nuit d'été autour de vos chevilles, offrant une allure d'une légèreté et d'une élégance naturelles.",
+    "Icon": "UI_Beyd_Avatar_Girl_LegAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280062,
+    "Name": "Ensemble de Manekin - Tenue formelle d'été de farniente",
+    "Description": "Une tenue de soirée exquise qui marie avec subtilité les pourpres du crépuscule aux gris chauds de l'aube. Laissez libre cours à votre esprit grâce à cette combinaison d'un trèfle à trois feuilles doré, d'un nœud papillon orange vif et d'un motif géométrique discret aux finitions dorées, évoquant la sérénité d'une nuit d'été.",
+    "Icon": "UI_Beyd_Avatar_Boy_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280063,
+    "Name": "Ensemble de Manekin - Pantalon d'été de farniente",
+    "Description": "Un pantalon long aux tons gris et violets apaisants, à la silhouette simple et épurée. Les subtils motifs géométriques qui ornent les ourlets attirent le regard comme une cascade d'étoiles dans un ciel d'été.",
+    "Icon": "UI_Beyd_Avatar_Boy_Bottom_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280064,
+    "Name": "Ensemble de Manekin - Chaussures d'été de farniente",
+    "Description": "Des chaussures aux finitions dorées, simples mais élégantes. On a l'impression que chaque pas laissera une douce empreinte sur la pelouse éclairée par la lune.",
+    "Icon": "UI_Beyd_Avatar_Boy_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280065,
+    "Name": "Ensemble de Manekin - Coiffure courte d'été de farniente",
+    "Description": "Une courte coiffure vaporeuse, dominée par un blanc serein. Ce look évoque une élégance décontractée, comme si la fraîcheur du clair de lune d'une nuit d'été et la lueur scintillante des lucioles s'étaient incrustées dans la chevelure.",
+    "Icon": "UI_Beyd_Avatar_Boy_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280066,
+    "Name": "Ensemble de Manekin - Chapeau d'été de farniente",
+    "Description": "Un chapeau dont le bord est ceinturé d'un ruban orné d'un motif de trèfle à trois feuilles. Il dégage une élégance sobre qui s'accorde parfaitement avec l'ensemble de la tenue.",
+    "Icon": "UI_Beyd_Avatar_Boy_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280067,
+    "Name": "Ensemble de Manekin - Montre-bracelet d'été de farniente",
+    "Description": "Une montre-bracelet au design épuré, discrète mais néanmoins raffinée. Un fin motif doré est gravé sur le cadran, en harmonie avec le style de la tenue.",
+    "Icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280068,
+    "Name": "Ensemble de Manekin - Chaussettes courtes d'été de farniente",
+    "Description": "Des chaussettes claires assorties à la palette de couleurs de la tenue. Malgré leur simplicité, elles dégagent une impression de fraîcheur, comme des pétales frémissant doucement dans la brise d'une nuit d'été.",
+    "Icon": "UI_Beyd_Avatar_Boy_LegAcc_S0143",
     "Type": 1,
     "RankLevel": 4
   }

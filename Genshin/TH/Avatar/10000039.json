@@ -510,6 +510,29 @@
         "Icon": "Skill_S_Diona_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 395101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                3.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 395101,
+        "Name": "Choice Treasures",
+        "Description": "ภายใน 20 วินาที หลังจากใช้สกิลธาตุ <color=#FFD780FF>Icy Paws</color> เมื่อตัวละครในทีมทำให้เกิดปฏิกิริยานำไฟฟ้าหรือนำไฟฟ้าดารา Diona จะช่วยยิง <color=#FFD780FF>Icy Paws</color> 3 อันด้วย; <color=#FFD780FF>Icy Paws</color> ที่ยิงออกไปด้วยวิธีนี้จะไม่สามารถสร้างอณูธาตุได้ และเมื่อโดนศัตรูก็จะไม่สามารถสร้างโล่ได้เช่นกัน เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้งทุก 3.5 วินาที\nนอกจากนี้ เมื่ออยู่ใน{LINK#N11330003}<color=#FFD780FF>เขตแดนดาราฉาย</color>{/LINK} Diona จะเข้าสู่สถานะ <color=#FFD780FF>เจิดจรัส: นำไฟฟ้าดารา</color>",
+        "Icon": "UI_Talent_S_Diona_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3939,
       "Proud": {

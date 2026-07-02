@@ -5567,5 +5567,62 @@
       14410,
       15410
     ]
+  },
+  {
+    "Name": "거울 속 티타임",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/3019c012643f049b54f8b3aa33f7b280_385088560740600381_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/3019c012643f049b54f8b3aa33f7b280_385088560740600381_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000133
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "별빛 속삭임",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/b29e25434dd8789a24a7d8d9cefb4107_5367127274757283_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/b29e25434dd8789a24a7d8d9cefb4107_5367127274757283_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000107
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "신의 주조",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/50dfa7dc56ef31e914cf978ecb8e1a4c_1466204790584182676_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/50dfa7dc56ef31e914cf978ecb8e1a4c_1466204790584182676_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12516,
+      14517
+    ],
+    "UpPurpleList": [
+      11401,
+      12405,
+      13401,
+      14403,
+      15403
+    ]
   }
 ]

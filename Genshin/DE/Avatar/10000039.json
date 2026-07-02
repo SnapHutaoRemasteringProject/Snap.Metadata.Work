@@ -510,6 +510,29 @@
         "Icon": "Skill_S_Diona_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 3951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 395101,
+              "Level": 1,
+              "Parameters": [
+                20,
+                3.5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 395101,
+        "Name": "Auserwählter Geheimschatz",
+        "Description": "#Innerhalb von 20{NON_BREAK_SPACE}s nach dem Anwenden der Elementarfähigkeit <color=#FFD780FF>Eistatzen</color> führt Diona einen abgestimmten Angriff durchs Abschießen von 3 <color=#FFD780FF>Eistatzen</color> aus, wenn ein Truppenmitglied die Reaktion Supraleiter oder Stellar-Supraleiter auslöst. Die auf diese Weise abgeschossenen <color=#FFD780FF>Eistatzen</color> erzeugen keine Elementarteilchen und generieren auch keinen Schild, wenn sie Gegner treffen. Dieser Effekt hat eine Abklingzeit von 3,5{NON_BREAK_SPACE}s.\nVersetzt Diona zudem, wenn sie sich im {LINK#N11330003}<color=#FFD780FF>Sternglanzfeld</color>{/LINK} befindet, in den Zustand <color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>.",
+        "Icon": "UI_Talent_S_Diona_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 3939,
       "Proud": {

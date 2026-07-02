@@ -5567,5 +5567,62 @@
       14410,
       15410
     ]
+  },
+  {
+    "Name": "Pesta Teh dalam Cerminan",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/616e3a1992a11a495d25d384cf052cfd_2915355245973707717_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/616e3a1992a11a495d25d384cf052cfd_2915355245973707717_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000133
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "Bisikan Malam Berbintang",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/e703624dfdae770652f6e1c5bef76f53_4997037891948845794_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/e703624dfdae770652f6e1c5bef76f53_4997037891948845794_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000107
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "Epitome Invocation",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/074e1e035aa11d86d2c3d2f77a0dbb71_8197878107775429691_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/074e1e035aa11d86d2c3d2f77a0dbb71_8197878107775429691_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12516,
+      14517
+    ],
+    "UpPurpleList": [
+      11401,
+      12405,
+      13401,
+      14403,
+      15403
+    ]
   }
 ]

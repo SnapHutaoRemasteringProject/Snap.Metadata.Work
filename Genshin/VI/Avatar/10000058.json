@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "Sắc Lệnh Đền Thờ",
+        "Description": "Thời gian duy trì Sesshou Sakura tăng thêm 10s. Sau khi nhân vật trong đội ở gần kích hoạt phản ứng Siêu Dẫn hoặc Tinh-Siêu Dẫn, lần giáng sấm sét tiếp theo của Sesshou Sakura sẽ được cường hóa: Tăng sát thương gây ra, mức tăng tương đương 80% Tấn Công của Yae Miko. Hiệu quả này mỗi 2.5s tối đa kích hoạt một lần.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>: Sau khi đòn sấm sét được cường hóa kể trên đánh trúng kẻ địch, sẽ còn gây thêm một lần <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> tương đương 200% Tấn Công của Yae Miko, và được xem là sát thương phản ứng Tinh-Siêu Dẫn.\nNgoài ra, khi ở trong {LINK#N11330003}<color=#FFD780FF>Vùng Trục Sao</color>{/LINK}, Yae Miko sẽ vào trạng thái <color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>.",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

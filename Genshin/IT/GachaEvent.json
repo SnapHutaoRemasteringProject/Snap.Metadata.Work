@@ -5567,5 +5567,62 @@
       14410,
       15410
     ]
+  },
+  {
+    "Name": "Analisi speculare",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/dcc3ef14209e385d91e2631f6232ca36_8064291109312782288_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/dcc3ef14209e385d91e2631f6232ca36_8064291109312782288_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000133
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "Fulgistella d'ossidiana",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/a2a189244d3290339cb0b6982f6c29f6_6055886584674694195_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/a2a189244d3290339cb0b6982f6c29f6_6055886584674694195_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000107
+    ],
+    "UpPurpleList": [
+      10000024,
+      10000039,
+      10000085
+    ]
+  },
+  {
+    "Name": "Incarnazione divina",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/9e3a7ebace88a5b674b4c9ec78d3bac1_3050977251705614488_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/9e3a7ebace88a5b674b4c9ec78d3bac1_3050977251705614488_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      12516,
+      14517
+    ],
+    "UpPurpleList": [
+      11401,
+      12405,
+      13401,
+      14403,
+      15403
+    ]
   }
 ]

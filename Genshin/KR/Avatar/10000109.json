@@ -448,6 +448,31 @@
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 10951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1095101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                2.5,
+                0.1,
+                5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1095101,
+        "Name": "꿈의 확산",
+        "Description": "유메미즈키 미즈키가 부유몽 상태에서 확산 반응 발동 후, 이번 부유몽 기간 동안, 다음번에 주변의 적에게 주기적으로 주는 <color=#80FFD7FF>바람 원소 범위 피해</color>가 증가한다. 증가량은 유메미즈키 미즈키의 원소 마스터리의 1000%에 해당한다. 해당 효과는 2.5초마다 최대 1회 발동된다.\n또한 부유몽 상태 시, 주변에 있는 파티 내 캐릭터의 원소 마스터리가 증가한다. 증가량은 유메미즈키 미즈키 자신의 원소 마스터리의 10%에 해당한다",
+        "Icon": "UI_Talent_S_Mizuki_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 10939,
       "Proud": {

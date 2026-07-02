@@ -539,6 +539,33 @@
         "Icon": "Skill_S_Wriothesley_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 8651,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 865101,
+              "Level": 1,
+              "Parameters": [
+                0.6,
+                0.3,
+                2,
+                0.3,
+                -0.4,
+                -0.2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 865101,
+        "Name": "Las injusticias siempre salen a la luz",
+        "Description": "#<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nTransforma el efecto del talento de ascensión “Refutación del dogma”:\nCuando la Vida de Wriothesley está por debajo del 60%, obtiene el efecto de “merced reprensora: manifestación”, el cual fortalece el siguiente Ataque Cargado de <color=#FFD780FF>Ataque Normal: Combo glaciodemoledor</color> para convertirlo en un gancho alto cenital que no consume Aguante y que, al golpear al enemigo, restaura Vida a Wriothesley en una cantidad equivalente al 30% de su propia Vida Máx. Como máximo, podrá restaurar Vida de esta manera una vez cada 2{NON_BREAK_SPACE}s.\nAdemás, los puñetazos expeledores tercero y quinto fortalecidos por <color=#FFD780FF>sentencia gélida</color> infligirán, respectivamente, el 60/80% del <color=#99FFFFFF>Daño Cryo</color> original, y el gancho alto cenital infligirá el 100% del <color=#99FFFFFF>Daño Cryo en el AdE</color> original. Estos se consideran daño de Superconductor Estelar, y el daño de esta reacción infligido por Wriothesley aumenta en un 30%.\nAdemás, Wriothesley entrará en el estado de <color=#FFD780FF>esplendor: Superconductor Estelar</color> mientras se encuentre dentro de un {LINK#N11330003}<color=#FFD780FF>campo estrellapolar</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Wriothesley_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 8639,
       "Proud": {

@@ -1128,6 +1128,38 @@
     "RankLevel": 5
   },
   {
+    "Id": 250473,
+    "Name": "Mega Herzchen!",
+    "Description": "Sehr gut!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 3
+  },
+  {
+    "Id": 250474,
+    "Name": "Portion Eis genießen",
+    "Description": "Kühl und lecker!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 4
+  },
+  {
+    "Id": 250475,
+    "Name": "Prost!",
+    "Description": "Gönn dir ein erfrischendes Getränk!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
+    "Id": 250476,
+    "Name": "Hoch die Tassen!",
+    "Description": "Gönn dir einen erfrischenden Schluck!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
     "Id": 251001,
     "Name": "Märchentheater – Die Ballade der Hexe",
     "Description": "Dieses Theater, das es durch die Aufführung des Stücks „Die Ballade der Hexe“ zu einiger Berühmtheit brachte, richtet seine Scheinwerfer nun auf neue Gäste.",
@@ -1192,6 +1224,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 251009,
+    "Name": "Vergessene Insel – Azurblaues Wellenlicht",
+    "Description": "Das Sonnenlicht hier ist nicht zum Leuchten da, sondern zum Baden darin. Das Meer hier ist nicht nur blaues Wasser, sondern geschmolzene Edelsteine.",
+    "Icon": "UI_Beyd_HallThemeIcon_Xrht",
+    "Type": 10,
+    "RankLevel": 4
+  },
+  {
     "Id": 251201,
     "Name": "Standard-Teleportation",
     "Description": "Ankunft und Abreise mit Anmut ...",
@@ -1244,6 +1284,14 @@
     "Name": "Wirbelnde Schmetterlinge",
     "Description": "Wie sichtbarer Duft ...",
     "Icon": "UI_UGC_Transfer_BP_SuperRare_S0121",
+    "Type": 7,
+    "RankLevel": 4
+  },
+  {
+    "Id": 251208,
+    "Name": "Glitzerndes Wellenlicht",
+    "Description": "Mit dem Meereswind und dem Schaum hin- und hertreiben.",
+    "Icon": "UI_UGC_Transfer_BP_SuperRare_S0017",
     "Type": 7,
     "RankLevel": 4
   },
@@ -1536,6 +1584,38 @@
     "RankLevel": 4
   },
   {
+    "Id": 257037,
+    "Name": "Probeumhang: „Spiritueller Sternendämon“",
+    "Description": "Ein Umhang mit unglaublichen Nachbildungsfähigkeiten. Beim Überstreifen passt er sich automatisch an die Form der entsprechenden Kleidung an und reproduziert sogar Accessoires und Make-up genau. Bei der Aufbewahrung faltet er sich zu einer kartenähnlichen Form zusammen, die das einfache Platzieren und Erkennen des entsprechenden Looks ermöglicht.\nBei richtiger Anwendung dient er als praktisches „Anprobe“-Objekt.\nKann innerhalb von 14 Tagen nach Erhalt verwendet werden. Einmal verwendet hält der Anprobe-Effekt 1 Tag lang an. Nach dem Ende dieser Chronik wird dieses Objekt ungültig.\nDer Probeumhang kann nur als vollständiges Set anprobiert und nicht einzeln getragen werden.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257038,
+    "Name": "Probeumhang: „Spiritueller Sternendämon“",
+    "Description": "Ein Umhang mit unglaublichen Nachbildungsfähigkeiten. Beim Überstreifen passt er sich automatisch an die Form der entsprechenden Kleidung an und reproduziert sogar Accessoires und Make-up genau. Bei der Aufbewahrung faltet er sich zu einer kartenähnlichen Form zusammen, die das einfache Platzieren und Erkennen des entsprechenden Looks ermöglicht.\nBei richtiger Anwendung dient er als praktisches „Anprobe“-Objekt.\nKann innerhalb von 14 Tagen nach Erhalt verwendet werden. Einmal verwendet hält der Anprobe-Effekt 1 Tag lang an. Nach dem Ende dieser Chronik wird dieses Objekt ungültig.\nDer Probeumhang kann nur als vollständiges Set anprobiert und nicht einzeln getragen werden.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257039,
+    "Name": "Probeumhang: „Herrlich erfrischend“",
+    "Description": "Ein Umhang mit unglaublichen Nachbildungsfähigkeiten. Beim Überstreifen passt er sich automatisch an die Form der entsprechenden Kleidung an und reproduziert sogar Accessoires und Make-up genau. Bei der Aufbewahrung faltet er sich zu einer kartenähnlichen Form zusammen, die das einfache Platzieren und Erkennen des entsprechenden Looks ermöglicht.\nBei richtiger Anwendung dient er als praktisches „Anprobe“-Objekt.\nKann innerhalb von 14 Tagen nach Erhalt verwendet werden. Einmal verwendet hält der Anprobe-Effekt 1 Tag lang an. Nach dem Ende dieser Chronik wird dieses Objekt ungültig.\nDer Probeumhang kann nur als vollständiges Set anprobiert und nicht einzeln getragen werden.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257040,
+    "Name": "Probeumhang: „Herrlich erfrischend“",
+    "Description": "Ein Umhang mit unglaublichen Nachbildungsfähigkeiten. Beim Überstreifen passt er sich automatisch an die Form der entsprechenden Kleidung an und reproduziert sogar Accessoires und Make-up genau. Bei der Aufbewahrung faltet er sich zu einer kartenähnlichen Form zusammen, die das einfache Platzieren und Erkennen des entsprechenden Looks ermöglicht.\nBei richtiger Anwendung dient er als praktisches „Anprobe“-Objekt.\nKann innerhalb von 14 Tagen nach Erhalt verwendet werden. Einmal verwendet hält der Anprobe-Effekt 1 Tag lang an. Nach dem Ende dieser Chronik wird dieses Objekt ungültig.\nDer Probeumhang kann nur als vollständiges Set anprobiert und nicht einzeln getragen werden.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
     "Id": 258001,
     "Name": "Look-Kombi „Grazie in Bewegung“",
     "Description": "Enthält zwei Look-Sets der Reihe „Grazie in Bewegung“, eins für den Mannekin und eins für die Mannekina.\n„Im Vergleich zum Kauf des einzelnen Sets erhältst du das zweite Set zum halben Preis!“",
@@ -1652,6 +1732,38 @@
     "Name": "Look-Kombi: „Grüne Jagd“",
     "Description": "Enthält zwei Look-Sets der Reihe „Grüne Jagd“, eins für den Mannekin und eins für die Mannekina.\n„Im Vergleich zum Kauf des einzelnen Sets erhältst du das zweite Set zum halben Preis!“",
     "Icon": "UI_Beyd_Avatar_Optional_Suit_S0175",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258016,
+    "Name": "Look-Kombi: „Farbtupfer-Maler“",
+    "Description": "Enthält zwei Look-Sets der Reihe „Farbtupfer-Maler“, eins für den Mannekin und eins für die Mannekina.\n„Im Vergleich zum Kauf des einzelnen Sets erhältst du das zweite Set zum halben Preis!“",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0132",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258017,
+    "Name": "Look-Kombi: „Spiritueller Sternendämon“",
+    "Description": "Enthält zwei Look-Sets der Reihe „Spiritueller Sternendämon“, eins für den Mannekin und eins für die Mannekina.\n„Im Vergleich zum Kauf des einzelnen Sets erhältst du das zweite Set zum halben Preis!“",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0190",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258018,
+    "Name": "Look-Kombi: „Aphimead-Rezept“",
+    "Description": "Enthält zwei Look-Sets der Reihe „Aphimead-Rezept“, eins für den Mannekin und eins für die Mannekina.\n„Im Vergleich zum Kauf des einzelnen Sets erhältst du das zweite Set zum halben Preis!“",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0174",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258019,
+    "Name": "Look-Kombi: „Fauler Hai“",
+    "Description": "Enthält zwei Look-Sets der Reihe „Fauler Hai“, eins für den Mannekin und eins für die Mannekina.\n„Im Vergleich zum Kauf des einzelnen Sets erhältst du das zweite Set zum halben Preis!“",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0054",
     "Type": 16,
     "RankLevel": 3
   },
@@ -1897,6 +2009,46 @@
   },
   {
     "Id": 258531,
+    "Name": "Zufälliger Probeumhang – Look des Mannekin",
+    "Description": "Ein Umhang mit unglaublichen Nachbildungsfähigkeiten. Beim Überstreifen passt er sich automatisch an die Form eines zufälligen Mannekins-Looks an und reproduziert sogar Accessoires und Make-up genau.\nBei richtiger Anwendung dient er als praktisches „Anprobe“-Objekt.\nKann innerhalb von 14 Tagen nach Erhalt verwendet werden. Einmal verwendet, hält der Anprobe-Effekt 1 Tag lang an. Nach dem Ende dieser Chronik wird dieses Objekt ungültig.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258532,
+    "Name": "Chronik-Tresor – Außergewöhnlich",
+    "Description": "Eine Geschenkbox mit erlesenen Look-Sets. Benutze sie, um eines aus den Look-Sets der entsprechenden Qualität auszuwählen.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0146",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258533,
+    "Name": "Chronik-Tresor – Außergewöhnlich",
+    "Description": "Eine Geschenkbox mit erlesenen Look-Sets. Benutze sie, um eines aus den Look-Sets der entsprechenden Qualität auszuwählen.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0147",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258534,
+    "Name": "Chronik-Tresor – Herausragend",
+    "Description": "Eine Geschenkbox mit erlesenen Look-Sets. Benutze sie, um eines aus den Look-Sets der entsprechenden Qualität auszuwählen.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0191",
+    "Type": 14,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258535,
+    "Name": "Zufälliger Probeumhang – Look der Mannekina",
+    "Description": "Ein Umhang mit unglaublichen Nachbildungsfähigkeiten. Beim Überstreifen passt er sich automatisch an die Form eines zufälligen Mannekina-Looks an und reproduziert sogar Accessoires und Make-up genau.\nBei richtiger Anwendung dient er als praktisches „Anprobe“-Objekt.\nKann innerhalb von 14 Tagen nach Erhalt verwendet werden. Einmal verwendet, hält der Anprobe-Effekt 1 Tag lang an. Nach dem Ende dieser Chronik wird dieses Objekt ungültig.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258536,
     "Name": "Zufälliger Probeumhang – Look des Mannekin",
     "Description": "Ein Umhang mit unglaublichen Nachbildungsfähigkeiten. Beim Überstreifen passt er sich automatisch an die Form eines zufälligen Mannekins-Looks an und reproduziert sogar Accessoires und Make-up genau.\nBei richtiger Anwendung dient er als praktisches „Anprobe“-Objekt.\nKann innerhalb von 14 Tagen nach Erhalt verwendet werden. Einmal verwendet, hält der Anprobe-Effekt 1 Tag lang an. Nach dem Ende dieser Chronik wird dieses Objekt ungültig.",
     "Icon": "UI_ItemIcon_BydBox_4",
@@ -6864,6 +7016,174 @@
     "RankLevel": 4
   },
   {
+    "Id": 264267,
+    "Name": "Allgemeiner Look: „Dr. Sprüher“",
+    "Description": "Ein Kopfschmuck voller fantasievoller Ideen. Wenn du ihn trägst, fühlst du dich, als würde ein kleiner Wal auf deinem Kopf hocken und Wasser sprühen. Nimm diesen süßen Gefährten mit auf Reisen – vielleicht sprudeln dabei geniale Ideen hervor.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_P0450",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262673,
+    "Name": "Allgemeine Augenbrauen: „Weidenhauch – Hellrosa“",
+    "Description": "Hellrosa Augenbrauen wie hängende Zweige einer Trauerweide, mit natürlichen und fließenden Linien, die eine sanfte Wärme verströmen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0039",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262674,
+    "Name": "Allgemeine Augenbrauen: „Weidenhauch – Hellviolett“",
+    "Description": "Hellviolette Augenbrauen wie hängende Zweige einer Trauerweide, mit natürlichen und fließenden Linien, die eine sanfte Wärme verströmen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0040",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262675,
+    "Name": "Allgemeine Augenbrauen: „Frischer Bambussprössling – Hellrosa“",
+    "Description": "Hellrosa Augenbrauen, zart wie junger Bambus, die mit klaren Linien eine frische Energie ausstrahlen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0041",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262676,
+    "Name": "Allgemeine Augenbrauen: „Frischer Bambussprössling – Hellviolett“",
+    "Description": "Hellviolette Augenbrauen, zart wie junger Bambus, die mit klaren Linien eine frische Energie ausstrahlen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0042",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262677,
+    "Name": "Allgemeine Augenbrauen: „Zerklüfteter Gipfel“",
+    "Description": "Markante, kühne Augenbrauen, die einen aus Kraft geborenen faszinierenden Charme ausstrahlen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0280",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262678,
+    "Name": "Allgemeine Augenbrauen: „Leichter Dunsthauch“",
+    "Description": "Sanft geschwungene Augenbrauen, die einen frischen und bezaubernden Charme ausstrahlen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0281",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262999,
+    "Name": "Augenränder der Mannekina: „Morgendämmerung“",
+    "Description": "Augenpartie für Mannekinas, wie eine die Morgendämmerung ankündigende Klinge, die eine zurückhaltende Schärfe ausstrahlt.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0054",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263000,
+    "Name": "Augenränder der Mannekina: „Sonniger Himmel“",
+    "Description": "Augenpartie für Mannekinas, wie ein klarer sonniger Himmel, der eine temperamentvolle Ausstrahlung vermittelt.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0056",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263001,
+    "Name": "Augenränder des Mannekin: „Reifbehangene Zweige“",
+    "Description": "Augenpartie für Mannekins, wie in einer Winternacht erhobene Äste, kühl und voller Selbstbeherrschung.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0268",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263002,
+    "Name": "Augenränder des Mannekin: „Farbige Dämmerung“",
+    "Description": "Augenpartie für Mannekins, wie ein Streifen farbenfrohen Morgenlichts, anmutig strahlend.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0271",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263014,
+    "Name": "Augenränder des Mannekin: „Goldenes Lichtspiel“",
+    "Description": "Augenpartie für Mannekins. Die Konturen und Farben erinnern an die glitzernde Meeresoberfläche zur Mittagszeit, voller Energie und Selbstvertrauen.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263015,
+    "Name": "Augenränder der Mannekina: „Goldenes Lichtspiel“",
+    "Description": "Augenpartie für Mannekinas. Die Konturen und Farben erinnern an die glitzernde Meeresoberfläche zur Mittagszeit, voller Energie und Selbstvertrauen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263016,
+    "Name": "Augenränder des Mannekin: „Goldenes Lichtspiel – Nachtmalerei“",
+    "Description": "Augenpartie für Mannekins. Die Konturen und Farben erinnern an die lilafarbene See in der Abenddämmerung, auf der das Licht tanzt, tiefgründig und gelassen.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263017,
+    "Name": "Augenränder der Mannekina: „Goldenes Lichtspiel – Nachtmalerei“",
+    "Description": "Augenpartie für Mannekinas. Die Konturen und Farben erinnern an die lilafarbene See in der Abenddämmerung, auf der das Licht tanzt, tiefgründig und gelassen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263298,
+    "Name": "Allgemeine Pupillen: „Edelstein-Muschel – Leuchtendes Orange“",
+    "Description": "Farbige Kontaktlinsen zum Ändern der Augenfarbe, wie eine Muschel, die im Morgenlicht glänzt.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0064",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263263,
+    "Name": "Allgemeine Pupillen: „Edelstein-Muschel – Hellrosa“",
+    "Description": "Farbige Kontaktlinsen zum Ändern der Augenfarbe, wie eine rosa Muschel, die im Abendlicht glänzt.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0067",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263305,
+    "Name": "Allgemeine Pupillen: „Farben des Meeres – Grüne Wellen“",
+    "Description": "Farbige Kontaktlinsen zum Ändern der Augenfarbe – ruhig und tief wie das Meer. Sie schützen nicht nur vor grellem Licht, sondern lassen den Träger auch die Gelassenheit und Schönheit der Ferien in vollen Zügen genießen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0466",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263307,
+    "Name": "Allgemeine Pupillen: „Farben des Meeres – Kampf um Lila“",
+    "Description": "Farbige Kontaktlinsen zum Ändern der Augenfarbe – ruhig und tief wie das Meer. Sie schützen nicht nur vor grellem Licht, sondern lassen den Träger auch die Gelassenheit und Schönheit der Ferien in vollen Zügen genießen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0467",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263932,
+    "Name": "Allgemeines Gesichts-Make-up: „Leoparden-Muster“",
+    "Description": "Ein Make-up. Es bildet perfekt die hellen Flecken nach, die nach starker Sonneneinstrahlung auf der Haut entstehen. Sie erinnern an die Flecken eines Leoparden und verströmen eine prachtvolle, strahlende Sonnenwärme.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0482",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263947,
+    "Name": "Allgemeines Gesichts-Make-up: „Farbenpracht vor den Augen – Blütenfall“",
+    "Description": "Ein Gesichts-Make-up. Wenn man es unterhalb der Augenlider aufträgt, vergrößert es die Augen optisch auf raffinierte Weise und verleiht Ihnen einen lebendigen, bezaubernden und einzigartigen Charme.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0493",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
     "Id": 265001,
     "Name": "Look der Mannekina: „Parade“",
     "Description": "Set „Parade“. Wenn zum Festtag die Glocken läuten und du dieses prächtige Kleidungsset trägst, dann wirst du zur strahlenden Hauptfigur der gesamten Parade. Die Laterne in der Hand weist dir den Weg, der Kürbis stets an deiner Seite – so lässt sich dieser ausgelassene, fröhliche Abend genießen!",
@@ -8284,6 +8604,214 @@
     "Name": "Look des Mannekin: „Bunter Schmetterlingspfad – Indigoblauer Nebel“",
     "Description": "Verbesserte Version des Sets „Bunter Schmetterlingspfad“. Inmitten des indigoblauen Nebels, der sich wie leichter Rauch ausbreitet, verschmilzt es mit dem Willen der Natur zur Melodie der Sprache der Blumen und führt die ewige Melodie des Lieds des Lebens fort.\nDie „Zeremonie der Sprache der Blumen“ erreichte in den aufrichtigen Tanzschritten der beiden Gelehrten ihren Höhepunkt, wobei das zentrale Blumenmeer auf einen Ruf zu reagieren und wie das Meer in Wellen zu schimmern schien. Anschließend breitete sich ein Nebel aus, der wie zerstäubter Edelsteinstaub wirkte, und langsam erschienen die Gestalten eines Jungen und eines Mädchens. Ihre Gewänder hatten die gleiche Form wie die der Gelehrten, und ihre Gesichter waren völlig identisch mit denen der Gelehrten in jungen Jahren, wie ein Meisterwerk zurückgedrehter Zeit ... Der indigoblaue Farbton offenbarte ihre Identität: Verkörperungen des planetaren Willens. Sie begrüßten die beiden Gelehrten freundlich und führten sie in die Tiefen des Blumenmeeres ...\nEs stellte sich heraus, dass der Planetenwille die Bemühungen der Menschen über Jahrtausende hinweg sah. Schließlich wählte er die beiden Gelehrten aus, um „Gesandte“ für die Kommunikation mit den Menschen zu schaffen.\nAls Octavia aufbrach, hatte sich die Geschichte der beiden Gelehrten und Gesandten längst zu einem allseits bekannten schönen Märchen entwickelt. Dieser Planet folgte seiner eigenen Bahn und entwickelte sich wohlhabend und gesund, mit der Hoffnung, einer giftgleichen großen Katastrophe zu widerstehen ...",
     "Icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265338,
+    "Name": "Look der Mannekina: „Steppenwanderer“",
+    "Description": "Set „Steppenwanderer“. Praktische, eng anliegende Kleidung aus strapazierfähigem Stoff. Mit diesem Outfit wird jede Expedition in der Steppe zum Kinderspiel.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265339,
+    "Name": "Look des Mannekin: „Steppenwanderer“",
+    "Description": "Set „Steppenwanderer“. Praktische, eng anliegende Kleidung aus strapazierfähigem Stoff. Mit diesem Outfit wird jede Expedition in der Steppe zum Kinderspiel.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265419,
+    "Name": "Look der Mannekina: „Aphimead-Rezept“",
+    "Description": "Set „Aphimead-Rezept“. Diese Kochuniform hat einen ganz besonderen Stil: Das auffälligste Gericht des Hauses wurde geschickt in eine Kochkappe verwandelt. So hinterlässt sie bei jedem Gast einen ersten Eindruck, der so vollmundig ist wie fließender Honig.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265420,
+    "Name": "Look des Mannekin: „Aphimead-Rezept“",
+    "Description": "Set „Aphimead-Rezept“. Diese Kochuniform hat einen ganz besonderen Stil: Das auffälligste Gericht des Hauses wurde geschickt in eine Kochkappe verwandelt. So hinterlässt sie bei jedem Gast einen ersten Eindruck, der so vollmundig ist wie fließender Honig.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265340,
+    "Name": "Look der Mannekina: „Besucher des Abendmeeres“",
+    "Description": "Set „Besucher des Abendmeeres“. Die Farbe des Meeres im Abendrot verleiht dieser Kleidung einen tiefen Glanz. Wer sie trägt, zeigt keine Furcht – selbst angesichts tosender Wellen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265341,
+    "Name": "Look des Mannekin: „Besucher des Abendmeeres“",
+    "Description": "Set „Besucher des Abendmeeres“. Die Farbe des Meeres im Abendrot verleiht dieser Kleidung einen tiefen Glanz. Wer sie trägt, zeigt keine Furcht – selbst angesichts tosender Wellen.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265342,
+    "Name": "Look der Mannekina: „Fauler Hai“",
+    "Description": "Set „Fauler Hai“. Ein Kostüm, das nach dem Vorbild einer besonders sanftmütigen und langsam schwimmenden Haiart gestaltet wurde, fängt diese einzigartige Trägheit perfekt ein. Man sagt, dass diese großen Lebewesen auf Planeten mit reichhaltiger Meeresfauna trotz ihres furchteinflößenden Aussehens im Inneren sehr umgänglich sind und sich stets großer Beliebtheit erfreuen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265343,
+    "Name": "Look des Mannekin: „Fauler Hai“",
+    "Description": "Set „Fauler Hai“. Ein Kostüm, das nach dem Vorbild einer besonders sanftmütigen und langsam schwimmenden Haiart gestaltet wurde, fängt diese einzigartige Trägheit perfekt ein. Man sagt, dass diese großen Lebewesen auf Planeten mit reichhaltiger Meeresfauna trotz ihres furchteinflößenden Aussehens im Inneren sehr umgänglich sind und sich stets großer Beliebtheit erfreuen.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265320,
+    "Name": "Look der Mannekina: „Brise des Glücks“",
+    "Description": "Set „Brise des Glücks“. Ein Outdoor-Outfit in frischem Blattgrün als Hauptfarbe, aus weichem und hautfreundlichem Material, sorgfältig verziert mit Kleeblatt-Motiven als Symbol des Glücks. Wer es trägt, fühlt sich stets von einer sanften Glücksbrise begleitet.\n\nIn Welt Nr. 311 waren nicht alle „Blumenflüsterer“ damit einverstanden, Pflanzen durch das „Ewige Gewächshaus“ dauerhaft in ihrer besten Wachstumsphase zu halten. Diese Gruppe gemäßigter Rebellen war überzeugt: Der Wille des Planeten lässt sich in einem Gewächshaus nicht präzise berechnen oder in Serie produzieren. Die Glücksbrise, die für Fülle und Überfluss steht, erhebe sich nur still in den unscheinbarsten Winkeln der Natur. Um dieser Gabe der Natur zu begegnen, wandelte sich ihr Kleidungsstil hin zu einem praktischen Outdoor-Look, der für beschwerliche Wanderungen geeignet war. Und die Pflanzen, denen sie liebevoll ihre Aufmerksamkeit widmen, waren nicht länger die prachtvollen Blumen im Rampenlicht, sondern die überall auf der Erde wachsenden, zähen und beharrlichen Wildkräuter. Aus Anerkennung und Respekt für diese Überzeugung hat Octavia ihren Kleidungsstil treu festgehalten ...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265321,
+    "Name": "Look des Mannekin: „Brise des Glücks“",
+    "Description": "Set „Brise des Glücks“. Ein Outdoor-Outfit in frischem Blattgrün als Hauptfarbe, aus weichem und hautfreundlichem Material, sorgfältig verziert mit Kleeblatt-Motiven als Symbol des Glücks. Wer es trägt, fühlt sich stets von einer sanften Glücksbrise begleitet.\n\nIn Welt Nr. 311 waren nicht alle „Blumenflüsterer“ damit einverstanden, Pflanzen durch das „Ewige Gewächshaus“ dauerhaft in ihrer besten Wachstumsphase zu halten. Diese Gruppe gemäßigter Rebellen war überzeugt: Der Wille des Planeten lässt sich in einem Gewächshaus nicht präzise berechnen oder in Serie produzieren. Die Glücksbrise, die für Fülle und Überfluss steht, erhebe sich nur still in den unscheinbarsten Winkeln der Natur. Um dieser Gabe der Natur zu begegnen, wandelte sich ihr Kleidungsstil hin zu einem praktischen Outdoor-Look, der für beschwerliche Wanderungen geeignet war. Und die Pflanzen, denen sie liebevoll ihre Aufmerksamkeit widmen, waren nicht länger die prachtvollen Blumen im Rampenlicht, sondern die überall auf der Erde wachsenden, zähen und beharrlichen Wildkräuter. Aus Anerkennung und Respekt für diese Überzeugung hat Octavia ihren Kleidungsstil treu festgehalten ...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265344,
+    "Name": "Look der Mannekina: „Traumhafte sommerliche Gelassenheit“",
+    "Description": "Set „Traumhafte sommerliche Gelassenheit“. Eine leichte Abendkleidung für den Sommer, die tiefes Nachsinnen ausstrahlt. Das lässige, entspannte Design verbindet sich perfekt mit dem geheimnisvollen, dunklen Lila und entführt dich in einen einzigartigen, traumhaften Sommerabend. \n\nIn der Welt Nr. 311, wenn sich Sternenglanz und Mondschein in einer Mittsommernacht vereinen, versammeln sich die „Blumenflüsterer“ tief in der Wildnis zum „Fest der Glühwürmchen“. Hier gibt es keine Mauern und keine Zwänge, nur im Wind wiegende Wildkräuter, am Himmel tanzende Glühwürmchen und plätschernde Bäche als Gäste. Sie glauben, dass wahrer Reichtum im Rhythmus der Natur erblüht, so wie sich der Rock beim Drehen Schicht für Schicht entfaltet, so wie Blumen im Mondlicht atmen. Um dieses Fest, das nur den freien Seelen gehört, festzuhalten, hat Octavia die Dämmerung und den Morgentau in die Falten des Gewandes eingewoben. Die in Lila und Weiß verlaufende Kleidung gleicht den Wolken am Horizont bei Einbruch der Dämmerung, und die wunderschönen Muster sind wie die Wellen, die der Nachtwind hinterlässt, wenn er durch die Blumen weht. Wenn du sie trägst, bist du nicht mehr nur Zuschauer, sondern gleich in der Hauptrolle des Balls. Inmitten der Verflechtung von sanfter Brise und Blumenduft tanzt du mit den Sternen und begibst dich auf die Suche nach jenem traumhaften Fantasietraum, der nur der Freiheit und der Vorstellungskraft gehört.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265345,
+    "Name": "Look des Mannekin: „Traumhafte sommerliche Gelassenheit“",
+    "Description": "Set „Traumhafte sommerliche Gelassenheit“. Eine leichte Abendkleidung für den Sommer, die tiefes Nachsinnen ausstrahlt. Das lässige, entspannte Design verbindet sich perfekt mit dem geheimnisvollen, dunklen Lila und entführt dich in einen einzigartigen, traumhaften Sommerabend. \n\nIn der Welt Nr. 311, wenn sich Sternenglanz und Mondschein in einer Mittsommernacht vereinen, versammeln sich die „Blumenflüsterer“ tief in der Wildnis zum „Fest der Glühwürmchen“. Hier gibt es keine Mauern und keine Zwänge, nur im Wind wiegende Wildkräuter, am Himmel tanzende Glühwürmchen und plätschernde Bäche als Gäste. Sie glauben, dass wahrer Reichtum im Rhythmus der Natur erblüht, so wie sich der Rock beim Drehen Schicht für Schicht entfaltet, so wie Blumen im Mondlicht atmen. Um dieses Fest, das nur den freien Seelen gehört, festzuhalten, hat Octavia die Dämmerung und den Morgentau in die Falten des Gewandes eingewoben. Die in Lila und Weiß verlaufende Kleidung gleicht den Wolken am Horizont bei Einbruch der Dämmerung, und die wunderschönen Muster sind wie die Wellen, die der Nachtwind hinterlässt, wenn er durch die Blumen weht. Wenn du sie trägst, bist du nicht mehr nur Zuschauer, sondern gleich in der Hauptrolle des Balls. Inmitten der Verflechtung von sanfter Brise und Blumenduft tanzt du mit den Sternen und begibst dich auf die Suche nach jenem traumhaften Fantasietraum, der nur der Freiheit und der Vorstellungskraft gehört.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265437,
+    "Name": "Look der Mannekina: „Herrlich erfrischend“",
+    "Description": "Set „Herrlich erfrischend“. Ein kühles und schickes Outfit für den warmen Sommer. Das Hellblau wirkt wie süßes Eis. Wenn du es trägst, vertreibt es die Hitze komplett.\n\nWenn man nach dem größten Feind eines Sommerurlaubs am Meer fragt, würde selbst die zwischen den Sternen reisende Hexe Octavia dieselbe Antwort geben wie jeder andere auch: die sengende Hitze. Genau aus diesem Grund haben die Bewohner des 503. Planeten „Meereswelt“, die das ganze Jahr über unter der sengenden Hitze leiden, die Zubereitung von erfrischenden Eisspezialitäten längst zu ihrer obersten Lebensaufgabe gemacht. Jedes Jahr im Hochsommer wird hier ein ausgelassenes „Eisgetränkefest“ veranstaltet, bei dem sich unzählige Meister der Kaltgetränke versammeln, um gegeneinander anzutreten und um den Thron des Sommerkönigs zu kämpfen – und um die Krone mit Eis-Pudding-Dekoration als höchste Auszeichnung, die dem Sieger allein zusteht. Als Reisende, die durch diese Gegend streifte, und als Genießerin des Festes überreichte Octavia dem damaligen Sieger ein Geschenk, das ganz im „Hexenstil“ gehalten war: einen Hauch von kühler Magie. Diese verwandelte die Krone in wahrhaft nie schmelzendes Eis, das unaufhörlich die Hitze der Umgebung aufnahm und allen eine wohltuende Kühle bescherte.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265438,
+    "Name": "Look des Mannekin: „Herrlich erfrischend“",
+    "Description": "Set „Herrlich erfrischend“. Ein kühles und schickes Outfit für den warmen Sommer. Das Hellblau wirkt wie süßes Eis. Wenn du es trägst, vertreibt es die Hitze komplett.\n\nWenn man nach dem größten Feind eines Sommerurlaubs am Meer fragt, würde selbst die zwischen den Sternen reisende Hexe Octavia dieselbe Antwort geben wie jeder andere auch: die sengende Hitze. Genau aus diesem Grund haben die Bewohner des 503. Planeten „Meereswelt“, die das ganze Jahr über unter der sengenden Hitze leiden, die Zubereitung von erfrischenden Eisspezialitäten längst zu ihrer obersten Lebensaufgabe gemacht. Jedes Jahr im Hochsommer wird hier ein ausgelassenes „Eisgetränkefest“ veranstaltet, bei dem sich unzählige Meister der Kaltgetränke versammeln, um gegeneinander anzutreten und um den Thron des Sommerkönigs zu kämpfen – und um die Krone mit Eis-Pudding-Dekoration als höchste Auszeichnung, die dem Sieger allein zusteht. Als Reisende, die durch diese Gegend streifte, und als Genießerin des Festes überreichte Octavia dem damaligen Sieger ein Geschenk, das ganz im „Hexenstil“ gehalten war: einen Hauch von kühler Magie. Diese verwandelte die Krone in wahrhaft nie schmelzendes Eis, das unaufhörlich die Hitze der Umgebung aufnahm und allen eine wohltuende Kühle bescherte.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265348,
+    "Name": "Look der Mannekina: „Eislimonade“",
+    "Description": "Set „Eislimonade“. Ein Outfit für einen erfrischenden und energiegeladenen Strandurlaub. Der leichte, atmungsaktive Stoff und die auffälligen, frischen Farben erinnern an einen erfrischenden Schluck eisgekühlter Zitronen-Salz-Limonade. Mit diesem Set kannst du die Hitze des Hochsommers mühelos besiegen und zwischen Sonnenschein und Meeresrauschen deine kühlste und erfrischendste Energie entfalten. \n\nFür den ganzjährig heißen 503. Planeten „Meereswelt“ ist die an der Küste angekommene Octavia nicht die einzige Fremde; mit ihr kam auch eine gelbe, ovale, säuerliche Frucht: die Zitrone. Was Octavias persönlichen Geschmack angeht, so ist sie keineswegs eine begeisterte Liebhaberin von Zitronen, ja, sie empfindet sogar eine gewisse Abneigung gegen sie. Doch um sich vor möglichen Krankheiten auf der langen Reise zu schützen, hatte sie sie schließlich doch in ihr Gepäck aufgenommen.\nAuf der langen Wanderung, die sie zuvor über mehr als 500 Planeten geführt hatte, hatte sie die Zitrone in ihrem Rucksack längst völlig vergessen. Erst als sie in einem Restaurant auf der „Meereswelt“ versuchte, sich zur Abkühlung ein eisgekühltes Zitronen-Salz-Getränk zu bestellen, und feststellte, dass die Einheimischen nichts von dieser in gemäßigten Klimazonen heimischen Frucht wussten, wurde diese vergessene Erinnerung wieder wachgerufen. Es stellte sich heraus, dass ein eisgekühltes Zitronen-Salz-Getränk das perfekte Mittel gegen diese lange Hitzewelle war. Auf Bitten der Einheimischen schenkte Octavia ihnen großzügig alle Zitronen, damit sie diese anbauen konnten. Da sie jedoch keinerlei Interesse daran hatte, als Göttin verehrt zu werden, lehnte sie den ihr angebotenen großartigen Titel „Zitronenkönigin“ entschieden ab und nahm lediglich das erfrischende Kleidungsstück mit, das ihr geschenkt worden war, als Andenken an diese außerirdische Begegnung.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265349,
+    "Name": "Look des Mannekin: „Eislimonade“",
+    "Description": "Set „Eislimonade“. Ein Outfit für einen erfrischenden und energiegeladenen Strandurlaub. Der leichte, atmungsaktive Stoff und die auffälligen, frischen Farben erinnern an einen erfrischenden Schluck eisgekühlter Zitronen-Salz-Limonade. Mit diesem Set kannst du die Hitze des Hochsommers mühelos besiegen und zwischen Sonnenschein und Meeresrauschen deine kühlste und erfrischendste Energie entfalten. \n\nFür den ganzjährig heißen 503. Planeten „Meereswelt“ ist die an der Küste angekommene Octavia nicht die einzige Fremde; mit ihr kam auch eine gelbe, ovale, säuerliche Frucht: die Zitrone. Was Octavias persönlichen Geschmack angeht, so ist sie keineswegs eine begeisterte Liebhaberin von Zitronen, ja, sie empfindet sogar eine gewisse Abneigung gegen sie. Doch um sich vor möglichen Krankheiten auf der langen Reise zu schützen, hatte sie sie schließlich doch in ihr Gepäck aufgenommen.\nAuf der langen Wanderung, die sie zuvor über mehr als 500 Planeten geführt hatte, hatte sie die Zitrone in ihrem Rucksack längst völlig vergessen. Erst als sie in einem Restaurant auf der „Meereswelt“ versuchte, sich zur Abkühlung ein eisgekühltes Zitronen-Salz-Getränk zu bestellen, und feststellte, dass die Einheimischen nichts von dieser in gemäßigten Klimazonen heimischen Frucht wussten, wurde diese vergessene Erinnerung wieder wachgerufen. Es stellte sich heraus, dass ein eisgekühltes Zitronen-Salz-Getränk das perfekte Mittel gegen diese lange Hitzewelle war. Auf Bitten der Einheimischen schenkte Octavia ihnen großzügig alle Zitronen, damit sie diese anbauen konnten. Da sie jedoch keinerlei Interesse daran hatte, als Göttin verehrt zu werden, lehnte sie den ihr angebotenen großartigen Titel „Zitronenkönigin“ entschieden ab und nahm lediglich das erfrischende Kleidungsstück mit, das ihr geschenkt worden war, als Andenken an diese außerirdische Begegnung.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265350,
+    "Name": "Look der Mannekina: „Reißzahn-Tyrann“",
+    "Description": "Set „Reißzahn-Tyrann“. Sportliche Freizeitmode, die lodernde Leidenschaft ausstrahlt. Die imposante Haltung verkörpert die Würde eines Herrschers – Reißzähne und scharfe Klauen sind die Werkzeuge, mit denen die Drachen die Welt durchstreiften. Trage diese wilde Kraft als Emblem auf deiner Haut und zermalme alle Hindernisse, die sich dir in den Weg stellen!\n\nLange bevor Octavia den Planeten 67 besuchte, war dieser ebenfalls eine Welt der Drachen – diese riesigen Bestien entwickelten jedoch nie den großartigen Verstand, den die Drachen Teyvats besaßen. Als sie im Laufe der Zeit ausstarben, war alles, was sie den Nachkommen hinterließen, gewaltige Fossilien. Die Überreste der Drachen, die größer und grausamer waren als alle bekannten Lebewesen, weckten in zahllosen Menschen Fantasien über jene Ära: lebendig und zugleich blutig und wild. Und so entstanden literarische und künstlerische Werke zu dem Thema dieser gigantischen Ungeheuer. Die majestätischen Gestalten der urzeitlichen Herrscher wurden von Künstlern zu Symbolen einer neuen Mode destilliert, die auf stille Weise von jener ungezähmten Lebenskraft künden.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265351,
+    "Name": "Look des Mannekin: „Reißzahn-Tyrann“",
+    "Description": "Set „Reißzahn-Tyrann“. Sportliche Freizeitmode, die lodernde Leidenschaft ausstrahlt. Die imposante Haltung verkörpert die Würde eines Herrschers – Reißzähne und scharfe Klauen sind die Werkzeuge, mit denen die Drachen die Welt durchstreiften. Trage diese wilde Kraft als Emblem auf deiner Haut und zermalme alle Hindernisse, die sich dir in den Weg stellen!\n\nLange bevor Octavia den Planeten 67 besuchte, war dieser ebenfalls eine Welt der Drachen – diese riesigen Bestien entwickelten jedoch nie den großartigen Verstand, den die Drachen Teyvats besaßen. Als sie im Laufe der Zeit ausstarben, war alles, was sie den Nachkommen hinterließen, gewaltige Fossilien. Die Überreste der Drachen, die größer und grausamer waren als alle bekannten Lebewesen, weckten in zahllosen Menschen Fantasien über jene Ära: lebendig und zugleich blutig und wild. Und so entstanden literarische und künstlerische Werke zu dem Thema dieser gigantischen Ungeheuer. Die majestätischen Gestalten der urzeitlichen Herrscher wurden von Künstlern zu Symbolen einer neuen Mode destilliert, die auf stille Weise von jener ungezähmten Lebenskraft künden.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265415,
+    "Name": "Look der Mannekina: „Spiritueller Sternendämon“",
+    "Description": "Set „Spiritueller Sternendämon“. In der 777. Welt, die vollständig von Magie getragen wird, sind Magier, die „Sternenfragmente“ versiegeln und die Magie des Meteoritenstaubs beherrschen, eine echte Seltenheit. Diese uralte Geheimlehre erfordert nicht nur außergewöhnliches Talent, sondern auch lange Jahre der Hingabe und tiefes Wissen. Die Risiken, die damit einhergehen, sind keineswegs zu unterschätzen – ein einziger Fehler kann dazu führen, dass die Magie auf ihren Anwender zurückschlägt. Deshalb sind die Gelehrten, die diese Kunst erlernt haben, fast alle hoch angesehen und können auf hunderte Jahre akademischer Forschung zurückblicken.\nAls Paimon diese Aufzeichnungen über die 777. Welt las, konnte Paimon nicht umhin zu staunen: „Hunderte von Jahren ... Vielleicht erreichen diese Gelehrten mit Ach und Krach gerade so Citlalis Niveau?“\n„Aber Oma Itztli hat Citlalin und Itzpapa, die ihr helfen – da können die Gelehrten ihr sowieso nicht das Wasser reichen!“\nAls würde das Wonderland auf Paimons Worte reagieren, begannen sich die beiden zunächst schlichten Kleidungsstücke langsam zu verwandeln und nahmen die Merkmale von Citlalin und Itzpapa an, so wie Paimon sie in Erinnerung hatte ...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265416,
+    "Name": "Look des Mannekin: „Spiritueller Sternendämon“",
+    "Description": "Set „Spiritueller Sternendämon“. In der 777. Welt, die vollständig von Magie getragen wird, sind Magier, die „Sternenfragmente“ versiegeln und die Magie des Meteoritenstaubs beherrschen, eine echte Seltenheit. Diese uralte Geheimlehre erfordert nicht nur außergewöhnliches Talent, sondern auch lange Jahre der Hingabe und tiefes Wissen. Die Risiken, die damit einhergehen, sind keineswegs zu unterschätzen – ein einziger Fehler kann dazu führen, dass die Magie auf ihren Anwender zurückschlägt. Deshalb sind die Gelehrten, die diese Kunst erlernt haben, fast alle hoch angesehen und können auf hunderte Jahre akademischer Forschung zurückblicken.\nAls Paimon diese Aufzeichnungen über die 777. Welt las, konnte Paimon nicht umhin zu staunen: „Hunderte von Jahren ... Vielleicht erreichen diese Gelehrten mit Ach und Krach gerade so Citlalis Niveau?“\n„Aber Oma Itztli hat Citlalin und Itzpapa, die ihr helfen – da können die Gelehrten ihr sowieso nicht das Wasser reichen!“\nAls würde das Wonderland auf Paimons Worte reagieren, begannen sich die beiden zunächst schlichten Kleidungsstücke langsam zu verwandeln und nahmen die Merkmale von Citlalin und Itzpapa an, so wie Paimon sie in Erinnerung hatte ...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265356,
+    "Name": "Look der Mannekina: „Gefleckte Steppe“",
+    "Description": "Set „Gefleckte Steppe“. Ein lässiger Look voller Wildheit, inspiriert von den geschmeidigen Raubkatzen der Savanne. Er strahlt gelassene Entspanntheit sowie eine einzigartige Wildheit aus und verleiht dem Träger eine auffällige und farbenfrohe Ausstrahlung voller Selbstbewusstsein.\n\nIn einem Universum voller Gefahren ringsum ist es ein unglaubliches Glück, wenn ein Planet Frieden genießen und sich in Ruhe entwickeln kann, vor allem für einen wilden Planeten wie Nummer 206, der noch keinerlei Vorstellung von der Weite des Sternenmeers hat. Als erste Besucherin von außerhalb, die diesen Planeten betrat, machte sich Octavia natürlich Sorgen um die Sicherheit des Planeten. Nach reiflicher Überlegung richtete sie eine Einladung an den nahegelegenen, friedlichen und neutralen „Institutstern Nr. 93“ und beauftragte ihn, als Beschützer des Planeten 206 zu dienen, im Verborgenen über ihn zu wachen und seine Entwicklung zu beobachten. Was diese Hexe jedoch nicht ahnte: Bevor die Zivilisation des Sterns Nr. 93 irgendeinen unberechenbaren Einfluss auf dieses wilde Land ausüben konnte, fegte die ursprüngliche Wildheit des Planeten 206 zuerst über die Modewelt des Sterns Nr. 93 hinweg. Manche Jugendliche, die ihr Leben zwischen Büchern verbracht hatten, kannten eine so barbarische Modeästhetik schlicht nicht. Innerhalb kürzester Zeit breitete sich eine Welle der Begeisterung für Natürlichkeit und Wildheit in Teilen des Instituts aus. Um an dieses Erlebnis zu erinnern, hielt Octavia den damals beliebtesten Look fest ...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265357,
+    "Name": "Look des Mannekin: „Gefleckte Steppe“",
+    "Description": "Set „Gefleckte Steppe“. Ein lässiger Look voller Wildheit, inspiriert von den geschmeidigen Raubkatzen der Savanne. Er strahlt gelassene Entspanntheit sowie eine einzigartige Wildheit aus und verleiht dem Träger eine auffällige und farbenfrohe Ausstrahlung voller Selbstbewusstsein.\n\nIn einem Universum voller Gefahren ringsum ist es ein unglaubliches Glück, wenn ein Planet Frieden genießen und sich in Ruhe entwickeln kann, vor allem für einen wilden Planeten wie Nummer 206, der noch keinerlei Vorstellung von der Weite des Sternenmeers hat. Als erste Besucherin von außerhalb, die diesen Planeten betrat, machte sich Octavia natürlich Sorgen um die Sicherheit des Planeten. Nach reiflicher Überlegung richtete sie eine Einladung an den nahegelegenen, friedlichen und neutralen „Institutstern Nr. 93“ und beauftragte ihn, als Beschützer des Planeten 206 zu dienen, im Verborgenen über ihn zu wachen und seine Entwicklung zu beobachten. Was diese Hexe jedoch nicht ahnte: Bevor die Zivilisation des Sterns Nr. 93 irgendeinen unberechenbaren Einfluss auf dieses wilde Land ausüben konnte, fegte die ursprüngliche Wildheit des Planeten 206 zuerst über die Modewelt des Sterns Nr. 93 hinweg. Manche Jugendliche, die ihr Leben zwischen Büchern verbracht hatten, kannten eine so barbarische Modeästhetik schlicht nicht. Innerhalb kürzester Zeit breitete sich eine Welle der Begeisterung für Natürlichkeit und Wildheit in Teilen des Instituts aus. Um an dieses Erlebnis zu erinnern, hielt Octavia den damals beliebtesten Look fest ...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265358,
+    "Name": "Look der Mannekina: „Farbiges Schicksalsmeer“",
+    "Description": "Set „Farbiges Schicksalsmeer“. Diese sommerliche Strand-Kampfkleidung vereint extremen Trubel, pure Freude und große Energie in sich. Der heiße Sommer ist da, genau die richtige Zeit, um deine Müdigkeit und deinen Ärger komplett wegzuspülen. Rüste dich mit Sonnenschutz aus, schnapp dir die Wasserpistole und starte an diesem farbenprächtigen Urlaubsstrand einen erfrischenden Großangriff auf all deine Sorgen!\n\nBeeinflusst von den „Farbtupfer-Malern“ gestalteten die Bewohner der „Meereswelt“ Nr. 503 mit einem einzigartigen „Kriegsritual“ die Beziehungen zwischen Mensch und sich selbst sowie zwischen Mensch und Mitmenschen neu. Daher sah man an diesem Urlaubsstrand oft junge Menschen in „Kampfkleidung“, die zwischen Wasserströmen und Wellen hin- und herliefen und ihre Jugend in vollen Zügen und mit viel Schwitzen auslebten. Doch was Octavia am meisten in Erinnerung geblieben war, waren ein scheinbar ganz normales Mädchen und ein Junge. Sie verfügten weder über außergewöhnliche körperliche Fähigkeiten noch über komplexe, hochentwickelte Ausrüstung. In den Augen einer kampferprobten Person wie Octavia wirkten ihre Bewegungen in etwa so träge wie Farbe, die sich langsam im Wasser ausbreitet. Doch gerade diese sich langsam entfaltenden „Farben“ waren voller strahlender Lebenskraft, die einen auf den ersten Blick nicht mehr losließ und von Herzen Freude bereitete. Vielleicht war es genau das, wie die Jugend eigentlich sein sollte; vielleicht war auch das der ursprüngliche Zweck dieses „Kriegsrituals“. Genau aus diesem Grund hat Octavia diese Kleidung eigens für die beiden angefertigt, in der Hoffnung, dass sie diese Vitalität und Frische auf Dauer bewahren mögen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265359,
+    "Name": "Look des Mannekin: „Farbiges Schicksalsmeer“",
+    "Description": "Set „Farbiges Schicksalsmeer“. Diese sommerliche Strand-Kampfkleidung vereint extremen Trubel, pure Freude und große Energie in sich. Der heiße Sommer ist da, genau die richtige Zeit, um deine Müdigkeit und deinen Ärger komplett wegzuspülen. Rüste dich mit Sonnenschutz aus, schnapp dir die Wasserpistole und starte an diesem farbenprächtigen Urlaubsstrand einen erfrischenden Großangriff auf all deine Sorgen!\n\nBeeinflusst von den „Farbtupfer-Malern“ gestalteten die Bewohner der „Meereswelt“ Nr. 503 mit einem einzigartigen „Kriegsritual“ die Beziehungen zwischen Mensch und sich selbst sowie zwischen Mensch und Mitmenschen neu. Daher sah man an diesem Urlaubsstrand oft junge Menschen in „Kampfkleidung“, die zwischen Wasserströmen und Wellen hin- und herliefen und ihre Jugend in vollen Zügen und mit viel Schwitzen auslebten. Doch was Octavia am meisten in Erinnerung geblieben war, waren ein scheinbar ganz normales Mädchen und ein Junge. Sie verfügten weder über außergewöhnliche körperliche Fähigkeiten noch über komplexe, hochentwickelte Ausrüstung. In den Augen einer kampferprobten Person wie Octavia wirkten ihre Bewegungen in etwa so träge wie Farbe, die sich langsam im Wasser ausbreitet. Doch gerade diese sich langsam entfaltenden „Farben“ waren voller strahlender Lebenskraft, die einen auf den ersten Blick nicht mehr losließ und von Herzen Freude bereitete. Vielleicht war es genau das, wie die Jugend eigentlich sein sollte; vielleicht war auch das der ursprüngliche Zweck dieses „Kriegsrituals“. Genau aus diesem Grund hat Octavia diese Kleidung eigens für die beiden angefertigt, in der Hoffnung, dass sie diese Vitalität und Frische auf Dauer bewahren mögen.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265360,
+    "Name": "Look der Mannekina: „Farbiges Schicksalsmeer – Nachtmalerei“",
+    "Description": "Verbesserte Version des Sets „Farbiges Schicksalsmeer“. Die Farben haben sich in ruhigere, traumhafte Abenddämmerungsfarben verwandelt. Da die Nacht nun hereinbricht, nutze doch diese tiefe Dunkelheit als perfekte Leinwand. Halte die Wasserpistole fest, spritze deine Freude darauf und male dein ganz persönliches Sommernacht-Spektakel!\n\nBeeinflusst von den „Farbtupfer-Malern“ gestalteten die Bewohner der „Meereswelt“ Nr. 503 mit einem einzigartigen „Kriegsritual“ die Beziehungen zwischen Mensch und sich selbst sowie zwischen Mensch und Mitmenschen neu. Daher sah man an diesem Urlaubsstrand oft junge Menschen in „Kampfkleidung“, die zwischen Wasserströmen und Wellen hin- und herliefen und ihre Jugend in vollen Zügen und mit viel Schwitzen auslebten. Doch was Octavia am meisten in Erinnerung geblieben war, waren ein scheinbar ganz normales Mädchen und ein Junge. Sie verfügten weder über außergewöhnliche körperliche Fähigkeiten noch über komplexe, hochentwickelte Ausrüstung. In den Augen einer kampferprobten Person wie Octavia wirkten ihre Bewegungen in etwa so träge wie Farbe, die sich langsam im Wasser ausbreitet. Doch gerade diese sich langsam entfaltenden „Farben“ waren voller strahlender Lebenskraft, die einen auf den ersten Blick nicht mehr losließ und von Herzen Freude bereitete. Vielleicht war es genau das, wie die Jugend eigentlich sein sollte; vielleicht war auch das der ursprüngliche Zweck dieses „Kriegsrituals“. Genau aus diesem Grund hat Octavia diese Kleidung eigens für die beiden angefertigt, in der Hoffnung, dass sie diese Vitalität und Frische auf Dauer bewahren mögen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0018",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265361,
+    "Name": "Look des Mannekin: „Farbiges Schicksalsmeer – Nachtmalerei“",
+    "Description": "Verbesserte Version des Sets „Farbiges Schicksalsmeer“. Die Farben haben sich in ruhigere, traumhafte Abenddämmerungsfarben verwandelt. Da die Nacht nun hereinbricht, nutze doch diese tiefe Dunkelheit als perfekte Leinwand. Halte die Wasserpistole fest, spritze deine Freude darauf und male dein ganz persönliches Sommernacht-Spektakel!\n\nBeeinflusst von den „Farbtupfer-Malern“ gestalteten die Bewohner der „Meereswelt“ Nr. 503 mit einem einzigartigen „Kriegsritual“ die Beziehungen zwischen Mensch und sich selbst sowie zwischen Mensch und Mitmenschen neu. Daher sah man an diesem Urlaubsstrand oft junge Menschen in „Kampfkleidung“, die zwischen Wasserströmen und Wellen hin- und herliefen und ihre Jugend in vollen Zügen und mit viel Schwitzen auslebten. Doch was Octavia am meisten in Erinnerung geblieben war, waren ein scheinbar ganz normales Mädchen und ein Junge. Sie verfügten weder über außergewöhnliche körperliche Fähigkeiten noch über komplexe, hochentwickelte Ausrüstung. In den Augen einer kampferprobten Person wie Octavia wirkten ihre Bewegungen in etwa so träge wie Farbe, die sich langsam im Wasser ausbreitet. Doch gerade diese sich langsam entfaltenden „Farben“ waren voller strahlender Lebenskraft, die einen auf den ersten Blick nicht mehr losließ und von Herzen Freude bereitete. Vielleicht war es genau das, wie die Jugend eigentlich sein sollte; vielleicht war auch das der ursprüngliche Zweck dieses „Kriegsrituals“. Genau aus diesem Grund hat Octavia diese Kleidung eigens für die beiden angefertigt, in der Hoffnung, dass sie diese Vitalität und Frische auf Dauer bewahren mögen.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0018",
     "Type": 2,
     "RankLevel": 5
   },
@@ -11024,6 +11552,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 275348,
+    "Name": "Setkatalog: „Eislimonade“",
+    "Description": "Ein Kristall, der sich aus den verschmolzenen Phänomenen des Wonderlands geformt hat. Er enthält Informationen über das Set „Eislimonade“. Während der Wiederherstellung kannst du frei zwischen dem entsprechenden Look für Mannekins und Mannekinas wählen.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
+    "Type": 3,
+    "RankLevel": 4
+  },
+  {
     "Id": 280001,
     "Name": "Look der Mannekina: „Kleid – Elegante Anmut“",
     "Description": "Ein elegantes und feines Kleid, das mit einer prachtvollen Rockpartie und einem dezenten Satinschal am Kragen daherkommt. Der gesamte Stil wirkt würdevoll und geordnet. Das Charisma eines Dieners zeigt sich in seiner präzisen Pflichterfüllung, und die angemessene Kleidung unterstreicht diese Ausstrahlung noch.",
@@ -11460,6 +11996,110 @@
     "Name": "Look des Mannekin: „Anhänger – Farbtupfer-Maler“",
     "Description": "Ein Anhänger in leuchtenden Farben für die Kamera beim Dreh. Wird meist an der Hüfte getragen, damit man ihn schnell zur Hand hat, wenn man einen Moment festhalten möchte.",
     "Icon": "UI_Beyd_Avatar_Boy_WaistAcc_S0132",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280056,
+    "Name": "Look der Mannekina: „Abendkleidung – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine elegante Abendkleidung in zartem Lila, wie die Farbe der Abenddämmerung. Sie ist mit goldenen Kleeblattmustern verziert, und am Ausschnitt sitzt eine lila Schleife, die an eine Blüte erinnert. Blumenmuster im Stoff und goldene Bordüren setzen feine Akzente und verleihen dem Kleid trotz seiner Lässigkeit die ruhige Atmosphäre einer Mittsommernacht.",
+    "Icon": "UI_Beyd_Avatar_Girl_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280057,
+    "Name": "Look der Mannekina: „Fußbekleidung – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine dunkelviolette Fußbekleidung mit Schleife, schlicht und doch elegant. Jeder Schritt hinterlässt einen leichten Abdruck, als würde man über eine vom Mondlicht erleuchtete Wiese gehen.",
+    "Icon": "UI_Beyd_Avatar_Girl_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280058,
+    "Name": "Look der Mannekina: „Lange Haare – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine traumhafte Langhaarfrisur in zartem, ruhigem Weißton, lässig und doch voller Raffinesse. Sie wirkt, als wären das kühle Mondlicht einer Sommernacht und das flackernde Leuchten der Glühwürmchen in die Haarspitzen eingewoben.",
+    "Icon": "UI_Beyd_Avatar_Girl_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280059,
+    "Name": "Look der Mannekina: „Haarband – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Ein elegantes, wunderschönes Haarband, das das sanfte Leuchten von Glühwürmchen mit der Stille der Abenddämmerung im Haar vereint – als wäre es jederzeit bereit, dich in ein prächtiges Nachtfest zu führen, wo Sternenlicht und Blütenduft sich miteinander verweben.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280060,
+    "Name": "Look der Mannekina: „Armband – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Ein weißes Armband mit Rüschen, das mit einem dunklen Band befestigt wird. Das schlichte Design harmoniert mit dem Gesamtstil des Outfits und verleiht ihm eine elegante Note.",
+    "Icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280061,
+    "Name": "Look der Mannekina: „Lange Strümpfe – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Weiße Strümpfe mit dezenten geometrischen Mustern, die sich kaum erkennen lassen, als hätte man das Sternenlicht einer Mittsommernacht an den Knöcheln festgehalten – leicht und elegant.",
+    "Icon": "UI_Beyd_Avatar_Girl_LegAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280062,
+    "Name": "Look des Mannekin: „Abendkleidung – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine elegante Abendkleidung, die das Lila der Abenddämmerung mit dem Grau der Morgendämmerung geschickt vereint. Sie ist mit goldenen Kleeblattmustern verziert, und am Ausschnitt sitzt eine orange-gelbe Schleife, die an das sanfte Leuchten von Glühwürmchen erinnert. Geometrische Muster im Stoff und goldene Bordüren setzen feine Akzente und verleihen dem Kleid trotz seiner Lässigkeit die ruhige Atmosphäre einer Mittsommernacht.",
+    "Icon": "UI_Beyd_Avatar_Boy_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280063,
+    "Name": "Look des Mannekin: „Lange Hose – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine sauber geschnittene Hose in ruhigem Graulila, dem Ton der Abenddämmerung nachempfunden. An den Hosenbeinen schimmern geometrische Muster hervor, wie der Sternenglanz, der in einer Mittsommernacht über den Himmel fließt.",
+    "Icon": "UI_Beyd_Avatar_Boy_Bottom_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280064,
+    "Name": "Look des Mannekin: „Fußbekleidung – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine Fußbekleidung mit goldenem Rand, schlicht und doch elegant. Jeder Schritt hinterlässt einen leichten Abdruck, als würde man über eine vom Mondlicht erleuchtete Wiese gehen.",
+    "Icon": "UI_Beyd_Avatar_Boy_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280065,
+    "Name": "Look des Mannekin: „Kurze Haare – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine traumhafte Kurzhaarfrisur in zartem, ruhigem Weißton, lässig und doch voller Raffinesse. Sie wirkt, als wären das kühle Mondlicht einer Sommernacht und das flackernde Leuchten der Glühwürmchen in die Haarspitzen eingewoben.",
+    "Icon": "UI_Beyd_Avatar_Boy_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280066,
+    "Name": "Look des Mannekin: „Trachtenhut – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Der Hutrand ist mit einem Band verziert, das mit Kleeblättern geschmückt ist. Es wirkt schlicht und zugleich elegant und harmoniert perfekt mit dem restlichen Outfit.",
+    "Icon": "UI_Beyd_Avatar_Boy_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280067,
+    "Name": "Look des Mannekin: „Armbanduhr – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Eine schlicht gestaltete Armbanduhr mit feinen Goldverzierungen am Zifferblattrand. Sie spiegelt den Stil des gesamten Outfits wider – zurückhaltend und dennoch elegant.",
+    "Icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280068,
+    "Name": "Look des Mannekin: „Kurze Socken – Traumhafte sommerliche Gelassenheit“",
+    "Description": "Helle Socken, die die Farben des gesamten Outfits aufgreifen – schlicht und doch voller Leichtigkeit, wie Blütenblätter, die in der Sommernachtsbrise sanft erzittern.",
+    "Icon": "UI_Beyd_Avatar_Boy_LegAcc_S0143",
     "Type": 1,
     "RankLevel": 4
   }

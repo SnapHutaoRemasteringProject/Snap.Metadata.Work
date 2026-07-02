@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "Édit de purification",
+        "Description": "Prolonge la durée des sakura dévastateurs de 10 s. Lorsqu'un personnage de l'équipe à proximité a déclenché une réaction de Supraconduction ou d'Astroconduction, le prochain éclair de sakura dévastateur est renforcé : les DGT infligés augmentent d'une valeur équivalant à 80 % de l'ATQ de Yae Miko, cet effet pouvant être déclenché une fois toutes les 2,5 s.\n<color=#FFD780FF>Radiance « Astroconduction »</color> : Toucher un ennemi avec un éclair ainsi renforcé d'un sakura dévastateur inflige une instance supplémentaire de <color=#FFACFFFF>DGT Électro</color> d'une valeur équivalant à 200 % de l'ATQ de Yae Miko, ces DGT étant considérés comme des DGT de réaction d'Astroconduction.\nDe plus, Yae Miko passe en <color=#FFD780FF>radiance « Astroconduction »</color> lorsqu'elle est dans une {LINK#N11330003}<color=#FFD780FF>étendue polaris</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

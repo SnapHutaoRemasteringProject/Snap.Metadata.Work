@@ -1128,6 +1128,38 @@
     "RankLevel": 5
   },
   {
+    "Id": 250473,
+    "Name": "Süper Kalp!",
+    "Description": "Büyük Beğeni!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 3
+  },
+  {
+    "Id": 250474,
+    "Name": "Buzlu İçecek Zamanı",
+    "Description": "Serin ve Ferahlatıcı!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 4
+  },
+  {
+    "Id": 250475,
+    "Name": "Yarasın!",
+    "Description": "Soğuk bir şeyler iç!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
+    "Id": 250476,
+    "Name": "Şerefe!",
+    "Description": "Ferahlatıcı bir içecekle kendine gel!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
     "Id": 251001,
     "Name": "Peri Masalı Tiyatrosu: Cadının Şarkısı",
     "Description": "Bir zamanlar Cadının Şarkısı oyununun sahnelendiği tiyatro, şimdi yeni nesil konuklara perdelerini açıyor.",
@@ -1192,6 +1224,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 251009,
+    "Name": "Issız Ada: Mavi Dalgalar",
+    "Description": "Buradaki güneş ışığı bir yeri aydınlatmak için değil, güneşlenmek için var. Dalgalar da öyle sıradan mavi değil, adeta sıvı mücevherlerden oluşan bir deniz.",
+    "Icon": "UI_Beyd_HallThemeIcon_Xrht",
+    "Type": 10,
+    "RankLevel": 4
+  },
+  {
     "Id": 251201,
     "Name": "Genel Işınlanma",
     "Description": "Gelişinde de gidişinde de zarafeti gözet...",
@@ -1244,6 +1284,14 @@
     "Name": "Dönen Kelebek İzleri",
     "Description": "Görünür bir koku gibi...",
     "Icon": "UI_UGC_Transfer_BP_SuperRare_S0121",
+    "Type": 7,
+    "RankLevel": 4
+  },
+  {
+    "Id": 251208,
+    "Name": "Parıltılı Dalgalar",
+    "Description": "Deniz meltemi ve köpüklerle birlikte akıp gidiyor.",
+    "Icon": "UI_UGC_Transfer_BP_SuperRare_S0017",
     "Type": 7,
     "RankLevel": 4
   },
@@ -1536,6 +1584,38 @@
     "RankLevel": 4
   },
   {
+    "Id": 257037,
+    "Name": "Deneme Pelerini: Ruh Meskeni Tzitzimitl",
+    "Description": "Görünümleri kopyalama büyüsüne sahip bir pelerin. Kullanıldığında otomatik olarak istenilen kıyafete dönüşür, makyajı ve aksesuarları bile bire bir kopyalar. Depolandığında kart benzeri bir formda katlanır, böylece yerleştirmeyi ve ilgili kozmetiği tanımayı kolaylaştırır.\nDoğru değerlendirildiğinde kozmetikleri denemek için kullanışlı bir eşyadır.\nElde edildikten sonra 14 gün içinde kullanılabilir. Kullanıldığında deneme etkisi 1 gün sürer. Bu eşyanın süresi, mevcut Bin Yıldız Bileti sona erdiğinde dolar.\nDeneme Pelerini yalnızca tam bir set olarak denenebilir, parçaları ayrı ayrı kullanılamaz.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257038,
+    "Name": "Deneme Pelerini: Ruh Meskeni Tzitzimitl",
+    "Description": "Görünümleri kopyalama büyüsüne sahip bir pelerin. Kullanıldığında otomatik olarak istenilen kıyafete dönüşür, makyajı ve aksesuarları bile bire bir kopyalar. Depolandığında kart benzeri bir formda katlanır, böylece yerleştirmeyi ve ilgili kozmetiği tanımayı kolaylaştırır.\nDoğru değerlendirildiğinde kozmetikleri denemek için kullanışlı bir eşyadır.\nElde edildikten sonra 14 gün içinde kullanılabilir. Kullanıldığında deneme etkisi 1 gün sürer. Bu eşyanın süresi, mevcut Bin Yıldız Bileti sona erdiğinde dolar.\nDeneme Pelerini yalnızca tam bir set olarak denenebilir, parçaları ayrı ayrı kullanılamaz.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257039,
+    "Name": "Deneme Pelerini: Canlandırıcı Serinlik",
+    "Description": "Görünümleri kopyalama büyüsüne sahip bir pelerin. Kullanıldığında otomatik olarak istenilen kıyafete dönüşür, makyajı ve aksesuarları bile bire bir kopyalar. Depolandığında kart benzeri bir formda katlanır, böylece yerleştirmeyi ve ilgili kozmetiği tanımayı kolaylaştırır.\nDoğru değerlendirildiğinde kozmetikleri denemek için kullanışlı bir eşyadır.\nElde edildikten sonra 14 gün içinde kullanılabilir. Kullanıldığında deneme etkisi 1 gün sürer. Bu eşyanın süresi, mevcut Bin Yıldız Bileti sona erdiğinde dolar.\nDeneme Pelerini yalnızca tam bir set olarak denenebilir, parçaları ayrı ayrı kullanılamaz.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257040,
+    "Name": "Deneme Pelerini: Canlandırıcı Serinlik",
+    "Description": "Görünümleri kopyalama büyüsüne sahip bir pelerin. Kullanıldığında otomatik olarak istenilen kıyafete dönüşür, makyajı ve aksesuarları bile bire bir kopyalar. Depolandığında kart benzeri bir formda katlanır, böylece yerleştirmeyi ve ilgili kozmetiği tanımayı kolaylaştırır.\nDoğru değerlendirildiğinde kozmetikleri denemek için kullanışlı bir eşyadır.\nElde edildikten sonra 14 gün içinde kullanılabilir. Kullanıldığında deneme etkisi 1 gün sürer. Bu eşyanın süresi, mevcut Bin Yıldız Bileti sona erdiğinde dolar.\nDeneme Pelerini yalnızca tam bir set olarak denenebilir, parçaları ayrı ayrı kullanılamaz.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
     "Id": 258001,
     "Name": "Kozmetik Paketi: \"Dans Halindeki Zarafet\"",
     "Description": "Bu paket, biri Manekin ve biri Manekina için tasarlanmış iki tam Dans Halindeki Zarafet seti içerir.\nSetleri ayrı ayrı satın almaya kıyasla, birlikte satın alındığında ikinci set yarı fiyatına gelir!",
@@ -1652,6 +1732,38 @@
     "Name": "Kozmetik Paketi - \"Yeşil Kovalamaca\"",
     "Description": "Bu paket, biri Manekin ve biri Manekina için tasarlanmış iki tam Yeşil Kovalamaca seti içerir.\nSetleri ayrı ayrı satın almaya kıyasla, birlikte satın alındığında ikinci set yarı fiyatına gelir!",
     "Icon": "UI_Beyd_Avatar_Optional_Suit_S0175",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258016,
+    "Name": "Kozmetik Paketi: \"Boya Sıçratma Sanatçısı\"",
+    "Description": "Bu paket, biri Manekin ve biri Manekina için tasarlanmış iki tam Boya Sıçratma Sanatçısı seti içerir.\nSetleri ayrı ayrı satın almaya kıyasla, birlikte satın alındığında ikinci set yarı fiyatına gelir!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0132",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258017,
+    "Name": "Kozmetik Paketi: \"Ruh Meskeni Tzitzimitl\"",
+    "Description": "Bu paket, biri Manekin ve biri Manekina için tasarlanmış iki tam Ruh Meskeni Tzitzimitl seti içerir.\nSetleri ayrı ayrı satın almaya kıyasla, birlikte satın alındığında ikinci set yarı fiyatına gelir!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0190",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258018,
+    "Name": "Kozmetik Paketi: \"Tatlı Tarifi\"",
+    "Description": "Bu paket, biri Manekin ve biri Manekina için tasarlanmış iki tam Tatlı Tarifi seti içerir.\nSetleri ayrı ayrı satın almaya kıyasla, birlikte satın alındığında ikinci set yarı fiyatına gelir!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0174",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258019,
+    "Name": "Kozmetik Paketi: \"Tembel Köpek Balığı\"",
+    "Description": "Bu paket, biri Manekin ve biri Manekina için tasarlanmış iki tam Tembel Köpek Balığı seti içerir.\nSetleri ayrı ayrı satın almaya kıyasla, birlikte satın alındığında ikinci set yarı fiyatına gelir!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0054",
     "Type": 16,
     "RankLevel": 3
   },
@@ -1897,6 +2009,46 @@
   },
   {
     "Id": 258531,
+    "Name": "Rastgele Deneme Pelerini: Manekin Kozmetiği",
+    "Description": "Görüntü kopyalama becerisine sahip büyülü bir pelerin. Kullanıldığında otomatik olarak rastgele bir Manekin Kozmetiğine dönüşür, hatta aksesuarları ve makyajları bile bire bir kopyalayabilir.\nDoğru kullanıldığında deneme için kullanışlı bir üründür.\nElde edildikten sonra 14 gün içinde kullanılmalıdır. Deneme etkisi kullanıldığı andan itibaren 1 gün geçerlidir. Bu eşyanın süresi, mevcut Bin Yıldız Bileti sona erdiğinde dolar.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258532,
+    "Name": "Günce Sandığı: Olağanüstü",
+    "Description": "Muhteşem kozmetikler içeren bir hediye kutusu. Kullandıktan sonra, içindeki ilgili kalitedeki mevcut Kozmetik Setlerinden birini seçebilirsin.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0146",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258533,
+    "Name": "Günce Sandığı: Olağanüstü",
+    "Description": "Muhteşem kozmetikler içeren bir hediye kutusu. Kullandıktan sonra, içindeki ilgili kalitedeki mevcut Kozmetik Setlerinden birini seçebilirsin.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0147",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258534,
+    "Name": "Günce Sandığı: Seçkin",
+    "Description": "Muhteşem kozmetikler içeren bir hediye kutusu. Kullandıktan sonra, içindeki ilgili kalitedeki mevcut Kozmetik Setlerinden birini seçebilirsin.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0191",
+    "Type": 14,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258535,
+    "Name": "Rastgele Deneme Pelerini: Manekina Kozmetiği",
+    "Description": "Görüntü kopyalama becerisine sahip büyülü bir pelerin. Kullanıldığında otomatik olarak rastgele bir Manekina Kozmetiğine dönüşür, hatta aksesuarları ve makyajları bile bire bir kopyalayabilir.\nDoğru kullanıldığında deneme için kullanışlı bir üründür.\nElde edildikten sonra 14 gün içinde kullanılmalıdır. Deneme etkisi kullanıldığı andan itibaren 1 gün geçerlidir. Bu eşyanın süresi, mevcut Bin Yıldız Bileti sona erdiğinde dolar.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258536,
     "Name": "Rastgele Deneme Pelerini: Manekin Kozmetiği",
     "Description": "Görüntü kopyalama becerisine sahip büyülü bir pelerin. Kullanıldığında otomatik olarak rastgele bir Manekin Kozmetiğine dönüşür, hatta aksesuarları ve makyajları bile bire bir kopyalayabilir.\nDoğru kullanıldığında deneme için kullanışlı bir üründür.\nElde edildikten sonra 14 gün içinde kullanılmalıdır. Deneme etkisi kullanıldığı andan itibaren 1 gün geçerlidir. Bu eşyanın süresi, mevcut Bin Yıldız Bileti sona erdiğinde dolar.",
     "Icon": "UI_ItemIcon_BydBox_4",
@@ -6864,6 +7016,174 @@
     "RankLevel": 4
   },
   {
+    "Id": 264267,
+    "Name": "Genel Kozmetik - \"Doktor Şıpırtı\"",
+    "Description": "Harikalarla ve hayal gücüyle dolu bir baş aksesuarı. Bunu taktığın anda, başın adeta su yüzüne çıkıp nefes alan minik bir balinanın oturduğu bir kaideye dönüşür. Kim bilir, bu sevimli yol arkadaşınla dolaşırken \"şıp\" diye ilham gelebilir.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_P0450",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262673,
+    "Name": "Genel Kaş - \"Rüzgarda Sallanan Söğüt: Açık Pembe\"",
+    "Description": "Salkım söğütleri anımsatan açık pembe kaşlar. Doğal ve akıcı hatları yüze yumuşak ve nazik bir hava katar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0039",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262674,
+    "Name": "Genel Kaş - \"Rüzgarda Sallanan Söğüt: Açık Mor\"",
+    "Description": "Salkım söğütleri anımsatan açık mor kaşlar. Doğal ve akıcı hatları yüze yumuşak ve nazik bir hava katar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0040",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262675,
+    "Name": "Genel Kaş - \"Göğe Yükseliş: Açık Pembe\"",
+    "Description": "Topraktan yeni çıkan bambu filizlerini andıran açık pembe kaşlar. Kuvvetli ve güçlü hatları yüze enerjik bir dokunuş katar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0041",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262676,
+    "Name": "Genel Kaş - \"Göğe Yükseliş: Açık Mor\"",
+    "Description": "Topraktan yeni çıkan bambu filizlerini andıran açık mor kaşlar. Kuvvetli ve güçlü hatları yüze enerjik bir dokunuş katar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0042",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262677,
+    "Name": "Genel Kaş - \"Görkemli Kayalık\"",
+    "Description": "Etrafa güçten doğan bir çekicilik yayan, keskin ve kararlı bir ifadeye sahip çizgili kaşlar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0280",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262678,
+    "Name": "Genel Kaş - \"Sürüklenen Sis\"",
+    "Description": "Yumuşak ve zarif kavisleriyle yüze doğal, sade ve hoş bir çekicilik katan kaşlar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0281",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262999,
+    "Name": "Manekina Göz Şekli - \"Şafaksöktüren\"",
+    "Description": "Karanlığı yarıp şafağı söktüren bir kılıç gibi çekingen ama kurnaz bir Manekina göz şekli.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0054",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263000,
+    "Name": "Manekina Göz Şekli - \"Güneşli Gökyüzü\"",
+    "Description": "Bulutsuz gökyüzündeki güneş gibi parlak ve şevkli bir Manekina göz şekli.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0056",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263001,
+    "Name": "Manekin Göz Şekli - \"Ayaz Çiçeği Korusu\"",
+    "Description": "Kış gecesindeki görkemli ormanlar gibi ıssız ve çekingen bir Manekin göz şekli.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0268",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263002,
+    "Name": "Manekin Göz Şekli - \"Gün Batımı Parıltısı\"",
+    "Description": "Şafağın canlı ışıltısı gibi zarif ve parlak Manekin göz şekli.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0271",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263014,
+    "Name": "Manekin Göz Şekli - \"Altın Sarısı Işıltı\"",
+    "Description": "Cesaret ve enerjiyle dolu bir Manekin göz şekli. Hatları ve renkleri, öğle vakti dalgaların üzerinde dans eden ışığı çağrıştırıyor.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263015,
+    "Name": "Manekina Göz Şekli - \"Altın Sarısı Işıltı\"",
+    "Description": "Cesaret ve enerjiyle dolu bir Manekina göz şekli. Hatları ve renkleri, öğle vakti dalgaların üzerinde dans eden ışığı çağrıştırıyor.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263016,
+    "Name": "Manekin Göz Şekli - \"Altın Sarısı Işıltı: Alacakaranlık\"",
+    "Description": "Zarafet ve doğal incelikle dolu bir Manekin göz şekli. Hatları ve renkleri, alacakaranlıkta mor dalgaların üzerinde dans eden ışığı çağrıştırıyor.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263017,
+    "Name": "Manekina Göz Şekli - \"Altın Sarısı Işıltı: Alacakaranlık\"",
+    "Description": "Zarafet ve doğal incelikle dolu bir Manekina göz şekli. Hatları ve renkleri, alacakaranlıkta mor dalgaların üzerinde dans eden ışığı çağrıştırıyor.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263298,
+    "Name": "Genel Göz Bebeği - \"Süslü Kabuklar: Parlak Turuncu\"",
+    "Description": "Günün ilk ışıklarıyla aydınlanan bir çift deniz kabuğunu andıran renkli kontak lensler.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0064",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263263,
+    "Name": "Genel Göz Bebeği - \"Süslü Kabuklar: Açık Pembe\"",
+    "Description": "Pembe alacakaranlıktaki bir çift deniz kabuğuna andıran renkli kontak lensler.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0067",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263305,
+    "Name": "Genel Göz Bebeği - \"Denizin Renkleri: Yeşim Dalgalar\"",
+    "Description": "Deniz gibi sakin ama bir o kadar derin renkli kontak lensler. Tatilin saf mutluluğunu yaşarken, bu lenslerle gözlerini o sert parıltılardan koru.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0466",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263307,
+    "Name": "Genel Göz Bebeği - \"Denizin Renkleri: Mor Rekabet\"",
+    "Description": "Deniz gibi sakin ama bir o kadar derin renkli kontak lensler. Tatilin saf mutluluğunu yaşarken, bu lenslerle gözlerini o sert parıltılardan koru.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0467",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263932,
+    "Name": "Genel Yüz Makyajı - \"Leopar Benekleri\"",
+    "Description": "Kavurucu güneşin altında geçen bir günün ardından ciltte beliren o alacalı bronzluğu mükemmel bir şekilde yeniden yaratan, sımsıcak bir makyaj stili. Tıpkı bir leoparın benekleri gibi gösterişli ve göz alıcı bir görünüm.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0482",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263947,
+    "Name": "Genel Yüz Makyajı - \"Göz Altı Allığı: Dökülen Çiçekler\"",
+    "Description": "Gözleri görsel anlamda \"açmak\" için alt göz kapaklarına uygulanan ve yüze çok daha çekici ve canlı bir görünüm kazandıran bir makyaj stili.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0493",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
     "Id": 265001,
     "Name": "Manekina Kozmetiği - \"Geçit Töreni\"",
     "Description": "\"Geçit Töreni\" seti. Şenlik çanları çaldığında bu gösterişli kıyafeti giy ve geçit töreninin en ışıltılı yıldızı ol. Fenerler yolunu aydınlatırken bal kabakları yoldaşın olsun. Bu neşe dolu gecenin tadını doya doya çıkar.",
@@ -8284,6 +8604,214 @@
     "Name": "Manekin Kozmetiği - \"Kelebeğin İhtişamı: Çivit Rengi Sis\"",
     "Description": "Kelebeğin İhtişamı setinin geliştirilmiş versiyonu. Sis perdesi gibi süzülen çivit renginin ortasında, çiçek dilinin melodisiyle salınır; doğanın iradesiyle bütünleşir ve hayat şarkısının sonsuz ezgisini sürdürür.\nİki bilge samimi adımlarla dans ederken, \"Çiçek Fısıltısı Töreni\" en can alıcı anına ulaştı. Merkezdeki çiçek denizinden, sanki bir çağrıya cevap verircesine kat kat yükselen soluk ışık dalgaları yükseliyordu. Derken, mücevher tozuna benzer bir sisin içinden yavaşça genç bir oğlanla kızın silüeti belirdi. Bilginlerle aynı tarzda resmi kıyafetler giymişlerdi ve yüzleri onların gençlik hallerini andırıyordu, sanki zaman geriye akmıştı. Kıyafetlerindeki çivit rengi tonlar kim olduklarını ele veriyordu: gezegenin iradesinin vücut bulmuş halleri. Ardından, iki bilgini karşılayıp onları çiçek denizinin derinliklerine götürdüler, sonra da yavaşça gözden kayboldular.\nO vakit anlaşıldı ki gezegen asırlar boyunca halkının gayretine sessizce tanıklık etmiş ve nihayet \"Elçilerini\" vücuda getirip insanlarla temas kurmak için o iki bilgenin suretini seçmişti.\nOctavia oradan ayrılırken, iki bilgin ile Elçilerin hikayesi artık dillere pelesenk olmuş, pek sevilen bir masal haline gelmişti. Gezegen kendi rotasında ilerlemeye, sağlıklı ve müreffeh bir şekilde gelişmeye devam ediyor, üstelik yıkıcı bir felakete göğüs germeye de hazır görünüyordu...",
     "Icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265338,
+    "Name": "Manekina Kozmetiği - \"Çorak Arazi Gezgini\"",
+    "Description": "Çorak Arazi Gezgini seti. Aerodinamik ve vücuda oturan bu giysi, ultra dayanıklı ve zor aşınan malzemelerden dikilmiştir. Bu giysi yanındayken vahşi doğadaki en zorlu keşifler bile parkta yürüyüş yapmak kadar kolay gelecek.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265339,
+    "Name": "Manekin Kozmetiği - \"Çorak Arazi Gezgini\"",
+    "Description": "Çorak Arazi Gezgini seti. Aerodinamik ve vücuda oturan bu giysi, ultra dayanıklı ve zor aşınan malzemelerden dikilmiştir. Bu giysi yanındayken vahşi doğadaki en zorlu keşifler bile parkta yürüyüş yapmak kadar kolay gelecek.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265419,
+    "Name": "Manekina Kozmetiği - \"Tatlı Tarifi\"",
+    "Description": "Tatlı Tarifi seti. Bu son derece özgün şef giysisi, mutfağın en çarpıcı yemeğini şef şapkasına zekice dahil eder. Her müşteride bal gibi tatlı bir ilk izlenim bırakır.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265420,
+    "Name": "Manekin Kozmetiği - \"Tatlı Tarifi\"",
+    "Description": "Tatlı Tarifi seti. Bu son derece özgün şef giysisi, mutfağın en çarpıcı yemeğini şef şapkasına zekice dahil eder. Her müşteride bal gibi tatlı bir ilk izlenim bırakır.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265340,
+    "Name": "Manekina Kozmetiği - \"Alacakaranlık Denizi Yolcusu\"",
+    "Description": "Alacakaranlık Denizi Yolcusu seti. Alacakaranlık vaktindeki denizin renklerini bire bir yakalayan boyalarla üretilen bu giysi, derin ve büyüleyici bir ışıltıyla bezenmiştir. Bunu giydiğinde en yüksek dalgaların karşısında bile korkusuzca duracaksın.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265341,
+    "Name": "Manekin Kozmetiği - \"Alacakaranlık Denizi Yolcusu\"",
+    "Description": "Alacakaranlık Denizi Yolcusu seti. Alacakaranlık vaktindeki denizin renklerini bire bir yakalayan boyalarla üretilen bu giysi, derin ve büyüleyici bir ışıltıyla bezenmiştir. Bunu giydiğinde en yüksek dalgaların karşısında bile korkusuzca duracaksın.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265342,
+    "Name": "Manekina Kozmetiği - \"Tembel Köpek Balığı\"",
+    "Description": "Tembel Köpek Balığı seti. Uysal ve yavaş yüzen bir köpek balığı örnek alınarak tasarlanan bu kostüm, onun kendine has rahat havasını mükemmel bir şekilde yansıtır. Canlı deniz ekosistemlerine sahip bazı gezegenlerde, vahşi görünümlü bu devlerin aslında özlerinde inanılmaz derecede uyumlu olmaları nedeniyle yerel halk arasında son derece popüler olduğu söylenmektedir.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265343,
+    "Name": "Manekin Kozmetiği - \"Tembel Köpek Balığı\"",
+    "Description": "Tembel Köpek Balığı seti. Uysal ve yavaş yüzen bir köpek balığı örnek alınarak tasarlanan bu kostüm, onun kendine has rahat havasını mükemmel bir şekilde yansıtır. Canlı deniz ekosistemlerine sahip bazı gezegenlerde, vahşi görünümlü bu devlerin aslında özlerinde inanılmaz derecede uyumlu olmaları nedeniyle yerel halk arasında son derece popüler olduğu söylenmektedir.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265320,
+    "Name": "Manekina Kozmetiği - \"Uğurlu Esinti\"",
+    "Description": "Uğurlu Esinti seti. Ana renk tonu taze yaprak yeşili olan bu dış mekan giysisi, ciltte yumuşak ve rahat bir his veren bir malzemeden üretilmiştir. Şanslı üç yapraklı yonca motifiyle süslenmiş bu giysi, iyi talihin nazik esintisi her zaman yanındaymış gibi hissetmeni sağlar.\n\n311 Numaralı Gezegendeki her \"Çiçek Fısıldayıcısı\", \"Ebedi Bahçeler\" adı verilen ve bitkileri optimum büyüme zirvesinde kalıcı olarak sabitlemek amacıyla tasarlanmış yetiştirme yöntemini benimsemez. Bu nazik mizaçlı asiler, gezegenin iradesinin hesaplanamayacağına veya bir serada seri üretilemeyeceğine yürekten inanırlar. Aksine, bereketin o şanslı esintisinin yalnızca doğanın gözden kaçan köşelerinde kendiliğinden eseceğini savunurlar. Doğanın bu armağanını arayıp bulmak için giysilerini uzun yolculuklara uygun işlevsel bir dış mekan stiline uyarladılar. Artık yetiştirdikleri bitkiler, bir spot ışığı altında kalabalık oluşturan gösterişli çiçekler değil; her yerde bulunan ve sonsuz bir yaşam döngüsü içinde büyüyen alçak boylu otlardır. Octavia, bu felsefeye duyduğu takdir ve saygıdan dolayı, bu giysiyi bu tasarımda aslına sadık kalarak yeniden yaratmayı seçmiştir...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265321,
+    "Name": "Manekin Kozmetiği - \"Uğurlu Esinti\"",
+    "Description": "Uğurlu Esinti seti. Ana renk tonu taze yaprak yeşili olan bu dış mekan giysisi, ciltte yumuşak ve rahat bir his veren bir malzemeden üretilmiştir. Şanslı üç yapraklı yonca motifiyle süslenmiş bu giysi, iyi talihin nazik esintisi her zaman yanındaymış gibi hissetmeni sağlar.\n\n311 Numaralı Gezegendeki her \"Çiçek Fısıldayıcısı\", \"Ebedi Bahçeler\" adı verilen ve bitkileri optimum büyüme zirvesinde kalıcı olarak sabitlemek amacıyla tasarlanmış yetiştirme yöntemini benimsemez. Bu nazik mizaçlı asiler, gezegenin iradesinin hesaplanamayacağına veya bir serada seri üretilemeyeceğine yürekten inanırlar. Aksine, bereketin o şanslı esintisinin yalnızca doğanın gözden kaçan köşelerinde kendiliğinden eseceğini savunurlar. Doğanın bu armağanını arayıp bulmak için giysilerini uzun yolculuklara uygun işlevsel bir dış mekan stiline uyarladılar. Artık yetiştirdikleri bitkiler, bir spot ışığı altında kalabalık oluşturan gösterişli çiçekler değil; her yerde bulunan ve sonsuz bir yaşam döngüsü içinde büyüyen alçak boylu otlardır. Octavia, bu felsefeye duyduğu takdir ve saygıdan dolayı, bu giysiyi bu tasarımda aslına sadık kalarak yeniden yaratmayı seçmiştir...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265344,
+    "Name": "Manekina Kozmetiği - \"Rüya Gibi Yaz Tatili\"",
+    "Description": "Rüya Gibi Yaz Tatili seti. Bu giysi, sakince düşüncelere dalan birinin havasını taşıyan hafif ve yazlık bir resmi giysidir. Gizemli mor tonlarla kusursuz bir şekilde dokunmuş rahat ve gündelik bir tasarıma sahip olan giysi, bir yaz gecesi rüyasının eşsiz derecede büyüleyici sihrini harika bir şekilde yakalıyor.\n\n311. gezegendeki bir yaz gecesinde yıldızların ışığı ay ışığıyla buluştuğunda \"Çiçek Fısıldayıcıları\", Ateş Böceği Ziyafeti için vahşi doğanın kalbinde bir araya gelir. Herhangi bir duvardan yoksun açık bir alandaki bu kutlamaya sadece bir o yana bir bu yana usulca sallanan çimenler, dans eden ateş böcekleri ve çağlayan dereler katılır. Çiçek Fısıldayıcıları için gerçek bereket, tıpkı bir elbisenin eteğinin her dönüşte kat kat açılması veya bir çiçeğin ay ışığında nazikçe nefes alması gibi, yalnızca vahşi doğanın nabzıyla çiçek açan bir ihtişamdır. Octavia, sadece vahşi ruhlara adanmış bu kutlamayı ölümsüzleştirmek adına alacakaranlığı ve sabah çiyini yakalamış, ardından bunları doğrudan kumaşın kıvrımlarına dokumuştur. Elbisenin kat kat dökülen mordan beyaza geçişli tasarımı, karanlığın usulca çöktüğü akşam göğünü andırır ve üzerinde bir gece yarısı rüzgarının çiçek tarhlarında yarattığı dalgacıklara benzeyen karmaşık motifler barındırır. Bunu giydiğinde basit bir izleyiciden balo salonunun yıldızına dönüşeceksin. Havayı saran yoğun çiçek kokusu ve hafif esintinin ortasında yıldızlarla dans edecek, saf özgürlük ve hayal gücünden doğan ruhani bir rüyanın peşinden gideceksin.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265345,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili\"",
+    "Description": "Rüya Gibi Yaz Tatili seti. Bu giysi, sakince düşüncelere dalan birinin havasını taşıyan hafif ve yazlık bir resmi giysidir. Gizemli mor tonlarla kusursuz bir şekilde dokunmuş rahat ve gündelik bir tasarıma sahip olan giysi, bir yaz gecesi rüyasının eşsiz derecede büyüleyici sihrini harika bir şekilde yakalıyor.\n\n311. gezegendeki bir yaz gecesinde yıldızların ışığı ay ışığıyla buluştuğunda \"Çiçek Fısıldayıcıları\", Ateş Böceği Ziyafeti için vahşi doğanın kalbinde bir araya gelir. Herhangi bir duvardan yoksun açık bir alandaki bu kutlamaya sadece bir o yana bir bu yana usulca sallanan çimenler, dans eden ateş böcekleri ve çağlayan dereler katılır. Çiçek Fısıldayıcıları için gerçek bereket, tıpkı bir elbisenin eteğinin her dönüşte kat kat açılması veya bir çiçeğin ay ışığında nazikçe nefes alması gibi, yalnızca vahşi doğanın nabzıyla çiçek açan bir ihtişamdır. Octavia, sadece vahşi ruhlara adanmış bu kutlamayı ölümsüzleştirmek adına alacakaranlığı ve sabah çiyini yakalamış, ardından bunları doğrudan kumaşın kıvrımlarına dokumuştur. Elbisenin kat kat dökülen mordan beyaza geçişli tasarımı, karanlığın usulca çöktüğü akşam göğünü andırır ve üzerinde bir gece yarısı rüzgarının çiçek tarhlarında yarattığı dalgacıklara benzeyen karmaşık motifler barındırır. Bunu giydiğinde basit bir izleyiciden balo salonunun yıldızına dönüşeceksin. Havayı saran yoğun çiçek kokusu ve hafif esintinin ortasında yıldızlarla dans edecek, saf özgürlük ve hayal gücünden doğan ruhani bir rüyanın peşinden gideceksin.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265437,
+    "Name": "Manekina Kozmetiği - \"Canlandırıcı Serinlik\"",
+    "Description": "Canlandırıcı Serinlik seti. Bu yazlık giysi, tıpkı rendelenmiş tatlı buzdan alınmış ferahlatıcı bir ısırık gibi hissettiren, canlı açık mavi tonlarında, sade kesimli, günlük bir giysidir. Üzerine giydiğinde kavurucu sıcağı anında eritip yok edecektir.\n\nYaz aylarında bir plaj tatiline yönelik en büyük tehdit sorulursa, yıldızlar arasında dolaşabilen cadı Octavia bile sıradan herhangi bir ölümlü ile tamamen aynı cevabı verir: bunaltıcı sıcaklar. Bu yüzden sürekli acımasız bir sıcaklık çeken \"Okyanus Dünyası (503. Gezegen)\" sakinleri, buz gibi soğuk ikramları en büyük öncelikleri haline getirmişlerdir. Her yaz ortasında, evrenin en iyi soğuk tatlı ustalarını Yaz Kralı tahtı için yarışmak üzere bir araya getiren çılgın bir Buzlu İçecek Festivali düzenlerler. Şampiyon olan kişi nihai ödülü kazanır: serin bir rendelenmiş buzlu pudingle süslenmiş görkemli bir taç. Buralarda dolaşan ve şenliklerin tadını çıkaran tutkulu bir gezgin olarak Octavia, dönemin galibine bir cadının imza niteliğindeki hüneriyle mükemmel bir şekilde eşleşen bir hediye sundu: küçücük bir serinletici büyü kıvılcımı. Bu kıvılcım, tacı etraftaki ısıyı sürekli olarak soğuran ve çevredeki herkese derinlemesine ferahlatıcı bir serinlik getiren gerçek, asla erimeyen rendelenmiş buza dönüştürdü.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265438,
+    "Name": "Manekin Kozmetiği - \"Canlandırıcı Serinlik\"",
+    "Description": "Canlandırıcı Serinlik seti. Bu yazlık giysi, tıpkı rendelenmiş tatlı buzdan alınmış ferahlatıcı bir ısırık gibi hissettiren, canlı açık mavi tonlarında, sade kesimli, günlük bir giysidir. Üzerine giydiğinde kavurucu sıcağı anında eritip yok edecektir.\n\nYaz aylarında bir plaj tatiline yönelik en büyük tehdit sorulursa, yıldızlar arasında dolaşabilen cadı Octavia bile sıradan herhangi bir ölümlü ile tamamen aynı cevabı verir: bunaltıcı sıcaklar. Bu yüzden sürekli acımasız bir sıcaklık çeken \"Okyanus Dünyası (503. Gezegen)\" sakinleri, buz gibi soğuk ikramları en büyük öncelikleri haline getirmişlerdir. Her yaz ortasında, evrenin en iyi soğuk tatlı ustalarını Yaz Kralı tahtı için yarışmak üzere bir araya getiren çılgın bir Buzlu İçecek Festivali düzenlerler. Şampiyon olan kişi nihai ödülü kazanır: serin bir rendelenmiş buzlu pudingle süslenmiş görkemli bir taç. Buralarda dolaşan ve şenliklerin tadını çıkaran tutkulu bir gezgin olarak Octavia, dönemin galibine bir cadının imza niteliğindeki hüneriyle mükemmel bir şekilde eşleşen bir hediye sundu: küçücük bir serinletici büyü kıvılcımı. Bu kıvılcım, tacı etraftaki ısıyı sürekli olarak soğuran ve çevredeki herkese derinlemesine ferahlatıcı bir serinlik getiren gerçek, asla erimeyen rendelenmiş buza dönüştürdü.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265348,
+    "Name": "Manekina Kozmetiği - \"Tuzlu Limonlu Gazoz\"",
+    "Description": "Tuzlu Limonlu Gazoz seti. Bu giysi, havalı ve canlı bir enerji yayan bir plaj tatili giysisidir. Hafif ve nefes alabilen bir kumaştan üretilen parlak ve göz alıcı renkleri, tıpkı buz gibi bir tuzlu limonlu gazozdan alınan canlandırıcı bir yudum hissi veriyor. Giydiğinde daha fazla eğlence için güneşe ve sörfe dalmadan önce yaz ortası sıcaklığını kolayca dindirebilirsin!\n\nSürekli kavrulan \"Okyanus Dünyası (503. Gezegen)\" üzerinde plaja yeni gelen tek şey Octavia değildi. Beraberinde limon olarak bilinen sarı, oval ve dudak büzüştüren bir meyve de getirmişti. Doğrusunu söylemek gerekirse, Octavia limonların hiç de hayranı değildi ve hatta onları biraz itici buluyordu. Ancak yine de, olası hastalıklardan korunmak amacıyla uzun yolculuğu için isteksizce yanına birkaç limon almıştı.\nBeş yüz gezegeni aşan zorlu bir yolculuğun ardından 503. gezegene vardığında Octavia çantasındaki limonları tamamen unutmuştu. Ancak bir Okyanus Dünyası restoranında Tuzlu Limonlu Gazoz sipariş etmeye çalıştığında, meyve yalnızca ılıman iklimlerde yetiştiğinden dolayı yerlilerin limonun ne olduğuna dair hiçbir fikri olmadığını keşfetti. O anda limona dair anıları zihnine akın etti. Anlaşılan o ki, buz gibi bir Tuzlu Limonlu Gazoz kavurucu sıcaklık için mükemmel bir çareydi ve yerliler ona yalvarınca Octavia ekip yetiştirsinler diye tüm limonlarını seve seve onlara verdi. Fakat ilahlık taslamak gibi bir niyeti olmadığından, ona vermeye çalıştıkları büyük \"Limon Kraliçesi\" unvanını kesin bir dille reddetti. Bunun yerine, sadece bölge sakinleri tarafından hediye edilen bu havalı giysiyi, bu gezegen dışı rastlantının güzel bir hatırası olarak aldı.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265349,
+    "Name": "Manekin Kozmetiği - \"Tuzlu Limonlu Gazoz\"",
+    "Description": "Tuzlu Limonlu Gazoz seti. Bu giysi, havalı ve canlı bir enerji yayan bir plaj tatili giysisidir. Hafif ve nefes alabilen bir kumaştan üretilen parlak ve göz alıcı renkleri, tıpkı buz gibi bir tuzlu limonlu gazozdan alınan canlandırıcı bir yudum hissi veriyor. Giydiğinde daha fazla eğlence için güneşe ve sörfe dalmadan önce yaz ortası sıcaklığını kolayca dindirebilirsin!\n\nSürekli kavrulan \"Okyanus Dünyası (503. Gezegen)\" üzerinde plaja yeni gelen tek şey Octavia değildi. Beraberinde limon olarak bilinen sarı, oval ve dudak büzüştüren bir meyve de getirmişti. Doğrusunu söylemek gerekirse, Octavia limonların hiç de hayranı değildi ve hatta onları biraz itici buluyordu. Ancak yine de, olası hastalıklardan korunmak amacıyla uzun yolculuğu için isteksizce yanına birkaç limon almıştı.\nBeş yüz gezegeni aşan zorlu bir yolculuğun ardından 503. gezegene vardığında Octavia çantasındaki limonları tamamen unutmuştu. Ancak bir Okyanus Dünyası restoranında Tuzlu Limonlu Gazoz sipariş etmeye çalıştığında, meyve yalnızca ılıman iklimlerde yetiştiğinden dolayı yerlilerin limonun ne olduğuna dair hiçbir fikri olmadığını keşfetti. O anda limona dair anıları zihnine akın etti. Anlaşılan o ki, buz gibi bir Tuzlu Limonlu Gazoz kavurucu sıcaklık için mükemmel bir çareydi ve yerliler ona yalvarınca Octavia ekip yetiştirsinler diye tüm limonlarını seve seve onlara verdi. Fakat ilahlık taslamak gibi bir niyeti olmadığından, ona vermeye çalıştıkları büyük \"Limon Kraliçesi\" unvanını kesin bir dille reddetti. Bunun yerine, sadece bölge sakinleri tarafından hediye edilen bu havalı giysiyi, bu gezegen dışı rastlantının güzel bir hatırası olarak aldı.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265350,
+    "Name": "Manekina Kozmetiği - \"Keskin Dişli Lord\"",
+    "Description": "Keskin Dişli Lord seti. Bu giysi, tamamen tutku üzerine kurulu günlük bir spor giysisidir. Giydiğinde bu diyara hükmeden dişlerin ve pençelerin saf gücünden beslenen yüce bir otorite figürüne dönüşürsün. Bu korkusuz gücü al ve önündeki her engeli yıkıp geç!\n\nÇok, çok uzun zaman önce, Octavia'nın 67. gezegene ayak basmasından çok daha öncesinde, o uzak gezegen bir zamanlar bir ejderha ırkına ev sahipliği yapıyordu. Ancak bu dev yaratıklar hiçbir zaman Teyvat'taki kuzenlerinin o muazzam zekasına ve hırslarına sahip olamadılar ve sonunda zamanın tozları arasında yitip gittiklerinde, geride devasa fosillerden başka bir şey bırakmadılar. Bilinen tüm canlıları hem boyut hem de yırtıcılık açısından gölgede bırakan bu fosiller, vahşi yaşamın ve amansız kan dökmenin hakim olduğu ilkel bir dünyaya karşı sonsuz bir hayranlık uyandırdı ve sürükleyici, dev yaratık temalı yepyeni bir sanat türünün doğmasına zemin hazırladı. Bugün ise o kadim lordların heybetli varlığı, sanatçılar tarafından onların vahşi ve yenilmez ruhunu sessizce anlatmaya devam eden modern bir stil simgesi olarak yeniden yorumlanmıştır.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265351,
+    "Name": "Manekin Kozmetiği - \"Keskin Dişli Lord\"",
+    "Description": "Keskin Dişli Lord seti. Bu giysi, tamamen tutku üzerine kurulu günlük bir spor giysisidir. Giydiğinde bu diyara hükmeden dişlerin ve pençelerin saf gücünden beslenen yüce bir otorite figürüne dönüşürsün. Bu korkusuz gücü al ve önündeki her engeli yıkıp geç!\n\nÇok, çok uzun zaman önce, Octavia'nın 67. gezegene ayak basmasından çok daha öncesinde, o uzak gezegen bir zamanlar bir ejderha ırkına ev sahipliği yapıyordu. Ancak bu dev yaratıklar hiçbir zaman Teyvat'taki kuzenlerinin o muazzam zekasına ve hırslarına sahip olamadılar ve sonunda zamanın tozları arasında yitip gittiklerinde, geride devasa fosillerden başka bir şey bırakmadılar. Bilinen tüm canlıları hem boyut hem de yırtıcılık açısından gölgede bırakan bu fosiller, vahşi yaşamın ve amansız kan dökmenin hakim olduğu ilkel bir dünyaya karşı sonsuz bir hayranlık uyandırdı ve sürükleyici, dev yaratık temalı yepyeni bir sanat türünün doğmasına zemin hazırladı. Bugün ise o kadim lordların heybetli varlığı, sanatçılar tarafından onların vahşi ve yenilmez ruhunu sessizce anlatmaya devam eden modern bir stil simgesi olarak yeniden yorumlanmıştır.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265415,
+    "Name": "Manekina Kozmetiği - \"Ruh Meskeni Tzitzimitl\"",
+    "Description": "Ruh Meskeni Tzitzimitl seti. Büyünün varlığın can damarı olduğu 777. gezegende, yıldız parçalarını mühürleme ve kozmik toz kullanma gücüne sahip çok az büyücü vardır. Bu kadim sanat sadece muazzam bir yetenek değil, aynı zamanda bir ömür boyu süren bilgi birikimi de gerektirir. Beraberinde getirdiği tehlikeler de aynı derecede büyüktür ve tek bir yanlış adım, yıkıcı bir tepkiye yol açabilir. Dolayısıyla bu sanatta ustalaşmak, neredeyse istisnasız olarak yalnızca yüzyıllarını gizemli sanatları araştırmaya adamış saygıdeğer alimlere özel bir ayrıcalıktır.\nPaimon, 777. gezegenin kayıtları arasında gezinirken hayranlıkla iç geçirmeden edemedi. \"Yüzyıllar ha... Ve bu alimler hâlâ Citlali'nin eline su dökemiyorlar, öyle mi?\"\n\"Gerçi dürüst olmak gerekirse Citlalin ve Itzpapa, Itztli Nine'ye yardım ettiği sürece o alimler ona asla yetişemez!\"\nSanki Paimon'un sözlerine bir yanıt mahiyetinde Diyar tepki verdi. Başlangıçta normal olan iki giysi dönüşmeye, yavaş yavaş Paimon'un anılarındaki Citlalin ve Itzpapa'nın belirgin niteliklerini almaya başladı...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265416,
+    "Name": "Manekin Kozmetiği - \"Ruh Meskeni Tzitzimitl\"",
+    "Description": "Ruh Meskeni Tzitzimitl seti. Büyünün varlığın can damarı olduğu 777. gezegende, yıldız parçalarını mühürleme ve kozmik toz kullanma gücüne sahip çok az büyücü vardır. Bu kadim sanat sadece muazzam bir yetenek değil, aynı zamanda bir ömür boyu süren bilgi birikimi de gerektirir. Beraberinde getirdiği tehlikeler de aynı derecede büyüktür ve tek bir yanlış adım, yıkıcı bir tepkiye yol açabilir. Dolayısıyla bu sanatta ustalaşmak, neredeyse istisnasız olarak yalnızca yüzyıllarını gizemli sanatları araştırmaya adamış saygıdeğer alimlere özel bir ayrıcalıktır.\nPaimon, 777. gezegenin kayıtları arasında gezinirken hayranlıkla iç geçirmeden edemedi. \"Yüzyıllar ha... Ve bu alimler hâlâ Citlali'nin eline su dökemiyorlar, öyle mi?\"\n\"Gerçi dürüst olmak gerekirse Citlalin ve Itzpapa, Itztli Nine'ye yardım ettiği sürece o alimler ona asla yetişemez!\"\nSanki Paimon'un sözlerine bir yanıt mahiyetinde Diyar tepki verdi. Başlangıçta normal olan iki giysi dönüşmeye, yavaş yavaş Paimon'un anılarındaki Citlalin ve Itzpapa'nın belirgin niteliklerini almaya başladı...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265356,
+    "Name": "Manekina Kozmetiği - \"Savan Benekli Işıltı\"",
+    "Description": "Savan Benekli Işıltı seti. Bu giysi, yaban hayatının saf enerjisini dışa vuran günlük bir giysidir. Genel tasarımı, savan boyunca hızla koşan zarif ve çevik kedigillerden esinlenmiştir. Rahat bir kaygısızlık ve belirgin bir vahşilik hissi yayan bu görünüm, giyen herkese cesur ve parlak bir özgüven aşılar.\n\nTehlikelerle kaynayan bir evrende barışçıl ve doğal bir evrimin tadını çıkarmak tam anlamıyla şanstır. Özellikle de ötesindeki uçsuz bucaksız kozmostan tamamen habersiz olan 206. gezegen gibi ilkel bir dünya için... Dış uzaydan gelen ilk ziyaretçisi olarak Octavia, gezegenin güvenliği için endişelenmeden duramadı. Uzun uzadıya düşündükten sonra, yakındaki \"Akademi Gezegeni (93. Gezegen)\" ile iletişime geçerek bu tarafsız dünyaya, gezegenin genç medeniyeti büyürken ilkel diyarın sessiz muhafızı ve uzaktan izleyicisi olma görevini emanet etti. Ancak bir sürprizle karşılaştı: 93. gezegenin gelişmiş medeniyeti, bu vahşi topraklarda henüz izini bile bırakamadan 206. gezegenin saf, ilkel enerjisi Akademi Gezegeninde büyük bir sükse yaptı. Uzun zamandır sonu gelmeyen öğrenim süreleri boyunca fildişi kulelerine hapsolmuş olan gezegenin gençleri için bu neredeyse \"vahşi\" estetik, tam anlamıyla ufuk açıcı deneyimdi ve kısa süre sonra bazı okullarda saf doğayı ve evcilleşmemiş enerjiyi yücelten devasa bir moda akımı hızla yayıldı. Tarihe düşülen bu ilginç dipnotu anmak adına Octavia, o dönemin en moda görünümünü temsil etmeye karar verdi...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265357,
+    "Name": "Manekin Kozmetiği - \"Savan Benekli Işıltı\"",
+    "Description": "Savan Benekli Işıltı seti. Bu giysi, yaban hayatının saf enerjisini dışa vuran günlük bir giysidir. Genel tasarımı, savan boyunca hızla koşan zarif ve çevik kedigillerden esinlenmiştir. Rahat bir kaygısızlık ve belirgin bir vahşilik hissi yayan bu görünüm, giyen herkese cesur ve parlak bir özgüven aşılar.\n\nTehlikelerle kaynayan bir evrende barışçıl ve doğal bir evrimin tadını çıkarmak tam anlamıyla şanstır. Özellikle de ötesindeki uçsuz bucaksız kozmostan tamamen habersiz olan 206. gezegen gibi ilkel bir dünya için... Dış uzaydan gelen ilk ziyaretçisi olarak Octavia, gezegenin güvenliği için endişelenmeden duramadı. Uzun uzadıya düşündükten sonra, yakındaki \"Akademi Gezegeni (93. Gezegen)\" ile iletişime geçerek bu tarafsız dünyaya, gezegenin genç medeniyeti büyürken ilkel diyarın sessiz muhafızı ve uzaktan izleyicisi olma görevini emanet etti. Ancak bir sürprizle karşılaştı: 93. gezegenin gelişmiş medeniyeti, bu vahşi topraklarda henüz izini bile bırakamadan 206. gezegenin saf, ilkel enerjisi Akademi Gezegeninde büyük bir sükse yaptı. Uzun zamandır sonu gelmeyen öğrenim süreleri boyunca fildişi kulelerine hapsolmuş olan gezegenin gençleri için bu neredeyse \"vahşi\" estetik, tam anlamıyla ufuk açıcı deneyimdi ve kısa süre sonra bazı okullarda saf doğayı ve evcilleşmemiş enerjiyi yücelten devasa bir moda akımı hızla yayıldı. Tarihe düşülen bu ilginç dipnotu anmak adına Octavia, o dönemin en moda görünümünü temsil etmeye karar verdi...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265358,
+    "Name": "Manekina Kozmetiği - \"Alacalı Kader Denizi\"",
+    "Description": "Alacalı Kader Denizi seti. Bu giysi, tek bir görünümde saf coşkuyu, sonsuz neşeyi ve sınırsız canlılığı barındıran sahil temalı yazlık bir savaş giysisidir. Bitkinlik ve can sıkıntısını defetmek için yaz ortasının kavurucu sıcaklığından daha iyi bir zaman olamaz. Dolayısıyla tam güneş korumanı kuşan ve bu göz kamaştırıcı sahilde dertlerine karşı topyekun bir \"savaş\" için su tabancanı kap!\n\n\"Boya Sıçratma Sanatçısı\" estetiğinden ilham alan \"Okyanus Dünyası\" (503. Gezegen) sakinleri, kendileriyle ve toplulukla olan bağlarını yeniden şekillendirmek için benzersiz bir \"savaş ayini\" benimsediler. İşte bu yüzden sahiller, şık savaş kıyafetleriyle dalgaları yaran ve bastırılmamış enerjilerini kavurucu sıcağa boşaltan gençlerle dolup taşar. Yine de Octavia üzerinde en derin izlenimi bırakanlar, sıradan görünen genç bir erkek ve kız oldu. Göze çarpan hiçbir fiziksel güçleri yoktu ve ileri düzeyde bir teçhizat da taşımıyorlardı. Hatta Octavia gibi üstün savaş yeteneklerine sahip birinin gözünde bu ikilinin yavaş hareketleri, tıpkı suda yavaş bir girdap gibi dönerek çözülen mürekkep damlalarını andırıyordu. Fakat yavaşça açılan bu \"renkler\" öylesine parlak bir yaşam enerjisi ile dolup taşıyordu ve onları izlemek öylesine gerçek bir keyifti ki, gözlerini bir an olsun ayıramıyordu. Belki de gençlik her zaman böyle görünmeliydi ya da belki de savaş ayininin en başından beri yaratılmasının asıl amacı buydu. Bundan etkilenen Octavia, bu canlı zindeliği ve gençlik enerjisini uzun süre koruyabilmeleri umuduyla bu giysiyi ikili için özel olarak üretti.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265359,
+    "Name": "Manekin Kozmetiği - \"Alacalı Kader Denizi\"",
+    "Description": "Alacalı Kader Denizi seti. Bu giysi, tek bir görünümde saf coşkuyu, sonsuz neşeyi ve sınırsız canlılığı barındıran sahil temalı yazlık bir savaş giysisidir. Bitkinlik ve can sıkıntısını defetmek için yaz ortasının kavurucu sıcaklığından daha iyi bir zaman olamaz. Dolayısıyla tam güneş korumanı kuşan ve bu göz kamaştırıcı sahilde dertlerine karşı topyekun bir \"savaş\" için su tabancanı kap!\n\n\"Boya Sıçratma Sanatçısı\" estetiğinden ilham alan \"Okyanus Dünyası\" (503. Gezegen) sakinleri, kendileriyle ve toplulukla olan bağlarını yeniden şekillendirmek için benzersiz bir \"savaş ayini\" benimsediler. İşte bu yüzden sahiller, şık savaş kıyafetleriyle dalgaları yaran ve bastırılmamış enerjilerini kavurucu sıcağa boşaltan gençlerle dolup taşar. Yine de Octavia üzerinde en derin izlenimi bırakanlar, sıradan görünen genç bir erkek ve kız oldu. Göze çarpan hiçbir fiziksel güçleri yoktu ve ileri düzeyde bir teçhizat da taşımıyorlardı. Hatta Octavia gibi üstün savaş yeteneklerine sahip birinin gözünde bu ikilinin yavaş hareketleri, tıpkı suda yavaş bir girdap gibi dönerek çözülen mürekkep damlalarını andırıyordu. Fakat yavaşça açılan bu \"renkler\" öylesine parlak bir yaşam enerjisi ile dolup taşıyordu ve onları izlemek öylesine gerçek bir keyifti ki, gözlerini bir an olsun ayıramıyordu. Belki de gençlik her zaman böyle görünmeliydi ya da belki de savaş ayininin en başından beri yaratılmasının asıl amacı buydu. Bundan etkilenen Octavia, bu canlı zindeliği ve gençlik enerjisini uzun süre koruyabilmeleri umuduyla bu giysiyi ikili için özel olarak üretti.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265360,
+    "Name": "Manekina Kozmetiği - \"Alacalı Kader Denizi: Alacakaranlık\"",
+    "Description": "Alacalı Kader Denizi setinin Yükseltilmiş versiyonu. Set, bu versiyonda alacakaranlığın huzurlu ve hülyalı renklerini almıştır. Gece çöktüğüne göre bu derin koyu perdeyi bir tuval gibi düşünmenin zamanı geldi. Su tabancanı al, gevşe ve sana özgü eşsiz bir yaz gecesi resmet!\n\n\"Boya Sıçratma Sanatçısı\" tarzından ilham alan \"Okyanus Dünyası\" (503. Gezegen) sakinleri, kendileriyle ve toplulukla olan bağlarını yeniden şekillendirmek için benzersiz bir \"savaş ayini\" benimsediler. Bu yüzden buradaki plajlar her zaman okyanus dalgalarını yaran ve vahşi enerjilerini bunaltıcı sıcaklığa odaklayan şık savaş teçhizatları içindeki gençlerle dolup taşar. Yine de Octavia üzerinde en derin izlenimi bırakanlar, sıradan görünen genç bir erkek ve kız oldu. Göze çarpan hiçbir fiziksel güçleri yoktu ve ileri düzeyde bir teçhizat da taşımıyorlardı. Hatta Octavia gibi üstün savaş yeteneklerine sahip birinin gözünde bu ikilinin yavaş hareketleri, tıpkı suda yavaş bir girdap gibi dönerek çözülen mürekkep damlalarını andırıyordu. Fakat yavaşça açılan bu \"renkler\" öylesine parlak bir yaşam enerjisi ile dolup taşıyordu ve onları izlemek öylesine gerçek bir keyifti ki, gözlerini onlardan ayırmayı tek kelimeyle imkansız buldu. Belki de gençlik her zaman böyle görünmeliydi ya da belki de savaş ayininin en başından beri yaratılmasının asıl amacı buydu. Bundan etkilenen Octavia, bu canlı zindeliği ve gençlik enerjisini uzun süre koruyabilmeleri umuduyla bu giysiyi ikili için özel olarak üretti.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0018",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265361,
+    "Name": "Manekin Kozmetiği - \"Alacalı Kader Denizi: Alacakaranlık\"",
+    "Description": "Alacalı Kader Denizi setinin Yükseltilmiş versiyonu. Set, bu versiyonda alacakaranlığın huzurlu ve hülyalı renklerini almıştır. Gece çöktüğüne göre bu derin koyu perdeyi bir tuval gibi düşünmenin zamanı geldi. Su tabancanı al, gevşe ve sana özgü eşsiz bir yaz gecesi resmet!\n\n\"Boya Sıçratma Sanatçısı\" tarzından ilham alan \"Okyanus Dünyası\" (503. Gezegen) sakinleri, kendileriyle ve toplulukla olan bağlarını yeniden şekillendirmek için benzersiz bir \"savaş ayini\" benimsediler. Bu yüzden buradaki plajlar her zaman okyanus dalgalarını yaran ve vahşi enerjilerini bunaltıcı sıcaklığa odaklayan şık savaş teçhizatları içindeki gençlerle dolup taşar. Yine de Octavia üzerinde en derin izlenimi bırakanlar, sıradan görünen genç bir erkek ve kız oldu. Göze çarpan hiçbir fiziksel güçleri yoktu ve ileri düzeyde bir teçhizat da taşımıyorlardı. Hatta Octavia gibi üstün savaş yeteneklerine sahip birinin gözünde bu ikilinin yavaş hareketleri, tıpkı suda yavaş bir girdap gibi dönerek çözülen mürekkep damlalarını andırıyordu. Fakat yavaşça açılan bu \"renkler\" öylesine parlak bir yaşam enerjisi ile dolup taşıyordu ve onları izlemek öylesine gerçek bir keyifti ki, gözlerini onlardan ayırmayı tek kelimeyle imkansız buldu. Belki de gençlik her zaman böyle görünmeliydi ya da belki de savaş ayininin en başından beri yaratılmasının asıl amacı buydu. Bundan etkilenen Octavia, bu canlı zindeliği ve gençlik enerjisini uzun süre koruyabilmeleri umuduyla bu giysiyi ikili için özel olarak üretti.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0018",
     "Type": 2,
     "RankLevel": 5
   },
@@ -11024,6 +11552,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 275348,
+    "Name": "Set Kataloğu - \"Tuzlu Limonlu Gazoz\"",
+    "Description": "Diyar olaylarının birleşiminden oluşmuş, \"Tuzlu Limonlu Gazoz\" Seti hakkında bilgi içeren bir kristal. Yeniden oluşturma esnasında karşılık gelen Manekin veya Manekina Kozmetiklerinden istediğini seçebilirsin.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
+    "Type": 3,
+    "RankLevel": 4
+  },
+  {
     "Id": 280001,
     "Name": "Manekina Kozmetiği - \"Asil Zarafet Elbisesi\"",
     "Description": "Zarif bir etek ucu ve şık bir saten boyun bağına sahip, genel olarak ağırbaşlı ve düzenli bir tarz sunan zarif ve seçkin bir elbise. Bir kahyanın cazibesi, titiz profesyonel tavrında yatar ve uygun kıyafeti seçmek bu cazibeyi güçlendirir.",
@@ -11460,6 +11996,110 @@
     "Name": "Manekin Kozmetiği - \"Boya Sıçratma Sanatçısı Süs Eşyası\"",
     "Description": "Canlı ve parlak renklere sahip, değerli bir anı kaçırmamak için kolayca erişilsin diye çoğunlukla bele takılan bir kamera aksesuarı.",
     "Icon": "UI_Beyd_Avatar_Boy_WaistAcc_S0132",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280056,
+    "Name": "Manekina Kozmetiği - \"Rüya Gibi Yaz Tatili Resmi Giysi\"",
+    "Description": "Alacakaranlığı andıran yumuşak mor tonlarında, zarif bir resmi giysi. Altın sarısı üç yapraklı yonca süslemesi, mor çiçekli zarif bir fiyonk ve bir yaz gecesinin dingin atmosferini çağrıştıran altın yaldızlı ince çiçek desenini bir araya getiren bu kombinasyonla içindeki özgür ruhu şımart.",
+    "Icon": "UI_Beyd_Avatar_Girl_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280057,
+    "Name": "Manekina Kozmetiği - \"Rüya Gibi Yaz Tatili Ayakkabı\"",
+    "Description": "Fiyonk detaylarla süslenmiş, sade ama bir o kadar da zarif bir çift koyu mor ayakkabı. Bu ayakkabılarla attığın her adımda, ay ışığının vurduğu çimenlerde hafif bir iz bırakıyormuş gibi hissedersin.",
+    "Icon": "UI_Beyd_Avatar_Girl_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280058,
+    "Name": "Manekina Kozmetiği - \"Rüya Gibi Yaz Tatili Uzun Saç\"",
+    "Description": "Sakin beyaz tonlarda, masalsı bir uzun saç stili. Gündelik zarafeti yansıtan bu görünüm, tıpkı bir yaz gecesinin serin mehtabı ile ateş böceklerinin pırıltısı saç tellerine bir bir işlenmiş gibi bir his uyandırır.",
+    "Icon": "UI_Beyd_Avatar_Girl_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280059,
+    "Name": "Manekina Kozmetiği - \"Rüya Gibi Yaz Tatili Saç Bandı\"",
+    "Description": "Güzel ve zarif bir saç bandı. Bu saç bandıyla ateş böceklerinin soluk ışıltısını ve alacakaranlığın huzurunu saçlarında taşı, yıldız ışıklarıyla ve havayı saran çiçek kokularıyla dolu muhteşem bir akşam ziyafetine adım atmaya hazır ol.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280060,
+    "Name": "Manekina Kozmetiği - \"Rüya Gibi Yaz Tatili Bilek Aksesuarı\"",
+    "Description": "Koyu renkli bir bantla takılan, temiz ve saf beyaz renkte pileli bir bilek aksesuarı. Sade ve minimalist tasarımı, genel giysiyle mükemmel bir uyum sağlar ve kişinin görünümüne zarif bir dokunuş katar.",
+    "Icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280061,
+    "Name": "Manekina Kozmetiği - \"Rüya Gibi Yaz Tatili Uzun Çorap\"",
+    "Description": "İnce geometrik desenli beyaz çorap. Bir yaz gecesinin yıldız ışığını bileklerine dolarcasına doğal bir incelik ve zarafet katar.",
+    "Icon": "UI_Beyd_Avatar_Girl_LegAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280062,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili Resmi Giysi\"",
+    "Description": "Alacakaranlığın mor tonlarını şafağın sıcak gri tonlarıyla ustaca harmanlayan son derece zarif bir resmi giysi. Altın sarısı üç yapraklı yonca süslemesi, ateş böceği turuncusu papyonu ve bir yaz gecesinin dingin atmosferini çağrıştıran altın yaldızlı ince geometrik desenini bir araya getiren bu kombinasyonla içindeki özgür ruhu şımart.",
+    "Icon": "UI_Beyd_Avatar_Boy_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280063,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili Uzun Pantolon\"",
+    "Description": "Sade ve kusursuz kesimiyle öne çıkan, dingin bir gri ve mor tonlarında uzun bir pantolon. Paçaları boyunca uzanan zarif geometrik motifler, yazın gökyüzünden süzülen yıldızların ışığı gibi göz kamaştırır.",
+    "Icon": "UI_Beyd_Avatar_Boy_Bottom_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280064,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili Ayakkabı\"",
+    "Description": "Altın sarısı detaylarla süslenmiş, sade ama bir o kadar da zarif bir çift ayakkabı. Bu ayakkabılarla attığın her adımda, ay ışığının vurduğu çimenlerde hafif bir iz bırakıyormuş gibi hissedersin.",
+    "Icon": "UI_Beyd_Avatar_Boy_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280065,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili Kısa Saç\"",
+    "Description": "Sakin beyaz tonlarda, masalsı bir kısa saç stili. Gündelik zarafeti yansıtan bu görünüm, tıpkı bir yaz gecesinin serin mehtabı ile ateş böceklerinin pırıltısı saç tellerine bir bir işlenmiş gibi bir his uyandırır.",
+    "Icon": "UI_Beyd_Avatar_Boy_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280066,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili Silindir Şapka\"",
+    "Description": "Kenarında üç yapraklı yonca desenleri bulunan, duru zarafetiyle kıyafetin genel havasına kusursuz uyum sağlayan bir şapka.",
+    "Icon": "UI_Beyd_Avatar_Boy_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280067,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili Kol Saati\"",
+    "Description": "Sade tasarımlı, mütevazı ancak son derece şık bir kol saati. Kadrana işlenmiş ince altın desen bütün kombinin havasını tamamlıyor.",
+    "Icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280068,
+    "Name": "Manekin Kozmetiği - \"Rüya Gibi Yaz Tatili Çorap\"",
+    "Description": "Giysinin genel renk paletiyle eşleşen açık renkli çorap. Sade tasarımlarına rağmen, tıpkı yaz ortasındaki bir gece esintisinde usulca sallanan çiçek yaprakları gibi etrafa canlı bir enerji saçıyorlar.",
+    "Icon": "UI_Beyd_Avatar_Boy_LegAcc_S0143",
     "Type": 1,
     "RankLevel": 4
   }

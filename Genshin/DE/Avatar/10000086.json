@@ -539,6 +539,33 @@
         "Icon": "Skill_S_Wriothesley_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 8651,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 865101,
+              "Level": 1,
+              "Parameters": [
+                0.6,
+                0.3,
+                2,
+                0.3,
+                -0.4,
+                -0.2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 865101,
+        "Name": "Alles Unrecht wird ans Licht kommen",
+        "Description": "#<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Ändert den Effekt des Aufstiegstalents „Tag des Plädoyers der Gerechtigkeit“ zu Folgendem:\nVerleiht Wriothesley, wenn seine LP unter 60{NON_BREAK_SPACE}% liegen, „Gebot der Gnade – Offenbarung“ und verstärkt den nächsten heftigen Schlag von <color=#FFD780FF>Standardangriff – Flinke Frostfaust</color> zu „Himmelsglanz – Gefrierende Sprungfaust“: Verbraucht keine Ausdauer und stellt Wriothesley bei Treffern LP in Höhe von 30{NON_BREAK_SPACE}% seiner max. LP wieder her. Auf diese Weise können höchstens einmal alle 2{NON_BREAK_SPACE}s LP für Wriothesley wiederhergestellt werden.\nDarüber hinaus verursachen der dritte und fünfte Schlag der durch <color=#FFD780FF>Eiskalte Bestrafung</color> verstärkten Sturmfäuste jeweils 60{NON_BREAK_SPACE}% / 80{NON_BREAK_SPACE}% des ursprünglichen <color=#99FFFFFF>Kryo-Schadens</color>. „Himmelsglanz – Gefrierende Sprungfaust“ verursacht 100{NON_BREAK_SPACE}% des ursprünglichen <color=#99FFFFFF>Kryo-Flächenschadens</color>. Der oben genannte Schaden gilt als Schaden durch die Reaktion Stellar-Supraleiter. Erhöht den von Wriothesley verursachten Schaden durch die Reaktion Stellar-Supraleiter um 30{NON_BREAK_SPACE}%.\nVersetzt Wriothesley zudem, wenn er sich im {LINK#N11330003}<color=#FFD780FF>Sternglanzfeld</color>{/LINK} befindet, in den Zustand <color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>.",
+        "Icon": "UI_Talent_S_Wriothesley_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 8639,
       "Proud": {

@@ -448,6 +448,31 @@
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 10951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1095101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                2.5,
+                0.1,
+                5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1095101,
+        "Name": "廓然夢生",
+        "Description": "夢見月瑞希が夢浮かみ状態で拡散反応を起こした後、夢浮かみが継続している間、次に付近の敵に定期的に与える<color=#80FFD7FF>風元素範囲ダメージ</color>が夢見月瑞希の元素熟知の1000%分アップする。上記の効果は2.5秒ごとに最大1回のみ発動可能。\nまた、夢浮かみ状態の時、付近にいるチーム内キャラクターの元素熟知が夢見月瑞希自身の元素熟知の10%分アップする。",
+        "Icon": "UI_Talent_S_Mizuki_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 10939,
       "Proud": {

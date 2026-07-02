@@ -479,6 +479,26 @@
         "Icon": "Skill_S_Cyno_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 7124,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 712401,
+              "Level": 1,
+              "Parameters": []
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 712401,
+        "Name": "Companheiro Astral Revelador de Caminhos",
+        "Description": "Quando não está no estado Juramento Desbravador, depois de lançar a Habilidade Elemental <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color>, Cyno entrará no estado Juramento Desbravador por 6s.\nAlém disso, quando está em {LINK#N11330003}<color=#FFD780FF>Campo da Estrela Polar</color>{/LINK}, Cyno entrará no estado <color=#FFD780FF>Brilho Reluzente: Supercondutor Estelar</color>.",
+        "Icon": "UI_Talent_S_Cyno_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 7139,
       "Proud": {
@@ -832,7 +852,8 @@
               "Level": 1,
               "Parameters": [
                 0.35,
-                1
+                1,
+                2
               ]
             }
           ],
@@ -853,7 +874,8 @@
               "Level": 1,
               "Parameters": [
                 1.5,
-                2.5
+                2.5,
+                6
               ]
             }
           ],

@@ -488,5 +488,20 @@
     "Id": 11320003,
     "Name": "Herzschlag in Eintracht",
     "Description": "Verleiht, wenn Prune einen Gegner mit dem <color=#FFD780FF>Hammer des Jagdschwurs</color>, der bereits eine Elementarumwandlung durchlaufen hat, trifft, anderen Truppenmitgliedern in der Nähe den Effekt Trommelwirbel: Erhöht den durch den Angriff verursachten Schaden basierend auf Prunes ANG."
+  },
+  {
+    "Id": 11330001,
+    "Name": "Berechnung",
+    "Description": "Der Modus, in den Fagio beim Ausführen heftiger Schläge wechselt.\nIn diesem Modus führt Fagio einen Streuangriff auf Gegner vorne aus und feuert in bestimmten zeitlichen Abständen einen Kondensationsstrahl ab, der <color=#99FFFFFF>Kryo-Flächenschaden</color> verursacht.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Wandelt den Kondensationsstrahl um und verursacht stattdessen <color=#99FFFFFF>Kryo-Flächenschaden</color>, der als Schaden durch die Reaktion Stellar-Supraleiter gewertet wird."
+  },
+  {
+    "Id": 11330002,
+    "Name": "Berechnungsleistung",
+    "Description": "Erhöht, solange Fagio sich im Modus <color=#FFD780FF>Berechnung</color> befindet, ihre <color=#FFD780FF>Berechnungsleistung</color> kontinuierlich. Erreicht die Berechnungsleistung die Obergrenze, kann der Modus „Berechnung“ weder aufrechterhalten noch erneut betreten werden."
+  },
+  {
+    "Id": 11330003,
+    "Name": "Sternglanzfeld",
+    "Description": "Verwandelt beim Auslösen der Reaktion Stellar-Supraleiter den umliegenden Bereich kurzzeitig in ein <color=#FFD780FF>Sternglanzfeld</color>. Befindet sich eine bestimmte Figur innerhalb des Sternglanzfelds, tritt sie in den Zustand <color=#FFD780FF>Leuchten – Stellar-Supraleiter</color> ein, in dem ihre verschiedenen Fähigkeiten jeweils entsprechende Verstärkungseffekte erhalten."
   }
 ]

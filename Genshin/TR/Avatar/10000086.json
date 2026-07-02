@@ -539,6 +539,33 @@
         "Icon": "Skill_S_Wriothesley_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 8651,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 865101,
+              "Level": 1,
+              "Parameters": [
+                0.6,
+                0.3,
+                2,
+                0.3,
+                -0.4,
+                -0.2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 865101,
+        "Name": "Adaletsizlik Gün Yüzüne Çıkarılacak",
+        "Description": "<color=#FFD780FF>Işıltı: Yıldız İletimi</color>: \"Adalet Yerini Bulacak\" Yükseltme Yeteneği şu şekilde değişir:\nWriothesley'nin Canı %60'ın altına düştüğünde bir \"Şefkatli Azar: Tezahür\" kazanır. Bu, <color=#FFD780FF>Normal Saldırı: Güçlü Buz Yumrukları</color> yeteneğinin bir sonraki Yüklü Saldırısını güçlendirerek Parıltı: Sıçrayan Yumruk saldırısına dönüştürür. Bu saldırı Dayanıklılık harcamaz ve isabet ettiğinde Wriothesley'ye %30 Maks. Can yeniler. Wriothesley bu şekilde her 2 saniyede bir Can yenileyebilir.\nEk olarak, <color=#FFD780FF>Ürperten Ceza</color> ile güçlendirilen Püskürtücü Yumruğun üçüncü ve beşinci vuruşları sırasıyla orijinal <color=#99FFFFFF>Buz Hasarının</color> %60 ve %80'ini, Parıltı: Sıçrayan Yumruk ise orijinal <color=#99FFFFFF>Buz Alan Hasarının</color> %100'ünü verir. Bu Hasar, Yıldız İletimi Hasarı sayılır ve Wriothesley'nin verdiği Yıldız İletimi Hasarı %30 artar.\nAyrıca Wriothesley bir {LINK#N11330003}<color=#FFD780FF>Kutup Yıldızı Alanı</color>{/LINK} içindeyken <color=#FFD780FF>Işıltı: Yıldız İletimi</color> durumuna girer.",
+        "Icon": "UI_Talent_S_Wriothesley_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 8639,
       "Proud": {

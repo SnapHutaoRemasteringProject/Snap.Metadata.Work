@@ -448,6 +448,31 @@
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 10951,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 1095101,
+              "Level": 1,
+              "Parameters": [
+                10,
+                2.5,
+                0.1,
+                5
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 1095101,
+        "Name": "Imensidade do Sonho",
+        "Description": "Quando Yumemizuki Mizuki estiver no estado Devaneio Onírico e desencadear Redemoinho, aumentará a próxima instância periódica de <color=#80FFD7FF>Dano Anemo em AdE</color> causado nessa duração de Devaneio Onírico. O aumento é de 1000% da Proficiência Elemental de Yumemizuki Mizuki. Esse efeito pode ser desencadeado uma vez a cada 2.5s.\nAlém disso, quando está em Devaneio Onírico, aumenta a Proficiência Elemental dos personagens próximos em 10% da Proficiência Elemental de Yumemizuki Mizuki.",
+        "Icon": "UI_Talent_S_Mizuki_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 10939,
       "Proud": {

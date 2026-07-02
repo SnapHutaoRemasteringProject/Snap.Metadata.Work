@@ -1128,6 +1128,38 @@
     "RankLevel": 5
   },
   {
+    "Id": 250473,
+    "Name": "Siêu Thả Tim",
+    "Description": "Đặc biệt khen ngợi!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 3
+  },
+  {
+    "Id": 250474,
+    "Name": "Thưởng Thức Đá Bào",
+    "Description": "Mát lạnh, ngon tuyệt!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 4
+  },
+  {
+    "Id": 250475,
+    "Name": "Cạn Ly",
+    "Description": "Hãy uống một ly mát lạnh sảng khoái nào!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
+    "Id": 250476,
+    "Name": "Uống Thỏa Thích",
+    "Description": "Hãy uống thỏa thích nào!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
     "Id": 251001,
     "Name": "Nhà Hát Cổ Tích - Bài Ca Ma Nữ",
     "Description": "Nhà hát nổi tiếng vì vở kịch \"Bài Ca Ma Nữ\", ánh đèn sân khấu đã hướng về phía những vị khách mới.",
@@ -1192,6 +1224,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 251009,
+    "Name": "Hải Đảo Cô Liêu - Sóng Biếc Lấp Lánh",
+    "Description": "Ánh nắng nơi đây không phải để chiếu sáng, mà là để đắm mình trong đó. Nước biển nơi đây không phải màu xanh, mà là những viên đá quý tan chảy.",
+    "Icon": "UI_Beyd_HallThemeIcon_Xrht",
+    "Type": 10,
+    "RankLevel": 4
+  },
+  {
     "Id": 251201,
     "Name": "Dịch Chuyển Thông Dụng",
     "Description": "Đi và đến dứt khoát...",
@@ -1244,6 +1284,14 @@
     "Name": "Cánh Bướm Lượn Vòng",
     "Description": "Như hương thơm có thể nhìn thấy...",
     "Icon": "UI_UGC_Transfer_BP_SuperRare_S0121",
+    "Type": 7,
+    "RankLevel": 4
+  },
+  {
+    "Id": 251208,
+    "Name": "Dạt Dào Lấp Lánh",
+    "Description": "Trôi dạt theo gió biển và bọt nước.",
+    "Icon": "UI_UGC_Transfer_BP_SuperRare_S0017",
     "Type": 7,
     "RankLevel": 4
   },
@@ -1536,6 +1584,38 @@
     "RankLevel": 4
   },
   {
+    "Id": 257037,
+    "Name": "Áo Choàng Thử Nghiệm - Linh Hồn Tzitzimitl",
+    "Description": "Chiếc áo choàng có khả năng tái hiện kỳ diệu, sau khi dùng có thể tự động biến thành trang phục tương ứng. Thậm chí ngay cả trang sức và lớp trang điểm cũng có thể tái hiện chính xác. Khi cất giữ, nó sẽ gập lại như một tấm thẻ, thuận tiện cho việc sắp xếp và phân biệt các ngoại hình tương ứng.\nKhi vận dụng đúng cách thì đây chính là một kiểu đạo cụ \"mặc thử\" tiện lợi.\nSau khi nhận có thể dùng trong 14 ngày. Sau khi dùng, hiệu quả mặc thử sẽ duy trì 1 ngày. Đạo cụ này sẽ mất hiệu lực khi kết thúc Sử Ký kỳ này.\nÁo Choàng Thử Nghiệm chỉ có thể mặc cả bộ, không thể tách rời.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257038,
+    "Name": "Áo Choàng Thử Nghiệm - Linh Hồn Tzitzimitl",
+    "Description": "Chiếc áo choàng có khả năng tái hiện kỳ diệu, sau khi dùng có thể tự động biến thành trang phục tương ứng. Thậm chí ngay cả trang sức và lớp trang điểm cũng có thể tái hiện chính xác. Khi cất giữ, nó sẽ gập lại như một tấm thẻ, thuận tiện cho việc sắp xếp và phân biệt các ngoại hình tương ứng.\nKhi vận dụng đúng cách thì đây chính là một kiểu đạo cụ \"mặc thử\" tiện lợi.\nSau khi nhận có thể dùng trong 14 ngày. Sau khi dùng, hiệu quả mặc thử sẽ duy trì 1 ngày. Đạo cụ này sẽ mất hiệu lực khi kết thúc Sử Ký kỳ này.\nÁo Choàng Thử Nghiệm chỉ có thể mặc cả bộ, không thể tách rời.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257039,
+    "Name": "Áo Choàng Thử Nghiệm - Sảng Khoái Mát Mẻ",
+    "Description": "Chiếc áo choàng có khả năng tái hiện kỳ diệu, sau khi dùng có thể tự động biến thành trang phục tương ứng. Thậm chí ngay cả trang sức và lớp trang điểm cũng có thể tái hiện chính xác. Khi cất giữ, nó sẽ gập lại như một tấm thẻ, thuận tiện cho việc sắp xếp và phân biệt các ngoại hình tương ứng.\nKhi vận dụng đúng cách thì đây chính là một kiểu đạo cụ \"mặc thử\" tiện lợi.\nSau khi nhận có thể dùng trong 14 ngày. Sau khi dùng, hiệu quả mặc thử sẽ duy trì 1 ngày. Đạo cụ này sẽ mất hiệu lực khi kết thúc Sử Ký kỳ này.\nÁo Choàng Thử Nghiệm chỉ có thể mặc cả bộ, không thể tách rời.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257040,
+    "Name": "Áo Choàng Thử Nghiệm - Sảng Khoái Mát Mẻ",
+    "Description": "Chiếc áo choàng có khả năng tái hiện kỳ diệu, sau khi dùng có thể tự động biến thành trang phục tương ứng. Thậm chí ngay cả trang sức và lớp trang điểm cũng có thể tái hiện chính xác. Khi cất giữ, nó sẽ gập lại như một tấm thẻ, thuận tiện cho việc sắp xếp và phân biệt các ngoại hình tương ứng.\nKhi vận dụng đúng cách thì đây chính là một kiểu đạo cụ \"mặc thử\" tiện lợi.\nSau khi nhận có thể dùng trong 14 ngày. Sau khi dùng, hiệu quả mặc thử sẽ duy trì 1 ngày. Đạo cụ này sẽ mất hiệu lực khi kết thúc Sử Ký kỳ này.\nÁo Choàng Thử Nghiệm chỉ có thể mặc cả bộ, không thể tách rời.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
     "Id": 258001,
     "Name": "Gói Ngoại Hình - Vũ Điệu Xoay Vòng",
     "Description": "Bao gồm hai bộ ngoại hình chủ đề Vũ Điệu Xoay Vòng, tương ứng với phong cách của hai Người Mẫu.\n\"So với việc mua riêng lẻ, bộ ngoại hình thứ hai sẽ được giảm giá 50%!\"",
@@ -1652,6 +1732,38 @@
     "Name": "Gói Ngoại Hình - Sân Cỏ Rực Rỡ",
     "Description": "Bao gồm hai bộ ngoại hình chủ đề Sân Cỏ Rực Rỡ, tương ứng với phong cách của hai Người Mẫu.\n\"So với việc mua riêng lẻ, bộ ngoại hình thứ hai sẽ được giảm giá 50%!\"",
     "Icon": "UI_Beyd_Avatar_Optional_Suit_S0175",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258016,
+    "Name": "Gói Ngoại Hình - Họa Sĩ Sắc Màu",
+    "Description": "Bao gồm hai bộ ngoại hình chủ đề Họa Sĩ Sắc Màu, tương ứng với phong cách của hai Người Mẫu.\n\"So với việc mua riêng lẻ, bộ ngoại hình thứ hai sẽ được giảm giá 50%!\"",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0132",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258017,
+    "Name": "Gói Ngoại Hình - Linh Hồn Tzitzimitl",
+    "Description": "Bao gồm hai bộ ngoại hình chủ đề Linh Hồn Tzitzimitl, tương ứng với phong cách của hai Người Mẫu.\n\"So với việc mua riêng lẻ, bộ ngoại hình thứ hai sẽ được giảm giá 50%!\"",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0190",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258018,
+    "Name": "Gói Ngoại Hình - Công Thức Rượu Mật",
+    "Description": "Bao gồm hai bộ ngoại hình chủ đề Công Thức Rượu Mật, tương ứng với phong cách của hai Người Mẫu.\n\"So với việc mua riêng lẻ, bộ ngoại hình thứ hai sẽ được giảm giá 50%!\"",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0174",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258019,
+    "Name": "Gói Ngoại Hình - Cá Mập Lười Biếng",
+    "Description": "Bao gồm hai bộ ngoại hình chủ đề Cá Mập Lười Biếng, tương ứng với phong cách của hai Người Mẫu.\n\"So với việc mua riêng lẻ, bộ ngoại hình thứ hai sẽ được giảm giá 50%!\"",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0054",
     "Type": 16,
     "RankLevel": 3
   },
@@ -1897,6 +2009,46 @@
   },
   {
     "Id": 258531,
+    "Name": "Áo Choàng Thử Nghiệm Ngẫu Nhiên - Ngoại Hình Nam",
+    "Description": "Chiếc áo choàng có khả năng tái hiện kỳ diệu, sau khi dùng có thể tự động biến thành trang phục nam ngẫu nhiên. Thậm chí ngay cả trang sức và lớp trang điểm cũng có thể tái hiện chính xác.\nKhi vận dụng đúng cách thì đây chính là một kiểu đạo cụ \"mặc thử\" tiện lợi.\nSau khi nhận có thể dùng trong 14 ngày. Sau khi dùng, hiệu quả mặc thử sẽ duy trì 1 ngày. Khi kết thúc Sử Ký kỳ này, đạo cụ này sẽ mất hiệu lực.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258532,
+    "Name": "Rương Báu Sử Ký - Hoành Tráng",
+    "Description": "Hộp quà đựng ngoại hình đẹp mắt. Sau khi dùng có thể chọn một trong những bộ ngoại hình phẩm chất tương ứng.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0146",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258533,
+    "Name": "Rương Báu Sử Ký - Hoành Tráng",
+    "Description": "Hộp quà đựng ngoại hình đẹp mắt. Sau khi dùng có thể chọn một trong những bộ ngoại hình phẩm chất tương ứng.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0147",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258534,
+    "Name": "Rương Báu Sử Ký - Siêu Việt",
+    "Description": "Hộp quà đựng ngoại hình đẹp mắt. Sau khi dùng có thể chọn một trong những bộ ngoại hình phẩm chất tương ứng.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0191",
+    "Type": 14,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258535,
+    "Name": "Áo Choàng Thử Nghiệm Ngẫu Nhiên - Ngoại Hình Nữ",
+    "Description": "Chiếc áo choàng có khả năng tái hiện kỳ diệu, sau khi dùng có thể tự động biến thành trang phục nữ ngẫu nhiên. Thậm chí ngay cả trang sức và lớp trang điểm cũng có thể tái hiện chính xác.\nKhi vận dụng đúng cách thì đây chính là một kiểu đạo cụ \"mặc thử\" tiện lợi.\nSau khi nhận có thể dùng trong 14 ngày. Sau khi dùng, hiệu quả mặc thử sẽ duy trì 1 ngày. Khi kết thúc Sử Ký kỳ này, đạo cụ này sẽ mất hiệu lực.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258536,
     "Name": "Áo Choàng Thử Nghiệm Ngẫu Nhiên - Ngoại Hình Nam",
     "Description": "Chiếc áo choàng có khả năng tái hiện kỳ diệu, sau khi dùng có thể tự động biến thành trang phục nam ngẫu nhiên. Thậm chí ngay cả trang sức và lớp trang điểm cũng có thể tái hiện chính xác.\nKhi vận dụng đúng cách thì đây chính là một kiểu đạo cụ \"mặc thử\" tiện lợi.\nSau khi nhận có thể dùng trong 14 ngày. Sau khi dùng, hiệu quả mặc thử sẽ duy trì 1 ngày. Khi kết thúc Sử Ký kỳ này, đạo cụ này sẽ mất hiệu lực.",
     "Icon": "UI_ItemIcon_BydBox_4",
@@ -6864,6 +7016,174 @@
     "RankLevel": 4
   },
   {
+    "Id": 264267,
+    "Name": "Ngoại Hình Chung - Tiến Sĩ Xịt Xịt",
+    "Description": "Phụ kiện tóc sáng tạo và độc đáo. Đeo nó lên, giống như có một chú cá voi nhỏ đang xịt nước và hít thở trên đầu. Mang theo người bạn đồng hành đáng yêu này cùng đi dạo, biết đâu những ý tưởng tuyệt vời sẽ tuôn trào.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_P0450",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262673,
+    "Name": "Lông Mày Chung - Gió Thổi Liễu Lay - Hồng Nhạt",
+    "Description": "Lông mày màu hồng nhạt uốn cong tựa liễu rủ, đường nét tự nhiên mềm mại, toát lên vẻ dịu dàng.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0039",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262674,
+    "Name": "Lông Mày Chung - Gió Thổi Liễu Lay - Tím Nhạt",
+    "Description": "Lông mày màu tím nhạt uốn cong tựa liễu rủ, đường nét tự nhiên mềm mại, toát lên vẻ dịu dàng.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0040",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262675,
+    "Name": "Lông Mày Chung - Măng Non Vươn Cao - Hồng Nhạt",
+    "Description": "Lông mày màu hồng nhạt tựa măng non mới nhú, đường nét rắn rỏi, toát lên sức sống tràn trề.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0041",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262676,
+    "Name": "Lông Mày Chung - Măng Non Vươn Cao - Tím Nhạt",
+    "Description": "Lông mày màu tím nhạt tựa măng non mới nhú, đường nét rắn rỏi, toát lên sức sống tràn trề.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0042",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262677,
+    "Name": "Lông Mày Chung - Dốc Núi Chênh Vênh",
+    "Description": "Lông mày rạch sắc bén, kiêu ngạo, toát lên vẻ cuốn hút đầy mê hoặc sinh ra từ sức mạnh.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0280",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262678,
+    "Name": "Lông Mày Chung - Khói Sương Nhẹ Vương",
+    "Description": "Lông mày cong mềm mại dịu dàng, toát lên vẻ quyến rũ thanh thoát nhẹ nhàng.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0281",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262999,
+    "Name": "Mắt Nữ - Xuyên Phá Bình Minh",
+    "Description": "Đôi mắt nữ, giống như lưỡi kiếm sắc bén mang lại bình minh từ bóng tối, mang theo nét sắc bén ẩn hiện.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0054",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263000,
+    "Name": "Mắt Nữ - Bầu Trời Trong Veo",
+    "Description": "Đôi mắt nữ, giống như mặt trời rực rỡ ngày nắng, mang đến cảm giác tràn đầy sức sống.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0056",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263001,
+    "Name": "Mắt Nam - Sương Hoa Trên Cây",
+    "Description": "Đôi mắt nam, giống như cành cây vẫn vươn cao trong đêm lạnh, lạnh lùng và tự giữ mình.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0268",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263002,
+    "Name": "Mắt Nam - Ánh Sáng Rực Rỡ",
+    "Description": "Đôi mắt nam, giống như ánh hoàng hôn rực rỡ lướt qua, tươi đẹp quyến rũ.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0271",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263014,
+    "Name": "Mắt Nam - Ánh Vàng Nhảy Múa",
+    "Description": "Đôi mắt nam, đường nét và màu sắc gợi lên hình ảnh mặt biển lấp lánh giữa ban trưa, toát lên vẻ năng động và tự tin.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263015,
+    "Name": "Mắt Nữ - Ánh Vàng Nhảy Múa",
+    "Description": "Đôi mắt nữ, đường nét và màu sắc gợi lên hình ảnh mặt biển lấp lánh giữa ban trưa, toát lên vẻ năng động và tự tin.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263016,
+    "Name": "Mắt Nam - Ánh Vàng Nhảy Múa - Vẽ Đêm",
+    "Description": "Đôi mắt nam, đường nét và sắc màu gợi lên hình ảnh mặt biển tím xao động trong ánh sáng hoàng hôn, toát lên vẻ ung dung sâu thẳm.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263017,
+    "Name": "Mắt Nữ - Ánh Vàng Nhảy Múa - Vẽ Đêm",
+    "Description": "Đôi mắt nữ, đường nét và sắc màu gợi lên hình ảnh mặt biển tím xao động trong ánh sáng hoàng hôn, toát lên vẻ ung dung sâu thẳm.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263298,
+    "Name": "Đồng Tử Chung - Vỏ Sò Óng Ánh - Cam Sáng",
+    "Description": "Kính áp tròng có thể điều chỉnh màu mắt, tựa như chiếc vỏ sò màu cam phủ đầy nắng mai.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0064",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263263,
+    "Name": "Đồng Tử Chung - Vỏ Sò Óng Ánh - Hồng Nhạt",
+    "Description": "Kính áp tròng có thể thay đổi màu mắt, tựa như chiếc vỏ sò màu hồng phủ đầy ánh hoàng hôn.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0067",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263305,
+    "Name": "Đồng Tử Chung - Sắc Biển Bao La - Sóng Xanh",
+    "Description": "Kính áp tròng có thể thay đổi màu mắt, tĩnh lặng và sâu thẳm như đại dương, không chỉ chắn ánh sáng chói mắt mà còn ghi lại vẻ đẹp và sự thư thái của kỳ nghỉ.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0466",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263307,
+    "Name": "Đồng Tử Chung - Sắc Biển Bao La - Tím Sắc Bén",
+    "Description": "Kính áp tròng có thể thay đổi màu mắt, tĩnh lặng và sâu thẳm như đại dương, không chỉ chắn ánh sáng chói mắt mà còn ghi lại vẻ đẹp và sự thư thái của kỳ nghỉ.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0467",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263932,
+    "Name": "Trang Điểm Mặt Chung - Sọc Vằn Báo Dữ",
+    "Description": "Một kiểu trang điểm mặt. Tái hiện hoàn hảo những vết rám nắng xuất hiện trên da sau khi tiếp xúc với nắng gắt. Chúng tựa như đốm trên lưng báo, toát lên vẻ rực rỡ chói lóa của ánh mặt trời.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0482",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263947,
+    "Name": "Trang Điểm Mặt Chung - Mắt Vương Mây Màu - Lạc Anh",
+    "Description": "Một kiểu trang điểm mặt. Điểm nhấn nằm ở dưới mí mắt, giúp đôi mắt trông to và sâu hơn một cách tinh tế, mang đến sức hấp dẫn độc đáo.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0493",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
     "Id": 265001,
     "Name": "Ngoại Hình Nữ - Tuần Du",
     "Description": "Bộ Tuần Du. Khi tiếng chuông ngày lễ vang lên, khoác lên mình bộ đồ này, bạn sẽ là nhân vật chính tỏa sáng nhất trong đội ngũ tuần du. Ánh đèn dẫn lối, bí ngô bầu bạn, hãy tận hưởng đêm náo nhiệt reo hò này đi.",
@@ -8284,6 +8604,214 @@
     "Name": "Ngoại Hình Nam - Cánh Bướm Huyền Ảo - Khói Chàm Xanh",
     "Description": "Bộ Cánh Bướm Huyền Ảo sau khi Thăng Luyện. Trong màn khói nhẹ màu xanh chàm, được dẫn dắt bởi giai điệu ngôn ngữ của hoa cỏ, hòa mình vào ý chí của thiên nhiên, tiếp tục nhịp điệu vĩnh hằng của khúc ca cuộc sống.\n\"Lễ Hội Lời Hoa\" đã đến thời khắc then chốt trong điệu nhảy chân thành của hai học giả, biển hoa trung tâm như đáp lại một lời triệu hồi, bừng lên ánh sáng lấp lánh từng lớp như sóng biển. Sau đó, màn sương mù như bột đá quý lan tỏa, dáng hình của thiếu niên và thiếu nữ từ từ hiện ra. Họ mặc lễ phục trông giống với hai học giả, dung mạo thì hoàn toàn giống với hai học giả lúc còn trẻ, như thể là kiệt tác ngược dòng thời gian... Sắc xanh chàm thể hiện thân phận của họ: Hóa thân của ý chí hành tinh. Họ dịu dàng đón tiếp hai học giả, dẫn hai học giả biến mất vào sâu trong biển hoa...\nHóa ra, những nỗ lực hàng ngàn năm của con người đều được ý chí hành tinh chứng kiến. Cuối cùng, ý chí hành tinh đã chọn hình ảnh của hai học giả để tạo nên \"sứ giả\" giao tiếp với loài người.\nĐến khi Octavia rời đi, câu chuyện về hai học giả và sứ giả đã trở thành câu chuyện cổ tích tuyệt đẹp ai cũng biết, hành tinh này cũng theo quỹ đạo của mình mà phát triển phồn vinh và mạnh mẽ, hy vọng có thể chống lại thảm họa độc hại nào đó...",
     "Icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265338,
+    "Name": "Ngoại Hình Nữ - Lữ Khách Hoang Nguyên",
+    "Description": "Bộ Lữ Khách Hoang Nguyên. Trang phục gọn gàng, ôm sát cơ thể, được làm từ chất liệu vải chống mài mòn. Có nó đồng hành, cuộc thám hiểm vùng hoang nguyên sẽ trở nên dễ dàng như đi trên mặt đất bằng phẳng.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265339,
+    "Name": "Ngoại Hình Nam - Lữ Khách Hoang Nguyên",
+    "Description": "Bộ Lữ Khách Hoang Nguyên. Trang phục gọn gàng, ôm sát cơ thể, được làm từ chất liệu vải chống mài mòn. Có nó đồng hành, cuộc thám hiểm vùng hoang nguyên sẽ trở nên dễ dàng như đi trên mặt đất bằng phẳng.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265419,
+    "Name": "Ngoại Hình Nữ - Công Thức Rượu Mật",
+    "Description": "Bộ Công Thức Rượu Mật. Trang phục làm việc của đầu bếp với tạo hình độc đáo, khéo léo biến món ăn đặc sắc nổi bật nhất thành chiếc mũ đầu bếp, để lại ấn tượng đầu tiên ngọt ngào như dòng mật chảy trong lòng mỗi thực khách.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265420,
+    "Name": "Ngoại Hình Nam - Công Thức Rượu Mật",
+    "Description": "Bộ Công Thức Rượu Mật. Trang phục làm việc của đầu bếp với tạo hình độc đáo, khéo léo biến món ăn đặc sắc nổi bật nhất thành chiếc mũ đầu bếp, để lại ấn tượng đầu tiên ngọt ngào như dòng mật chảy trong lòng mỗi thực khách.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265340,
+    "Name": "Ngoại Hình Nữ - Khách Từ Biển Chiều",
+    "Description": "Bộ Khách Từ Biển Chiều. Lấy sắc biển dưới ánh hoàng hôn làm thuốc nhuộm, mang đến cho bộ trang phục này vẻ rực rỡ sâu thẳm. Khoác nó lên mình, dù đối mặt với những cơn sóng lớn cũng không hề sợ hãi.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265341,
+    "Name": "Ngoại Hình Nam - Khách Từ Biển Chiều",
+    "Description": "Bộ Khách Từ Biển Chiều. Lấy sắc biển dưới ánh hoàng hôn làm thuốc nhuộm, mang đến cho bộ trang phục này vẻ rực rỡ sâu thẳm. Khoác nó lên mình, dù đối mặt với những cơn sóng lớn cũng không hề sợ hãi.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265342,
+    "Name": "Ngoại Hình Nữ - Cá Mập Lười Biếng",
+    "Description": "Bộ Cá Mập Lười Biếng. Bộ trang phục thú bông được thiết kế dựa trên nguyên mẫu một loài cá mập hiền lành, tốc độ bơi chậm chạp, tái hiện hoàn hảo nét lười biếng đặc trưng ấy. Nghe nói trên một số hành tinh có hệ sinh thái biển phong phú, loài sinh vật cỡ lớn này tuy có vẻ ngoài hung dữ nhưng bản tính lại cực kỳ hiền hòa, luôn giành được rất nhiều sự yêu thích.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265343,
+    "Name": "Ngoại Hình Nam - Cá Mập Lười Biếng",
+    "Description": "Bộ Cá Mập Lười Biếng. Bộ trang phục thú bông được thiết kế dựa trên nguyên mẫu một loài cá mập hiền lành, tốc độ bơi chậm chạp, tái hiện hoàn hảo nét lười biếng đặc trưng ấy. Nghe nói trên một số hành tinh có hệ sinh thái biển phong phú, loài sinh vật cỡ lớn này tuy có vẻ ngoài hung dữ nhưng bản tính lại cực kỳ hiền hòa, luôn giành được rất nhiều sự yêu thích.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265320,
+    "Name": "Ngoại Hình Nữ - Làn Gió May Mắn",
+    "Description": "Bộ Làn Gió May Mắn. Trang phục dã ngoại với tông màu xanh lá tươi mát làm chủ đạo. Chất liệu mềm mại thân thiện với làn da, được điểm xuyết tỉ mỉ bằng họa tiết cỏ ba lá tượng trưng cho sự may mắn. Khoác lên mình bộ trang phục này, tựa như bên cạnh luôn có làn gió may mắn ấm áp đồng hành.\n\nTrong thế giới số 311, không phải tất cả \"Người Thì Thầm Lời Hoa\" đều tán đồng với mô hình canh tác thông qua \"Nhà Hoa Vĩnh Hằng\", nơi giữ cho thực vật mãi mãi ở thời kỳ sinh trưởng tốt nhất. Nhóm những người phản kháng ôn hòa này tin chắc rằng, ý chí của hành tinh không thể bị tính toán chính xác và sản xuất hàng loạt trong nhà kính. Làn gió may mắn đại diện cho sự màu mỡ và bội thu chỉ có thể lặng lẽ thổi lên từ những góc khuất bình dị nhất của thiên nhiên. Để được gặp gỡ ân điển này của thiên nhiên, trang phục của họ dần chuyển sang phong cách dã ngoại tiện lợi cho những chuyến hành trình dài. Và đối tượng họ dày công chăm sóc cũng không còn là những loài hoa rực rỡ chen chúc dưới ánh đèn sân khấu nữa, mà là những ngọn cỏ dại thấp bé với sức sống mãnh liệt mọc khắp nơi trên mặt đất. Xuất phát từ sự kính trọng và công nhận với lý tưởng ấy, Octavia đã ghi chép lại trang phục của họ một cách trung thực...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265321,
+    "Name": "Ngoại Hình Nam - Làn Gió May Mắn",
+    "Description": "Bộ Làn Gió May Mắn. Trang phục dã ngoại với tông màu xanh lá tươi mát làm chủ đạo. Chất liệu mềm mại thân thiện với làn da, được điểm xuyết tỉ mỉ bằng họa tiết cỏ ba lá tượng trưng cho sự may mắn. Khoác lên mình bộ trang phục này, tựa như bên cạnh luôn có làn gió may mắn ấm áp đồng hành.\n\nTrong thế giới số 311, không phải tất cả \"Người Thì Thầm Lời Hoa\" đều tán đồng với mô hình canh tác thông qua \"Nhà Hoa Vĩnh Hằng\", nơi giữ cho thực vật mãi mãi ở thời kỳ sinh trưởng tốt nhất. Nhóm những người phản kháng ôn hòa này tin chắc rằng, ý chí của hành tinh không thể bị tính toán chính xác và sản xuất hàng loạt trong nhà kính. Làn gió may mắn đại diện cho sự màu mỡ và bội thu chỉ có thể lặng lẽ thổi lên từ những góc khuất bình dị nhất của thiên nhiên. Để được gặp gỡ ân điển này của thiên nhiên, trang phục của họ dần chuyển sang phong cách dã ngoại tiện lợi cho những chuyến hành trình dài. Và đối tượng họ dày công chăm sóc cũng không còn là những loài hoa rực rỡ chen chúc dưới ánh đèn sân khấu nữa, mà là những ngọn cỏ dại thấp bé với sức sống mãnh liệt mọc khắp nơi trên mặt đất. Xuất phát từ sự kính trọng và công nhận với lý tưởng ấy, Octavia đã ghi chép lại trang phục của họ một cách trung thực...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265344,
+    "Name": "Ngoại Hình Nữ - Mộng Hè Nhàn Nhã",
+    "Description": "Bộ Mộng Hè Nhàn Nhã. Bộ lễ phục mùa hè nhẹ nhàng mang theo nét tĩnh lặng và trầm tư. Thiết kế phóng khoáng, thư thái hòa quyện hoàn hảo cùng sắc tím huyền bí, dệt nên giấc mộng kỳ ảo độc đáo giữa đêm hè.\n\nTại thế giới số 311, khi ánh sao và ánh trăng giao thoa trong đêm hè, những \"Người Thì Thầm Lời Hoa\" sẽ tụ hội về \"Tiệc Đêm Đom Đóm\" nơi sâu thẳm chốn hoang dã. Nơi đây không có tường rào hay ràng buộc, chỉ có cỏ dại đung đưa theo gió, muôn vàn đom đóm chập chờn giữa trời đêm cùng tiếng suối róc rách làm khách mời. Họ tin rằng, sự phồn thịnh chân chính nở rộ trong nhịp điệu của thiên nhiên, tựa như tà váy xòe rộng từng lớp khi xoay tròn, như những bông hoa hít thở dưới ánh trăng. Để ghi lại buổi hội ngộ chỉ dành riêng cho những tâm hồn tự do này, Octavia đã dệt sắc chiều tà và sương sớm vào từng nếp vải. Bộ trang phục tím trắng chuyển sắc tựa áng mây nơi chân trời lúc hoàng hôn buông xuống, còn hoa văn xinh đẹp là những gợn sóng mà làn gió đêm để lại khi lướt qua những khóm hoa. Khoác lên mình bộ trang phục này, bạn không còn là người đứng ngoài nữa, mà là nhân vật chính của vũ hội, cùng nhảy múa với các vì sao giữa làn gió thoảng hương hoa, đi tìm giấc mộng kỳ ảo chỉ thuộc về tự do và trí tưởng tượng.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265345,
+    "Name": "Ngoại Hình Nam - Mộng Hè Nhàn Nhã",
+    "Description": "Bộ Mộng Hè Nhàn Nhã. Bộ lễ phục mùa hè nhẹ nhàng mang theo nét tĩnh lặng và trầm tư. Thiết kế phóng khoáng, thư thái hòa quyện hoàn hảo cùng sắc tím huyền bí, dệt nên giấc mộng kỳ ảo độc đáo giữa đêm hè.\n\nTại thế giới số 311, khi ánh sao và ánh trăng giao thoa trong đêm hè, những \"Người Thì Thầm Lời Hoa\" sẽ tụ hội về \"Tiệc Đêm Đom Đóm\" nơi sâu thẳm chốn hoang dã. Nơi đây không có tường rào hay ràng buộc, chỉ có cỏ dại đung đưa theo gió, muôn vàn đom đóm chập chờn giữa trời đêm cùng tiếng suối róc rách làm khách mời. Họ tin rằng, sự phồn thịnh chân chính nở rộ trong nhịp điệu của thiên nhiên, tựa như tà váy xòe rộng từng lớp khi xoay tròn, như những bông hoa hít thở dưới ánh trăng. Để ghi lại buổi hội ngộ chỉ dành riêng cho những tâm hồn tự do này, Octavia đã dệt sắc chiều tà và sương sớm vào từng nếp vải. Bộ trang phục tím trắng chuyển sắc tựa áng mây nơi chân trời lúc hoàng hôn buông xuống, còn hoa văn xinh đẹp là những gợn sóng mà làn gió đêm để lại khi lướt qua những khóm hoa. Khoác lên mình bộ trang phục này, bạn không còn là người đứng ngoài nữa, mà là nhân vật chính của vũ hội, cùng nhảy múa với các vì sao giữa làn gió thoảng hương hoa, đi tìm giấc mộng kỳ ảo chỉ thuộc về tự do và trí tưởng tượng.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265437,
+    "Name": "Ngoại Hình Nữ - Sảng Khoái Mát Mẻ",
+    "Description": "Bộ Sảng Khoái Mát Mẻ. Trang phục thường ngày mùa hè mát mẻ gọn gàng. Sắc xanh nhạt tươi mát ấy tựa như một ngụm đá bào ngọt ngào giữa ngày hè. Khoác lên mình bộ trang phục này, cái nóng oi bức của mùa hè như được xua tan hoàn toàn.\n\nNhắc đến kẻ thù lớn nhất của kỳ nghỉ hè bên bãi biển, ngay cả ma nữ có thể du hành giữa các vì sao như Octavia, cũng sẽ đưa ra câu trả lời giống hệt người bình thường, đó là những làn sóng nhiệt thiêu đốt. Chính vì vậy, những cư dân của Thế Giới Đại Dương số 503 vốn phải chịu đựng cái nóng gay gắt quanh năm, từ lâu đã xem việc chế biến những món giải nhiệt là việc trọng đại hàng đầu trong đời. Mỗi độ hè về, nơi đây lại tổ chức \"Lễ Hội Đồ Uống Lạnh\" náo nhiệt, quy tụ vô số bậc thầy pha chế đồ uống lạnh đến tranh tài, chỉ để giành lấy ngôi vị \"Vua Mùa Hè\". Chiếc vương miện được trang trí bằng thạch đá bào mát lạnh chính là vinh dự tối cao chỉ dành riêng cho người chiến thắng. Là một lữ khách ghé ngang qua vùng đất này và cũng là người tận hưởng lễ hội, Octavia đã tặng cho người chiến thắng lúc bấy giờ một món quà mang đậm \"phong cách ma nữ\", một tia phép thuật mát lạnh nhỏ bé. Nó khiến chiếc vương miện ấy trở thành đá bào thực sự, vĩnh viễn không tan chảy, không ngừng hút lấy cái nóng xung quanh, mang đến cảm giác mát lạnh sảng khoái cho tất cả mọi người.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265438,
+    "Name": "Ngoại Hình Nam - Sảng Khoái Mát Mẻ",
+    "Description": "Bộ Sảng Khoái Mát Mẻ. Trang phục thường ngày mùa hè mát mẻ gọn gàng. Sắc xanh nhạt tươi mát ấy tựa như một ngụm đá bào ngọt ngào giữa ngày hè. Khoác lên mình bộ trang phục này, cái nóng oi bức của mùa hè như được xua tan hoàn toàn.\n\nNhắc đến kẻ thù lớn nhất của kỳ nghỉ hè bên bãi biển, ngay cả ma nữ có thể du hành giữa các vì sao như Octavia, cũng sẽ đưa ra câu trả lời giống hệt người bình thường, đó là những làn sóng nhiệt thiêu đốt. Chính vì vậy, những cư dân của Thế Giới Đại Dương số 503 vốn phải chịu đựng cái nóng gay gắt quanh năm, từ lâu đã xem việc chế biến những món giải nhiệt là việc trọng đại hàng đầu trong đời. Mỗi độ hè về, nơi đây lại tổ chức \"Lễ Hội Đồ Uống Lạnh\" náo nhiệt, quy tụ vô số bậc thầy pha chế đồ uống lạnh đến tranh tài, chỉ để giành lấy ngôi vị \"Vua Mùa Hè\". Chiếc vương miện được trang trí bằng thạch đá bào mát lạnh chính là vinh dự tối cao chỉ dành riêng cho người chiến thắng. Là một lữ khách ghé ngang qua vùng đất này và cũng là người tận hưởng lễ hội, Octavia đã tặng cho người chiến thắng lúc bấy giờ một món quà mang đậm \"phong cách ma nữ\", một tia phép thuật mát lạnh nhỏ bé. Nó khiến chiếc vương miện ấy trở thành đá bào thực sự, vĩnh viễn không tan chảy, không ngừng hút lấy cái nóng xung quanh, mang đến cảm giác mát lạnh sảng khoái cho tất cả mọi người.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265348,
+    "Name": "Ngoại Hình Nữ - Nước Chanh Muối Đá",
+    "Description": "Bộ Nước Chanh Muối Đá. Bộ trang phục nghỉ dưỡng bãi biển mát mẻ và tràn đầy sức sống. Chất vải mỏng nhẹ thoáng khí cùng sự phối màu tươi sáng bắt mắt, tựa như ngụm soda chanh muối mát lạnh sảng khoái. Có nó bên mình, có thể dễ dàng đẩy lùi cái nóng mùa hè, thỏa sức giải phóng nguồn năng lượng mát lạnh giữa nắng vàng và sóng biển.\n\nĐối với Thế Giới Đại Dương số 503 nơi quanh năm oi bức, Octavia không phải vị khách phương xa duy nhất đặt chân đến bãi biển này. Cùng đến với cô còn có một loại quả hình bầu dục màu vàng, vị chua, đó là quả chanh. Xét theo khẩu vị cá nhân, Octavia không phải là người yêu thích chanh, thậm chí còn có chút kháng cự với loại quả này. Thế nhưng để phòng ngừa bệnh tật có thể gặp phải trong chuyến hành trình dài, cuối cùng cô vẫn nhét vài quả chanh vào trong hành trang của mình.\nCuộc hành trình dài đằng đẵng băng qua hơn năm trăm hành tinh trước đó đã khiến cô quên sạch số chanh trong túi. Mãi cho đến khi cô định gọi một ly nước chanh muối đá ở nhà hàng trên Thế Giới Đại Dương để giải nhiệt, nhưng lại phát hiện người dân địa phương hoàn toàn không biết đến loại quả sinh ra từ vùng khí hậu ôn hòa này, ký ức bị lãng quên ấy mới được đánh thức. Thực tế đã chứng minh, một ly nước chanh muối đá chính là liều thuốc giải hoàn hảo nhất cho chuỗi ngày oi nóng bất tận. Trước lời khẩn cầu của cư dân địa phương, Octavia đã hào phóng trao tặng toàn bộ số chanh còn lại để họ gieo trồng. Tuy nhiên, vốn không hề hứng thú với việc đóng vai thần linh, cô kiên quyết từ chối danh hiệu vĩ đại \"Nữ Hoàng Chanh\" mà mọi người dâng tặng, chỉ mang theo bộ trang phục mát mẻ được tặng, xem như kỷ niệm cho cuộc gặp gỡ trên hành tinh xa lạ này.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265349,
+    "Name": "Ngoại Hình Nam - Nước Chanh Muối Đá",
+    "Description": "Bộ Nước Chanh Muối Đá. Bộ trang phục nghỉ dưỡng bãi biển mát mẻ và tràn đầy sức sống. Chất vải mỏng nhẹ thoáng khí cùng sự phối màu tươi sáng bắt mắt, tựa như ngụm soda chanh muối mát lạnh sảng khoái. Có nó bên mình, có thể dễ dàng đẩy lùi cái nóng mùa hè, thỏa sức giải phóng nguồn năng lượng mát lạnh giữa nắng vàng và sóng biển.\n\nĐối với Thế Giới Đại Dương số 503 nơi quanh năm oi bức, Octavia không phải vị khách phương xa duy nhất đặt chân đến bãi biển này. Cùng đến với cô còn có một loại quả hình bầu dục màu vàng, vị chua, đó là quả chanh. Xét theo khẩu vị cá nhân, Octavia không phải là người yêu thích chanh, thậm chí còn có chút kháng cự với loại quả này. Thế nhưng để phòng ngừa bệnh tật có thể gặp phải trong chuyến hành trình dài, cuối cùng cô vẫn nhét vài quả chanh vào trong hành trang của mình.\nCuộc hành trình dài đằng đẵng băng qua hơn năm trăm hành tinh trước đó đã khiến cô quên sạch số chanh trong túi. Mãi cho đến khi cô định gọi một ly nước chanh muối đá ở nhà hàng trên Thế Giới Đại Dương để giải nhiệt, nhưng lại phát hiện người dân địa phương hoàn toàn không biết đến loại quả sinh ra từ vùng khí hậu ôn hòa này, ký ức bị lãng quên ấy mới được đánh thức. Thực tế đã chứng minh, một ly nước chanh muối đá chính là liều thuốc giải hoàn hảo nhất cho chuỗi ngày oi nóng bất tận. Trước lời khẩn cầu của cư dân địa phương, Octavia đã hào phóng trao tặng toàn bộ số chanh còn lại để họ gieo trồng. Tuy nhiên, vốn không hề hứng thú với việc đóng vai thần linh, cô kiên quyết từ chối danh hiệu vĩ đại \"Nữ Hoàng Chanh\" mà mọi người dâng tặng, chỉ mang theo bộ trang phục mát mẻ được tặng, xem như kỷ niệm cho cuộc gặp gỡ trên hành tinh xa lạ này.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265350,
+    "Name": "Ngoại Hình Nữ - Bá Vương Nanh Nhọn",
+    "Description": "Bộ Bá Vương Nanh Nhọn. Trang phục thể thao mang sắc thái nhiệt huyết rực lửa. Dáng vẻ oai phong lẫm liệt, toát lên khí chất uy nghiêm của bậc bá chủ, nanh nhọn cùng vuốt sắc chính là chỗ dựa để rồng tung hoành khắp thế gian. Hãy biến sức mạnh ngạo nghễ ấy thành huy hiệu khắc lên người, rồi nghiền nát mọi chông gai trở ngại!\n\nTừ rất lâu trước khi Octavia đặt chân đến hành tinh số 67, nơi đây từng là thế giới thuộc về một loài \"rồng\" nào đó. Thế nhưng, những sinh vật khổng lồ ấy không tiến hóa được trí tuệ vĩ đại như tộc rồng Teyvat. Khi chúng dần biến mất trong dòng chảy thời gian, thứ để lại cho hậu thế chỉ là những bộ xương cốt hóa thạch sừng sững. Những bộ xương cốt to lớn và hung hãn hơn bất kỳ sinh vật nào từng được biết đến ấy, đã khơi dậy trong lòng vô số người sự tưởng tượng bất tận về một kỷ nguyên tràn đầy sức sống nhưng cũng không kém phần đẫm máu và hoang dã. Từ đó, hàng loạt tác phẩm nghệ thuật mang chủ đề sinh vật khổng lồ đầy kịch tính lần lượt ra đời. Còn dáng vẻ oai hùng của những bá chủ viễn cổ cũng được các nghệ sĩ chắt lọc thành biểu tượng thời trang của thế hệ mới, lặng lẽ kể về sức sống ngang tàng bất khuất ấy.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265351,
+    "Name": "Ngoại Hình Nam - Bá Vương Nanh Nhọn",
+    "Description": "Bộ Bá Vương Nanh Nhọn. Trang phục thể thao mang sắc thái nhiệt huyết rực lửa. Dáng vẻ oai phong lẫm liệt, toát lên khí chất uy nghiêm của bậc bá chủ, nanh nhọn cùng vuốt sắc chính là chỗ dựa để rồng tung hoành khắp thế gian. Hãy biến sức mạnh ngạo nghễ ấy thành huy hiệu khắc lên người, rồi nghiền nát mọi chông gai trở ngại!\n\nTừ rất lâu trước khi Octavia đặt chân đến hành tinh số 67, nơi đây từng là thế giới thuộc về một loài \"rồng\" nào đó. Thế nhưng, những sinh vật khổng lồ ấy không tiến hóa được trí tuệ vĩ đại như tộc rồng Teyvat. Khi chúng dần biến mất trong dòng chảy thời gian, thứ để lại cho hậu thế chỉ là những bộ xương cốt hóa thạch sừng sững. Những bộ xương cốt to lớn và hung hãn hơn bất kỳ sinh vật nào từng được biết đến ấy, đã khơi dậy trong lòng vô số người sự tưởng tượng bất tận về một kỷ nguyên tràn đầy sức sống nhưng cũng không kém phần đẫm máu và hoang dã. Từ đó, hàng loạt tác phẩm nghệ thuật mang chủ đề sinh vật khổng lồ đầy kịch tính lần lượt ra đời. Còn dáng vẻ oai hùng của những bá chủ viễn cổ cũng được các nghệ sĩ chắt lọc thành biểu tượng thời trang của thế hệ mới, lặng lẽ kể về sức sống ngang tàng bất khuất ấy.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265415,
+    "Name": "Ngoại Hình Nữ - Linh Hồn Tzitzimitl",
+    "Description": "Bộ Linh Hồn Tzitzimitl. Trong thế giới thứ 777 được duy trì hoàn toàn bởi \"ma lực\", những pháp sư có khả năng phong ấn \"Mảnh Vỡ Tinh Tú\" và vận dụng bụi thiên thạch quả thực vô cùng hiếm hoi. Bí thuật cổ xưa này không chỉ đòi hỏi thiên phú xuất chúng, mà còn cần dành thời gian dài đằng đẵng để tích lũy tri thức uyên bác. Những nguy hiểm đi kèm cũng không thể xem thường, chỉ cần một sơ suất nhỏ cũng có thể dẫn đến ma pháp phản ngược. Vì vậy, những học giả nắm giữ bí thuật này phần lớn đều đức cao vọng trọng, với bề dày hàng trăm năm nghiên cứu học thuật.\nKhi đọc những ghi chép về thế giới 777, Paimon không khỏi cảm thán: \"Hàng trăm năm cơ đấy... Có khi thành tựu của những học giả đó cũng chỉ miễn cưỡng đạt đến trình độ của Citlali thôi nhỉ?\"\n\"Nhưng mà, Bà Itztli có Citlalin và Itzpapa giúp đỡ, mấy học giả đó chắc chắn không thể theo kịp được!\"\nDường như Kỳ Vực đã đáp lại lời của Paimon, hai bộ trang phục vốn giản dị dần dần biến đổi, mang theo những đặc trưng của Citlalin và Itzpapa trong ký ức của Paimon...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265416,
+    "Name": "Ngoại Hình Nam - Linh Hồn Tzitzimitl",
+    "Description": "Bộ Linh Hồn Tzitzimitl. Trong thế giới thứ 777 được duy trì hoàn toàn bởi \"ma lực\", những pháp sư có khả năng phong ấn \"Mảnh Vỡ Tinh Tú\" và vận dụng bụi thiên thạch quả thực vô cùng hiếm hoi. Bí thuật cổ xưa này không chỉ đòi hỏi thiên phú xuất chúng, mà còn cần dành thời gian dài đằng đẵng để tích lũy tri thức uyên bác. Những nguy hiểm đi kèm cũng không thể xem thường, chỉ cần một sơ suất nhỏ cũng có thể dẫn đến ma pháp phản ngược. Vì vậy, những học giả nắm giữ bí thuật này phần lớn đều đức cao vọng trọng, với bề dày hàng trăm năm nghiên cứu học thuật.\nKhi đọc những ghi chép về thế giới 777, Paimon không khỏi cảm thán: \"Hàng trăm năm cơ đấy... Có khi thành tựu của những học giả đó cũng chỉ miễn cưỡng đạt đến trình độ của Citlali thôi nhỉ?\"\n\"Nhưng mà, Bà Itztli có Citlalin và Itzpapa giúp đỡ, mấy học giả đó chắc chắn không thể theo kịp được!\"\nDường như Kỳ Vực đã đáp lại lời của Paimon, hai bộ trang phục vốn giản dị dần dần biến đổi, mang theo những đặc trưng của Citlalin và Itzpapa trong ký ức của Paimon...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265356,
+    "Name": "Ngoại Hình Nữ - Đồng Cỏ Lốm Đốm",
+    "Description": "Bộ Đồng Cỏ Lốm Đốm. Bộ trang phục đậm chất hoang dã, lấy cảm hứng từ động vật họ mèo nhanh nhẹn trên thảo nguyên thưa thớt. Bộ trang phục toát lên vẻ ung dung tự tại cùng nét hoang dã độc đáo, mang đến cho người mặc khí chất tự tin rực rỡ và phóng khoáng.\n\nGiữa vũ trụ đầy rẫy hiểm nguy, có được hòa bình và sự tiến hóa tự nhiên vốn đã là một điều may mắn tột cùng, đặc biệt là đối với những nơi \"hoang dã\" như hành tinh số 206, nơi vốn chưa có chút hiểu biết nào về biển sao bao la. Là vị khách ngoài hành tinh đầu tiên đặt chân đến nơi này, Octavia không khỏi lo lắng cho tương lai của nó. Sau khi suy xét kỹ lưỡng, cô đã gửi lời mời đến Học Viện Tinh Tú số 93, một thế lực ôn hòa trung lập ở khoảng cách tương đối gần, ủy thác họ làm người bảo hộ cho hành tinh số 206, âm thầm che chở và quan sát sự phát triển của nó. Tuy nhiên, điều mà vị ma nữ này không ngờ tới là, còn chưa kịp để nền văn minh của hành tinh số 93 gây ra bất kỳ ảnh hưởng khó lường nào lên vùng đất hoang sơ này, thì sức hút \"hoang dã\" nguyên thủy của hành tinh số 206 lại đi trước một bước, càn quét giới thời trang của hành tinh số 93. Không ít thanh niên thiếu nữ quanh năm vùi mình trong núi sách vở chưa từng được chiêm ngưỡng thứ thẩm mỹ thời trang \"hoang dã\" đến nhường này. Trong chốc lát, làn sóng thẩm mỹ tôn sùng vẻ đẹp nguyên sơ và hơi thở hoang dã đã lan rộng trong một số học viện. Để kỷ niệm trải nghiệm lần này, Octavia đã ghi chép lại bộ trang phục thịnh hành nhất lúc bấy giờ...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265357,
+    "Name": "Ngoại Hình Nam - Đồng Cỏ Lốm Đốm",
+    "Description": "Bộ Đồng Cỏ Lốm Đốm. Bộ trang phục đậm chất hoang dã, lấy cảm hứng từ động vật họ mèo nhanh nhẹn trên thảo nguyên thưa thớt. Bộ trang phục toát lên vẻ ung dung tự tại cùng nét hoang dã độc đáo, mang đến cho người mặc khí chất tự tin rực rỡ và phóng khoáng.\n\nGiữa vũ trụ đầy rẫy hiểm nguy, có được hòa bình và sự tiến hóa tự nhiên vốn đã là một điều may mắn tột cùng, đặc biệt là đối với những nơi \"hoang dã\" như hành tinh số 206, nơi vốn chưa có chút hiểu biết nào về biển sao bao la. Là vị khách ngoài hành tinh đầu tiên đặt chân đến nơi này, Octavia không khỏi lo lắng cho tương lai của nó. Sau khi suy xét kỹ lưỡng, cô đã gửi lời mời đến Học Viện Tinh Tú số 93, một thế lực ôn hòa trung lập ở khoảng cách tương đối gần, ủy thác họ làm người bảo hộ cho hành tinh số 206, âm thầm che chở và quan sát sự phát triển của nó. Tuy nhiên, điều mà vị ma nữ này không ngờ tới là, còn chưa kịp để nền văn minh của hành tinh số 93 gây ra bất kỳ ảnh hưởng khó lường nào lên vùng đất hoang sơ này, thì sức hút \"hoang dã\" nguyên thủy của hành tinh số 206 lại đi trước một bước, càn quét giới thời trang của hành tinh số 93. Không ít thanh niên thiếu nữ quanh năm vùi mình trong núi sách vở chưa từng được chiêm ngưỡng thứ thẩm mỹ thời trang \"hoang dã\" đến nhường này. Trong chốc lát, làn sóng thẩm mỹ tôn sùng vẻ đẹp nguyên sơ và hơi thở hoang dã đã lan rộng trong một số học viện. Để kỷ niệm trải nghiệm lần này, Octavia đã ghi chép lại bộ trang phục thịnh hành nhất lúc bấy giờ...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265358,
+    "Name": "Ngoại Hình Nữ - Sắc Màu Duyên Hải",
+    "Description": "Bộ Sắc Màu Duyên Hải. Trang phục chiến đấu bãi biển mùa hè hội tụ trọn vẹn sự sôi động, niềm vui và sức sống tột bậc. Mùa hè rực lửa chói chang chính là thời điểm tuyệt vời nhất để quét sạch mọi mệt mỏi và ưu phiền. Hãy trang bị đầy đủ đồ chống nắng, cầm chặt khẩu súng nước trên tay, rồi phát động cuộc tổng tấn công đầy sảng khoái vào mọi nỗi lo âu trên bãi biển rực rỡ sắc màu này!\n\nDưới ảnh hưởng của Họa Sĩ Sắc Màu, cư dân của Thế Giới Đại Dương số 503 đã hình thành một \"nghi thức chiến tranh\" độc đáo nhằm tái định nghĩa mối quan hệ giữa người với người và giữa người với bản thân mình. Vì vậy, trên bãi biển nghỉ dưỡng, người ta thường bắt gặp những người trẻ tuổi khoác lên mình \"trang phục chiến đấu\", băng qua làn nước và những con sóng, tận hưởng tuổi trẻ cùng những giọt mồ hôi nhiệt huyết. Trong số đó, điều khắc sâu nhất trong ký ức của Octavia lại là một đôi nam nữ trông hết sức bình thường. Họ không sở hữu thể chất nhanh nhẹn vượt trội, cũng không có trang bị tinh xảo phức tạp. Trong mắt những người có năng lực chiến đấu mạnh mẽ như Octavia, động tác của họ thậm chí còn chậm chạp như vệt màu loang dần trong bể nước. Nhưng chính những vệt màu từ từ loang rộng ấy lại tràn ngập sức sống rạng ngời, khiến người ta chỉ nhìn một lần là khó lòng quên được, đồng thời cảm thấy vui vẻ từ tận đáy lòng. Có lẽ, đó mới là dáng vẻ mà tuổi trẻ nên có. Hoặc có lẽ, đó mới chính là mục đích ban đầu của \"nghi thức chiến tranh\" này. Chính vì vậy, Octavia đã đặc biệt làm riêng cho hai người họ bộ trang phục này, mong rằng họ có thể mãi kéo dài nguồn năng lượng và sức sống tươi trẻ ấy.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265359,
+    "Name": "Ngoại Hình Nam - Sắc Màu Duyên Hải",
+    "Description": "Bộ Sắc Màu Duyên Hải. Trang phục chiến đấu bãi biển mùa hè hội tụ trọn vẹn sự sôi động, niềm vui và sức sống tột bậc. Mùa hè rực lửa chói chang chính là thời điểm tuyệt vời nhất để quét sạch mọi mệt mỏi và ưu phiền. Hãy trang bị đầy đủ đồ chống nắng, cầm chặt khẩu súng nước trên tay, rồi phát động cuộc tổng tấn công đầy sảng khoái vào mọi nỗi lo âu trên bãi biển rực rỡ sắc màu này!\n\nDưới ảnh hưởng của Họa Sĩ Sắc Màu, cư dân của Thế Giới Đại Dương số 503 đã hình thành một \"nghi thức chiến tranh\" độc đáo nhằm tái định nghĩa mối quan hệ giữa người với người và giữa người với bản thân mình. Vì vậy, trên bãi biển nghỉ dưỡng, người ta thường bắt gặp những người trẻ tuổi khoác lên mình \"trang phục chiến đấu\", băng qua làn nước và những con sóng, tận hưởng tuổi trẻ cùng những giọt mồ hôi nhiệt huyết. Trong số đó, điều khắc sâu nhất trong ký ức của Octavia lại là một đôi nam nữ trông hết sức bình thường. Họ không sở hữu thể chất nhanh nhẹn vượt trội, cũng không có trang bị tinh xảo phức tạp. Trong mắt những người có năng lực chiến đấu mạnh mẽ như Octavia, động tác của họ thậm chí còn chậm chạp như vệt màu loang dần trong bể nước. Nhưng chính những vệt màu từ từ loang rộng ấy lại tràn ngập sức sống rạng ngời, khiến người ta chỉ nhìn một lần là khó lòng quên được, đồng thời cảm thấy vui vẻ từ tận đáy lòng. Có lẽ, đó mới là dáng vẻ mà tuổi trẻ nên có. Hoặc có lẽ, đó mới chính là mục đích ban đầu của \"nghi thức chiến tranh\" này. Chính vì vậy, Octavia đã đặc biệt làm riêng cho hai người họ bộ trang phục này, mong rằng họ có thể mãi kéo dài nguồn năng lượng và sức sống tươi trẻ ấy.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265360,
+    "Name": "Ngoại Hình Nữ - Sắc Màu Duyên Hải - Vẽ Đêm",
+    "Description": "Bộ Sắc Màu Duyên Hải sau khi Thăng Luyện. Màu sắc đã chuyển hóa thành gam màu hoàng hôn tĩnh lặng và mộng ảo hơn. Nếu màn đêm đã buông xuống, chi bằng lấy màu trời đêm sâu thẳm ấy làm tấm vải vẽ tuyệt vời nhất? Nắm chặt lấy súng nước, thỏa thích phun niềm vui lên đó, rồi phác họa nên khung cảnh kỳ diệu của đêm hè chỉ thuộc về riêng bạn!\n\nDưới ảnh hưởng của Họa Sĩ Sắc Màu, cư dân của Thế Giới Đại Dương số 503 đã hình thành một \"nghi thức chiến tranh\" độc đáo nhằm tái định nghĩa mối quan hệ giữa người với người và giữa người với bản thân mình. Vì vậy, trên bãi biển nghỉ dưỡng, người ta thường bắt gặp những người trẻ tuổi khoác lên mình \"trang phục chiến đấu\", băng qua làn nước và những con sóng, tận hưởng tuổi trẻ cùng những giọt mồ hôi nhiệt huyết. Trong số đó, điều khắc sâu nhất trong ký ức của Octavia lại là một đôi nam nữ trông hết sức bình thường. Họ không sở hữu thể chất nhanh nhẹn vượt trội, cũng không có trang bị tinh xảo phức tạp. Trong mắt những người có năng lực chiến đấu mạnh mẽ như Octavia, động tác của họ thậm chí còn chậm chạp như vệt màu loang dần trong bể nước. Nhưng chính những vệt màu từ từ loang rộng ấy lại tràn ngập sức sống rạng ngời, khiến người ta chỉ nhìn một lần là khó lòng quên được, đồng thời cảm thấy vui vẻ từ tận đáy lòng. Có lẽ, đó mới là dáng vẻ mà tuổi trẻ nên có. Hoặc có lẽ, đó mới chính là mục đích ban đầu của \"nghi thức chiến tranh\" này. Chính vì vậy, Octavia đã đặc biệt làm riêng cho hai người họ bộ trang phục này, mong rằng họ có thể mãi kéo dài nguồn năng lượng và sức sống tươi trẻ ấy.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0018",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265361,
+    "Name": "Ngoại Hình Nam - Sắc Màu Duyên Hải - Vẽ Đêm",
+    "Description": "Bộ Sắc Màu Duyên Hải sau khi Thăng Luyện. Màu sắc đã chuyển hóa thành gam màu hoàng hôn tĩnh lặng và mộng ảo hơn. Nếu màn đêm đã buông xuống, chi bằng lấy màu trời đêm sâu thẳm ấy làm tấm vải vẽ tuyệt vời nhất? Nắm chặt lấy súng nước, thỏa thích phun niềm vui lên đó, rồi phác họa nên khung cảnh kỳ diệu của đêm hè chỉ thuộc về riêng bạn!\n\nDưới ảnh hưởng của Họa Sĩ Sắc Màu, cư dân của Thế Giới Đại Dương số 503 đã hình thành một \"nghi thức chiến tranh\" độc đáo nhằm tái định nghĩa mối quan hệ giữa người với người và giữa người với bản thân mình. Vì vậy, trên bãi biển nghỉ dưỡng, người ta thường bắt gặp những người trẻ tuổi khoác lên mình \"trang phục chiến đấu\", băng qua làn nước và những con sóng, tận hưởng tuổi trẻ cùng những giọt mồ hôi nhiệt huyết. Trong số đó, điều khắc sâu nhất trong ký ức của Octavia lại là một đôi nam nữ trông hết sức bình thường. Họ không sở hữu thể chất nhanh nhẹn vượt trội, cũng không có trang bị tinh xảo phức tạp. Trong mắt những người có năng lực chiến đấu mạnh mẽ như Octavia, động tác của họ thậm chí còn chậm chạp như vệt màu loang dần trong bể nước. Nhưng chính những vệt màu từ từ loang rộng ấy lại tràn ngập sức sống rạng ngời, khiến người ta chỉ nhìn một lần là khó lòng quên được, đồng thời cảm thấy vui vẻ từ tận đáy lòng. Có lẽ, đó mới là dáng vẻ mà tuổi trẻ nên có. Hoặc có lẽ, đó mới chính là mục đích ban đầu của \"nghi thức chiến tranh\" này. Chính vì vậy, Octavia đã đặc biệt làm riêng cho hai người họ bộ trang phục này, mong rằng họ có thể mãi kéo dài nguồn năng lượng và sức sống tươi trẻ ấy.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0018",
     "Type": 2,
     "RankLevel": 5
   },
@@ -11024,6 +11552,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 275348,
+    "Name": "Danh Mục Bộ: Nước Chanh Muối Đá",
+    "Description": "Tinh thể ngưng kết từ hiện tượng Kỳ Vực, ẩn chứa thông tin của bộ \"Nước Chanh Muối Đá\". Khi tái hiện ngoại hình, có thể tự chọn ngoại hình của Người Mẫu Nam hoặc Người Mẫu Nữ.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
+    "Type": 3,
+    "RankLevel": 4
+  },
+  {
     "Id": 280001,
     "Name": "Ngoại Hình Nữ - Váy Liền Phong Thái Nho Nhã",
     "Description": "Chiếc váy thanh lịch và tinh tế, kết hợp với phần váy xòe lộng lẫy cùng chiếc khăn quàng cổ lụa màu trầm, tạo nên phong cách trang nghiêm và chỉn chu. Sức hấp dẫn của một quản gia nằm ở phong thái làm việc nghiêm túc, và trang phục đúng mực càng làm tôn thêm vẻ quyến rũ ấy.",
@@ -11460,6 +11996,110 @@
     "Name": "Ngoại Hình Nam - Đồ Trang Trí Họa Sĩ Sắc Màu",
     "Description": "Đồ trang trí máy ảnh dùng để chụp hình, màu sắc rực rỡ. Thường được treo bên hông để có thể lấy ra kịp thời khi muốn ghi lại khoảnh khắc.",
     "Icon": "UI_Beyd_Avatar_Boy_WaistAcc_S0132",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280056,
+    "Name": "Ngoại Hình Nữ - Lễ Phục Mộng Hè Nhàn Nhã",
+    "Description": "Bộ lễ phục tinh tế mang sắc tím hoàng hôn dịu dàng, điểm tô họa tiết cỏ ba lá màu vàng, cổ áo được thắt một chiếc nơ tím thanh lịch tựa đóa hoa. Họa tiết hoa chìm và viền vàng điểm xuyết hài hòa, toát lên bầu không khí tĩnh lặng của đêm hè giữa dáng vẻ phóng khoáng tự nhiên.",
+    "Icon": "UI_Beyd_Avatar_Girl_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280057,
+    "Name": "Ngoại Hình Nữ - Giày Mộng Hè Nhàn Nhã",
+    "Description": "Đôi giày màu tím đậm được trang trí bằng nơ, đơn giản mà không kém phần thanh lịch. Mỗi bước chân đều như để lại dấu ấn nhẹ nhàng trên thảm cỏ đầy ánh trăng.",
+    "Icon": "UI_Beyd_Avatar_Girl_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280058,
+    "Name": "Ngoại Hình Nữ - Tóc Dài Mộng Hè Nhàn Nhã",
+    "Description": "Kiểu tóc dài mộng mơ, với màu trắng nhạt thanh bình làm chủ đạo, toát lên vẻ tinh tế trong sự tự nhiên, như ánh trăng dịu mát của đêm hè cùng ánh sáng lung linh của đom đóm dệt vào lọn tóc.",
+    "Icon": "UI_Beyd_Avatar_Girl_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280059,
+    "Name": "Ngoại Hình Nữ - Băng Đô Mộng Hè Nhàn Nhã",
+    "Description": "Băng đô thanh lịch xinh đẹp, gắn kết ánh sáng le lói của đom đóm cùng sự tĩnh lặng của hoàng hôn vào mái tóc, như thể sẵn sàng dẫn bạn bước vào bữa tiệc lộng lẫy nơi ánh sao và hương hoa hòa quyện.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280060,
+    "Name": "Ngoại Hình Nữ - Vòng Tay Mộng Hè Nhàn Nhã",
+    "Description": "Vòng tay xếp ly trắng tinh, được cố định bằng dây buộc màu tối, thiết kế tối giản rất hợp với phong cách tổng thể của trang phục, mang lại nét tinh tế riêng biệt.",
+    "Icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280061,
+    "Name": "Ngoại Hình Nữ - Tất Dài Mộng Hè Nhàn Nhã",
+    "Description": "Tất trắng dài với họa tiết hình học ẩn hiện tinh tế, như ánh sao đêm giữa hè ngưng tụ nơi mắt cá chân, nhẹ nhàng và thanh thoát.",
+    "Icon": "UI_Beyd_Avatar_Girl_LegAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280062,
+    "Name": "Ngoại Hình Nam - Lễ Phục Mộng Hè Nhàn Nhã",
+    "Description": "Bộ lễ phục kết hợp tài tình giữa màu tím hoàng hôn và xám bình minh, điểm tô họa tiết cỏ ba lá màu vàng, cổ áo được thắt một chiếc nơ màu cam vàng ấm áp như đom đóm. Họa tiết hình học chìm và viền vàng điểm xuyết hài hòa, toát lên bầu không khí tĩnh lặng của đêm hè giữa dáng vẻ phóng khoáng tự nhiên.",
+    "Icon": "UI_Beyd_Avatar_Boy_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280063,
+    "Name": "Ngoại Hình Nam - Quần Dài Mộng Hè Nhàn Nhã",
+    "Description": "Quần dài cắt may gọn gàng, tông màu xám tím tĩnh lặng như hoàng hôn, phần ống quần điểm xuyết họa tiết hình học chìm tinh tế, tựa như ánh sao lấp lánh trên bầu trời đêm mùa hè.",
+    "Icon": "UI_Beyd_Avatar_Boy_Bottom_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280064,
+    "Name": "Ngoại Hình Nam - Giày Mộng Hè Nhàn Nhã",
+    "Description": "Đôi giày được trang trí viền vàng, đơn giản mà không kém phần thanh lịch. Mỗi bước chân đều như để lại dấu ấn nhẹ nhàng trên thảm cỏ đầy ánh trăng.",
+    "Icon": "UI_Beyd_Avatar_Boy_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280065,
+    "Name": "Ngoại Hình Nam - Tóc Ngắn Mộng Hè Nhàn Nhã",
+    "Description": "Kiểu tóc ngắn mộng mơ, với màu trắng nhạt thanh bình làm chủ đạo, toát lên vẻ tinh tế trong sự tự nhiên, như ánh trăng dịu mát của đêm hè cùng ánh sáng lung linh của đom đóm dệt vào lọn tóc.",
+    "Icon": "UI_Beyd_Avatar_Boy_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280066,
+    "Name": "Ngoại Hình Nam - Mũ Mộng Hè Nhàn Nhã",
+    "Description": "Vành mũ được trang trí bằng ruy băng, trên đó điểm xuyết họa tiết cỏ ba lá, toát lên vẻ thanh lịch nhưng giản dị, rất hợp với tổng thể trang phục.",
+    "Icon": "UI_Beyd_Avatar_Boy_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280067,
+    "Name": "Ngoại Hình Nam - Đồng Hồ Mộng Hè Nhàn Nhã",
+    "Description": "Đồng hồ với thiết kế tối giản, viền mặt điểm xuyết những đường chỉ vàng mảnh, rất hợp với tổng thể trang phục, khiêm tốn mà không kém phần tinh tế.",
+    "Icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280068,
+    "Name": "Ngoại Hình Nam - Tất Ngắn Mộng Hè Nhàn Nhã",
+    "Description": "Tất ngắn màu nhạt, hòa hợp với phối màu tổng thể của trang phục, giản dị mà vẫn toát lên nét tinh nghịch, tựa như những cánh hoa khẽ rung rinh trong làn gió nhẹ giữa đêm hè.",
+    "Icon": "UI_Beyd_Avatar_Boy_LegAcc_S0143",
     "Type": 1,
     "RankLevel": 4
   }

@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "大祓之宣託",
+        "Description": "殺生櫻の継続時間が10秒延長される。付近にいるチーム内キャラクターが超電導または星電導反応を起こした後、次の殺生櫻の落雷が強化され、与えるダメージが八重神子の攻撃力の80%分アップする。この効果は2.5秒毎に最大1回のみ発動可能。\n<color=#FFD780FF>輝映・星電導</color>：上記効果により強化された落雷が敵に命中した後、さらに八重神子の攻撃力の200%分に相当する<color=#FFACFFFF>雷元素ダメージ</color>を追加で1回与える。このダメージは星電導反応ダメージと見なされる。\nまた、{LINK#N11330003}<color=#FFD780FF>極星フィールド</color>{/LINK}内にいる時、八重神子は<color=#FFD780FF>輝映・星電導</color>状態に入る。",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

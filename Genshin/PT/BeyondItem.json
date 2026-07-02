@@ -1128,6 +1128,38 @@
     "RankLevel": 5
   },
   {
+    "Id": 250473,
+    "Name": "Super Coração!",
+    "Description": "Mega Joinha!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 3
+  },
+  {
+    "Id": 250474,
+    "Name": "Hora da Raspadinha",
+    "Description": "Geladinho e Refrescante!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 4
+  },
+  {
+    "Id": 250475,
+    "Name": "Saúde!",
+    "Description": "Beba uma bebida gelada e refrescante!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
+    "Id": 250476,
+    "Name": "Bota pra dentro!",
+    "Description": "Se refresque com uma geladinha!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
     "Id": 251001,
     "Name": "Teatro dos Contos: Poema da Bruxa",
     "Description": "Certa vez conhecido por apresentar o \"Poema da Bruxa\", agora o teatro vira seus holofotes para uma nova geração de convidados.",
@@ -1192,6 +1224,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 251009,
+    "Name": "Ilha Isolada: Ondas Azuladas",
+    "Description": "A luz do sol aqui não serve para iluminar algo, mas para ser apreciada. As ondas aqui não são apenas azuis, mas formam um mar de pedras preciosas líquidas.",
+    "Icon": "UI_Beyd_HallThemeIcon_Xrht",
+    "Type": 10,
+    "RankLevel": 4
+  },
+  {
     "Id": 251201,
     "Name": "Teleporte Geral",
     "Description": "Chegar e partir graciosamente...",
@@ -1244,6 +1284,14 @@
     "Name": "Trilhas de Borboletas Rodopiantes",
     "Description": "Como uma fragrância visível...",
     "Icon": "UI_UGC_Transfer_BP_SuperRare_S0121",
+    "Type": 7,
+    "RankLevel": 4
+  },
+  {
+    "Id": 251208,
+    "Name": "Ondas Cintilantes",
+    "Description": "Flutuando com a brisa do mar e a espuma.",
+    "Icon": "UI_UGC_Transfer_BP_SuperRare_S0017",
     "Type": 7,
     "RankLevel": 4
   },
@@ -1536,6 +1584,38 @@
     "RankLevel": 4
   },
   {
+    "Id": 257037,
+    "Name": "Capa de Prova: Demônio Estelar Espiritual",
+    "Description": "Uma capa com a habilidade mágica de replicar visuais. Após usá-la, ela se transformará automaticamente na aparência do vestuário designado, a ponto de até acessórios e maquiagem serem replicados perfeitamente. Ao ser armazenada, dobra como uma carta, facilitando o armazenamento e identificação do cosmético.\nAo ser usada adequadamente, é um item conveniente para experimentar visuais.\nPode ser usada em 14 dias após obtida. O efeito de experimentação dura 1 dia após o uso. Esse item expirará no final do Passe Miliastra atual.\nA Capa de Prova só pode ser testada como conjunto; não pode ser dividida e combinada.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257038,
+    "Name": "Capa de Prova: Demônio Estelar Espiritual",
+    "Description": "Uma capa com a habilidade mágica de replicar visuais. Após usá-la, ela se transformará automaticamente na aparência do vestuário designado, a ponto de até acessórios e maquiagem serem replicados perfeitamente. Ao ser armazenada, dobra como uma carta, facilitando o armazenamento e identificação do cosmético.\nAo ser usada adequadamente, é um item conveniente para experimentar visuais.\nPode ser usada em 14 dias após obtida. O efeito de experimentação dura 1 dia após o uso. Esse item expirará no final do Passe Miliastra atual.\nA Capa de Prova só pode ser testada como conjunto; não pode ser dividida e combinada.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257039,
+    "Name": "Capa de Prova: Frescor Revigorante",
+    "Description": "Uma capa com a habilidade mágica de replicar visuais. Após usá-la, ela se transformará automaticamente na aparência do vestuário designado, a ponto de até acessórios e maquiagem serem replicados perfeitamente. Ao ser armazenada, dobra como uma carta, facilitando o armazenamento e identificação do cosmético.\nAo ser usada adequadamente, é um item conveniente para experimentar visuais.\nPode ser usada em 14 dias após obtida. O efeito de experimentação dura 1 dia após o uso. Esse item expirará no final do Passe Miliastra atual.\nA Capa de Prova só pode ser testada como conjunto; não pode ser dividida e combinada.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257040,
+    "Name": "Capa de Prova: Frescor Revigorante",
+    "Description": "Uma capa com a habilidade mágica de replicar visuais. Após usá-la, ela se transformará automaticamente na aparência do vestuário designado, a ponto de até acessórios e maquiagem serem replicados perfeitamente. Ao ser armazenada, dobra como uma carta, facilitando o armazenamento e identificação do cosmético.\nAo ser usada adequadamente, é um item conveniente para experimentar visuais.\nPode ser usada em 14 dias após obtida. O efeito de experimentação dura 1 dia após o uso. Esse item expirará no final do Passe Miliastra atual.\nA Capa de Prova só pode ser testada como conjunto; não pode ser dividida e combinada.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
     "Id": 258001,
     "Name": "Pacote de Vestuário: \"Passos de Dança Rodopiante\"",
     "Description": "Esse pacote inclui dois conjuntos Passos de Dança Rodopiante completos, um para o Manequim e outro para Manequina.\nComprá-lo concede o segundo conjunto com metade do preço se comparado a compra de cada conjunto separadamente!",
@@ -1652,6 +1732,38 @@
     "Name": "Pacote de Vestuário: Perseguição Verdejante",
     "Description": "Esse pacote inclui dois conjuntos completos de Perseguição Verdejante, um para o Manequim e outro para Manequina.\nComprá-lo concede o segundo conjunto com metade do preço se comparado à compra de cada conjunto separadamente!",
     "Icon": "UI_Beyd_Avatar_Optional_Suit_S0175",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258016,
+    "Name": "Pacote de Vestuário: Pintor Gestualista",
+    "Description": "Esse pacote inclui dois conjuntos completos de Pintor Gestualista, um para o Manequim e outro para Manequina.\nComprá-lo concede o segundo conjunto com metade do preço se comparado à compra de cada conjunto separadamente!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0132",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258017,
+    "Name": "Pacote de Vestuário: Demônio Estelar Espiritual",
+    "Description": "Esse pacote inclui dois conjuntos completos de Demônio Estelar Espiritual, um para o Manequim e outro para Manequina.\nComprá-lo concede o segundo conjunto com metade do preço se comparado à compra de cada conjunto separadamente!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0190",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258018,
+    "Name": "Pacote de Vestuário: Receita de Delícias ao Mel",
+    "Description": "Esse pacote inclui dois conjuntos completos de Receita de Delícias ao Mel, um para o Manequim e outro para Manequina.\nComprá-lo concede o segundo conjunto com metade do preço se comparado à compra de cada conjunto separadamente!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0174",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258019,
+    "Name": "Pacote de Vestuário: Tubarãozinho Preguiçoso",
+    "Description": "Esse pacote inclui dois conjuntos completos de Tubarãozinho Preguiçoso, um para o Manequim e outro para Manequina.\nComprá-lo concede o segundo conjunto com metade do preço se comparado à compra de cada conjunto separadamente!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0054",
     "Type": 16,
     "RankLevel": 3
   },
@@ -1897,6 +2009,46 @@
   },
   {
     "Id": 258531,
+    "Name": "Capa de Prova Aleatória: Vestuário Masculino",
+    "Description": "Uma capa com a habilidade mágica de replicar visuais. Após usá-la, ela se transformará automaticamente na aparência de um vestuário masculino aleatório, ao ponto de que até acessórios e maquiagem são replicados perfeitamente.\nAo ser usada adequadamente, é um item conveniente para experimentar visuais.\nPode ser usada em 14 dias após obtida. O efeito de experimentação dura 1 dia após o uso. Este item irá expirar no final do Passe Miliastra atual.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258532,
+    "Name": "Baú Miliastra: Excepcional",
+    "Description": "Uma caixa de presente contendo vestuários requintados. Use para selecionar um dos Vestuários nela.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0146",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258533,
+    "Name": "Baú Miliastra: Excepcional",
+    "Description": "Uma caixa de presente contendo vestuários requintados. Use para selecionar um dos Vestuários nela.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0147",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258534,
+    "Name": "Baú Miliastra: Elite",
+    "Description": "Uma caixa de presente contendo vestuários requintados. Use para selecionar um dos Vestuários nela.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0191",
+    "Type": 14,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258535,
+    "Name": "Capa de Prova Aleatória: Vestuário Feminino",
+    "Description": "Uma capa com a habilidade mágica de replicar visuais. Após usá-la, ela se transformará automaticamente na aparência de um vestuário feminino aleatório, ao ponto de que até acessórios e maquiagem são replicados perfeitamente.\nAo ser usada adequadamente, é um item conveniente para experimentar visuais.\nPode ser usada em 14 dias após obtida. O efeito de experimentação dura 1 dia após o uso. Este item irá expirar no final do Passe Miliastra atual.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258536,
     "Name": "Capa de Prova Aleatória: Vestuário Masculino",
     "Description": "Uma capa com a habilidade mágica de replicar visuais. Após usá-la, ela se transformará automaticamente na aparência de um vestuário masculino aleatório, ao ponto de que até acessórios e maquiagem são replicados perfeitamente.\nAo ser usada adequadamente, é um item conveniente para experimentar visuais.\nPode ser usada em 14 dias após obtida. O efeito de experimentação dura 1 dia após o uso. Este item irá expirar no final do Passe Miliastra atual.",
     "Icon": "UI_ItemIcon_BydBox_4",
@@ -6864,6 +7016,174 @@
     "RankLevel": 4
   },
   {
+    "Id": 264267,
+    "Name": "Vestuário Comum: Doutor Esguicho",
+    "Description": "Um acessório de cabeça cheio de devaneios. Coloque ele para sua cabeça se transformar no pedestal de uma baleinha que acabou de sair da água para respirar. Quem sabe, talvez você tenha um súbito esguicho de inspiração enquanto anda por aí com essa adorável companheira!",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_P0450",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262673,
+    "Name": "Sobrancelhas Comuns: Salgueiro ao Vento: Rosa Leve",
+    "Description": "Sobrancelhas rosa claro dos salgueiros chorões. Suas linhas natural dão um toque leve e gentil ao portador.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0039",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262674,
+    "Name": "Sobrancelhas Comuns: Salgueiro ao Vento: Lilás",
+    "Description": "Sobrancelhas lilás dos salgueiros chorões. Suas linhas natural dão um toque leve e gentil ao portador.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0040",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262675,
+    "Name": "Sobrancelhas Comuns: Bambu Brotador: Rosa Claro",
+    "Description": "Sobrancelhas rosa claro que lembram brotos de bambu que acabaram de sair do solo. Suas linhas fortes e poderosas dão um toque enérgico ao portador.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0041",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262676,
+    "Name": "Sobrancelhas Comuns: Bambu Brotador: Lilás",
+    "Description": "Sobrancelhas lilás que lembram brotos de bambu que acabaram de sair do solo. Suas linhas fortes e poderosas dão um toque enérgico ao portador.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0042",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262677,
+    "Name": "Sobrancelhas Comuns: Penhasco Sublime",
+    "Description": "Sobrancelhas finas com um toque afiado e determinado, reluzindo com charme que vem do conhecimento da própria liberdade.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0280",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262678,
+    "Name": "Sobrancelhas Comuns: Neblina Vagante",
+    "Description": "Sobrancelhas com um arco gracioso que dá ao portador um charme fresco e sutil.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0281",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262999,
+    "Name": "Formato de Olho Feminino: Rompe-Alvorada",
+    "Description": "Formato de olho feminino, reservado, porém astuto, como uma lâmina trazendo o alvorecer no escuro.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0054",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263000,
+    "Name": "Formato de Olho Feminino: Céu Ensolarado",
+    "Description": "Formato de olho feminino, radiante e espirituoso como o sol brilhante num céu limpo.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0056",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263001,
+    "Name": "Formato de Olho Masculino: Bosque Congelado",
+    "Description": "Formato de olho masculino, solitário e reservado como bosques orgulhosos em noites de inverno.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0268",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263002,
+    "Name": "Formato de Olho Masculino: Brilho Rosado",
+    "Description": "Formato de olho masculino, gracioso e radiante como raios de luz iridescente.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0271",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263014,
+    "Name": "Formato de Olho Masculino: Brilho Dourado",
+    "Description": "Formato de olho masculino, cheio de confiança e vigor. Suas linhas e cores evocam a luz dançante nas ondas do crepúsculo.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263015,
+    "Name": "Formato de Olho Feminino: Brilho Dourado",
+    "Description": "Formato de olho feminino, cheio de confiança e vigor. Suas linhas e cores evocam a luz dançante nas ondas do crepúsculo.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263016,
+    "Name": "Formato de Olho Masculino: Brilho Dourado: Noite Pintada",
+    "Description": "Um formato de olho masculino, cheio de sofisticação e graciosidade. Suas linhas e cores evocam a luz dançante de ondas ametistas durante o crepúsculo.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263017,
+    "Name": "Formato de Olho Feminino: Brilho Dourado: Noite Pintada",
+    "Description": "Um formato de olho feminino, cheio de sofisticação e graciosidade. Suas linhas e cores evocam a luz dançante de ondas ametistas durante o crepúsculo.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263298,
+    "Name": "Íris Comum: Conchas Peroladas: Laranja Brilhante",
+    "Description": "Lentes de contato coloridas que lembram um par de conchas banhadas na luz da alvorada.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0064",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263263,
+    "Name": "Íris Comum: Conchas Peroladas: Rosa Claro",
+    "Description": "Lentes de contato coloridas que lembram um par de conchas banhadas no crepúsculo rosa.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0067",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263305,
+    "Name": "Íris Comum: Cores do Mar: Ondas de Jade",
+    "Description": "Lentes de contato coloridas, serenas e profundas como o mar. Contenha esse olhar severo com  essas lentas enquanto você aproveita a felicidade de suas férias.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0466",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263307,
+    "Name": "Íris Comum: Cores do Mar: Rivalidade Roxa",
+    "Description": "Lentes de contato coloridas, serenas e profundas como o mar. Contenha esse olhar severo com  essas lentas enquanto você aproveita a felicidade de suas férias.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0467",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263932,
+    "Name": "Maquiagem Facial Comum: Listras Furiosas",
+    "Description": "Um estilo de maquiagem ensolarado que recria perfeitamente o bronzeado obtido após um dia sob o sol intenso. Essa é uma aparência suntuosa e atraente, assim como a malha de um leopardo.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0482",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263947,
+    "Name": "Maquiagem Facial Comum: Rosa Ocular: Pétalas Caindo",
+    "Description": "Estilo de maquiagem que funciona nas pálpebras inferiores para \"abrir\" visualmente os olhos e dar ao usuário um charme ainda mais cativante.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0493",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
     "Id": 265001,
     "Name": "Vestuário Feminino: Desfile",
     "Description": "Conjunto de Desfile. Quando os sinos das festividades soam, vista esta roupa extravagante e torne-se a estrela mais deslumbrante do desfile. Com lanternas para guiar o caminho e abóboras como companheiras, aproveite ao máximo dessa noite de alegria e júbilo.",
@@ -8284,6 +8604,214 @@
     "Name": "Vestuário Masculino: Resplendor da Borboleta: Névoa Índigo",
     "Description": "Versão melhorada do conjunto Resplendor da Borboleta. Entre pairar no índigo como um véu de névoa, move-se no ritmo da melodia da fala de uma flor, tornando-se um com a vontade da natureza e continuando a melodia eterna da vida.\nEnquanto os dois acadêmicos dançavam com passos sinceros, a Cerimônia do Sussurro das Flores alcançou seu momento crucial. O mar central de flores parecia responder aos chamados, como se uma camada após a outra de luz discreta surgisse como ondas. Então, entre a névoa, como gemas em pó, as silhuetas de um jovem garoto e uma jovem garota lentamente surgiram. Usavam roupas formais do mesmo estilo que os acadêmicos, e suas faces eram as mesmas dos dois acadêmicos na juventude, como se o tempo tivesse voltado atrás... Os tons índigo de suas roupas revelavam suas identidades: encarnações da vontade do planeta. Gentilmente, deram boas-vindas aos dois acadêmicos e os levaram para as profundezas do mar de flores, onde lentamente desapareceram de vista...\nFoi só aí que se tornou claro que o planeta havia testemunhado os esforços de seu povo ao longo dos séculos. No final, escolheu a imagem desses dois acadêmicos para formar seus Emissários e se comunicar com a humanidade.\nQuando Octavia partiu, a história desses dois acadêmicos e dos Emissários já havia se tornado um conto amado em todas as casas. O planeta continuou seu próprio caminho, desenvolvendo-se de um jeito saudável e próspero, e parecia determinado a suportar essa terrível calamidade...",
     "Icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265338,
+    "Name": "Vestuário Feminino: Viajante das Terras Ermas",
+    "Description": "Conjunto de Viajante das Terras Ermas. São roupas de alta qualidade, e feitas de tecido resistente. Com elas, explorar o deserto é como caminhar por uma planície.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265339,
+    "Name": "Vestuário Masculino: Viajante das Terras Ermas",
+    "Description": "Conjunto de Viajante das Terras Ermas. São roupas de alta qualidade, e feitas de tecido resistente. Com elas, explorar o deserto é como caminhar por uma planície.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265419,
+    "Name": "Vestuário Feminino: Receita de Delícias ao Mel",
+    "Description": "O conjunto de Receita de Delícias ao Mel. É um vestuário culinário com um estilo distinto, claramente redefinido seu prato especial em um chapéu de chef. Deixa toda lanchonete com uma primeira impressão que é tão doce como mel.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265420,
+    "Name": "Vestuário Masculino: Receita de Delícias ao Mel",
+    "Description": "O conjunto de Receita de Delícias ao Mel. É um vestuário culinário com um estilo distinto, claramente redefinido seu prato especial em um chapéu de chef. Deixa toda lanchonete com uma primeira impressão que é tão doce como mel.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265340,
+    "Name": "Vestuário Feminino: Visitante do Mar Crepuscular",
+    "Description": "Conjunto de Visitante do Mar Crepuscular. Feito com tintas que capturam os tons do mar crepuscular, essa roupa está imbuída de um brilho profundo e cativante. Ao usá-la, você erguerá-se destemidamente perante as mais tempestuosas tempestades.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265341,
+    "Name": "Vestuário Masculino: Visitante do Mar Crepuscular",
+    "Description": "Conjunto de Visitante do Mar Crepuscular. Feito com tintas que capturam os tons do mar crepuscular, essa roupa está imbuída de um brilho profundo e cativante. Ao usá-la, você erguerá-se destemidamente perante as mais tempestuosas tempestades.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265342,
+    "Name": "Vestuário Feminino: Tubarãozinho Preguiçoso",
+    "Description": "Conjunto do Tubarãozinho Preguiçoso. Modelado com base em um tubarão que nada lentamente e dócil, essa roupa captura perfeitamente sua vibe preguiçosa. Em certos planetas com ecossistemas marinhos prósperos, dizem que esses gigantes de aparência feroz são tranquilos, sendo bem populares entre os habitantes locais.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265343,
+    "Name": "Vestuário Masculino: Tubarãozinho Preguiçoso",
+    "Description": "Conjunto do Tubarãozinho Preguiçoso. Modelado com base em um tubarão que nada lentamente e dócil, essa roupa captura perfeitamente sua vibe preguiçosa. Em certos planetas com ecossistemas marinhos prósperos, dizem que esses gigantes de aparência feroz são tranquilos, sendo bem populares entre os habitantes locais.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265320,
+    "Name": "Vestuário Feminino: Brisa da Sorte",
+    "Description": "Conjunto da Brisa da Sorte. Com a cor verde folha fresca de tom principal, essa roupa é feita de materiais macios e confortáveis na pele. Destacada com estampas de trevos, faz você sentir como se uma gentil brisa da sorte sempre estivesse ao seu lado.\n\nNem todo Sussurrante das Flores do 311º planeta realizava o método de cultivação conhecido como Jardins Eternos, uma prática feita para manter as plantas perpetuamente em seu estado perfeito de crescimento. Esses renegados moderados acreditavam firmemente que a vontade do planeta não podia ser calculada ou produzida em massa numa estufa. Ao invés disso, a brisa sortuda da abundância apenas aparecia espontaneamente nos cantos ignorados da natureza. E para buscarem esse presente dela, suas roupas evoluíram para um estilo funcional feito para longas jornadas. A flora que eles cuidam não são as flores glamorosas que se destacam sob os holofotes, mas as gramas baixas de todo canto, em um ciclo infinito de vida. Por reconhecer e respeitar sua filosofia, Octavia recriou fielmente suas roupas nesse design...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265321,
+    "Name": "Vestuário Masculino: Brisa da Sorte",
+    "Description": "Conjunto da Brisa da Sorte. Com a cor verde folha fresca de tom principal, essa roupa é feita de materiais macios e confortáveis na pele. Destacada com estampas de trevos, faz você sentir como se uma gentil brisa da sorte sempre estivesse ao seu lado.\n\nNem todo Sussurrante das Flores do 311º planeta realizava o método de cultivação conhecido como Jardins Eternos, uma prática feita para manter as plantas perpetuamente em seu estado perfeito de crescimento. Esses renegados moderados acreditavam firmemente que a vontade do planeta não podia ser calculada ou produzida em massa numa estufa. Ao invés disso, a brisa sortuda da abundância apenas aparecia espontaneamente nos cantos ignorados da natureza. E para buscarem esse presente dela, suas roupas evoluíram para um estilo funcional feito para longas jornadas. A flora que eles cuidam não são as flores glamorosas que se destacam sob os holofotes, mas as gramas baixas de todo canto, em um ciclo infinito de vida. Por reconhecer e respeitar sua filosofia, Octavia recriou fielmente suas roupas nesse design...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265344,
+    "Name": "Vestuário Feminino: Sonho Tranquilo de Verão",
+    "Description": "Conjunto do Sonho Tranquilo de Verão. Uma roupa formal de verão carregando um ar de contemplação silenciosa. Com um design casual e lânguido tecido entre tons violetas misteriosas, captura belamente a magia encantadora do sono do meio de verão.\n\nQuando a luz das estrelas encontra o luar numa noite de verão no 311º planeta, os Sussurrantes das Flores convergem no coração da selva para o Banquete dos Vaga-lumes. Livres de qualquer parede, participam dessa celebração apenas as gramas, vaga-lumes dançantes e correntes murmurantes. Para elas, a verdadeira abundância é um esplendor que floresce apenas para o pulsar da natureza, assim como o véu de uma bainha se revela uma camada após a outra com um giro, ou uma flor gentilmente respirando sob o luar. E para imortalizar uma celebração apenas para as almas não domesticadas, Octavia capturou o crepúsculo e o orvalho da manhã, tecendo-os diretamente nas dobras do tecido. A cascata violeta e branco do véu evoca um céu a medida que a escuridão cai, decorado com estampas que lembram ondas entre campos de flores balançados pelo vento da meia-noite. Ao vesti-lo, você transcende de um simples observador para a estrela do baile. No meio dessa mistura de brisa e fragrância, você dançará junto com as estrelas e perseguirá o devaneio etéreo nascido da pura liberdade e imaginação.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265345,
+    "Name": "Vestuário Masculino: Sonho Tranquilo de Verão",
+    "Description": "Conjunto do Sonho Tranquilo de Verão. Uma roupa formal de verão carregando um ar de contemplação silenciosa. Com um design casual e lânguido tecido entre tons violetas misteriosas, captura belamente a magia encantadora do sono do meio de verão.\n\nQuando a luz das estrelas encontra o luar numa noite de verão no 311º planeta, os Sussurrantes das Flores convergem no coração da selva para o Banquete dos Vaga-lumes. Livres de qualquer parede, participam dessa celebração apenas as gramas, vaga-lumes dançantes e correntes murmurantes. Para elas, a verdadeira abundância é um esplendor que floresce apenas para o pulsar da natureza, assim como o véu de uma bainha se revela uma camada após a outra com um giro, ou uma flor gentilmente respirando sob o luar. E para imortalizar uma celebração apenas para as almas não domesticadas, Octavia capturou o crepúsculo e o orvalho da manhã, tecendo-os diretamente nas dobras do tecido. A cascata violeta e branco do véu evoca um céu a medida que a escuridão cai, decorado com estampas que lembram ondas entre campos de flores balançados pelo vento da meia-noite. Ao vesti-lo, você transcende de um simples observador para a estrela do baile. No meio dessa mistura de brisa e fragrância, você dançará junto com as estrelas e perseguirá o devaneio etéreo nascido da pura liberdade e imaginação.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265437,
+    "Name": "Vestuário Feminino: Frescor Revigorante",
+    "Description": "Conjunto de Frescor Revigorante. É uma roupa casual e de cortes finos de verão. Seu azul-claro vibrante parece uma mordida refrescante de raspadinha doce, derretendo instantaneamente o calor assim que você a veste.\n\nQuando se trata da maior ameaça a férias de verão na praia, até mesmo Octavia, a bruxa capaz de voar entre as estrelas, daria a mesma resposta para qualquer mortal ordinário: o calor insuportável. É por isso que os habitantes do Planeta Oceano N.º 503, que estão sempre sofrendo com um calor infernal, fizeram lanches gelados sua maior prioridade. Mesmo no meio do verão, realizam um Festival da Bebida Gelada, reunindo os mestres de sobremesas frias do universo para lutarem em um grande torneio pelo trono do Rei do Verão. Sobre a cabeça do campeão estava o prêmio: uma coroa majestosa decorada com um pudim feito de gelo. Como uma viajante que passava pela região, e também apreciadora de festividades, Octavia deu ao vencedor um presente que combinava perfeitamente com uma bruxa: uma magia refrescante. Isso transformou a coroa em uma raspadinha que nunca derretia, absorvendo o calor próximo continuamente, dando uma refrescância profunda para todos por perto.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265438,
+    "Name": "Vestuário Masculino: Frescor Revigorante",
+    "Description": "Conjunto de Frescor Revigorante. É uma roupa casual e de cortes finos de verão. Seu azul-claro vibrante parece uma mordida refrescante de raspadinha doce, derretendo instantaneamente o calor assim que você a veste.\n\nQuando se trata da maior ameaça a férias de verão na praia, até mesmo Octavia, a bruxa capaz de voar entre as estrelas, daria a mesma resposta para qualquer mortal ordinário: o calor insuportável. É por isso que os habitantes do Planeta Oceano N.º 503, que estão sempre sofrendo com um calor infernal, fizeram lanches gelados sua maior prioridade. Mesmo no meio do verão, realizam um Festival da Bebida Gelada, reunindo os mestres de sobremesas frias do universo para lutarem em um grande torneio pelo trono do Rei do Verão. Sobre a cabeça do campeão estava o prêmio: uma coroa majestosa decorada com um pudim feito de gelo. Como uma viajante que passava pela região, e também apreciadora de festividades, Octavia deu ao vencedor um presente que combinava perfeitamente com uma bruxa: uma magia refrescante. Isso transformou a coroa em uma raspadinha que nunca derretia, absorvendo o calor próximo continuamente, dando uma refrescância profunda para todos por perto.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265348,
+    "Name": "Vestuário Feminino: Limonada Salgada",
+    "Description": "Conjunto de Limonada Salgada. Uma roupa de férias na praia que exala uma energia legal e vibrante. Feita de tecido leve e respirável, suas cores brilhantes e marcantes parecem um gole rejuvenescedor de limonada salgada gelada. Vista isso, e você poderá facilmente saciar a sede do calor do verão com sua vitalidade entre o sol e o surfe.\n\nPara o perpetuamente quente Planeta Oceânico (Planeta 503), Octavia não era só a única novata na praia, ela trouxe consigo uma fruta oval, amarela e azeda conhecida como limão. Verdade seja dita, Octavia não era fã de limões, e achava o gosto deles desagradável. Mas para afastar certas doenças durante suas viagens longas pelas estrelas, ela engoliu seu orgulho junto com a fruta ao colocá-la na mochila.\nDepois de uma árdua jornada através de quinhentos planetas, Octavia havia se esquecido dos limões em sua mochila. Mas quando tentou pedir uma bebida de limão salgada na lanchonete do Planeta Oceânico, descobriu que os habitantes locais não tinham ideia do que um limão era, já que a fruta só cresce em climas temperados. Nesse momento, sua memória veio à tona. No final, uma bebida de limão gelado salgada era a cura perfeita para o calor brutal. Os habitantes locais imploraram, e Octavia deu generosamente todos os seus limões para que eles pudessem plantá-los. Mas como ela não tinha interesse em agir como uma deusa, rejeitou o título de Deusa do Limão. Ao invés disso, recebeu só essa roupa de presente dos habitantes, guardando como uma lembrança de suas férias alienígenas.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265349,
+    "Name": "Vestuário Masculino: Limonada Salgada",
+    "Description": "Conjunto de Limonada Salgada. Uma roupa de férias na praia que exala uma energia legal e vibrante. Feita de tecido leve e respirável, suas cores brilhantes e marcantes parecem um gole rejuvenescedor de limonada salgada gelada. Vista isso, e você poderá facilmente saciar a sede do calor do verão com sua vitalidade entre o sol e o surfe.\n\nPara o perpetuamente quente Planeta Oceânico (Planeta 503), Octavia não era só a única novata na praia, ela trouxe consigo uma fruta oval, amarela e azeda conhecida como limão. Verdade seja dita, Octavia não era fã de limões, e achava o gosto deles desagradável. Mas para afastar certas doenças durante suas viagens longas pelas estrelas, ela engoliu seu orgulho junto com a fruta ao colocá-la na mochila.\nDepois de uma árdua jornada através de quinhentos planetas, Octavia havia se esquecido dos limões em sua mochila. Mas quando tentou pedir uma bebida de limão salgada na lanchonete do Planeta Oceânico, descobriu que os habitantes locais não tinham ideia do que um limão era, já que a fruta só cresce em climas temperados. Nesse momento, sua memória veio à tona. No final, uma bebida de limão gelado salgada era a cura perfeita para o calor brutal. Os habitantes locais imploraram, e Octavia deu generosamente todos os seus limões para que eles pudessem plantá-los. Mas como ela não tinha interesse em agir como uma deusa, rejeitou o título de Deusa do Limão. Ao invés disso, recebeu só essa roupa de presente dos habitantes, guardando como uma lembrança de suas férias alienígenas.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265350,
+    "Name": "Vestuário Feminino: Rei dos Dentes Afiados",
+    "Description": "Conjunto de Rei dos Dentes Afiados. É uma roupa atlética e casual que exala uma paixão sobrepujante. Concede a você uma postura imponente de autoridade suprema, abastecida pelo poder de presas e garras que dominam o reino. Ponha esse poder revoltoso em seu equipamento, e destrua qualquer barreira na sua frente!\n\nMuito antes de Octavia ter pisado no Planeta 67, esse planeta distante era antes conhecido como reino dos dragões. Ainda assim, esses colossais nunca evoluíram ao nível de inteligência avançada de seus familiares em Teyvat. Quando finalmente pereceram com o tempo, deixaram nada para trás, exceto fósseis monumentais para exploradores. Eram maiores que qualquer criatura viva, tanto em seu tamanho como ferocidade, e assim, esses fósseis acenderam uma fascinação infinita com o mundo primitivo da vida selvagem, abrindo o caminho para um gênero de arte que apenas retratava gigantes. Hoje, a presença desses lordes antigos já foi reimaginada por artes como um ícone moderno, ecoando silenciosamente seu espírito feroz e inabalável.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265351,
+    "Name": "Vestuário Masculino: Rei dos Dentes Afiados",
+    "Description": "Conjunto de Rei dos Dentes Afiados. É uma roupa atlética e casual que exala uma paixão sobrepujante. Concede a você uma postura imponente de autoridade suprema, abastecida pelo poder de presas e garras que dominam o reino. Ponha esse poder revoltoso em seu equipamento, e destrua qualquer barreira na sua frente!\n\nMuito antes de Octavia ter pisado no Planeta 67, esse planeta distante era antes conhecido como reino dos dragões. Ainda assim, esses colossais nunca evoluíram ao nível de inteligência avançada de seus familiares em Teyvat. Quando finalmente pereceram com o tempo, deixaram nada para trás, exceto fósseis monumentais para exploradores. Eram maiores que qualquer criatura viva, tanto em seu tamanho como ferocidade, e assim, esses fósseis acenderam uma fascinação infinita com o mundo primitivo da vida selvagem, abrindo o caminho para um gênero de arte que apenas retratava gigantes. Hoje, a presença desses lordes antigos já foi reimaginada por artes como um ícone moderno, ecoando silenciosamente seu espírito feroz e inabalável.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265415,
+    "Name": "Vestuário Feminino: Demônio Estelar Espiritual",
+    "Description": "Conjunto Demônio Estelar Espiritual. No 777º planeta, onde a magia é a essência da existência, magos capazes de selar fragmentos das estrelas, e empunharem poeira cósmica são excepcionalmente raros. Essa magia antiga demanda não só um talento prodígio, como também uma vida de devoção para a erudição. Os perigos que vêm com isso são igualmente imensos. Um único passo em falso pode causar um catástrofe mágica. Por isso, aqueles que dominam esse ramo são quase sempre acadêmicos veneráveis com séculos de pesquisa arcana.\nA medida que Paimon revirava os registros do planeta 777, ela não conseguia suspirar de choque. \"Centenas de anos... e esses acadêmicos ainda não estão perto dos pés de Citlali?\"\n\"Mas, pra ser franca, como a Vovó Itztli tem Citlalin e Itzpapa ajudando, esses acadêmicos nunca conseguiriam acompanhar ela!\"\n\"Como se estivesse respondendo às palavras de Paimon, o Arcanum reagiu. As duas roupas simples originais começaram a evoluir, passando a tomarem as características distintas de Citlalin e Itzpapa das memórias de Paimon...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265416,
+    "Name": "Vestuário Masculino: Demônio Estelar Espiritual",
+    "Description": "Conjunto Demônio Estelar Espiritual. No 777º planeta, onde a magia é a essência da existência, magos capazes de selar fragmentos das estrelas, e empunharem poeira cósmica são excepcionalmente raros. Essa magia antiga demanda não só um talento prodígio, como também uma vida de devoção para a erudição. Os perigos que vêm com isso são igualmente imensos. Um único passo em falso pode causar um catástrofe mágica. Por isso, aqueles que dominam esse ramo são quase sempre acadêmicos veneráveis com séculos de pesquisa arcana.\nA medida que Paimon revirava os registros do planeta 777, ela não conseguia suspirar de choque. \"Centenas de anos... e esses acadêmicos ainda não estão perto dos pés de Citlali?\"\n\"Mas, pra ser franca, como a Vovó Itztli tem Citlalin e Itzpapa ajudando, esses acadêmicos nunca conseguiriam acompanhar ela!\"\n\"Como se estivesse respondendo às palavras de Paimon, o Arcanum reagiu. As duas roupas simples originais começaram a evoluir, passando a tomarem as características distintas de Citlalin e Itzpapa das memórias de Paimon...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265356,
+    "Name": "Vestuário Feminino: Manchas da Pradaria",
+    "Description": "O conjunto de Manchas da Pradaria. É uma roupa casual que exala energia não domesticada. Seu design é inspirado em felinos magros e rápidos que correm pela savana. Irradiando uma sensação descontraída e selvageria distinta, esse visual dá uma confiança radiante a quem o vestir.\n\nAproveitar a evolução pacífica e natural dentro de um universo repleto de perigos é pura sorte, especialmente para um mundo primitivo como o Planeta 206, que está totalmente alheio à existência do cosmos. Como sua primeira visitante do espaço, Octavia se preocupava com sua segurança. Depois de muita consideração, ela falou com o Planeta Academia (Planeta 93), confiando que esse planeta neutro fosse o guardião silencioso desse reino primitivo, observando de longe a medida que a jovem civilização gradualmente crescesse. Entretanto, para surpresa dessa bruxa, muito antes da sociedade do Planeta 93 poder ter a chance de deixar sua marca nessa terra selvagem, a energia crua e primitiva do Planeta 206 chegou ao mundo fashion do Planeta Academia. Para uma juventude que há muito estava confinada às suas torres de marfim de aprendizado eterno, essa estética \"selvagem\" de roupas era de tirar o fôlego. Pouco depois, uma moda massiva celebrando a natureza e energia selvagem tomou as escolas. E para marcar essa nota histórica divertida, Octavia registrou os visuais mais marcantes da época...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265357,
+    "Name": "Vestuário Masculino: Manchas da Pradaria",
+    "Description": "O conjunto de Manchas da Pradaria. É uma roupa casual que exala energia não domesticada. Seu design é inspirado em felinos magros e rápidos que correm pela savana. Irradiando uma sensação descontraída e selvageria distinta, esse visual dá uma confiança radiante a quem o vestir.\n\nAproveitar a evolução pacífica e natural dentro de um universo repleto de perigos é pura sorte, especialmente para um mundo primitivo como o Planeta 206, que está totalmente alheio à existência do cosmos. Como sua primeira visitante do espaço, Octavia se preocupava com sua segurança. Depois de muita consideração, ela falou com o Planeta Academia (Planeta 93), confiando que esse planeta neutro fosse o guardião silencioso desse reino primitivo, observando de longe a medida que a jovem civilização gradualmente crescesse. Entretanto, para surpresa dessa bruxa, muito antes da sociedade do Planeta 93 poder ter a chance de deixar sua marca nessa terra selvagem, a energia crua e primitiva do Planeta 206 chegou ao mundo fashion do Planeta Academia. Para uma juventude que há muito estava confinada às suas torres de marfim de aprendizado eterno, essa estética \"selvagem\" de roupas era de tirar o fôlego. Pouco depois, uma moda massiva celebrando a natureza e energia selvagem tomou as escolas. E para marcar essa nota histórica divertida, Octavia registrou os visuais mais marcantes da época...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265358,
+    "Name": "Vestuário Feminino: Mar do Destino Colorido",
+    "Description": "Conjunto de Mar do Destino Colorido. Um conjunto de roupas de combate no verão, repleto de exuberância, alegria e vitalidade infinita. No calor infernal do verão, não há momento melhor para se livrar da exaustão. Se vista para se proteger do sol, pegue sua pistola d'água, e lute numa guerra contra todas as suas preocupações nessas margens do feriado!\n\nInformada pela estética do Pintor Gestualista, os habitantes do Mundo Oceânico (Planeta 503) adotaram um ritual de guerra único para remoldarem suas conexões consigo mesmos e com a comunidade. É por isso que as praias do feriado sempre estão repletas de jovens com roupas de combate, rompendo as ondas do oceano e pondo seu suor e paixão no calor do verão. Ainda assim, os que deixaram a marca mais profunda em Octavia eram um garoto e garota normais. Não eram muito dotados fisicamente, nem tinham nenhum equipamento avançado. Na verdade, para alguém como Octavia, com suas fantásticas habilidades de combate, seus movimentos lentos pareciam como tinta lentamente se dissolvendo na água. Ainda assim, essas cores estavam repletas de uma brilhante força vital, ao ponto de ser impossível desviar o olhar delas, dando um deleite genuíno. Talvez fosse assim que a juventude devesse se parecer, talvez esse fosse o propósito original desse ritual de guerra. Comovida por isso, Octavia fez essa roupa para o par, esperando que isso preservasse esse espírito vibrante e energia jovial por muito tempo.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265359,
+    "Name": "Vestuário Masculino: Mar do Destino Colorido",
+    "Description": "Conjunto de Mar do Destino Colorido. Um conjunto de roupas de combate no verão, repleto de exuberância, alegria e vitalidade infinita. No calor infernal do verão, não há momento melhor para se livrar da exaustão. Se vista para se proteger do sol, pegue sua pistola d'água, e lute numa guerra contra todas as suas preocupações nessas margens do feriado!\n\nInformada pela estética do Pintor Gestualista, os habitantes do Mundo Oceânico (Planeta 503) adotaram um ritual de guerra único para remoldarem suas conexões consigo mesmos e com a comunidade. É por isso que as praias do feriado sempre estão repletas de jovens com roupas de combate, rompendo as ondas do oceano e pondo seu suor e paixão no calor do verão. Ainda assim, os que deixaram a marca mais profunda em Octavia eram um garoto e garota normais. Não eram muito dotados fisicamente, nem tinham nenhum equipamento avançado. Na verdade, para alguém como Octavia, com suas fantásticas habilidades de combate, seus movimentos lentos pareciam como tinta lentamente se dissolvendo na água. Ainda assim, essas cores estavam repletas de uma brilhante força vital, ao ponto de ser impossível desviar o olhar delas, dando um deleite genuíno. Talvez fosse assim que a juventude devesse se parecer, talvez esse fosse o propósito original desse ritual de guerra. Comovida por isso, Octavia fez essa roupa para o par, esperando que isso preservasse esse espírito vibrante e energia jovial por muito tempo.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265360,
+    "Name": "Vestuário Feminino: Mar do Destino Colorido: Noite Pintada",
+    "Description": "Versão ascendida do conjunto Mar do Destino Colorido. Suas cores se transformaram em tons oníricos do crepúsculo. Agora que a cortina da noite caiu, trate essa escuridão profunda como sua tela perfeita. Segure firme sua pistola d'água, dispare com alegria e pinte um espetáculo de uma noite de verão único!\n\nInformada pela estética do Pintor Gestualista, os habitantes do Mundo Oceânico (Planeta 503) adotaram um ritual de guerra único para remoldarem suas conexões consigo mesmos e com a comunidade. É por isso que as praias do feriado sempre estão repletas de jovens com roupas de combate, rompendo as ondas do oceano e pondo seu suor e paixão no calor do verão. Ainda assim, os que deixaram a marca mais profunda em Octavia eram um garoto e garota normais. Não eram muito dotados fisicamente, nem tinham nenhum equipamento avançado. Na verdade, para alguém como Octavia, com suas fantásticas habilidades de combate, seus movimentos lentos pareciam como tinta lentamente se dissolvendo na água. Ainda assim, essas cores estavam repletas de uma brilhante força vital, ao ponto de ser impossível desviar o olhar delas, dando um deleite genuíno. Talvez fosse assim que a juventude devesse se parecer, talvez esse fosse o propósito original desse ritual de guerra. Comovida por isso, Octavia fez essa roupa para o par, esperando que isso preservasse esse espírito vibrante e energia jovial por muito tempo.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0018",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265361,
+    "Name": "Vestuário Masculino: Mar do Destino Colorido: Noite Pintada",
+    "Description": "Versão ascendida do conjunto Mar do Destino Colorido. Suas cores se transformaram em tons oníricos do crepúsculo. Agora que a cortina da noite caiu, trate essa escuridão profunda como sua tela perfeita. Segure firme sua pistola d'água, dispare com alegria e pinte um espetáculo de uma noite de verão único!\n\nInformada pela estética do Pintor Gestualista, os habitantes do Mundo Oceânico (Planeta 503) adotaram um ritual de guerra único para remoldarem suas conexões consigo mesmos e com a comunidade. É por isso que as praias do feriado sempre estão repletas de jovens com roupas de combate, rompendo as ondas do oceano e pondo seu suor e paixão no calor do verão. Ainda assim, os que deixaram a marca mais profunda em Octavia eram um garoto e garota normais. Não eram muito dotados fisicamente, nem tinham nenhum equipamento avançado. Na verdade, para alguém como Octavia, com suas fantásticas habilidades de combate, seus movimentos lentos pareciam como tinta lentamente se dissolvendo na água. Ainda assim, essas cores estavam repletas de uma brilhante força vital, ao ponto de ser impossível desviar o olhar delas, dando um deleite genuíno. Talvez fosse assim que a juventude devesse se parecer, talvez esse fosse o propósito original desse ritual de guerra. Comovida por isso, Octavia fez essa roupa para o par, esperando que isso preservasse esse espírito vibrante e energia jovial por muito tempo.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0018",
     "Type": 2,
     "RankLevel": 5
   },
@@ -11024,6 +11552,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 275348,
+    "Name": "Catálogo de Conjuntos: Limonada Salgada",
+    "Description": "Um cristal formado por eventos arcanos. Contém informações sobre o vestuário \"Limonada Salgada\". Quando o vestuário reaparecer, você poderá escolher o modelo correspondente ao Manequim ou Manequina.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
+    "Type": 3,
+    "RankLevel": 4
+  },
+  {
     "Id": 280001,
     "Name": "Vestuário Feminino: Vestido da Elegância Clássica",
     "Description": "Um vestido elegante e refinado com uma saia graciosa e lenço de pescoço de cetim, dando uma aparência digna e ordenada. O charme de um mordomo está no senso de dever disciplinado, e vestes próprias servem para realçar essa presença.",
@@ -11460,6 +11996,110 @@
     "Name": "Vestuário Masculino: Ornamento Suspenso do Pintor Gestualista",
     "Description": "Acessório de câmera em cores vibrantes. Geralmente pendurado na cintura para fácil acesso quando se quer capturar um momento.",
     "Icon": "UI_Beyd_Avatar_Boy_WaistAcc_S0132",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280056,
+    "Name": "Vestuário Feminino: Roupa Formal de Sonho Tranquilo de Verão",
+    "Description": "Um vestido formal requintado num roxo suave que lembra o crepúsculo. Atiçe o espírito livre em você com essa combinação de uma decoração de trevo de três folhas dourado, um laço de flor roxa elegante e uma estampa floral sutil com aba dourada que evoca a atmosfera serena de uma noite de verão.",
+    "Icon": "UI_Beyd_Avatar_Girl_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280057,
+    "Name": "Vestuário Vestuário: Calçados do Sonho Tranquilo de Verão",
+    "Description": "Um par de sapatos roxo escuro com laços. Simples, mas elegantes. É como se cada passo seu deixasse uma marca do luar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280058,
+    "Name": "Vestuário Feminino: \"Cabelo Longo de Sonho Tranquilo de Verão\"",
+    "Description": "Um cabelo longo fantástico com uma tonalidade principal branca serena. Essa é uma aparência que exala elegância casual, como se o luar frio de uma noite de verão e o brilho reluzente de vaga-lumes fossem tecidos no cabelo do usuário.",
+    "Icon": "UI_Beyd_Avatar_Girl_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280059,
+    "Name": "Vestuário Feminino: Bandana do Sonho Tranquilo de Verão",
+    "Description": "Uma faixa de cabeça linda e elegante. Adicione o brilho leve de vagalumes e a serenidade do crepúsculo ao seu cabelo com essa faixa de cabeça, e você estará pronto para entrar num banquete noturno magnífico cheio de luz estelar e do aroma de flores no ar.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280060,
+    "Name": "Vestuário Feminino: Acessório de Pulso do Sonho Tranquilo de Verão",
+    "Description": "Um acessório de punho plissado em branco curo que é amarrado ao usuário usando uma faixa de cor escura. Seu design simples e minimalista combina perfeitamente com o vestuário geral e adiciona um toque de refinamento a aparência de qualquer um.",
+    "Icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280061,
+    "Name": "Vestuário Feminino: Meias Longas do Sonho Tranquilo de Verão",
+    "Description": "Meias longas com padrões geométricos sutis. Vista a luz das estrelas de uma noite de verão, leve e elegante, com essas meias.",
+    "Icon": "UI_Beyd_Avatar_Girl_LegAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280062,
+    "Name": "Vestuário Masculino: Roupa Formal de Sonho Tranquilo de Verão",
+    "Description": "Um vestido formal requintado que combina inteligentemente os roxos do crepúsculo com os cinzas quentes do alvorecer. Atiçe o espírito livre em você com essa combinação de uma decoração de trevo de três folhas dourado, um laço de \"vagalume\" amarelo elegante e uma estampa geométrica sutil com aba dourada que evoca a atmosfera serena de uma noite de verão.",
+    "Icon": "UI_Beyd_Avatar_Boy_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280063,
+    "Name": "Vestuário Masculino: Calças do Sonho Tranquilo de Verão",
+    "Description": "Um par de calças longas em tons cinzas e roxos serenos com uma silhueta clara. Essas calças, com tons reminiscentes do crepúsculo, vêm com um padrão geométrico sutil que lembra a luz das estrelas em uma noite de verão.",
+    "Icon": "UI_Beyd_Avatar_Boy_Bottom_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280064,
+    "Name": "Vestuário Masculino: Calçados do Sonho Tranquilo de Verão",
+    "Description": "Um par de sapatos com bordas douradas, simples, porém elegante. Parece que cada passo dado calçando-os deixará uma marca gentil no gramado iluminado pelo luar.",
+    "Icon": "UI_Beyd_Avatar_Boy_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280065,
+    "Name": "Vestuário Masculino: Cabelo Curto do Sonho Tranquilo de Verão",
+    "Description": "Um cabelo preso fantástico com uma tonalidade principal branca serena. Essa é uma aparência que exala elegância casual, como se o luar frio de uma noite de verão e o brilho reluzente de vaga-lumes fossem tecidos no cabelo do usuário.",
+    "Icon": "UI_Beyd_Avatar_Boy_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280066,
+    "Name": "Vestuário Masculino: Chapéu do Sonho Tranquilo de Verão",
+    "Description": "Chapéu com aba decorada com um trevo de três folhas ao redor. A elegância desse chapéu equivale a sobriedade do vestuário geral.",
+    "Icon": "UI_Beyd_Avatar_Boy_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280067,
+    "Name": "Vestuário Masculino: Relógio de Pulso do Sonho Tranquilo de Verão",
+    "Description": "Um relógio de pulso com um design simples e discreto, mas muito requintado. Detalhes dourados estão gravados no discador, combinando com o estilo do vestuário todo.",
+    "Icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280068,
+    "Name": "Vestuário Masculino: Meias do Sonho Tranquilo de Verão",
+    "Description": "Meias de cores claras combinando com a paleta de cores das roupas. Elas exalam um ar animado apesar de seu design simples, como pétalas tremendo gentilmente na brisa noturna de verão.",
+    "Icon": "UI_Beyd_Avatar_Boy_LegAcc_S0143",
     "Type": 1,
     "RankLevel": 4
   }

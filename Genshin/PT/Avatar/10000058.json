@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "Proclamação da Purificação",
+        "Description": "A duração de Sesshou Sakura é estendida em 10s. Depois que os personagens próximos desencadearem Supercondutor ou Supercondutor Estelar, o próximo relâmpago de Sesshou Sakura será fortalecido: aumenta o Dano causado em 80% do ATQ de Yae Miko. Esse efeito pode ser desencadeado uma vez a cada 2.5s.\n<color=#FFD780FF>Brilho Reluzente: Supercondutor Estelar</color>: quando o raio fortalecido por esse efeito atingir o inimigo, causará uma instância de <color=#FFACFFFF>Dano Electro</color> adicional equivalente a 200% do ATQ de Yae Miko. Esse Dano é considerado Dano de Supercondutor Estelar.\nAlém disso, quando está no {LINK#N11330003}<color=#FFD780FF>Campo da Estrela Polar</color>{/LINK}, Yae Miko entrará no estado <color=#FFD780FF>Brilho Reluzente: Supercondutor Estelar</color>.",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

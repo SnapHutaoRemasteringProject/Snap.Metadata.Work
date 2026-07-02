@@ -464,6 +464,31 @@
         "Icon": "Skill_S_Yae_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 5851,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 585101,
+              "Level": 1,
+              "Parameters": [
+                0.8,
+                2.5,
+                2,
+                10
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 585101,
+        "Name": "Arınma Fermanı",
+        "Description": "Ölümcül Kiraz Çiçeğinin süresini 10sn uzatır. Yakındaki bir grup üyesi bir Süper İletim veya Yıldız İletimi tepkimesi tetiklediğinde, bir sonraki Ölümcül Kiraz Çiçeği yıldırımı şu şekilde güçlenir: Verilen Hasar, Yae Miko'nun Saldırısının %80'i kadar artar. Bu etki her 2,5 saniyede bir tetiklenebilir.\n<color=#FFD780FF>Işıltı: Yıldız İletimi</color>: Bir düşmana isabet eden güçlendirilmiş Ölümcül Kiraz Çiçeği yıldırımı, ayrıca Yae Miko'nun Saldırısının %200'ü kadar ek <color=#FFACFFFF>Elektrik Hasarı</color> verir. Bu Hasar, Yıldız İletimi Hasarı sayılır.\nAyrıca Yae Miko bir {LINK#N11330003}<color=#FFD780FF>Kutup Yıldızı Alanı</color>{/LINK} içindeyken <color=#FFD780FF>Işıltı: Yıldız İletimi</color> durumuna girer.",
+        "Icon": "UI_Talent_S_Yae_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 5839,
       "Proud": {
@@ -641,7 +666,10 @@
             {
               "Id": 582101,
               "Level": 1,
-              "Parameters": []
+              "Parameters": [
+                0.4,
+                0.5
+              ]
             }
           ],
           "Display": 1

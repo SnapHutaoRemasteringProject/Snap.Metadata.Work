@@ -1128,6 +1128,38 @@
     "RankLevel": 5
   },
   {
+    "Id": 250473,
+    "Name": "Super Heart!",
+    "Description": "Huge Thumbs Up!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 3
+  },
+  {
+    "Id": 250474,
+    "Name": "Shaved Ice Time",
+    "Description": "Cool and Refreshing!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 4
+  },
+  {
+    "Id": 250475,
+    "Name": "Cheers!",
+    "Description": "Have a refreshing cold drink!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
+    "Id": 250476,
+    "Name": "Bottoms Up!",
+    "Description": "Cool down with a refreshing drink!",
+    "Icon": "",
+    "Type": 5,
+    "RankLevel": 5
+  },
+  {
     "Id": 251001,
     "Name": "Fairy Tale Theater: The Witch's Ballad",
     "Description": "Once known for staging The Witch's Ballad, the theater now turns its spotlight on a new generation of guests.",
@@ -1192,6 +1224,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 251009,
+    "Name": "Secluded Isle: Azure Ripples",
+    "Description": "The sunlight here is not meant to shine on something, but to be basked in. The waves here are not merely blue, but form a sea of liquid gemstone.",
+    "Icon": "UI_Beyd_HallThemeIcon_Xrht",
+    "Type": 10,
+    "RankLevel": 4
+  },
+  {
     "Id": 251201,
     "Name": "General Teleport",
     "Description": "Arrive and depart with grace...",
@@ -1244,6 +1284,14 @@
     "Name": "Swirling Butterfly Trails",
     "Description": "Like a visible fragrance...",
     "Icon": "UI_UGC_Transfer_BP_SuperRare_S0121",
+    "Type": 7,
+    "RankLevel": 4
+  },
+  {
+    "Id": 251208,
+    "Name": "Shimmering Waves",
+    "Description": "Drifting along with the sea breeze and foam.",
+    "Icon": "UI_UGC_Transfer_BP_SuperRare_S0017",
     "Type": 7,
     "RankLevel": 4
   },
@@ -1536,6 +1584,38 @@
     "RankLevel": 4
   },
   {
+    "Id": 257037,
+    "Name": "Try-On Cape: Spiritvessel Tzitzimitl",
+    "Description": "A cape with the magical ability to replicate appearances. Once used, it automatically transforms into the designated outfit, accurately reproducing even the accessories and makeup. When stored, it folds into a card-like form, making it easy to place and identify the corresponding cosmetic.\nWhen used properly, it's a convenient item for trying on cosmetics.\nCan be used within 14 days after obtaining. Once used, the try-on effect lasts for 1 day. This item will expire at the end of the current Miliastra Pass.\nThe Try-On Cape can only be tried on as a full set and cannot be separated into individual parts.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257038,
+    "Name": "Try-On Cape: Spiritvessel Tzitzimitl",
+    "Description": "A cape with the magical ability to replicate appearances. Once used, it automatically transforms into the designated outfit, accurately reproducing even the accessories and makeup. When stored, it folds into a card-like form, making it easy to place and identify the corresponding cosmetic.\nWhen used properly, it's a convenient item for trying on cosmetics.\nCan be used within 14 days after obtaining. Once used, the try-on effect lasts for 1 day. This item will expire at the end of the current Miliastra Pass.\nThe Try-On Cape can only be tried on as a full set and cannot be separated into individual parts.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257039,
+    "Name": "Try-On Cape: Invigorating Chill",
+    "Description": "A cape with the magical ability to replicate appearances. Once used, it automatically transforms into the designated outfit, accurately reproducing even the accessories and makeup. When stored, it folds into a card-like form, making it easy to place and identify the corresponding cosmetic.\nWhen used properly, it's a convenient item for trying on cosmetics.\nCan be used within 14 days after obtaining. Once used, the try-on effect lasts for 1 day. This item will expire at the end of the current Miliastra Pass.\nThe Try-On Cape can only be tried on as a full set and cannot be separated into individual parts.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
+    "Id": 257040,
+    "Name": "Try-On Cape: Invigorating Chill",
+    "Description": "A cape with the magical ability to replicate appearances. Once used, it automatically transforms into the designated outfit, accurately reproducing even the accessories and makeup. When stored, it folds into a card-like form, making it easy to place and identify the corresponding cosmetic.\nWhen used properly, it's a convenient item for trying on cosmetics.\nCan be used within 14 days after obtaining. Once used, the try-on effect lasts for 1 day. This item will expire at the end of the current Miliastra Pass.\nThe Try-On Cape can only be tried on as a full set and cannot be separated into individual parts.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 13,
+    "RankLevel": 4
+  },
+  {
     "Id": 258001,
     "Name": "Cosmetic Bundle: \"Grace in Motion\"",
     "Description": "This package includes two complete Grace in Motion sets, one designed for the Manekin and one for the Manekina.\nPurchasing them together grants the second set at half price compared to buying each set individually!",
@@ -1652,6 +1732,38 @@
     "Name": "Cosmetic Bundle - \"Verdant Chase\"",
     "Description": "This package includes two complete Verdant Chase sets, one designed for the Manekin and one for the Manekina.\nPurchasing them together grants the second set at half price compared to buying each set individually!",
     "Icon": "UI_Beyd_Avatar_Optional_Suit_S0175",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258016,
+    "Name": "Cosmetic Bundle: \"Splatter Artist\"",
+    "Description": "This package includes two complete Splatter Artist sets, one designed for the Manekin and one for the Manekina.\nPurchasing them together grants the second set at half price compared to buying each set individually!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0132",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258017,
+    "Name": "Cosmetic Bundle: \"Spiritvessel Tzitzimitl\"",
+    "Description": "This package includes two complete Spiritvessel Tzitzimitl sets, one designed for the Manekin and one for the Manekina.\nPurchasing them together grants the second set at half price compared to buying each set individually!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0190",
+    "Type": 16,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258018,
+    "Name": "Cosmetic Bundle: \"Sweet Recipe\"",
+    "Description": "This package includes two complete Sweet Recipe sets, one designed for the Manekin and one for the Manekina.\nPurchasing them together grants the second set at half price compared to buying each set individually!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0174",
+    "Type": 16,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258019,
+    "Name": "Cosmetic Bundle: \"Loafing Shark\"",
+    "Description": "This package includes two complete Loafing Shark sets, one designed for the Manekin and one for the Manekina.\nPurchasing them together grants the second set at half price compared to buying each set individually!",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0054",
     "Type": 16,
     "RankLevel": 3
   },
@@ -1897,6 +2009,46 @@
   },
   {
     "Id": 258531,
+    "Name": "Random Try-On Cape: Manekin Cosmetic",
+    "Description": "A cape with the magical ability to replicate looks. After using it, it will automatically morph into the appearance of a random Manekin Cosmetic, to the point that even accessories and makeups are replicated to a tee.\nWhen used properly, it's a convenient item for try-ons.\nCan be used within 14 days after obtaining. The try-on effect lasts 1 day after use. This item will expire at the end of the current Miliastra Pass.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258532,
+    "Name": "Chronicle Cache: Exceptional",
+    "Description": "A gift box containing exquisite cosmetics. After using it, you can select one set from the available Cosmetic Sets of the corresponding quality.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0146",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258533,
+    "Name": "Chronicle Cache: Exceptional",
+    "Description": "A gift box containing exquisite cosmetics. After using it, you can select one set from the available Cosmetic Sets of the corresponding quality.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0147",
+    "Type": 14,
+    "RankLevel": 3
+  },
+  {
+    "Id": 258534,
+    "Name": "Chronicle Cache: Elite",
+    "Description": "A gift box containing exquisite cosmetics. After using it, you can select one set from the available Cosmetic Sets of the corresponding quality.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0191",
+    "Type": 14,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258535,
+    "Name": "Random Try-On Cape: Manekina Cosmetic",
+    "Description": "A cape with the magical ability to replicate looks. After using it, it will automatically morph into the appearance of a random Manekina Cosmetic, to the point that even accessories and makeups are replicated to a tee.\nWhen used properly, it's a convenient item for try-ons.\nCan be used within 14 days after obtaining. The try-on effect lasts 1 day after use. This item will expire at the end of the current Miliastra Pass.",
+    "Icon": "UI_ItemIcon_BydBox_4",
+    "Type": 15,
+    "RankLevel": 4
+  },
+  {
+    "Id": 258536,
     "Name": "Random Try-On Cape: Manekin Cosmetic",
     "Description": "A cape with the magical ability to replicate looks. After using it, it will automatically morph into the appearance of a random Manekin Cosmetic, to the point that even accessories and makeups are replicated to a tee.\nWhen used properly, it's a convenient item for try-ons.\nCan be used within 14 days after obtaining. The try-on effect lasts 1 day after use. This item will expire at the end of the current Miliastra Pass.",
     "Icon": "UI_ItemIcon_BydBox_4",
@@ -6864,6 +7016,174 @@
     "RankLevel": 4
   },
   {
+    "Id": 264267,
+    "Name": "General Cosmetic - \"Doctor Spout\"",
+    "Description": "A headwear full of wonder and whimsy. Put it on, and your head has been turned into a pedestal for a little whale that has just come out of the water for air. Who knows, you just might get a sudden \"spurt\" of inspiration while out and about with this adorable little companion!",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_P0450",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262673,
+    "Name": "General Eyebrows - \"Willow in the Breeze: Light Pink\"",
+    "Description": "Light pink eyebrows reminiscent of weeping willows. Their naturally flowy lines add a soft, gentle touch to the wearer's look.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0039",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262674,
+    "Name": "General Eyebrows - \"Willow in the Breeze: Light Purple\"",
+    "Description": "Light purple eyebrows reminiscent of weeping willows. Their naturally flowy lines add a soft, gentle touch to the wearer's look.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0040",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262675,
+    "Name": "General Eyebrows - \"Shooting for the Sky: Light Pink\"",
+    "Description": "Light pink eyebrows reminiscent of bamboo shoots newly emerged from the soil. Their strong, powerful lines add a touch of the energetic to the wearer.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0041",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262676,
+    "Name": "General Eyebrows - \"Shooting for the Sky: Light Purple\"",
+    "Description": "Light purple eyebrows reminiscent of bamboo shoots newly emerged from the soil. Their strong, powerful lines add a touch of the energetic to the wearer.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0042",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262677,
+    "Name": "General Eyebrows - \"Sublime Crag\"",
+    "Description": "Slit eyebrows with a sharp and unyielding look, brimming with the kind of charm born of strength.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0280",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262678,
+    "Name": "General Eyebrows - \"Mist in Drift\"",
+    "Description": "Eyebrows with a gentle and graceful arch that give the wearer a fresh and understated charm.",
+    "Icon": "UI_Beyd_Avatar_Girl_Eyebrow_P0281",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 262999,
+    "Name": "Manekina Eye Shape - \"Dawnbreaker\"",
+    "Description": "A Manekina eye look, reserved yet astute like a dawn-breaking blade in the dark.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0054",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263000,
+    "Name": "Manekina Eye Shape - \"Sunny Skies\"",
+    "Description": "A Manekina eye look, radiant and spirited like the bright sun on a clear day.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0056",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263001,
+    "Name": "Manekin Eye Shape - \"Frostbloom Grove\"",
+    "Description": "A Manekin eye look, solitary and reserved like the woods in winter nights.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0268",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263002,
+    "Name": "Manekin Eye Shape - \"Roselight Gleam\"",
+    "Description": "A Manekin eye look, graceful and radiant like a streak of vivid dawn light.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0271",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263014,
+    "Name": "Manekin Eye Shape - \"Golden Shimmer\"",
+    "Description": "A Manekin eye look, full of confidence and vigor. Its lines and colors evoke the image of light dancing on the waves at high noon.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263015,
+    "Name": "Manekina Eye Shape - \"Golden Shimmer\"",
+    "Description": "A Manekina eye look, full of confidence and vigor. Its lines and colors evoke the image of light dancing on the waves at high noon.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0465",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263016,
+    "Name": "Manekin Eye Shape - \"Golden Shimmer: Twilight\"",
+    "Description": "A Manekin eye look, full of sophistication and effortless grace. Its lines and colors evoke the image of light dancing upon the amethyst waves at dusk.",
+    "Icon": "UI_Beyd_Avatar_Boy_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263017,
+    "Name": "Manekina Eye Shape - \"Golden Shimmer: Twilight\"",
+    "Description": "A Manekina eye look, full of sophistication and effortless grace. Its lines and colors evoke the image of light dancing upon the amethyst waves at dusk.",
+    "Icon": "UI_Beyd_Avatar_Girl_Face_P0468",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263298,
+    "Name": "General Iris - \"Bejeweled Shells: Bright Orange\"",
+    "Description": "Colored contact lenses that resemble a pair of seashells bathed in the morning light.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0064",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263263,
+    "Name": "General Iris - \"Bejeweled Shells: Light Pink\"",
+    "Description": "Colored contact lenses that resemble a pair of seashells in pink twilight.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0067",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263305,
+    "Name": "General Iris - \"Colors of the Sea: Jade Waves\"",
+    "Description": "Colored contact lenses, serene yet profound like the sea. Keep that harsh glare at bay with these lenses as you take in the pure bliss of your vacation.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0466",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263307,
+    "Name": "General Iris - \"Colors of the Sea: Purple Rivalry\"",
+    "Description": "Colored contact lenses, serene yet profound like the sea. Keep that harsh glare at bay with these lenses as you take in the pure bliss of your vacation.",
+    "Icon": "UI_Beyd_Avatar_Girl_Pupil_P0467",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263932,
+    "Name": "General Facial Makeup - \"Leopard Spots\"",
+    "Description": "A sunny makeup style that perfectly recreates the dappled tan one gets after a day in the scorching sun. This is a sumptuous and eye-catching look, just like the spots on a leopard.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0482",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 263947,
+    "Name": "General Facial Makeup - \"Aura Blush: Falling Blossoms\"",
+    "Description": "Makeup style that works on the lower eyelids to visually \"open up\" the eyes and give the wearer an even more charming and spirited look.",
+    "Icon": "UI_Beyd_Avatar_Girl_FacialMakeup_P0493",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
     "Id": 265001,
     "Name": "Manekina Cosmetic - \"Parade\"",
     "Description": "The \"Parade\" set. When the bells of festivities ring, don this extravagant attire and become the most dazzling star in the parade. With lanterns to guide the way and pumpkins as companions, enjoy this night of cheers and jubilation to the fullest.",
@@ -8284,6 +8604,214 @@
     "Name": "Manekin Cosmetic - \"Butterfly Resplendence: Indigo Mist\"",
     "Description": "The enhanced version of the Butterfly Resplendence set. Amidst drifting indigo like a veil of mist, it moves to the melody of flower speech, becoming one with nature's will and continuing the eternal melody of life's song.\nAs the two scholars danced with sincere steps, the \"Flower Whisper Ceremony\" reached a crucial moment. The central flower sea seemed to respond to a certain summons, as layer upon layer of faint light rose like waves. Then, amidst a mist like powdered gemstones, the figures of a young boy and girl slowly emerged. They wore formal attire of the same style as the scholars, and their faces were exactly the same as the scholars' in their youth, as if time itself had turned back... The indigo tones of their clothing revealed their identity: incarnations of the planet's will. Gently, they welcomed the two scholars and led them into the depths of the flower sea, where they slowly vanished from sight...\nOnly then did it become clear that the planet had witnessed the efforts of its people over the centuries. In the end, it chose the likeness of the two scholars to shape its \"Emissaries\" and communicate with humanity.\nBy the time Octavia took her leave, the story of the two scholars and the Emissaries had already become a beloved tale known to every household. The planet continued along its own course, developing in a healthy and prosperous way, and seemed poised to withstand a virulent calamity...",
     "Icon": "UI_Beyd_Avatar_Boy_Suit_S0122",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265338,
+    "Name": "Manekina Cosmetic - \"Wasteland Strider\"",
+    "Description": "The Wasteland Strider set. This streamlined and form-fitting outfit is tailored from ultra-durable, hard-wearing materials. With this by your side, even the toughest expeditions in the wild will feel like a walk in the park.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265339,
+    "Name": "Manekin Cosmetic - \"Wasteland Strider\"",
+    "Description": "The Wasteland Strider set. This streamlined and form-fitting outfit is tailored from ultra-durable, hard-wearing materials. With this by your side, even the toughest expeditions in the wild will feel like a walk in the park.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0147",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265419,
+    "Name": "Manekina Cosmetic - \"Sweet Recipe\"",
+    "Description": "The Sweet Recipe set. This is a truly distinctive chef's outfit that cleverly incorporates the kitchen's most striking dish into the chef's hat. It leaves every diner with a first impression as sweet as flowing honey.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265420,
+    "Name": "Manekin Cosmetic - \"Sweet Recipe\"",
+    "Description": "The Sweet Recipe set. This is a truly distinctive chef's outfit that cleverly incorporates the kitchen's most striking dish into the chef's hat. It leaves every diner with a first impression as sweet as flowing honey.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0174",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265340,
+    "Name": "Manekina Cosmetic - \"Dusksea Sojourner\"",
+    "Description": "The Dusksea Sojourner set. This outfit, crafted with dyes that capture the very hues of the twilight sea, is imbued with a deep and captivating glow. Put it on, and you will stand undaunted even before the tallest waves.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265341,
+    "Name": "Manekin Cosmetic - \"Dusksea Sojourner\"",
+    "Description": "The Dusksea Sojourner set. This outfit, crafted with dyes that capture the very hues of the twilight sea, is imbued with a deep and captivating glow. Put it on, and you will stand undaunted even before the tallest waves.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0146",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265342,
+    "Name": "Manekina Cosmetic - \"Loafing Shark\"",
+    "Description": "The Loafing Shark set. Modeled after a certain docile, slow-swimming shark, this costume perfectly captures its uniquely laidback vibe. It is said that on certain planets with thriving marine ecosystems, these ferocious-looking giants are massively popular among the locals as they are actually incredibly easygoing at heart.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265343,
+    "Name": "Manekin Cosmetic - \"Loafing Shark\"",
+    "Description": "The Loafing Shark set. Modeled after a certain docile, slow-swimming shark, this costume perfectly captures its uniquely laidback vibe. It is said that on certain planets with thriving marine ecosystems, these ferocious-looking giants are massively popular among the locals as they are actually incredibly easygoing at heart.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0054",
+    "Type": 2,
+    "RankLevel": 3
+  },
+  {
+    "Id": 265320,
+    "Name": "Manekina Cosmetic - \"Propitious Breeze\"",
+    "Description": "The Propitious Breeze set. This outdoor outfit, with fresh leaf-green as its primary hue, is crafted from material that feels soft and comfortable against the skin. Accented with the lucky three-leaf clover motif, it makes you feel as if the gentle breeze of good fortune is always by your side.\n\nNot every \"Flower Whisperer\" on Planet No. 311 subscribes to the cultivation method known as \"Eternal Gardens\" — a practice designed to perpetually lock plants into their optimal growth peak. These mild-mannered renegades firmly believe that the planet's will cannot be calculated or mass-produced in a greenhouse. Instead, they hold, the lucky breeze of abundance will only ever stir spontaneously in nature's overlooked corners. To seek out this gift of nature, they have adapted their clothing into a functional outdoor style made for long journeys. The flora they now nurture are not the glamorous flowers crowded beneath a spotlight, but the low-growing grasses found everywhere and which grow in an endless cycle of life. Octavia has chosen to faithfully recreate this outfit in this design out of recognition and respect for this philosophy...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265321,
+    "Name": "Manekin Cosmetic - \"Propitious Breeze\"",
+    "Description": "The Propitious Breeze set. This outdoor outfit, with fresh leaf-green as its primary hue, is crafted from material that feels soft and comfortable against the skin. Accented with the lucky three-leaf clover motif, it makes you feel as if the gentle breeze of good fortune is always by your side.\n\nNot every \"Flower Whisperer\" on Planet No. 311 subscribes to the cultivation method known as \"Eternal Gardens\" — a practice designed to perpetually lock plants into their optimal growth peak. These mild-mannered renegades firmly believe that the planet's will cannot be calculated or mass-produced in a greenhouse. Instead, they hold, the lucky breeze of abundance will only ever stir spontaneously in nature's overlooked corners. To seek out this gift of nature, they have adapted their clothing into a functional outdoor style made for long journeys. The flora they now nurture are not the glamorous flowers crowded beneath a spotlight, but the low-growing grasses found everywhere and which grow in an endless cycle of life. Octavia has chosen to faithfully recreate this outfit in this design out of recognition and respect for this philosophy...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0129",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265344,
+    "Name": "Manekina Cosmetic - \"Dreamy Summer Leisure\"",
+    "Description": "The Dreamy Summer Leisure set. This is a light summer formal dress that carries an air of quiet contemplation. Featuring a laidback, casual design woven seamlessly with mysterious violet hues, it beautifully captures the uniquely enchanting magic of a midsummer's night dream.\n\nWhen the starlight meets the light of the moon during a midsummer's night on Planet No. 311, the \"Flower Whisperers\" converge upon the heart of the wild for the Firefly Banquet. This celebration in an open expanse free from any walls is one that is attended only by the swaying grass, dancing fireflies, and murmuring streams. To the Flower Whisperers, true abundance is a splendor that blossoms only to the pulse of the wild, just as a gown's hem unfurls layer by layer with every spin, or as a flower gently breathes in the moonlight. To immortalize this celebration meant only for untamed souls, Octavia has captured the twilight and morning dew, then woven them directly into the folds of the fabric. The gown's cascading violet-to-white gradient evokes the evening sky as darkness gently falls, with intricate motifs that look like ripples stirred across flowerbeds by a midnight wind. Slip it on, and you will transcend from a simple observer to the star of the ballroom. Amidst the gentle breeze and scent of florals thick in the air, you will dance with the stars and pursue an ethereal reverie born of pure liberty and imagination.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265345,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure\"",
+    "Description": "The Dreamy Summer Leisure set. This is a light summer formal dress that carries an air of quiet contemplation. Featuring a laidback, casual design woven seamlessly with mysterious violet hues, it beautifully captures the uniquely enchanting magic of a midsummer's night dream.\n\nWhen the starlight meets the light of the moon during a midsummer's night on Planet No. 311, the \"Flower Whisperers\" converge upon the heart of the wild for the Firefly Banquet. This celebration in an open expanse free from any walls is one that is attended only by the swaying grass, dancing fireflies, and murmuring streams. To the Flower Whisperers, true abundance is a splendor that blossoms only to the pulse of the wild, just as a gown's hem unfurls layer by layer with every spin, or as a flower gently breathes in the moonlight. To immortalize this celebration meant only for untamed souls, Octavia has captured the twilight and morning dew, then woven them directly into the folds of the fabric. The gown's cascading violet-to-white gradient evokes the evening sky as darkness gently falls, with intricate motifs that look like ripples stirred across flowerbeds by a midnight wind. Slip it on, and you will transcend from a simple observer to the star of the ballroom. Amidst the gentle breeze and scent of florals thick in the air, you will dance with the stars and pursue an ethereal reverie born of pure liberty and imagination.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0143",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265437,
+    "Name": "Manekina Cosmetic - \"Invigorating Chill\"",
+    "Description": "The Invigorating Chill set. This is a crisp, clean-cut summer casual outfit in a vibrant light blue hue that feels just like a refreshing bite of sweet shaved ice. Put it on, and it will instantly melt away the blazing heat.\n\nWhen it comes to the greatest threat to a summer beach vacation, even Octavia, the witch capable of wandering the stars, would give the exact same answer as any ordinary mortal: the blistering heat. That is why the residents of \"Ocean World (Planet No. 503),\" who constantly suffer from a brutal heat, have made ice-cold treats their top priority. Every midsummer, they throw a wild Ice Drink Festival that brings together the universe's finest cold-dessert masters to vie for the throne of the Summer King. The champion receives the ultimate prize: a majestic crown adorned with a cool shaved-ice pudding. As a traveler wandering through these parts and a keen enjoyer of the festivities, Octavia presented the then-victor with a gift that perfectly matched a witch's signature flair: a tiny spark of cooling magic. It turned the crown into real, never-melting shaved ice that continuously absorbs the surrounding heat, bringing a deeply refreshing chill to everyone around.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265438,
+    "Name": "Manekin Cosmetic - \"Invigorating Chill\"",
+    "Description": "The Invigorating Chill set. This is a crisp, clean-cut summer casual outfit in a vibrant light blue hue that feels just like a refreshing bite of sweet shaved ice. Put it on, and it will instantly melt away the blazing heat.\n\nWhen it comes to the greatest threat to a summer beach vacation, even Octavia, the witch capable of wandering the stars, would give the exact same answer as any ordinary mortal: the blistering heat. That is why the residents of \"Ocean World (Planet No. 503),\" who constantly suffer from a brutal heat, have made ice-cold treats their top priority. Every midsummer, they throw a wild Ice Drink Festival that brings together the universe's finest cold-dessert masters to vie for the throne of the Summer King. The champion receives the ultimate prize: a majestic crown adorned with a cool shaved-ice pudding. As a traveler wandering through these parts and a keen enjoyer of the festivities, Octavia presented the then-victor with a gift that perfectly matched a witch's signature flair: a tiny spark of cooling magic. It turned the crown into real, never-melting shaved ice that continuously absorbs the surrounding heat, bringing a deeply refreshing chill to everyone around.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0191",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265348,
+    "Name": "Manekina Cosmetic - \"Salted Lemon Fizz\"",
+    "Description": "The Salted Lemon Fizz set. This is a beach vacation outfit that exudes a cool, vibrant energy. Crafted from lightweight, breathable fabric, its bright, eye-catching colors feel just like a rejuvenating gulp of ice-cold salted lemon soda. Put it on, and you can easily quench the midsummer heat before you hit the sun and surf for more fun!\n\nTo the perpetually scorching \"Ocean World (Planet No. 503),\" Octavia wasn't the only newcomer on the beach — she had also brought along with her a yellow, oval, and lip-puckering fruit known as the lemon. Truth be told, Octavia wasn't a fan of lemons at all, and even found them a little off-putting. But nevertheless, she begrudgingly brought some along with her for her long voyage as a means to stave off potential illnesses.\nBy the time she arrived on Planet No. 503 after an arduous journey across five hundred planet, Octavia had completely forgotten about the lemons in her pack. But when she tried to order a salted lemon fizz at an Ocean World eatery, she discovered that the locals had no clue what a lemon even was, since the fruit only grows in temperate climates. In that moment, her memories came rushing back. As it turned out, a frosty salted lemon fizz was the perfect cure for the scorching heat, and when the locals pleaded with her, Octavia was happy to give away all her lemons so they could plant and grow their own. But since she had no interest in playing the divine, she firmly rejected the grand title of \"Lemon Queen\" they tried to confer on her. Instead, she took only this cool outfit gifted by the residents as a fond memento of this extraplanetary encounter.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265349,
+    "Name": "Manekin Cosmetic - \"Salted Lemon Fizz\"",
+    "Description": "The Salted Lemon Fizz set. This is a beach vacation outfit that exudes a cool, vibrant energy. Crafted from lightweight, breathable fabric, its bright, eye-catching colors feel just like a rejuvenating gulp of ice-cold salted lemon soda. Put it on, and you can easily quench the midsummer heat before you hit the sun and surf for more fun!\n\nTo the perpetually scorching \"Ocean World (Planet No. 503),\" Octavia wasn't the only newcomer on the beach — she had also brought along with her a yellow, oval, and lip-puckering fruit known as the lemon. Truth be told, Octavia wasn't a fan of lemons at all, and even found them a little off-putting. But nevertheless, she begrudgingly brought some along with her for her long voyage as a means to stave off potential illnesses.\nBy the time she arrived on Planet No. 503 after an arduous journey across five hundred planets, Octavia had completely forgotten about the lemons in her pack. But when she tried to order a salted lemon fizz at an Ocean World eatery, she discovered that the locals had no clue what a lemon even was, since the fruit only grows in temperate climates. In that moment, her memories came rushing back. As it turned out, a frosty salted lemon fizz was the perfect cure for the scorching heat, and when the locals pleaded with her, Octavia was happy to give away all her lemons so they could plant and grow their own. But since she had no interest in playing the divine, she firmly rejected the grand title of \"Lemon Queen\" they tried to confer on her. Instead, she took only this cool outfit gifted by the residents as a fond memento of this extraplanetary encounter.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0016",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265350,
+    "Name": "Manekina Cosmetic - \"Sharp-Fanged Overlord\"",
+    "Description": "The Sharp-Fanged Overlord set. This is an athleisure outfit that is all about burning passion. Put it on, and you become a figure of supreme authority fueled by the raw power of the fangs and talons that dominate this realm. Take this dauntless power and smash through every obstacle before you!\n\nA long, long time ago, long before Octavia set foot on Planet No. 67, that distant planet was once home to a race of dragons. However, these behemoths never came to possess the grand intelligence and ambitions of their cousins in Teyvat, and when they finally perished in the dust of time, they left behind nothing but monumental fossils. Dwarfing any known living creature in both size and ferocity, these fossils sparked endless fascination with a primitive world of wild life and savage bloodshed, and gave rise to a whole genre of gripping, behemoth-themed art. Today, the commanding presence of those ancient overlords has been reimagined by artists as a modern style icon that continues to silently speak of their fierce, unyielding spirit.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265351,
+    "Name": "Manekin Cosmetic - \"Sharp-Fanged Overlord\"",
+    "Description": "The Sharp-Fanged Overlord set. This is an athleisure outfit that is all about burning passion. Put it on, and you become a figure of supreme authority fueled by the raw power of the fangs and talons that dominate this realm. Take this dauntless power and smash through every obstacle before you!\n\nA long, long time ago, long before Octavia set foot on Planet No. 67, that distant planet was once home to a race of dragons. However, these behemoths never came to possess the grand intelligence and ambitions of their cousins in Teyvat, and when they finally perished in the dust of time, they left behind nothing but monumental fossils. Dwarfing any known living creature in both size and ferocity, these fossils sparked endless fascination with a primitive world of wild life and savage bloodshed, and gave rise to a whole genre of gripping, behemoth-themed art. Today, the commanding presence of those ancient overlords has been reimagined by artists as a modern style icon that continues to silently speak of their fierce, unyielding spirit.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0142",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265415,
+    "Name": "Manekina Cosmetic - \"Spiritvessel Tzitzimitl\"",
+    "Description": "Spiritvessel Tzitzimitl set. On Planet No. 777, where magic is the very lifeblood of existence, only a rare few mages hold the power to seal star fragments and wield cosmic dust. This ancient art demands not only prodigious talent but also a lifetime of knowledge accumulation. The dangers that come with it are equally immense, and a single misstep can invite catastrophic backlash. Thus, mastery is a privilege held almost solely by venerable scholars with centuries dedicated to the arcane.\nAs Paimon flipped through the records of Planet No. 777, she couldn't help but sigh in awe. \"Centuries... and those scholars can still barely hold a candle to Citlali?\"\n\"Though honestly, since Citlalin and Itzpapa are helping Granny Itztli, those scholars will never be able to keep up with her!\"\nAs if responding to Paimon's words, the Wonderland reacted. The two originally plain outfits began to transform, gradually taking on the distinct characteristics of Citlalin and Itzpapa from Paimon's memories...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265416,
+    "Name": "Manekin Cosmetic - \"Spiritvessel Tzitzimitl\"",
+    "Description": "Spiritvessel Tzitzimitl set. On Planet No. 777, where magic is the very lifeblood of existence, only a rare few mages hold the power to seal star fragments and wield cosmic dust. This ancient art demands not only prodigious talent but also a lifetime of knowledge accumulation. The dangers that come with it are equally immense, and a single misstep can invite catastrophic backlash. Thus, mastery is a privilege held almost solely by venerable scholars with centuries dedicated to the arcane.\nAs Paimon flipped through the records of Planet No. 777, she couldn't help but sigh in awe. \"Centuries... and those scholars can still barely hold a candle to Citlali?\"\n\"Though honestly, since Citlalin and Itzpapa are helping Granny Itztli, those scholars will never be able to keep up with her!\"\nAs if responding to Paimon's words, the Wonderland reacted. The two originally plain outfits began to transform, gradually taking on the distinct characteristics of Citlalin and Itzpapa from Paimon's memories...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0190",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265356,
+    "Name": "Manekina Cosmetic - \"Savannah Dappled Flash\"",
+    "Description": "The Savannah Dappled Flash set. This is a casual outfit that exudes the raw energy of the untamed. Its overall design is inspired by the sleek, agile felines that streak across the savannah. Radiating a sense of laidback ease and a distinctive wildness, this look instills a bold and radiant confidence in whoever slips it on.\n\nTo enjoy peaceful and natural evolution within a universe teeming with peril is nothing short of sheer luck — especially for a primitive world like Planet No. 206 that knows nothing of the vast cosmos beyond. As its first-ever visitor from outer space, Octavia could not help but worry for the planet's safety. After much deliberation, she reached out to the nearby \"Academy Planet (Planet No. 93),\" entrusting this neutral world to serve as the primitive realm's silent guardian and observer from afar as the planet's young civilization grew. However, to her complete surprise, before the advanced society of Planet 93 could even leave its mark on this untamed land, the raw, primal energy of Planet No. 206 had become a hit on the Academy Planet. For the planet's youths long confined to their ivory towers of endless learning, this almost \"savage\" aesthetic was a complete eye-opener. Soon, a massive fashion trend celebrating raw nature and untamed energy swept through certain schools. To mark this interesting historical footnote, Octavia decided to capture the trendiest look of the time...",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265357,
+    "Name": "Manekin Cosmetic - \"Savannah Dappled Flash\"",
+    "Description": "The Savannah Dappled Flash set. This is a casual outfit that exudes the raw energy of the untamed. Its overall design is inspired by the sleek, agile felines that streak across the savannah. Radiating a sense of laidback ease and a distinctive wildness, this look instills a bold and radiant confidence in whoever slips it on.\n\nTo enjoy peaceful and natural evolution within a universe teeming with peril is nothing short of sheer luck — especially for a primitive world like Planet No. 206 that knows nothing of the vast cosmos beyond. As its first-ever visitor from outer space, Octavia could not help but worry for the planet's safety. After much deliberation, she reached out to the nearby \"Academy Planet (Planet No. 93),\" entrusting this neutral world to serve as the primitive realm's silent guardian and observer from afar as the planet's young civilization grew. However, to her complete surprise, before the advanced society of Planet 93 could even leave its mark on this untamed land, the raw, primal energy of Planet No. 206 had become a hit on the Academy Planet. For the planet's youths long confined to their ivory towers of endless learning, this almost \"savage\" aesthetic was a complete eye-opener. Soon, a massive fashion trend celebrating raw nature and untamed energy swept through certain schools. To mark this interesting historical footnote, Octavia decided to capture the trendiest look of the time...",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0140",
+    "Type": 2,
+    "RankLevel": 4
+  },
+  {
+    "Id": 265358,
+    "Name": "Manekina Cosmetic - \"Chromatic Fatebound Sea\"",
+    "Description": "The Chromatic Fatebound Sea set. This is a summer coastal combat suit that embodies sheer exuberance, unbridled joy, and boundless vitality in a single look. The blazing midsummer sun brings the perfect opportunity to sweep away all exhaustion and vexation. Now is the time to gear up with full sun protection, grab your water gun, and wage an all-out \"war\" on your worries across this dazzling shore!\n\nInspired by the style of the \"Splatter Artist,\" the residents of \"Ocean World\" (Planet No. 503) have adopted a unique \"war ritual\" to reshape their connections to themselves and the community. This is why the beaches are always teeming with young people in stylized combat gear tearing through the ocean waves and pouring their untamed energy into the sweltering heat. Yet, the ones who left the deepest impression on Octavia were a seemingly ordinary young boy and girl. They had no outstanding physical prowess, and nor did they carry any advanced gear. In fact, to someone with outstanding combat abilities like Octavia, their slow movements looked exactly like drops of ink gradually swirling and dissolving in water. However, the brilliant life force bursting from these slowly unfurling \"colors\" was utterly arresting, filling her with a genuine delight that made it impossible to look away. Perhaps this was what youth has always been meant to look like, or perhaps, this was the real purpose the war ritual was created for in the first place. Moved by this, Octavia specially crafted this outfit for the pair, in the hope that it would allow them to hold on to this vibrant spirit and youthful energy for a long time to come.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265359,
+    "Name": "Manekin Cosmetic - \"Chromatic Fatebound Sea\"",
+    "Description": "The Chromatic Fatebound Sea set. This is a summer coastal combat suit that embodies sheer exuberance, unbridled joy, and boundless vitality in a single look. The blazing midsummer sun brings the perfect opportunity to sweep away all exhaustion and vexation. Now is the time to gear up with full sun protection, grab your water gun, and wage an all-out \"war\" on your worries across this dazzling shore!\n\nInspired by the style of the \"Splatter Artist,\" the residents of \"Ocean World\" (Planet No. 503) have adopted a unique \"war ritual\" to reshape their connections to themselves and the community. This is why the beaches are always teeming with young people in stylized combat gear tearing through the ocean waves and pouring their untamed energy into the sweltering heat. Yet, the ones who left the deepest impression on Octavia were a seemingly ordinary young boy and girl. They had no outstanding physical prowess, and nor did they carry any advanced gear. In fact, to someone with outstanding combat abilities like Octavia, their slow movements looked exactly like drops of ink gradually swirling and dissolving in water. However, the brilliant life force bursting from these slowly unfurling \"colors\" was utterly arresting, filling her with a genuine delight that made it impossible to look away. Perhaps this was what youth has always been meant to look like, or perhaps, this was the real purpose the war ritual was created for in the first place. Moved by this, Octavia specially crafted this outfit for the pair, in the hope that it would allow them to hold on to this vibrant spirit and youthful energy for a long time to come.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0017",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265360,
+    "Name": "Manekina Cosmetic - \"Chromatic Fatebound Sea: Twilight\"",
+    "Description": "The Ascended version of the Chromatic Fatebound Sea set. Here, it has taken on the serene and dreamy hues of twilight. Now that night has fallen, it is time to treat this deep, dark curtain as your canvas. Grab your water gun, let your hair down, and paint a summer night spectacle that is uniquely yours!\n\nInspired by the style of the \"Splatter Artist,\" the residents of \"Ocean World\" (Planet No. 503) have adopted a unique \"war ritual\" to reshape their connections to themselves and the community. This is why the beaches are always teeming with young people in stylized combat gear tearing through the ocean waves and pouring their untamed energy into the sweltering heat. Yet, the ones who left the deepest impression on Octavia were a seemingly ordinary young boy and girl. They had no outstanding physical prowess, and nor did they carry any advanced gear. In fact, to someone with outstanding combat abilities like Octavia, their slow movements looked exactly like drops of ink gradually swirling and dissolving in water. However, the brilliant life force bursting from these slowly unfurling \"colors\" was utterly arresting, filling her with a genuine delight that made it impossible to look away. Perhaps this was what youth has always been meant to look like, or perhaps, this was the real purpose the war ritual was created for in the first place. Moved by this, Octavia specially crafted this outfit for the pair, in the hope that it would allow them to hold on to this vibrant spirit and youthful energy for a long time to come.",
+    "Icon": "UI_Beyd_Avatar_Girl_Suit_S0018",
+    "Type": 2,
+    "RankLevel": 5
+  },
+  {
+    "Id": 265361,
+    "Name": "Manekin Cosmetic - \"Chromatic Fatebound Sea: Twilight\"",
+    "Description": "The Ascended version of the Chromatic Fatebound Sea set. Here, it has taken on the serene and dreamy hues of twilight. Now that night has fallen, it is time to treat this deep, dark curtain as your canvas. Grab your water gun, let your hair down, and paint a summer night spectacle that is uniquely yours!\n\nInspired by the style of the \"Splatter Artist,\" the residents of \"Ocean World\" (Planet No. 503) have adopted a unique \"war ritual\" to reshape their connections to themselves and the community. This is why the beaches are always teeming with young people in stylized combat gear tearing through the ocean waves and pouring their untamed energy into the sweltering heat. Yet, the ones who left the deepest impression on Octavia were a seemingly ordinary young boy and girl. They had no outstanding physical prowess, and nor did they carry any advanced gear. In fact, to someone with outstanding combat abilities like Octavia, their slow movements looked exactly like drops of ink gradually swirling and dissolving in water. However, the brilliant life force bursting from these slowly unfurling \"colors\" was utterly arresting, filling her with a genuine delight that made it impossible to look away. Perhaps this was what youth has always been meant to look like, or perhaps, this was the real purpose the war ritual was created for in the first place. Moved by this, Octavia specially crafted this outfit for the pair, in the hope that it would allow them to hold on to this vibrant spirit and youthful energy for a long time to come.",
+    "Icon": "UI_Beyd_Avatar_Boy_Suit_S0018",
     "Type": 2,
     "RankLevel": 5
   },
@@ -11024,6 +11552,14 @@
     "RankLevel": 4
   },
   {
+    "Id": 275348,
+    "Name": "Set Catalog - \"Salted Lemon Fizz\"",
+    "Description": "A crystal formed from coalesced Wonderland phenomena, containing information on the \"Salted Lemon Fizz\" set. During re-creation, you can freely choose between the corresponding Manekin or Manekina Cosmetic.",
+    "Icon": "UI_Beyd_Avatar_Optional_Suit_S0016",
+    "Type": 3,
+    "RankLevel": 4
+  },
+  {
     "Id": 280001,
     "Name": "Manekina Cosmetic - \"Noble Grace Dress\"",
     "Description": "An elegant and exquisite dress, featuring a graceful skirt hem paired with a refined satin neckerchief, presenting an overall dignified and orderly style. A butler's charm lies in their meticulous professional demeanor, and proper attire only enhances this allure.",
@@ -11460,6 +11996,110 @@
     "Name": "Manekin Cosmetic - \"Splatter Artist Ornament\"",
     "Description": "A camera accessory in bright, lively colors, often worn at the waist for easy access whenever something worth preserving appears.",
     "Icon": "UI_Beyd_Avatar_Boy_WaistAcc_S0132",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280056,
+    "Name": "Manekina Cosmetic - \"Dreamy Summer Leisure Formals\"",
+    "Description": "An exquisite formal dress in a soft purple reminiscent of dusk. Indulge the free spirit in you with this combination of a golden three-leaf clover embellishment, an elegant purple flower bow tie, and a subtle floral pattern with golden trim that evokes the serene atmosphere of a midsummer's night.",
+    "Icon": "UI_Beyd_Avatar_Girl_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280057,
+    "Name": "Manekina Cosmetic - \"Dreamy Summer Leisure Footwear\"",
+    "Description": "A pair of dark purple footwear with bow embellishments, simple but elegant nevertheless. It feels like every step you take in these will leave a gentle mark on the moonlit lawn.",
+    "Icon": "UI_Beyd_Avatar_Girl_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280058,
+    "Name": "Manekina Cosmetic - \"Dreamy Summer Leisure Long Hair\"",
+    "Description": "A dreamy long hairstyle mainly in serene white. This is a look that speaks of casual elegance, as if the cool moonlight of a midsummer's night and the shimmering glow of fireflies have been woven into the wearer's hair.",
+    "Icon": "UI_Beyd_Avatar_Girl_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280059,
+    "Name": "Manekina Cosmetic - \"Dreamy Summer Leisure Headband\"",
+    "Description": "A beautiful and elegant headband. Put on the faint glow of fireflies and the serenity of dusk in your hair with this headband, and you will be ready to step into a magnificent evening feast full of starlight and the scent of flowers thick in the air.",
+    "Icon": "UI_Beyd_Avatar_Girl_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280060,
+    "Name": "Manekina Cosmetic - \"Dreamy Summer Leisure Wrist Accessory\"",
+    "Description": "A pleated wrist accessory in clean, pure white that is attached to the wearer using a dark-colored band. Its simple, minimalist design matches perfectly with the overall outfit and adds a touch of refinement to one's look.",
+    "Icon": "UI_Beyd_Avatar_Girl_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280061,
+    "Name": "Manekina Cosmetic - \"Dreamy Summer Leisure Stockings\"",
+    "Description": "White stockings with a subtle geometric pattern. They seem to weave the starlight of a midsummer night right around your ankles, offering a look of effortless lightness and elegance.",
+    "Icon": "UI_Beyd_Avatar_Girl_LegAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280062,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure Formals\"",
+    "Description": "An exquisite formal dress that cleverly marries the purples of dusk with the warm grays of dawn. Indulge the free spirit in you with this combination of a golden three-leaf clover embellishment, a warm, firefly-orange bow tie, and a subtle geometric pattern with golden trim that evokes the serene atmosphere of a midsummer's night.",
+    "Icon": "UI_Beyd_Avatar_Boy_Top_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280063,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure Long Pants\"",
+    "Description": "A pair of long pants in serene grays and purples with a simple, clean silhouette. The subtle geometric motifs playing along the hems catch the eye like cascading starlight across a midsummer sky.",
+    "Icon": "UI_Beyd_Avatar_Boy_Bottom_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280064,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure Footwear\"",
+    "Description": "A pair of footwear with golden trim, simple but elegant nevertheless. It feels like every step you take in these will leave a gentle mark on the moonlit lawn.",
+    "Icon": "UI_Beyd_Avatar_Boy_Shoe_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280065,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure Short Hair\"",
+    "Description": "A dreamy short hairstyle mainly in serene white. This is a look that speaks of casual elegance, as if the cool moonlight of a midsummer's night and the shimmering glow of fireflies have been woven into the wearer's hair.",
+    "Icon": "UI_Beyd_Avatar_Boy_Hair_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280066,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure Top Hat\"",
+    "Description": "A band adorned with a three-leaf clover pattern circles the brim. It exudes a simple elegance that perfectly matches the tenor of the overall outfit.",
+    "Icon": "UI_Beyd_Avatar_Boy_Headwear_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280067,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure Wristwatch\"",
+    "Description": "A wristwatch with a simple design, low-key but nevertheless exquisite. A fine gold pattern is etched into the dial, matching the style of the overall outfit.",
+    "Icon": "UI_Beyd_Avatar_Boy_ArmAcc_S0143",
+    "Type": 1,
+    "RankLevel": 4
+  },
+  {
+    "Id": 280068,
+    "Name": "Manekin Cosmetic - \"Dreamy Summer Leisure Socks\"",
+    "Description": "Light-colored socks matching the overall color palette of the outfit. These give off a lively vibe despite their simple design, like petals gently trembling in the midsummer's night breeze.",
+    "Icon": "UI_Beyd_Avatar_Boy_LegAcc_S0143",
     "Type": 1,
     "RankLevel": 4
   }

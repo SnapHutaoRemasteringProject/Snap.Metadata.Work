@@ -539,6 +539,33 @@
         "Icon": "Skill_S_Wriothesley_01"
       }
     ],
+    "SpecialSkills": [
+      {
+        "GroupId": 8651,
+        "Proud": {
+          "Descriptions": [],
+          "Parameters": [
+            {
+              "Id": 865101,
+              "Level": 1,
+              "Parameters": [
+                0.6,
+                0.3,
+                2,
+                0.3,
+                -0.4,
+                -0.2
+              ]
+            }
+          ],
+          "Display": 3
+        },
+        "Id": 865101,
+        "Name": "L'injustice sera dévoilée",
+        "Description": "<color=#FFD780FF>Radiance « Astroconduction »</color> : L'aptitude d'élévation « Plaidoirie pour la justice » est modifiée :\nLorsque les PV de Wriothesley sont inférieurs à 60 %, il obtient une réprimande miséricordieuse « Dévoilement » qui convertit la prochaine attaque chargée de son <color=#FFD780FF>attaque normale « Poing vigoureux du givre »</color> en poing bondissant de lustre : ne consomme pas d'endurance, et restaure les PV de Wriothesley d'une valeur équivalant à 30 % de ses PV max en touchant, les PV pouvant être restaurés une fois toutes les 2 s de cette manière.\nLa 3e attaque et la 5e attaque du poing repousseur renforcé par le <color=#FFD780FF>châtiment algide</color> infligent respectivement des <color=#99FFFFFF>DGT Cryo</color> d'une valeur équivalant à 60 % et 80 % des DGT d'origine, tandis que le poing bondissant de lustre inflige des <color=#99FFFFFF>DGT Cryo de zone</color> d'une valeur équivalant à 100 % des DGT d'origine, tous ces DGT étant considérés comme des DGT de réaction d'Astroconduction. De plus, les DGT de réaction d'Astroconduction infligés par Wriothesley augmentent de 30 %.\nDe plus, Wriothesley passe en <color=#FFD780FF>radiance « Astroconduction »</color> lorsqu'il est dans une {LINK#N11330003}<color=#FFD780FF>étendue polaris</color>{/LINK}.",
+        "Icon": "UI_Talent_S_Wriothesley_08"
+      }
+    ],
     "EnergySkill": {
       "GroupId": 8639,
       "Proud": {
