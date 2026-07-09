@@ -655,6 +655,7 @@
       "Id": 10585,
       "Name": "Grande Arte Secreta: Tenko Kenshin",
       "Description": "A lenda da \"kitsunetsuki\", ou a manifestação do poder kitsune, é uma das lendas de Inazuma. Dentre elas, a da Kitsune Celestial é considerada especial, caindo sobre os inimigos do Grande Santuário Narukami sob a forma de relâmpagos, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>.\nQuando ela usa esta habilidade, Yae Miko irá retirar os selos das Sesshou Sakura próximas, destruindo suas formas externas e transformando-as em Relâmpagos de Kitsunes Celestiais que caem dos céus, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>. Cada Sesshou Sakura destruída desta forma irá criar um Relâmpago.\n\n<i>Yae apenas usa os sinais da Kitsune Celestial em momentos assim, empunhando o próprio relâmpago. Todos que viram a cauda da Senhora Guuji foram transformados em cinzas, portanto, lembre-se, a Senhorita Yae não tem cauda alguma.</i>",
+      "UnlockedDescription": "A lenda da \"kitsunetsuki\", ou a manifestação do poder kitsune, é uma das lendas de Inazuma. Dentre elas, a da Kitsune Celestial é considerada especial, caindo sobre os inimigos do Grande Santuário Narukami sob a forma de relâmpagos, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>.\nQuando ela usa esta habilidade, Yae Miko se baseará nos selos das Sesshou Sakura próximas, destruindo suas formas externas e transformando-as em Relâmpagos de Kitsunes Celestiais que caem dos céus, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>. Cada Sesshou Sakura próxima pode fazer cair um Relâmpago de Kitsune Celestial.\n\n<i>Yae apenas usa os sinais da Kitsune Celestial em momentos assim, empunhando o próprio relâmpago. Todos que viram a cauda da Senhorita Guuji foram transformados em cinzas, portanto, lembre-se, a Senhorita Yae não tem cauda alguma.</i>",
       "Icon": "Skill_E_Yae_01"
     },
     "Inherents": [
@@ -723,12 +724,14 @@
         "Id": 581,
         "Name": "Oferenda Yakan",
         "Description": "Cada vez que <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color> desencadeia Relâmpago de Kitsune Celestial, Yae Miko regenera para ela mesma 8 pontos de Energia Elemental.",
+        "UnlockedDescription": "Cada vez que <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color> desencadeia Relâmpago de Kitsune Celestial, Yae Miko regenera para ela mesma 8 pontos de Energia Elemental. Depois que Yae Miko ativar Supercondutor, Supercondutor Estelar ou causar Dano de Supercondutor Estelar, os membros próximos da equipe ganham 50% Bônus de Dano Electro e Bônus de Dano de Supercondutor Estelar por 10s. Ativar essas reações novamente redefinirá a duração dos bônus de Dano.",
         "Icon": "UI_Talent_S_Yae_01"
       },
       {
         "Id": 582,
         "Name": "Uivos ao Luar",
         "Description": "<color=#FFD780FF>Sesshou Sakura</color> inicia no Nível 2 quando é criada. O nível máximo é aumentado para 4, e a AdE de seu ataque aumenta em 60%.",
+        "UnlockedDescription": "O nível inicial de <color=#FFD780FF>Sesshou Sakura</color> é elevado para Nível 2, o nível máximo é aumentado para o Nível 4 e a Área de ataque é aumentada em 60%. Além disso, quando a Sesshou Sakura estiver ativa, aumenta a Proficiência Elemental de Yae Miko e do personagem ativo próximo em 60/90/120/200 de acordo com a posição da Sesshou Sakura.",
         "Icon": "UI_Talent_S_Yae_02"
       },
       {
@@ -745,6 +748,7 @@
         "Id": 584,
         "Name": "Canalização da Sakura",
         "Description": "Depois de o raio de <color=#FFD780FF>Sesshou Sakura</color> atingir os inimigos, todos os personagens próximos da equipe obterão 20% de <color=#FFACFFFF>Bônus de Dano Electro</color> por 5s.",
+        "UnlockedDescription": "Quando o relâmpago de <color=#FFD780FF>Sesshou Sakura</color> atinge o inimigo, todos os personagens próximos obtêm 20% de <color=#FFACFFFF>Bônus de Dano Electro</color> por 5s, e regeneram 8 de Energia Elemental para Yae Miko. Esse efeito de regeneração de Energia Elemental pode ser desencadeado uma vez a cada 5s. Além disso, aumenta o Dano do Supremo de Yae Miko em 100%.",
         "Icon": "UI_Talent_S_Yae_03"
       },
       {
@@ -761,6 +765,7 @@
         "Id": 586,
         "Name": "Técnica Proibida: Massacre",
         "Description": "Quando a <color=#FFD780FF>Sesshou Sakura</color> ataca os inimigos, ignora 60% de sua DEF.",
+        "UnlockedDescription": "Quando a <color=#FFD780FF>Sesshou Sakura</color> atacar, ignorará 60% da DEF do inimigo. Aumenta o Dano CRIT do Dano de Supercondutor Estelar de Yae Miko em 200%.",
         "Icon": "UI_Talent_S_Yae_04"
       }
     ]

@@ -655,6 +655,7 @@
       "Id": 10585,
       "Name": "Técnica secreta suprema: Encarnación de Kitsune Celestial",
       "Description": "En Inazuma existen leyendas sobre posesiones kitsune. Una de las más particulares es la de la posesión por Kitsune Celestiales que caen con forma de relámpago sobre los intrusos que se infiltran en el Gran Santuario Narukami. Cuando el relámpago desciende, inflige <color=#FFACFFFF>Daño Electro en el AdE</color>.\nAl lanzar la habilidad, Yae Miko destruye los cerezos kitsune cercanos, los cuales se transforman en relámpagos de Kitsune Celestiales que infligen <color=#FFACFFFF>Daño Electro en el AdE</color>. Un relámpago de Kitsune Celestial caerá por cada cerezo kitsune que se destruya de esta forma.\n\n<i>Yae Miko solo revela su aspecto de Kitsune Celestial en los momentos más cruciales para invocar el poder del rayo. De aquellos que han visto la cola de la Suma Sacerdotisa no quedan ni las cenizas, así que más te vale recordar esto muy bien: la Srta. Yae no tiene cola.</i>",
+      "UnlockedDescription": "En Inazuma existen leyendas sobre posesiones kitsune. Una de las más particulares es la de la posesión por Kitsune Celestiales que caen con forma de relámpago sobre los intrusos que se infiltran en el Gran Santuario Narukami. Cuando el relámpago descienda, infligirá <color=#FFACFFFF>Daño Electro en el AdE</color>.\nAl usar la habilidad, Yae Miko poseerá los cerezos kitsune cercanos, los cuales se transformarán en relámpagos de Kitsune Celestiales que infligen <color=#FFACFFFF>Daño Electro en el AdE</color>. Por cada cerezo kitsune que haya en las cercanías caerá un relámpago de Kitsune Celestial.\n\n<i>Yae Miko solo revela su aspecto de Kitsune Celestial en los momentos más cruciales para invocar el poder del rayo. De aquellos que han visto las colas de la Suma Sacerdotisa no quedan ni las cenizas, así que más te vale recordar esto muy bien: la Srta. Yae no tiene cola.</i>",
       "Icon": "Skill_E_Yae_01"
     },
     "Inherents": [
@@ -723,12 +724,14 @@
         "Id": 581,
         "Name": "Ofrenda de los yako",
         "Description": "Yae Miko recupera 8 pts. de Energía Elemental por cada relámpago de Kitsune Celestial desencadenado con <color=#FFD780FF>Técnica secreta suprema: Encarnación de Kitsune Celestial</color>.",
+        "UnlockedDescription": "#Yae Miko recupera 8{NON_BREAK_SPACE}pts. de Energía Elemental por cada relámpago de Kitsune Celestial desencadenado con <color=#FFD780FF>Técnica secreta suprema: Encarnación de Kitsune Celestial</color>. Además, después de que Yae Miko cause una reacción de Superconductor o Superconductor Estelar, o de que inflija daño de Superconductor Estelar, los personajes cercanos del equipo obtendrán un 50% de Bono de Daño Electro y de Bono de Daño de Superconductor Estelar durante 10{NON_BREAK_SPACE}s. La duración de este efecto se reiniciará al volver a activarse.",
         "Icon": "UI_Talent_S_Yae_01"
       },
       {
         "Id": 582,
         "Name": "Aullido lunar",
         "Description": "Al ser creados, los <color=#FFD780FF>cerezos kitsune</color> comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%.",
+        "UnlockedDescription": "#Al ser creados, los <color=#FFD780FF>cerezos kitsune</color> comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%. Además, mientras los cerezos kitsune estén activos, la Maestría Elemental de Yae Miko y de tu personaje en uso del equipo aumentará en 60/90/120/200{NON_BREAK_SPACE}pts. según el nivel de los cerezos.",
         "Icon": "UI_Talent_S_Yae_02"
       },
       {
@@ -745,6 +748,7 @@
         "Id": 584,
         "Name": "Cerezo de la tormenta",
         "Description": "Cuando el rayo de un <color=#FFD780FF>cerezo kitsune</color> golpea a un enemigo, todos los miembros del equipo cercanos obtienen un 20% de <color=#FFACFFFF>Bono de Daño Electro</color> durante 5 s.",
+        "UnlockedDescription": "#Cuando el rayo de un <color=#FFD780FF>cerezo kitsune</color> golpea a un enemigo, todos los personajes cercanos del equipo obtienen un 20% de <color=#FFACFFFF>Bono de Daño Electro</color> durante 5{NON_BREAK_SPACE}s y Yae Miko recupera 8{NON_BREAK_SPACE}pts. de Energía Elemental. Este efecto de recuperación de Energía Elemental solo se puede activar una vez cada 5{NON_BREAK_SPACE}s. Además, el daño de la Habilidad Definitiva de Yae Miko aumenta en un 100%.",
         "Icon": "UI_Talent_S_Yae_03"
       },
       {
@@ -761,6 +765,7 @@
         "Id": 586,
         "Name": "Técnica prohibida: Masacre",
         "Description": "Los ataques de los <color=#FFD780FF>cerezos kitsune</color> ignoran un 60% de la DEF del enemigo.",
+        "UnlockedDescription": "Los ataques de los <color=#FFD780FF>cerezos kitsune</color> ignoran un 60% de la DEF del enemigo, y el Daño CRIT de Superconductor Estelar infligido por Yae Miko aumenta en un 200%.",
         "Icon": "UI_Talent_S_Yae_04"
       }
     ]

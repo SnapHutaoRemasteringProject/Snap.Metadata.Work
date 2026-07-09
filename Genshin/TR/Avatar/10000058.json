@@ -655,6 +655,7 @@
       "Id": 10585,
       "Name": "Gizli Ulvi Büyü: Tenko Kenshin",
       "Description": "Inazuma'nın halk masallarında Kitsunelerin kudretinin bir tecellisi olan \"Kitsunetsuki\"den sık sık bahsedilir. İnsanların ilgisini çeken bu efsanelerden biri de Gök Kitsuneleriyle ilgilidir. Efsaneye göre Gök Kitsuneleri, Büyük Narukami Tapınağının düşmanlarının üzerine yıldırım yağdırır. Bir Gök Kitsunesi olan Yae Miko da düşürdüğü yıldırım darbesiyle <color=#FFACFFFF>Elektrik Alan Hasarı</color> verir.\nYae Miko bu beceriyi kullandığında yakında bulunan Ölümcül Kiraz Çiçeklerinin mührünü kaldırır. Dış formları yok olan Ölümcül Kiraz Çiçekleri, gökten inen Tenko Yıldırımlarına dönüşerek <color=#FFACFFFF>Elektrik Alan Hasarı</color> verir. Bu şekilde yok edilen her Ölümcül Kiraz Çiçeği bir Tenko Yıldırımı oluşturur.\n\n<i>Yae Miko yalnızca böyle anlarda Gök Kitsunesi formunu gösterip yıldırımın gücünü kontrol eder. Leydi Guuji'nin kuyruklarını gördükten sonra hayatta kalabilen tek bir kişi bile yoktur. Bu sebeple bilgin olsun, Leydi Yae'nin kuyruğu falan yok. Sakın unutma.</i>",
+      "UnlockedDescription": "Inazuma'nın halk masallarında Kitsunelerin kudretinin bir tecellisi olan \"Kitsunetsuki\"den sık sık bahsedilir. İnsanların ilgisini çeken bu efsanelerden biri de Gök Kitsuneleriyle ilgilidir. Efsaneye göre Gök Kitsuneleri, Büyük Narukami Tapınağının düşmanlarının üzerine yıldırım yağdırır. Bir yıldırım darbesi çağırarak <color=#FFACFFFF>Elektrik Alan Hasarı</color> verir.\nBu beceri kullanıldığında Yae Miko, yakında bulunan Ölümcül Kiraz Çiçeklerini gökten inen Tenko Yıldırımlarına dönüştürerek <color=#FFACFFFF>Elektrik Alan Hasarı</color> verir. Menzil içindeki her bir Ölümcül Kiraz Çiçeği bir Tenko Yıldırımına dönüşür.\n\n<i>Yae Miko yalnızca böyle anlarda Gök Kitsunesi formunu gösterip yıldırımın gücünü kontrol eder. Leydi Guuji'nin kuyruklarını gördükten sonra hayatta kalabilen tek bir kişi bile yoktur. Bu sebeple bilgin olsun, Leydi Yae'nin kuyruğu falan yok. Sakın unutma.</i>",
       "Icon": "Skill_E_Yae_01"
     },
     "Inherents": [
@@ -723,12 +724,14 @@
         "Id": 581,
         "Name": "Yako Adağı",
         "Description": "<color=#FFD780FF>Gizli Ulvi Büyü: Tenko Kenshin</color> becerisi her Tenko Yıldırımı çağırdığında Yae Miko kendisi için 8 Element Enerjisi yeniler.",
+        "UnlockedDescription": "<color=#FFD780FF>Gizli Ulvi Büyü: Tenko Kenshin</color> her Tenko Yıldırımı etkinleştirdiğinde Yae Miko kendisi için 8 Element Enerjisi yeniler. Yae Miko, Süper İletim veya Yıldız İletimi tepkimesi tetikledikten veya Yıldız İletimi Hasarı verdikten sonra 10 saniyeliğine yakındaki grup üyeleri %50 Elektrik Hasarı ve Yıldız İletimi Hasar Bonusu kazanır. Bu tepkimelerin yeniden tetiklenmesi, Hasar Bonuslarının süresini sıfırlar.",
         "Icon": "UI_Talent_S_Yae_01"
       },
       {
         "Id": 582,
         "Name": "Tilkinin Ay Çağrısı",
         "Description": "Oluşturulan her <color=#FFD780FF>Ölümcül Kiraz Çiçeği</color> 2. Seviyeden başlar. Ulaşabilecekleri maksimum seviye 4'e çıkar ve saldırı menzilleri %60 artar.",
+        "UnlockedDescription": "Oluşturulan her <color=#FFD780FF>Ölümcül Kiraz Çiçeği</color> 2. Seviyeden başlar. Ulaşabilecekleri maksimum seviye 4'e çıkar ve saldırı menzilleri %60 artar. Ayrıca alanda Ölümcül Kiraz Çiçeği varken Ölümcül Kiraz Çiçeğinin seviyesine bağlı olarak Yae Miko'nun ve mevcut aktif karakterinin Element Ustalığı da 60/90/120/200 artar.",
         "Icon": "UI_Talent_S_Yae_02"
       },
       {
@@ -745,6 +748,7 @@
         "Id": 584,
         "Name": "Kiraz Çiçeği İletimi",
         "Description": "<color=#FFD780FF>Ölümcül Kiraz Çiçeği</color> yıldırımları düşmanlara isabet ettiğinde 5 saniyeliğine yakındaki tüm grup üyelerinin <color=#FFACFFFF>Elektrik Hasarı Bonusu</color> %20 artar.",
+        "UnlockedDescription": "<color=#FFD780FF>Ölümcül Kiraz Çiçeği</color> yıldırımları düşmanlara isabet ettiğinde 5 saniyeliğine yakındaki tüm grup üyelerinin <color=#FFACFFFF>Elektrik Hasarı Bonusu</color> %20 artar ve Yae Miko 8 Element Enerjisi yeniler. Bu Element Enerjisi yenileme etkisi her 5 saniyede bir tetiklenebilir. Ayrıca Yae Miko'nun Element Patlaması Hasarı %100 artar.",
         "Icon": "UI_Talent_S_Yae_03"
       },
       {
@@ -761,6 +765,7 @@
         "Id": 586,
         "Name": "Yasak Büyü: Katliam",
         "Description": "<color=#FFD780FF>Ölümcül Kiraz Çiçeği</color> saldırıları düşmanların Savunmasının %60'ını yok sayar.",
+        "UnlockedDescription": "<color=#FFD780FF>Ölümcül Kiraz Çiçeği</color> saldırıları düşmanların Savunmasının %60'ını yok sayar. Yae Miko'nun Yıldız İletimi Hasarının Kritik Hasarı %200 artar.",
         "Icon": "UI_Talent_S_Yae_04"
       }
     ]

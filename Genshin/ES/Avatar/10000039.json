@@ -853,6 +853,7 @@
         "Id": 396,
         "Name": "Hora de cerrar",
         "Description": "Los personajes que estén dentro del área de <color=#FFD780FF>Cóctel asesino</color> obtienen uno de los siguientes efectos dependiendo de su Vida:\n·Si su Vida es igual o inferior al 50%, aumenta su Bono de Curación recibida en un 30%.\n·Si su vida es superior al 50%, aumenta la Maestría Elemental en 200 pts.",
+        "UnlockedDescription": "#Los personajes que están dentro del área de <color=#FFD780FF>Cóctel asesino</color> obtienen uno de los siguientes efectos dependiendo de su Vida:\n·Si su Vida es igual o inferior al 50%, aumenta su Bono de Curación recibida en un 30%.\n·Si su vida es superior al 50%, aumenta su Maestría Elemental en 200{NON_BREAK_SPACE}pts.\n\nAdemás, la Vida Máx. de Diona aumenta en un 25%.\n\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nEl daño de Superconductor y Superconductor Estelar infligido por los personajes dentro del área de <color=#FFD780FF>Cóctel asesino</color> aumenta en un 40%.",
         "Icon": "UI_Talent_S_Diona_04"
       }
     ]

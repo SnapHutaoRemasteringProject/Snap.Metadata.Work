@@ -655,6 +655,7 @@
       "Id": 10585,
       "Name": "Great Secret Art: Tenko Kenshin",
       "Description": "Salah satu cerita rakyat Inazuma disebut \"kitsunetsuki\", dan yang paling spesial di antaranya adalah kisah tentang Sky Kitsune yang turun menghanguskan musuh-musuh Kuil Agung Narukami. Memanggil sambaran petir dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color>.\nSaat melancarkan skill ini, Yae Miko akan membuka Sesshou Sakura yang ada di dekatnya, menghancurkan wujud luarnya, dan mengubahnya menjadi Tenko Thunderbolt yang turun dari langit, dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color>. Setiap Sesshou Sakura yang dihancurkan dengan cara ini akan menciptakan satu Tenko Thunderbolt.\n\n<i>Yae hanya akan mengeluarkan \"wujud\" Sky Kitsune-nya di saat-saat tertentu seperti ini dan mengendalikan petir tersebut. Tidak ada seorang pun yang hidup setelah melihat ekor sang Nona Guuji ... Jadi ingat baik-baik ya, Nona Yae \"tidak\" punya ekor.</i>",
+      "UnlockedDescription": "Salah satu cerita rakyat Inazuma disebut \"kitsunetsuki\", dan yang paling spesial di antaranya adalah kisah tentang Sky Kitsune yang turun menghanguskan musuh-musuh Kuil Agung Narukami. Memanggil sambaran petir dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color>.\nSaat melancarkan skill ini, Yae Miko akan mengubah Sesshou Sakura yang ada di dekatnya menjadi Tenko Thunderbolt yang turun dari langit, dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color>. Setiap Sesshou Sakura yang ada di sekitar akan berubah menjadi satu Tenko Thunderbolt.\n\n<i>Yae hanya akan mengeluarkan wujud Sky Kitsune-nya di saat-saat tertentu seperti ini dan mengendalikan petir tersebut. Tidak ada seorang pun yang hidup setelah melihat ekor sang Nona Guuji ... Jadi ingat baik-baik ya, Nona Yae \"tidak\" punya ekor.</i>",
       "Icon": "Skill_E_Yae_01"
     },
     "Inherents": [
@@ -723,12 +724,14 @@
         "Id": 581,
         "Name": "Yakan Offering",
         "Description": "Setiap kali <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> mengaktifkan Tenko Thunderbolt, Yae Miko akan memulihkan 8 Energy untuk dirinya sendiri.",
+        "UnlockedDescription": "Setiap kali <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> mengaktifkan Tenko Thunderbolt, Yae Miko akan memulihkan 8 Energy untuk dirinya sendiri. Setelah Yae Miko memicu reaksi Superconduct/Stellar-Conduct atau setelah mengakibatkan DMG reaksi Stellar-Conduct, Karakter party di sekitar akan mendapatkan 50% Electro DMG Bonus dan Stellar-Conduct DMG Bonus selama 10 detik. Memicu reaksi berulang kali akan memperbarui durasi bonus DMG tersebut.",
         "Icon": "UI_Talent_S_Yae_01"
       },
       {
         "Id": 582,
         "Name": "Fox's Mooncall",
         "Description": "Level awal <color=#FFD780FF>Sesshou Sakura</color> yang tercipta meningkat menjadi level 2. Level tertinggi yang bisa dicapai menjadi level 4 dan jangkauan serangan meningkat 60%.",
+        "UnlockedDescription": "Level awal <color=#FFD780FF>Sesshou Sakura</color> yang tercipta meningkat menjadi level 2. Level tertinggi yang bisa dicapai menjadi level 4 dan jangkauan serangannya meningkat 60%. Selain itu, selama Sesshou Sakura ada di medan pertempuran, Elemental Mastery Yae Miko dan Karakter aktif sendiri meningkat sebesar 60/90/120/200 poin berdasarkan level dari Sesshou Sakura.",
         "Icon": "UI_Talent_S_Yae_02"
       },
       {
@@ -745,6 +748,7 @@
         "Id": 584,
         "Name": "Sakura Channeling",
         "Description": "Setelah sambaran petir <color=#FFD780FF>Sesshou Sakura</color> mengenai musuh, <color=#FFACFFFF>Electro DMG Bonus</color> seluruh anggota party di sekitar meningkat 20% selama 5 detik.",
+        "UnlockedDescription": "Setelah sambaran petir <color=#FFD780FF>Sesshou Sakura</color> mengenai musuh, <color=#FFACFFFF>Electro DMG Bonus</color> seluruh anggota party di sekitar meningkat 20% selama 5 detik dan Yae Miko memulihkan 8 Energy. Efek pemulihan Energy ini dapat terpicu sekali setiap 5 detik. Selain itu, DMG Elemental Burst Yae Miko meningkat 100%.",
         "Icon": "UI_Talent_S_Yae_03"
       },
       {
@@ -761,6 +765,7 @@
         "Id": 586,
         "Name": "Forbidden Art: Daisesshou",
         "Description": "Serangan <color=#FFD780FF>Sesshou Sakura</color> mengabaikan 60% DEF musuh.",
+        "UnlockedDescription": "Serangan <color=#FFD780FF>Sesshou Sakura</color> mengabaikan 60% DEF musuh, CRIT DMG reaksi Stellar-Conduct yang diakibatkan Yae Miko meningkat 200%.",
         "Icon": "UI_Talent_S_Yae_04"
       }
     ]

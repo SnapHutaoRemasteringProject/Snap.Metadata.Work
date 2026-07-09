@@ -853,6 +853,7 @@
         "Id": 396,
         "Name": "Vorzeitiger Feierabend",
         "Description": "Verleiht Figuren im Feld von <color=#FFD780FF>Eisgekühlter Branntwein</color> je nach ihren LP folgende Effekte:\n· Erhöht den passiven Heilungsbonus bei bis zu 50 % LP um 30 %.\n· Erhöht die Elementarkunde bei mehr als 50 % LP um 200 Punkte.",
+        "UnlockedDescription": "#Verleiht Figuren im Bereich von <color=#FFD780FF>Eisgekühlter Branntwein</color> je nach ihren LP folgende Effekte:\n· Erhöht den passiven Heilungsbonus bei bis zu 50{NON_BREAK_SPACE}% LP um 30{NON_BREAK_SPACE}%.\n· Erhöht die Elementarkunde bei mehr als 50{NON_BREAK_SPACE}% LP um 200 Punkte.\n\nErhöht zusätzlich Dionas max. LP um 25{NON_BREAK_SPACE}%.\n\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Erhöht zudem den von Figuren im Bereich von <color=#FFD780FF>Eisgekühlter Branntwein</color> durch die Reaktionen Supraleiter und Stellar-Supraleiter verursachten Schaden um 40{NON_BREAK_SPACE}%.",
         "Icon": "UI_Talent_S_Diona_04"
       }
     ]
