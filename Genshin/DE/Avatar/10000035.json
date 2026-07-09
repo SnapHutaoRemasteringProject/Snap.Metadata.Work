@@ -571,7 +571,7 @@
         "Id": 10352,
         "Name": "Adeptenkunst – Frostbringer",
         "Description": "Beschwört den Frostbringer mithilfe des Frostader-Talismans und fügt den Gegnern in der Umgebung <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<color=#FFD780FF>Frostbringer</color>\n· Qiqi stellt bei Treffern mit Standardangriffen und heftigen Schlägen allen eigenen Truppenmitgliedern und befreundeten Einheiten in der Nähe LP basierend auf Qiqis ANG wieder her.\n· Stellt der aktuellen eigenen Figur in regelmäßigen Abständen LP wieder her.\n· Fügt den Gegnern in der Bahn gemäß den Bewegungen der Figur <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<i>„Mein Freund hier dient größtenteils der Frischhaltung ... also für die kostbaren Wirkstoffe von Herrn Bai.“</i>",
-        "UnlockedDescription": "Beschwört den Frostbringer mithilfe des Frostader-Talismans und fügt den Gegnern in der Umgebung <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<color=#FFD780FF>Frostbringer</color>\n· Stellt, wenn Qiqi Gegner mit Standardangriffen und heftigen Schlägen trifft, allen eigenen Truppenmitgliedern und verbündeten Figuren in der Nähe LP basierend auf ihrem ANG wieder her.\n· Stellt der aktuellen eigenen Figur in regelmäßigen Abständen LP wieder her.\n· Folgt der Figur und fügt Gegnern in deren Weg <color=#99FFFFFF>Kryo-Schaden</color> zu.\n· Führt, wenn die eigene aktuelle Figur einen Gegner trifft, einen abgestimmten Angriff aus und fügt dem Gegner <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<i>„Mein Freund hier dient größtenteils der Frischhaltung ... also für die kostbaren Wirkstoffe von Herrn Bai.“</i>",
+        "SpecialDescription": "Beschwört den Frostbringer mithilfe des Frostader-Talismans und fügt den Gegnern in der Umgebung <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<color=#FFD780FF>Frostbringer</color>\n· Stellt, wenn Qiqi Gegner mit Standardangriffen und heftigen Schlägen trifft, allen eigenen Truppenmitgliedern und verbündeten Figuren in der Nähe LP basierend auf ihrem ANG wieder her.\n· Stellt der aktuellen eigenen Figur in regelmäßigen Abständen LP wieder her.\n· Folgt der Figur und fügt Gegnern in deren Weg <color=#99FFFFFF>Kryo-Schaden</color> zu.\n· Führt, wenn die eigene aktuelle Figur einen Gegner trifft, einen abgestimmten Angriff aus und fügt dem Gegner <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<i>„Mein Freund hier dient größtenteils der Frischhaltung ... also für die kostbaren Wirkstoffe von Herrn Bai.“</i>",
         "Icon": "Skill_S_Qiqi_01"
       }
     ],
@@ -811,7 +811,7 @@
       "Id": 10353,
       "Name": "Adeptenkunst – Befreiung vom Leid",
       "Description": "Qiqi lässt der adeptischen Kraft, die in ihrem Körper versiegelt ist, freien Lauf, markiert Gegner in der Nähe mit ihrem Leidbefreiungs-Talisman und verursacht <color=#99FFFFFF>Kryo-Schaden</color>.\n\n<color=#FFD780FF>Leidbefreiungs-Talisman</color>\nStellt Figuren, die vom Effekt des Leidbefreiungs-Talismans betroffenen Gegnern Schaden zufügen, LP wieder her.\n\n<i>„Ich bin die Fürstin der Befreiung von Leid und Elend, das wiederauferstandene Kind.“</i>\n<i>- An diese Worte erinnert sich Qiqi längst nicht mehr.</i>",
-      "UnlockedDescription": "Qiqi lässt der adeptischen Kraft, die in ihrem Körper versiegelt ist, freien Lauf, markiert Gegner in der Nähe mit ihrem Leidbefreiungs-Talisman und verursacht <color=#99FFFFFF>Kryo-Schaden</color>.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Verursacht zusätzlich einmal <color=#99FFFFFF>Kryo-Schaden</color>, der als Schaden durch die Reaktion Stellar-Supraleiter gewertet wird.\n\n<color=#FFD780FF>Leidbefreiungs-Talisman</color>\nStellt Figuren, die vom Effekt des Leidbefreiungs-Talismans betroffenen Gegnern Schaden zufügen, LP wieder her.\n\n<i>„Ich bin die Fürstin der Befreiung von Leid und Elend, das wiederauferstandene Kind.“</i>\n<i>- An diese Worte erinnert sich Qiqi längst nicht mehr.</i>",
+      "SpecialDescription": "Qiqi lässt der adeptischen Kraft, die in ihrem Körper versiegelt ist, freien Lauf, markiert Gegner in der Nähe mit ihrem Leidbefreiungs-Talisman und verursacht <color=#99FFFFFF>Kryo-Schaden</color>.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Verursacht zusätzlich einmal <color=#99FFFFFF>Kryo-Schaden</color>, der als Schaden durch die Reaktion Stellar-Supraleiter gewertet wird.\n\n<color=#FFD780FF>Leidbefreiungs-Talisman</color>\nStellt Figuren, die vom Effekt des Leidbefreiungs-Talismans betroffenen Gegnern Schaden zufügen, LP wieder her.\n\n<i>„Ich bin die Fürstin der Befreiung von Leid und Elend, das wiederauferstandene Kind.“</i>\n<i>- An diese Worte erinnert sich Qiqi längst nicht mehr.</i>",
       "Icon": "Skill_E_Qiqi_01"
     },
     "Inherents": [
@@ -878,14 +878,14 @@
         "Id": 351,
         "Name": "Winterliche Ernte",
         "Description": "Stellt Qiqi beim Treffen von mit dem Leidbefreiungs-Talisman markierten Gegnern mit Frostbringer 2 Punkte Elementarenergie wieder her.",
-        "UnlockedDescription": "#Stellt Qiqi, wenn der Frostbringer einen mit einem Leidbefreiungs-Talisman markierten Gegner trifft, 2{NON_BREAK_SPACE}Punkte Elementarenergie wieder her.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Stellt, wenn der Frostbringer einen Gegner mit Angriffen oder abgestimmten Angriffen trifft, Qiqi ebenfalls 6{NON_BREAK_SPACE}Punkte Elementarenergie wieder her, 6{NON_BREAK_SPACE}s Abklingzeit.",
+        "SpecialDescription": "#Stellt Qiqi, wenn der Frostbringer einen mit einem Leidbefreiungs-Talisman markierten Gegner trifft, 2{NON_BREAK_SPACE}Punkte Elementarenergie wieder her.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Stellt, wenn der Frostbringer einen Gegner mit Angriffen oder abgestimmten Angriffen trifft, Qiqi ebenfalls 6{NON_BREAK_SPACE}Punkte Elementarenergie wieder her, 6{NON_BREAK_SPACE}s Abklingzeit.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Fröstelnde Glieder",
         "Description": "Erhöht den von <color=#99FFFFFF>Kryo</color>-Effekten betroffenen Gegnern mit Qiqis Standardangriffen und heftigen Schlägen zugefügten Schaden um 15 %.",
-        "UnlockedDescription": "#Erhöht den von <color=#99FFFFFF>Kryo</color>-Effekten betroffenen Gegnern mit Qiqis Standardangriffen und heftigen Schlägen zugefügten Schaden um 15{NON_BREAK_SPACE}%.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Erhöht Qiqis ANG um 50{NON_BREAK_SPACE}%.",
+        "SpecialDescription": "#Erhöht den von <color=#99FFFFFF>Kryo</color>-Effekten betroffenen Gegnern mit Qiqis Standardangriffen und heftigen Schlägen zugefügten Schaden um 15{NON_BREAK_SPACE}%.\n<color=#FFD780FF>Leuchten – Stellar-Supraleiter</color>: Erhöht Qiqis ANG um 50{NON_BREAK_SPACE}%.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -902,7 +902,7 @@
         "Id": 354,
         "Name": "Stärke des Himmels",
         "Description": "Verringert den ANG von mit dem Leidbefreiungs-Talisman markierten Zielen um 20 %.",
-        "UnlockedDescription": "#Verringert den ANG von mit dem Leidbefreiungs-Talisman markierten Zielen um 20{NON_BREAK_SPACE}%.\nGewährt zudem beim Auslösen des Heilungseffekts des Leidbefreiungs-Talismans der Figur mit dem niedrigsten LP-Anteil in der Nähe einmalig eine Heilung in Höhe von 180{NON_BREAK_SPACE}% von Qiqis ANG.",
+        "SpecialDescription": "#Verringert den ANG von mit dem Leidbefreiungs-Talisman markierten Zielen um 20{NON_BREAK_SPACE}%.\nGewährt zudem beim Auslösen des Heilungseffekts des Leidbefreiungs-Talismans der Figur mit dem niedrigsten LP-Anteil in der Nähe einmalig eine Heilung in Höhe von 180{NON_BREAK_SPACE}% von Qiqis ANG.",
         "Icon": "UI_Talent_S_Qiqi_03"
       },
       {
@@ -919,7 +919,7 @@
         "Id": 356,
         "Name": "Auferstehung",
         "Description": "Belebt alle besiegten Figuren der Truppe in der Nähe bei Anwendung von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> wieder und stellt ihnen LP auf bis zu 50 % ihrer max. LP wieder her.\n15 min Abklingzeit.",
-        "UnlockedDescription": "#Belebt beim Anwenden von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> alle ohnmächtigen Truppenmitglieder in der Nähe wieder und stellt ihre LP auf 50{NON_BREAK_SPACE}% wieder her.\nDieser Effekt hat 15 min Abklingzeit.\nVerleiht Qiqi nach dem Anwenden von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> zudem 4 Stapelungen <color=#FFD780FF>Hauch eines Mysteriums</color>. Verbraucht, wenn das eigene aktuelle Truppenmitglied (außer Qiqi selbst) Schaden der Reaktion Stellar-Supraleiter verursacht, 1 Stapelungen <color=#FFD780FF>Hauch eines Mysteriums</color> und erhöht diesen Schaden um 600{NON_BREAK_SPACE}% von Qiqis ANG. <color=#FFD780FF>Hauch eines Mysteriums</color> hält maximal 12{NON_BREAK_SPACE}s an. Beim Anwenden von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> werden die Stapelungen aktualisiert.",
+        "SpecialDescription": "#Belebt beim Anwenden von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> alle ohnmächtigen Truppenmitglieder in der Nähe wieder und stellt ihre LP auf 50{NON_BREAK_SPACE}% wieder her.\nDieser Effekt hat 15 min Abklingzeit.\nVerleiht Qiqi nach dem Anwenden von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> zudem 4 Stapelungen <color=#FFD780FF>Hauch eines Mysteriums</color>. Verbraucht, wenn das eigene aktuelle Truppenmitglied (außer Qiqi selbst) Schaden der Reaktion Stellar-Supraleiter verursacht, 1 Stapelungen <color=#FFD780FF>Hauch eines Mysteriums</color> und erhöht diesen Schaden um 600{NON_BREAK_SPACE}% von Qiqis ANG. <color=#FFD780FF>Hauch eines Mysteriums</color> hält maximal 12{NON_BREAK_SPACE}s an. Beim Anwenden von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> werden die Stapelungen aktualisiert.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]
