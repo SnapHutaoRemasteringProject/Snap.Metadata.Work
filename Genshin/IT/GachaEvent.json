@@ -5624,5 +5624,62 @@
       14403,
       15403
     ]
+  },
+  {
+    "Name": "Ritorno della Luna del firmamento",
+    "Version": "6.7",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/07/07/cb627a428520229b68e13e596ace7c55_5881694562334069576_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/07/07/cb627a428520229b68e13e596ace7c55_5881694562334069576_transformed.jpg",
+    "From": "2026-07-18T18:00:00+08:00",
+    "To": "2026-08-11T14:59:00+08:00",
+    "Type": 301,
+    "UpOrangeList": [
+      10000125
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000105,
+      10000124
+    ]
+  },
+  {
+    "Name": "Piano dell'eutimia",
+    "Version": "6.7",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/07/07/d58782f7d16f0604a6072e76305932c9_4567871042014613279_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/07/07/d58782f7d16f0604a6072e76305932c9_4567871042014613279_transformed.jpg",
+    "From": "2026-07-18T18:00:00+08:00",
+    "To": "2026-08-11T14:59:00+08:00",
+    "Type": 400,
+    "UpOrangeList": [
+      10000052
+    ],
+    "UpPurpleList": [
+      10000097,
+      10000105,
+      10000124
+    ]
+  },
+  {
+    "Name": "Incarnazione divina",
+    "Version": "6.7",
+    "Order": 2,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/07/07/60f252bc6c712443f4de6920c6d98237_3040690832612205172_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/07/07/60f252bc6c712443f4de6920c6d98237_3040690832612205172_transformed.jpg",
+    "From": "2026-07-18T18:00:00+08:00",
+    "To": "2026-08-11T14:59:00+08:00",
+    "Type": 302,
+    "UpOrangeList": [
+      13509,
+      14522
+    ],
+    "UpPurpleList": [
+      11403,
+      12402,
+      13407,
+      14430,
+      15401
+    ]
   }
 ]
