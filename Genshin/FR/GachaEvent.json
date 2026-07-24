@@ -5342,7 +5342,7 @@
     ]
   },
   {
-    "Name": "Compendium Ya-hoho\u00A0!",
+    "Name": "Compendium Ya-hoho !",
     "Version": "6.5",
     "Order": 1,
     "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/03/25/545351f4436bbf53ed92c585e000e04a_472921152809795250_transformed.jpg",
@@ -5456,7 +5456,7 @@
     ]
   },
   {
-    "Name": "ange\u00A0»\u00A0: taux d",
+    "Name": "ange » : taux d",
     "Version": "6.6",
     "Order": 1,
     "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/05/07/616ddaf5b2e069a073b25b23b7eff80c_5317262137302109407_transformed.jpg",
@@ -5587,7 +5587,7 @@
     ]
   },
   {
-    "Name": "une nuit étoilée\u00A0»\u00A0: taux d",
+    "Name": "une nuit étoilée » : taux d",
     "Version": "6.7",
     "Order": 1,
     "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/dc83c3ca9f0c7a2e6c0703320df76e7d_4188629191690032485_transformed.jpg",
@@ -5626,7 +5626,30 @@
     ]
   },
   {
-    "Name": "ombre lunaire\u00A0» : taux d",
+    "Name": "辉天的星告",
+    "Version": "6.7",
+    "Order": 1,
+    "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/1d5156638949b67cf0d1e5bc192c8b9e_2860105966740958802_transformed.jpg",
+    "Banner2": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/06/17/1d5156638949b67cf0d1e5bc192c8b9e_2860105966740958802_transformed.jpg",
+    "From": "2026-07-01T06:00:00+08:00",
+    "To": "2026-07-21T17:59:00+08:00",
+    "Type": 500,
+    "UpOrangeList": [
+      10000035,
+      10000058,
+      10000071,
+      10000086,
+      10000109,
+      11502,
+      13511,
+      14509,
+      14513,
+      14518
+    ],
+    "UpPurpleList": []
+  },
+  {
+    "Name": "ombre lunaire » : taux d",
     "Version": "6.7",
     "Order": 2,
     "Banner": "https://sdk-webstatic.mihoyo.com/upload/ann/2026/07/07/2774c204f9ffab387d1a9a942b63fd04_1035261854737020580_transformed.jpg",
