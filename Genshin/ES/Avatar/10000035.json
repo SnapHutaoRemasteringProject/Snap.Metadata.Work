@@ -293,6 +293,7 @@
         "Id": 10351,
         "Name": "Técnica de espada antigua",
         "Description": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques consecutivos con espada.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume cierta cantidad de Aguante para desatar un doble golpe de espada.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo Daño en el AdE en el momento del impacto.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_01"
       },
       {
@@ -590,6 +591,7 @@
         "Name": "Magia Adeptus: Heraldo de la escarcha",
         "Description": "Usando su talismán de sangre helada, Qiqi invoca al Heraldo de la escarcha, infligiendo <color=#99FFFFFF>Daño Cryo</color> a todos los enemigos cercanos.\n\n<color=#FFD780FF>Heraldo de la escarcha</color>\n·Cuando Qiqi golpea a un objetivo con sus Ataques Normales o Cargados, regenera Vida para todos los miembros de tu equipo y todos los personajes aliados cercanos. La cantidad de Vida regenerada es proporcional al ATQ de Qiqi.\n·Regenera una cierta cantidad de Vida del personaje en uso a intervalos regulares.\n·Sigue al personaje en uso para infligir <color=#99FFFFFF>Daño Cryo</color> a todos los enemigos que se encuentre a su paso.\n\n<i>“Utilizo esto para evitar el aumento de la temperatura y la podredumbre de... las valiosas hierbas medicinales del Dr. Baizhu”</i>.",
         "SpecialDescription": "Usando su talismán de sangre helada, Qiqi invoca al Heraldo de la escarcha e inflige <color=#99FFFFFF>Daño Cryo</color> a todos los enemigos cercanos.\n\n<color=#FFD780FF>Heraldo de la escarcha</color>\n·Cuando Qiqi golpea a un objetivo con sus Ataques Normales o Cargados, regenera Vida para tus personajes del equipo y los personajes aliados cercanos. La cantidad de Vida regenerada es proporcional al ATQ de Qiqi.\n·Regenera periódicamente una cierta cantidad de Vida a tu personaje en uso.\n·Sigue al personaje en uso para infligir <color=#99FFFFFF>Daño Cryo</color> a todos los enemigos que se encuentre a su paso.\n·Cuando tu personaje en uso del equipo golpee a un enemigo con un ataque, el Heraldo de la escarcha ejecutará un ataque coordinado que inflige <color=#99FFFFFF>Daño Cryo</color>.\n\n\n<i>“Utilizo esto para evitar el aumento de la temperatura y la podredumbre de... las valiosas hierbas medicinales del Dr. Baizhu”.</i>",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Qiqi_01"
       }
     ],
@@ -613,6 +615,7 @@
         "Id": 355101,
         "Name": "Siete tesoros sagrados",
         "Description": "#El TdE de la Habilidad Elemental, <color=#FFD780FF>Magia Adeptus: Heraldo de la escarcha</color>, se reduce a 15{NON_BREAK_SPACE}s.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nMientras el Heraldo de la escarcha esté activo, el daño de las reacciones de Superconductor y Superconductor Estelar de tus personajes del equipo aumentará en un 50%.\nAdemás, Qiqi entrará en el estado de <color=#FFD780FF>esplendor: Superconductor Estelar</color> mientras se encuentre dentro de un {LINK#N11330003}<color=#FFD780FF>campo estrellapolar</color>{/LINK}.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Qiqi_08"
       }
     ],
@@ -845,6 +848,7 @@
       "Name": "Magia Adeptus: Preservadora de la fortuna",
       "Description": "Qiqi libera el poder Adeptus sellado dentro de su cuerpo, marcando a los enemigos cercanos con un talismán de conservación de la fortuna que inflige <color=#99FFFFFF>Daño Cryo</color>.\n\n<color=#FFD780FF>Talismán de conservación de la fortuna</color>\nCuando los enemigos marcados con el talismán reciben daño, el personaje que infligió el daño regenera Vida para sí mismo.\n\n<i>“Soy la Preservadora de la Fortuna, la Doncella de la Resurrección”.</i>\n<i>—Qiqi no recuerda cuándo dijo estas palabras.</i>",
       "SpecialDescription": "Qiqi libera el poder adéptico sellado dentro de su cuerpo para marcar a los enemigos cercanos con un talismán de conservación de la fortuna e infligir <color=#99FFFFFF>Daño Cryo</color>.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nInflige una vez adicional <color=#99FFFFFF>Daño Cryo</color> considerado como daño de Superconductor Estelar.\n\n<color=#FFD780FF>Talismán de conservación de la fortuna</color>\nCuando los enemigos marcados con el talismán reciban daño, el personaje que infligió el daño recuperará Vida.\n\n<i>“Soy la Preservadora de la Fortuna, la Doncella de la Resurrección”.</i>\n<i>Qiqi no recuerda cuándo dijo estas palabras.</i>",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Qiqi_01"
     },
     "Inherents": [
@@ -864,6 +868,7 @@
         "Id": 352101,
         "Name": "Elixir de vida",
         "Description": "Cuando un personaje bajo el efecto de <color=#FFD780FF>Magia Adeptus: Heraldo de la escarcha</color> provoca una Reacción Elemental, aumenta su Bono de Curación recibida en un 20% durante 8 s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Qiqi_05"
       },
       {
@@ -885,6 +890,7 @@
         "Id": 352201,
         "Name": "Apertura arcana",
         "Description": "Cuando Qiqi golpea a sus enemigos con un Ataque Normal o Cargado, tiene un 50% de probabilidad de ponerles un talismán de conservación de la fortuna durante 6 s. Este efecto solo puede activarse una vez cada 30 s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Qiqi_06"
       },
       {
@@ -903,6 +909,7 @@
         "Id": 352301,
         "Name": "Recuerdos de una vida pasada",
         "Description": "Muestra la ubicación de los <color=#FFD780FF>objetos típicos de Liyue</color> cercanos en el minimapa.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_Collect_Local_Liyue"
       }
     ],

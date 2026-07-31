@@ -261,6 +261,7 @@
         "Id": 11321,
         "Name": "“¡Catapum!”: Martillo rompehechizos",
         "Description": "<color=#FFD780FF>Ataque Normal</color>\nBlande su Martillo del Juramento Cazahecatombes para realizar hasta 3 ataques que infligen <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume cierta cantidad de Aguante y realiza una acometida ascendente con el martillo que inflige <color=#80FFD7FF>Daño Anemo</color> a los enemigos que tenga delante.\n\n<color=#FFD780FF>Ataque Descendente</color>\nConcentra el poder del viento y se lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> en el momento del impacto.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -413,6 +414,7 @@
         "Id": 11322,
         "Name": "“¡Tilín!”: Tañido cazaconjuros",
         "Description": "#¡Desata el poder del viento para derrotar a la malvada bruja y salvar a Descartes! Prune golpea su Cascabel Cautivabrujas con el Martillo del Juramento Cazahecatombes e inflige <color=#80FFD7FF>Daño Anemo</color>.\nSi Prune causa una reacción de Torbellino contra un enemigo con dicho ataque, <color=#FFD780FF>“¡Tilín!”: Tañido cazaconjuros</color> se remplazará por <color=#FFD780FF>“¡Clang-clang!”: Retribución juzgabrujas</color> durante los siguientes 6{NON_BREAK_SPACE}s.\n\n<color=#FFD780FF>“¡Clang-clang!”: Retribución juzgabrujas</color>\nEnvuelve el {LINK#N11320001}<color=#FFD780FF>Martillo del Juramento Cazahecatombes</color>{/LINK} con el elemento que haya formado parte de la reacción de Torbellino anterior y hace que sufra un cambio elemental, de modo que, al {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez}, Prune saltará y pateará su martillo hacia delante, lo que infligirá daño del tipo elemental correspondiente a los enemigos que tenga enfrente.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Prune_01"
       }
     ],
@@ -438,6 +440,7 @@
         "Id": 1325101,
         "Name": "Rito de la noche de brujas: Juramento de la buscabrujas",
         "Description": "#Tras completar la misión <color=#FFD780FF>«Lecciones del Aquelarre: De lo que se refuta»</color>, Prune se convertirá en un personaje <color=#FFD780FF>taumatúrgico</color>. Cuando en el equipo haya al menos 2 personajes taumatúrgicos, estos obtendrán el efecto de <color=#FFD780FF>taumaturgia: rito secreto</color>, el cual les otorgará ciertos fortalecimientos.\n\n<color=#FFD780FF>Taumaturgia: rito secreto</color>\nCuando un personaje taumatúrgico del equipo cause una Reacción Elemental contra un enemigo mientras esté bajo el efecto de inspiración tintineante, el ATQ de Prune aumentará en un 60% durante 5{NON_BREAK_SPACE}s. Si la reacción causada es de Torbellino, el ATQ de dicho personaje aumentará en un 30% adicional durante 5{NON_BREAK_SPACE}s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_07"
       }
     ],
@@ -623,6 +626,7 @@
       "Id": 11325,
       "Name": "“¡Ding-ding!”: ¡A la caza de la bruja!",
       "Description": "Prune sacude suavemente el Cascabel Cautivabrujas e inflige <color=#80FFD7FF>Daño Anemo</color> a los enemigos cercanos. Después, el Cascabel Cautivabrujas entrará en modo “rastreapresas”.\n\n<color=#FFD780FF>Cascabel Cautivabrujas: rastreapresas</color>\nEn este modo, el Cascabel Cautivabrujas seguirá al personaje en uso y atacará a los enemigos cercanos de forma periódica, infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> que se considerará daño de Habilidad Definitiva.",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Prune_01"
     },
     "Inherents": [
@@ -644,6 +648,7 @@
         "Id": 1322101,
         "Name": "Juicio y condena",
         "Description": "Durante la Habilidad Definitiva, {LINK#S11325}<color=#FFD780FF>“¡Ding-ding!”: ¡A la caza de la bruja!</color>{/LINK}, cuando el Cascabel Cautivabrujas inflija daño a un enemigo en el modo rastreapresas, si dicho daño causa una reacción de Torbellino, Prune invocará frente al enemigo un {LINK#N11320001}<color=#FFD780FF>Martillo del Juramento Cazahecatombes</color>{/LINK} que haya sufrido el cambio elemental correspondiente para atacarlo e infligir daño del elemento correspondiente en una cantidad equivalente al 150% del ATQ de Prune. Este daño se considera daño de Habilidad Definitiva.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_05"
       },
       {
@@ -667,6 +672,7 @@
         "Id": 1322201,
         "Name": "Sincronía tintineante",
         "Description": "#Cuando Prune golpee a un enemigo con su {LINK#N11320001}<color=#FFD780FF>Martillo del Juramento Cazahecatombes</color>{/LINK} después de que este haya sufrido un cambio elemental, los demás personajes cercanos del equipo obtendrán el efecto de “inspiración tintineante” durante 5{NON_BREAK_SPACE}s, de manera que, al infligir daño a un enemigo con un Ataque Normal, Cargado o Descendente, o con la Habilidad Elemental o Definitiva, el daño infligido con dicho golpe aumentará en un 0.025% por cada punto de ATQ que tenga Prune por encima de los 2000{NON_BREAK_SPACE}pts. en el momento en el que se haya obtenido el efecto de inspiración tintineante, hasta un máximo del 50%.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_06"
       },
       {
@@ -685,6 +691,7 @@
         "Id": 1322301,
         "Name": "¡Cling, cling! ¡Pum, pam!",
         "Description": "Al fabricar materiales de talento de personaje, hay una probabilidad del 10% de obtener otro aleatorio de la misma región y rango que el material resultante.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_08"
       }
     ],

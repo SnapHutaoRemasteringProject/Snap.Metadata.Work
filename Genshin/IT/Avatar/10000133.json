@@ -293,6 +293,7 @@
         "Id": 11331,
         "Name": "Formula fenomenale: Proposizione autoevidente",
         "Description": "<color=#FFD780FF>Attacco normale</color>\nGenera fili tramite formule che controllano la sua arma, sferrando fino a 3 colpi consecutivi.\n\n<color=#FFD780FF>Attacco caricato</color>\nEvoca la Facilitatrice Automatisée Généraliste Interactive et Omnitâche, anche detta \"<color=#FFD780FF>Fagio</color>\", che entra in modalità <color=#FFD780FF>{LINK#N11330001}Decodifica{/LINK}</color>, durante la quale scatena una Raffica di fuoco contro i nemici di fronte a sé e spara periodicamente Raggi condensati che infliggono <color=#99FFFFFF>DAN da Cryo ad area</color>.\nNello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, i <color=#99FFFFFF>DAN da Cryo ad area</color> inflitti dai Raggi condensati sono considerati DAN da Astroconduzione.\nIn modalità <color=#FFD780FF>Decodifica</color>, la <color=#FFD780FF>{LINK#N11330002}Potenza di decodifica{/LINK}</color> di Fagio aumenta costantemente. Sparare Raggi condensati incrementa la Potenza di decodifica in maniera ulteriore.\nQuando la Potenza di decodifica di Fagio raggiunge il massimo di 100 punti, Fagio passa alla modalità <color=#FFD780FF>Overdrive di potenza</color>, durante la quale spara agli avversari a intervalli più lunghi infliggendo <color=#99FFFFFF>DAN da Cryo</color>, e non può rientrare in modalità Decodifica.\nQuando non è in modalità <color=#FFD780FF>Decodifica</color>, la <color=#FFD780FF>Potenza di decodifica</color> di Fagio si riduce gradualmente. Quando Sandrone non è in campo, quest'ultima si concentra sul mantenimento di Fagio, e la Potenza di decodifica si riduce a un 300% del tasso di riduzione originale.\nFagio esce dalla modalità <color=#FFD780FF>Overdrive di potenza</color> quando la <color=#FFD780FF>Potenza di decodifica</color> scende al di sotto dei 50 punti.\n\n<color=#FFD780FF>Attacco in picchiata</color>\nAttacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_04"
       },
       {
@@ -445,6 +446,7 @@
         "Id": 11332,
         "Name": "Formula fenomenale: Analisi differenziale",
         "Description": "#Con il suo portamento impeccabile e signorile, Sandrone sale a bordo dell'<color=#FFD780FF>Hovermech d'assalto tattico del tè pomeridiano</color> e fluttua in avanti per 6{NON_BREAK_SPACE}s. Durante questo periodo di tempo, Sandrone può controllare la direzione del mezzo. Tramite {LAYOUT_MOBILE#il tocco}{LAYOUT_PC#la pressione}{LAYOUT_PS#la pressione} dello Scatto, consuma 10 di vigore per lanciarsi in un'elegante modalità di levitazione ad alta velocità, che le permette di muoversi ancora più velocemente consumando 15 di vigore al secondo.\n\nQuando Sandrone inizia a levitare, se sono presenti avversari nelle vicinanze, evoca anche un Cannone a risonanza prismatica e spara 2 Colpi prismatici contro qualsiasi avversario ancora a tiro, infliggendo <color=#99FFFFFF>DAN da Cryo</color>.\nNello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, il secondo Colpo prismatico infligge <color=#99FFFFFF>DAN da Cryo</color> considerati DAN da Astroconduzione.\n\nQuando l'Hovermech d'assalto tattico del tè pomeridiano è attivo, Sandrone ne approfitta per riparare Fagio con grazia ed eleganza, causando una rapida riduzione della <color=#FFD780FF>{LINK#N11330002}Potenza di decodifica{/LINK}</color>.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_MarionetteNew_01"
       }
     ],
@@ -630,6 +632,7 @@
       "Id": 11335,
       "Name": "Formula fenomenale: Quod erat demonstrandum",
       "Description": "In linea con l'etichetta di una vera dama, Sandrone evoca un gran numero di Cannoni a risonanza prismatica per sferrare un Bombardamento frontale, per poi colpire i nemici con un Raggio a inibizione convettiva, infliggendo <color=#99FFFFFF>DAN da Cryo ad area</color>.\nNello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, il Raggio a inibizione convettiva infligge <color=#99FFFFFF>DAN da Cryo ad area</color> considerati DAN da Astroconduzione.",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_MarionetteNew_01"
     },
     "Inherents": [
@@ -652,6 +655,7 @@
         "Id": 1332101,
         "Name": "Motore di calcolo eterno",
         "Description": "#Nello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, quando Sandrone utilizza l'abilità elementale {LINK#S11332}<color=#FFD780FF>Formula fenomenale: Analisi differenziale</color>{/LINK}, se la <color=#FFD780FF>{LINK#N11330002}Potenza di decodifica{/LINK}</color> di Fagio è superiore a 50 punti, il secondo Colpo prismatico di Fagio scagliato agli avversari vicini infligge un 400% dei suoi DAN originali, comportando al contempo una riduzione della Potenza di decodifica.\nIn più, per ogni 10 punti di <color=#FFD780FF>Potenza di decodifica</color> persi, Fagio ottiene 1 accumulo di <color=#FFD780FF>Tattiche sofisticate</color> per 60{NON_BREAK_SPACE}s (massimo 10 accumuli). Quando Sandrone utilizza il Tripudio elementale {LINK#S11335}<color=#FFD780FF>Formula fenomenale: Quod erat demonstrandum</color>{/LINK} mentre è nello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, tutti gli accumuli di Tattiche sofisticate vengono rimossi, permettendo al Raggio a inibizione convettiva di infliggere un 100%{NON_BREAK_SPACE}+{NON_BREAK_SPACE}(numero di accumuli rimossi){NON_BREAK_SPACE}×{NON_BREAK_SPACE}10% dei suoi DAN originali.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_05"
       },
       {
@@ -673,6 +677,7 @@
         "Id": 1332201,
         "Name": "Codice di condotta di una signora",
         "Description": "Per ogni 100 di ATT, la maestria elementale di Sandrone aumenta di 8. L'aumento massimo ottenibile in questo modo è pari a 160.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_06"
       },
       {
@@ -694,6 +699,7 @@
         "Id": 1332301,
         "Name": "Luce del razionalismo",
         "Description": "Quando i membri del gruppo innescano una reazione di Superconduzione, questa si trasforma in Astroconduzione, e i DAN base da Astroconduzione dei membri del gruppo vengono aumentati in base all'ATT di Sandrone. Per ogni 100 di ATT di Sandrone, i suddetti DAN base aumentano di uno 0,7%, fino a un 14% massimo.\nInoltre, quando Sandrone si trova in un {LINK#N11330003}<color=#FFD780FF>Campo astropolare</color>{/LINK}, entra nello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_07"
       },
       {
@@ -712,6 +718,7 @@
         "Id": 1332501,
         "Name": "Preludio del caucus e un lungo racconto",
         "Description": "Quando Sandrone è nel gruppo, ottieni ricompense aggiuntive sotto forma di spuntini dopo aver completato gli incarichi giornalieri di Katheryne.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_08"
       }
     ],

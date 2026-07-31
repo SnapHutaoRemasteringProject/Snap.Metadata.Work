@@ -308,6 +308,7 @@
         "Id": 11291,
         "Name": "西風槍術·破誓",
         "Description": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續攻擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，進行向前的突刺攻擊。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_03"
       },
       {
@@ -710,6 +711,7 @@
         "Id": 11292,
         "Name": "奇兵詭出",
         "Description": "尋覓敵人的破綻，切換至{LINK#N11290001}<color=#FFD780FF>奇謀</color>{/LINK}狀態。在這種狀態下：\n·洛恩可以主動累積{LINK#N11290003}<color=#FFD780FF>歡悅</color>{/LINK}，從而施放特殊的元素戰技{LINK#N11290002}<color=#FFD780FF>鏤骨徹心</color>{/LINK}。\n·隊伍中附近的其他角色可以為洛恩累積{LINK#N11290004}<color=#FFD780FF>爭勝</color>{/LINK}，來提高<color=#FFD780FF>鏤骨徹心</color>的傷害。\n在<color=#FFD780FF>奇謀</color>狀態下至多施放3次<color=#FFD780FF>鏤骨徹心</color>，之後無法獲得<color=#FFD780FF>歡悅</color>。\n\n<i>「騎士道？哈，那倒的確是絕佳的誘餌。當敵人還幻想著堂堂正正一決勝負時，絕不會想到等待他們的是怎樣的『驚喜』。」</i>",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Lohen_01"
       }
     ],
@@ -734,6 +736,7 @@
         "Id": 1295101,
         "Name": "魔女的前夜禮·不癒之刺",
         "Description": "完成<color=#FFD780FF>魔女的課業·諸敵之題</color>後，洛恩將成為<color=#FFD780FF>魔導</color>角色。隊伍中編入至少2名魔導角色時，將獲得<color=#FFD780FF>魔導·秘儀</color>效果，使魔導角色獲得強化。\n\n<color=#FFD780FF>魔導·秘儀</color>\n特殊元素戰技{LINK#N11290002}<color=#FFD780FF>鏤骨徹心</color>{/LINK}命中敵人或施放元素爆發<color=#FFD780FF>裁罰遂成</color>時，若{LINK#N11290004}<color=#FFD780FF>爭勝</color>{/LINK}至少為上限的50%，則洛恩的普通攻擊與重擊造成的傷害提升40%，持續6秒。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Lohen_07"
       }
     ],
@@ -903,6 +906,7 @@
       "Id": 11295,
       "Name": "裁罰遂成",
       "Description": "向前方快速連續斬擊，消耗所有{LINK#N11290004}<color=#FFD780FF>爭勝</color>{/LINK}，造成<color=#99FFFFFF>冰元素傷害</color>，並依據消耗的<color=#FFD780FF>爭勝</color>，提升本次傷害。施放時，若洛恩處於{LINK#N11290001}<color=#FFD780FF>奇謀</color>{/LINK}狀態下，則本次<color=#FFD780FF>奇謀</color>狀態的持續時間還會延長1.65秒。\n\n<i>「這麼快就全說了？我都還沒盡興呢。」</i>",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Lohen_01"
     },
     "Inherents": [
@@ -925,6 +929,7 @@
         "Id": 1292101,
         "Name": "禁問的訓誡",
         "Description": "在{LINK#N11290001}<color=#FFD780FF>奇謀</color>{/LINK}狀態下，隊伍中附近的其他角色透過造成傷害為洛恩累積{LINK#N11290004}<color=#FFD780FF>爭勝</color>{/LINK}時，若本次傷害不低於洛恩基礎攻擊力的3000%，則還會為洛恩額外累積60點<color=#FFD780FF>爭勝</color>。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Lohen_05"
       },
       {
@@ -947,6 +952,7 @@
         "Id": 1292201,
         "Name": "戲言的傑作",
         "Description": "在{LINK#N11290001}<color=#FFD780FF>奇謀</color>{/LINK}狀態下，隊伍中附近的其他角色對敵人觸發<color=#99FFFFFF>冰元素相關反應</color>後的8秒內，該角色的攻擊力提升15%，洛恩的攻擊力提升15%。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Lohen_06"
       },
       {
@@ -969,6 +975,7 @@
         "Id": 1292301,
         "Name": "興盡且去來",
         "Description": "施放元素戰技<color=#FFD780FF>奇兵詭出</color>後，洛恩還會獲得9秒的「乘興」效果：持續期間，元素戰技<color=#FFD780FF>奇兵詭出</color>的技能等級提高1級。\n施放元素戰技時，如果隊伍中其他角色的普通攻擊、元素戰技或元素爆發中，任一技能等級不低於洛恩的元素戰技的技能等級，則本次「乘興」效果的持續時間額外延長6秒。\n每18秒至多獲得一次「乘興」效果。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Lohen_08"
       }
     ],

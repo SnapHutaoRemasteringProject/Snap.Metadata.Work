@@ -261,6 +261,7 @@
         "Id": 11321,
         "Name": "Badaboum ! Marteau d'exorcisme",
         "Description": "<color=#FFD780FF>Attaque normale</color>\nBrandit le marteau-serment de chasse des fléaux et enchaîne jusqu'à 3 attaques qui infligent des <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance et effectue un coup de marteau ascendant pour infliger des <color=#80FFD7FF>DGT Anémo</color> après un court délai.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant ses pouvoirs élémentaires, infligeant des DGT aux ennemis en chemin et des <color=#80FFD7FF>DGT Anémo de zone</color> à l'impact.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -413,6 +414,7 @@
         "Id": 11322,
         "Name": "Ding ding ding ! Carillon de chasse aux sorcières",
         "Description": "Libère la puissance du vent pour vaincre la sorcière maléfique et sauver Descartes ! Prune frappe sa cloche de l'ensorceleuse avec son marteau-serment de chasse des fléaux, infligeant des <color=#80FFD7FF>DGT Anémo</color>.\nSi Prune déclenche une réaction de Dispersion sur un ennemi grâce à cette attaque, <color=#FFD780FF>Ding ding ding ! Carillon de chasse aux sorcières</color> est converti en <color=#FFD780FF>Bang bang ! Arrivée de la rétribution de sorcière</color> pendant 6 s.\n\n<color=#FFD780FF>Bang bang ! Arrivée de la rétribution de sorcière</color>\nLe {LINK#N11320001}<color=#FFD780FF>marteau-serment de chasse des fléaux</color>{/LINK} subit une conversion de l'élément impliqué dans la réaction de Dispersion. Utiliser un appui simple permet à Prune de bondir et de propulser son marteau vers l'avant d'un coup de pied, infligeant des DGT de l'élément correspondant aux ennemis devant elle.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Prune_01"
       }
     ],
@@ -438,6 +440,7 @@
         "Id": 1325101,
         "Name": "Veillée de la sorcière : Vœu de recherche de sorcières",
         "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « Sujet de réfutation »</color>, Prune devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\nLorsqu'un personnage héxère de l'équipe affecté par l'effet Ralliement du glas a déclenché une réaction élémentaire sur un ennemi, l'ATQ de Prune augmente de 60 % pendant 5 s. Si la réaction élémentaire déclenchée est une Dispersion, l'ATQ du personnage concerné augmente également de 30 % pendant 5 s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_07"
       }
     ],
@@ -623,6 +626,7 @@
       "Id": 11325,
       "Name": "Le glas sonne ! La chasse est ouverte",
       "Description": "Prune agite doucement sa cloche de l'ensorceleuse, infligeant des <color=#80FFD7FF>DGT Anémo</color> aux ennemis proches avant que la cloche ne passe en mode Chasse-traque.\n\n<color=#FFD780FF>Cloche de l'ensorceleuse : Chasse-traque</color>\nDans ce mode, la cloche de l'ensorceleuse suit le personnage déployé, attaquant les ennemis à proximité de façon intermittente en leur infligeant des <color=#80FFD7FF>DGT Anémo de zone</color>, ces DGT étant considérés comme des DGT de déchaînement élémentaire.",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Prune_01"
     },
     "Inherents": [
@@ -644,6 +648,7 @@
         "Id": 1322101,
         "Name": "Verdict et peine",
         "Description": "Lorsque la cloche de l'ensorceleuse du mode Chasse-traque inflige des DGT à un ennemi pendant le déchaînement élémentaire <color=#FFD780FF>{LINK#S11325}Le glas sonne ! La chasse est ouverte{/LINK}</color>, déclencher par la même occasion une réaction de Dispersion sur l'ennemi invoque un {LINK#N11320001}<color=#FFD780FF>marteau-serment de chasse des fléaux</color>{/LINK} dont l'élément est converti selon la réaction élémentaire, infligeant des DGT élémentaires d'une valeur équivalant à 150 % de l'ATQ de Prune. Ces dégâts sont considérés comme des DGT de déchaînement élémentaire.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_05"
       },
       {
@@ -667,6 +672,7 @@
         "Id": 1322201,
         "Name": "Synchronicité des cloches",
         "Description": "Lorsque Prune a touché un ennemi avec un {LINK#N11320001}<color=#FFD780FF>marteau-serment de chasse des fléaux</color>{/LINK} dont l'élément a été converti, les autres personnages de l'équipe à proximité obtiennent l'effet Ralliement du glas pendant 5 s : chaque pt d'ATQ de Prune au-dessus de 2 000 pts lors de l'obtention de l'effet Ralliement du glas augmente les DGT infligés par les attaques normales, les attaques chargées, les attaques plongeantes, les compétences élémentaires et les déchaînements élémentaires de 0,025 %, jusqu'à un maximum de 50 %.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_06"
       },
       {
@@ -685,6 +691,7 @@
         "Id": 1322301,
         "Name": "Modification bing, bang, boum !",
         "Description": "10 % de chances de synthétiser un matériau d'aptitude aléatoire supplémentaire (même rareté et région que le matériau obtenu).",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_08"
       }
     ],

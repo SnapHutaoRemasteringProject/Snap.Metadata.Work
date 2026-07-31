@@ -261,6 +261,7 @@
         "Id": 11091,
         "Name": "Corazón puro, sueños puros",
         "Description": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 3 ataques, los cuales infligen <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante e inflige <color=#80FFD7FF>Daño Anemo en el AdE</color> después de un corto tiempo de canalización.\n\n<color=#FFD780FF>Ataque Descendente</color>\nConcentra el poder Anemo y se lanza desde el aire para golpear el suelo, atacando a los enemigos que encuentre en su trayecto e infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> en el momento del impacto.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -445,6 +446,7 @@
         "Id": 11092,
         "Name": "Peregrinaje de Aisa Utamakura",
         "Description": "Teje dulces recuerdos oníricos y entra en el estado de <color=#FFD780FF>navegasueños</color>, durante el cual flota a ras de suelo e inflige una vez <color=#80FFD7FF>Daño Anemo en el AdE</color> a los enemigos cercanos.\n\n<color=#FFD780FF>Navegasueños</color>\n·Mientras está en este estado, Yumemizuki Mizuki flota continuamente hacia delante e inflige cada cierto tiempo <color=#80FFD7FF>Daño Anemo en el AdE</color> a los enemigos cercanos.\n·Mientras el estado de navegasueños está activo, Yumemizuki Mizuki puede controlar la dirección en la que flota y aumenta la distancia desde la que se pueden recoger los <color=#FFD780FF>dulces especiales de Yumemizuki</color> de la Habilidad Definitiva, <color=#FFD780FF>Terapia del manantial de Anraku</color>.\n·Aumenta el daño de la reacción de Torbellino causada por los personajes cercanos del equipo en función de la Maestría Elemental de Yumemizuki Mizuki.\n·El estado de navegasueños termina cuando Mizuki sea retirada del campo de batalla o utilice de nuevo su Habilidad Elemental.\n\n<i>“Noche y luna sueñan con encontrarse, mas su canción resuena en nuestros corazones”.</i>",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
@@ -470,6 +472,7 @@
         "Id": 1095101,
         "Name": "Inmensidad del ensueño",
         "Description": "#Cuando Yumemizuki Mizuki cause una reacción de Torbellino en estado de navegasueños, el próximo <color=#80FFD7FF>Daño Anemo en el AdE</color> periódico que inflija a los enemigos cercanos durante ese estado de navegasueños aumentará en una cantidad equivalente al 1000% de su Maestría Elemental. Este efecto solo se puede activar una vez cada 2.5{NON_BREAK_SPACE}s.\nAdemás, mientras esté en estado de navegasueños, la Maestría Elemental de los personajes cercanos del equipo aumentará en una cantidad equivalente al 10% de la Maestría Elemental de Yumemizuki Mizuki.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_08"
       }
     ],
@@ -686,6 +689,7 @@
       "Id": 11095,
       "Name": "Terapia del manantial de Anraku",
       "Description": "Invoca los recuerdos de innumerables sueños y pesadillas para atraer los objetos y enemigos cercanos, infligir <color=#80FFD7FF>Daño Anemo en el AdE</color> e invocar a una minibaku para que la ayude.\n\n<color=#FFD780FF>Minibaku</color>\nAcompaña al personaje en uso. Cada cierto tiempo, la minibaku crea 1 dulce especial de Yumemizuki en un lugar cercano. Cuando alguno de tus personajes recoja un dulce, si su Vida es superior al 70%, el dulce explota y libera una onda de choque munen que inflige una vez <color=#80FFD7FF>Daño Anemo en el AdE</color> a los enemigos cercanos. Si la Vida no es superior al 70%, restaurará Vida a quien lo recogió en función de la Maestría Elemental de Yumemizuki Mizuki. Si es ella quien recupera Vida por haber recogido un dulce, la cantidad de Vida restaurada aumenta en un 100%. Los dulces que no se recojan después de cierto tiempo explotarán y liberarán una onda de choque munen que inflige una vez <color=#80FFD7FF>Daño Anemo en el AdE</color> a los enemigos cercanos.\n\n<i>“Si ocultas una emoción oscura durante demasiado tiempo, se convertirá en una pesadilla. Con eso en mente, ¿por qué no convertirla en un ‘dulce delicioso’ y comértela para hacerla desaparecer?”.</i>",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Mizuki_01"
     },
     "Inherents": [
@@ -705,6 +709,7 @@
         "Id": 1092101,
         "Name": "Voz trémula de la luna",
         "Description": "#Cuando Yumemizuki Mizuki causa una reacción de Torbellino mientras se encuentra en estado de navegasueños, la duración de dicho estado aumenta en 2.5{NON_BREAK_SPACE}s. Este efecto solo puede activarse una vez cada 0.3{NON_BREAK_SPACE}s y puede ocurrir, como máximo, 2 veces durante un mismo estado de navegasueños.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_05"
       },
       {
@@ -726,6 +731,7 @@
         "Id": 1092201,
         "Name": "Pensamientos diurnos, sueños nocturnos",
         "Description": "#Mientras Yumemizuki Mizuki se encuentre en estado de navegasueños, cuando otros miembros del equipo cercanos golpeen a un enemigo con un ataque <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#99FFFFFF>Cryo</color> o <color=#FFACFFFF>Electro</color>, la Maestría Elemental de Yumemizuki Mizuki aumenta en 100{NON_BREAK_SPACE}pts. durante 4{NON_BREAK_SPACE}s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_06"
       },
       {
@@ -746,6 +752,7 @@
         "Id": 1092301,
         "Name": "Desvanecimiento del dolor",
         "Description": "#Cuando Yumemizuki Mizuki está en el equipo y tus personajes del equipo usan comida regenerativa que no tenga la función de revivir, hay cierta probabilidad de que sus efectos regenerativos se potencien un 30%. La probabilidad de que se active este efecto depende del Niv. de Amistad del personaje correspondiente (este efecto siempre se activará si {F#la Viajera}{M#el Viajero} es quien consume la comida regenerativa).",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_07"
       }
     ],

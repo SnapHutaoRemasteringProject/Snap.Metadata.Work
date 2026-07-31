@@ -261,6 +261,7 @@
         "Id": 11321,
         "Name": "Babäääm! Hexenjäger-Hammer",
         "Description": "<color=#FFD780FF>Standardangriff</color>\nSchwingt den „Hammer des Jagdschwurs“, führt bis zu drei Angriffe aus und verursacht <color=#80FFD7FF>Anemo-Schaden</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und führt einen Hammerhieb nach oben aus, der Gegnern vorne <color=#80FFD7FF>Anemo-Schaden</color> zufügt.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft des Windes, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#80FFD7FF>Anemo-Flächenschaden</color>.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -413,6 +414,7 @@
         "Id": 11322,
         "Name": "Klingeling! Klang der Hexenjagd",
         "Description": "#Mit der Entschlossenheit, die böse Hexe zu besiegen und Descartes zu retten, entfessle die Kraft des Windes! Prune schlägt mit dem „Hammer des Jagdschwurs“ auf das „Köderglöckchen“ und verursacht <color=#80FFD7FF>Anemo-SCH</color>.\nWenn Prune durch diesen Angriff bei einem Gegner eine Verwirbelung auslöst, wird innerhalb der nächsten 6{NON_BREAK_SPACE}s <color=#FFD780FF>Klingeling! Klang der Hexenjagd</color> durch <color=#FFD780FF>Bumm-Bumm! Strafe des Hexenrichters</color> ersetzt.\n\n<color=#FFD780FF>Bumm-Bumm! Strafe des Hexenrichters</color>\nDie Elementarenergie vom Typ der vorigen Verwirbelung umhüllt jetzt den „Hammer des Jagdschwurs“, der nun eine Elementarumwandlung durchläuft. Bei Anwendung durch Drücken springt Prune hoch und tritt den {LINK#N11320001}<color=#FFD780FF>Hammer des Jagdschwurs</color>{/LINK} nach vorne, wodurch sie Gegnern vor ihr SCH des entsprechenden Elementartyps zufügt.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Prune_01"
       }
     ],
@@ -438,6 +440,7 @@
         "Id": 1325101,
         "Name": "Geschenk der Hexennacht – Schwur der Hexenjäger",
         "Description": "#Wandelt Prune nach dem Abschluss von <color=#FFD780FF>Aufgabe der Hexe – Von Widerlegung</color> in eine <color=#FFD780FF>Hexerei</color>-Figur um. Verleiht, wenn sich in der Truppe mindestens 2 Hexerei-Figuren befinden, den Effekt <color=#FFD780FF>Hexerei – Geheimes Ritual</color>, der Hexerei-Figuren verstärkt.\n\n<color=#FFD780FF>Hexerei – Geheimes Ritual</color>\nErhöht, nachdem ein Hexerei-Truppenmitglied, das unter dem Einfluss von „Trommelwirbel“ steht, eine beliebige Elementarreaktion an einem Gegner auslöst, Prunes eigenen ANG 5{NON_BREAK_SPACE}s lang um 60{NON_BREAK_SPACE}%. Erhöht ihren eigenen ANG, wenn es sich bei der Elementarreaktion dieser Figur um eine Verwirbelungsreaktion handelt, 5{NON_BREAK_SPACE}s lang zusätzlich um 30{NON_BREAK_SPACE}%.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_07"
       }
     ],
@@ -623,6 +626,7 @@
       "Id": 11325,
       "Name": "Glockenläuten! Die Jagd ist eröffnet!",
       "Description": "Prune schwingt das „Köderglöckchen“ leicht und fügt Gegnern in der Umgebung <color=#80FFD7FF>Anemo-SCH</color> zu. Danach wechselt das „Köderglöckchen“ in den Modus „Jagdsuche“.\n\n<color=#FFD780FF>Köderglöckchen – Jagdsuche</color>\nIn diesem Modus folgt das „Köderglöckchen“ der aktuellen Figur, greift in regelmäßigen Abständen Gegner in der Umgebung an und verursacht <color=#80FFD7FF>Anemo-Flächenschaden</color>. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Prune_01"
     },
     "Inherents": [
@@ -644,6 +648,7 @@
         "Id": 1322101,
         "Name": "Entscheidung und Strafe",
         "Description": "#Beschwört, wenn das „Köderglöckchen“ im Modus „Jagdsuche“ der Spezialfähigkeit <color=#FFD780FF>{LINK#S11325}Glockenläuten! Die Jagd ist eröffnet!{/LINK}</color> einem Gegner Schaden zufügt und dieser Schaden eine Verwirbelung auslöst, die den Gegner trifft, vor dem Gegner einen {LINK#N11320001}<color=#FFD780FF>Hammer des Jagdschwurs</color>{/LINK}. Dieser führt eine Elementarumwandlung basierend auf der ausgelösten Verwirbelung durch, schlägt auf den Gegner ein und verursacht dabei Elementar-Schaden des entsprechenden Typs in Höhe von 150{NON_BREAK_SPACE}% von Prunes ANG. Hierdurch verursachter Schaden gilt als Schaden der Spezialfähigkeit.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_05"
       },
       {
@@ -667,6 +672,7 @@
         "Id": 1322201,
         "Name": "Herzschlag in Eintracht",
         "Description": "#Verleiht, wenn Prune einen Gegner mit dem {LINK#N11320001}<color=#FFD780FF>Hammer des Jagdschwurs</color>{/LINK}, der bereits eine Elementarumwandlung durchlaufen hat, trifft, anderen Truppenmitgliedern in der Nähe 5{NON_BREAK_SPACE}s lang den Effekt Trommelwirbel: Erhöht, wenn Standardangriffe, heftige Schläge, Angriffe aus dem Fall, Elementarfähigkeiten oder Spezialfähigkeiten Gegnern Schaden zufügen, den durch diesen Angriff verursachte Schaden basierend auf dem Teil von Prunes ANG, der über 2.000 liegt, zu dem Zeitpunkt, an dem sie den Effekt „Trommelwirbel“ erhielten: Erhöht für jeden Punkt ANG den durch diesen Angriff verursachte Schaden um 0,025{NON_BREAK_SPACE}%, bis zu 50{NON_BREAK_SPACE}%.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_06"
       },
       {
@@ -685,6 +691,7 @@
         "Id": 1322301,
         "Name": "Umbau! Krach, bumm!",
         "Description": "#Erschafft mit einer Wahrscheinlichkeit von 10{NON_BREAK_SPACE}% extra ein anderes zufälliges Material für Figurentalente aus demselben Gebiet mit einer dem erhaltenen Material entsprechenden Stufe.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_08"
       }
     ],

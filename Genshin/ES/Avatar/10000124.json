@@ -261,6 +261,7 @@
         "Id": 11241,
         "Name": "Flechazo oportuno",
         "Description": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 3 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, un fuerte viento se acumulará en la punta de la flecha que, al estar totalmente cargada con la fuerza del viento, infligirá <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire y desciende rápidamente mientras ataca a los enemigos a su paso, infligiendo Daño en el AdE al impactar contra el suelo.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_02"
       },
       {
@@ -521,6 +522,7 @@
         "Id": 11242,
         "Name": "Estratagema: Plan de reparto de riqueza",
         "Description": "#Jahoda carga contra el enemigo y, al golpearlo, entra en el estado “persecución saqueasombras”. Mientras esté en este estado, Jahoda se moverá continuamente a gran velocidad. Si los enemigos cercanos están afectados por <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, el {LINK#N11240001}<color=#FFD780FF>frasco maullisecreto</color>{/LINK} que Jahoda lleva consigo cambiará al tipo elemental correspondiente y empezará a llenarse continuamente. Cuando termine la duración o se vuelva a usar la habilidad, Jahoda vaciará el contenido del <color=#FFD780FF>frasco maullisecreto</color> para infligir una vez <color=#80FFD7FF>Daño Anemo</color> a los enemigos cercanos. Cuando el frasco se llene por completo, Jahoda también lo vaciará, saldrá del estado de persecución saqueasombras e infligirá una vez un mayor <color=#80FFD7FF>Daño Anemo</color>.\nSi Jahoda no golpea a ningún enemigo al cargar, arrojará una bomba de humo en la ubicación original e infligirá una vez <color=#80FFD7FF>Daño Anemo</color> a los enemigos cercanos.\n\n<color=#FFD780FF>Presagio lunar: resplandor ascendente</color>\nCuando el <color=#FFD780FF>frasco maullisecreto</color> esté lleno, Jahoda no lo vaciará de inmediato, sino que consumirá continuamente el elemento del frasco durante un tiempo para disparar periódicamente <color=#FFD780FF>gatibolitas blandisuaves</color> a los enemigos cercanos, las cuales infligen daño del mismo tipo elemental que el frasco. Cuando una <color=#FFD780FF>gatibolita blandisuave</color> golpee a un enemigo, Jahoda recuperará 2{NON_BREAK_SPACE}pts. de Energía Elemental. Este efecto solo puede ocurrir una vez cada 3.5{NON_BREAK_SPACE}s.\n\n<i>Hay muchas formas de distribuir la riqueza en este mundo, pero, para los cazadores de tesoros y los Ladrones de Tesoros de Nod Krai, solo existe una única manera eficiente de hacerlo.</i>",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Jahoda_01"
       }
     ],
@@ -798,6 +800,7 @@
       "Id": 11245,
       "Name": "Dispositivo secreto: Los siete artilugios de una cazadora",
       "Description": "¡Hora de usar por fin ese tesoro que quedaba en el fondo del baúl! Jahoda saca dos {LINK#N11240002}<color=#FFD780FF>coordinadores gatunos de asistencia doméstica</color>{/LINK} e inflige una vez <color=#80FFD7FF>Daño Anemo</color> a los enemigos cercanos.\n\n<i>“Eso de ‘coordinación de asistencia’ quiere decir que tú prestas ‘asistencia’ sacando tus Moras y nosotros ya nos encargamos de la ‘coordinación’. ¿Qué te parece? ¿A que no está nada mal?”.</i>",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Jahoda_01"
     },
     "Inherents": [
@@ -821,6 +824,7 @@
         "Id": 1242101,
         "Name": "Argucia remunerativa",
         "Description": "Cuando en el equipo haya al menos 1 personaje <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> o <color=#99FFFFFF>Cryo</color>, los {LINK#N11240002}<color=#FFD780FF>coordinadores gatunos de asistencia doméstica</color>{/LINK} de la Habilidad Definitiva, <color=#FFD780FF>Dispositivo secreto: Los siete artilugios de una cazadora</color>, se fortalecerán en función del número de personajes de cada tipo elemental.\nJahoda hará una nota mental de los personajes de los tipos elementales anteriormente mencionados. Si entre estos personajes el tipo elemental más numeroso es:\n·<color=#FF9999FF>Pyro</color>: los <color=#FFD780FF>coordinadores gatunos de asistencia doméstica</color> infligirán un 130% de su daño original.\n·<color=#80C0FFFF>Hydro</color>: los <color=#FFD780FF>coordinadores gatunos de asistencia doméstica</color> curarán un 120% de su cantidad original.\n·<color=#FFACFFFF>Electro</color>: aumentará en 1 el número de <color=#FFD780FF>coordinadores gatunos de asistencia doméstica</color>.\n·<color=#99FFFFFF>Cryo</color>: el intervalo de ataque de los <color=#FFD780FF>coordinadores gatunos de asistencia doméstica</color> se reducirá en un 10%.\n\nSi existe el mismo número de personajes de los tipos elementales mencionados, el registro se llevará a cabo en el siguiente orden: <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color>, <color=#99FFFFFF>Cryo</color>. Inicialmente solo se podrá obtener el efecto correspondiente a un único tipo elemental.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Jahoda_05"
       },
       {
@@ -842,6 +846,7 @@
         "Id": 1242201,
         "Name": "Dulce recompensa",
         "Description": "#Cuando los {LINK#N11240002}<color=#FFD780FF>coordinadores gatunos de asistencia doméstica</color>{/LINK} de la Habilidad Definitiva, <color=#FFD780FF>Dispositivo secreto: Los siete artilugios de una cazadora</color>, curen a tu personaje en uso del equipo, si este tiene más del 70% de la Vida, su Maestría Elemental aumentará en 100{NON_BREAK_SPACE}pts. durante 6{NON_BREAK_SPACE}s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Jahoda_06"
       },
       {
@@ -860,6 +865,7 @@
         "Id": 1242301,
         "Name": "Bendición presagiolunar: Carrera por los aleros",
         "Description": "#Cuando Jahoda esté en el equipo, el nivel de <color=#FFD780FF>presagio lunar</color> de los personajes aumentará en{NON_BREAK_SPACE}1.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Jahoda_07"
       },
       {
@@ -878,6 +884,7 @@
         "Id": 1242501,
         "Name": "Astucia callejera",
         "Description": "Reduce en un 25% el tiempo necesario para completar una expedición en Nod Krai.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Jahoda_08"
       }
     ],

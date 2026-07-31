@@ -261,6 +261,7 @@
         "Id": 11321,
         "Name": "Badabum! Büyükıran Çekiç",
         "Description": "<color=#FFD780FF>Normal Saldırı</color>\nBela Kovan Ant Çekicini savurarak <color=#80FFD7FF>Rüzgar Hasarı</color> veren en fazla 3 saldırı yapar.\n\n<color=#FFD780FF>Yüklü Saldırı</color>\nBelirli miktarda Dayanıklılık harcayarak çekiciyle yukarı doğru bir vuruş yapar ve önündeki düşmanlara <color=#80FFD7FF>Rüzgar Hasarı</color> verir.\n\n<color=#FFD780FF>Havadan Saldırı</color>\nRüzgar gücünü çağırarak havadayken yere doğru atılır ve yoluna çıkan tüm düşmanlara hasar verir. Yere vurduğunda <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -413,6 +414,7 @@
         "Id": 11322,
         "Name": "Ding Ding! Büyü Avı Zili",
         "Description": "Rüzgarın kudretini serbest bırakarak kötü cadıyı yen ve Descartes'ı kurtar! Prune, Bela Kovan Ant Çekiciyle Cadıkapan Çanına vurarak <color=#80FFD7FF>Rüzgar Hasarı</color> verir.\nPrune bu saldırıyı kullanarak düşmanın üzerinde Girdap Tepkimesi tetiklediğinde <color=#FFD780FF>Ding Ding! Büyü Avı Zili</color> 6 saniyeliğine <color=#FFD780FF>Çın Çın! Cadıyı Cezalandırma Zamanı!</color> ile değiştirilir.\n\n<color=#FFD780FF>Çın Çın! Cadıyı Cezalandırma Zamanı!</color>\nPrune'un çekici, önceki Girdap tepkimesindeki elementin tesirine girer ve {LINK#N11320001}<color=#FFD780FF>Bela Kovan Ant Çekici</color>{/LINK} Element Dönüşümü geçirir. Bu beceri Dokunarak etkinleştirildiğinde Prune yukarı sıçrayarak Bela Kovan Ant Çekicini ileriye tekmeler ve önündeki düşmanlara ilgili türde Element Hasarı verir.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Prune_01"
       }
     ],
@@ -438,6 +440,7 @@
         "Id": 1325101,
         "Name": "Cadının Gece Ayini: Cadı Arayanın Yemini",
         "Description": "<color=#FFD780FF>Cadının Ödevi: Çekişmeli Konular</color> tamamlandıktan sonra Prune bir <color=#FFD780FF>Cadılık</color> karakteri olur. Grupta en az 2 Cadılık karakteri olduğunda, Cadılık karakterlerini güçlendiren <color=#FFD780FF>Cadılık: Saklı Ayin</color> etkisi kazanırsın.\n\n<color=#FFD780FF>Cadılık: Saklı Ayin</color>\nGrupta İlham Yankısı etkisindeki bir Cadılık karakteri bir düşman üzerinde Element Tepkimesi tetiklediğinde 5 saniyeliğine Prune'un Saldırısı %60 artar. Eğer tetiklenen Element Tepkimesi bir Girdap tepkimesiyse 5 saniyeliğine tetikleyen karakterin Saldırısı da %30 artar.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_07"
       }
     ],
@@ -623,6 +626,7 @@
       "Id": 11325,
       "Name": "Çanlar Çalıyor! Av Başladı!",
       "Description": "Prune, Cadıkapan Çanını hafifçe savurarak yakındaki düşmanlara <color=#80FFD7FF>Rüzgar Hasarı</color> verir. Çan bunun ardından Avcı-Arayıcı moduna girer.\n\n<color=#FFD780FF>Cadıkapan Çanı: Avcı-Arayıcı</color>\nCadıkapan Çanı bu moddayken mevcut aktif karakteri takip eder ve belirli aralıklarla çevredeki düşmanlara saldırarak <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir. Bu Hasar, Element Patlaması Hasarı sayılır.",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Prune_01"
     },
     "Inherents": [
@@ -644,6 +648,7 @@
         "Id": 1322101,
         "Name": "Yargı ve Ceza",
         "Description": "<color=#FFD780FF>{LINK#S11325}Çanlar Çalıyor! Av Başladı!{/LINK}</color> Element Patlaması sırasında, Avcı-Arayıcı modundaki Cadıkapan Çanı bir düşmana Hasar verdikten sonra bu Hasar düşman üzerinde Girdap tepkimesi tetiklerse o düşmana Prune'un Saldırısının %150'si kadar Hasar veren bir {LINK#N11320001}<color=#FFD780FF>Bela Kovan Ant Çekici</color>{/LINK} çağrılır. Hasarın türü, Girdap tepkimesinde gerçekleşen Element Dönüşümüyle aynı olur. Bu Hasar, Element Patlaması Hasarı sayılır.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_05"
       },
       {
@@ -667,6 +672,7 @@
         "Id": 1322201,
         "Name": "Eş Zamanlı Çınlama",
         "Description": "Prune, Element Dönüşümü geçirmiş {LINK#N11320001}<color=#FFD780FF>Bela Kovan Ant Çekicini</color>{/LINK} kullanarak bir düşmana vurduğunda, yakındaki diğer grup üyeleri 5 saniyeliğine İlham Yankısı etkisi kazanır: Normal, Yüklü veya Havadan Saldırılar ya da Element Becerileri ve Element Patlamaları ile düşmanlara Hasar verip İlham Yankısı etkisi aldıklarında bu saldırının Hasarı, Prune'un 2.000'in üzerindeki Saldırı değerine bağlı olarak artar. Sınırın üzerindeki her Saldırı puanı başına verilen Hasar %0,025 artar, en fazla %50 artabilir.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_06"
       },
       {
@@ -685,6 +691,7 @@
         "Id": 1322301,
         "Name": "Tangır, Tungur, Pat!",
         "Description": "Üretim sırasında %10 ihtimalle 1 yöresel Karakter Yeteneği Malzemesi verir (temel malzeme hariç). Verdiği malzemelerin nadirliği üretilen malzemeyle aynıdır.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_08"
       }
     ],

@@ -293,6 +293,7 @@
         "Id": 11331,
         "Name": "事象數式·自明演繹",
         "Description": "<color=#FFD780FF>普通攻擊</color>\n以數式編織出操縱兵刃的絲線，進行至多三段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n召喚出全功能通用型自動機關<color=#FFD780FF>「法潔歐」</color>，並使其切換至<color=#FFD780FF>{LINK#N11330001}解算{/LINK}</color>模式：對前方的敵人進行掃射攻擊，並週期性發射冷凝射線，造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n<color=#FFD780FF>輝映·星超導</color>：冷凝射線轉為造成視為星超導反應傷害的<color=#99FFFFFF>冰元素範圍傷害</color>。\n在<color=#FFD780FF>解算</color>模式下，法潔歐的<color=#FFD780FF>{LINK#N11330002}解算功率{/LINK}</color>將會持續提升；發射冷凝射線時，還會使解算功率進一步提升。\n解算功率達到100點上限時，法潔歐將切換至<color=#FFD780FF>功率過載</color>模式，以更長的間隔對敵人進行射擊，造成<color=#99FFFFFF>冰元素傷害</color>，且無法切換至解算模式。\n不處於<color=#FFD780FF>解算</color>模式下時，法潔歐的<color=#FFD780FF>解算功率</color>將會緩慢降低。桑多涅處於隊伍後臺時，還會專注於維修法潔歐，使其解算功率降低速度加快至原本的300%。\n<color=#FFD780FF>解算功率</color>降低至50點以下時，法潔歐將退出<color=#FFD780FF>功率過載</color>模式。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_04"
       },
       {
@@ -445,6 +446,7 @@
         "Id": 11332,
         "Name": "事象數式·游衍解析",
         "Description": "秉持淑女完美的法度，搭乘<color=#FFD780FF>茶會用戰術突擊懸浮機關</color>，並持續向前浮行6秒。期間，桑多涅可以控制浮行的方向，並且點按衝刺時，將會消耗10點體力，進入優雅的高速懸浮模式，每秒消耗15點體力，以更快的速度進行浮行。\n\n開始浮行時，若附近存在敵人，桑多涅還會召喚出一臺稜晶諧振炮，向沒有冷靜下來的敵人發射兩枚稜晶彈，造成<color=#99FFFFFF>冰元素傷害</color>。\n<color=#FFD780FF>輝映·星超導</color>：第二枚稜晶彈將轉為造成視為星超導反應傷害的<color=#99FFFFFF>冰元素傷害</color>。\n\n搭乘茶會用戰術突擊懸浮機關時，桑多涅還會優雅地悄悄維修法潔歐，使其<color=#FFD780FF>{LINK#N11330002}解算功率{/LINK}</color>快速降低。",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_MarionetteNew_01"
       }
     ],
@@ -630,6 +632,7 @@
       "Id": 11335,
       "Name": "事象數式·萬理證畢",
       "Description": "秉持淑女優雅的禮儀，召喚出大量稜晶諧振炮對前方進行廣域轟炸，並在隨後發射負溫聚能光束轟擊敵人，造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n<color=#FFD780FF>輝映·星超導</color>：負溫聚能光束將轉為造成視為星超導反應傷害的<color=#99FFFFFF>冰元素範圍傷害</color>。",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_MarionetteNew_01"
     },
     "Inherents": [
@@ -652,6 +655,7 @@
         "Id": 1332101,
         "Name": "悠久的演算機關",
         "Description": "<color=#FFD780FF>輝映·星超導</color>：施放元素戰技{LINK#S11332}<color=#FFD780FF>事象數式·游衍解析</color>{/LINK}時，若法潔歐的<color=#FFD780FF>{LINK#N11330002}解算功率{/LINK}</color>超過50點，則會在降低解算功率的同時，使向附近敵人發射的第二枚稜晶彈造成原本400%的傷害。\n此外，法潔歐的<color=#FFD780FF>解算功率</color>每降低10點，都會獲得一層持續60秒的<color=#FFD780FF>改進戰術</color>效果，該效果至多疊加10層。桑多涅處於<color=#FFD780FF>輝映·星超導</color>狀態下施放元素爆發{LINK#S11335}<color=#FFD780FF>事象數式·萬理證畢</color>{/LINK}時，將會清除全部的改進戰術層數，使負溫聚能光束造成原本100%+清除層數x10%的傷害。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_05"
       },
       {
@@ -673,6 +677,7 @@
         "Id": 1332201,
         "Name": "淑女的行事準則",
         "Description": "基於桑多涅的攻擊力，提升其元素精通：每100點攻擊力都將使桑多涅的元素精通提升8點，至多依此方式提升160點元素精通。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_06"
       },
       {
@@ -694,6 +699,7 @@
         "Id": 1332301,
         "Name": "星耀祝禮·唯理為光",
         "Description": "隊伍中的角色觸發超導反應時，將轉為觸發星超導反應，且基於桑多涅的攻擊力，提升隊伍中角色造成的星超導反應的基礎傷害：每100點攻擊力都將提升0.7%星超導反應的基礎傷害，至多依此方式提升14%傷害。\n此外，處於{LINK#N11330003}<color=#FFD780FF>極星輝域</color>{/LINK}中時，桑多涅將會進入<color=#FFD780FF>輝映·星超導</color>狀態。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_07"
       },
       {
@@ -712,6 +718,7 @@
         "Id": 1332501,
         "Name": "茶會的序曲與長長的故事",
         "Description": "桑多涅處於隊伍中時，向凱瑟琳交付每日委託任務後，會獲得額外的茶點獎勵。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_08"
       }
     ],

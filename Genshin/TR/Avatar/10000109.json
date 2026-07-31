@@ -261,6 +261,7 @@
         "Id": 11091,
         "Name": "Saf Kalp, Saf Düşler",
         "Description": "<color=#FFD780FF>Normal Saldırı</color>\n<color=#80FFD7FF>Rüzgar Hasarı</color> veren en fazla 3 saldırı yapar.\n\n<color=#FFD780FF>Yüklü Saldırı</color>\nKısa süre kullanıldıktan sonra belirli miktarda Dayanıklılık harcayarak <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir.\n\n<color=#FFD780FF>Havadan Saldırı</color>\nMizuki, Rüzgar gücünü çağırarak havadayken yere doğru atılır ve yoluna çıkan tüm düşmanlara hasar verir. Yere vurduğunda <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -445,6 +446,7 @@
         "Id": 11092,
         "Name": "Aisa Utamakura Kutsal Yolculuğu",
         "Description": "Tatlı düşlerin anılarını dokuyarak havada uçabildiği <color=#FFD780FF>Düşgezen</color> durumuna girer ve yakındaki düşmanlara 1 defa <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir.\n\n<color=#FFD780FF>Düşgezen</color>\n·Yumemizuki Mizuki, Düşgezen durumundayken sürekli ileri doğru süzülür ve düzenli aralıklarla yakındaki düşmanlara <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir.\n·Bu süre boyunca Yumemizuki Mizuki süzülme yönünü kontrol edebilir ve Element Patlaması <color=#FFD780FF>Anraku Gizli Kaplıca Terapisini</color> kullandığı zaman <color=#FFD780FF>Yumemi Tarzı Özel Atıştırmalıkları</color> alma mesafesi artar.\n·Yakındaki grup üyelerinin Yumemizuki Mizuki'nin Element Ustalığına bağlı olarak verdiği Girdap Hasarını artırır.\n·Mizuki savaş alanından ayrıldığında veya Element Becerisini tekrar kullandığında Düşgezen durumu sona erer.\n\n<i>\"Gece yarısı buluşuruz düşlerde, şarkılar yankılanır kalplerimizde.\"</i>",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Mizuki_01"
       }
     ],
@@ -470,6 +472,7 @@
         "Id": 1095101,
         "Name": "Engin Olsun Düşler",
         "Description": "Yumemizuki Mizuki Düşgezen durumundayken bir Girdap Tepkimesi tetiklediğinde, aynı durumun bir sonraki döngüsünde yakındaki düşmanlara verdiği <color=#80FFD7FF>Rüzgar Alan Hasarı</color> kendi Element Ustalığının %1.000'i kadar artar. Bu etki her 2,5 saniyede bir tetiklenebilir.\nAyrıca, Yumemizuki Mizuki Düşgezen durumundayken, yakındaki grup karakterlerinin Element Ustalığı, Yumemizuki Mizuki'nin Element Ustalığının %10'u kadar artar.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_08"
       }
     ],
@@ -686,6 +689,7 @@
       "Id": 11095,
       "Name": "Anraku Gizli Kaplıca Terapisi",
       "Description": "Yakındaki nesne ve düşmanları kendine çeken sayısız tatlı rüyayı ve kabusu çağırarak <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir ve bir Mini Baku çağırır.\n\n<color=#FFD780FF>Mini Baku:</color>\nMevcut aktif karakteri takip eder. Mini Baku düzenli aralıklarla yakınlarda 1 Yumemi Tarzı Özel Atıştırmalık oluşturur. Özel Atıştırmalığı alan bir grup üyesinin Canı %70'ten fazlaysa Atıştırmalık patlar ve 1 Munen Şok Dalgası ateşleyerek yakındaki düşmanlara <color=#80FFD7FF>Rüzgar Alan Hasarı</color> verir. Canı %70'ten fazla değilse Yumemizuki Mizuki'nin Element Ustalığına bağlı olarak atıştırmalığı alan karakteri iyileştirir. Yumemizuki Mizuki bir Yumemi Tarzı Özel Atıştırmalık alarak iyileştirme tetiklediğinde iyileşme oranı %100 artar. Belirli bir süre içinde Atıştırmalığı kimse almazsa Atıştırmalık patlar ve yakındaki düşmanlara 1 defa <color=#80FFD7FF>Rüzgar Alan Hasarı</color> veren bir Munen Şok Dalgası ortaya çıkar.\n\n<i>\"Karanlık duygularını sürekli görmezden gelirsen kabusa dönüşürler. O halde hâlâ vaktimiz varken neden onlardan lezzetli atıştırmalıklar yapmıyoruz?\"</i>",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Mizuki_01"
     },
     "Inherents": [
@@ -705,6 +709,7 @@
         "Id": 1092101,
         "Name": "Parlak Ayın Huzursuz Sesi",
         "Description": "Yumemizuki Mizuki Düşgezen durumundayken Girdap tetiklerse Düşgezenin süresi 2,5sn artar. Bu etki her 0,3 saniyede bir defa ve her Düşgezen durumunda en fazla 2 defa tetiklenebilir.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_05"
       },
       {
@@ -726,6 +731,7 @@
         "Id": 1092201,
         "Name": "Gündüz Düşüncelerinden Gece Düşlerine",
         "Description": "Yumemizuki Mizuki, Düşgezen durumundayken yakındaki grup üyeleri <color=#FF9999FF>Ateş</color>, <color=#80C0FFFF>Su</color>, <color=#99FFFFFF>Buz</color> ya da <color=#FFACFFFF>Elektrik</color> saldırısıyla düşmanları vurduğunda 4 saniyeliğine Mizuki'nin Element Ustalığı 100 artar.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_06"
       },
       {
@@ -746,6 +752,7 @@
         "Id": 1092301,
         "Name": "Tüm İlletler Bitti",
         "Description": "Yumemizuki Mizuki gruptayken, grup üyeleri canlandırma özelliği olmayan iyileştirme yiyecekleri kullandığında ek %30 Can yenileme olasılığı bulunur. Bu etkinin tetiklenme olasılığı ilgili karakterin Arkadaşlık Seviyesiyle birlikte artar. (Bu etki, iyileştirme yiyeceğini tüketen karakter Gezgin olduğunda her zaman tetiklenir.)",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_07"
       }
     ],

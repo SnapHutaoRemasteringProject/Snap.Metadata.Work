@@ -261,6 +261,7 @@
         "Id": 11311,
         "Name": "비유와 권고",
         "Description": "<color=#FFD780FF>일반 공격</color>\n원초의 언어로 칙령을 내려 최대 3번 공격해 <color=#FF9999FF>불 원소 피해</color>를 준다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해, 짧은 영창 후 전방 구역에 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 <color=#FF9999FF>불 원소 범위 피해</color>를 준다",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -492,6 +493,7 @@
         "Id": 11312,
         "Name": "성언 묵시·미현의 빛",
         "Description": "과거 하늘의 신권을 대행하던 장면을 재현한다. 주변에 있는 파티 내 모든 캐릭터에게 {LINK#N11310001}<color=#FFD780FF>자기 비움의 축복</color>{/LINK}{LINK#N11310002}{/LINK} 효과를 부여해 해당 캐릭터들의 공격력을 증가시키며, <color=#FF9999FF>불 원소 범위 피해</color>를 주고, 광휘 보호막을 펼친다.\n광휘 보호막의 피해 흡수량은 니콜 공격력의 영향을 받으며, <color=#FF9999FF>불 원소 피해</color>에 대해 250%의 흡수 효과가 있다",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Nicole_01"
       }
     ],
@@ -514,6 +516,7 @@
         "Id": 1315101,
         "Name": "마녀의 전야제·어둠 속의 빛",
         "Description": "<color=#FFD780FF>마녀의 과제·인도자의 역할…?</color>을 완료하면, 니콜이 <color=#FFD780FF>마도</color> 캐릭터가 된다. 파티에 마도 캐릭터를 2명 이상 편성하면 <color=#FFD780FF>마도·비밀 의식</color> 효과를 획득해 마도 캐릭터가 강화된다.\n\n<color=#FFD780FF>마도·비밀 의식</color>\n마도 캐릭터의 <color=#FFD780FF>{LINK#S11315}비밀 환영{/LINK}</color>으로 주는 피해가 증가하며, 증가량은 니콜 공격력의 300%에 해당한다",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Nicole_07"
       }
     ],
@@ -715,6 +718,7 @@
       "Id": 11315,
       "Name": "성언 묵시·하늘 계단",
       "Description": "하늘의 금빛 실로 「고정」된 운명의 길을 엮어, <color=#FF9999FF>불 원소 범위 피해</color>를 주고 「묵도」 모드로 전환한다.\n니콜이 해당 모드일 경우, 주변에 있는 파티 내 현재 필드 위 캐릭터의 공격이 적 명중 시, 「비밀 환영」을 소환해 적에게 협동 공격을 한다. 해당 캐릭터의 원소 타입에 따라 상응하는 원소 범위 피해를 준다. 해당 피해는 해당 캐릭터의 공격력에 기반하며, 해당 캐릭터가 주는 피해로 간주한다.\n해당 효과는 3초마다 최대 1회 발동되며, 니콜이 「묵도」 모드로 전환할 때마다 최대 4회 발동된다.\n\n또한, 마도 캐릭터의 「비밀 환영」은 외형이 달라 보인다…",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Nicole_01"
     },
     "Inherents": [
@@ -738,6 +742,7 @@
         "Id": 1312101,
         "Name": "나눔",
         "Description": "원소전투 스킬 <color=#FFD780FF>{LINK#S11312}성언 묵시·미현의 빛{/LINK}</color> 발동 후 20초 동안, 니콜은 현재 필드에 있는 파티 내 자신의 다른 캐릭터를 지속적으로 「관측」한다. 관측 대상이 된 다른 캐릭터가 3초 동안 필드에 머물면, 해당 캐릭터가 보유한 {LINK#N11310001}<color=#FFD780FF>자기 비움의 축복</color>{/LINK} 효과가 {LINK#N11310002}<color=#FFD780FF>축성의 인도</color>{/LINK}로 승급되어 추가로 공격력이 300pt 증가한다. 만약 관측 대상이 된 캐릭터가 마도 캐릭터인 경우, <color=#FFD780FF>자기 비움의 축복</color> 효과가 즉시 <color=#FFD780FF>축성의 인도</color>로 승급된다.\n니콜을 제외한 다른 캐릭터가 보유한 <color=#FFD780FF>축성의 인도</color>는 퇴장 시 <color=#FFD780FF>자기 비움의 축복</color>으로 다시 전환된다",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Nicole_05"
       },
       {
@@ -758,6 +763,7 @@
         "Id": 1312201,
         "Name": "선행",
         "Description": "주변에 있는 파티 내 현재 필드 위 캐릭터의 원소 피해가 적 명중 후, 니콜 자신이 보유한 {LINK#N11310001}<color=#FFD780FF>자기 비움의 축복</color>{/LINK}이 {LINK#N11310002}<color=#FFD780FF>축성의 인도</color>{/LINK}로 승급된다. 지속 시간: 8초",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Nicole_06"
       },
       {
@@ -778,6 +784,7 @@
         "Id": 1312301,
         "Name": "묵상",
         "Description": "티바트에서 비전투 상태일 때, 현재 구역의 보물찾기 나침반을 획득했다면 니콜의 강공격이 「천사의 인도」 발동으로 전환된다: 주변의 선령을 불러 길을 안내하게 하고, 현재 구역의 보물찾기 나침반과 동일한 효과가 발동된다.\n해당 효과의 재사용 대기시간은 5초이며, 비경, 영역 토벌, 나선 비경에서는 적용되지 않는다",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Nicole_08"
       }
     ],

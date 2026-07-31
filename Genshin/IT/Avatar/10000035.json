@@ -293,6 +293,7 @@
         "Id": 10351,
         "Name": "Antica arte della spada",
         "Description": "<color=#FFD780FF>Attacco normale</color>\nSferra fino a 5 colpi rapidi.\n\n<color=#FFD780FF>Attacco caricato</color>\nConsuma una determinata quantità di vigore per sferrare 2 colpi di spada rapidi.\n\n<color=#FFD780FF>Attacco in picchiata</color>\nAttacca scagliandosi contro il suolo da mezz'aria, infliggendo DAN agli avversari lungo la traiettoria e DAN ad area all'impatto.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_01"
       },
       {
@@ -590,6 +591,7 @@
         "Name": "Arte dell'Adeptus: Messaggero del gelo",
         "Description": "Usando il Talismano glaciale, Qiqi richiama il Messaggero del gelo, infliggendo <color=#99FFFFFF>DAN da Cryo</color> agli avversari circostanti.\n\n<color=#FFD780FF>Messaggero del gelo</color>\n· Quando vanno a segno, gli attacchi normali e caricati di Qiqi rigenerano i PS dei membri del tuo gruppo e dei compagni di squadra vicini. La guarigione varia in base all'ATT di Qiqi.\n· Rigenera periodicamente i PS del tuo personaggio attivo.\n· Segue il personaggio, infliggendo <color=#99FFFFFF>DAN da Cryo</color> agli avversari sul percorso.\n\n<i>Lo uso per evitare che... i preziosi ingredienti del dottor Bai si riscaldino e marciscano. Sì.</i>",
         "SpecialDescription": "Usando il Talismano glaciale, Qiqi richiama il Messaggero del gelo, infliggendo <color=#99FFFFFF>DAN da Cryo</color> agli avversari circostanti.\n\n<color=#FFD780FF>Messaggero del gelo</color>\n· Quando vanno a segno, gli attacchi normali e caricati di Qiqi rigenerano i PS dei membri del tuo gruppo e dei compagni di squadra vicini. La guarigione varia in base all'ATT di Qiqi.\n· Rigenera periodicamente i PS del tuo personaggio attivo.\n· Segue il personaggio, infliggendo <color=#99FFFFFF>DAN da Cryo</color> agli avversari sul percorso del personaggio.\nSe il tuo personaggio attivo colpisce un avversario con un attacco, il Messaggero del gelo esegue un attacco coordinato sull'avversario, infliggendo <color=#99FFFFFF>DAN da Cryo</color>.\n\n<i>\"Lo uso per evitare che... i preziosi ingredienti del dottor Bai si riscaldino e marciscano. Sì.\"</i>",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Qiqi_01"
       }
     ],
@@ -613,6 +615,7 @@
         "Id": 355101,
         "Name": "Sette tesori sacri",
         "Description": "#Il TdR dell'abilità elementale <color=#FFD780FF>Arte dell'Adeptus: Messaggero del gelo</color> si riduce a 15{NON_BREAK_SPACE}s.\nNello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, mentre Messaggero del gelo è in campo, i DAN delle reazioni di Superconduzione e Astroconduzione dei personaggi nel gruppo di Qiqi aumentano di un 50%.\nInoltre, quando si trova all'interno di un {LINK#N11330003}<color=#FFD780FF>Campo astropolare</color>{/LINK}, Qiqi entra nello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Qiqi_08"
       }
     ],
@@ -845,6 +848,7 @@
       "Name": "Arte dell'Adeptus: Protettrice della fortuna",
       "Description": "Qiqi libera il potere dell'Adeptus sigillato nel suo corpo, marchiando gli avversari vicini con un Talismano proteggi fortuna che infligge <color=#99FFFFFF>DAN da Cryo</color>.\n\n<color=#FFD780FF>Talismano proteggi fortuna</color>\nQuando gli avversari colpiti da questo Talismano subiscono DAN, il personaggio che ha inflitto i DAN rigenera i suoi PS.\n\n<i>\"Sono la protettrice della fortuna, la Sacerdotessa della resurrezione.\"</i>\n<i>— Qiqi non ricorda queste parole.</i>",
       "SpecialDescription": "Qiqi libera il potere adeptico sigillato nel suo corpo, marchiando gli avversari vicini con un Talismano proteggi fortuna che infligge <color=#99FFFFFF>DAN da Cryo</color>.\nNello stato di <color=#FFD780FF>Splendore: Astroconduzione</color>, infligge un'iterazione di <color=#99FFFFFF>DAN da Cryo</color> aggiuntiva. Tali DAN sono considerati DAN da Astroconduzione.\n\n<color=#FFD780FF>Talismano proteggi fortuna</color>\nQuando gli avversari colpiti dal Talismano subiscono DAN, i PS del personaggio che ha inflitto tali DAN si ripristinano.\n\n<i>\"Sono la protettrice della fortuna, la Sacerdotessa della resurrezione.\"</i>\n<i>— Qiqi non ricorda queste parole.</i>",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Qiqi_01"
     },
     "Inherents": [
@@ -864,6 +868,7 @@
         "Id": 352101,
         "Name": "Lunga vita",
         "Description": "#Quando un personaggio sotto l'effetto di <color=#FFD780FF>Arte dell'Adeptus: Messaggero del gelo</color> innesca una reazione elementale, il bonus di guarigione ricevuta aumenta di un 20% per 8{NON_BREAK_SPACE}s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Qiqi_05"
       },
       {
@@ -885,6 +890,7 @@
         "Id": 352201,
         "Name": "Mistero arcano",
         "Description": "#Quando Qiqi colpisce gli avversari con gli attacchi normali e caricati, ha un 50% di probabilità di marchiarli con un Talismano proteggi fortuna per 6{NON_BREAK_SPACE}s. Si può verificare una sola volta ogni 30{NON_BREAK_SPACE}s.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Qiqi_06"
       },
       {
@@ -903,6 +909,7 @@
         "Id": 352301,
         "Name": "Ricordi dell'altra vita",
         "Description": "Mostra sulla minimappa la posizione delle <color=#FFD780FF>risorse uniche di Liyue</color>.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_Collect_Local_Liyue"
       }
     ],

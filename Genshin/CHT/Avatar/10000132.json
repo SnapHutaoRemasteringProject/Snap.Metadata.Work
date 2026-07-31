@@ -261,6 +261,7 @@
         "Id": 11321,
         "Name": "隆咚咚·破魔之錘",
         "Description": "<color=#FFD780FF>普通攻擊</color>\n揮舞「狩災誓錘」，進行至多三段的攻擊，造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，以升勢揮錘，對前方的敵人造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚風元素的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#80FFD7FF>風元素範圍傷害</color>。",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_Catalyst_MD"
       },
       {
@@ -413,6 +414,7 @@
         "Id": 11322,
         "Name": "叮鈴鈴·獵魔之音",
         "Description": "懷揣著打敗「邪惡」魔女、拯救「德斯卡戴」的決心，解放風的力量吧！布倫妮使用「狩災誓錘」敲擊「誘巫餌鈴」，造成<color=#80FFD7FF>風元素傷害</color>。\n若布倫妮透過該次攻擊對敵人觸發了擴散反應，則在接下來6秒內，<color=#FFD780FF>叮鈴鈴·獵魔之音</color>將被替換為<color=#FFD780FF>咚鏘鏘·裁魔之懲</color>。\n\n<color=#FFD780FF>咚鏘鏘·裁魔之懲</color>\n將先前參與擴散反應的元素類型纏繞於錘，並使{LINK#N11320001}<color=#FFD780FF>「狩災誓錘」</color>{/LINK}發生元素轉化，點按施放時，布倫妮躍起並將「狩災誓錘」向前踢出，對面前的敵人造成對應的元素類型傷害。",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_Prune_01"
       }
     ],
@@ -438,6 +440,7 @@
         "Id": 1325101,
         "Name": "魔女的前夜禮·尋魔之誓",
         "Description": "完成<color=#FFD780FF>魔女的課業·辯駁之題</color>後，布倫妮將成為<color=#FFD780FF>魔導</color>角色。隊伍中編入至少2名魔導角色時，將獲得<color=#FFD780FF>魔導·秘儀</color>效果，使魔導角色獲得強化。\n\n<color=#FFD780FF>魔導·秘儀</color>\n隊伍中處於「振鈴鼓舞」效果影響下的魔導角色對敵人觸發任意元素反應後，布倫妮自身的攻擊力提高60%，持續5秒。若該角色觸發的元素反應為擴散反應，則其自身的攻擊力還將額外提高30%，持續5秒。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_07"
       }
     ],
@@ -623,6 +626,7 @@
       "Id": 11325,
       "Name": "鈴鳴·狩魔之刻",
       "Description": "布倫妮輕搖「誘巫餌鈴」，對周圍的敵人造成<color=#80FFD7FF>風元素傷害</color>。隨後「誘巫餌鈴」將進入「尋獵」模式。\n\n<color=#FFD780FF>誘巫餌鈴·尋獵</color>\n在該模式下，「誘巫餌鈴」將跟隨目前場上角色，並間歇性攻擊周圍的敵人，造成<color=#80FFD7FF>風元素範圍傷害</color>，該傷害視為元素爆發傷害。",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_Prune_01"
     },
     "Inherents": [
@@ -644,6 +648,7 @@
         "Id": 1322101,
         "Name": "裁斷追懲",
         "Description": "元素爆發<color=#FFD780FF>{LINK#S11325}鈴鳴·狩魔之刻{/LINK}</color>中，處於「尋獵」模式下的「誘巫餌鈴」對敵人造成傷害後，若該次傷害對敵人觸發了擴散反應，則還會在敵人面前召喚出一柄依據本次擴散反應進行元素轉化的{LINK#N11320001}<color=#FFD780FF>「狩災誓錘」</color>{/LINK}向其砸下，造成布倫妮攻擊力150%的對應類型的元素傷害，該傷害視為元素爆發傷害。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_05"
       },
       {
@@ -667,6 +672,7 @@
         "Id": 1322201,
         "Name": "振鈴同心",
         "Description": "當布倫妮使用發生過元素轉化的{LINK#N11320001}<color=#FFD780FF>「狩災誓錘」</color>{/LINK}命中敵人後，隊伍中附近的其他角色將獲得持續5秒的「振鈴鼓舞」效果：普通攻擊、重擊、下落攻擊、元素戰技或元素爆發對敵人造成傷害時，基於其獲得「振鈴鼓舞」效果時，布倫妮攻擊力超過2000的部分，提升本次攻擊造成的傷害：每點攻擊力都會使本次攻擊造成的傷害提升0.025%，至多提升50%。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_06"
       },
       {
@@ -685,6 +691,7 @@
         "Id": 1322301,
         "Name": "改裝！敲敲打打！",
         "Description": "合成角色天賦素材時，有10%機率額外產生一份地區相同的其他隨機天賦素材，等階與合成後獲得的素材相同。",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Prune_08"
       }
     ],

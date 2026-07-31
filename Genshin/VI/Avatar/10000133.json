@@ -293,6 +293,7 @@
         "Id": 11331,
         "Name": "Công Thức Hiện Tượng - Mệnh Đề Hiển Nhiên",
         "Description": "<color=#FFD780FF>Tấn Công Thường</color>\nDùng công thức dệt nên những sợi chỉ điều khiển vũ khí, thực hiện tối đa 3 đòn chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTriệu hồi Cỗ Máy Tự Động Đa Năng Thông Dụng <color=#FFD780FF>\"Fagio\"</color>, chuyển sang chế độ <color=#FFD780FF>{LINK#N11330001}Giải Mã{/LINK}</color>: Bắn phá kẻ địch phía trước và phóng Tia Ngưng Tụ theo chu kỳ, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>: Tia Ngưng Tụ chuyển sang gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color> được xem là sát thương phản ứng Tinh-Siêu Dẫn.\nTrong chế độ <color=#FFD780FF>Giải Mã</color>, <color=#FFD780FF>{LINK#N11330002}Công Suất Giải Mã{/LINK}</color> của Fagio sẽ liên tục gia tăng. Khi phóng Tia Ngưng Tụ, Công Suất Giải Mã sẽ tiếp tục tăng thêm.\nKhi Công Suất Giải Mã đạt giới hạn 100 điểm, Fagio sẽ chuyển sang chế độ <color=#FFD780FF>Quá Tải Công Suất</color>, thực hiện bắn phá kẻ địch với thời gian giãn cách dài hơn, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> và không thể chuyển sang chế độ Giải Mã.\nKhi không trong chế độ <color=#FFD780FF>Giải Mã</color>, <color=#FFD780FF>Công Suất Giải Mã</color> của Fagio sẽ giảm dần. Khi Sandrone dự bị trong đội, sẽ còn tập trung sửa chữa Fagio hơn nữa, khiến tốc độ giảm Công Suất Giải Mã tăng đến 300% mức gốc.\nKhi <color=#FFD780FF>Công Suất Giải Mã</color> giảm xuống dưới 50, Fagio sẽ thoát khỏi chế độ <color=#FFD780FF>Quá Tải Công Suất</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_A_04"
       },
       {
@@ -445,6 +446,7 @@
         "Id": 11332,
         "Name": "Công Thức Hiện Tượng - Phân Tích Vi Sai",
         "Description": "Tuân thủ chuẩn mực hoàn hảo của một quý cô, ngồi <color=#FFD780FF>Thiết Bị Đột Kích Chiến Thuật Tiệc Trà</color> và liên tục lướt về phía trước trong 6s. Trong thời gian này, Sandrone có thể điều khiển hướng lướt, khi nhấn Xung Kích sẽ tiêu hao 10 điểm Thể Lực để bước vào chế độ lơ lửng tốc độ cao thanh lịch, mỗi giây sẽ tiêu hao 15 điểm Thể Lực để lướt với tốc độ nhanh hơn.\n\nKhi bắt đầu lướt, nếu có kẻ địch ở gần, Sandrone sẽ còn triệu hồi một khẩu Pháo Cộng Hưởng Lăng Kính, bắn hai viên Đạn Lăng Kính vào những kẻ địch chưa bình tĩnh lại, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>: Viên Đạn Lăng Kính thứ hai sẽ chuyển sang gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> và được xem là sát thương phản ứng Tinh-Siêu Dẫn.\n\nKhi ngồi lên Thiết Bị Đột Kích Chiến Thuật Tiệc Trà, Sandrone sẽ còn lặng lẽ sửa chữa Fagio một cách thanh lịch, khiến <color=#FFD780FF>{LINK#N11330002}Công Suất Giải Mã{/LINK}</color> của Fagio giảm xuống nhanh chóng.",
+        "SpecialEnergyType": 0,
         "Icon": "Skill_S_MarionetteNew_01"
       }
     ],
@@ -630,6 +632,7 @@
       "Id": 11335,
       "Name": "Công Thức Hiện Tượng - Chứng Minh Mọi Nguyên Lý",
       "Description": "Giữ vững lễ nghi thanh lịch của một quý cô, triệu hồi lượng lớn Pháo Cộng Hưởng Lăng Kính để oanh tạc một khu vực rộng lớn phía trước, sau đó phóng ra Chùm Tia Tụ Năng Nhiệt Độ Âm bắn phá kẻ địch, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>: Chùm Tia Tụ Năng Nhiệt Độ Âm sẽ chuyển sang gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color> và được xem là sát thương phản ứng Tinh-Siêu Dẫn.",
+      "SpecialEnergyType": 0,
       "Icon": "Skill_E_MarionetteNew_01"
     },
     "Inherents": [
@@ -652,6 +655,7 @@
         "Id": 1332101,
         "Name": "Cỗ Máy Tính Toán Lâu Đời",
         "Description": "<color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>: Khi thi triển Kỹ Năng Nguyên Tố {LINK#S11332}<color=#FFD780FF>Công Thức Hiện Tượng - Phân Tích Vi Sai</color>{/LINK}, nếu <color=#FFD780FF>{LINK#N11330002}Công Suất Giải Mã{/LINK}</color> của Fagio trên 50 điểm, thì cùng lúc với việc giảm Công Suất Giải Mã, viên Đạn Lăng Kính thứ hai bắn về phía kẻ địch ở gần sẽ gây ra 400% sát thương gốc.\nNgoài ra, mỗi khi <color=#FFD780FF>Công Suất Giải Mã</color> của Fagio giảm 10 điểm, đều sẽ nhận được 1 tầng hiệu quả <color=#FFD780FF>Chiến Thuật Cải Tiến</color> duy trì 60s, tối đa cộng dồn 10 tầng. Khi Sandrone thi triển Kỹ Năng Nộ {LINK#S11335}<color=#FFD780FF>Công Thức Hiện Tượng - Chứng Minh Mọi Nguyên Lý</color>{/LINK} trong trạng thái <color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>, sẽ xóa toàn bộ số tầng Chiến Thuật Cải Tiến, khiến Chùm Tia Tụ Năng Nhiệt Độ Âm gây sát thương bằng \"100% + (số tầng đã xóa)×10%\" mức gốc.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_05"
       },
       {
@@ -673,6 +677,7 @@
         "Id": 1332201,
         "Name": "Nguyên Tắc Hành Xử Của Quý Cô",
         "Description": "Tăng Tinh Thông Nguyên Tố của Sandrone dựa trên Tấn Công của bản thân: Mỗi 100 điểm Tấn Công sẽ tăng 8 điểm Tinh Thông Nguyên Tố cho Sandrone, tối đa tăng 160 điểm Tinh Thông Nguyên Tố theo cách này.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_06"
       },
       {
@@ -694,6 +699,7 @@
         "Id": 1332301,
         "Name": "Chúc Phúc Tinh Tú - Lý Trí Là Ánh Sáng",
         "Description": "Khi nhân vật trong đội kích hoạt phản ứng Siêu Dẫn, sẽ chuyển thành phản ứng Tinh-Siêu Dẫn, đồng thời tăng sát thương cơ bản của phản ứng Tinh-Siêu Dẫn nhân vật trong đội gây ra dựa trên Tấn Công của Sandrone: Mỗi 100 điểm Tấn Công sẽ tăng 0.7% sát thương cơ bản của phản ứng Tinh-Siêu Dẫn, tối đa tăng 14% sát thương theo cách này.\nNgoài ra, khi ở trong {LINK#N11330003}<color=#FFD780FF>Vùng Trục Sao</color>{/LINK}, Sandrone sẽ vào trạng thái <color=#FFD780FF>Tỏa Sáng: Tinh-Siêu Dẫn</color>.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_07"
       },
       {
@@ -712,6 +718,7 @@
         "Id": 1332501,
         "Name": "Dạo Đầu Của Tiệc Trà Và Những Câu Chuyện Dài",
         "Description": "Khi Sandrone có mặt trong đội, sau khi bàn giao nhiệm vụ ủy thác hằng ngày với Katheryne, sẽ được nhận thêm phần thưởng điểm tâm trà.",
+        "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_MarionetteNew_08"
       }
     ],
