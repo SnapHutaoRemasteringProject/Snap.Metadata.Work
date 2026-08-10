@@ -1146,5 +1146,11 @@
     "Description": "Namecard style.\nHe longs for a day to come when he will wear the mask and dance — not to conquer demons, but to the tune of that flute amid a sea of flowers.",
     "Icon": "UI_NameCardIcon_Xiao",
     "PicturePrefix": "UI_NameCardPic_Xiao"
+  },
+  "TraceEffect": {
+    "Id": 215023,
+    "Name": "Echo: Vigilant Yaksha",
+    "Description": "Xiao's Envisaged Echo. \"Purge evil through battle — to this we dedicate our lives.\"",
+    "Icon": "UI_TraceEffectIcon_Xiao"
   }
 }

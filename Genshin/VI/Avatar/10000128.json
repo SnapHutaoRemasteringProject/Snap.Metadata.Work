@@ -1027,7 +1027,7 @@
         },
         "Id": 1282201,
         "Name": "Ngọn Cờ Gió Dẫn Đầu",
-        "Description": "Khi nhân vật trong đội ở gần kích hoạt phản ứng Khuếch Tán, Varka sẽ nhận được một tầng <color=#FFD780FF>Lời Thề Nanh Xanh</color>, khiến Tấn Công Thường, Trọng Kích, Trọng Kích đặc biệt <color=#FFD780FF>Trời Xanh Cắn Xé</color> và Kỹ Năng Nguyên Tố đặc biệt {LINK#N11280002}<color=#FFD780FF>Tứ Phong Trỗi Dậy</color>{/LINK} của Varka sẽ tăng 7.5% sát thương gây ra. Hiệu quả này duy trì 8s, tối đa cộng dồn 4 tầng, mỗi nhân vật mỗi 1s tối đa giúp Varka nhận một tầng <color=#FFD780FF>Lời Thề Nanh Xanh</color> theo cách này.",
+        "Description": "Khi nhân vật trong đội ở gần kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, Varka sẽ nhận được một tầng <color=#FFD780FF>Lời Thề Nanh Xanh</color>, khiến Tấn Công Thường, Trọng Kích, Trọng Kích đặc biệt <color=#FFD780FF>Trời Xanh Cắn Xé</color> và Kỹ Năng Nguyên Tố đặc biệt {LINK#N11280002}<color=#FFD780FF>Tứ Phong Trỗi Dậy</color>{/LINK} của Varka sẽ tăng 7.5% sát thương gây ra. Hiệu quả này duy trì 8s, tối đa cộng dồn 4 tầng, mỗi nhân vật mỗi 1s tối đa giúp Varka nhận một tầng <color=#FFD780FF>Lời Thề Nanh Xanh</color> theo cách này.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Varka_05"
       },
@@ -1079,7 +1079,7 @@
       {
         "Id": 1284,
         "Name": "\"Không Ai Cướp Được, Tự Do Ca Hát Của Chúng Ta\"",
-        "Description": "Khi Varka kích hoạt phản ứng Khuếch Tán, căn cứ vào loại nguyên tố tham gia phản ứng, tất cả nhân vật trong đội ở gần sẽ nhận 20% buff sát thương <color=#80FFD7FF>Nguyên Tố Phong</color> và nguyên tố tương ứng, duy trì 10s.",
+        "Description": "Khi Varka kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán, căn cứ vào loại nguyên tố tham gia phản ứng, tất cả nhân vật trong đội ở gần sẽ nhận 20% buff sát thương <color=#80FFD7FF>Nguyên Tố Phong</color> và nguyên tố tương ứng, duy trì 10s.",
         "Icon": "UI_Talent_S_Varka_03"
       },
       {

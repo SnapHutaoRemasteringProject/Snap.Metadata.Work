@@ -1027,7 +1027,7 @@
         },
         "Id": 1282201,
         "Name": "Rüzgarın Öncüsü",
-        "Description": "Yakındaki grup üyeleri Girdap tepkimesi tetiklediğinde Varka bir <color=#FFD780FF>Mavi Dişin Yemini</color> kademesi kazanır ve 8 saniyeliğine Normal Saldırıları, Yüklü Saldırıları, <color=#FFD780FF>Gök Yutan</color> özel Yüklü Saldırısı ve {LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} özel Element Becerisinin verdiği Hasar %7,5 artar. 4 kademeye kadar birikebilir. Her karakter Varka'ya bu şekilde her saniye 1 kademe <color=#FFD780FF>Mavi Dişin Yemini</color> kazandırabilir.",
+        "Description": "Yakındaki grup üyeleri bir Girdap veya Yıldız Girdabı tepkimesi tetiklediğinde Varka 1 <color=#FFD780FF>Mavi Dişin Yemini</color> kademesi kazanır ve 8 saniyeliğine Normal Saldırıları, Yüklü Saldırıları, <color=#FFD780FF>Gök Yutan</color> özel Yüklü Saldırısı ve {LINK#N11280002}<color=#FFD780FF>Dört Rüzgarın Yükselişi</color>{/LINK} özel Element Becerisinin verdiği Hasar %7,5 artar. 4 kademeye kadar birikebilir. Her karakter Varka'ya bu şekilde her saniye 1 kademe <color=#FFD780FF>Mavi Dişin Yemini</color> kazandırabilir.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Varka_05"
       },
@@ -1079,7 +1079,7 @@
       {
         "Id": 1284,
         "Name": "\"Kimse Alamaz Şarkı Söyleme Özgürlüğümüzü Elimizden\"",
-        "Description": "Varka bir Girdap tepkimesi tetiklediğinde tepkimeye dahil olan Element Türlerine bağlı olarak 10 saniyeliğine yakındaki tüm grup üyeleri %20 <color=#80FFD7FF>Rüzgar Hasarı Bonusu</color> ve ilgili Element Hasarı Bonusu kazanır.",
+        "Description": "Varka bir Girdap veya Yıldız Girdabı tepkimesi tetiklediğinde tepkimeye dahil olan Element Türlerine bağlı olarak 10 saniyeliğine yakındaki tüm grup üyeleri %20 <color=#80FFD7FF>Rüzgar Hasarı Bonusu</color> ve ilgili Element Hasarı Bonusu kazanır.",
         "Icon": "UI_Talent_S_Varka_03"
       },
       {

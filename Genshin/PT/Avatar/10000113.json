@@ -631,7 +631,8 @@
                 1,
                 1,
                 150,
-                0.015
+                0.015,
+                0.0024
               ]
             }
           ],
@@ -639,7 +640,7 @@
         },
         "Id": 1132101,
         "Name": "Campo de Visão Médica",
-        "Description": "Quando Ifa está no estado Bênção do Espírito da Noite, obtém 1 ponto de {LINK#N11130002}<color=#FFD780FF>Essencial do Resgate</color>{/LINK} para cada ponto de Espírito da Noite da soma total de todos os membros atuais da equipe. Essencial do Resgate pode aumentar o Dano causado por Redemoinho, Eletricamente Carregado e Carga Lunar de personagens próximos.",
+        "Description": "Quando Ifa está no estado Bênção do Espírito da Noite, obtém 1 ponto de {LINK#N11130002}<color=#FFD780FF>Essencial do Resgate</color>{/LINK} para cada ponto de Espírito da Noite da soma total de todos os membros atuais da equipe. Essencial do Resgate pode aumentar o Dano causado por Redemoinho, Redemoinho Estelar, Eletricamente Carregado e Carga Lunar de personagens próximos.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Ifa_05"
       },

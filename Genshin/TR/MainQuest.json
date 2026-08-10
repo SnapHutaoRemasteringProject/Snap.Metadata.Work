@@ -13766,6 +13766,294 @@
     ]
   },
   {
+    "Id": 7000,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 4148,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 7001,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 11521,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 7002,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 220133,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 7003,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7004,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7005,
+    "Type": 0,
+    "Title": "Beyaz Perde İniyor",
+    "Description": "Odette'in Lelek olduğundan şüpheleniyorsun. Gerçeği öğrenmek ve yeni istihbaratlar edinmek için Korolevskiy Tiyatrosu'na gidiyor ve bir deneme performansına katılıyorsun. Bu esnada Snezhnograd'da esen kar fırtınası daha da güçleniyor...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7006,
+    "Type": 0,
+    "Title": "Lelek'in İtirafı",
+    "Description": "Kar fırtınası yüzünden geceyi Korolevskiy Tiyatrosu'nda geçirmek zorunda kaldınız. Fakat sabah uyandığınızda bir sorunla karşılaşıyorsunuz...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7007,
+    "Type": 0,
+    "Title": "Kışın Gizemli Sessizliği",
+    "Description": "Tiyatroda arka arkaya ölümler yaşanıyor fakat suçlunun kim olduğuna dair hiçbir ipucu yok. Giderek bunun sıradan bir olay olmayabileceğini fark ediyorsunuz...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7008,
+    "Type": 0,
+    "Title": "Hayaletin Noktürnü",
+    "Description": "Sorunu çözdüğüne inandın, ancak ölümler yaşanmaya devam ediyor. Hangi ayrıntıları gözünden kaçırdın? Hangi kilit olayları fark etmedin? Tiyatrodan sağ çıkmak için çabalamaya devam ediyorsun...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7009,
+    "Type": 0,
+    "Title": "Mistilteinn",
+    "Description": "Tiyatroda günler geceler geçtikçe Paimon'u çok özledin ve çok merak ettin. Fakat eve döndüğünde bir olay yaşandığını öğreniyorsun...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7010,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7011,
+    "Type": 0,
+    "Title": "Rüzgara, Soğuk Kuzeye Doğru",
+    "Description": "Nihayet Paimon ile hazırlıklarınızı tamamlayıp sıradaki durağınız olan Snezhnaya'ya doğru yola çıkıyorsunuz...",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 1125
+      },
+      {
+        "Id": 202,
+        "Count": 49200
+      },
+      {
+        "Id": 104003,
+        "Count": 5
+      },
+      {
+        "Id": 104013,
+        "Count": 9
+      }
+    ]
+  },
+  {
+    "Id": 7012,
+    "Type": 0,
+    "Title": "Sessiz Topraklarda Silah Sesleri",
+    "Description": "Sarsıntılı bir yolculuğun ardından, sıra dışı yollarla da olsa Sretomorozsk'un yakınlarına varıyorsunuz...",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7013,
+    "Type": 0,
+    "Title": "Tundrada Büyük Başarılar",
+    "Description": "Gölge Diyarından kaçmayı başardıktan sonra Rankova Zorya'da bir müddet dinleniyor ve trenle Snezhnograd'a gitmeye karar veriyorsun.",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7014,
+    "Type": 0,
+    "Title": "Sadece Sessizliktir Sevilmeyen",
+    "Description": "Svetloledovka'daki olayın ardından mevcut duruma ve Stuzha Projesine dair soruların giderek artıyor. Daha fazla istihbarat edinmek için gizemli Rokot ile iletişime geçmeye karar veriyorsun...",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7032,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 8000,
     "Type": 0,
     "Title": "Gönülsüz Fedakarlık",
@@ -39566,6 +39854,22 @@
     "RewardList": []
   },
   {
+    "Id": 70072,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 70073,
     "Type": 7,
     "Title": "",
@@ -39762,6 +40066,22 @@
   },
   {
     "Id": 70082,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70084,
     "Type": 7,
     "Title": "",
     "Description": "",
@@ -40291,6 +40611,86 @@
     "RewardList": []
   },
   {
+    "Id": 70116,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70117,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70118,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70119,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70120,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 70121,
     "Type": 7,
     "Title": "Gömülü Diyar",
@@ -40458,6 +40858,38 @@
     ]
   },
   {
+    "Id": 70129,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70130,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 70141,
     "Type": 7,
     "Title": "Dağlarda",
@@ -40553,6 +40985,86 @@
   },
   {
     "Id": 70145,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70146,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70150,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70151,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70152,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70153,
     "Type": 7,
     "Title": "",
     "Description": "",
@@ -92001,7 +92513,28 @@
     "Repeatable": false,
     "Series": 0,
     "TaskId": 0,
-    "RewardList": []
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 350
+      },
+      {
+        "Id": 201,
+        "Count": 40
+      },
+      {
+        "Id": 202,
+        "Count": 30000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      },
+      {
+        "Id": 104013,
+        "Count": 4
+      }
+    ]
   },
   {
     "Id": 76063,
@@ -93196,7 +93729,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93212,7 +93745,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93228,7 +93761,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93244,7 +93777,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93260,7 +93793,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93276,7 +93809,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -93517,7 +94050,28 @@
     "Repeatable": false,
     "Series": 0,
     "TaskId": 0,
-    "RewardList": []
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 400
+      },
+      {
+        "Id": 201,
+        "Count": 50
+      },
+      {
+        "Id": 202,
+        "Count": 30000
+      },
+      {
+        "Id": 104003,
+        "Count": 5
+      },
+      {
+        "Id": 104013,
+        "Count": 4
+      }
+    ]
   },
   {
     "Id": 76134,
@@ -93657,7 +94211,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -94455,7 +95009,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94487,7 +95041,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94503,7 +95057,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94519,7 +95073,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94535,7 +95089,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94551,7 +95105,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94567,7 +95121,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95032,7 +95586,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95048,7 +95602,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95064,7 +95618,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95080,7 +95634,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95290,7 +95844,7 @@
     "ActivityId": 0,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95331,7 +95885,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95347,7 +95901,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95363,7 +95917,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95379,7 +95933,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95411,7 +95965,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95523,7 +96077,7 @@
     "ActivityId": 5285,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95648,7 +96202,7 @@
     "ActivityId": 5285,
     "MainQuestTag": 2,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95702,7 +96256,7 @@
     "ActivityId": 5305,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95731,7 +96285,7 @@
     "ActivityId": 5305,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95756,7 +96310,7 @@
     "ActivityId": 5324,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95781,7 +96335,7 @@
     "ActivityId": 5324,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95893,7 +96447,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 76653,
     "TaskId": 0,
     "RewardList": [
@@ -95967,7 +96521,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96012,7 +96566,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96041,7 +96595,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 2,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96070,7 +96624,7 @@
     "ActivityId": 0,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96448,7 +97002,7 @@
     "ActivityId": 5296,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96502,7 +97056,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -96534,7 +97088,7 @@
     "ActivityId": 5313,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96596,7 +97150,7 @@
     "ActivityId": 5331,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96621,7 +97175,7 @@
     "ActivityId": 5331,
     "MainQuestTag": 2,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96800,6 +97354,3376 @@
       {
         "Id": 104001,
         "Count": 7
+      }
+    ]
+  },
+  {
+    "Id": 77000,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler",
+    "Description": "\"Siyah Kar Kuğusu\" adlı bale herkesin ilgi odağı haline geliyor. Ne var ki Korolevskiy Tiyatrosu'nun duvarları ardından kulağa tuhaf konuşmalar çalınıyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 201,
+        "Count": 10
+      },
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 40000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      },
+      {
+        "Id": 104366,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77001,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77002,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77003,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77004,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77005,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77006,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77007,
+    "Type": 7,
+    "Title": "",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77008,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77009,
+    "Type": 7,
+    "Title": "",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77010,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77011,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77012,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77013,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77016,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77017,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77100,
+    "Type": 7,
+    "Title": "Düşleyen Soluk Tacın Seyrine Dalmak",
+    "Description": "Graeae'in Gözü'nün yönlendirmelerine göre, gücünün parçalarından biri Zapolyarny Sarayı'nın arkasında, Beyaz Çar Huşunun yetiştiği yerde bulunuyor...",
+    "ChapterId": 10282,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77101,
+    "Type": 7,
+    "Title": "Hortlak Gibi Çökmüş Taştan Yaratıklar",
+    "Description": "Eskiden Çar Belyi'nin seyyar sarayı olan şu anıt mezara girip Graeae'in Gözü'ne ait gücün parçasının izini sürmenin bir yolunu bul...",
+    "ChapterId": 10282,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77102,
+    "Type": 7,
+    "Title": "Melankolinin Geçit Vermez Kapıları",
+    "Description": "Asansörle yukarı çıktınız. Toplanma salonu tam önünde...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77103,
+    "Type": 7,
+    "Title": "Çöplüğün En Dibinde",
+    "Description": "Gizemli bir kanalizasyona düşüyorsunuz. Şimdi, olabildiğince hızlı bir şekilde tekrar yukarı çıkmanın bir yolunu bulmalısınız...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77104,
+    "Type": 7,
+    "Title": "Fildişi Kapılardan İçeri",
+    "Description": "Kar fırtınasının ortasında tek başına bir lamba parlıyor...",
+    "ChapterId": 10187,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77105,
+    "Type": 7,
+    "Title": "Güneşin Yaldızlı Elması",
+    "Description": "Graeae'in Gözü'nün tüm gücünü geri kazanması için senin ve Paimon'un etrafa dağılmış çeşitli parçaları toplamanız gerekiyor...",
+    "ChapterId": 10187,
+    "SortWeight": 1,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77106,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77107,
+    "Type": 7,
+    "Title": "Alacakaranlıkta Çalan Çan Sesi",
+    "Description": "Ayin henüz tamamlanmadı. Bu gerçekleşmeden önce Pavlina'yı durdurmak iyi olur...",
+    "ChapterId": 10187,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77108,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77109,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77110,
+    "Type": 7,
+    "Title": "Düştüğün Yerden Doğruluş",
+    "Description": "Kanalizasyondan çıkmayı başardınız. Şimdi, daha önce bahsettiği \"kasaba girişine\" gidip Nastya'yı ara.",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77111,
+    "Type": 7,
+    "Title": "Unutulmuş Bir Kırda Soluklanmak",
+    "Description": "Nastya'yı \"yuvasına\" kadar takip et...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77112,
+    "Type": 7,
+    "Title": "Teselli Korosu",
+    "Description": "Zhara'yı yendin. Şimdi gidip Nastya'yı ara...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77114,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77115,
+    "Type": 7,
+    "Title": "Bahçıvansız Bir Filiz",
+    "Description": "",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77116,
+    "Type": 7,
+    "Title": "\"Dünden\" Koparılıp \"Yarına\" Kök Salan",
+    "Description": "Nastya'nın sürekli bahsettiği \"yuva\", uzakta beliren toplanma salonunun tam içinde...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77120,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77121,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77122,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77123,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77125,
+    "Type": 7,
+    "Title": "Küçük Ayaz Perisi, Büyük Sorunlar",
+    "Description": "Snezhnaya'da etrafı keşfederken tuhaf bir Ayaz Perisi yerleşimine denk geliyorsun. Görünüşe bakılırsa başları fena halde dertte...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      },
+      {
+        "Id": 121627,
+        "Count": 10
+      }
+    ]
+  },
+  {
+    "Id": 77126,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77127,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77128,
+    "Type": 7,
+    "Title": "Prokrustes'in Demir Yatağı",
+    "Description": "Hesperides Köşkü'ndeki sözde düğünün beklenenden daha az keyifli olduğu ortaya çıkar. Pavlina, dileği için Ikhor'u feda etmeye çalışır, ancak neyse ki sonunda Aksinya tarafından engellenir. Pavlina Gölge Diyarına atılır ve burada Aksinya ile karşı karşıya gelmeye devam eder...",
+    "ChapterId": 10187,
+    "SortWeight": 3,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77129,
+    "Type": 7,
+    "Title": "Zarif Zincirlere Vurulmuş Koca Bir Yürek",
+    "Description": "Buz tutmuş toprakların uğultulu kar fırtınalarının tam ortasında devasa bir silüet gözüne çarpıyor... Acaba saf kar ve buzdan yapılmış zincirlerle bu buzlu düzlüklere zincirlenmesinin sebebi ne?",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77130,
+    "Type": 7,
+    "Title": "Hizmetkarlarını Hapseden Labirent Gibi",
+    "Description": "Bir zamanlar tundrada zincirlere vurulan dev deniz kıyısında ortaya çıkmış... Acaba nereye gitmeyi planlıyor?",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 25000
+      }
+    ]
+  },
+  {
+    "Id": 77131,
+    "Type": 7,
+    "Title": "Ruhsuzlar Hanesi",
+    "Description": "Graeae'in Gözü'nün tüm gücünü geri kazanması için senin ve Paimon'un etrafa dağılmış çeşitli parçaları toplamanız gerekiyor...",
+    "ChapterId": 10187,
+    "SortWeight": 2,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77132,
+    "Type": 7,
+    "Title": "Usulca Söylediği Şarkı",
+    "Description": "Görünüşe bakılırsa bu buz ve kar devi, göğsündeki alevle Gölge Diyarında beliren deniz fenerini yakmak istiyor. Anlaşılan önce fenerin etrafındaki karları eritmen gerekecek...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 25000
+      }
+    ]
+  },
+  {
+    "Id": 77137,
+    "Type": 7,
+    "Title": "Metcezirin Şarkılar Fısıldadığı Toprak",
+    "Description": "Snezhnograd'ın şehir surlarının ötesinde, aniden kulağına şarkı söyleyen birinin tuhaf sesi çalınıyor...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77142,
+    "Type": 7,
+    "Title": "Yansın Depolar ve Ahırlar",
+    "Description": "Yoldayken Snezhnayalı bir çetenin halka zorbalık yaptığına şahit oluyorsun. Hemen araya girip olayı çözüyorsun ama ufak tefek gibi duran bu mevzunun arkasında çok daha karışık işler dönüyor.",
+    "ChapterId": 10283,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77143,
+    "Type": 7,
+    "Title": "Onurdan ve İnsanlıktan Yoksun İhtilaflar",
+    "Description": "Luchkin kalesine geri dön ve durum hakkında bilgi almak için Zmei ile konuş...",
+    "ChapterId": 10283,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77144,
+    "Type": 7,
+    "Title": "Şafağı Beklerken",
+    "Description": "Vodyanitsa, Rankova Zorya'ya gitmiş gibi görünüyor. Belli ki orada halletmesi gereken bir işi var...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77147,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77148,
+    "Type": 7,
+    "Title": "Ormanlık Kar Ovası",
+    "Description": "Morepesok'un güneyindeki bir kereste fabrikasının yanından geçerken, bölgedeki işçilere sataşan birkaç Volkodlaka denk geldin... Anlaşılan çete üyeleri yine ortalığı karıştırıyor. Galiba artık duruma el atma vaktin geldi.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77149,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77150,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77151,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77152,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77153,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77154,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77156,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77158,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77159,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77160,
+    "Type": 7,
+    "Title": "Bir Zamanlar Ruh Olan Kabuk",
+    "Description": "Graeae'in Gözü'nden ayrılan gücü toplayarak ona bedenini geri alması için yardım etmelisin...",
+    "ChapterId": 10188,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77161,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77162,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77163,
+    "Type": 7,
+    "Title": "Kendi Kendini Yankılayan Metcezir",
+    "Description": "Metcezir Ezgisi Mağarasının içinde yeni ve tuhaf bir şeyler var gibi görünüyor...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77164,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77165,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77166,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77167,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77168,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77169,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77170,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77171,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77172,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77173,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77174,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77175,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77184,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77185,
+    "Type": 7,
+    "Title": "Tıpkı Kar Topu Gibi",
+    "Description": "Çocukların mükemmel boyutta bir kar topu yapmalarına yardım et.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77186,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77187,
+    "Type": 7,
+    "Title": "Metcezirin Şarkılarla Sarmaladığı Toprak",
+    "Description": "Sıkı çalışman sayesinde, Metcezir Ezgisi Mağarası sonunda Vodyanitsa'nın daha çok hoşuna giden bir şekil aldı...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77189,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77190,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77191,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77193,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77194,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77195,
+    "Type": 7,
+    "Title": "Atış Poligonu ve Derin Gölge Diyarı",
+    "Description": "Gölge Diyarındaki savaştan sonra Graeae'in Gözü, trenden ulaştığın Atış Poligonunda yeni bir özelliğin açıldığını sana haber veriyor.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 100
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 10000
+      }
+    ]
+  },
+  {
+    "Id": 77196,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77197,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77198,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77199,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77200,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77201,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77202,
+    "Type": 7,
+    "Title": "Bir Buz Aynası Parçası İçin",
+    "Description": "Karlı dağlarda kaybolmuş birinin ardında bıraktığı notlara denk geliyorsun... Acaba hâlâ yaşıyor mudur? Acaba onu kurtarabilecek zamanın var mı?",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 25000
+      }
+    ]
+  },
+  {
+    "Id": 77203,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77204,
+    "Type": 7,
+    "Title": "Uçuşan Karların Üstünde",
+    "Description": "Odette, Rankova Zorya'ya varır...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 40000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77207,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77208,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77209,
+    "Type": 7,
+    "Title": "Daima Dalgaların Altında",
+    "Description": "Suyun üstünde tuhaf bir buz kütlesi yüzüyor. Bir boru sisteminin içinden sana seslenen gizemli bir ses, buzun altında baş aşağı duran ahşap bir kulübe olduğunu söylüyor. Etraftaki kırık buzları temizlersen belki kulübenin asıl hali ortaya çıkar...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77210,
+    "Type": 7,
+    "Title": "Çan Çalmadan Geçen Batık Gemi",
+    "Description": "Ahşap bir kulübe suyun üzerinde sabit duruyor. Bir yerden tanıdık gelen bu ev eski bir tanıdığa ev sahipliği yapıyor olabilir. Yoksa yine mi başını derde soktu? Ne olup bittiğini anlamak için gidip kontrol et...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 200
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 35000
+      }
+    ]
+  },
+  {
+    "Id": 77211,
+    "Type": 7,
+    "Title": "Döngülerin Sükunetinde",
+    "Description": "Buzun üstündeki kulübenin sulara gömülmesine ramak kalmış gibi. Sen yokken neler oldu acaba? Karaya çıkmayı reddeden ev sahibi hâlâ içeride midir acaba? Kulübeye yaklaşıp kontrol et.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 100
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 10000
+      }
+    ]
+  },
+  {
+    "Id": 77212,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77213,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77214,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77215,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77216,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77217,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77218,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77219,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77220,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77221,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77222,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77223,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77233,
+    "Type": 7,
+    "Title": "Basit İşler",
+    "Description": "Mühendislik şefi Sobolev'in yardıma ihtiyacı var gibi görünüyor...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77234,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 101279,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "Id": 77235,
+    "Type": 7,
+    "Title": "",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77236,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77237,
+    "Type": 7,
+    "Title": "Belyi ve Chernyi Üzerine Çeşitlemeler: Program",
+    "Description": "Odette'in programı devam ediyor...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77238,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77239,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77240,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77242,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77243,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77244,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77245,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77246,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77247,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77500,
+    "Type": 7,
+    "Title": "Çocukluk Neşesi",
+    "Description": "Karlı düzlüklerdeki sığınağın dışından gelen neşeli bir ses duyuyorsun...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77501,
+    "Type": 7,
+    "Title": "Teyvat Maceracıları: Büyük Hesaplaşma!",
+    "Description": "Snezhnaya Maceracılar Loncası Genel Merkezine giderken Paimon ile yolunuz iki \"S Dereceli\" maceracı tarafından kesiliyor...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 2050,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 202,
+        "Count": 50000
+      },
+      {
+        "Id": 104001,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "Id": 77504,
+    "Type": 7,
+    "Title": "Karşılıklı Yardımlaşma ve Kalkınma Yolu Mu?",
+    "Description": "Sonunda Snezhnaya'ya vardıktan sonra Paimon ile fırsatını bulduğunuzda Morepesok'a uğramaya karar veriyorsunuz...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 5333,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 220135,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 77505,
+    "Type": 7,
+    "Title": "İpuçlarımızı Paylaşma Sözü...",
+    "Description": "Karşılıklı Yardımlaşma ve Kalkınma Derneğindeki çocuklarla yapılan rahat bir takım çalışmasının ardından keşif planı neredeyse tamamlandı. Görünüşe göre Chichikova da kendi adına birkaç yeni keşif yapmış...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 5333,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77511,
+    "Type": 7,
+    "Title": "Paimon'un \"Derviş\" Usulü Sorun Çözme Yöntemi",
+    "Description": "Sen ve Paimon birinci Maceracılar Turnuvasını kazandınız. Snezhnaya Genel Merkezinin gönderdiği ödüller yolda olmalı, hem de yanında epey tuhaf birkaç soruyla birlikte...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 2050,
+    "MainQuestTag": 2,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 202,
+        "Count": 50000
+      },
+      {
+        "Id": 104001,
+        "Count": 5
+      },
+      {
+        "Id": 121631,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 77512,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77513,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77514,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77515,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77516,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77517,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77650,
+    "Type": 7,
+    "Title": "Karlı Ovalardaki Avcı",
+    "Description": "Karlı arazilerde gezinirken, bir kar yığınının ardına gizlenmiş olan Alyosha ile şans eseri yolun kesişiyor. Ona kalırsa bu, bir avcı için gayet normal bir davranış; ne var ki çok geçmeden, bu defa gözüne biraz özel bir \"av\" kestirdiğini fark ediyorsun...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 77650,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 40000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77651,
+    "Type": 7,
+    "Title": "Bir Şafak Işığı Hüzmesi",
+    "Description": "Bir istasyonun yakınında Alyosha ile karşılaşıyorsun. Bu istasyonda bazı değişiklikler yapmak istiyor...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77652,
+    "Type": 7,
+    "Title": "Birlikten Kuvvet Doğar",
+    "Description": "Fırın daha da ısınıyor ve iyice güçleniyor, sığınaktaki yaşam ise nihayet istikrara kavuşuyor...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77653,
+    "Type": 7,
+    "Title": "Gölge Diyarının Kalıntıları",
+    "Description": "Alyosha ile daha önce bulduğunuz kaide aklına geliyor. Görünüşe göre Gölge Diyarı ile bir ilgisi var...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77654,
+    "Type": 7,
+    "Title": "Gölge Diyarının Kalıntıları",
+    "Description": "Erişim kartını yükseltince gizli bir alanı etkinleştiriyorsun...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77655,
+    "Type": 7,
+    "Title": "Gölge Diyarının Kalıntıları",
+    "Description": "Sonunda harabelerdeki yadigarların kazısını tamamladın.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77656,
+    "Type": 7,
+    "Title": "Kar Sonrası Şafak",
+    "Description": "Görünüşe göre herkesin katılımıyla halledilmeyi bekleyen bir şeyler var...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77657,
+    "Type": 7,
+    "Title": "Özel Bir Seçim",
+    "Description": "Druzhna Karargahının yanından geçerken çok özel bir seçim sürecinin gerçekleştiğini fark ediyorsun...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 202,
+        "Count": 10000
+      },
+      {
+        "Id": 104002,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77658,
+    "Type": 7,
+    "Title": "Pusudaki Gölgeler: I. Bölüm",
+    "Description": "Yarovaya, bilinen tüm \"felaketler\" arasında en istikrarsız olanın Gölge Diyarı olabileceğinden kuşkulanıyor. İçeride gizlenen tehlikeler her ne ise, işler çığırından çıkmadan önce icabına bakılmalı...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104366,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77659,
+    "Type": 7,
+    "Title": "Pusudaki Gölgeler: II. Bölüm",
+    "Description": "Yarovaya, bilinen tüm \"felaketler\" arasında en istikrarsız olanın Gölge Diyarı olabileceğinden kuşkulanıyor. İçeride gizlenen tehlikeler her ne ise, işler çığırından çıkmadan önce icabına bakılmalı...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104369,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77660,
+    "Type": 7,
+    "Title": "Pusudaki Gölgeler: III. Bölüm",
+    "Description": "Yarovaya, bilinen tüm \"felaketler\" arasında en istikrarsız olanın Gölge Diyarı olabileceğinden kuşkulanıyor. İçeride gizlenen tehlikeler her ne ise, işler çığırından çıkmadan önce icabına bakılmalı...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104372,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77661,
+    "Type": 7,
+    "Title": "Pusudaki Gölgeler: IV. Bölüm",
+    "Description": "Yarovaya, bilinen tüm \"felaketler\" arasında en istikrarsız olanın Gölge Diyarı olabileceğinden kuşkulanıyor. İçeride gizlenen tehlikeler her ne ise, işler çığırından çıkmadan önce icabına bakılmalı...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104366,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77662,
+    "Type": 7,
+    "Title": "Pusudaki Gölgeler: V. Bölüm",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104369,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77663,
+    "Type": 7,
+    "Title": "Pusudaki Gölgeler: VI. Bölüm",
+    "Description": "Yarovaya, bilinen tüm \"felaketler\" arasında en istikrarsız olanın Gölge Diyarı olabileceğinden kuşkulanıyor. İçeride gizlenen tehlikeler her ne ise, işler çığırından çıkmadan önce icabına bakılmalı...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 210292,
+        "Count": 1
+      },
+      {
+        "Id": 115043,
+        "Count": 1
+      },
+      {
+        "Id": 339043,
+        "Count": 1
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104372,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77670,
+    "Type": 7,
+    "Title": "Kardaki Yeni Yüzler",
+    "Description": "Rankova Zorya'da işlerin nasıl gittiğini merak ediyorsun. Gidip bir göz atsan iyi olur...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77671,
+    "Type": 7,
+    "Title": "Henüz Boyun Eğmeyen Biri",
+    "Description": "Bazen gece yarısı civarında Korolevskiy Tiyatrosu'ndan ürkütücü bir müziğin yankılandığına ve insanların duvarlarda dans eden gölgeler gördüğüne dair söylentiler duyuyorsun...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77672,
+    "Type": 7,
+    "Title": "Boyun Eğmeyenin Minnettarlığı",
+    "Description": "Odette bu malzemelerle müzik kutusunu tamir edebilir...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77674,
+    "Type": 7,
+    "Title": "Zorlu Bir Savaş Simülasyonu",
+    "Description": "Kendini tehlikeli fenomenleri araştırmaya adamış bir maceracı olan Talalikhin, Maceracılar Loncası Genel Merkezi yakınlarında bir tür simülasyon eğitimi yürütüyor...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 5334,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104002,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77675,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77676,
+    "Type": 7,
+    "Title": "Ufukta Yeni Bir Macera",
+    "Description": "Snezhnaya'da ikiniz, epey aşina olduğunuz Maceracılar Loncasını fark ediyorsunuz...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104002,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77679,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 77650,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77695,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77800,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77900,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77901,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 101281,
+        "Count": 3
+      },
+      {
+        "Id": 101277,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77902,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77903,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 132014,
+        "Count": 1
+      },
+      {
+        "Id": 132002,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 77904,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77905,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104002,
+        "Count": 3
       }
     ]
   },
@@ -97020,7 +100944,7 @@
     "ActivityId": 0,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -97824,7 +101748,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -98470,7 +102394,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -98495,7 +102419,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -98520,7 +102444,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -98549,7 +102473,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [

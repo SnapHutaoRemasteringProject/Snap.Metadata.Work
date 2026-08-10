@@ -13654,6 +13654,294 @@
     ]
   },
   {
+    "Id": 7000,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 4148,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 7001,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 11521,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 7002,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 220133,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 7003,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7004,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7005,
+    "Type": 0,
+    "Title": "Опускается белый занавес",
+    "Description": "Вы подозреваете, что Одетта и есть Лелек. Вы отправляетесь в Королевский театр на пробное представление Одетты, чтобы выяснить правду и получить больше информации. Тем временем снежная буря в Снежнограде усиливается...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7006,
+    "Type": 0,
+    "Title": "Признание Лелека",
+    "Description": "Из-за снежной бури вы были вынуждены заночевать в Королевском театре. Проснувшись, вы обнаруживаете, что ситуация существенно усложнилась...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7007,
+    "Type": 0,
+    "Title": "Загадочное молчание зимы",
+    "Description": "В театре одна за другой происходят смерти, но нет никаких следов, указывающих на убийцу. Вы начинаете понимать, что это не совсем обычное дело...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7008,
+    "Type": 0,
+    "Title": "Ноктюрн мёртвых душ",
+    "Description": "Вы думали, что проблема решена, но смерти продолжаются. Что вы упустили? На какую ключевую улику не обратили внимание? Вы решаете бороться, чтобы выбраться из театра живыми...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7009,
+    "Type": 0,
+    "Title": "Омела",
+    "Description": "Всё время, пока вы были в театре, вы не переставали беспокоиться о Паймон и скучали по ней. Однако, вернувшись к себе, вы обнаруживаете, что случилось непредвиденное...",
+    "ChapterId": 1701,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7005,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7010,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7011,
+    "Type": 0,
+    "Title": "Навстречу ветру, к суровому северу",
+    "Description": "Вы с Паймон снова собираетесь в дорогу. Впереди Снежная...",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 1125
+      },
+      {
+        "Id": 202,
+        "Count": 49200
+      },
+      {
+        "Id": 104003,
+        "Count": 5
+      },
+      {
+        "Id": 104013,
+        "Count": 9
+      }
+    ]
+  },
+  {
+    "Id": 7012,
+    "Type": 0,
+    "Title": "Выстрелы в земле безмолвия",
+    "Description": "После множества перипетий вы прибываете в окрестности деревни Сретоморозск необычным способом...",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7013,
+    "Type": 0,
+    "Title": "Деяния в тундре",
+    "Description": "Покинув Сферу теней, вы отдыхаете на станции «Ранкова зоря» и собираетесь отправиться в Снежноград на поезде.",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7014,
+    "Type": 0,
+    "Title": "Лишь безмолвие лишено благосклонности",
+    "Description": "После того как инцидент в Светлолёдовке удалось уладить, вопросов о нынешнем положении дел в Снежной и проекте «Стужа» стало только больше. Чтобы получить больше сведений, вы решаете выйти на связь с таинственным Рокотом...",
+    "ChapterId": 1700,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 7011,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 7032,
+    "Type": 0,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 8000,
     "Type": 0,
     "Title": "Принудительное жертвоприношение",
@@ -39369,6 +39657,22 @@
     "RewardList": []
   },
   {
+    "Id": 70072,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 70073,
     "Type": 7,
     "Title": "",
@@ -39565,6 +39869,22 @@
   },
   {
     "Id": 70082,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70084,
     "Type": 7,
     "Title": "",
     "Description": "",
@@ -40094,6 +40414,86 @@
     "RewardList": []
   },
   {
+    "Id": 70116,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70117,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70118,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70119,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70120,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 70121,
     "Type": 7,
     "Title": "Погребённое королевство",
@@ -40261,6 +40661,38 @@
     ]
   },
   {
+    "Id": 70129,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70130,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
     "Id": 70141,
     "Type": 7,
     "Title": "В горах",
@@ -40356,6 +40788,86 @@
   },
   {
     "Id": 70145,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70146,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70150,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70151,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70152,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 70153,
     "Type": 7,
     "Title": "",
     "Description": "",
@@ -91377,7 +91889,28 @@
     "Repeatable": false,
     "Series": 0,
     "TaskId": 0,
-    "RewardList": []
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 350
+      },
+      {
+        "Id": 201,
+        "Count": 40
+      },
+      {
+        "Id": 202,
+        "Count": 30000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      },
+      {
+        "Id": 104013,
+        "Count": 4
+      }
+    ]
   },
   {
     "Id": 76063,
@@ -92572,7 +93105,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -92588,7 +93121,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -92604,7 +93137,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -92620,7 +93153,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -92636,7 +93169,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -92652,7 +93185,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -92893,7 +93426,28 @@
     "Repeatable": false,
     "Series": 0,
     "TaskId": 0,
-    "RewardList": []
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 400
+      },
+      {
+        "Id": 201,
+        "Count": 50
+      },
+      {
+        "Id": 202,
+        "Count": 30000
+      },
+      {
+        "Id": 104003,
+        "Count": 5
+      },
+      {
+        "Id": 104013,
+        "Count": 4
+      }
+    ]
   },
   {
     "Id": 76134,
@@ -93033,7 +93587,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -93831,7 +94385,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93863,7 +94417,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93879,7 +94433,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93895,7 +94449,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93911,7 +94465,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93927,7 +94481,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -93943,7 +94497,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94408,7 +94962,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94424,7 +94978,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94440,7 +94994,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94456,7 +95010,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94666,7 +95220,7 @@
     "ActivityId": 0,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -94707,7 +95261,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94723,7 +95277,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94739,7 +95293,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94755,7 +95309,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94787,7 +95341,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -94899,7 +95453,7 @@
     "ActivityId": 5285,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95024,7 +95578,7 @@
     "ActivityId": 5285,
     "MainQuestTag": 2,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95078,7 +95632,7 @@
     "ActivityId": 5305,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95107,7 +95661,7 @@
     "ActivityId": 5305,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95132,7 +95686,7 @@
     "ActivityId": 5324,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95157,7 +95711,7 @@
     "ActivityId": 5324,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95269,7 +95823,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 76653,
     "TaskId": 0,
     "RewardList": [
@@ -95343,7 +95897,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95388,7 +95942,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95417,7 +95971,7 @@
     "ActivityId": 2042,
     "MainQuestTag": 2,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95446,7 +96000,7 @@
     "ActivityId": 0,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95824,7 +96378,7 @@
     "ActivityId": 5296,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95878,7 +96432,7 @@
     "ActivityId": 0,
     "MainQuestTag": 8,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -95910,7 +96464,7 @@
     "ActivityId": 5313,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95972,7 +96526,7 @@
     "ActivityId": 5331,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -95997,7 +96551,7 @@
     "ActivityId": 5331,
     "MainQuestTag": 2,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -96176,6 +96730,3376 @@
       {
         "Id": 104001,
         "Count": 7
+      }
+    ]
+  },
+  {
+    "Id": 77000,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного",
+    "Description": "Балет «Чёрный лебедь» оказывается в центре всеобщего внимания, однако в стенах Королевского театра звучат странные разговоры...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 201,
+        "Count": 10
+      },
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 40000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      },
+      {
+        "Id": 104366,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77001,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77002,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77003,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77004,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77005,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77006,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77007,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77008,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77009,
+    "Type": 7,
+    "Title": "",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77010,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77011,
+    "Type": 7,
+    "Title": "",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77012,
+    "Type": 7,
+    "Title": "",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77013,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77016,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77017,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77100,
+    "Type": 7,
+    "Title": "Взирая на бледную корону, погружённую в сон",
+    "Description": "Согласно указаниям Ока Грай, один из осколков его силы находится за Заполярным дворцом, там, где растёт огромная Царская берёза...",
+    "ChapterId": 10282,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77101,
+    "Type": 7,
+    "Title": "Каменные звери восседают подобно призракам",
+    "Description": "Найдите часть силы Ока Грай в бывшем дворце Белого царя, ставшем ныне его усыпальницей...",
+    "ChapterId": 10282,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77102,
+    "Type": 7,
+    "Title": "Неприступные врата печали",
+    "Description": "Вы поднимаетесь на подъёмнике, и перед вами открывается зал собраний...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77103,
+    "Type": 7,
+    "Title": "По узкому пути",
+    "Description": "Вы проваливаетесь в таинственную канализацию. Вам нужно как можно быстрее найти способ выбраться оттуда...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77104,
+    "Type": 7,
+    "Title": "Сквозь Врата из слоновой кости",
+    "Description": "Одинокий фонарь мерцает среди метели...",
+    "ChapterId": 10187,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77105,
+    "Type": 7,
+    "Title": "Золотое яблоко солнца",
+    "Description": "Чтобы полностью восстановить силу Ока Грай, вам и Паймон предстоит собрать различные осколки, разбросанные повсюду...",
+    "ChapterId": 10187,
+    "SortWeight": 1,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77106,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77107,
+    "Type": 7,
+    "Title": "Звон колокола в вечерней мгле",
+    "Description": "Обряд ещё не завершён. Нужно остановить Павлину до того, как это произойдёт...",
+    "ChapterId": 10187,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77108,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77109,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77110,
+    "Type": 7,
+    "Title": "Садовник стоит неподвижно",
+    "Description": "Вы выбрались из канализации. Отправляйтесь ко входу в деревню и найдите Настю.",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77111,
+    "Type": 7,
+    "Title": "Отдых на заброшенном поле",
+    "Description": "Вернитесь «домой» вместе с Настей...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77112,
+    "Type": 7,
+    "Title": "Хор утешения",
+    "Description": "Вы победили Жару. Найдите Настю...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77114,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77115,
+    "Type": 7,
+    "Title": "Всходы в отсутствие садовника",
+    "Description": "",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77116,
+    "Type": 7,
+    "Title": "Пересаженные из вчера в завтра",
+    "Description": "«Дом», о котором Настя всё время говорит, и есть то высокое здание зала собраний вдалеке...",
+    "ChapterId": 10255,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77120,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77121,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77122,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77123,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77125,
+    "Type": 7,
+    "Title": "Маленький ледовик, большие неприятности",
+    "Description": "Во время исследования Снежной вы обнаружили странное поселение ледовиков. Похоже, они оказались в какой-то серьёзной беде...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      },
+      {
+        "Id": 121627,
+        "Count": 10
+      }
+    ]
+  },
+  {
+    "Id": 77126,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77127,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77128,
+    "Type": 7,
+    "Title": "Прокрустово ложе",
+    "Description": "Свадьба в Доме Гесперид оказалась далеко не такой прекрасной, как представлялось. Павлина намеревалась принести Икора в жертву, чтобы исполнить своё желание. К счастью, Аксинья прервала обряд, а Павлину затянуло в Сферу теней, где ей пришлось противостоять Аксинье...",
+    "ChapterId": 10187,
+    "SortWeight": 3,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77129,
+    "Type": 7,
+    "Title": "Великое сердце, скованное тонкой цепью",
+    "Description": "Посреди снежной бури на мёрзлой земле вдруг показалась огромная фигура... Почему она прикована к этим ледяным равнинам цепями из чистого снега и льда?",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77130,
+    "Type": 7,
+    "Title": "Подобно лабиринту, заточившему её слуг",
+    "Description": "Великан, некогда скованный цепями на ледяной равнине, на этот раз появился у моря... Куда он хочет отправиться в первую очередь?",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 25000
+      }
+    ]
+  },
+  {
+    "Id": 77131,
+    "Type": 7,
+    "Title": "Дом бездушных",
+    "Description": "Чтобы полностью восстановить силу Ока Грай, вам и Паймон предстоит собрать различные осколки, разбросанные повсюду...",
+    "ChapterId": 10187,
+    "SortWeight": 2,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77132,
+    "Type": 7,
+    "Title": "Нежные напевы",
+    "Description": "Ледяной великан, похоже, хочет зажечь маяк, появившийся в Сфере теней, пламенем из своей груди. Чтобы всё получилось, сначала нужно растопить лёд на маяке...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 25000
+      }
+    ]
+  },
+  {
+    "Id": 77137,
+    "Type": 7,
+    "Title": "Край, где шепчет прилив",
+    "Description": "Вы вдруг слышите странное пение за стенами Снежнограда...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77142,
+    "Type": 7,
+    "Title": "Сжечь амбары и конюшни",
+    "Description": "По дороге вы встретили членов банды Снежной, которые притесняли простых жителей. Хотя вы вмешались и помогли решить спор, за этой маленькой стычкой, похоже, скрываются куда более сложные противоречия.",
+    "ChapterId": 10283,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77143,
+    "Type": 7,
+    "Title": "Споры без чести и справедливости",
+    "Description": "Вернитесь в опорный пункт Лучкинцев и поговорите со Змеем, чтобы узнать о текущей ситуации...",
+    "ChapterId": 10283,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77144,
+    "Type": 7,
+    "Title": "В ожидании зари",
+    "Description": "Водяница отправилась на станцию «Ранкова зоря». Похоже, там её ждут какие-то дела...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77147,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77148,
+    "Type": 7,
+    "Title": "Заснеженная лесная пустошь",
+    "Description": "Проходя мимо лесопилки к югу от деревни Морепесок, вы неожиданно увидели волкодлаков, которые запугивали местных рабочих... Здесь снова замешана банда? Кажется, пришло время вмешаться!",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77149,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77150,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77151,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77152,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77153,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77154,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77156,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77158,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77159,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77160,
+    "Type": 7,
+    "Title": "Ковчег, что некогда был душой",
+    "Description": "Чтобы Око Грай вернулось и обрело своё тело, необходимо получить силу, отделённую от Ока Грай...",
+    "ChapterId": 10188,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 3,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77161,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77162,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77163,
+    "Type": 7,
+    "Title": "Прилив, рождённый из эха",
+    "Description": "В Пещере прилива, кажется, появилось что-то необычное...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77164,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77165,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77166,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77167,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77168,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77169,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77170,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77171,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77172,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77173,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77174,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77175,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77184,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77185,
+    "Type": 7,
+    "Title": "Как снежный ком",
+    "Description": "Помогите детям скатать снежный ком подходящего размера",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77186,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77187,
+    "Type": 7,
+    "Title": "Как в краю, где всюду звучит песнь прилива",
+    "Description": "Благодаря вашим усилиям Пещера прилива наконец выглядит так, как хотелось Водянице...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77189,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77190,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77191,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77193,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77194,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77195,
+    "Type": 7,
+    "Title": "Тир и Глубинная сфера теней",
+    "Description": "После сражения в Сфере теней Око Грай сообщает нам, что в Тире, куда можно попасть на поезде, появились новые функции.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 100
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 10000
+      }
+    ]
+  },
+  {
+    "Id": 77196,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77197,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77198,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77199,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77200,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77201,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77202,
+    "Type": 7,
+    "Title": "В поисках осколка ледяного зеркала",
+    "Description": "В ледяной пещере вы нашли записи человека, заблудившегося в заснеженных горах... Жив ли он? Можно ли ещё спасти его...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 25000
+      }
+    ]
+  },
+  {
+    "Id": 77203,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77204,
+    "Type": 7,
+    "Title": "Над лёгким снегом",
+    "Description": "Одетта прибыла на станцию «Ранкова зоря»",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 40000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77207,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77208,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77209,
+    "Type": 7,
+    "Title": "Вечно под водной гладью",
+    "Description": "Странный кусок льда плавает на поверхности воды. Таинственный голос из трубы утверждает, что подо льдом находится перевёрнутая деревянная хижина. Если расчистить осколки льда поблизости, возможно, вам удастся увидеть истинный облик этой хижины...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 250
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77210,
+    "Type": 7,
+    "Title": "Затонувший корабль проплыл мимо, не прозвонив в колокол",
+    "Description": "Над водой застыла деревянная хижина. В этой до боли знакомой хижине, возможно, остановился один ваш старый знакомый. Он снова попал в неприятности? Стоит пойти и проверить, как обстоят дела...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 200
+      },
+      {
+        "Id": 201,
+        "Count": 30
+      },
+      {
+        "Id": 202,
+        "Count": 35000
+      }
+    ]
+  },
+  {
+    "Id": 77211,
+    "Type": 7,
+    "Title": "В круговороте тишины",
+    "Description": "Деревянная хижина на льду, кажется, вот-вот погрузится на дно моря. Что же произошло за это время? Остался ли в хижине её хозяин, который не хотел выходить на берег? Надо пойти и посмотреть.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 100
+      },
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 10000
+      }
+    ]
+  },
+  {
+    "Id": 77212,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77213,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77214,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77215,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77216,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77217,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77218,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77219,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77220,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77221,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77222,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77223,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77233,
+    "Type": 7,
+    "Title": "Простая подработка",
+    "Description": "Главному инженеру Соболеву нужна помощь...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77234,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      },
+      {
+        "Id": 101279,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "Id": 77235,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77236,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77237,
+    "Type": 7,
+    "Title": "Вариации Белого и Чёрного: Расписание",
+    "Description": "Одетта следует своему расписанию...",
+    "ChapterId": 10284,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77238,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77239,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77240,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77242,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77243,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77244,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77245,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77246,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77247,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77500,
+    "Type": 7,
+    "Title": "Детская радость",
+    "Description": "Где-то за пределами убежища на заснеженных равнинах слышатся весёлые крики...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77501,
+    "Type": 7,
+    "Title": "Искатели приключений Тейвата: Противостояние!",
+    "Description": "По пути в штаб-квартиру Гильдии искателей приключений Снежной вам с Паймон преградили дорогу два искателя приключений уровня S...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 2050,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 202,
+        "Count": 50000
+      },
+      {
+        "Id": 104001,
+        "Count": 5
+      }
+    ]
+  },
+  {
+    "Id": 77504,
+    "Type": 7,
+    "Title": "Секреты взаимопомощи и улучшения?",
+    "Description": "Наконец-то Снежная! Вы с Паймон решили выкроить время, чтобы заглянуть в деревню Морепесок...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 5333,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 220135,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 77505,
+    "Type": 7,
+    "Title": "Обещание обменяться секретами...",
+    "Description": "После совместной работы с ребятами из «Группы взаимопомощи по усилению» план исследований почти завершён. Чичикова тоже сделала для себя новые открытия...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 5333,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77511,
+    "Type": 7,
+    "Title": "Метод дриошей в решении задач от Паймон",
+    "Description": "На первом Турнире искателей приключений определился победитель - вы с Паймон. Вы получите награду из отделения Снежной, а также вам предстоит столкнуться с рядом особых вопросов...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 2050,
+    "MainQuestTag": 2,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 202,
+        "Count": 50000
+      },
+      {
+        "Id": 104001,
+        "Count": 5
+      },
+      {
+        "Id": 121631,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 77512,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77513,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77514,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77515,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77516,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77517,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77650,
+    "Type": 7,
+    "Title": "Охотник на снежных просторах",
+    "Description": "Прогуливаясь по заснеженным равнинам, вы случайно встретили Алёшу, который прятался за сугробом. По его словам, так себя ведут все охотники. Однако вы быстро обнаружили, что он выбрал себе весьма необычную «добычу»...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 77650,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 40000
+      },
+      {
+        "Id": 104003,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77651,
+    "Type": 7,
+    "Title": "Луч утренней зари",
+    "Description": "Возле станции вы случайно встречаете Алёшу. Кажется, он хочет как-то помочь этой станции...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77652,
+    "Type": 7,
+    "Title": "Сообща любое дело спорится",
+    "Description": "Печь разгорается всё жарче, и жизнь в убежище наконец входит в спокойное русло...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77653,
+    "Type": 7,
+    "Title": "Наследие Сферы теней",
+    "Description": "Вы вспомнили о постаменте, который нашли вместе с Алёшей. Он как-то связан со Сферой теней...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77654,
+    "Type": 7,
+    "Title": "Наследие Сферы теней",
+    "Description": "Постоянно улучшая карту доступа, вы разблокировали скрытое пространство...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77655,
+    "Type": 7,
+    "Title": "Наследие Сферы теней",
+    "Description": "Вы наконец завершили раскопки реликвий в руинах...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 2
+      }
+    ]
+  },
+  {
+    "Id": 77656,
+    "Type": 7,
+    "Title": "Заря после снегопада",
+    "Description": "Похоже, на станции «Ранкова зоря» вашу компанию ждут кое-какие невыполненные задачи...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77657,
+    "Type": 7,
+    "Title": "Особый отбор",
+    "Description": "Проходя мимо штаба «Дружины», вы узнаёте, что там проводится особый отбор...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 202,
+        "Count": 10000
+      },
+      {
+        "Id": 104002,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77658,
+    "Type": 7,
+    "Title": "Тени и опасности I",
+    "Description": "По словам Яровой, Сфера теней может оказаться самым нестабильным видом «бедствия». Поэтому необходимо как можно скорее устранить скрытые в ней источники опасности.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104366,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77659,
+    "Type": 7,
+    "Title": "Тени и опасности II",
+    "Description": "По словам Яровой, Сфера теней может оказаться самым нестабильным видом «бедствия». Поэтому необходимо как можно скорее устранить скрытые в ней источники опасности.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104369,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77660,
+    "Type": 7,
+    "Title": "Тени и опасности III",
+    "Description": "По словам Яровой, Сфера теней может оказаться самым нестабильным видом «бедствия». Поэтому необходимо как можно скорее устранить скрытые в ней источники опасности.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104372,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77661,
+    "Type": 7,
+    "Title": "Тени и опасности IV",
+    "Description": "По словам Яровой, Сфера теней может оказаться самым нестабильным видом «бедствия». Поэтому необходимо как можно скорее устранить скрытые в ней источники опасности.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104366,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77662,
+    "Type": 7,
+    "Title": "Тени и опасности V",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104369,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77663,
+    "Type": 7,
+    "Title": "Тени и опасности VI",
+    "Description": "По словам Яровой, Сфера теней может оказаться самым нестабильным видом «бедствия». Поэтому необходимо как можно скорее устранить скрытые в ней источники опасности.",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 5,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 210292,
+        "Count": 1
+      },
+      {
+        "Id": 115043,
+        "Count": 1
+      },
+      {
+        "Id": 339043,
+        "Count": 1
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      },
+      {
+        "Id": 104372,
+        "Count": 3
+      },
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77670,
+    "Type": 7,
+    "Title": "Снежные гости",
+    "Description": "Интересно, как сейчас обстоят дела на станции «Ранкова зоря»? Может, стоит проверить...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77671,
+    "Type": 7,
+    "Title": "Она не выходит на поклон",
+    "Description": "Говорят, что в предрассветные часы из Королевского театра доносится жуткая музыка, а некоторые видели тени призраков, танцующие на стенах...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77672,
+    "Type": 7,
+    "Title": "Благодарность от той, кто не выходит на поклон",
+    "Description": "С этими материалами Одетта наконец сможет полностью починить свою музыкальную шкатулку...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 9,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104003,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77674,
+    "Type": 7,
+    "Title": "Суровая боевая симуляция",
+    "Description": "Рядом со штаб-квартирой Гильдии искателей приключений Талалихин, изучающий опасные явления, проводит необычную тренировку-симуляцию...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 5334,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 201,
+        "Count": 20
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104002,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77675,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77676,
+    "Type": 7,
+    "Title": "Новые горизонты приключений",
+    "Description": "В Снежной вы увидели знакомую Гильдию искателей приключений...",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 1,
+    "ShowType": 0,
+    "Repeatable": true,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 102,
+        "Count": 150
+      },
+      {
+        "Id": 202,
+        "Count": 20000
+      },
+      {
+        "Id": 104002,
+        "Count": 4
+      }
+    ]
+  },
+  {
+    "Id": 77679,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 77650,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77695,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77800,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 0,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": []
+  },
+  {
+    "Id": 77900,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104013,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77901,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 101281,
+        "Count": 3
+      },
+      {
+        "Id": 101277,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77902,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77903,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 132014,
+        "Count": 1
+      },
+      {
+        "Id": 132002,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "Id": 77904,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 105002,
+        "Count": 3
+      }
+    ]
+  },
+  {
+    "Id": 77905,
+    "Type": 7,
+    "Title": "",
+    "Description": "",
+    "ChapterId": 0,
+    "SortWeight": 0,
+    "RecommendLevel": 0,
+    "ActivityId": 0,
+    "MainQuestTag": 0,
+    "ShowType": 1,
+    "Repeatable": false,
+    "Series": 0,
+    "TaskId": 0,
+    "RewardList": [
+      {
+        "Id": 104002,
+        "Count": 3
       }
     ]
   },
@@ -96396,7 +100320,7 @@
     "ActivityId": 0,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -97200,7 +101124,7 @@
     "ActivityId": 0,
     "MainQuestTag": 0,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": []
@@ -97846,7 +101770,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -97871,7 +101795,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -97896,7 +101820,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [
@@ -97925,7 +101849,7 @@
     "ActivityId": 2032,
     "MainQuestTag": 1,
     "ShowType": 0,
-    "Repeatable": false,
+    "Repeatable": true,
     "Series": 0,
     "TaskId": 0,
     "RewardList": [

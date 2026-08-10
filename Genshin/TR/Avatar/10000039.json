@@ -531,7 +531,7 @@
         },
         "Id": 395101,
         "Name": "Seçkin Hazineler",
-        "Description": "<color=#FFD780FF>Buz Patisi</color> Element Becerisi kullanıldıktan sonraki 20sn içinde grup üyeleri Süper İletim veya Yıldız İletimi tepkimelerini tetiklediğinde Diona da ayrıca üç adet <color=#FFD780FF>Buz Patisi</color> fırlatır. Bu şekilde fırlatılan <color=#FFD780FF>Buz Patileri</color> Element Parçacıkları üretemez ve düşmanlara isabet ettiğinde kalkan oluşturmaz. Bu etki her 3,5 saniyede bir gerçekleşebilir.\nAyrıca Diona bir {LINK#N11330003}<color=#FFD780FF>Kutup Yıldızı Alanı</color>{/LINK} içindeyken <color=#FFD780FF>Işıltı: Yıldız İletimi</color> durumuna girer.",
+        "Description": "<color=#FFD780FF>Buz Patisi</color> Element Becerisi kullanıldıktan sonraki 20sn içinde grup üyeleri Yıldız İletimi, Süper İletim, Buz Girdabı veya Yıldız Girdabı tepkimelerini tetiklediğinde Diona da ayrıca üç adet <color=#FFD780FF>Buz Patisi</color> fırlatır. Bu şekilde fırlatılan <color=#FFD780FF>Buz Patileri</color> Element Parçacıkları üretemez ve düşmanlara isabet ettiğinde kalkan oluşturmaz. Bu etki her 3,5 saniyede bir gerçekleşebilir.\nAyrıca Diona bir {LINK#N11330003}<color=#FFD780FF>Kutup Yıldızı Alanı</color>{/LINK} içindeyken <color=#FFD780FF>Işıltı: Yıldız İletimi</color> durumuna, yakındaki bir grup üyesi bir Yıldız Girdabı tepkimesi tetiklediğinde ise 8 saniyeliğine <color=#FFD780FF>Işıltı: Yıldız Girdabı</color> durumuna girer.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Diona_08"
       }
@@ -860,7 +860,7 @@
         "Id": 396,
         "Name": "Kedi Kuyruğu Kapanış Saati",
         "Description": "<color=#FFD780FF>Özel Karışım</color> alanındaki karakterler, sahip oldukları Can miktarına göre aşağıdaki etkileri kazanır:\n·Can %50 veya altındayken Gelen İyileştirme Bonusu %30 artar.\n·Can %50'nin üzerindeyken Element Ustalığı 200 artar.",
-        "SpecialDescription": "<color=#FFD780FF>Özel Karışım</color> alanındaki karakterler, sahip oldukları Can miktarına göre aşağıdaki etkileri kazanır:\n·Can %50 veya altındayken Gelen İyileştirme Bonusu %30 artar.\n·Can %50'nin üzerindeyken Element Ustalığı 200 artar.\n\nAyrıca Diona'nın Maks. Canı %25 artar.\n\n<color=#FFD780FF>Işıltı: Yıldız İletimi</color>: <color=#FFD780FF>Özel Karışım</color> alanındaki karakterlerin verdiği Süper İletim ve Yıldız İletimi Tepkime Hasarı %40 artar.",
+        "SpecialDescription": "<color=#FFD780FF>Özel Karışım</color> alanındaki karakterler, sahip oldukları Can miktarına göre aşağıdaki etkileri kazanır:\n·Can %50 veya altındayken Gelen İyileştirme Bonusu %30 artar.\n·Can %50'nin üzerindeyken Element Ustalığı 200 artar.\n\nAyrıca Diona'nın Maks. Canı %25 artar.\n<color=#FFD780FF>Işıltı: Yıldız Parıltısı</color>: Özel Karışım alanındaki karakterlerin aşağıdaki tepkimelerle verdiği Hasar artar:\n<color=#FFD780FF>Işıltı: Yıldız İletimi</color>: Süper İletim ve Yıldız İletimi Tepkimesi Hasarı %40 artar.\n<color=#FFD780FF>Işıltı: Yıldız Girdabı</color>: Buz Girdabı ve Yıldız Girdabı Tepkimesi Hasarı %40 artar.",
         "Icon": "UI_Talent_S_Diona_04"
       }
     ]

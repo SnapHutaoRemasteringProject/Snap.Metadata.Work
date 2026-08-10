@@ -882,7 +882,7 @@
       {
         "Id": 854,
         "Name": "Danza luniflautina",
-        "Description": "#Cuando Fréminet causa una reacción de Congelación, Rompehielo o Superconductor a un enemigo, aumenta el ATQ en un 9{NON_BREAK_SPACE}%. Este efecto dura 6{NON_BREAK_SPACE}s, puede acumularse hasta 2 veces y puede ocurrir una vez cada 0.3{NON_BREAK_SPACE}s.",
+        "Description": "#Cuando Fréminet causa una reacción de Congelación, Rompehielo, Superconductor o Superconductor Estelar contra un enemigo, su ATQ aumenta en un 9%. Este efecto dura 6{NON_BREAK_SPACE}s, puede acumularse hasta 2 veces y solo puede ocurrir una vez cada 0.3{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Freminet_03"
       },
       {
@@ -898,7 +898,7 @@
       {
         "Id": 856,
         "Name": "Resolución del alba",
-        "Description": "#Cuando Fréminet causa una reacción de Congelación, Rompehielo o Superconductor contra un enemigo, su Daño CRIT aumenta en un 12%. Este efecto dura 6{NON_BREAK_SPACE}s, puede acumularse hasta 3 veces y puede ocurrir una vez cada 0.3{NON_BREAK_SPACE}s.",
+        "Description": "#Cuando Fréminet causa una reacción de Congelación, Rompehielo, Superconductor o Superconductor Estelar contra un enemigo, su Daño CRIT aumenta en un 12%. Este efecto dura 6{NON_BREAK_SPACE}s, puede acumularse hasta 3 veces y solo puede ocurrir una vez cada 0.3{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Freminet_04"
       }
     ]

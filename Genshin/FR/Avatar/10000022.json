@@ -544,7 +544,7 @@
         },
         "Id": 225101,
         "Name": "Veillée de la sorcière : Éloge au vent temporel",
-        "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « Du réveil du vent »</color>, Venti devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\nPendant la durée de l'œil de la tempête créé par son déchaînement élémentaire <color=#FFD780FF>Ode au vent</color>, pendant 4 s après qu'un personnage déployé à proximité a déclenché une réaction de Dispersion, ses DGT augmentent de 50 % et l'œil de la tempête de Venti inflige des DGT d'une valeur équivalant à 135 % des DGT d'origine.",
+        "Description": "Après avoir terminé le <color=#FFD780FF>devoir de la sorcière « Du réveil du vent »</color>, Venti devient un personnage <color=#FFD780FF>héxère</color>. Si l'équipe contient au moins 2 personnages héxères, elle bénéficie de l'effet <color=#FFD780FF>Hexerei : Rituel secret</color> qui améliore les personnages héxères.\n\n<color=#FFD780FF>Hexerei : Rituel secret</color>\nPendant la durée de l'œil de la tempête créé par son déchaînement élémentaire <color=#FFD780FF>Ode au vent</color>, pendant 4 s après qu'un personnage déployé à proximité a déclenché une réaction de Dispersion ou d'Astrodispersion, ses DGT augmentent de 50 % et l'œil de la tempête de Venti inflige des DGT d'une valeur équivalant à 135 % des DGT d'origine.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Venti_07"
       }

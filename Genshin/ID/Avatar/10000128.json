@@ -1027,7 +1027,7 @@
         },
         "Id": 1282201,
         "Name": "Wind's Vanguard",
-        "Description": "Saat Karakter party di sekitar memicu reaksi Swirl, Varka mendapatkan 1 lapis <color=#FFD780FF>Azure Fang's Oath</color> yang akan meningkatkan DMG Normal Attack, Charged Attack, Charged Attack Khusus <color=#FFD780FF>Azure Devour</color>, dan Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK} milik Varka sebesar 7,5% selama 8 detik. Efek ini dapat ditumpuk sampai 4 lapis. Setiap Karakter dapat memberikan 1 lapis <color=#FFD780FF>Azure Fang's Oath</color> untuk Varka sekali setiap detik dengan cara ini.",
+        "Description": "Saat Karakter party di sekitar memicu reaksi Swirl atau Stellar Swirl, Varka mendapatkan 1 lapis <color=#FFD780FF>Azure Fang's Oath</color> yang akan meningkatkan DMG Normal Attack, Charged Attack, Charged Attack Khusus <color=#FFD780FF>Azure Devour</color>, dan Elemental Skill Khusus {LINK#N11280002}<color=#FFD780FF>Four Winds' Ascension</color>{/LINK} milik Varka sebesar 7,5% selama 8 detik. Efek ini dapat ditumpuk sampai 4 lapis. Setiap Karakter dapat memberikan 1 lapis <color=#FFD780FF>Azure Fang's Oath</color> untuk Varka sekali setiap detik dengan cara ini.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Varka_05"
       },
@@ -1079,7 +1079,7 @@
       {
         "Id": 1284,
         "Name": "\"For None May Take From Us Our Freedom of Song\"",
-        "Description": "Saat Varka memicu reaksi Swirl, seluruh Karakter party di sekitar akan mendapatkan 20% <color=#80FFD7FF>Anemo DMG Bonus</color> dan juga Elemental DMG Bonus untuk jenis elemen yang terlibat dalam reaksi tersebut, berlangsung selama 10 detik.",
+        "Description": "Saat Varka memicu reaksi Swirl atau Stellar Swirl, seluruh Karakter party di sekitar akan mendapatkan 20% <color=#80FFD7FF>Anemo DMG Bonus</color> dan juga Elemental DMG Bonus untuk jenis elemen yang terlibat dalam reaksi tersebut, berlangsung selama 10 detik.",
         "Icon": "UI_Talent_S_Varka_03"
       },
       {

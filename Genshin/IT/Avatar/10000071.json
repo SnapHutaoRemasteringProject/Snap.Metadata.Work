@@ -866,7 +866,7 @@
         },
         "Id": 712101,
         "Name": "Giudizio della piuma cadente",
-        "Description": "Quando è nello stato di Precorritore giurato attivato da <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>, Cyno assume a intervalli regolari la posizione Occhio liminale. Se attiva <color=#FFD780FF>Rito arcano: Guida delle anime del baratro</color> mentre è in questa posizione, innesca l'effetto Verdetto, che aumenta i DAN di Rito sacro: Guida delle anime del baratro di un 35%, e scaglia 3 Dardi del braccatore che infliggono un 100% dell'ATT di Cyno come <color=#FFACFFFF>DAN da Electro</color>.\nI DAN da Dardo del braccatore sono considerati DAN da abilità elementale.",
+        "Description": "Quando è nello stato di Precorritore giurato attivato da <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>, Cyno assume a intervalli regolari la posizione Occhio liminale. Se attiva <color=#FFD780FF>Rito arcano: Guida delle anime del baratro</color> mentre è in questa posizione, innesca l'effetto Verdetto, che aumenta i DAN di Rito arcano: Guida delle anime del baratro di un 35%, e scaglia 3 Dardi del braccatore che infliggono un 100% dell'ATT di Cyno come <color=#FFACFFFF>DAN da Electro</color>.\nI DAN da Dardo del braccatore sono considerati DAN da abilità elementale.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Cyno_05"
       },
@@ -941,7 +941,7 @@
       {
         "Id": 714,
         "Name": "Austerità: Guardia arcigna",
-        "Description": "Quando Cyno è nello stato di Precorritore giurato attivato da <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>, dopo aver innescato una reazione di Electrocarica, Carica lunare, Superconduzione, Sovraccarico, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, ripristina di 3 l'energia elementale di tutti i membri del gruppo vicini (tranne sé stesso).\nQuest'effetto può verificarsi 5 volte con un unico uso di <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>.",
+        "Description": "Quando Cyno è nello stato di Precorritore giurato attivato da <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>, dopo aver innescato una reazione di Electrocarica, Carica lunare, Superconduzione, Astroconduzione, Sovraccarico, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, ripristina di 3 l'energia elementale di tutti i membri del gruppo vicini (tranne sé stesso).\nQuest'effetto può verificarsi 5 volte in ciascun uso di <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>.",
         "SpecialDescription": "#Quando Cyno è nello stato di Precorritore giurato attivato da <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>, dopo aver innescato una reazione di Electrocarica, Carica lunare, Superconduzione, Astroconduzione, Sovraccarico, Vivificazione, Accentuazione, Iperfioritura o Turbinio di Electro, ripristina di 3 l'energia elementale di tutti i membri del gruppo vicini (tranne sé stesso). Quest'effetto può verificarsi 5 volte in ciascun uso di <color=#FFD780FF>Rito sacro: Destrezza del lupo</color>.\n\nQuando un altro personaggio sotto l'effetto di <color=#FFD780FF>Insieme sorgeremo</color> innesca le sopracitate reazioni, l'energia elementale di Cyno si ripristina di 20. Quest'effetto può attivarsi una volta ogni 18{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Cyno_03"
       },

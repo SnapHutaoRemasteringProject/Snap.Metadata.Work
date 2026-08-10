@@ -827,7 +827,7 @@
         },
         "Id": 532101,
         "Name": "Quelqu'un de plus efficace",
-        "Description": "Lorsque Sayu déclenche une réaction de Dispersion sur le champ de bataille, elle soigne vos personnages dans l'équipe ainsi que les personnages alliés proches à hauteur de 300 PV. Sayu récupère de plus 1,2 PV supplémentaire pour chaque point de maîtrise élémentaire qu'elle possède.\nCet effet peut être déclenché une fois toutes les 2 s.",
+        "Description": "Lorsque Sayu déclenche une réaction de Dispersion ou d'Astrodispersion sur le champ de bataille, elle soigne vos personnages dans l'équipe ainsi que les personnages alliés proches à hauteur de 300 PV. Sayu récupère de plus 1,2 PV supplémentaire pour chaque point de maîtrise élémentaire qu'elle possède.\nCet effet peut être déclenché une fois toutes les 2 s.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Sayu_05"
       },
@@ -898,7 +898,7 @@
       {
         "Id": 534,
         "Name": "Paresse revue et améliorée",
-        "Description": "Sayu récupère 1,2 pt d'énergie élémentaire lorsqu'elle déclenche une réaction de Dispersion sur le champ de bataille.\nCet effet peut être déclenché une fois toutes les 2 s.",
+        "Description": "Sayu récupère 1,2 pt d'énergie élémentaire lorsqu'elle déclenche une réaction de Dispersion ou d'Astrodispersion sur le champ de bataille.\nCet effet peut être déclenché une fois toutes les 2 s.",
         "Icon": "UI_Talent_S_Sayu_03"
       },
       {

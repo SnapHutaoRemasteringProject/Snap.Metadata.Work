@@ -614,7 +614,7 @@
         },
         "Id": 355101,
         "Name": "Siete tesoros sagrados",
-        "Description": "#El TdE de la Habilidad Elemental, <color=#FFD780FF>Magia Adeptus: Heraldo de la escarcha</color>, se reduce a 15{NON_BREAK_SPACE}s.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nMientras el Heraldo de la escarcha esté activo, el daño de las reacciones de Superconductor y Superconductor Estelar de tus personajes del equipo aumentará en un 50%.\nAdemás, Qiqi entrará en el estado de <color=#FFD780FF>esplendor: Superconductor Estelar</color> mientras se encuentre dentro de un {LINK#N11330003}<color=#FFD780FF>campo estrellapolar</color>{/LINK}.",
+        "Description": "#El TdE de la Habilidad Elemental, <color=#FFD780FF>Magia Adeptus: Heraldo de la escarcha</color>, se reduce a 15{NON_BREAK_SPACE}s.\n<color=#FFD780FF>Esplendor: Destello Estelar</color>\nMientras el Heraldo de la escarcha esté activo, el daño de la reacción correspondiente de tus personajes del equipo aumentará:\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nEl daño de Superconductor y Superconductor Estelar aumenta en un 50%.\n<color=#FFD780FF>Esplendor: Torbellino Estelar</color>\nEl daño de Torbellino Cryo y Torbellino Estelar aumenta en un 50%.\nAdemás, al estar dentro de un {LINK#N11330003}<color=#FFD780FF>campo estrellapolar</color>{/LINK} o durante 8{NON_BREAK_SPACE}s después de que un personaje del equipo cause una reacción de Torbellino Estelar en las cercanías, Qiqi entrará en el estado de <color=#FFD780FF>esplendor: Superconductor Estelar</color> o el de <color=#FFD780FF>esplendor: Torbellino Estelar</color>, respectivamente.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Qiqi_08"
       }
@@ -918,14 +918,14 @@
         "Id": 351,
         "Name": "Ascetismo de la escarcha",
         "Description": "Qiqi regenera 2 pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna.",
-        "SpecialDescription": "#Qiqi recupera 2{NON_BREAK_SPACE}pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nQiqi también recupera 6{NON_BREAK_SPACE}pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo con un ataque o con un ataque coordinado. Este efecto solo se puede activar una vez cada 6{NON_BREAK_SPACE}s.",
+        "SpecialDescription": "#Qiqi recupera 2{NON_BREAK_SPACE}pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna.\n{LINK#N11500004}<color=#FFD780FF>Esplendor: Destello Estelar</color>{/LINK}\nQiqi también recupera 6{NON_BREAK_SPACE}pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo con un ataque o con un ataque coordinado. Este efecto solo se puede activar una vez cada 6{NON_BREAK_SPACE}s.",
         "Icon": "UI_Talent_S_Qiqi_01"
       },
       {
         "Id": 352,
         "Name": "Frío polar",
         "Description": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra enemigos afectados por <color=#99FFFFFF>Cryo</color>.",
-        "SpecialDescription": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra los enemigos afectados por <color=#99FFFFFF>Cryo</color>.\n<color=#FFD780FF>Esplendor: Superconductor Estelar</color>\nEl ATQ de Qiqi aumenta en un 50%.",
+        "SpecialDescription": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra los enemigos afectados por <color=#99FFFFFF>Cryo</color>.\n{LINK#N11500004}<color=#FFD780FF>Esplendor: Destello Estelar</color>{/LINK}\nEl ATQ de Qiqi aumenta en un 50%.",
         "Icon": "UI_Talent_S_Qiqi_02"
       },
       {
@@ -959,7 +959,7 @@
         "Id": 356,
         "Name": "Rito de la resurrección",
         "Description": "Al lanzar la habilidad <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nSolo puede ocurrir una vez cada 15 min.",
-        "SpecialDescription": "#Al usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nEste efecto solo se puede activar una vez cada 15{NON_BREAK_SPACE}min.\nAdemás, tras usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, Qiqi obtendrá 4 cargas de <color=#FFD780FF>misticismo</color>. Cuando tu personaje en uso del equipo (a excepción de Qiqi) inflija daño de Superconductor Estelar, consumirá 1 carga de <color=#FFD780FF>misticismo</color> para aumentar el daño infligido en una cantidad equivalente al 600% del ATQ de Qiqi. Como máximo, el efecto de <color=#FFD780FF>misticismo</color> puede durar hasta 12{NON_BREAK_SPACE}s y las cargas se reiniciarán al usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>.",
+        "SpecialDescription": "#Al usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nEste efecto solo se puede activar una vez cada 15{NON_BREAK_SPACE}min.\nAdemás, tras usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, Qiqi obtendrá 4 cargas de <color=#FFD780FF>misticismo</color>. Cuando tu personaje en uso del equipo (a excepción de Qiqi) inflija daño de Superconductor Estelar o Torbellino Estelar directamente por medio de un talento o una habilidad, consumirá 1 carga de <color=#FFD780FF>misticismo</color> para aumentar el daño infligido en una cantidad equivalente al 600% del ATQ de Qiqi. Como máximo, el efecto de <color=#FFD780FF>misticismo</color> puede durar hasta 12{NON_BREAK_SPACE}s y las cargas se reiniciarán al usar <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>.",
         "Icon": "UI_Talent_S_Qiqi_04"
       }
     ]

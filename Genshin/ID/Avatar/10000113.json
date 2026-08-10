@@ -631,7 +631,8 @@
                 1,
                 1,
                 150,
-                0.015
+                0.015,
+                0.0024
               ]
             }
           ],
@@ -639,7 +640,7 @@
         },
         "Id": 1132101,
         "Name": "Field Medic's Vision",
-        "Description": "Saat Ifa berada dalam status Nightsoul's Blessing, setiap poin Nightsoul dari jumlah total yang dimiliki oleh seluruh anggota party akan memberikan Ifa 1 poin {LINK#N11130002}<color=#FFD780FF>Rescue Essentials</color>{/LINK}, meningkatkan DMG reaksi Swirl, Electro-Charged, dan Lunar-Charged yang diakibatkan seluruh anggota party di sekitar.",
+        "Description": "Saat Ifa berada dalam status Nightsoul's Blessing, setiap poin Nightsoul dari jumlah total yang dimiliki oleh seluruh anggota party akan memberikan Ifa 1 poin {LINK#N11130002}<color=#FFD780FF>Rescue Essentials</color>{/LINK}. Rescue Essentials ini akan meningkatkan DMG reaksi Swirl, Stellar Swirl, Electro-Charged, dan Lunar-Charged yang diakibatkan seluruh anggota party di sekitar.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Ifa_05"
       },

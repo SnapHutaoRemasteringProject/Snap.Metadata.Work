@@ -1437,5 +1437,11 @@
     "Description": "Thème.\nCe thème porte les marques du jeune et fier guerrier qui promène son style de combat toujours changeant à travers le continent. Mais sa « Posture du démon » n'est pas une technique de sa création : elle lui fut enseignée par une fille solitaire qui vit dans les plus sombres recoins de l'univers...",
     "Icon": "UI_NameCardIcon_Tartaglia",
     "PicturePrefix": "UI_NameCardPic_Tartaglia"
+  },
+  "TraceEffect": {
+    "Id": 215022,
+    "Name": "Écho : Tartaglia",
+    "Description": "L'écho peinturé de Tartaglia. « Pas très prudent de se relâcher comme ça ! »",
+    "Icon": "UI_TraceEffectIcon_Tartaglia"
   }
 }

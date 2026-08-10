@@ -957,7 +957,7 @@
         },
         "Id": 332201,
         "Name": "水形剣",
-        "Description": "<color=#FFD780FF>魔王の武装·荒波</color>の近接モード時、通常攻撃と重撃が会心を発生すると、命中した敵に断流効果を付与する。",
+        "Description": "<color=#FFD780FF>魔王の武装·荒波</color>の近接モード時、通常攻撃または重撃が会心を発生すると、命中した敵に断流効果を付与する。",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Tartaglia_06"
       },
@@ -1437,5 +1437,11 @@
     "Description": "名刺の飾り紋。\n多様に変化する技を身に着け、思うまま大地を駆ける彼の記号。だが「魔王」と名付けた武芸は彼が作り出したものではなく、暗い宇宙にいるあの孤高の少女から授かったものだ…",
     "Icon": "UI_NameCardIcon_Tartaglia",
     "PicturePrefix": "UI_NameCardPic_Tartaglia"
+  },
+  "TraceEffect": {
+    "Id": 215022,
+    "Name": "軌跡・「公子」",
+    "Description": "タルタリヤの空想の軌跡。「隙を見せるのは、ほんの一瞬だ！」",
+    "Icon": "UI_TraceEffectIcon_Tartaglia"
   }
 }

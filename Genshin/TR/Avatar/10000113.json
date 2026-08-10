@@ -631,7 +631,8 @@
                 1,
                 1,
                 150,
-                0.015
+                0.015,
+                0.0024
               ]
             }
           ],
@@ -639,7 +640,7 @@
         },
         "Id": 1132101,
         "Name": "Saha Doktorunun Gayreti",
-        "Description": "Ifa Gece Ruhunun Lütfu durumundayken tüm grubun sahip olduğu her 1 Gece Ruhu puanı başına 1 {LINK#N11130002}<color=#FFD780FF>Kurtarma Kiti</color>{/LINK} puanı kazanır. Kurtarma Kiti, yakındaki grup üyelerinin verdiği Girdap, Elektrik Yüklü ve Ay Yüklü Hasarını artırır.",
+        "Description": "Ifa Gece Ruhunun Lütfu durumundayken tüm grubun mevcut sahip olduğu her 1 Gece Ruhu puanı başına 1 {LINK#N11130002}<color=#FFD780FF>Kurtarma Kiti</color>{/LINK} puanı kazanır. Kurtarma Kiti, yakındaki grup üyelerinin verdiği Girdap, Yıldız Girdabı, Elektrik Yüklü ve Ay Yüklü Tepkime Hasarını artırır.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Ifa_05"
       },

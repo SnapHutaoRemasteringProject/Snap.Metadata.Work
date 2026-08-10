@@ -648,7 +648,7 @@
         },
         "Id": 432101,
         "Name": "Katalysatorenkonversion",
-        "Description": "Erhöht die Elementarkunde aller Figuren in der Truppe des jeweiligen Elements (außer sich selbst) 8 s lang um 50 Punkte, wenn Saccharose eine Verwirbelung auslöst.",
+        "Description": "#Erhöht die Elementarkunde aller Figuren in der Truppe des jeweiligen Elements (außer sich selbst) 8{NON_BREAK_SPACE}s lang um 50 Punkte, wenn Saccharose die Reaktion Verwirbelung oder Stellar-Verwirbelung auslöst.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Sucrose_05"
       },

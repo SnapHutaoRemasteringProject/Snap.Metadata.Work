@@ -1146,5 +1146,11 @@
     "Description": "Stile per la carta giocatore.\nBrama ardentemente il giorno in cui potrà mettersi la maschera e danzare, non per vincere i demoni, ma per seguire la melodia di quel flauto in mezzo a un mare di fiori.",
     "Icon": "UI_NameCardIcon_Xiao",
     "PicturePrefix": "UI_NameCardPic_Xiao"
+  },
+  "TraceEffect": {
+    "Id": 215023,
+    "Name": "Eco: Custode Yaksha",
+    "Description": "L'Eco immaginario di Xiao. \"Combattiamo per estirpare le forze maligne: a ciò immoliamo le nostre vite.\"",
+    "Icon": "UI_TraceEffectIcon_Xiao"
   }
 }

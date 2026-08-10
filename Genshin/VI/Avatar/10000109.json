@@ -271,7 +271,8 @@
             "Sát Thương Kỹ Năng|{param4:F1P}",
             "Sát Thương Tấn Công Theo Chu Kỳ|{param1:F1P}",
             "Thời Gian Duy Trì Mộng Trôi|{param5:F1}s",
-            "Phần Trăm Sát Thương Khuếch Tán Tăng Bởi Mỗi Điểm Tinh Thông|{param2:F2P}",
+            "Phần trăm sát thương Khuếch Tán tăng bởi mỗi 100 điểm Tinh Thông|{param2:F2P}",
+            "Phần trăm sát thương Tinh-Khuếch Tán tăng bởi mỗi 100 điểm Tinh Thông|{param6:F2P}",
             "CD|{param3:F1}s"
           ],
           "Parameters": [
@@ -280,10 +281,11 @@
               "Level": 1,
               "Parameters": [
                 0.44912,
-                0.0018,
+                0.18,
                 15,
                 0.57744,
-                5
+                5,
+                0.018
               ]
             },
             {
@@ -291,10 +293,11 @@
               "Level": 2,
               "Parameters": [
                 0.482804,
-                0.0021,
+                0.21,
                 15,
                 0.620748,
-                5
+                5,
+                0.021
               ]
             },
             {
@@ -302,10 +305,11 @@
               "Level": 3,
               "Parameters": [
                 0.516488,
-                0.0024,
+                0.24,
                 15,
                 0.664056,
-                5
+                5,
+                0.024
               ]
             },
             {
@@ -313,10 +317,11 @@
               "Level": 4,
               "Parameters": [
                 0.5614,
-                0.0027,
+                0.27,
                 15,
                 0.7218,
-                5
+                5,
+                0.027
               ]
             },
             {
@@ -324,10 +329,11 @@
               "Level": 5,
               "Parameters": [
                 0.595084,
-                0.003,
+                0.3,
                 15,
                 0.765108,
-                5
+                5,
+                0.03
               ]
             },
             {
@@ -335,10 +341,11 @@
               "Level": 6,
               "Parameters": [
                 0.628768,
-                0.0033,
+                0.33,
                 15,
                 0.808416,
-                5
+                5,
+                0.033
               ]
             },
             {
@@ -346,10 +353,11 @@
               "Level": 7,
               "Parameters": [
                 0.67368,
-                0.0036,
+                0.36,
                 15,
                 0.86616,
-                5
+                5,
+                0.036
               ]
             },
             {
@@ -357,10 +365,11 @@
               "Level": 8,
               "Parameters": [
                 0.718592,
-                0.0039,
+                0.39,
                 15,
                 0.923904,
-                5
+                5,
+                0.039
               ]
             },
             {
@@ -368,10 +377,11 @@
               "Level": 9,
               "Parameters": [
                 0.763504,
-                0.0042,
+                0.42,
                 15,
                 0.981648,
-                5
+                5,
+                0.042
               ]
             },
             {
@@ -379,10 +389,11 @@
               "Level": 10,
               "Parameters": [
                 0.808416,
-                0.0045,
+                0.45,
                 15,
                 1.039392,
-                5
+                5,
+                0.045
               ]
             },
             {
@@ -390,10 +401,11 @@
               "Level": 11,
               "Parameters": [
                 0.853328,
-                0.0048,
+                0.48,
                 15,
                 1.097136,
-                5
+                5,
+                0.048
               ]
             },
             {
@@ -401,10 +413,11 @@
               "Level": 12,
               "Parameters": [
                 0.89824,
-                0.0051,
+                0.51,
                 15,
                 1.15488,
-                5
+                5,
+                0.051
               ]
             },
             {
@@ -412,10 +425,11 @@
               "Level": 13,
               "Parameters": [
                 0.95438,
-                0.0054,
+                0.54,
                 15,
                 1.22706,
-                5
+                5,
+                0.054
               ]
             },
             {
@@ -423,10 +437,11 @@
               "Level": 14,
               "Parameters": [
                 1.01052,
-                0.0057,
+                0.57,
                 15,
                 1.29924,
-                5
+                5,
+                0.057
               ]
             },
             {
@@ -434,10 +449,11 @@
               "Level": 15,
               "Parameters": [
                 1.06666,
-                0.006,
+                0.6,
                 15,
                 1.37142,
-                5
+                5,
+                0.06
               ]
             }
           ],
@@ -445,7 +461,7 @@
         },
         "Id": 11092,
         "Name": "Hành Trình Aisa Utamakura",
-        "Description": "Dệt nên hồi ức của giấc mơ đẹp, bước vào trạng thái <color=#FFD780FF>Mộng Trôi</color> lơ lửng trên mặt đất, đồng thời gây cho kẻ địch xung quanh một lần <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Mộng Trôi</color>\n·Khi trong trạng thái Mộng Trôi, Yumemizuki Mizuki sẽ liên tục trôi về phía trước, đồng thời gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color> cho kẻ địch gần đó theo chu kỳ.\n·Trong thời gian này, Yumemizuki Mizuki có thể điều khiển hướng trôi, đồng thời tăng khoảng cách thu thập <color=#FFD780FF>Đồ Ăn Vặt Yumemi</color> từ Kỹ Năng Nộ <color=#FFD780FF>Liệu Pháp Bí Truyền Anraku</color>.\n·Căn cứ vào Tinh Thông Nguyên Tố của Yumemizuki Mizuki để gia tăng sát thương phản ứng Khuếch Tán gây ra bởi nhân vật trong đội gần đó.\n·Khi Yumemizuki Mizuki rời trận hoặc kích hoạt lại kỹ năng này lần nữa thì trạng thái Mộng Trôi sẽ kết thúc.\n\n<i>\"Gặp nhau trong giấc mơ đêm, bài ca trong mộng vang rộng khắp.\"</i>",
+        "Description": "Dệt nên hồi ức của giấc mơ đẹp, bước vào trạng thái <color=#FFD780FF>Mộng Trôi</color> lơ lửng trên mặt đất, đồng thời gây cho kẻ địch xung quanh một lần <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Mộng Trôi</color>\n·Khi trong trạng thái Mộng Trôi, Yumemizuki Mizuki sẽ liên tục trôi về phía trước, đồng thời gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color> cho kẻ địch gần đó theo chu kỳ.\n·Trong thời gian này, Yumemizuki Mizuki có thể điều khiển hướng trôi, đồng thời tăng khoảng cách thu thập <color=#FFD780FF>Đồ Ăn Vặt Yumemi</color> từ Kỹ Năng Nộ <color=#FFD780FF>Liệu Pháp Bí Truyền Anraku</color>.\n·Căn cứ vào Tinh Thông Nguyên Tố của Yumemizuki Mizuki để gia tăng sát thương phản ứng Khuếch Tán và Tinh-Khuếch Tán gây ra bởi nhân vật trong đội gần đó.\n·Khi Yumemizuki Mizuki rời trận hoặc kích hoạt lại kỹ năng này lần nữa thì trạng thái Mộng Trôi sẽ kết thúc.\n\n<i>\"Gặp nhau trong giấc mơ đêm, bài ca trong mộng vang rộng khắp.\"</i>",
         "SpecialEnergyType": 0,
         "Icon": "Skill_S_Mizuki_01"
       }
@@ -463,7 +479,7 @@
                 10,
                 2.5,
                 0.1,
-                5
+                10
               ]
             }
           ],
@@ -471,7 +487,7 @@
         },
         "Id": 1095101,
         "Name": "Giấc Mơ Sáng Tỏ",
-        "Description": "Sau khi Yumemizuki Mizuki kích hoạt phản ứng Khuếch Tán trong trạng thái Mộng Trôi, trong thời gian Mộng Trôi lần này, lần sau gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color> theo chu kỳ lên kẻ địch ở gần sẽ tăng sát thương gây ra, mức tăng tương đương 1000% Tinh Thông Nguyên Tố của Yumemizuki Mizuki. Hiệu quả nêu trên mỗi 2.5s tối đa kích hoạt một lần.\nNgoài ra, khi trong trạng thái Mộng Trôi, các nhân vật trong đội ở gần sẽ tăng Tinh Thông Nguyên Tố, mức tăng tương đương 10% Tinh Thông Nguyên Tố của bản thân Yumemizuki Mizuki.",
+        "Description": "Sau khi Yumemizuki Mizuki kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán trong trạng thái Mộng Trôi, trong thời gian Mộng Trôi lần này, lần sau gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color> theo chu kỳ lên kẻ địch ở gần sẽ tăng sát thương gây ra, mức tăng tương đương 1000% Tinh Thông Nguyên Tố của Yumemizuki Mizuki. Hiệu quả nêu trên mỗi 2.5s tối đa kích hoạt một lần.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Khuếch Tán</color>: Khi Yumemizuki Mizuki gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color> được cường hóa kể trên lên kẻ địch, sẽ còn gây thêm một lần <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> dựa trên 1000% Tinh Thông Nguyên Tố của Mizuki, sát thương này được xem là sát thương phản ứng Tinh-Khuếch Tán.\n\nNgoài ra, khi trong trạng thái Mộng Trôi, các nhân vật trong đội ở gần sẽ tăng Tinh Thông Nguyên Tố, mức tăng tương đương 10% Tinh Thông Nguyên Tố của bản thân Yumemizuki Mizuki.\nTrong 8s sau khi nhân vật trong đội kích hoạt phản ứng Tinh-Khuếch Tán ở gần, Yumemizuki Mizuki sẽ vào trạng thái <color=#FFD780FF>Tỏa Sáng: Tinh-Khuếch Tán</color>.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_08"
       }
@@ -708,7 +724,7 @@
         },
         "Id": 1092101,
         "Name": "Tiếng Vọng Đêm Trăng",
-        "Description": "Khi Yumemizuki Mizuki kích hoạt phản ứng Khuếch Tán trong trạng thái Mộng Trôi, thời gian duy trì trạng thái Mộng Trôi sẽ kéo dài 2.5s. Hiệu quả này mỗi 0.3s tối đa kích hoạt 1 lần, trong một lần Mộng Trôi tối đa kích hoạt 2 lần.",
+        "Description": "Khi Yumemizuki Mizuki kích hoạt phản ứng Khuếch Tán hoặc Tinh-Khuếch Tán trong trạng thái Mộng Trôi, thời gian duy trì trạng thái Mộng Trôi sẽ kéo dài 2.5s. Hiệu quả này mỗi 0.3s tối đa kích hoạt 1 lần, trong một lần Mộng Trôi tối đa kích hoạt 2 lần.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Mizuki_05"
       },
@@ -760,8 +776,8 @@
       {
         "Id": 1091,
         "Name": "Sương Mù Mờ Ảo Như Nước Xa",
-        "Description": "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán sẽ xóa bỏ hiệu quả này, khiến sát thương của lần Khuếch Tán đó lên kẻ địch gia tăng tương ứng với 1100% Tinh Thông Nguyên Tố của Mizuki.",
-        "SpecialDescription": "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán sẽ xóa bỏ hiệu quả này, khiến sát thương của lần Khuếch Tán đó lên kẻ địch gia tăng tương ứng với 1100% Tinh Thông Nguyên Tố của Mizuki, đồng thời thực hiện thêm một lần tấn công lên kẻ địch này, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> tương đương 1000% Tinh Thông Nguyên Tố của Mizuki.",
+        "Description": "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán/Tinh-Khuếch Tán, sẽ xóa bỏ hiệu quả này, khiến sát thương Khuếch Tán/Tinh-Khuếch Tán gây lên kẻ địch lần đó gia tăng tương ứng với 1100%/550% Tinh Thông Nguyên Tố của Mizuki.",
+        "SpecialDescription": "Yumemizuki Mizuki khi ở trong trạng thái Mộng Trôi, mỗi 3.5s sẽ gán hiệu ứng \"Chờ Đợi Hai Mươi Ba Đêm\" cho kẻ địch gần đó trong 3s. Kẻ địch bị ảnh hưởng bởi hiệu quả \"Chờ Đợi Hai Mươi Ba Đêm\" khi chịu Sát Thương Nguyên Tố Phong và kích hoạt phản ứng Khuếch Tán/Tinh-Khuếch Tán, sẽ xóa bỏ hiệu quả này, khiến sát thương Khuếch Tán/Tinh-Khuếch Tán gây lên kẻ địch lần đó gia tăng tương ứng với 1100%/550% Tinh Thông Nguyên Tố của Mizuki, đồng thời thực hiện thêm một lần tấn công lên kẻ địch này, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> tương đương 1000% Tinh Thông Nguyên Tố của Mizuki.\n<color=#FFD780FF>Tỏa Sáng: Tinh-Khuếch Tán</color>: Sát thương thêm kể trên sẽ chuyển sang <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> tương đương 400% Tinh Thông Nguyên Tố của Mizuki và được xem là sát thương phản ứng Tinh-Khuếch Tán.",
         "Icon": "UI_Talent_S_Mizuki_01"
       },
       {
@@ -801,8 +817,8 @@
       {
         "Id": 1096,
         "Name": "Nỗi Nhớ Quanh Quẩn Vướng Trong Tim",
-        "Description": "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%.",
-        "SpecialDescription": "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%.\nDựa trên phần Tinh Thông Nguyên Tố vượt quá 500 của Yumemizuki Mizuki, mỗi điểm sẽ khiến Yumemizuki Mizuki tăng 0.04% Tỷ Lệ Bạo Kích và 0.16% Sát Thương Bạo Kích, tối đa khiến Yumemizuki Mizuki tăng 20% Tỷ Lệ Bạo Kích và 80% Sát Thương Bạo Kích theo cách này.",
+        "Description": "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%. Đồng thời, sát thương phản ứng Tinh-Khuếch Tán gây ra bởi những nhân vật này sẽ tăng 10% Tỷ Lệ Bạo Kích, tăng 20% Sát Thương Bạo Kích.",
+        "SpecialDescription": "Khi Yumemizuki Mizuki ở trong trạng thái Mộng Trôi, sát thương phản ứng Khuếch Tán kích hoạt từ nhân vật trong đội gần đó có thể Bạo Kích, với Tỷ Lệ Bạo Kích cố định là 30%, Sát Thương Bạo Kích cố định là 100%. Đồng thời, sát thương phản ứng Tinh-Khuếch Tán gây ra bởi những nhân vật này sẽ tăng 10% Tỷ Lệ Bạo Kích, tăng 20% Sát Thương Bạo Kích.\nDựa trên phần Tinh Thông Nguyên Tố vượt quá 500 của Yumemizuki Mizuki, mỗi điểm sẽ khiến Yumemizuki Mizuki tăng 0.04% Tỷ Lệ Bạo Kích và 0.16% Sát Thương Bạo Kích, tối đa khiến Yumemizuki Mizuki tăng 20% Tỷ Lệ Bạo Kích và 80% Sát Thương Bạo Kích theo cách này.",
         "Icon": "UI_Talent_S_Mizuki_04"
       }
     ]

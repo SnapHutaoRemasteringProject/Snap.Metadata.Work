@@ -1027,7 +1027,7 @@
         },
         "Id": 1282201,
         "Name": "Avanguardia del vento",
-        "Description": "#Quando i membri del gruppo vicini innescano reazioni di Turbinio, Varka ottiene 1 accumulo di <color=#FFD780FF>Giuramento della Zanna azzurra</color>, che aumenta di un 7,5% per 8{NON_BREAK_SPACE}s i DAN inflitti dai suoi attacchi normali, dagli attacchi caricati, dall'attacco caricato speciale <color=#FFD780FF>Divorazzurro</color> e dall'abilità elementale speciale {LINK#N11280002}<color=#FFD780FF>Ascensione dei Quattro Venti</color>{/LINK}. Massimo 4 accumuli. In questo modo, ogni personaggio può fornire a Varka 1 accumulo di <color=#FFD780FF>Giuramento della Zanna azzurra</color> al secondo.",
+        "Description": "#Quando i membri del gruppo vicini innescano una reazione di Turbinio o di Turbinio astrale, Varka ottiene 1 accumulo di <color=#FFD780FF>Giuramento della Zanna azzurra</color>, che aumenta di un 7,5% per 8{NON_BREAK_SPACE}s i DAN inflitti dai suoi attacchi normali, dagli attacchi caricati, dall'attacco caricato speciale <color=#FFD780FF>Divorazzurro</color> e dall'abilità elementale speciale {LINK#N11280002}<color=#FFD780FF>Ascensione dei Quattro Venti</color>{/LINK}. Massimo 4 accumuli. In questo modo, ogni personaggio può fornire a Varka 1 accumulo di <color=#FFD780FF>Giuramento della Zanna azzurra</color> al secondo.",
         "SpecialEnergyType": 0,
         "Icon": "UI_Talent_S_Varka_05"
       },
@@ -1079,7 +1079,7 @@
       {
         "Id": 1284,
         "Name": "\"Perché nessuno potrà mai privarci della nostra libertà di cantare\"",
-        "Description": "#Quando Varka innesca una reazione di Turbinio, tutti i membri vicini del gruppo ottengono per 10{NON_BREAK_SPACE}s un 20% di <color=#80FFD7FF>bonus DAN da Anemo</color> e il bonus DAN elementali corrispondente in base ai tipi elementali coinvolti nella reazione.",
+        "Description": "#Quando Varka innesca una reazione di Turbinio o di Turbinio astrale, tutti i membri vicini del gruppo ottengono per 10{NON_BREAK_SPACE}s un 20% di <color=#80FFD7FF>bonus DAN da Anemo</color> e il bonus DAN elementali corrispondente in base ai tipi elementali coinvolti nella reazione.",
         "Icon": "UI_Talent_S_Varka_03"
       },
       {
