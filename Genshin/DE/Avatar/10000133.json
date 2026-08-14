@@ -318,7 +318,8 @@
           "Descriptions": [
             "Prismageschoss-SCH|{param1:F1P}",
             "Prismageschoss-SCH (Stellar-Supraleiter)|{param2:F1P}",
-            "SCH durch Prismageschoss bei Stellar-Verwirbelung|{param4:F1P}"
+            "SCH durch Prismageschoss bei Stellar-Verwirbelung|{param4:F1P}",
+            "Abklingzeit|{param3:F1} s"
           ],
           "Parameters": [
             {
@@ -489,7 +490,8 @@
           "Energiestrahl-SCH|{param2:F1P}",
           "Energiestrahl-SCH (Stellar-Supraleiter)|{param3:F1P}",
           "SCH durch Energiestrahl bei Stellar-Verwirbelung|{param6:F1P}",
-          "Abklingzeit|{param4:F1} s"
+          "Abklingzeit|{param4:F1} s",
+          "Elementarenergie|{param5:I}"
         ],
         "Parameters": [
           {

@@ -7871,6 +7871,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80515,
+    "Goal": 69,
+    "Order": 474,
+    "PreviousId": 0,
+    "Title": "寒冬の冒険者・1",
+    "Description": "永結の凍土、古獣の氷原、焔翼の谷、白樺の雪葬地、霜つく峰での時間制限挑戦を6個クリアする。",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 6,
+    "Icon": "UI_AchievementIcon_A026",
+    "Version": "7.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80516,
     "Goal": 69,
     "Order": 475,

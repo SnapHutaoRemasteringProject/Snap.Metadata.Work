@@ -7871,6 +7871,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80515,
+    "Goal": 69,
+    "Order": 474,
+    "PreviousId": 0,
+    "Title": "Avventure glaciali (I)",
+    "Description": "Completa 6 sfide a tempo del mondo di gioco nella Terra del Geleterno, nella Tundra dei Volkodlak, nella Valle Piumafiamma, alla Tomba innevata della Betulla bianca e sul Picco Gelotruce.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 6,
+    "Icon": "UI_AchievementIcon_A026",
+    "Version": "7.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80516,
     "Goal": 69,
     "Order": 475,

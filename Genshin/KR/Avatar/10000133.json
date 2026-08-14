@@ -318,7 +318,8 @@
           "Descriptions": [
             "프리즘탄 피해|{param1:F1P}",
             "프리즘탄 별 초전도 피해|{param2:F1P}",
-            "프리즘탄 별 확산 피해|{param4:F1P}"
+            "프리즘탄 별 확산 피해|{param4:F1P}",
+            "재사용 대기시간|{param3:F1}초"
           ],
           "Parameters": [
             {
@@ -489,6 +490,7 @@
           "부성 온도 광선 피해|{param2:F1P}",
           "부성 온도 광선 별 초전도 피해|{param3:F1P}",
           "부성 온도 광선 별 확산 피해|{param6:F1P}",
+          "재사용 대기시간|{param4:F1}초",
           "원소 에너지|{param5:I}"
         ],
         "Parameters": [

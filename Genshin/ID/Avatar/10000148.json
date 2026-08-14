@@ -36,6 +36,13 @@
         "GroupId": 14831,
         "Proud": {
           "Descriptions": [
+            "DMG Tahap 1|{param1:F1P}",
+            "DMG Tahap 2|{param2:F1P}",
+            "DMG Tahap 3|{param3:F1P}+{param4:F1P}",
+            "DMG Tahap 4|{param5:F1P}",
+            "DMG Charged Attack|{param6:F1P}",
+            "Konsumsi Stamina Charged Attack|{param7:F1}",
+            "DMG Selama Plunging|{param8:F1P}",
             "DMG Plunging Attack Rendah/Tinggi|{param9:F1P}/{param10:F1P}"
           ],
           "Parameters": [
@@ -293,6 +300,8 @@
         "Proud": {
           "Descriptions": [
             "DMG Mode Tekan|{param1:F1P}",
+            "DMG Mode Tahan|{param2:F1P}",
+            "Cooldown|{param3:F1} dtk",
             "Durasi Hunter's Mark|{param4:F1}dtk",
             "Peningkatan ATK Hunter's Precision|{param5:F1P}",
             "Durasi Hunter's Precision|{param6:F1} dtk"
@@ -494,7 +503,9 @@
         "Descriptions": [
           "DMG Fulgurite Hunting Field|{param1:F1P}",
           "DMG Tugarin|{param2:F1P}",
-          "Durasi|{param3:F1}dtk"
+          "Durasi|{param3:F1}dtk",
+          "Cooldown|{param4:F1} dtk",
+          "Konsumsi Energy|{param5:I}"
         ],
         "Parameters": [
           {
@@ -845,11 +856,11 @@
         "Context": "Uang ini untuk dibawa pulang, dan yang ini uang obat-obatan untuk Rokot. Sekarang aku tinggal cari lagi untuk perawatan senjata ... Heh, kita lihat gerombolan perampok mana yang apes kali ini ...."
       },
       {
-        "Title": "",
+        "Title": "Ketika Turun Hujan",
         "Context": "Tudungku basah kuyup ... Aduh, Tugarin! Jangan kibas-kibas badan!"
       },
       {
-        "Title": "",
+        "Title": "Setelah Hujan",
         "Context": "Saatnya si mangsa keluar dari persembunyiannya ...."
       },
       {
@@ -857,7 +868,7 @@
         "Context": "Cuaca sempurna untuk penyergapan. Kalau ada yang ingin kamu incar ... aku bisa manfaatkan suara petir untuk menutupi suara tembakanku."
       },
       {
-        "Title": "",
+        "Title": "Ketika Turun Salju",
         "Context": "Ck, melacak jejak bakal mustahil dalam cuaca seperti ini."
       },
       {
@@ -865,7 +876,7 @@
         "Context": "Tidak bisa pakai tudung kepala dalam cuaca seperti ini ...."
       },
       {
-        "Title": "",
+        "Title": "Di Padang Pasir",
         "Context": "Andai aku juga bisa merontokkan bulu-bulu juga ...."
       },
       {
@@ -873,11 +884,11 @@
         "Context": "Dengar itu? Itu suara burung-burung berkicau di hutan, seperti yang biasa mereka lakukan setiap pagi ... Bagaimana kalau kita buru beberapa?"
       },
       {
-        "Title": "",
+        "Title": "Selamat Siang",
         "Context": "Aku biasanya makan siang di alam terbuka, tapi aku tidak begitu merekomendasikannya."
       },
       {
-        "Title": "",
+        "Title": "Selamat Malam",
         "Context": "Beberapa mangsa paling langka hanya keluar di malam hari."
       },
       {
@@ -905,11 +916,11 @@
         "Context": "Orang-orang sering bilang bahwa sebuah Vision seharusnya mewakili keinginan terdalammu. Tapi cara berpikir yang konyol dan mengawang-awang seperti itu sama sekali tidak ada artinya bagiku. Yang aku pedulikan hanyalah apa yang bisa dilakukan benda kecil ini untukku. Kalau aku sadar kalau benda ini membuatku lebih kuat, mungkin sudah kujual demi Mora dari dulu."
       },
       {
-        "Title": "",
+        "Title": "Berbagi Cerita",
         "Context": "Kalau kamu sering berjalan di padang salju Snezhnaya, menguasai kode lokal itu keterampilan yang penting. Kalau bertemu peri tertentu atau perampok jalanan, bisa \"bicara bahasa mereka\" akan menyelamatkanmu dari banyak masalah. Oh, dan kalau kamu pernah ketemu sekelompok orang yang terus bergumam soal \"ayam,\" langsung saja rampok mereka. \"Ayam\" adalah kata kode yang artinya warga sipil yang tidak berbahaya dan membawa sedikit barang berharga. Pokoknya, target yang mudah. Orang-orang yang mengincar mereka itu yang paling bejat, tapi mereka bukan tandingan kita. Lagi pula, mengingat catatan kriminal mereka sendiri, mereka juga tidak akan berani melapor ke Druzhna, jadi mereka hanya bisa terima nasib saja."
       },
       {
-        "Title": "",
+        "Title": "Kisah Menarik",
         "Context": "Aku pernah dengar ada sebuah kedai di Mondstadt bernama The Cat's Tail, tempat para master Genius Invokation TCG dari seluruh Teyvat datang untuk bertanding. Kalau aku punya kesempatan bepergian ke luar sana, itu adalah tempat pertama yang ingin aku kunjungi. Tapi sayangnya, Mondstadt jauh sekali dari sini ... *huff* Kenapa ya Snezhnaya tidak punya tempat seperti itu?"
       },
       {
@@ -961,7 +972,7 @@
         "Context": "Semua Mora yang sudah kuhabiskan untuk memodifikasi, merawat, dan menguji senapanku ... Kalau dipikir-pikir, bisa jadi hal yang paling kamu cintai dalam hidup justru adalah sumber semua masalahmu."
       },
       {
-        "Title": "",
+        "Title": "Makanan Favorit",
         "Context": "Daging asap, roti tahan lama, keju yang meleleh saat dipanggang ... Dengan bahan-bahan itu, aku hanya perlu api dan aku akan selalu punya hidangan lezat di depanku, bahkan di tengah es dan salju sekalipun."
       },
       {
@@ -969,15 +980,15 @@
         "Context": "Semua yang punya cangkang. Kepiting, lobster ... hewan-hewan seperti itu. Harganya selangit, lalu kamu harus berjuang keras melawan capitnya dan menghindari durinya hanya untuk membuka cangkangnya. Dan setelah semua itu, dagingnya pun hanya sedikit. Tidak sebanding dengan harga maupun usahanya."
       },
       {
-        "Title": "",
+        "Title": "Menerima Hadiah: I",
         "Context": "Terima kasih, ini enak ... Apa ini tahan lama? Sepertinya aku mau habiskan nanti saja."
       },
       {
-        "Title": "",
+        "Title": "Menerima Hadiah: II",
         "Context": "Hmmm ... Bagaimana kalau aku bantu carikan buruan liar yang langka? Bahan-bahan berkualitas lebih tinggi akan membuatnya lebih enak lagi."
       },
       {
-        "Title": "",
+        "Title": "Menerima Hadiah: III",
         "Context": "... Baiklah, sayang kalau makanannya terbuang. Pasti ada warga desa yang lebih membutuhkan ini daripada aku."
       },
       {
@@ -997,7 +1008,7 @@
         "Context": "Tembakanku jadi lebih akurat sekarang ... ini hal baik atau buruk ya?"
       },
       {
-        "Title": "",
+        "Title": "Perasaan Tentang Ascension: Konklusi",
         "Context": "Seberapa jauh lagi kita harus melangkah sampai dunia yang kita perjuangkan menjadi kenyataan?"
       },
       {
@@ -1009,15 +1020,15 @@
         "Context": "Tepat sasaran!"
       },
       {
-        "Title": "",
+        "Title": "Elemental Skill: III",
         "Context": "Gugur satu!"
       },
       {
-        "Title": "",
+        "Title": "Elemental Skill: IV",
         "Context": "Sudah siap ...?"
       },
       {
-        "Title": "",
+        "Title": "Elemental Skill: V",
         "Context": "Mangsa terlihat."
       },
       {
@@ -1025,7 +1036,7 @@
         "Context": "Dapat."
       },
       {
-        "Title": "",
+        "Title": "Elemental Burst: I",
         "Context": "Sini, Tugarin!"
       },
       {
@@ -1037,11 +1048,11 @@
         "Context": "Kamu kira bisa kabur dari anjingku?!"
       },
       {
-        "Title": "",
+        "Title": "Membuka Peti Harta: I",
         "Context": "Lihat baik-baik. Jangan sampai ada yang terlewat."
       },
       {
-        "Title": "",
+        "Title": "Membuka Peti Harta: II",
         "Context": "Ada yang bisa kutukar dengan Mora?"
       },
       {
@@ -1049,11 +1060,11 @@
         "Context": "Cepat ambil dan pergi. Sebelum kita diikuti."
       },
       {
-        "Title": "",
+        "Title": "HP Rendah: I",
         "Context": "Rasa dinginnya mulai terasa ...."
       },
       {
-        "Title": "",
+        "Title": "HP Rendah: II",
         "Context": "Harus cari perlindungan ...."
       },
       {
@@ -1065,15 +1076,15 @@
         "Context": "Mundur! Aku akan melindungimu!"
       },
       {
-        "Title": "",
+        "Title": "HP Rekan Rendah: II",
         "Context": "Tenang saja. Biar aku yang bereskan mereka."
       },
       {
-        "Title": "",
+        "Title": "Gugur: I",
         "Context": "Hari-hari berburuku ... sudah berakhir ...."
       },
       {
-        "Title": "",
+        "Title": "Gugur: II",
         "Context": "Tugarin, lari ...."
       },
       {
@@ -1081,19 +1092,19 @@
         "Context": "Harusnya ... kutembak lebih cepat ...."
       },
       {
-        "Title": "",
+        "Title": "Menerima Serangan Ringan: I",
         "Context": "Semoga sepadan ...."
       },
       {
-        "Title": "",
+        "Title": "Menerima Serangan Ringan: II",
         "Context": "Hanya lecet kecil."
       },
       {
-        "Title": "",
+        "Title": "Menerima Serangan Hebat: I",
         "Context": "Lumayan sakit juga ...."
       },
       {
-        "Title": "",
+        "Title": "Menerima Serangan Hebat: II",
         "Context": "Serangan licik ...."
       },
       {
@@ -1101,11 +1112,11 @@
         "Context": "Perburuan, dimulai."
       },
       {
-        "Title": "",
+        "Title": "Bergabung ke Party: II",
         "Context": "Semua sudah siap."
       },
       {
-        "Title": "",
+        "Title": "Bergabung ke Party: III",
         "Context": "Fokus pada target."
       }
     ],
@@ -1115,7 +1126,7 @@
         "Context": "Di Snezhnaya, nama \"Alyosha\" sangat populer di kalangan masyarakat.\nNama ini dikenal luas bukan karena ada pemburu muda yang menorehkan pencapaian besar hingga menggemparkan dunia, melainkan karena makna indah yang terkandung di dalamnya membuat banyak orang tua mendambakannya.\nTak kenal takut, tulus, dan baik hati ....\nMereka berharap anak mereka tumbuh dengan sifat-sifat mulia seperti itu, dan mampu menghindari takdir pahit seperti para pahlawan dalam kisah legenda.\nNamun, mereka lupa ... lupa bahwa salju dan es Snezhnaya tak pernah menjawab doa, dan lupa bahwa hawa dingin yang menggigit itu sendiri adalah tempaan yang kejam.\nNama semata takkan melahirkan keberanian sejati, kebaikan saja pun tak cukup untuk menghindari tombak takdir.\nHanya mereka yang menjalani hidup, bertarung, dan menghadapi segalanya layaknya pahlawan yang mampu mematahkan kutukan kenyataan, hanya dengan terus melangkah menembus padang salju yang membekukan, harapan mungkin dapat diraih.\nTentu saja, tidak ada yang pernah menjelaskan hal ini kepada Alyosha. Lagi pula, dia tak punya waktu untuk merenungkannya.\nYang ia tahu, demi mengisi perut semua orang, ia harus menjelajah lebih jauh ke dalam padang salju, membawa pulang lebih banyak Tagged and Bagged, dan bersama Tugarin, menapaki jalan yang lebih dalam dan lebih luas.\nSoal berbagai perhitungan rumit itu, biarkan saja para \"realis\" yang mempertimbangkannya.\nUntuk perkara filosofi yang rumit, serahkan saja pada para \"idealis\".\nSebagai pemburu di negeri beku, ia hanya mengelap senapannya dan menarik pelatuk.\nNamun orang-orang yang mengenalnya tahu.\n\"Dia pemuda yang baik, layaknya Alyosha yang dikenal dalam berbagai legenda rakyat ... pemberani, berhati tulus, dan baik.\"\nSementara angin yang mengamuk itu akan memanjatkan doa seperti ini:\n\"Semoga Obor Kresnik dapat menyala seterang jiwanya.\""
       },
       {
-        "Title": "",
+        "Title": "Kisah Karakter 1",
         "Context": "Cita-cita Alyosha semasa kecil sangat sederhana.\nDia ingin mempelajari keahlian ayahnya dan menjadi pemburu dengan kemampuannya sendiri. Lalu, saat mencapai usia dewasa, dia akan mewarisi hadiah terbesar ... senapan bolt-action terbaik di dunia.\nNamun, impian memang selalu sulit untuk diwujudkan.\nSeperti yang kita tahu, hamparan salju Snezhnaya sangat dingin dan mematikan. Terlebih lagi, musim dingin tahun ini jauh lebih ganas dari biasanya.\nBagi keluarga-keluarga biasa yang tinggal di daerah terpencil, ini berarti pengeluaran yang lebih besar, penghasilan yang lebih sedikit, hari-hari yang lebih berat, dan kehidupan yang bisa hancur berantakan hanya karena satu kesalahan kecil.\nTentu saja, dalam situasi seperti ini, ada yang memilih untuk bekerja sekuat tenaga agar kehidupan yang rapuh ini tidak hancur berkeping-keping, seperti keluarga Alyosha.\nAda pula yang memilih untuk sepenuhnya menanggalkan kemanusiaannya, terjerumus ke dalam jurang bernama \"Abyss\" yang bernama \"kenyataan\", mengayunkan pedang pembantaian kepada mereka yang lebih lemah, seperti kawanan perampok yang kini menyerbu Alatyr.\nPara perampok mengayunkan pisau berkarat dan pentungan, lalu menghancurkan pintu kayu rumah para penduduk yang sudah penuh celah. Mora dan bijih kristal mereka yang tak seberapa pun dijarah sampai habis. Bahkan roti hitam dari serbuk kayu bercampur tepung juga mereka rampas.\nTentu saja, kejahatan para perampok tidak berhenti sampai di situ.\nMelihat para penduduk desa yang mematung ketakutan, para perampok semakin merajalela. Mereka bahkan mengambil obor dan berniat membakar perabot serta rumah-rumah yang tidak bisa mereka bawa pergi.\nDemi melindungi Alyosha yang bersembunyi di dalam lemari, kedua orang tuanya mulai melawan dengan mempertaruhkan nyawa mereka, dan para penduduk desa pun seolah baru tersadar dari mimpi, mengangkat pisau dapur dan peralatan bertani dari rumah masing-masing ....\nMungkin karena ketakutan, atau mungkin karena hari sudah mulai gelap, para perampok itu akhirnya kabur terbirit-birit, meninggalkan kedua orang tua Alyosha begitu saja di tempat.\nMeski kedua orang tuanya memaksakan senyum dan bilang kondisi mereka tidak parah, Alyosha tahu luka-luka itu baru bisa sedikit membaik setelah setidaknya setengah tahun, itu pun dengan catatan mereka mampu membayar biaya pengobatan.\nKehilangan kemampuan untuk bekerja, ditambah biaya pengobatan yang begitu besar .... Sudah jelas apa akibatnya bagi keluarga yang tak punya persediaan makanan maupun tabungan.\nAkhirnya, pada malam yang sulit dilalui itu, Alyosha melepaskan impiannya sendiri.\nIa mencongkel celah lantai rumahnya, membuka lapis demi lapis kertas minyak yang membungkus paket itu, lalu mengambil senapan berburu yang ayahnya siapkan dari tabungan selama setahun penuh, hadiah kedewasaan yang semestinya baru diserahkan kepadanya saat ia dewasa nanti.\nDeru badai salju mungkin dapat menutupi jejak kaki, tetapi ranting yang patah dan tanah beku yang retak karena pijakan tetap akan menunjukkan jalan bagi sang pemburu.\nSetengah hari mungkin cukup untuk membuat para perampok yakin bahwa mereka telah lolos dari kejaran. Namun, Alyosha sudah lebih dulu mengambil jalur dalam dan menghadang jalan mereka.\nMereka mengira diri mereka lebih cerdas dari binatang, namun di hadapan kedua mata Alyosha yang mampu membaca setiap gerak-gerik makhluk hidup, mereka tidak ada bedanya dengan hewan yang siap diburu.\nHanya dalam waktu kurang dari setengah hari, sebelum matahari terbit, ujung senjata Alyosha sudah terarah pada kawanan perampok yang tidak curiga sedikit pun.\nBeberapa saat kemudian, Alyosha berhasil menumbangkan semua perampok itu.\nIni lebih mudah daripada berburu, itulah kesan pertama Alyosha.\nBenar. Lagi pula, hewan akan lari berpencar saat mendengar suara tembakan, sementara manusia memilih bersembunyi ketakutan dan memohon ampun.\nItu menghemat banyak waktu Alyosha. Tentu saja, Alyosha tidak memilih untuk memaafkan mereka ....\nSetelah memastikan situasinya aman, Alyosha meludahkan air salju yang tadi ditahannya di mulut untuk menyamarkan uap napasnya. Dia lalu berjalan merunduk dan perlahan mendekati para perampok yang terkapar.\nIa seharusnya mengenali bau logam yang menyengat itu. Ia seharusnya sudah berkali-kali keluar hidup-hidup dari kekacauan berdarah seperti ini. Dan di hadapan para pria yang membalas tatapannya, ia seharusnya tak pernah, apa pun alasannya, mundur ketakutan ....\nNamun Alyosha seolah kembali ke masa pertama kali ia mengikuti ayahnya masuk jauh ke dalam hutan bersalju untuk memeriksa hasil buruan. Bahkan langkahnya pun menjadi serba canggung dan tak tahu harus berbuat apa.\nHanya saja, kali ini, tidak ada lagi seseorang yang menghangatkan tangannya yang besar dan kuat untuk menopang bahunya.\nDia hanya terdiam di tempat sampai matahari sudah tinggi. Setelah itu, barulah dia melanjutkan langkahnya.\nDari tas para perampok itu, ia mengambil sebuah beliung besi yang sudah usang ...\n\"Jangan salahkan aku, kalian memang layak mendapatkannya ...\""
       },
       {
@@ -1123,7 +1134,7 @@
         "Context": "Impian Alyosha semasa remaja sangatlah sederhana:\nMendapatkan lebih banyak Tagged and Bagged setiap hari, menanggung beban keluarga dengan tubuh dan bahunya sendiri, agar orang tua dan dirinya sendiri bisa bertahan melewati musim dingin yang keras ini.\nNamun, impian memang selalu sulit untuk diwujudkan.\nPertarungan berdarah melawan para perampok itu memang berhasil merebut kembali harta yang dicuri, namun tidak mampu memulihkan kerugian yang telah menimpa keluarga ini.\nPara perampok itu hampir tidak memiliki uang sama sekali selain barang rampasan dari Alatyr. Artinya, perjuangan mati-matian Alyosha malam itu hanya berhasil merebut kembali apa yang memang milik mereka.\nDi sisi lain, mahalnya biaya pengobatan, ditambah pukulan berat karena kedua orang tuanya tak lagi mampu bekerja, membuat keluarga ini benar-benar terdesak hingga tak punya jalan keluar.\nBahkan pemburu paling andal dan berpengalaman pun akan kewalahan memikul beban seberat ini, apalagi seorang anak yang tingginya tak jauh berbeda dari senapan berburu.\nYang lebih buruk lagi, dalam \"Bencana\" ini, hampir setiap keluarga di Alatyr tidak luput dari malapetaka, sehingga tidak ada satu pun tetangga yang masih memiliki tenaga lebih untuk mengulurkan bantuan.\nDalam keadaan seputus asa itu, Alyosha akhirnya paham kenapa ayahnya lebih memilih mengajarinya menghitung uang dan menimbang gandum daripada memakai senapan.\nKini, setiap tembakan Alyosha, setiap tindakan, bahkan setiap kali makan pun harus diperhitungkan dengan cermat. Sedikit saja keliru, keluarga yang susah payah bertahan hingga saat ini bisa sepenuhnya terkubur di bawah salju musim dingin.\nTentu saja, hanya berhemat saja tidak cukup, perlu mencari sumber lain juga ....\nTepat saat itu, Alyosha mendengar kabar angin bahwa beberapa warga desa ingin pergi bersama jauh ke alam liar untuk mencari sebuah \"jalan keluar\".\nSemua orang tahu bahwa badai salju Snezhnaya yang mengerikan sanggup menelan segalanya. Belum lagi binatang buas haus darah yang mengintai di pedalaman belantara, serta para perampok yang bahkan jauh lebih keji daripada mereka.\nOrang yang masih berusaha mencari \"jalan keluar\" jauh di pedalaman alam liar saat ini, kalau bukan orang bodoh yang tak tertolong, pasti orang ambisius yang tak pernah merasa puas.\nKetika kelompok itu datang untuk mengajaknya bergabung, Alyosha langsung tahu bahwa mereka setidaknya punya ambisi besar. Karena mereka bahkan mulai membidik kaum mereka sendiri.\nNamun, Alyosha juga memahami bahwa ucapan mereka bukan tanpa dasar. Melihat keadaan saat ini, hanya mengandalkan Tagged and Bagged yang sedikit itu, mustahil bisa menopang keluarga yang sudah hampir ambruk ini.\nMenatap rumah yang nyaris kosong melompong, Alyosha kembali melepaskan impiannya meski ditentang kedua orang tuanya.\nBerbekal beberapa istilah khusus yang susah payah ia pelajari dari ayahnya, Alyosha menjawab ajakan orang-orang di hadapannya yang jauh lebih tinggi dan lebih tua darinya.\n\"Aku setuju. Tapi satu hal yang harus disepakati dulu, kita pergi sebagai 'Pemburu', jadi kita hanya membidik 'binatang buas' yang punya 'cakar' dan 'gigi', tidak boleh menyentuh 'unggas' yang bertangan kosong, dan tidak boleh sampai ada yang tewas.\"\nPerkataan Alyosha disambut dengan keheningan dan kebingungan yang mencekam.\nOrang-orang di hadapan kita ini sepertinya hanya punya ambisi. Mereka sama sekali belum menyiapkan apa pun, baik secara mental, materi, maupun kemampuan ....\nTidak diragukan lagi, kelompok orang ini juga hanyalah sekumpulan orang bodoh.\nAlyosha merasa ini bukan pilihan yang baik, tapi tidak ada pilihan lain.\nIa berdecak kesal, lalu melanjutkan dengan nada dingin dan acuh, \"Yang kumaksud dengan 'unggas' adalah pedagang atau pengelana biasa. Sementara 'binatang buas' adalah para perampok bersenjata dan gerombolan geng. Kantong mereka lebih tebal. Lagi pula, menyerang mereka tak lebih dari penjahat merampok penjahat. Itu tidak akan menarik perhatian Druzhna.\"\nBegitulah, kelompok perampok jalanan pertama di Alatyr pun muncul."
       },
       {
-        "Title": "",
+        "Title": "Kisah Karakter 3",
         "Context": "Setelah menjadi \"Pemburu\", impian Alyosha sangatlah sederhana.\nSeperti yang sudah dia janjikan kepada orang tuanya, dia akan menjaga semuanya tetap seperti sekarang, hidup tenang dan teratur selama musim dingin yang berat ini, lalu pensiun begitu kedua orang tuanya sudah sembuh total.\nNamun, impian memang selalu sulit untuk diwujudkan.\nMeskipun para \"Pemburu\" dari Alatyr berhasil merebut cukup banyak bahan makanan dari \"binatang buas\", hasil buruan itu sudah lebih dari cukup untuk menghidupi keluarga mereka.\nNamun seperti yang telah Alyosha nilai sejak awal, mereka adalah sekumpulan orang bodoh. Bodoh, ambisius, dan sudah gelap mata oleh keserakahan. Cukup dengan satu alasan kecil saja, mereka akan tanpa ragu menghancurkan aturan yang dulu mereka tetapkan, menanggalkan seluruh kemanusiaan mereka, dan mengarahkan pedang pembantaian kepada mereka yang lebih lemah.\nDalih itu adalah Proyek Stuzha, seiring biaya hidup yang terus naik, orang-orang pun mulai memutar otak dan bersiap mencari jalan hidup baru:\nMisalnya, melewati padang salju yang luas, menghindari tentara yang berpatroli, lalu melarikan diri ke negeri yang konon penuh kebebasan itu, Nod-Krai.\nDan para \"Pemburu\" dari Alatyr ini, kebetulan sudah lama menetap di jalur yang harus dilalui para pengungsi tersebut.\nSaat melihat \"ternak\" tak bersenjata terus-menerus melintasi wilayah mereka, para \"Pemburu\" tak lagi mampu menahan keserakahan. Mereka satu per satu merobek penyamaran mereka, lalu berubah menjadi \"Binatang Buas\" yang haus darah.\nSaat ini, satu-satunya \"tali kekang\" yang mampu mengendalikan gerombolan \"binatang buas\" ini hanyalah Alyosha.\nSekeras apa pun dia berusaha menahan rekannya agar tidak makin terjerumus, dia hanya punya janji rapuh dari masa lalu, sepucuk senapan berburu yang sudah beberapa kali dimodifikasi, dan seekor anak anjing yang masih dalam masa ganti gigi.\n\"Dulu aku setuju sama bocah itu, hanya untuk mendapatkan keahlian berburunya. Sekarang mangsa ada di mana-mana, siapa yang masih butuh dia?\"\n\"Soal senapan rongsoknya itu? Kita punya begitu banyak senapan sekarang. Semoga saja pelurunya cukup.\"\nTak lama kemudian, binatang buas pertama yang mencoba memangsa \"unggas\" itu muncul. Setelah orang tersebut memulainya, para peniru mulai bermunculan tanpa henti: yang kedua, yang ketiga ....\nBahkan Taras, yang penakut seperti kelinci dan memegang senjata saja tidak becus, akhirnya mulai ingin ikut bergerak.\nAlyosha tahu, mereka sudah bukan lagi \"Pemburu\". Kumpulan orang ini telah menjadi sama persis dengan gerombolan bandit yang dulu menyerbu Alatyr. Bahkan lebih mengerikan lagi, karena kini mereka memiliki pengalaman tempur yang lebih matang dan persenjataan yang lebih lengkap.\nMeski semua ini bukan niatnya, dialah yang membuat kelompok itu memiliki taring dan cakar. Karena itu, sebelum keadaan benar-benar lepas kendali, ia harus membereskannya sampai tuntas.\nSeperti seorang pemburu sejati, yang selalu harus tampil ke depan saat binatang buas mengancam desa.\nDan sekali lagi, Alyosha melepaskan impiannya sendiri.\nHari itu, ia menitipkan Tugarin kepada kedua orang tuanya, hanya menyisakan sebuah senjata untuk dirinya sendiri ....\nSejak hari itu, suara tembakan sering terdengar di berbagai padang salju Snezhnaya.\nRumor mengerikan mulai menyebar di antara orang-orang ... ada perang kejam yang sedang berlangsung jauh di dalam padang salju. Salah satu pihak bertingkah seperti orang gila total dan akan menembak apa pun yang hidup begitu mendekat.\nAlyosha tidak berniat menyakiti warga sipil mana pun, tetapi terkadang reputasi sebagai orang gila lebih berguna daripada reputasi seorang pahlawan.\nDengan ancaman ini, sejak hari itu, tak satu pun \"unggas\" yang berani masuk lebih jauh ke padang salju. Namun justru karena itulah, tidak ada lagi warga sipil yang dirampok atau disakiti.\nSaat para pejabat akhirnya menerima informasi dan berniat mengirim pasukan untuk meredam kekacauan itu, entah sudah berapa hari dan malam berlalu. Di padang itu, suara tembakan sudah lama tak terdengar lagi, dan warga sekitar pun telah kembali menjalani hidup seperti biasa.\nPara Fatui Soldier yang terlambat datang itu tidak menemukan apa pun di hamparan salju, dan akhirnya hanya bisa menganggap kejadian itu sebagai bentrokan antar geng biasa, lalu menutup kasus ini dengan tergesa-gesa.\nSementara para \"binatang buas\" yang berhasil bertahan hidup pun kini dipasang kekang baru, yang ditempa dari peluru dan darah.\n... Jangan pernah, jangan pernah menyerang \"unggas\"."
       },
       {
@@ -1131,7 +1142,7 @@
         "Context": "Ketika Alyosha kembali muncul di depan banyak orang, ia sudah tak berani lagi membahas impian besar seperti dulu.\nKarena ada terlalu banyak \"kenyataan\" yang harus ia hadapi satu per satu.\nSelain harus menjadi tulang punggung keluarga dan pengurus Tugarin, ia juga perlu terus memainkan peran ganda sebagai \"Pemburu\" dan \"Kendali\", bergerak secara diam-diam di kedalaman padang salju.\nUntungnya, kebanyakan orang yang awalnya waspada dan meragukan pemuda dari Desa Alatyr, yang disebut \"sarang perampok jalanan\" itu, perlahan mulai menerima dan memercayainya.\nDi mata orang-orang yang peduli padanya, Alyosha adalah pemuda yang sederhana, pemberani, dan suka sekali membantu. Ia hanya butuh satu kesempatan yang tepat untuk bisa menjalani kehidupan tenang yang diimpikan semua orang.\nBerkat semua orang yang begitu antusias membantu mempertemukan mereka, \"kesempatan\" itu akhirnya datang sendiri.\nDia sosok misterius yang selalu ditemani pengawal. Dari pakaian dan sikapnya saja, siapa pun bisa merasakan aura superior yang begitu menekan.\nKetika orang itu menyuruh semua pengawalnya pergi dan menghadapi Alyosha sendirian, sikap arogan dan semena-menanya itu semakin meyakinkan Alyosha bahwa orang ini bukan hanya memiliki kedudukan yang luar biasa, tapi juga sangat mungkin membawa masalah besar yang sepadan dengan statusnya.\nPengalaman bertahan hidup di masa lalu mengingatkan Alyosha bahwa saat menghadapi lawan seperti ini, lebih baik tutup mulut rapat-rapat. Terlalu lancar bicara justru bisa mengundang masalah.\n\"Aku dengar mereka bilang, kamu bisa menangkap mangsa bahkan di tengah badai salju? Kamu pemburu terbaik di seluruh Snezhnaya?\"\n\"...\"\n\"Aku sudah melihat hasil buruanmu. Hampir semua pelurumu mengenai tulang belakang atau organ vital. Tidak diragukan lagi, kamu punya sedikit bakat, dan juga guru yang baik. Tapi menurutku, kemampuanmu masih sebatas lumayan saja ....\"\nOrang itu sepertinya sama sekali tidak berniat menunggu Alyosha menjawab, dan terus melanjutkan penilaiannya sesuka hati.\n\"Pemburu pemula akan memilih target yang sama sekali tidak berbahaya, seperti kelinci dan burung liar. Pemburu biasa akan mengarahkan senapannya pada binatang buas. Sementara pemburu yang \"lumayan\" bahkan tahu cara menjinakkan binatang buas dan memaksa mereka bertindak sesuai kehendaknya. Benar begitu, Nak?\"\n\"Tugarin bukan binatang buas.\" Demi melindungi sahabatnya, Alyosha tetap berbisik memprotes.\n\"Yang kubicarakan bukan itu. Maksudku \"binatang buas\" yang bertaring tajam dan bercakar tajam seperti perampok yang masuk ke desamu dan melukai orang tuamu. Atau para begal yang berasal dari desamu sendiri, tapi justru mengingkari janji mereka.\"\nSambil berbicara tentang hal itu, Alyosha tanpa sadar menarik tudung kepalanya sendiri.\nKalau dilihat dari hasilnya, kamu memang sudah berkembang. Tapi, untuk menjadi pemburu hebat, jalanmu masih panjang. Di wilayah pemburu terbaik, kurasa binatang buas berbahaya tidak akan muncul bertubi-tubi seperti ini.\nOrang itu seakan bisa melihat kewaspadaan dan kebingungan di mata Alyosha. Ia pun menghela napas pelan. \"Pulanglah dan pikirkan baik-baik. Begitu hatimu menemukan jawabannya, kamu akan mengerti sendiri apa permintaanku.\"\nMalam itu, Alyosha memeluk Tugarin, tak mampu memejamkan mata untuk waktu yang lama.\nSetiap kali memejamkan mata, asap mesiu dan kilatan api saat baku tembak langsung terbayang di benaknya.\nPara perampok itu memang penjahat keji yang pantas mati, tapi mereka juga benar-benar hidup dalam kemiskinan yang parah ...\nWajar jika orang-orang dari kampung halamannya harus membayar harga karena mengkhianati sumpah dan menyerang orang tak bersalah. Tapi kenapa pengecut seperti Taras pun hampir mengambil jalan yang salah?\nSaat cahaya fajar pertama menyinari Benteng Snezhnograd, Alyosha menyelinap ke tempat tinggal sementara orang itu. Hanya saja kali ini, ia datang dengan membawa senapan berburu.\n\"Jadi, akhirnya kamu sadar juga? Kamu sudah tahu dari dulu bahwa mempertahankan hidup seperti ini tidak ada gunanya ...\"\nSepertinya orang itu sudah menduga sejak awal bahwa dia akan datang. Ruangan itu kosong, hanya orang itu yang duduk seorang diri di depan meja. Di atas meja ada sarapan sederhana untuk berdua.\n\"Jadi, apa peranku dalam rencanamu?\"\n\"Jangan terburu-buru. Kamu juga tahu, sekarang belum saatnya.\" Melihat mata Alyosha yang tampak lelah, tetapi tetap penuh tekad, orang itu menunjuk kursi di seberangnya, lalu melanjutkan dengan tenang.\n\"Sekarang duduk dulu, ya. Makan sarapanmu sambil dengar beberapa cerita yang terbawa angin kencang yang menderu.\""
       },
       {
-        "Title": "",
+        "Title": "Kisah Karakter 5",
         "Context": "Meski identitas semua anggota dirahasiakan, Alyosha tetap bisa merasakan bahwa Rokot adalah sebuah kelompok yang dipenuhi oleh orang-orang berbakat dan luar biasa.\nAtas rekomendasi seseorang yang tidak dikenal di dalam organisasi tersebut, Alyosha akhirnya berkesempatan masuk ke istana megah di dalam Snezhnograd, bahkan berhasil mendapatkan pekerjaan sampingan yang cukup baik untuk dirinya ....\nPertunjukan balet yang memukau, nyanyian yang menghanyutkan, bangunan megah yang menjulang tinggi, suasana dalam ruangan yang hangat bagai musim semi, serta mesin raksasa megah yang belum pernah terdengar sebelumnya ....\nSemua yang ada di hadapannya terasa seperti kisah-kisah memukau dari mulut para petualang dan pedagang keliling, kisah yang dulu terasa begitu jauh, tetapi kini mendadak menjadi nyata, hingga pemuda yang akrab dengan peluru dan darah itu untuk pertama kalinya merasa bahwa dunia punya sisi seperti ini.\nTerutama \"Genius Invokation TCG\". Alyosha tidak menyangka, benda kecil yang tersusun dari selembar kertas warna-warni dan kepingan logam itu ternyata berpusat pada hitung-hitungan. Hal yang dulu membuatnya begitu menderita, kini malah bisa membuat orang kecanduan.\n\"Haduh, kalau saja waktu kecil dulu bisa main game kayak gini, rasanya waktu belajar berhitung, pantatku pasti tidak bisa terhindar dari dua kali pukulan ...\"\n\".... Tapi kalau permainanku seburuk ini, Ayah mungkin bakal memukulku dua kali lagi. Hmm ... kalau dipikir-pikir, sepertinya tidak ada bedanya.\"\nSetelah kalah satu ronde lagi, Alyosha terdiam, membuat teman bermain kartu yang baru dikenalnya hari ini ikut merasa khawatir.\n\"Hei, kawan! Kamu baik-baik saja?\"\n\"Tidak apa-apa, aku hanya penasaran, kamu kok mainnya bagus sekali, ada trik khusus tidak?\"\n\"Hah? Masa? Hahaha, enggak sih!\" Anak muda bernama Medyntsev itu tampaknya jarang mendengar pujian yang begitu tulus dari orang lain. Dalam seketika, ia merasa cocok dengannya, lalu mulai mengobrol panjang lebar \"Kalau dipikir-pikir, ini semua karena aku pernah ke Mondstadt! Di sana ada tempat namanya Cat's Tail, dan di situ juga lah tempat berkumpulnya pemain kartu paling jago se-Teyvat ...\"\nDari para pemain kartu di Teyvat, sampai berbagai racikan spesial kedai yang begitu berkesan ....\nDari Knights of Favonius yang anggun dan berwibawa, hingga lagu-lagu dan syair-syair kebebasan ...\nMedyntsev berbicara cukup lama, dan Alyosha pun terus mendengarkannya.\nBagi pedagang muda itu, percakapan ini cuma jadi kesempatan lain untuk membahas rencana bisnis besarnya, sekaligus menunjukkan betapa cerdas dirinya dalam berdagang.\nNamun bagi sang \"pembangkang\" muda itu, percakapan ini membuka sebuah jendela baru baginya.\n\"Begini saja, kawan. Kamu mungkin tidak percaya, tapi aku ini salah satu pewaris bisnis keluarga. Aku punya rencana bisnis yang berani!\" Semakin bicara, Medyntsev semakin bersemangat. \"Begitu rencana ini berhasil, hak kelola bisnis keluarga akan jatuh ke tanganku! Saat itu tiba, aku bisa bebas menunjukkan kemampuanku dan mewujudkan ambisiku sendiri, hahaha!\"\n\"Kalau begitu ... setelah kamu mendapatkan hak pengelolaan itu, kamu berencana mau melakukan apa?\"\n\"Eh, aku...\" Medyntsev terhenti.\nTentu saja, ini bukan pertama kalinya Alyosha mengajukan pertanyaan itu.\nIa sudah pernah bertanya pada dirinya sendiri: ketika Proyek Stuzha berhasil dihentikan dan badai salju yang memenuhi langit akhirnya mencair, ke mana Snezhnaya akan melangkah?\nTapi dia sendiri pun tidak mendapatkan jawaban yang memuaskan.\nKarena sudah bertahun-tahun hidup di jalanan, Medyntsev segera tertawa santai untuk memecah keheningan canggung di antara mereka. \"... Aku serius, kawan. Kalau ada kesempatan, kamu harus pergi melihat Mondstadt! Jangan takut karena jaraknya jauh. Setelah kamu ke sana, kamu pasti paham kalau ucapanku benar! Anggur dari sana, kalau dibawa pulang ke Snezhnaya, pasti bisa dijual mahal!\"\n\"Hmm, kalau salju sudah mencair, aku akan pergi ...\"\nDiam-diam, Alyosha menambahkan satu langkah baru ke dalam rencana \"Mewujudkan Impian\".\nKalau ada kesempatan pergi ke luar negeri, tujuan pertama haruslah Mondstadt.\nBukan hanya karena di sana ada Cat's Tail, konon di sana juga tempat berkumpul para pemain kartu terhebat di seluruh Teyvat dan karena itu juga merupakan negeri yang bebas dan menghangatkan.\nDengan melihat masa lalu dan masa sekarang, mungkin kita bisa menemukan jawaban yang layak untuk masa depan Snezhnaya."
       },
       {
@@ -1139,7 +1150,7 @@
         "Context": "Seperti banyak orang di Snezhnaya, Tugarin punya impian yang sederhana, bahkan sangat sederhana.\nMakanan yang cukup, dan rumah yang hangat.\nNamun di era ketika manusia sendiri pun sulit bertahan hidup, harapan itu terlalu mewah untuk diraih.\nKenyataan yang dihadapinya hanyalah terbengkalai di padang salju, meringkuk, dan menunggu kematian datang dengan tenang.\nDalam situasi seperti itu, Alyosha yang kebetulan melintas pun tak bisa berbuat banyak. Ia hanya bisa merogoh kantongnya dan mengeluarkan dua sosis terakhir miliknya, lalu berjongkok dan merobeknya kecil-kecil dan meletakkannya di dekat cakar hewan itu.\nBegitu dia agak pulih dan mulai berputar-putar di sekitarnya, dan ingin ikut dengannya, Alyosha malah berdiri dan pergi begitu saja.\nDia sangat paham bahwa jatah makanannya sendiri saja sudah tidak cukup untuk memelihara hewan, belum lagi kali ini dia harus menjalankan misi yang sangat berbahaya.\nBerdasarkan pengamatannya, belakangan ini ada seekor beruang raksasa pemakan manusia yang berkeliaran di padang salju.\nDemi menjaga kulit bulu buruannya tetap utuh dan mengurangi tembakan, Alyosha bersembunyi di dalam gua salju, menjadikan dirinya umpan sambil menunggu mangsanya terpancing.\nNamun, selain beruang raksasa yang mau diburu Alyosha, ternyata ada seorang \"tamu\" yang datang tak diundang ....\nAnjing kecil itu tampaknya telah pulih sepenuhnya, bahkan mengikuti jejak bau Alyosha hingga ke sini.\n\"Duh, gawat ....\"\nBegitu melihat beruang raksasa itu mendekati Alyosha, anak anjing itu sama sekali tidak ragu. Ia langsung menggonggong nyaring dan terburu-buru dengan suaranya yang masih terdengar kecil.\nSuara itu membuat beruang raksasa itu berbalik badan. Ketika punggungnya yang kekar menghadap pemburu, Alyosha kehilangan posisi untuk melancarkan serangan mematikan dalam sekali tembak.\nNamun, tepat saat beruang besar itu berbalik dan menerjang anak anjing tersebut, Alyosha menarik pelatuknya begitu saja, seolah tanpa sadar, bahkan tanpa sempat berpikir.\nBegitu terdengar lengking tajam dari laras senapan dan bunyi berat saat peluru menembus tubuh, beruang raksasa itu meraung pilu sebelum akhirnya kabur mengikuti nalurinya.\nMeski Alyosha tahu bahwa tembakan itu mengenai organ vital beruang raksasa tersebut, dan selama terus dikejar pasti bisa ditumbangkan sepenuhnya.\nNamun ia tetap diam di tempat, menghitung kerugian yang mungkin ditimbulkan dari pengejaran itu, serta risiko tersembunyi di dalamnya ....\nTapi anak anjing itu tidak mempertimbangkan apa pun, dunianya sangat sederhana.\nAku berhasil membuat binatang buas raksasa yang mengincar orang yang menolongku kabur. Sekarang aku harus mengejarnya dan menjauhkannya sejauh mungkin.\n\"Benar-benar tidak sepadan ...\"\nMeski terus mengeluh, Alyosha tetap mengikuti dan mengejar bayangan belang hitam putih yang bergerak cepat itu.\nTidak lama kemudian, Alyosha akhirnya menyusul anak anjing itu. Saat ditemukan, anak anjing itu berdiri di atas beruang raksasa yang sudah tergeletak tak bergerak. Napasnya masih terengah-engah, dadanya naik turun dengan cepat.\nNamun begitu mendengar langkah kaki Alyosha, anjing kecil itu langsung mengangkat kepalanya dan mengibas-ngibaskan ekor pendeknya seperti bola benang dengan cepat.\nEkspresi gembira dan bangganya itu seolah ia benar-benar berhasil melindungi penolongnya, membunuh seekor beruang raksasa yang panjangnya hampir sepuluh kali lipat tubuhnya hanya dengan kekuatannya sendiri.\nDan sorot matanya yang penuh keyakinan itu seolah menyatakan bahwa ia akan selalu mengikuti dan melindungi sang pemburu.\nSetelah lama bersitegang, Alyosha akhirnya menyerah.\n\"Baiklah, kamu benar, bagaimanapun seorang pemburu harus memiliki anjing pemburu ... Kalau begitu, aku harus memberimu nama.\"\n\"Guk?\"\n\"... Kalau begitu, aku akan memanggilmu 'Tugarin'. Semoga kamu bisa tumbuh lebih besar nantinya, agar benar-benar layak disebut anjing pemburu beruang.\"\n\"Guk!\""
       },
       {
-        "Title": "",
+        "Title": "Vision",
         "Context": "Beberapa hari setelah kunjungan orang misterius itu, kehidupan Alyosha tidak banyak berubah. Ia tetap menghabiskan sebagian besar waktunya di padang terbuka, menjalani peran yang selama ini sudah ia jalani.\nNamun, jika ada yang sengaja memperhatikan suara tembakan di padang salju, mereka akan tahu kalau tembakan sang \"Pemburu\" jelas sudah berkurang.\nWalau tekadnya sudah bulat, walau ia paham bahwa perburuan itu diperlukan, dan walau ia sudah terbiasa membidik maupun menjadi sasaran, Alyosha tetap membenci darah.\nTerutama setelah mendapatkan informasi yang dibawa oleh Rokot.\nBanyak rahasia mengenai Proyek Stuzha yang mengonfirmasi dugaannya selama ini. Masalah terbesar negara ini bukanlah geng-geng yang merajalela, bandit yang terus bermunculan, atau pejabat korup yang menggerogoti kekuasaan.\nMereka tak lebih hanyalah akibat yang muncul dari dinginnya es dan salju di tempat ini.\nSelama akar penyakitnya belum dicabut, penyakit-penyakit kecil yang disebut itu akan terus bermunculan tanpa henti.\nBahkan untuk melatih anjing pemburu pun, kita perlu memberinya makan kenyang dan daging kering sebagai hadiah. Apalagi hati manusia yang tak pernah puas?\nKalau begitu, apakah selama ini ia membidik sasaran yang salah? Apakah darah yang ia tumpahkan sebenarnya sia-sia?\nSetiap kali ia tenggelam dalam renungan seperti itu, \"pandangannya\" yang biasanya begitu tajam dan mata yang mampu membidik mangsa dengan tepat di tengah badai salju sekalipun menjadi sedikit keruh dan kabur.\nKarena itu, Alyosha mulai ragu. Selama para perampok jalanan mau mengembalikan barang curian mereka, ia akan tetap mengampuni mereka saat mereka memohon ampun, meski mereka sudah melanggar aturan keras untuk tidak menyentuh \"ternak\".\nNamun, makhluk buas tak mengenal belas kasih. Di mata mereka, berhenti menyerang hanya berarti lemah. Dan saat Alyosha terus menurunkan senjatanya, bahaya akhirnya menghampiri.\nItu adalah jebakan yang sudah dirancang dengan sangat matang. Saat Alyosha keluar dari balik tempat berlindung untuk menghentikan aksi perampokan yang tampak biasa saja, \"binatang buas\" yang semula berlutut memohon ampun dan \"ternak\" yang terlihat sangat ketakutan serempak melepas penyamaran mereka, lalu menampakkan taring ke arahnya.\nDi bawah kepungan berlapis dan tekanan terus-menerus, Alyosha perlahan mulai menunjukkan tanda-tanda kekalahan ....\nStamina-nya hampir habis, dan sabuk pelurunya hanya tersisa segelintir butir peluru.\nBersembunyi di balik pelindung yang sudah hancur penuh lubang, dia menyumpalkan potongan dendeng terakhir ke mulut Tugarin.\n\"Tugarin, bersiaplah untuk kabur.\"\nTepat saat itu, rentetan tembakan yang kacau tiba-tiba terdengar dari salah satu sisi kepungan.\nMemanfaatkan kekacauan sesaat itu, Alyosha berhasil lolos dari jebakan maut.\nDi sudut itu, ia melihat seseorang membabi buta menembak dengan mata tertutup, dan tanpa sengaja membuka celah di kepungan musuh ... sosok yang sangat ia kenal, Taras.\nAlyosha tahu, pria yang bahkan tak mampu memegang senjata dengan stabil itu sudah lama menetap di kota dan menjalani kehidupan normal. Seharusnya, ia tidak punya alasan untuk kembali menginjakkan kaki ke tempat berbahaya itu.\nNamun ia tetap datang dengan kedua kaki yang gemetar.\nTaras terengah-engah, seolah tidak terbiasa mengatakan hal seperti ini: \"Semua orang masih membutuhkanmu ....\"\nMelihat pria di depannya yang gemetar namun tetap memegang erat senjatanya, kebimbangan dalam hati Alyosha seketika lenyap.\nJika akar masalah negeri ini tidak diselesaikan, pertempuran dan pertumpahan darah tanpa arah memang tak ada artinya ....\nNamun, untuk mewujudkan cita-cita besar \"semua orang bisa makan sampai kenyang, dan tidak perlu saling melawan\", kita memang harus melawan kejahatan itu dan melindungi orang-orang yang belum jatuh.\nBukankah pertobatan Taras adalah bukti terbaiknya?\n\"Pandangan\" yang selama ini selalu jernih itu akhirnya kembali.\nDemi harapan itu, dia rela berlumur darah dan menerjang bersama badai yang menderu untuk menghancurkan monster raksasa serta es yang membeku ... namun, jika badai itu berbelok dari tujuannya, dia juga siap mengarahkan senjatanya pada badai itu sendiri.\nSambil menggenggam formulir pendaftaran yang tipis itu, Alyosha kembali menemui sosok misterius tersebut.\n\"Aku bisa bergabung dengan kalian, tapi aku tidak jamin akan mematuhi perintah kalian.\"\n\"Tidak masalah. Dari awal, prinsip 'Rokot' memang seperti itu. Kamu bebas melakukan apa pun yang kamu mau.\" Orang itu tampaknya sempat melirik \"benda kecil\" di pinggang Alyosha yang memancarkan cahaya samar nan murni. Senyum yang sangat jarang terlihat pun muncul di wajahnya. \"Lagi pula, secara pribadi, aku justru lebih menantikan pilihanmu sendiri.\"\nLalu, di antara angin kencang yang menderu, muncul secercah aura yang melesat secepat kilat ...."
       }
     ]

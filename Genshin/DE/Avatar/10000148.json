@@ -36,7 +36,13 @@
         "GroupId": 14831,
         "Proud": {
           "Descriptions": [
+            "SCH Phase 1|{param1:F1P}",
+            "SCH Phase 2|{param2:F1P}",
+            "SCH Phase 3|{param3:F1P} + {param4:F1P}",
+            "SCH Phase 4|{param5:F1P}",
+            "SCH heftiger Schläge|{param6:F1P}",
             "Ausdauerverbrauch heftiger Schläge|{param7:F1} Punkte",
+            "SCH beim Fallen|{param8:F1P}",
             "SCH beim Fallen aus niedriger/großer Höhe|{param9:F1P}/{param10:F1P}"
           ],
           "Parameters": [
@@ -294,6 +300,8 @@
         "Proud": {
           "Descriptions": [
             "SCH bei Drücken|{param1:F1P}",
+            "SCH bei Gedrückthalten|{param2:F1P}",
+            "Abklingzeit|{param3:F1} s",
             "#Dauer von „Mal der Jäger“|{param4:F1}{NON_BREAK_SPACE}s",
             "ANG-Bonus für „Genauigkeit der Jäger“|{param5:F1P}",
             "#Dauer von „Genauigkeit der Jäger“|{param6:F1}{NON_BREAK_SPACE}s"
@@ -494,7 +502,10 @@
       "Proud": {
         "Descriptions": [
           "SCH durch „Donnerndes Jagdrevier“|{param1:F1P}",
-          "SCH durch Tugarin|{param2:F1P}"
+          "SCH durch Tugarin|{param2:F1P}",
+          "Dauer|{param3:F1} s",
+          "#Abklingzeit|{param4:F1}{NON_BREAK_SPACE}s",
+          "Elementarenergie|{param5:I}"
         ],
         "Parameters": [
           {
@@ -849,7 +860,7 @@
         "Context": "Meine Kapuze wird ganz nass ... Oh nein, Tugarin! Schüttle dich doch nicht so!"
       },
       {
-        "Title": "",
+        "Title": "Es hat aufgehört zu regnen ...",
         "Context": "Zeit für die Beute, aus ihrem Versteck zu kriechen ..."
       },
       {
@@ -857,7 +868,7 @@
         "Context": "Perfektes Wetter für einen Hinterhalt, falls du jemanden im Sinn hast ... Ich kann den Donner nutzen, um meine Schüsse zu übertönen."
       },
       {
-        "Title": "",
+        "Title": "Wenn es schneit ...",
         "Context": "Urgh, Spurenlesen wird dabei unmöglich sein."
       },
       {
@@ -865,7 +876,7 @@
         "Context": "Bei diesem Wetter kann man keine Kapuze tragen ..."
       },
       {
-        "Title": "",
+        "Title": "In der Wüste ...",
         "Context": "Ich wünschte, ich könnte auch etwas Fell loswerden ..."
       },
       {
@@ -873,11 +884,11 @@
         "Context": "Hörst du das? Das sind die Vögel, die im Wald zwitschern, wie jeden Morgen ... Warum gehen wir nicht los und schießen ein paar davon ab?"
       },
       {
-        "Title": "",
+        "Title": "Guten Tag.",
         "Context": "Normalerweise esse ich draußen in der Wildnis zu Mittag, aber ich würde es nicht unbedingt empfehlen."
       },
       {
-        "Title": "",
+        "Title": "Guten Abend.",
         "Context": "Einige der seltensten Beutetiere kommen nur nachts heraus."
       },
       {
@@ -905,11 +916,11 @@
         "Context": "Man sagt oft, dass ein Göttliches Auge die eigenen tiefsten Wünsche darstellt. Das ist mir aber völlig egal. Solch ein kitschiges Denken bedeutet mir überhaupt nichts. Für mich zählt nur der Nutzen. Mich interessiert bloß, was mir dieses Schmuckstück bringen kann. Zum Glück macht es mich deutlich stärker. Sonst hätte ich es wohl schon längst gegen Mora eingetauscht."
       },
       {
-        "Title": "",
+        "Title": "Willst du mir etwas mitteilen?",
         "Context": "Wenn du in Snezhnaya abseits der Wege unterwegs bist, ist die örtliche Geheimsprache enorm wichtig. Das hilft bei Feen oder Wegelagerern. Wer richtig mitreden kann, erspart sich dabei eine ganze Menge unnötigen Ärger. Hörst du Leute das Wort „Huhn“ murmeln? Oh, wenn du jemals auf so eine Gruppe triffst, raub sie einfach komplett aus. „Huhn“ bedeutet harmlose Zivilisten mit wenigen Wertsachen. Im Grunde genommen sind sie einfach ein sehr leichtes Ziel für fiese Schurken. Ihre Verfolger sind der absolut schlimmste Abschaum. Aber uns sind sie natürlich überhaupt nicht gewachsen und haben gar keine Chance. Sie haben ja selbst genug eigene Vorstrafen. Daher würden sie uns auch niemals im Traum bei der Druzhna anzeigen. Sie müssen es dann einfach stillschweigend hinnehmen."
       },
       {
-        "Title": "",
+        "Title": "Interessante Vorkommnisse ...",
         "Context": "Ich habe gehört, dass es in Mondstadt eine Taverne namens „Katzenschwanz“ gibt. Dort spielen wahre Meister der Genialen Beschwörung. Sie reisen aus ganz Teyvat an, um in Duellen gegeneinander anzutreten. Da will ich als Erstes hin! Zumindest, wenn ich jemals ins Ausland reisen darf. Schade, dass Mondstadt so weit weg ist ... *seufz* Warum hat Snezhnaya nicht auch so einen tollen Ort?"
       },
       {
@@ -961,7 +972,7 @@
         "Context": "Das wären all die Mora, die ich für das Modifizieren, Warten und Testen meines Gewehrs ausgebe ... Rechne mal nach, und du wirst vielleicht feststellen, dass die Dinge, die du im Leben am meisten liebst, auch die Quelle all deiner Probleme sind."
       },
       {
-        "Title": "",
+        "Title": "Was er so mag ...",
         "Context": "Pökelfleisch, haltbares Brot, Käse, der beim Rösten schmilzt ... Mit diesen Zutaten brauche ich nur ein Feuer und habe immer ein Festmahl zur Hand, selbst wenn ich von Eis und Schnee umgeben bin."
       },
       {
@@ -969,15 +980,15 @@
         "Context": "Alles, was eine Schale hat. Krabben, Hummer ... Solche Sachen. Sie kosten ein Vermögen, du musst praktisch mit ihren Scheren und Stacheln kämpfen, nur um sie aufzubekommen, und nach all dem ist kaum Fleisch drin. Das ist die Kosten und die Mühe nicht wert."
       },
       {
-        "Title": "",
+        "Title": "Geschenk erhalten I",
         "Context": "Danke, das ist lecker ... Hält sich das auch gut? Ich glaube, ich esse es später auf."
       },
       {
-        "Title": "",
+        "Title": "Geschenk erhalten II",
         "Context": "Hmm ... Soll ich dir helfen, etwas seltenes Wildfleisch zu besorgen? Hochwertigere Zutaten würden das noch besser machen."
       },
       {
-        "Title": "",
+        "Title": "Geschenk erhalten III",
         "Context": "... Na ja, man darf Essen nicht verschwenden. Es gibt bestimmt einen Dorfbewohner, der das mehr braucht als ich."
       },
       {
@@ -997,7 +1008,7 @@
         "Context": "Wohl oder übel werden meine Schüsse jetzt nicht mehr danebengehen."
       },
       {
-        "Title": "",
+        "Title": "Gedanken über den Aufstieg – Ende",
         "Context": "Wie weit müssen wir noch gehen, bis die Welt, für die wir kämpfen, Wirklichkeit wird?"
       },
       {
@@ -1009,15 +1020,15 @@
         "Context": "Volltreffer!"
       },
       {
-        "Title": "",
+        "Title": "Elementarfähigkeit III",
         "Context": "Einer weniger!"
       },
       {
-        "Title": "",
+        "Title": "Elementarfähigkeit IV",
         "Context": "Bereit oder nicht ..."
       },
       {
-        "Title": "",
+        "Title": "Elementarfähigkeit V",
         "Context": "Beute gesichtet."
       },
       {
@@ -1025,7 +1036,7 @@
         "Context": "Hab ich dich."
       },
       {
-        "Title": "",
+        "Title": "Spezialfähigkeit I",
         "Context": "Hier, Junge!"
       },
       {
@@ -1037,11 +1048,11 @@
         "Context": "Fressen oder gefressen werden!"
       },
       {
-        "Title": "",
+        "Title": "Truhe öffnen I",
         "Context": "Schau genau hin. Ich will nichts übersehen."
       },
       {
-        "Title": "",
+        "Title": "Truhe öffnen II",
         "Context": "Irgendwas, das ich gegen etwas Mora eintauschen kann?"
       },
       {
@@ -1049,11 +1060,11 @@
         "Context": "Schnapp es dir und los. Bevor wir verfolgt werden."
       },
       {
-        "Title": "",
+        "Title": "Niedrige LP I",
         "Context": "Die Kälte macht mir zu schaffen ..."
       },
       {
-        "Title": "",
+        "Title": "Niedrige LP II",
         "Context": "Ich sollte in Deckung gehen ..."
       },
       {
@@ -1065,15 +1076,15 @@
         "Context": "Zurück! Ich gebe dir Deckung!"
       },
       {
-        "Title": "",
+        "Title": "Verbündeter hat niedrige LP II",
         "Context": "Ganz ruhig. Ich erledige sie."
       },
       {
-        "Title": "",
+        "Title": "Ohnmächtig I",
         "Context": "Meine Jagdtage ... sind vorbei ..."
       },
       {
-        "Title": "",
+        "Title": "Ohnmächtig II",
         "Context": "Tugarin, lauf ..."
       },
       {
@@ -1081,19 +1092,19 @@
         "Context": "Ich hätte ... schneller ziehen sollen ..."
       },
       {
-        "Title": "",
+        "Title": "Leichten Treffer erlitten I",
         "Context": "Hoffentlich war es das wert ..."
       },
       {
-        "Title": "",
+        "Title": "Leichten Treffer erlitten II",
         "Context": "Hat mich nur gestreift."
       },
       {
-        "Title": "",
+        "Title": "Schweren Treffer erlitten I",
         "Context": "Das hat wehgetan ..."
       },
       {
-        "Title": "",
+        "Title": "Schweren Treffer erlitten II",
         "Context": "Mieser Trick ..."
       },
       {
@@ -1101,11 +1112,11 @@
         "Context": "Die Jagd beginnt!"
       },
       {
-        "Title": "",
+        "Title": "Truppenbeitritt II",
         "Context": "Bin ausgerüstet."
       },
       {
-        "Title": "",
+        "Title": "Truppenbeitritt III",
         "Context": "Das Ziel fest im Blick."
       }
     ],
@@ -1115,7 +1126,7 @@
         "Context": "In Snezhnaya erfreut sich der Name „Alyosha“ großer Beliebtheit.\nDas liegt aber nicht etwa daran, dass ein junger Jäger eine so gewaltige Heldentat vollbracht hätte, dass sie seinen Namen in aller Munde gebracht hätte. Vielmehr ist es die schöne Bedeutung, die der Name selbst in sich trägt, die unzählige Eltern in ihren Bann zieht.\nFurchtlos, rein und gütig ...\nSie alle wünschen sich, dass ihr Kind solch wunderbare Tugenden besitzen möge. Sie wünschen, es könne wie ein Held aus legendären Geschichten dem Meißel des Schicksals entkommen.\nNur übersehen sie da eine Kleinigkeit. Nämlich, dass der Schnee und das Eis Snezhnayas niemals Gebete erhören. Und sie übersehen, dass die bitterkalte Härte selbst schon eine gnadenlose Feile ist.\nEin Name allein bringt keinen wahren Mut; bloße Güte schützt nicht vor dem Speer des Schicksals.\nNur wer wie ein Held Dinge erlebt, kämpft und lebt, kann den Fluch der Wirklichkeit brechen. Nur wer immer wieder seine Füße in die eisige Schneewüste gräbt, hat die Chance, Hoffnung zu erjagen.\nNatürlich hatte niemand Alyosha je solche Weisheiten vermittelt. Er hatte auch keine Zeit, darüber zu grübeln.\nEr wusste nur eines: Um alle satt und warm zu halten, musste er noch tiefer in die Schneewüste vordringen, musste mehr von der Jagd heimbringen, musste sich gemeinsam mit Tugarin einen tieferen, weiteren Weg bahnen.\nWas komplizierte Berechnungen angeht, so sollen die „Realisten“ sich ums Abwägen kümmern;\nUnd was die tiefgründigen Philosophien angeht, so sind die Debatten darüber den „Idealisten“ zu überlassen.\nAls Jäger, der sich durch die Eiseskälte schlägt, versteht er es nur, das Schloss an seiner Waffe zu putzen und den Abzug zu betätigen.\nAber wer ihn kennt, der weiß:\n„Er ist ein guter Junge, genau wie jener ‚Alyosha‘ aus unzähligen Volkssagen – furchtlos, rein und gütig ...“\nUnd der heulende Sturm bietet ein solches Gebet dar:\n„Möge Kresniks Fackel so heiß brennen wie seine Seele.“"
       },
       {
-        "Title": "",
+        "Title": "Figurenhintergrund 1",
         "Context": "Als Kind waren Alyoshas Ideale schlicht:\nDas Handwerk von seinem Vater erlernen, ein Jäger werden, der wie er selbstständig bestehen kann, und an seinem Geburtstag das Geschenk erhalten, das sein Vater für ihn vorbereitet hatte – das beste Repetiergewehr der Welt.\nDoch Ideale sind immer so schwer zu erreichen.\nWie jeder weiß, sind die weiten Schneelandschaften in Snezhnaya unerbittlich kalt und tödlich. Und der Winter dieses Jahres brachte eine besonders bittere Kälte mit sich.\nFür die normalen Familien in abgelegenen Gebieten bedeutete das: höhere Ausgaben, geringere Einnahmen, härtere Tage – und ein Leben, das bei der kleinsten Unachtsamkeit zusammenbrechen kann.\nNatürlich gibt es in solchen Situationen Menschen, die sich entscheiden, noch härter zu arbeiten. Sie hoffen, dass ihre zerbrechlichen Leben nicht völlig auseinanderbrechen – so wie Alyoshas Familie.\nAndere wiederum entscheiden sich dafür, ihre Menschlichkeit völlig aufzugeben und in den Abgrund namens „Realität“ zu stürzen. Sie erheben ihre Waffen gegen „Schwache“, die noch schwächer sind als sie selbst, wie zum Beispiel die Räuberbande, die gerade in Alatyr eingedrungen war.\nDie Räuber schwangen rostige Messer und Knüppel, schlugen die ohnehin schon undichten Holztüren der Dorfbewohner ein und raubten ihnen die wenigen Mora und Kristallbrocken, die ihnen noch geblieben waren. Selbst vor schwarzem Brot, dessen Sägespäne eher mit Mehl gestreckt worden war als andersherum, machten sie nicht Halt.\nNatürlich hörten die Missetaten der Räuber damit aber nicht auf.\nAls die Räuber sahen, dass die Dorfbewohner vor Angst wie erstarrt dastanden, wurden sie immer nur noch dreister. Sie holten Fackeln herbei und wollten die Möbel und Häuser, die sie nicht mitnehmen konnten, in Brand stecken.\nUm Alyosha zu schützen, der sich im Schrank versteckte, begannen seine Eltern, unter Einsatz ihres Lebens Widerstand zu leisten. Auch die Dorfbewohner erwachten wie aus einem Traum und griffen zu Küchenmessern und Ackergerätschaften ...\nVielleicht aus Angst, oder vielleicht weil es bereits dunkel wurde, ergriffen die Räuber schließlich die Flucht und ließen Alyoshas Eltern zurück.\nObwohl seine Eltern versuchten zu lächeln und darauf bestanden, dass es keinen Grund zur Sorge gäbe, verstand Alyosha die unausgesprochene Wahrheit: Ihre Verletzungen würden mindestens ein halbes Jahr brauchen, um zu heilen, und das auch nur, wenn sie sich die Medizin irgendwie leisten könnten.\nNicht mehr arbeiten zu können und dann auch noch viel Geld für Medizin zu benötigen – was das für eine Familie bedeutet, deren Vorräte an Essen und Geld komplett erschöpft sind, versteht sich von selbst.\nIn dieser schlaflosen Nacht gab Alyosha seine Ideale endgültig auf.\nEr hob eine lose Bodendiele an, packte ein in mehrere Schichten Ölpapier eingewickeltes Paket aus und zog das Jagdgewehr hervor, für das sein Vater die Ersparnisse eines ganzen Jahres ausgegeben hatte, ein Geschenk, das eigentlich erst an ihn weitergegeben werden sollte, wenn er ein Mann werden würde.\nDer heulende Schneesturm konnte ihre Fußspuren vielleicht verdecken, aber abgebrochene Äste und breitgetretene, gefrorene Erde würden dem Jäger trotzdem den Weg weisen.\nEin halber Tag Vorsprung hätte die Räuber wohl glauben lassen, sie hätten ihre Verfolger abgeschüttelt, aber Alyosha hatte ihnen bereits den Weg abgeschnitten, indem er eine Abkürzung durch die Wälder genommen hatte.\nSie hielten sich für schlauer als wilde Tiere, aber für Augen, die jede noch so kleine Bewegung eines Lebewesens lesen konnten, waren sie nur Beute, die nur darauf warten konnte, erlegt zu werden.\nIn weniger als einem halben Tag, noch bevor die Sonne überhaupt aufging, hatte Alyosha die ahnungslosen Banditen bereits im Visier.\nUnd nur ein paar Momente später hatte er jeden Einzelenen von ihnen zur Strecke gebracht.\nDas war einfacher als eine Jagd ... Das war sein erster Gedanke.\nSchließlich flohen Tiere ja beim Geräusch von Schüssen immer gleich, aber Menschen entschieden sich dafür, sich zusammenzukauern und um Gnade zu flehen.\nDas ersparte Alyosha viel Mühe – nicht, dass er vorhatte, Gnade zu zeigen ...\nAls er sich vergewissert hatte, dass die Umgebung sicher war, spuckte er das gefrorene Wasser aus, das er im Mund behalten hatte, um seinen Atem in der kalten Luft zu verbergen, duckte sich dann tief und schlich auf die Banditen zu, die am Boden lagen.\nDieser stechende, intensive Geruch von Rost – er sollte ihm nur allzu vertraut sein. Diese chaotische Szene – er sollte sie schon unzählige Male erlebt haben. Und den Blick all dieser Augenpaare zu erwidern – davor sollte er sich nie gescheut haben ...\nDoch Alyosha fühlte sich, als wäre er zurück in jenem Moment, als er zum ersten Mal seinem Vater tief in den verschneiten Wald folgte, um die Beute zu begutachten. Selbst seine Schritte wurden unsicher und unbeholfen.\nNur dass diesmal niemand mehr da war, der ihm eine warme, kräftige Hand auf die Schulter legte.\nEr stand einfach reglos da. Erst als die Sonne hoch über ihm stand, setzte er sich wieder in Bewegung.\nAus den Bündeln der Räuber nahm er eine abgenutzte Eisenspitzhacke heraus ...\n„Nehmt es mir nicht übel, das habt ihr euch selbst eingebrockt ...“"
       },
       {
@@ -1123,7 +1134,7 @@
         "Context": "Als Jugendlicher waren Alyoshas Ideale schlicht:\nJeden Tag etwas mehr Beute erlegen, mit seinem Körper und seinen Schultern die Last der Familie tragen und dafür sorgen, dass seine Eltern und er selbst diesen harten Winter überstehen.\nDoch Ideale sind immer so schwer zu erreichen.\nDer blutige Kampf gegen die Räuber hatte ihm zwar die gestohlenen Güter zurückgebracht, doch die Verluste seiner Familie konnte er damit nicht wettmachen.\nDie Gruppe von Räubern besaß außer der aus Alatyr geraubten Beute so gut wie nichts. Das bedeutete, dass Alyoshas verzweifelter Kampf in jener Nacht ihm nur das zurückgebracht hatte, was ihnen ohnehin gehörte.\nAuf der anderen Seite trieben die hohen Arztkosten und der bittere Umstand, dass beide Eltern nicht mehr zur Arbeit imstande waren, diese Familie endgültig in eine schier ausweglose Situation.\nEine solche Last hätte selbst den erfahrensten Jäger erdrückt – aber einen Minderjährigen, der kaum größer war als sein Jagdgewehr ...?\nSchlimmer noch: Bei dieser Katastrophe war fast jede Familie in Alatyr betroffen. Es gab schlicht keine Nachbarn, die noch die Kraft gehabt hätten, ihm zu helfen.\nIn dieser ausweglosen Lage verstand Alyosha endlich, warum sein Vater ihm damals lieber weniger über das Schießen beigebracht hatte, nur um ihm stattdessen hartnäckig diese „nutzlose“ Fähigkeit des Rechnens beizubringen.\nIn seiner jetzigen Lage musste Alyosha jeden einzelnen Schuss, jede Bewegung, ja sogar jede Mahlzeit genau berechnen. Der kleinste Fehler könnte dazu führen, dass dieses Zuhause, das sich bis hierhin so mühsam über Wasser gehalten hatte, endgültig vom Winterschnee begraben würde.\nNatürlich reicht Sparen allein bei Weitem nicht aus. Man muss auch neue Quellen erschließen ...\nGenau zu dieser Zeit hörte Alyosha ein Gerücht: Einige Dorfbewohner wollten sich zusammentun, um tief in die Wildnis vorzudringen und einen „Ausweg“ zu finden.\nAlle wussten es: Die grauenvollen Schneestürme Snezhnaya waren imstande, alles zu verschlingen. Ganz zu schweigen von den blutrünstigen Bestien in den Tiefen der Wildnis und den Banditen, die noch grausamer als jede Bestie waren.\nWer zu diesem Zeitpunkt also noch versuchte, in den Tiefen der Wildnis einen „Ausweg“ zu finden, war entweder ein kompletter Narr oder ein unersättlicher Opportunist.\nUnd als diese Gruppe bei ihm auftauchte und ihn einlud, sich ihnen anzuschließen, war Alyosha sofort überzeugt, dass sie zumindest zu den Letzteren gehörten – denn auch sie hatten ihren Blick auf ihresgleichen gerichtet.\nDennoch wusste Alyosha, dass diese Leute nicht ganz unrecht hatten. So wie die Lage sich darstellte, konnte die karge Jagdbeute allein das wankende Schiff, das sich Zuhause nannte, unmöglich über Wasser halten.\nAls er sich in dem völlig leeren Haus umsah, gab Alyosha gegen den Willen seiner Eltern seine Ideale wieder einmal auf.\nMit ein paar Wörtern Gaunersprache, die er mühsam seinem Vater aus der Nase gezogen hatte, wandte sich Alyosha an die Gruppe vor ihm – allesamt größer und älter als er – und entgegnete auf ihre Einladung:\n„Ich bin dabei. Aber eins muss klar sein: Wir ziehen als ‚Jäger‘ los. Wir haben es nur auf die ‚Biester‘ mit ‚Klauen‘ und ‚Reißzähnen‘ abgesehen. Niemand legt Hand an wehrlose ‚Vögelchen‘, und niemand bringt jemanden um.“\nWas Alyosha als Antwort erhielt, war Totenstille und blanke Ratlosigkeit.\nDiese Gruppe vor ihm schien einzig Ehrgeiz zu haben. Vorbereitet aber hatte sich niemand. Weder mental noch materiell, und schon gar nicht in Bezug auf Fähigkeiten ...\nOhne Zweifel war auch diese Gruppe ein Haufen Narren.\nAlyosha hatte das Gefühl, dass es keine gute Wahl war. Aber ihm blieb nichts anderes übrig.\nNachdem er innerlich leise mit der Zunge geschnalzt hatte, fuhr Alyosha gelassen fort: „‚Vögelchen‘ meint normale Händler oder Passanten. Was die ‚Biester‘ angeht – das sind bewaffnete Straßenräuber und Bandenmitglieder. Die sind wohlhabender. Außerdem ist ein Angriff auf sie so etwas wie Räuber gegen Räuber, und erregt daher nicht die Aufmerksamkeit der Druzhna.“\nSo entstand die erste Räuberbande von Alatyr."
       },
       {
-        "Title": "",
+        "Title": "Figurenhintergrund 3",
         "Context": "Als Alyosha ein „Jäger“ geworden war, waren seine Ideale schlicht:\nSo, wie er es seinen Eltern versprochen hatte, wollte er den Status quo bewahren, in diesem harten Winter ein geordnetes, ruhiges Leben führen – und sobald seine Eltern ihre Gesundheit vollständig wiederhergestellt hätten, würde er sich zur Ruhe setzen.\nDoch Ideale sind immer so schwer zu erreichen.\nZwar konnten die „Jäger“ von Alatyr den „Bestien“ erfolgreich eine beträchtliche Menge an Nahrung abringen, und diese Beute reichte völlig aus, um ihre Familien satt zu halten.\nDoch wie Alyosha von Anfang an vermutet hatte, waren diese Leute Narren. Von Ehrgeiz und Gier getriebene Narren. Es brauchte nur einen kleinen Vorwand, und sie würden ohne mit der Wimper zu zucken die einst aufgestellten Regeln brechen, ihre Menschlichkeit vollständig ablegen und das Schlachtermesser gegen all jene schwingen, die schwächer waren als sie selbst.\nDieser Vorwand war das „Projekt Stuzha“ – als die Lebenshaltungskosten stiegen, begannen die Menschen, sich etwas einfallen zu lassen und nach neuen Wegen zu suchen, ihr Leben zu bestreiten:\nZum Beispiel durch die endlose Schneewüste ziehen, der Patrouille der Soldaten ausweichen und in jenes Land fliehen, von dem es heißt, es sei frei: Nod-Krai.\nUnd die „Jäger“ von Alatyr hatten sich ausgerechnet auf der Route niedergelassen, die diese Flüchtlinge passieren mussten.\nAls sie sahen, wie unzählige wehrlose „Vögelchen“ in einem nicht enden wollenden Strom durch ihr Gebiet zogen, konnten die „Jäger“ ihre Gier nicht mehr zügeln. Einer nach dem anderen riss sich die Tarnung vom Leib, und sie verwandelten sich selbst in blutdurstige „Bestien“.\nIn jenem Moment war Alyosha der einzige verbliebene „Zügel“, der diese Gruppe von „Bestien“ noch zurückhalten konnte.\nObwohl er alles in seiner Macht Stehende versuchte, um den Verfall seiner Kameraden aufzuhalten, konnte er sich nur auf ein mittlerweile nur mehr blasses Versprechen von damals stützen, eine Flinte, die bereits mehrfach umgebaut worden war, und einen kleinen, zahnenden Hundewelpen.\n„Damals haben wir dem Bengel doch nur zugestimmt, um von seinen Jagdkünsten zu profitieren. Jetzt aber liegt überall fette Beute rum – wer braucht den da schon noch?“\n„Und was seine alte Schrottflinte angeht ... Wir haben ja jetzt mehr als genug Gewehre. Hoffen wir für ihn, dass seine Munition reicht.“\nBald tauchte die erste Bestie auf und versuchte, die „Vögelchen“ zu erbeuten. Und unter der Führung dieses Mannes strömten Nachahmer wie eine Lawine hervor – ein zweiter, ein dritter ...\nBis schließlich sogar Taras, der schreckhaft wie ein Hase war und nicht einmal ein Gewehr ruhig halten konnte, anfing, sich zu regen.\nAlyosha dämmerte es: Sie waren keine „Jäger“ mehr. Diese Gruppe war längst zu etwas geworden, das den Banditen glich, die damals in Alatyr eingefallen waren – nein, sie waren sogar noch furchteinflößender. Denn inzwischen verfügten sie über weit mehr Kampferfahrung und bessere Ausrüstung.\nAuch wenn all das nicht seine Absicht gewesen war, so hatte er dieser Gruppe dennoch geholfen, Reißzähne und scharfe Klauen zu entwickeln. Und genau deshalb war es seine unausweichliche Pflicht, die Sache zu bereinigen, bevor sie völlig außer Kontrolle geriet.\nSo wie ein echter Jäger stets vortreten muss, wenn sich wilde Bestien einem Dorf nähern.\nUnd so gab Alyosha ein weiteres Mal seine Ideale auf.\nAn jenem Tag überließ er Tugarin seinen Eltern und behielt nur ein Jagdgewehr bei sich ...\nVon jenem Tag an hallten über die Schneefelder Snezhnayas unaufhörlich Schüsse ...\nEin schreckliches Gerücht verbreitete sich unter den Menschen: Tief in der Schneewüste tobte ein grausamer Krieg. Eine der Parteien sei dabei ein völlig Wahnsinniger, der ohne Unterschiede zu machen auf jedes Lebewesen schoss, das sich auch nur näherte.\nAlyosha hatte nie die Absicht, Zivilisten zu verletzen. Doch der Ruf eines Verrückten ist manchmal nützlicher als der eines Helden.\nVon dieser Drohung eingeschüchtert, wagte sich seit jenem Tag kein einziges „Vögelchen“ mehr tiefer in die Schneewüste hinein. Doch genau aus diesem Grund wurde auch kein einziger Zivilist mehr ausgeraubt oder verletzt.\nAls die Beamten endlich einen Hinweis erhielten und Truppen entsenden wollten, um das Chaos zu beenden, waren bereits unzählige Tage und Nächte vergangen. Die Schüsse in der Wildnis waren längst verstummt. Die Bewohner in der Umgebung hatten ihr normales Leben wieder aufgenommen.\nDie verspäteten Fatui-Soldaten fanden im Schnee nichts weiter vor. Am Ende stuften sie den Vorfall als eine weitere gewöhnliche Bandenauseinandersetzung ein und schlossen die Akte ohne viel Aufhebens.\nUnd den überlebenden „Bestien“ wurde eine neue Kette angelegt, geschmiedet aus Kugeln und Blut:\nWagt es nicht, jemals auch nur daran zu denken, Hand an die „Vögelchen“ zu legen."
       },
       {
@@ -1131,7 +1142,7 @@
         "Context": "Als Alyosha sich den Menschen erneut zeigte, wagte er es nicht mehr, von Idealen zu sprechen.\nDenn es gab einfach zu viele „Realitäten“, denen er sich eine nach der anderen stellen musste.\nEr muss nicht nur die Stütze seiner Familie sein und sich um Tugarin kümmern, sondern auch weiterhin die Doppelrolle des „Jägers“ und der „Zügel“ spielen und im Verborgenen in den Tiefen der Schneewüste agieren.\nZum Glück wandelte sich die anfängliche Abwehrhaltung und das Misstrauen, das die meisten diesem Jungen aus dem ‚Räubernest‘ Alatyr entgegenbrachten, allmählich in Akzeptanz und Vertrauen.\nIn den Augen derer, die sich um ihn sorgten, fehlte es dem aufrichtigen, mutigen und hilfsbereiten jungen Alyosha nur noch an einer guten Gelegenheit, um das ruhige Leben zu führen, von dem alle träumen.\nUnd diese „Gelegenheit“ fand dank der eifrigen Vermittlung aller von selbst den Weg zu ihm.\nEs war eine mysteriöse Person, flankiert von Leibwächtern. Jeder konnte allein an Kleidung und Auftreten dieses Menschen die erdrückende Aura der Überlegenheit spüren.\nAls er seine Leibwächter wegschickte und Alyosha allein gegenüberstand, bestätigte sein herrisches Auftreten nur noch mehr, was Alyosha bereits vermutete: Dieser Mann hatte nicht nur eine unglaublich hohe Stellung – er brachte vermutlich auch Ärger mit sich, der dieser Stellung in nichts nachstand.\nAlyoshas Überlebensinstinkt warnte ihn, gegenüber solchen Leuten besser den Mund zu halten. Wer da zu vorwitzig redete, würde nur Ärger auf sich ziehen.\n„Ich habe gehört, dass du selbst im Schneesturm Beute fangen kannst? Dass du der beste Jäger in ganz Snezhnaya bist?“\n„...“\n„Ich habe deine Jagdbeute gesehen. Die Kugeln trafen fast alle die Wirbelsäule oder Herz und Lunge. Ohne Zweifel hast du Talent und einen guten Lehrer. Aber aus meiner Sicht ... ist das bestenfalls passabel ...“\nDer Mann schien gar nicht auf eine Antwort von Alyosha zu warten. Er fuhr einfach mit seiner Einschätzung fort.\n„Ein Anfänger wählt ungefährliche Ziele, wie Hasen und Wildvögel. Ein gewöhnlicher Jäger richtet seine Waffe auf Raubtiere. Und ein ‚passabler‘ Jäger versteht es sogar, wilde Bestien zu zähmen und sie zu zwingen, nach seinem Willen zu handeln. Habe ich recht, Junge?“\n„Tugarin ist keine wilde Bestie“, protestierte Alyosha kleinlaut, um seinen Gefährten zu schützen.\n„Ich rede nicht von ihm. Ich rede von den ‚Bestien‘ mit ‚Reißzähnen‘ und ‚scharfen Klauen‘ – wie die Räuber, die in dein Dorf eingedrungen sind und deine Eltern verletzt haben. Oder die Wegelagerer aus deinem eigenen Dorf, die ihr Versprechen gebrochen haben.“\nAn diesem Punkt zog Alyosha unbewusst seine Kapuze etwas weiter ins Gesicht.\n„Von den Ergebnissen her betrachtet, wächst du tatsächlich. Aber bis zu einem hervorragenden Jäger ist es noch weit. Ich denke, im Revier eines erstklassigen Jägers würden gefährliche Bestien nicht immer wieder und wieder einfach so auftauchen.“\nAls hätte er die Vorsicht und Verwirrung in Alyoshas Augen durchschaut, seufzte der Mann leise: „Geh zurück und denk gut darüber nach. Wenn du die Antwort in deinem Herzen gefunden hast, wirst du von selbst wissen, was meine Mission ist.“\nIn jener Nacht hielt Alyosha Tugarin im Arm und fand lange keinen Schlaf.\nSobald er die Augen schloss, flackerten in seinem Kopf der Rauch und das Mündungsfeuer des Gefechts auf.\nDiese Gruppe von Räubern war wirklich abscheulich. Ihr Tod wäre kein Verlust. Aber sie waren auch wirklich bettelarm ...\nSeine Landsleute hatten ihren Eid gebrochen und Unschuldige angegriffen. Sie verdienten es, dafür zu bezahlen. Aber warum wäre selbst ein Feigling wie Taras beinahe auf den falschen Weg geraten?\nAls das erste Morgenlicht über Snezhnograd zu strahlen begann, schlich sich Alyosha in die temporäre Unterkunft jenes Mannes vom Vortag. Nur trug er dieses Mal das Jagdgewehr in den Händen.\n„Wie es scheint, hast du es endlich eingesehen? Du wusstest doch längst, dass es keinen Sinn hat, so ein Leben aufrechtzuerhalten ...“\nDer Mann schien schon lange damit gerechnet zu haben, dass er kommen würde. Der Raum war leer. Nur er saß allein am Tisch, auf dem ein schlichtes Frühstück für zwei Personen stand.\n„Also, welche Rolle soll ich in deinem Plan spielen?“\n„Keine Eile. Du weißt es selbst – es ist noch nicht so weit.“ Der Mann blickte in Alyoshas müde, aber entschlossene Augen, deutete auf den Platz gegenüber und fuhr gelassen fort:\n„Was das Jetzt betrifft: Setz dich erst einmal. Genieß dein Frühstück und hör dir ein paar Geschichten an, die der heulende Wind herbeigeweht hat.“"
       },
       {
-        "Title": "",
+        "Title": "Figurenhintergrund 5",
         "Context": "Obwohl die Identität aller Mitglieder geheim gehalten wurde, konnte Alyosha spüren, dass die „Rokot“ eine Gruppe voller talentierter und außergewöhnlicher Menschen war.\nDurch die Empfehlung eines anonymen Mitglieds erhielt Alyosha endlich die Ehre, die prächtigen Hallen in Snezhnograd betreten zu dürfen. Er ergatterte sogar einen für ihn recht ansehnlichen Nebenjob ...\nDie Stadt bot eine Welt, die er sich nicht hätte vorstellen können: atemberaubende Ballette, fesselnde Opern, riesige Bauwerke, die frühlingshafte Wärme in den Innenräumen und gigantische Maschinen, von denen er noch nie gehört hatte ...\nEs war, als wären die fantastischen Geschichten, von denen Abenteurer und Händler erzählten, über Nacht Wirklichkeit geworden. Für einen jungen Mann, der Gewehrfeuer und Blutvergießen nur zu gut kannte, war es das erste Mal, dass er begriff, dass eine solche Welt tatsächlich existieren kann.\nDer größte Schock war jedoch das Sammelkartenspiel Geniale Beschwörung. Er hätte nie gedacht, dass sich ein Spiel aus Papierkarten und Metallmünzen komplett um Mathe dreht. Ein Fach, das ihm früher nur Kopfzerbrechen bereitete, hielt ihn nun die ganze Nacht wach.\n„Wie schade. Wenn ich als Kind so ein Spiel gehabt hätte, hätte ich meinem Hintern beim Rechnenlernen ein paar Schläge ersparen können ...“\n„... Aber so schlecht, wie ich darin bin, hätte mein Vater mich wahrscheinlich einfach doppelt so hart verhauen. Tja ... Ich schätze, es kommt aufs Gleiche heraus.“\nNachdem Alyosha ein weiteres Spiel verloren hatte, schwieg er für lange Zeit, und sein Gesichtsausdruck zog die Aufmerksamkeit seines neuen Gegners an diesem Tag auf sich.\n„He, mein Freund! Alles in Ordnung bei dir da drüben?“\n„Mir geht es gut. Ich habe mich nur gefragt ... Du bist unglaublich gut darin. Gibt es da irgendeinen Trick?“\n„Was, ich? Komm schon, du lobst mich zu sehr!“ Der junge Mann, Medyntsev, sah aus, als würde er selten so aufrichtiges Lob erhalten. Er betrachtete Alyosha sofort als Gleichgesinnten. Er lehnte sich vor und begann zu plaudern. „Das ist alles nur Übung. Ich habe einige Zeit in Mondstadt verbracht, weißt du. Dort gibt es eine Taverne namens ‚Zum Katzenschwanz‘, in der man auf die stärksten Spieler aus ganz Teyvat treffen kann ...“\nVon den Spielern aus Teyvat bis hin zu den unvergesslichen Spezialcocktails, die in der Taverne serviert werden ...\nVon den eleganten Rittern des Ordo Favonius bis zu den Liedern und Gedichten, die die Freiheit feiern ...\nMedyntsev redete lange, und Alyosha hörte genauso lange zu.\nFür den jungen Händler war dieses Gespräch nur eine weitere Gelegenheit, seinen großen Geschäftsplan vorzustellen und seinen Geschäftssinn unter Beweis zu stellen.\nAber für den jungen „Andersdenkenden“ öffnete dieses Gespräch ein Fenster zu einer Welt, die er zuvor noch nie gesehen hatte.\n„Lass es mich so sagen, mein Freund. Es klingt verrückt, das weiß ich, aber ich bin in Wahrheit einer der Erben eines riesigen Familienunternehmens, und ich habe einen mutigen Geschäftsplan!“ Medyntsevs Stimme wurde vor Aufregung lauter. „Sobald ich das durchziehe, fällt mir das gesamte Unternehmen direkt in die Hände! Wenn dieser Tag kommt, werde ich endlich meine großen Pläne verwirklichen können, hahaha!“\n„Also ... Wenn das Geschäft in deinen Händen ist, was hast du dann vor?“\n„Äh, ich ...“ Medyntsev zögerte.\nNatürlich war das nicht das erste Mal, dass Alyosha diese Frage gestellt hatte.\nEr hatte sich das schon vor langer Zeit gefragt: Sobald Projekt Stuzha aufgehalten und die Schneestürme weggeschmolzen waren, welche Zukunft erwartete Snezhnaya dann?\nAber er selbst hatte keine richtige Antwort darauf gefunden.\nDa Medyntsev jahrelang auf der Straße überlebt hatte, tat er es schnell mit einem Lachen ab. Dies brach die unangenehme Stille zwischen ihnen. „... Ehrlich, mein Freund, wenn du die Chance hast, musst du unbedingt Mondstadt besuchen! Lass dich von der Entfernung nicht abschrecken. Sobald du dort bist, wirst du sehen, dass ich recht habe! Wenn wir ihren Alkohol nach Snezhnaya bringen, machen wir ein riesiges Vermögen!“\n„Hm, wenn das Eis und der Schnee schmelzen, werde ich hingehen ...“\nIn seinem Herzen fügte Alyosha dem Plan mit dem Titel „Ideale verwirklichen“ einen neuen möglichen Schritt hinzu:\nWenn ich die Chance bekomme, ins Ausland zu reisen, sollte mein erstes Ziel Mondstadt sein.\nNicht nur, weil es dort die Taverne „Zum Katzenschwanz“ gibt – man sagt, dort versammeln sich die besten Kartenbeschwörer ganz Teyvats – sondern auch, weil es ein freies und warmes Land ist.\nIch will seine Vergangenheit und Gegenwart sehen. Vielleicht finde ich dadurch ja eine anständige Antwort für Snezhnyas Zukunft."
       },
       {
@@ -1139,7 +1150,7 @@
         "Context": "Wie so viele Menschen in Snezhnaya strebte dieser Welpe nach einem Ideal, das nicht schlichter hätte sein können:\nGenug zu essen und ein warmes Zuhause.\nDoch in einer Zeit, in der selbst die Menschen kaum für sich selbst sorgen können, ist dieses Ideal ein Luxus.\nDie Realität, die vor ihm lag, war nur diese: Verlassen in der Schneewüste zusammengekauert und still auf den Tod warten.\nIn dieser Situation konnte auch Alyosha, der zufällig vorbeikam, nicht viel tun. Er zog nur die letzten zwei Würstchen aus seiner Tasche, ging in die Hocke, riss sie beiläufig in Stücke und warf sie neben seine Pfoten.\nUnd als der Welpe wieder etwas zu Kräften gekommen war und um ihn herumsprang, ihm folgen wollte, stand er erbarmungslos auf und ging.\nEr wusste genau, dass seine Rationen kaum ausreichten, um ein Haustier zu versorgen. Und außerdem hatte er diesmal einen äußerst gefährlichen Auftrag ...\nSeinen Beobachtungen zufolge trieb sich in letzter Zeit ein menschenfressender riesiger Bär auf der Schneeebene herum.\nUm das Fell so unversehrt wie möglich zu erhalten und die Anzahl der Schüsse zu verringern, versteckte sich Alyosha in einer Schneehöhle. Er nutzte sich selbst als Köder und wartete still darauf, dass die Beute anbiss.\nDoch abgesehen von dem riesigen Bären, den Alyosha zu jagen beabsichtigte, tauchte noch ein ungebetener „Gast“ auf ...\nDer kleine Hund schien seine Ausdauer vollständig wiederhergestellt zu haben. Er war Alyoshas Geruch gefolgt und hatte ihn den ganzen Weg hierher aufgespürt.\n„Tss, das ist jetzt ungünstig ...“\nIn dem Moment, als der riesige Bär sich Alyosha näherte, zögerte der kleine Hund keine Sekunde. Er bellte sofort mit seiner noch jungen Stimme – hastig und schrill.\nDas Gebell lenkte die Aufmerksamkeit des Bären um. Als er dem Jäger seinen massigen Rücken zuwandte, verpasste Alyosha den richtigen Winkel für einen tödlichen Schuss.\nDoch in dem Moment, als der Bär sich umdrehte und auf den kleinen Hund losstürzte, drückte Alyosha beinahe wie von Geisterhand den Abzug – ohne auch nur eine Sekunde darüber nachzudenken.\nEin schrilles Pfeifen aus dem Lauf und dann ein dumpfer Schlag erklangen, als die Kugel durch Fleisch und Knochen des Tiers brach. Der Riesenbär stieß einen ohrenbetäubenden Schmerzensschrei aus, ergriff dann instinktiv die Flucht und verschwand im Schnee.\nAlyosha wusste genau, dass dieser Schuss ein Organ des Riesenbären getroffen hatte. Ein Folgeangriff würde das Tier mit Sicherheit endgültig zur Strecke bringen können.\nDoch er blieb an Ort und Stelle, kalkulierte die möglichen Risiken eines Folgeangriffs und auch die möglichen Verluste ...\nAber der kleine Hund brauchte nicht zu rechnen. Seine Welt war einfach.\n... Das riesige Biest, das seinen Wohltäter jagen wollte, war verscheucht worden. Er musste es nun aber weiter verfolgen und so weit wie möglich wegtreiben.\n„Das lohnt sich doch nicht ...“\nObwohl widerwillig, folgte Alyosha dennoch. Er jagte dem schwarz-weißen Schatten hinterher, der blitzschnell davonhuschte.\nNach etwa so viel Zeit, wie man für ein paar Tassen Tee braucht, holte Alyosha den kleinen Hund endlich ein. Dieser stand auf dem Riesenbären, der sich bereits nicht mehr rührte. Der Welpe hechelte noch immer heftig, seine Brustkorb hob und senkte sich rasch mit jedem Atemzug.\nDoch als er Alyoshas Schritte bemerkte, hob er sofort den Kopf und wedelte aufgeregt mit seinem kurzen Schwanz, der wie ein Wollknäuel aussah.\nSein aufgeregtes, triumphierendes Gehabe wirkte, als hätte er tatsächlich seinen Wohltäter erfolgreich beschützt und ganz allein einen Riesenbären totgebissen, dessen Körperlänge fast das Zehnfache seiner eigenen betrug.\nUnd sein entschlossener Blick schien nun zu verkünden, dass er dem Jäger stets folgen und ihn beschützen würde.\nNach langem Hadern gab Alyosha schließlich nach.\n„Na gut, du hast recht. Ein Jäger braucht schließlich auch einen Jagdhund ... Wenn das so ist, sollte ich dir wohl einen Namen geben ...“\n„Wuff?“\n„... Dann nenne ich dich ‚Tugarin‘. Hoffentlich wirst du noch etwas größer, damit du deinem Ruf als Bärenhund gerecht wirst.“\n„Wuff!“"
       },
       {
-        "Title": "",
+        "Title": "Göttliches Auge",
         "Context": "In den Tagen nach dem Besuch des Fremden hatte sich Alyoshas Leben nicht sonderlich verändert. Er verbrachte nach wie vor den Großteil seiner Zeit in der Wildnis und spielte die Rolle, die er schon immer gespielt hatte.\nDoch hätte jemand aufmerksam die Schüsse in der Schneewüste gezählt, so wäre ihm aufgefallen: Die Häufigkeit, mit der jener „Jäger“ den Abzug betätigte, war deutlich gesunken.\nSelbst mit fester Entschlossenheit, selbst im Wissen um die Notwendigkeit des Jagens um zu töten, selbst längst vertraut mit dem Zielen und dem Zielsein – Alyosha empfand nach wie vor tiefe Abscheu gegenüber Blut.\nVor allem, nachdem er die Informationen der Rokot erhalten hatte.\nDie zahlreichen Geheimnisse rund um das „Projekt Stuzha“ bestätigten seine langjährige Vermutung: Das größte Problem dieses Landes waren weder die skrupellosen Banden, noch die zahllosen Verbrecher oder die gierigen Beamten, die das Land Stück für Stück auffraßen.\nSie waren nichts weiter als Begleiterscheinungen, die von dieser bitteren Kälte und dem ewigen Eis hervorgebracht wurden.\nSolange die Ursache nicht beseitigt war, würden diese sogenannten kleinen Unannehmlichkeiten immer wieder aufs Neue hervorbrechen.\nSelbst um einen Jagdhund abzurichten, muss man ihn satt füttern und mit Trockenfleisch als Belohnung locken. Wie viel schwerer ist es dann erst, das unersättliche menschliche Herz zu befriedigen?\nAber wenn dem so war ... Hatte er seine Waffe dann auf das falsche Ziel gerichtet? War das Blut, das er vergossen hat, womöglich vergebens gewesen?\nWann immer er in solches Grübeln verfiel, wurde sein sonst so klares „Sichtfeld“ – jene Augen, die selbst in tosendem Schneesturm ihre Beute mit Präzision erspähen konnten – ein wenig trüb und unklar.\nUnd so begann Alyosha zu zögern. Solange die Wegelagerer und Banditen bereit waren, das Diebesgut zurückzugeben, ließ er Gnade walten, wenn sie darum flehten – selbst wenn sie bereits gegen die eiserne Regel verstoßen hatten, kein „Vögelchen“ anzurühren.\nDoch die Bestien verstanden keine Gnade. In ihren Augen war Zurückhaltung nichts als ein Zeichen der Schwäche. Und mit jedem Mal, dass Alyosha den Lauf seiner Waffe abwandte, rückte die Krise näher – bis sie schließlich vollends losbrach.\nEs war eine sorgfältig geplante Falle. Als Alyosha hinter seiner Deckung hervortrat, um wieder mal eine Plünderung zu unterbinden, legten die am Boden knienden und um Gnade flehenden „Bestien“ und die panisch schreienden „Vögelchen“ gleichzeitig ihre Tarnung ab und bleckten geschlossen ihre Reißzähne in sein Gesicht.\nUnter dem zermürbenden Feuer von allen Seiten schwand Alyoshas Kraft allmählich immer mehr ...\nEr war mit seiner Ausdauer am Ende und im Patronengurt steckten nur noch wenige, einsame Kugeln.\nHinter einer von Löchern übersäten Deckung versteckt, schob er Tugarin den letzten Brocken Trockenfleisch in den Mund:\n„Tugarin, mach dich bereit zur Flucht.“\nGenau in diesem Moment eröffnete eine wilde Salve eine Lücke inmitten der ihn umzingelnden Feinde.\nAlyosha nutzte diesen kurzen Moment der Verwirrung und entkam der ausweglosen Lage.\nIn der Ecke, aus der die Salve gekommen war, erblickte er denjenigen, der mit geschlossenen Augen wild um sich geschossen und dabei unbeabsichtigt eben jene Lücke entstehen lassen hatte – eine Gestalt, die ihm nur allzu vertraut war: Taras.\nAlyosha wusste, dass dieser Mann, der nicht einmal eine Waffe ruhig halten konnte, sich längst in der Stadt niedergelassen hatte. Er führte ein normales Leben. Er hatte keinen Grund, sich jemals wieder irgendeiner Gefahr auszusetzen.\nUnd trotzdem war er hier – mit zitternden Beinen.\nTaras keuchte schwer. Es schien ihm nicht leicht zu fallen, so etwas zu sagen: „Die Leute ... Sie alle brauchen dich noch ...“\nAls Alyosha den Mann vor sich sah, der zitterte wie Espenlaub und dennoch den Gewehrlauf fest umklammert hielt, lichtete sich der trübe Nebel in seinem Herzen mit einem Schlag.\nWenn man die Wurzel der Krankheit dieses Landes nicht erreichen kann, dann ist zielloser Kampf und sinnloses Blutvergießen tatsächlich bedeutungslos ...\nAber gegen das Böse der Vernichtung vorzugehen und die Menschen zu beschützen, die noch nicht gefallen sind, ist die Voraussetzung für das große Ideal, „dass alle satt werden und niemand Kugeln aufeinander abfeuern muss“.\nWar diese Läuterung von Taras nicht der beste Beweis dafür?\nSeine stets klare „Sicht“ war zurückgekehrt.\nFür diesen Wunsch war er bereit, sich mit Blut zu beflecken. Er war bereit, sich dem heulenden Sturm anzuschließen, um Bestien und bitterkaltes Eis zu zerreißen – und sollte der Sturm vom Kurs abkommen, so war er jederzeit bereit, seine Waffe auf den Sturm selbst zu richten.\nMit dem dünnen Antragsformular in der Hand traf sich Alyosha erneut mit jener Person, deren Identität nach wie vor ein Rätsel blieb.\n„Ich kann euch beitreten, aber ich garantiere nicht, dass ich euren Befehlen folge.“\n„Kein Problem, das ist ohnehin die Philosophie unserer Rokot. Was du tun willst, steht dir frei.“ Als hätte er das kleine Ding an Alyoshas Hüfte bemerkt, das einen reinen, sanften Schimmer ausstrahlte, huschte ein bisher selten gesehenes Lächeln über das Gesicht des Mannes: „Außerdem, rein unter uns gesprochen ... freue ich mich umso mehr auf deine eigenen Entscheidungen.“\nUnd so mischte sich in den heulenden Sturm ein Hauch, der blitzschnell wie der Donner vorbeizog ..."
       }
     ]

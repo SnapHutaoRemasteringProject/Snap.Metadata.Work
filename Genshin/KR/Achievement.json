@@ -7871,6 +7871,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80515,
+    "Goal": 69,
+    "Order": 474,
+    "PreviousId": 0,
+    "Title": "겨울의 모험가·첫 번째",
+    "Description": "영구 동토, 고대 야수 벌판, 화염깃 골짜기, 하얀 자작나무 무덤, 서리 마루에서 월드 타임어택 도전 6개 클리어하기",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 6,
+    "Icon": "UI_AchievementIcon_A026",
+    "Version": "7.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80516,
     "Goal": 69,
     "Order": 475,

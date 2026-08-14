@@ -36,7 +36,15 @@
         "GroupId": 15031,
         "Proud": {
           "Descriptions": [
-            "SCH heftiger Schläge|{param7:F1P}"
+            "SCH Phase 1|{param1:F1P}",
+            "SCH Phase 2|{param2:F1P}",
+            "SCH Phase 3|{param3:F1P} + {param4:F1P}",
+            "SCH Phase 4|{param5:F1P}",
+            "SCH Phase 5|{param6:F1P}",
+            "SCH heftiger Schläge|{param7:F1P}",
+            "Ausdauerverbrauch heftiger Schläge|{param8:F1} Punkte",
+            "SCH beim Fallen|{param9:F1P}",
+            "SCH beim Fallen aus niedriger/großer Höhe|{param10:P}/{param11:P}"
           ],
           "Parameters": [
             {
@@ -307,6 +315,7 @@
         "GroupId": 15032,
         "Proud": {
           "Descriptions": [
+            "Fähigkeits-SCH|{param1:F1P}",
             "Fortlaufender SCH durch „Finale bei Tagesanbruch“|{param2:F1P}",
             "SCH durch Stellar-Supraleiter/Stellar-Verwirbelung bei „Finale bei Tagesanbruch“|{param3:P}/{param4:P}",
             "SCH durch „Federstreich“-Schritt|{param5:F1P}",
@@ -617,10 +626,13 @@
       "GroupId": 15039,
       "Proud": {
         "Descriptions": [
+          "Schwerthieb-SCH|{param1:F1P} ×3",
           "SCH des letzten Hiebs|{param2:F1P}",
           "SCH-Bonus von Stellarfunkeln-Reaktion bei „Traum der Schneeschwänin“|{param3:F1P}",
+          "#Dauer von „Traum der Schneeschwänin“|{param4:F1}{NON_BREAK_SPACE}s",
           "#Dauer von Solotanz-Schatten|{param5:F1}{NON_BREAK_SPACE}s",
-          "Abklingzeit|{param6:F1} s"
+          "Abklingzeit|{param6:F1} s",
+          "Elementarenergie|{param7:I}"
         ],
         "Parameters": [
           {
@@ -1009,7 +1021,7 @@
         "Context": "Wenn ein Tag doch nur doppelt so viele Stunden hätte ... Hmm. Eigentlich besser gleich das dreimal so viele."
       },
       {
-        "Title": "",
+        "Title": "Wenn es regnet ...",
         "Context": "Das Plätschern der Regentropfen gibt mir immer ein so friedliches Gefühl. Dieses Wetter ist perfekt, um ganz alleine zu tanzen."
       },
       {
@@ -1017,11 +1029,11 @@
         "Context": "Die schönsten und friedlichsten Momente vergehen immer am schnellsten."
       },
       {
-        "Title": "",
+        "Title": "Wenn es schneit ...",
         "Context": "Der Schnee in Snezhnaya ist immer bitterkalt und er scheint nie aufzuhören."
       },
       {
-        "Title": "",
+        "Title": "Ein Sturm zieht auf.",
         "Context": "Meine Haare ... Ich richte sie später."
       },
       {
@@ -1029,7 +1041,7 @@
         "Context": "... Zumindest würde es an so einem Ort kein Kennenlerntreffen geben."
       },
       {
-        "Title": "",
+        "Title": "Guten Morgen.",
         "Context": "Ich bin aufgewärmt und startklar."
       },
       {
@@ -1041,7 +1053,7 @@
         "Context": "Oh, ist es schon Zeit fürs Abendessen? Ich muss gleich auf die Bühne, also esse ich nur ein hartgekochtes Ei. Ich hole mir noch was anderes, sobald die Aufführung vorbei ist."
       },
       {
-        "Title": "",
+        "Title": "Gute Nacht.",
         "Context": "... Missionen abgeschlossen, Trainingspensum erfüllt, neue Choreografie komplett durchgeprobt. Mit meinem Gesichtsausdruck bin ich aber noch nicht zufrieden. Ich muss noch etwas vor dem Spiegel üben ... Oh, ist es schon so spät? Du kannst gerne schon schlafen gehen. Ich habe noch etwas zu erledigen."
       },
       {
@@ -1065,11 +1077,11 @@
         "Context": "Einmal erlitt ich beim harten Training durch extreme Kälte Erfrierungen an Füßen und Beinen. Ich wurde fast komplett ohnmächtig. Als ich wieder zu mir kam, sah ich zuerst ein helles Licht. Es kam vom „Sternenkeil“ vor mir. Aber ich habe noch nie gehört, dass „Sternenkeile“ jemanden so aufwecken können. Wenn mich das also nicht aufgeweckt hat ... War es dann vielleicht ein instinktiver Wille zum Überleben ...?"
       },
       {
-        "Title": "",
+        "Title": "Willst du mir etwas mitteilen?",
         "Context": "Ich nehme jede Probe genauso ernst wie einen echten Auftritt."
       },
       {
-        "Title": "",
+        "Title": "Interessante Vorkommnisse ...",
         "Context": "Du kannst die Süße von Raureifbeeren hervorheben, indem du sie mit ein wenig Speisesalz bestreust. Angeblich hilft der Kontrast dabei, ihre innere Süße zu verstärken. Das habe ich von einem Fan gehört."
       },
       {
@@ -1165,15 +1177,15 @@
         "Context": "Das ist nur ein Gericht? Es sieht eher aus wie ... Essen für einen ganzen Tag."
       },
       {
-        "Title": "",
+        "Title": "Geschenk erhalten III",
         "Context": "Ähm, nein danke. Ich achte darauf, was ich esse."
       },
       {
-        "Title": "",
+        "Title": "Dein Geburtstag ...",
         "Context": "Alles Gute zum Geburtstag! Ich habe überlegt, was ich dir schenken könnte ... Meistens bekomme ich Blumen, Ballettschuhe und Spieluhren. Aber das ist wohl nichts für dich. Wie wäre es, wenn du dir einfach etwas wünschst ... Hier und jetzt? Am besten natürlich etwas, das ich dir auch erfüllen kann ..."
       },
       {
-        "Title": "",
+        "Title": "Gedanken über den Aufstieg – Beginn",
         "Context": "Hm, noch nicht ganz ... Ich muss noch härter trainieren."
       },
       {
@@ -1185,7 +1197,7 @@
         "Context": "Meine Fouettés sind jetzt perfekt. Aber jetzt ist nicht die Zeit, nachzulassen."
       },
       {
-        "Title": "",
+        "Title": "Gedanken über den Aufstieg – Ende",
         "Context": "„Gefühle sind ein unverzichtbarer Teil des Balletts.“ Ich verstehe jetzt, was das bedeutet. Danke für deine treue Begleitung und Unterstützung. Wenn du Lust hast, heute noch zu meiner Aufführung zu kommen, ist hier eine Eintrittskarte."
       },
       {
@@ -1193,7 +1205,7 @@
         "Context": "Fangen wir an."
       },
       {
-        "Title": "",
+        "Title": "Elementarfähigkeit II",
         "Context": "Beschatte mich."
       },
       {
@@ -1201,19 +1213,19 @@
         "Context": "Zusammen."
       },
       {
-        "Title": "",
+        "Title": "Elementarfähigkeit IV",
         "Context": "Pas de deux."
       },
       {
-        "Title": "",
+        "Title": "Elementarfähigkeit V",
         "Context": "Pirouette."
       },
       {
-        "Title": "",
+        "Title": "Elementarfähigkeit VI",
         "Context": "Hehe."
       },
       {
-        "Title": "",
+        "Title": "Spezialfähigkeit I",
         "Context": "Walzer der Schneeflocken."
       },
       {
@@ -1229,7 +1241,7 @@
         "Context": "Ich brauche nichts davon. Behalte es."
       },
       {
-        "Title": "",
+        "Title": "Truhe öffnen II",
         "Context": "Eine Reise ist wie Tanztraining – jeder Schritt zählt."
       },
       {
@@ -1241,11 +1253,11 @@
         "Context": "Keine Sorge."
       },
       {
-        "Title": "",
+        "Title": "Niedrige LP II",
         "Context": "Nur ein Kratzer."
       },
       {
-        "Title": "",
+        "Title": "Niedrige LP III",
         "Context": "Geht noch."
       },
       {
@@ -1253,7 +1265,7 @@
         "Context": "Alles in Ordnung?"
       },
       {
-        "Title": "",
+        "Title": "Verbündeter hat niedrige LP II",
         "Context": "Lass uns wechseln."
       },
       {
@@ -1261,7 +1273,7 @@
         "Context": "Ich hätte ... mich mehr ... anstrengen sollen ..."
       },
       {
-        "Title": "",
+        "Title": "Ohnmächtig II",
         "Context": "Nein. Ich ... muss ... aufstehen ..."
       },
       {
@@ -1277,7 +1289,7 @@
         "Context": "Streng dich mehr an."
       },
       {
-        "Title": "",
+        "Title": "Schweren Treffer erlitten I",
         "Context": "Ist das alles?"
       },
       {
@@ -1285,15 +1297,15 @@
         "Context": "Sollte das wehtun?"
       },
       {
-        "Title": "",
+        "Title": "Truppenbeitritt I",
         "Context": "Stehe bereit."
       },
       {
-        "Title": "",
+        "Title": "Truppenbeitritt II",
         "Context": "Soll ich ins Rampenlicht treten?"
       },
       {
-        "Title": "",
+        "Title": "Truppenbeitritt III",
         "Context": "Wohin geht’s dieses Mal?"
       }
     ],
@@ -1303,7 +1315,7 @@
         "Context": "Wenn man in anderen Ländern das Wort „Tänzerin“ erwähnt, denken die Menschen stets an eine warmherzige Gestalt – als wäre sie ein heilsames Licht auf der langen Reise des Lebens.\nDoch in Snezhnaya denken die meisten beim Wort „Tänzerin“ zuerst an eine eisige Silhouette.\nAls Primaballerina der Korolevskiy-Theaterkompanie zeigt Odette Spessiva auf Werbeplakaten stets denselben Ausdruck: ein gleichgültiger Blick, leicht zusammengepresste Lippen – wie eine Statue, überzogen von einem Hauch Frost.\nIm scharfen Kontrast dazu steht die glühende Verehrung ihrer Anhänger. Der Grund ist einfach: eine makellose Figur, kühle, spannungsgeladene Darbietungen – jeder Schritt, jede Handbewegung so präzise wie die Facette eines geschliffenen Edelsteins, die ein atemberaubendes Feuer bricht.\nNiemand kann die Mühe ignorieren, die hinter einer solchen Haltung steckt. Sobald Odette die Bühne betritt, verstummen alle Zweifel im Nu.\nNach dem Schlussapplaus gibt sie nur selten Zugaben. Selbst wenn Fans ihr Blumen schenken und sie überschwänglich loben, fällt ihre Antwort stets äußerst knapp aus:\n„Mhm. Danke für die Unterstützung. Auf Wiedersehen.“\nDas ist aber keine bewusst hochmütige Haltung ihrerseits. Hinter der hell erleuchteten Bühne warten einfach noch andere Pflichten auf sie. Ihr Leben gleicht dem vollgeschriebenen Kalender an der Wand – kein einziger freier Fleck, den sie für sich selbst beanspruchen könnte.\nWenn man in tiefer Nacht eine lautlose Gestalt vorbeihuschen sieht, so leichtfüßig, dass sie kaum ein gewöhnlicher Mensch sein kann, sollte man der Neugier besser nicht nachgeben. Schließlich sind die Schneenächte in Snezhnaya einfach nur bitterkalt. Anständige Bürger schlafen um diese Zeit in ihren Betten. Wer dann noch unterwegs ist, der trägt wohl eine besondere Aufgabe mit sich.\nDoch am nächsten Morgen erscheint Odette pünktlich im Tanzsaal des Theaters. Manchmal dringt leise Musik heraus, manchmal nur das gedämpfte Klopfen der Zehenspitzen auf dem Boden. Die Spiegelwand reflektiert ihre Silhouette, wie sie immer wieder das Bein hebt und senkt – präzise wie ein Metronom.\nWenn das Morgenlicht heller wird und die anderen Ensemblemitglieder die Tür öffnen, steht ihnen oft das Staunen ins Gesicht geschrieben –\nWar die Primaballerina etwa gar nicht zu Hause?"
       },
       {
-        "Title": "",
+        "Title": "Figurenhintergrund 1",
         "Context": "Am Ende jeder Saison der Korolevskiy-Theaterkompanie von Snezhnaya füllten sich die Kulturseiten der großen Zeitungen stets mit leidenschaftlichen Kommentaren über Odette, die Primaballerina des Ensembles.\n„Perfektion, zu eisigem Glanz poliert.“ Eine Kulturzeitung wiederholte diese Einschätzung so oft, dass es bald nicht mehr wie eine Kritik klang, sondern zu dem Beinamen wurde, unter dem man sie fortan kannte.\nTripolev, einer der bekanntesten Kritiker aus Snezhnaya, formulierte eine noch bildhaftere Bewertung. „Odette“, schrieb er, „tanzt wie ein perfekt geschliffener Dolch, der sauber durch die Luft schneidet. Das Publikum kann nur die Schönheit seiner Klinge und die Genauigkeit seiner Bewegungen bestaunen, weiß aber ganz genau, dass man besser nicht danach greifen sollte.“\nFür eine andere Tänzerin wäre ein solches Lob vielleicht eine stille Belastung gewesen. Das Publikum bewundert zwar Schönheit, am schnellsten schließt es jedoch jene Schönheit ins Herz, die warm, poetisch und emotional nahbar wirkt. Schönheit ist am leichtesten zu verstehen, wenn sie bereit scheint, dem Zuschauer auf halbem Weg entgegenzukommen.\nOdette jedoch bot keine solche Einladung. Von der Leidenschaft und den Gefühlen, die das Publikum so gerne in ihr gesehen hätte, zeigte sie absolut nichts – nicht einmal das herzliche Lächeln, das man am Ende der Vorstellung erwartet.\nAbgesehen von den Gesichtsausdrücken, die ihre Rolle verlangte, blieb ihr Gesicht immer kühl und zurückhaltend, egal ob in der Öffentlichkeit oder privat.\nAll ihre Kraft schien in die Perfektion ihrer Kunst geflossen zu sein. Sie verlangte extrem viel von sich selbst. Das übertraf bei Weitem das, was man selbst von einer Primaballerina erwartete, und das Ergebnis sprach für sich. Wozu war sie sonst noch verpflichtet? Gefühle vorzutäuschen, nur um dem Publikum zu gefallen, gehörte sicher nicht zu den Pflichten einer Solotänzerin. Odette jedenfalls glaubte das nicht.\nEs mangelte nicht an Geschichten über sie.\nEine der bekanntesten handelt von einem Adligen, der ein kleines Vermögen bezahlte, um eine ganze Reihe erstklassiger Sitze zu reservieren. Nach der Aufführung wartete er, stand ganze zwei Stunden an der Bühnentür, mit einem riesigen Strauß eisblauer Blumen im Arm. Doch am Ende erschien nicht Odette, sondern stattdessen erreichte ihn eine Nachricht vom Theaterpersonal: „Fräulein Odette hat das Theater bereits durch den Seiteneingang verlassen.“\nEin weiterer Bewunderer schrieb einen zehnseitigen Brief voller Hingabe. Odette antwortete mit denselben Worten, wie immer: „Vielen Dank für deine Unterstützung.“ Hätte die Handschrift nicht genau zu ihrer Unterschrift gepasst, hätte jeder gedacht, dass jemand anderes die Antwort geschrieben hätte.\nDann war da dieser betrunkene Bewunderer, der den Eingang des Theaters blockierte und wirr auf Odette einredete. Er wollte über den Einfluss des Balletts auf Snezhnaya diskutieren. Sie wich ihm nicht aus. Sie blieb einfach stehen und sah ihn an ... Ein Zeuge berichtete später: „Er stand einige Sekunden lang wie erstarrt da und murmelte dann etwas vor sich hin. Es war, als hätte man Eiswasser über ihn geschüttet. Dann drehte er sich um und ging weg.“\n...\nOdette beschönigte weder ihre Gefühle, noch milderte sie die harte Realität des Lebens ab. In ihrer Stärke lag keine Falschheit. Klar und wahrhaftig besaß sie dieselbe kalte Entschlossenheit und sture Ausdauer wie der gefrorene Boden unter ihren Füßen, eine Eigenschaft, die bei den Menschen in Snezhnaya großen Anklang fand.\nIhre Art blieb unverändert, distanziert wie eh und je. Doch die Warteschlange vor dem Theater schwand genauso wenig, wie der Schnee aufhörte zu fallen."
       },
       {
@@ -1315,7 +1327,7 @@
         "Context": "Als Odette geboren wurde, war der Ruhm der Familie Spessiva schon lange verblasst. Wenig war davon übriggeblieben, außer ein paar vergilbten Porträts an den Wänden des alten Hauses, von denen jedes stolz einen berühmten Vorfahren zeigte. Sie alle hatten einst auf der großen Bühne ihr Können unter glanzvollen Beweis gestellt. Ihre Mutter Violetta hatte erst kürzlich eine Nebenrolle bekommen, ein sehr wichtiger Auftritt in einem bekannten Ballett. Und gedanklich war sie sogar schon bei der Hauptrolle. Wenn dieser Tag nur endlich käme, würde sie ihr eigenes Bild aufhängen. So lautete ihr entschlossener Plan. Als hätte sie diese Gedanken gehört, weinte die kleine Odette plötzlich. Sie trug noch Windeln, und protestierte lautstark aus voller, kleiner Kehle.\n„Oh, verzeih mir, Odette.“ Violetta lächelte und stupste ihrer Tochter sanft auf den Nasenrücken. „Natürlich wirst du auch auf dem Bild sein ... Besser noch, wir lassen ein Familienporträt machen, auf dem wir alle zu sehen sind.“\nStampf, stampf, stampf ... Die schweren, gleichmäßigen Schritte von Militärstiefeln ertönten vor der Tür. Ein Signal, dass nur für dieses Haus allein galt. Violetta wusste noch im gleichen Moment, wer da gekommen war: Ihr Mann stand noch auf der Schwelle, als er den Schnee von seinen Stiefeln abklopfte, als sie ihm bereits mit einem Lächeln entgegenging.\nDas alte Haus war zu groß, um es richtig warm zu halten. Das Feuer im Kamin brannte nur schwach und die Heizung kam gegen die Kälte nie ganz an. Doch wenn sie sich in den Armen hielten, fand die Familie all die Wärme, die sie brauchte.\nAls Odette älter wurde, wurde ihr dieser Rhythmus so vertraut wie das Gesicht ihres Vaters. Stampf, stampf, stampf ... Das bedeutete Abendessen, Geschichten und die ruhige Gewissheit, dass die kommende Nacht friedlich verlaufen würde.\nOdettes Vater war Soldat. Er verstand nur sehr wenig von der Kunst. Er roch stets nach Leder und Schießpulver, deren Duft sich oft mit einem Hauch der eisigen Luft von draußen mischte. Trotzdem war niemand in der Familie ein begeisterterer Zuschauer als er. Wann immer Violetta übte, zog er sich einen Stuhl in die Ecke und sah ihr dann ruhig zu. Ab und zu versuchte er, der Musik mit seinem Fuß zu folgen, aber sein Tippen traf dabei selten den Takt. Violetta lachte und nannte ihn „den Mann mit dem schlechtesten Taktgefühl in ganz Snezhnaya“. Er widersprach ihr nie, sondern grinste nur vor sich hin: „Aber ich klatsche am besten in ganz Snezhnaya.“\nDas stimmte zumindest. Egal, ob Violetta ein richtiges Stück tanzte oder nur eine Melodie summte und dabei improvisierte, er belohnte sie am Ende stets mit tosendem Applaus, der fröhlich war und von Herzen kam. Das laute Klatschen scheuchte die Vögel vom Fensterbrett auf und brachte die kleine Odette lauthals zum Lachen.\nSie war noch zu jung zum Tanzen. Stattdessen rutschte sie auf ihren Socken über den Boden oder stellte sich auf die Militärstiefel ihres Vaters, während dabei beide Hände seine Finger umschlossen. Wenn er einen Schritt machte, folgte sie ihm und tapste wie ein kleines Vögelchen, das noch unsicher auf den Beinen war.\n„Siehst du?“, sagte ihr Vater immer zu Violetta. „Wir haben unseren ganz eigenen kleinen Schneeschwan.“\n„Wir haben höchstens ein kleines Entlein“, antwortete Violetta lachend. „Schneeschwäne halten den Rücken gerade.“\nSofort hockte sich ihr Vater neben Odette, berührte ihren Rücken leicht mit zwei Fingern und sagte: „So ist es richtig. Rücken gerade, kleiner Schneeschwan.“\nBald wurde aus dem Spiel echter Unterricht. Violetta begann, Odette mit aller Sorgfalt die Grundlagen beizubringen: Dehnen, Tendus, Petits Battements. Allesamt sehr langweilige Übungen für Anfänger, die immer und immer wieder wiederholt wurden, hundertmal und dann nochmal hundertmal. Als Lehrerin duldete Violetta absolut keine Kompromisse. Ein falsch gesetzter Fuß bedeutete, dass man von vorne anfangen musste. Verhandlungsspielraum gab es nicht. Manchmal wurden Odettes Augen vor lauter Anstrengung rot, doch dann presste sie die Lippen stur zusammen und zog ihr Training einfach durch.\nAber am Ende jeder Übungseinheit wartete doch immer wieder ihr Vater in der Tür.\n„Na? Was hat meine kleine Tänzerin heute gelernt?“\nOdette wiederholte die neuen Bewegungen für ihn, so gut sie konnte, auch wenn sie dabei noch etwas schief und wackelig unterwegs war. Sie hatte sie ja gerade erst gelernt. Ob sie es nun gut oder schlecht machte, war völlig egal. Seine Reaktion war immer die gleiche: Zuerst kam der Applaus, laut und feierlich. Dann ging er in die Hocke, bis sie auf Augenhöhe waren.\n„Wunderbar“, verkündete er voller Ernst in der Stimme. „Eines Tages wird meine Tochter eine Primaballerina sein.“\nViolettas Gesicht entspannte sich endlich, als sie ihren Kopf leicht an die Schulter ihres Mannes lehnte, sie lächelte. Odette war noch zu jung, um zu verstehen, was es bedeutete, eine Primaballerina zu werden. Doch sie sah den Stolz, der ihrem Vater ins Gesicht geschrieben stand, als er das sagte, und sie sah auch das stille, hoffnungsvolle Lächeln in Mutters Ausdruck. Sie selbst hatte es zwar nicht gemerkt, aber der erste kleine Samen eines Traums war zu diesem Zeitpunkt in ihr Herz gepflanzt worden."
       },
       {
-        "Title": "",
+        "Title": "Figurenhintergrund 4",
         "Context": "Odette hatte einmal geglaubt, dass ihr warmes, friedliches Leben immer so weitergehen würde wie bisher.\nDann, eines Tages, blieben die Schritte ihres Vaters aus. Sie wartete den ersten Tag, dann den zweiten, dann den dritten ... Aber als das Geräusch von Militärstiefeln schließlich das Haus erreichte, waren es nicht seine Schritte.\nZwei Fatui-Soldaten standen mit ernsten Mienen an der Türschwelle und legten Violetta einen Brief in die Hände. Die Tänzerin, die ihren Körper für gewöhnlich perfekt unter Kontrolle hatte, konnte nun dem Zittern ihrer Finger keinen Einhalt gebieten, als sie den Brief auffaltete. Neben ihr stand Odette und stellte sich ängstlich auf die Zehenspitzen, um einen Blick auf die Worte zu erhaschen. Ihre Augen konnten nur eine einzige Zeile erwischen; ein einfacher Satz, von dem sie sich jahrelang wünschte, ihn nie gelesen zu haben.\nDas Haus war in dieser Nacht völlig still, als wäre ihm jedes Geräusch genommen worden. Am nächsten Morgen kehrte Violetta in den Proberaum des Theaters zurück und nahm ihre Routine wieder auf. Dann kam der dritte Tag und danach der vierte ...\nWährend der Aufführung sah Odette von unterhalb der Bühne, wie ihre Mutter zusammenbrach. In ihrer Verzweiflung sagte sie sich erst, dass das sicherlich Teil der Vorstellung sei, denn schließlich verlor Violetta sonst niemals die Kontrolle. Vielleicht war dieser Sturz ja also vorher geprobt? Oder vielleicht befand sie sich ja auch immer noch in einem Traum? In einem Albtraum, aus dem sie nie erwacht worden war? Dann aber senkte sich der schwere Vorhang in Windeseile und hinter der Bühne brach das pure Chaos los. Inmitten dieses Durcheinanders erhaschte Odette noch einen kurzen Blick auf das Gesicht ihrer Mutter: Ihr einstiges Strahlen war nun völlig verschwunden und einzig einer tödlichen Blässe gewichen.\nAls die Behandlung beendet war, sprach der Arzt mit leisem Bedauern in der Stimme. Violettas Verletzungen würden mit der Zeit heilen, aber selbst dann würde sie wahrscheinlich nie wieder die schwierigsten Schritte tanzen können.\n...\nIn den Tagen danach veränderte sich das Haus. Der Stuhl ihres Vaters wurde weggeschoben und verschwand in einer Ecke allmählich unter einem großen Haufen ebenso vergessener Dinge. Niemand griff mehr nach der Zeitung, sodass sich das Papier, das er morgens immer aufgeschlagen hatte, wellte und vergilbte. Oft brannte das Feuer nun nur noch sehr schwach und lies die Zimmer ganz unbemerkt so kalt wie die gefrorene Welt vor den Fenstern werden. Odette und ihre Mutter saßen in dicke Decken gehüllt an den gegenüberliegenden Enden des Sofas. Den Platz zwischen ihnen, wo er früher immer gesessen hatte, ließen sie ganz unberührt. Keine von beiden setzte sich jemals wieder dorthin.\nObwohl sie die Bewegungen nicht mehr richtig vormachen konnte, führte Violetta Odettes Unterricht aus dem Rollstuhl heraus weiter. Sie gab den Rhythmus vor, indem sie mit ihrem Stock auf den Boden schlug: „Tock. Tock. Tock.“\nOdette schrie oder weinte nie. Ballett bezog seine Schönheit schon immer aus dem Schmerz, weshalb sie ihn schweigend ertrug. Sie bandagierte ihre schon ziemlich wunden Zehen, bis der Schmerz unter vielen Schichten irgendwann in eine völlige Taubheit überging. Wann immer sie kurz innehielt, wischte sie sich den Schweiß von der Stirn. Dabei spürte sie jedes Mal den durchdringenden Blick ihrer Mutter. Was sie stumm miteinander verband, war ein und dieselbe Wunde. Danach sahen beide schnell wieder in eine andere Richtung, und Violetta zählte dann einfach weiter, während Odette ihre Tanzschritte sogleich wieder aufnahm. Lehren und Lernen füllten nun jede Stunde aus, denn diese Zeit durfte unter gar keinen Umständen einfach so leer bleiben. Denn Leere würde nur zu noch mehr Nachgrübeln und Erinnerungen führen.\nDann, eines Tages, drang ein anderer Rhythmus in das Haus. Das ungewohnte Klacken von Absätzen brachte den Unterricht zum Stillstand.\nLa Signora war auf Bitte des Capitanos gekommen, um Violetta sein Beileid auszusprechen. Sie war die Achte der Elf unter den Fatui und hatte einst als Kommandantin von Odettes Vater gedient.\nIm weiteren Verlauf des Besuchs richtete sich La Signoras Aufmerksamkeit auf Odette und die mühelose Agilität ihres Tanzes.\n„Frau Spessiva“, sagte La Signora, „ich möchte deine Trauer nicht herunterspielen. Aber du bist jetzt ohne Einkommen. Und eine Rente allein reicht kaum aus, um ein Kind großzuziehen. Die Fatui könnten sie in Obhut nehmen. Wir sind immer bereit, vielversprechende junge Talente zu fördern. Im Gegenzug würdest du eine Zulage erhalten.“\nVioletta lehnte sofort ab. Sie musste nicht an die Gefahren erinnert werden, die von den Fatui ausgingen, denn sie hatten ihr bereits ihren geliebten Ehemann genommen. Der Gedanke, dass sie ihr eines Tages auch noch ihre Tochter wegnehmen könnten, war mehr, als sie ertragen konnte.\nAber Odette hatte alles mit angehört. Sie eilte an die Seite ihrer Mutter, bevor das Gespräch endete. Ihre Stimme klang noch immer unverkennbar kindlich, doch an ihrer Entschlossenheit war absolut nichts mehr kindisch. Sie versprach, alles, was von ihr verlangt werden würde, zu tun. Sie würde vorsichtig sein und in Sicherheit bleiben. Sie würde einen Weg finden, neben dem Training bei den Fatui weiter Ballett zu tanzen.\nOdettes klare, blauviolette Augen trafen den Blick von La Signora, hell leuchtend von einem Feuer, das durch das Eis zu lodern schien.\n„Ich kann das“, wiederholte Odette in die Stille. Ihre Lippen waren zu einem sturen Strich zusammengepresst, ihr Ausdruck wild vor Entschlossenheit und völlig ohne Rücksicht auf die möglichen Kosten ... La Signora kannte diesen Blick. Das Mädchen verbrannte sich bereits selbst, versuchte aber, den Ruin als Stärke zu tarnen ...\nLa Signora musterte sie mit kaltem Spott. Welche Zweifel auch immer in ihr aufgestiegen waren, ihr Stolz erlaubte es ihr nicht, das Angebot zurückzuziehen.\n„Dann komm mit“, sagte sie. „Mal sehen, wie lange deine Entschlossenheit anhält.“"
       },
       {

@@ -318,7 +318,8 @@
           "Descriptions": [
             "Prizma Atışı Hasarı|{param1:F1P}",
             "Prizma Atışı Yıldız İletimi Hasarı|{param2:F1P}",
-            "Prizma Atışı Yıldız Girdabı Hasarı|{param4:F1P}"
+            "Prizma Atışı Yıldız Girdabı Hasarı|{param4:F1P}",
+            "BS|{param3:F1}sn"
           ],
           "Parameters": [
             {
@@ -489,7 +490,7 @@
           "Konvektif Engelleme Işını Hasarı|{param2:F1P}",
           "Konvektif Engelleme Işını Yıldız İletimi Hasarı|{param3:F1P}",
           "Konvektif Engelleme Işını Yıldız Girdabı Hasarı|{param6:F1P}",
-          "Enerji Maliyeti|{param5:I}",
+          "BS|{param4:F1}sn",
           "Enerji Maliyeti|{param5:I}"
         ],
         "Parameters": [

@@ -318,7 +318,8 @@
           "Descriptions": [
             "DGT tir prismatique|{param1:F1P}",
             "DGT d'Astroconduction tir prismatique|{param2:F1P}",
-            "DGT d'Astrodispersion tir prismatique|{param4:F1P}"
+            "DGT d'Astrodispersion tir prismatique|{param4:F1P}",
+            "Temps de recharge|{param3:F1} s"
           ],
           "Parameters": [
             {
@@ -489,6 +490,7 @@
           "DGT rayon convectif|{param2:F1P}",
           "DGT d'Astroconduction rayon convectif|{param3:F1P}",
           "DGT d'Astrodispersion rayon convectif|{param6:F1P}",
+          "Temps de recharge|{param4:F1} s",
           "Énergie élémentaire|{param5:I}"
         ],
         "Parameters": [

@@ -36,7 +36,15 @@
         "GroupId": 15031,
         "Proud": {
           "Descriptions": [
-            "Daño de ATQ Cargado|{param7:F1P}"
+            "Daño de 1er golpe|{param1:F1P}",
+            "Daño de 2.º golpe|{param2:F1P}",
+            "#Daño de 3er golpe|{param3:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param4:F1P}",
+            "Daño de 4.º golpe|{param5:F1P}",
+            "Daño de 5.º golpe|{param6:F1P}",
+            "Daño de ATQ Cargado|{param7:F1P}",
+            "Coste de Aguante de ATQ Cargado|{param8:F1} pts.",
+            "Daño de Caída|{param9:F1P}",
+            "Daño de impacto de caída baja/alta|{param10:P}/{param11:P}"
           ],
           "Parameters": [
             {
@@ -307,6 +315,7 @@
         "GroupId": 15032,
         "Proud": {
           "Descriptions": [
+            "Daño de habilidad|{param1:F1P}",
             "Daño continuo de Coda del amanecer|{param2:F1P}",
             "Daño de Superconductor Estelar/Torbellino Estelar de Coda del amanecer|{param3:P}/{param4:P}",
             "Daño de paso de baile plumífero|{param5:F1P}",
@@ -617,9 +626,13 @@
       "GroupId": 15039,
       "Proud": {
         "Descriptions": [
+          "Daño de tajo|{param1:F1P} ×3",
           "Daño del último tajo|{param2:F1P}",
+          "Aumento de daño de Destello Estelar de sueño del cisne níveo|{param3:F1P}",
+          "#Duración de sueño del cisne níveo|{param4:F1}{NON_BREAK_SPACE}s",
           "#Duración de doble bailarina|{param5:F1}{NON_BREAK_SPACE}s",
-          "#TdE|{param6:F1}{NON_BREAK_SPACE}s"
+          "#TdE|{param6:F1}{NON_BREAK_SPACE}s",
+          "Energía Elemental|{param7:I}"
         ],
         "Parameters": [
           {
@@ -992,7 +1005,7 @@
     },
     "Fetters": [
       {
-        "Title": "",
+        "Title": "Hola...",
         "Context": "Gracias por tu apoyo. Quieres un autógrafo, ¿verdad? ¿Qué quieres que dibuje al lado? ¿Qué tal una pluma? Ah, espera, ¿no eres uno de mis seguidores? Supongo que te he malinterpretado. Entonces, déjame empezar desde el principio. Soy Odette, una bailarina de la Compañía Korolevski... Bueno, gracias por tu apoyo, de todos modos."
       },
       {
@@ -1008,7 +1021,7 @@
         "Context": "Ojalá el día tuviera el doble de horas... De hecho, mejor que sea el triple."
       },
       {
-        "Title": "",
+        "Title": "Cuando llueve...",
         "Context": "El golpeteo de las gotas de lluvia siempre me hace sentir muy tranquila. Este tipo de tiempo es perfecto para bailar sola."
       },
       {
@@ -1016,7 +1029,7 @@
         "Context": "Los momentos más hermosos y serenos son siempre los más fugaces."
       },
       {
-        "Title": "",
+        "Title": "Cuando nieva...",
         "Context": "La nieve en Snezhnaya siempre es gélida y parece que nunca se acaba."
       },
       {
@@ -1028,7 +1041,7 @@
         "Context": "Al menos no puede haber un encuentro con seguidores en un lugar como este."
       },
       {
-        "Title": "",
+        "Title": "Buenos días...",
         "Context": "Ya hice el calentamiento y estoy lista para empezar."
       },
       {
@@ -1156,7 +1169,7 @@
         "Context": "Para ser sincera, no creo que haya ningún alimento que me resulte particularmente desagradable. Pero, como bailarina de ballet, tengo que ser estricta con mi dieta, así que todas mis comidas están cuidadosamente planificadas. Suelo evitar todo lo que no esté incluido en ese plan."
       },
       {
-        "Title": "",
+        "Title": "Al recibir un regalo (I)",
         "Context": "He tenido bastantes actuaciones estos últimos días. Quizás un poco más no estaría... *Ejem*, no importa. Está delicioso. Gracias."
       },
       {
@@ -1168,15 +1181,15 @@
         "Context": "Ah, no, gracias. Estoy cuidando lo que como."
       },
       {
-        "Title": "",
+        "Title": "Cumpleaños...",
         "Context": "¡Feliz cumpleaños! Estaba pensando qué regalarte... Normalmente me regalan cosas como flores, zapatos de ballet y cajas de música, pero dudo que eso sea lo que tienes en mente. ¿Qué tal si simplemente... pides un deseo, aquí y ahora? Ojalá sea algo que esté a mi alcance conceder, claro."
       },
       {
-        "Title": "",
+        "Title": "El sentimiento de Ascensión - Introducción",
         "Context": "Humm, todavía me falta... Necesito entrenar aún más duro."
       },
       {
-        "Title": "",
+        "Title": "El sentimiento de Ascensión - Desarrollo",
         "Context": "Humm, siento que mis movimientos son más precisos. Debería mantener esta intensidad."
       },
       {
@@ -1184,15 +1197,15 @@
         "Context": "Mis fouettés ya son perfectos. Pero no es momento de bajar la guardia."
       },
       {
-        "Title": "",
+        "Title": "El sentimiento de Ascensión - Desenlace",
         "Context": "“La emoción es una parte indispensable del ballet”. Ahora entiendo lo que eso significa. Gracias por tu fiel compañía y apoyo. Si te interesa venir a mi actuación más tarde, aquí tienes una entrada."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (I)",
         "Context": "Comencemos."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (II)",
         "Context": "Sígueme."
       },
       {
@@ -1200,19 +1213,19 @@
         "Context": "Juntos."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (IV)",
         "Context": "Pas de deux."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (V)",
         "Context": "Pirouette."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (VI)",
         "Context": "Je."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Definitiva (I)",
         "Context": "Vals de los copos de nieve."
       },
       {
@@ -1220,7 +1233,7 @@
         "Context": "Adagio cristalino."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Definitiva (III)",
         "Context": "Contempla la elegancia del cisne níveo."
       },
       {
@@ -1228,7 +1241,7 @@
         "Context": "No necesito nada de esto. Quédatelo tú."
       },
       {
-        "Title": "",
+        "Title": "Al abrir un cofre (II)",
         "Context": "Un viaje se parece mucho a un ensayo de baile: cada paso cuenta."
       },
       {
@@ -1240,7 +1253,7 @@
         "Context": "No es nada."
       },
       {
-        "Title": "",
+        "Title": "Vida baja (II)",
         "Context": "No es más que un rasguño."
       },
       {
@@ -1252,7 +1265,7 @@
         "Context": "¿Estás bien?"
       },
       {
-        "Title": "",
+        "Title": "Aliado con vida baja (II)",
         "Context": "Cambiemos."
       },
       {
@@ -1276,7 +1289,7 @@
         "Context": "Esfuérzate más."
       },
       {
-        "Title": "",
+        "Title": "Recibiendo un fuerte ataque (I)",
         "Context": "¿Solo eso?"
       },
       {
@@ -1284,15 +1297,15 @@
         "Context": "¿Eso se supone que duele?"
       },
       {
-        "Title": "",
+        "Title": "Unirse al equipo (I)",
         "Context": "Estoy preparada."
       },
       {
-        "Title": "",
+        "Title": "Unirse al equipo (II)",
         "Context": "¿Me estás invitando a actuar?"
       },
       {
-        "Title": "",
+        "Title": "Unirse al equipo (III)",
         "Context": "¿A dónde vamos esta vez?"
       }
     ],
@@ -1302,7 +1315,7 @@
         "Context": "En otras tierras, la palabra “bailarina” suele evocar a una persona cálida y cercana, una presencia serena que brinda consuelo a lo largo del camino de la vida.\nSin embargo, en Snezhnaya la imagen es mucho más fría. La mayoría de la gente piensa primero en Odette Spessiva, prima ballerina de la Compañía Korolevski.\nAparece en todos los carteles promocionales con la misma expresión serena. Su mirada es calma y distante, los labios ligeramente apretados, el rostro tan inmóvil como una estatua tocada por la escarcha.\nEsa fría reserva no hace sino resaltar aún más el fervor de sus admiradores. Y no es difícil entender por qué. Odette posee un físico impecable, y sus actuaciones combinan una austeridad cortante con una tremenda tensión dramática. Cada paso y cada movimiento de su mano poseen la precisión de una gema tallada a la perfección, y cada gesto capta la luz con un brillo que atrapa la mirada.\nNadie puede presenciar semejante maestría sin reconocer el esfuerzo que hay detrás. En el instante en que Odette pisa el escenario, toda voz de duda se desvanece.\nSin embargo, una vez cae el telón, rara vez vuelve a salir a escena. Sus admiradores pueden acercarse con flores y elogios, pero apenas recibirán unas pocas palabras por respuesta.\n“Gracias por tu apoyo. Adiós”.\nSu brevedad puede confundirse fácilmente con una frialdad deliberada, pero Odette no tiene intención de darse aires. Más allá del escenario y del resplandor de sus luces, la esperan otras responsabilidades. Su vida es como el calendario en su pared: cada espacio ya está ocupado, sin un solo hueco libre para sí misma.\nSi llegas a vislumbrar, en la profundidad de una noche nevada, una figura silenciosa que avanza con una ligereza impropia de cualquier viajero, lo más prudente será no seguirla. Las noches de Snezhnaya son despiadadamente frías, y la gente de bien ya duerme tras las ventanas cerradas. Quienes se aventuran a salir a semejante hora rara vez lo hacen sin un propósito.\nSin importar lo que la noche le exija, Odette regresa al teatro a tiempo a la mañana siguiente. Desde la sala de ensayos llegan las tenues notas de una melodía o el suave y amortiguado golpeteo de sus zapatillas de punta contra el suelo. Su reflejo se desliza por la pared de espejos mientras repite una y otra vez la misma elevación y descenso, cada movimiento medido con la precisión de un metrónomo.\nCuando el amanecer empieza a iluminar la sala y el resto de la compañía comienza a entrar, a menudo se detienen al verla.\n¿Había pasado toda la noche allí su prima ballerina?"
       },
       {
-        "Title": "",
+        "Title": "Historia del personaje (1)",
         "Context": "Al finalizar cada temporada de la Compañía Korolevski de Snezhnaya, las páginas de arte de los principales periódicos se llenaban invariablemente de apasionados comentarios sobre Odette, la prima ballerina de la Compañía.\n“Perfección, pulida hasta un brillo gélido”. Un periódico cultural repitió tanto ese veredicto que dejó de sonar a crítica y se convirtió, en cambio, en el epíteto por el que se la conocía.\nTripolev, uno de los críticos más célebres de Snezhnaya, ofreció una valoración más vívida: “Odette baila como una daga afilada hasta la perfección, cortando el aire con limpieza. El público solo puede maravillarse ante la belleza de su filo y la precisión de su movimiento, a sabiendas de que es mejor no intentar alcanzarla”.\nPara cualquier otra bailarina, una fama así podría haberse convertido en una carga silenciosa. El público puede admirar la belleza, pero abraza con más facilidad aquella que se siente cálida, lírica y emocionalmente cercana. La belleza es más fácil de comprender cuando parece dispuesta a encontrarse con el espectador a medio camino.\nSin embargo, Odette no ofrecía tal invitación. De la pasión y la emoción que el público anhelaba vislumbrar en ella, no concedía nada... ni siquiera la sonrisa sincera que se espera al caer el telón.\nFuera de las expresiones que exigía el papel que interpretaba, sus rasgos permanecían fríos y contenidos, tanto en público como en privado.\nParecía haber volcado todas sus fuerzas en perfeccionar su arte. Se imponía estándares muy por encima de los que se esperaban incluso de una prima ballerina, y los resultados hablaban por sí solos. ¿Qué más estaba obligada a dar? Fingir emociones solo para complacer al público no formaba parte del deber de una bailarina principal. Al menos, Odette no creía que lo fuera.\nLas historias sobre ella no escaseaban.\nUna de las más conocidas es la de un noble que pagó una pequeña fortuna por reservar una fila entera de asientos de primera clase. Al terminar la función, esperó dos horas frente a la puerta del escenario con un enorme ramo de flores azul hielo entre los brazos. Lo que recibió al final no fue a Odette, sino un mensaje del personal del teatro: “La Srta. Odette ya se marchó por la entrada lateral”.\nOtro admirador plasmó en una carta diez páginas de ferviente devoción. Odette respondió con las mismas palabras de siempre: “Gracias por tu apoyo”. De no haber coincidido la caligrafía exactamente con la de su firma, cualquiera habría creído que la respuesta era obra de otra persona.\nY luego estaba el admirador ebrio que bloqueó la entrada del teatro e intentó entablar con Odette una conversación sobre la influencia del ballet en Snezhnaya, hilando una sucesión de palabras sin conexión alguna. Ella no hizo ningún intento por esquivarlo. Simplemente se detuvo y lo miró... “Se quedó paralizado durante varios segundos”, recordaría después un testigo. “Entonces, como si le hubieran arrojado encima un balde de agua helada, murmuró algo entre dientes, se dio la vuelta y se marchó”.\n...\nOdette no adornaba sus sentimientos ni suavizaba las realidades de la vida. No había artificio alguno en su fortaleza. Clara y auténtica, poseía la misma fría determinación y la misma obstinada resistencia que las tierras heladas bajo sus pies, una cualidad que resonaba profundamente en el pueblo de Snezhnaya.\nSu actitud no cambió nunca, tan distante como siempre. Y, aun así, la fila fuera del teatro nunca disminuía, del mismo modo que la nieve no dejaba de caer."
       },
       {
@@ -1314,7 +1327,7 @@
         "Context": "Cuando Odette nació, la gloria de la familia Spessiva se había desvanecido hace mucho tiempo. Lo único que quedaba de ella eran un puñado de retratos amarillentos en las paredes de la vieja casa, cada uno preservando la imagen de un antepasado que alguna vez brilló sobre el escenario. Su madre, Violetta, acababa de obtener un papel secundario importante en un ballet, pero sus pensamientos ya estaban puestos en el papel principal. Decidió que cuando llegara ese día, añadiría un retrato suyo a la pared. Como si hubiera escuchado aquel pensamiento, la pequeña Odette comenzó de pronto a llorar dentro de sus mantillas, protestando con todas las fuerzas de sus diminutos pulmones.\n“Oh, perdóname, Odette”. Violetta sonrió y tocó suavemente la nariz de su hija. “Por supuesto que tú también saldrás en el cuadro... Mejor aún, haremos un retrato familiar, todos juntos”.\nTum, tum, tum... El pesado y acompasado taconeo de unas botas militares resonó al otro lado de la puerta. Era una señal destinada únicamente a ese hogar, y Violetta supo al instante a quién anunciaba. Su esposo aún estaba en el umbral, sacudiendo la nieve de sus botas, cuando ella fue a recibirlo con una sonrisa.\nLa vieja casa era demasiado grande para mantenerla debidamente cálida. El fuego del hogar ardía débilmente, y la calefacción nunca llegaba a hacer frente al frío. Aun así, entre los brazos de los demás, la familia encontraba todo el calor que necesitaba.\nA medida que Odette crecía, aquel ritmo se volvió tan familiar para ella como el rostro de su padre. Tum, tum, tum... Significaba la cena, los cuentos y la serena certeza de que la noche transcurriría en paz.\nEl padre de Odette era soldado y entendía poco de arte. El olor a cuero y a pólvora lo acompañaba todo el año, a menudo mezclado con un rastro del aire gélido del exterior. Aun así, nadie en la familia era un público más entusiasta que él. Cada vez que Violetta ensayaba, él acercaba una silla al rincón y se sentaba a observar. De vez en cuando, intentaba seguir la música con el pie, aunque rara vez acertaba con el ritmo. Violetta se reía y lo llamaba “el hombre con peor sentido del ritmo en toda Snezhnaya”. Él nunca lo discutía. Solo sonreía y decía entre risas: “Pero soy el mejor aplaudiendo en toda Snezhnaya”.\nEso, al menos, era cierto. Ya interpretara Violetta una pieza formal o simplemente tarareara una melodía e improvisara sobre la marcha, él siempre recibía el final con un aplauso atronador. Radiante y sincero, espantaba a los pájaros del alféizar y hacía que la pequeña Odette estallara en carcajadas.\nTodavía era demasiado pequeña para bailar. En su lugar, se deslizaba por el suelo con los calcetines puestos, o se subía sobre las botas militares de su padre, sujetando sus dedos con ambas manos. Él daba un paso y ella lo seguía, tambaleándose como un polluelo que aún no confiaba del todo en sus patas.\n“¿Ves?”, le decía su padre a Violetta. “Tenemos nuestro propio cisne níveo”.\n“Como mucho, tenemos un patito”, respondía Violetta entre risas. “Los cisnes níveos mantienen la espalda recta”.\nEntonces, su padre se agachaba junto a Odette y le tocaba la espalda suavemente con dos dedos: “Eso es. Espalda recta, pequeño cisne níveo”.\nNo pasó mucho tiempo antes de que los juegos dieran paso a las lecciones formales. Violetta comenzó a enseñarle a Odette los fundamentos con seriedad: estiramientos, tendus, petits battements. Eran tediosos ejercicios para principiantes, repetidos una y otra vez, cien veces y luego cien veces más. Como maestra, Violetta no permitía concesiones. Un pie mal colocado significaba empezar de nuevo. No había lugar para negociar. A veces, el esfuerzo dejaba los ojos de Odette enrojecidos, pero ella se limitaba a apretar los labios en una línea obstinada y continuaba.\nY, al final de cada práctica, su padre siempre la esperaba en la puerta.\n“¿Y bien? ¿Qué ha aprendido hoy mi pequeña bailarina?”.\nOdette repetía el nuevo movimiento para él lo mejor que podía, aún torpe e inestable por haberlo aprendido hace apenas unos minutos. No importaba si lo ejecutaba bien o mal. Su respuesta siempre era la misma: primero venía el aplauso, fuerte y solemne. Después se agachaba hasta quedar a su altura, mirándola a los ojos.\n“Maravilloso”, decía con total seriedad. “Algún día, mi hija será una prima ballerina”.\nVioletta apoyaba con suavidad la cabeza sobre el hombro de su esposo, y la tensión de su rostro acababa por desvanecerse en una sonrisa. Odette aún era demasiado pequeña para entender lo que significaba convertirse en prima ballerina. Pero entendía el orgullo en el rostro de su padre al decirlo, y la callada esperanza en la sonrisa de su madre al mirarla. Sin que Odette lo supiera, la primera pequeña semilla de un sueño había sido plantada en su corazón."
       },
       {
-        "Title": "",
+        "Title": "Historia del personaje (4)",
         "Context": "Hubo un tiempo en que Odette creyó que aquella vida cálida y apacible continuaría para siempre.\nEntonces, un día, los pasos de su padre dejaron de regresar. Esperó el primer día, luego el segundo, después el tercero... Pero cuando por fin el sonido de unas botas militares llegó hasta la casa, no eran las suyas.\nDos soldados de los Fatui se detuvieron con semblante solemne en el umbral y depositaron una carta en las manos de Violetta. La bailarina, capaz de dominar cada parte de su cuerpo con una precisión impecable, no pudo evitar que sus dedos temblaran al desdoblarla. A su lado, Odette se alzó inquieta sobre las puntas de los pies, estirándose para alcanzar a leer las palabras. Solo logró distinguir una única línea, escrita con sencillez... una que pasaría años deseando no haber visto jamás.\nAquella noche, la casa quedó sumida en un silencio absoluto, como si le hubieran arrebatado hasta el último sonido. A la mañana siguiente, Violetta regresó a la sala de ensayos del teatro y retomó su rutina. Luego vino el tercer día, y tras él, el cuarto...\nFue durante la función cuando Odette, que observaba desde debajo del escenario, vio a su madre desplomarse. Por un instante desesperado, se dijo a sí misma que era parte de la coreografía. Violetta nunca perdía el control. Quizá la caída había sido ensayada. Quizá Odette seguía soñando. Quizá nunca había despertado realmente de la pesadilla. Entonces el telón descendió a toda prisa. En medio de la confusión entre bastidores, Odette alcanzó a vislumbrar el rostro de su madre. Todo el resplandor que alguna vez tuvo había desaparecido, dejando solo una palidez mortecina.\nCuando terminó el tratamiento, el médico habló con un pesar contenido. Las lesiones de Violetta sanarían con el tiempo, pero, aun así, era probable que nunca volviera a ejecutar los pasos más exigentes.\n...\nEn los días que siguieron, la casa comenzó a cambiar. La silla que el padre de Odette siempre había ocupado fue arrinconada en una esquina, donde poco a poco desapareció bajo un desorden de cosas olvidadas. El periódico que antes desplegaba cada mañana comenzó a curvarse por los bordes y a amarillear, sin que nadie volviera a tomarlo entre sus manos. A veces el fuego se consumía sin que ninguna de las dos lo notara, hasta que las habitaciones se enfriaban tanto como el mundo helado al otro lado de las ventanas. Odette y su madre se sentaban envueltas en mantas en extremos opuestos del sofá. Entre ellas, dejaban intacto el lugar donde él solía sentarse. Ninguna se movió jamás para ocuparlo.\nAunque ya no podía ejecutar los movimientos correctamente, Violetta continuó las lecciones de Odette desde su silla de ruedas. Marcaba el ritmo golpeando el suelo con su bastón: “Toc. Toc. Toc”.\nOdette nunca se quejó. El ballet siempre había extraído su belleza del dolor, y ella soportaba el suyo en silencio. Vendaba sus dedos ampollados capa tras capa hasta que, pasado cierto punto, el dolor se disolvía en entumecimiento. Cada vez que se detenía para secarse el sudor de la frente, encontraba a su madre observándola. La misma herida pasaba en silencio entre ambas. Entonces las dos apartaban la mirada. Violetta retomaba el conteo y Odette retomaba los pasos. Enseñando y aprendiendo, ocupaban cada hora que no podían permitirse dejar vacía. Porque el vacío daba cabida a los recuerdos.\nEntonces, un día, un nuevo ritmo irrumpió en la casa. El inconfundible repiqueteo de unos tacones desconocidos interrumpió la lección.\nSignora había acudido en nombre del Capitán para dar el pésame a Violetta. Era la octava de Los Once de los Fatui y en el pasado había sido la oficial al mando del padre de Odette.\nA medida que avanzaba la visita, la atención de Signora se posó en Odette y en la agilidad natural de su danza.\n“Sra. Spessiva”, dijo Signora, “no tengo intención de tomarme a la ligera su dolor. Pero ahora se encuentra sin ingresos, y una pensión por sí sola difícilmente bastará para criar a una niña. Los Fatui podríamos acogerla bajo nuestra tutela. Siempre estamos dispuestos a cultivar a jóvenes talentos con potencial. A cambio, usted recibiría una remuneración”.\nVioletta se negó de inmediato. No necesitaba que nadie le recordara los peligros que acompañaban a los Fatui. Ya le habían arrebatado al esposo que amaba. La sola idea de que algún día pudieran llevarse también a su hija era más de lo que podía soportar.\nPero Odette lo había oído todo. Corrió al lado de su madre antes de que la conversación terminara. Aunque su voz era, sin lugar a dudas, la de una niña, no había nada infantil en su determinación. Prometió que haría todo lo que le pidieran. Tendría cuidado. No correría peligro. Que encontraría la forma de seguir con el ballet mientras se entrenaba con los Fatui.\nLos ojos azul violáceo de Odette se encontraron con los de Signora, ardiendo con un fuego que parecía abrirse paso a través del hielo.\n“Puedo hacerlo”, repitió Odette en el silencio. Sus labios formaban una línea obstinada, con una fiera expresión de determinación y completamente indiferente al precio... Signora conocía esa mirada. La muchacha ya se consumía por dentro, y aun así procuraba hacer pasar ese desgaste por fortaleza.\nSignora la observó con un frío desdén. Por muchas dudas que comenzaran a surgir en su interior, su orgullo no le permitió retirar la oferta.\n“Entonces ven”, dijo. “Veamos cuánto dura esa determinación tuya”."
       },
       {

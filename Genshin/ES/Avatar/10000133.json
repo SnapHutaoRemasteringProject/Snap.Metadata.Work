@@ -318,7 +318,8 @@
           "Descriptions": [
             "Daño de proyectil prismático|{param1:F1P}",
             "Daño de Superconductor Estelar de proyectil prismático|{param2:F1P}",
-            "Daño de Torbellino Estelar de proyectil prismático|{param4:F1P}"
+            "Daño de Torbellino Estelar de proyectil prismático|{param4:F1P}",
+            "TdE|{param3:F1} s"
           ],
           "Parameters": [
             {
@@ -489,6 +490,7 @@
           "Daño de haces de inhibición térmica|{param2:F1P}",
           "Daño de Superconductor Estelar de haces de inhibición térmica|{param3:F1P}",
           "Daño de Torbellino Estelar de haces de inhibición térmica|{param6:F1P}",
+          "#TdE|{param4:F1}{NON_BREAK_SPACE}s",
           "Energía Elemental|{param5:I}"
         ],
         "Parameters": [

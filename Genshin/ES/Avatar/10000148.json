@@ -36,7 +36,13 @@
         "GroupId": 14831,
         "Proud": {
           "Descriptions": [
+            "Daño de 1er golpe|{param1:F1P}",
+            "Daño de 2.º golpe|{param2:F1P}",
+            "#Daño de 3er golpe|{param3:F1P}{NON_BREAK_SPACE}+{NON_BREAK_SPACE}{param4:F1P}",
+            "Daño de 4.º golpe|{param5:F1P}",
+            "Daño de ATQ Cargado|{param6:F1P}",
             "Coste de Aguante de ATQ Cargado|{param7:F1} pts.",
+            "Daño de Caída|{param8:F1P}",
             "Daño de impacto de caída baja/alta|{param9:F1P}/{param10:F1P}"
           ],
           "Parameters": [
@@ -294,6 +300,8 @@
         "Proud": {
           "Descriptions": [
             "#Daño {LAYOUT_MOBILE#por toque}{LAYOUT_PC#al pulsar una vez}{LAYOUT_PS#al pulsar una vez}|{param1:F1P}",
+            "Daño al mantener pulsado|{param2:F1P}",
+            "TdE|{param3:F1} s",
             "#Duración de la marca de caza|{param4:F1}{NON_BREAK_SPACE}s",
             "Aumento de ATQ de precisión de cazador|{param5:F1P}",
             "#Duración de precisión de cazador|{param6:F1}{NON_BREAK_SPACE}s"
@@ -494,7 +502,10 @@
       "Proud": {
         "Descriptions": [
           "Daño de coto de caza tronador|{param1:F1P}",
-          "Daño de Tugarin|{param2:F1P}"
+          "Daño de Tugarin|{param2:F1P}",
+          "Duración|{param3:F1} s",
+          "TdE|{param4:F1} s",
+          "Energía Elemental|{param5:I}"
         ],
         "Parameters": [
           {
@@ -845,7 +856,7 @@
         "Context": "Este dinero va para casa, este otro se lo doy a los de Rókot para comprar medicamentos, y el Mora para el mantenimiento del arma... Me pregunto qué banda de malhechores tendrá la mala suerte de toparse conmigo esta vez..."
       },
       {
-        "Title": "",
+        "Title": "Cuando llueve...",
         "Context": "Se me va a empapar la capucha... ¡Tugarin, deja de sacudirte!"
       },
       {
@@ -853,7 +864,7 @@
         "Context": "Es hora de que la presa salga arrastrándose de su escondite."
       },
       {
-        "Title": "",
+        "Title": "Cuando truena...",
         "Context": "Es el tiempo perfecto para una emboscada, si tienes a alguien en mente... Puedo aprovechar el ruido de los truenos para disimular los disparos."
       },
       {
@@ -865,7 +876,7 @@
         "Context": "Con este tiempo no se puede andar con capucha..."
       },
       {
-        "Title": "",
+        "Title": "En el desierto...",
         "Context": "Ojalá yo también pudiera mudar el pelaje..."
       },
       {
@@ -873,11 +884,11 @@
         "Context": "¿Oyes eso? Son los pájaros cantando en el bosque, como lo hacen todas las mañanas. ¿Por qué no vamos a cazar un par?"
       },
       {
-        "Title": "",
+        "Title": "Buenas tardes...",
         "Context": "Normalmente almuerzo al aire libre, pero no es algo que recomiende precisamente."
       },
       {
-        "Title": "",
+        "Title": "Buenas noches... (I)",
         "Context": "Algunas de las presas más raras solo salen por la noche."
       },
       {
@@ -905,7 +916,7 @@
         "Context": "La gente suele decir que una Visión representa tus deseos más profundos. Pero ese tipo de pensamiento sin sentido y superficial no podría ser más insignificante para mí. Lo único que me importa es lo que este artilugio puede hacer por mí. Si nunca hubiera descubierto que me hacía más poderoso, probablemente ya lo habría vendido."
       },
       {
-        "Title": "",
+        "Title": "¿Algo que decir?",
         "Context": "Cuando te alejas de los caminos habituales en Snezhnaya, conocer el lenguaje local es una habilidad importante. Si te topas con ciertas hadas o bandidos, saber hablar su idioma puede ahorrarte muchos problemas. Ah, y si alguna vez te encuentras con un grupo de personas que no dejan de murmurar sobre un “pollo”, no lo dudes y despójalos de todo lo que tengan. “Pollo” es el código para referirse a un civil inofensivo que lleva consigo una pequeña cantidad de objetos de valor. Básicamente, un blanco fácil. Los que van tras ellos son lo peor de lo peor, pero no son rival para nosotros. Además, considerando sus propios antecedentes penales, ni siquiera se les ocurriría denunciarnos ante la Druzhna, así que no les queda más remedio que aguantarse."
       },
       {
@@ -961,7 +972,7 @@
         "Context": "Todo el dinero que gasto en modificar, mantener y probar mi rifle... Haz los cálculos y tal vez te des cuenta de que las cosas que más te gustan en la vida son también la fuente de todos tus problemas."
       },
       {
-        "Title": "",
+        "Title": "Comida que más le gusta...",
         "Context": "Carne curada, pan duradero, queso que se derrita al tostarlo... Con esos ingredientes, solo necesito un fuego, y siempre tengo un festín al alcance de la mano, incluso cuando estoy rodeado de hielo y nieve."
       },
       {
@@ -969,15 +980,15 @@
         "Context": "Cualquier cosa con caparazón: cangrejos, langostas... todo ese tipo de cosas. ¿Gastar tanto Mora y tanto esfuerzo peleando contra pinzas y púas para sacar tan poca carne? No vale la pena para nada."
       },
       {
-        "Title": "",
+        "Title": "Al recibir un regalo (I)",
         "Context": "Gracias, está delicioso... ¿Se conserva bien? Creo que me lo terminaré más tarde."
       },
       {
-        "Title": "",
+        "Title": "Al recibir un regalo (II)",
         "Context": "Humm... ¿Qué te parece si te ayudo a conseguir algo de carne de caza poco común? Con ingredientes de mejor calidad, esto quedaría aún mejor."
       },
       {
-        "Title": "",
+        "Title": "Al recibir un regalo (III)",
         "Context": "Bueno, no puedo dejar que se eche a perder la comida. Seguro que hay algún aldeano que lo necesita más que yo."
       },
       {
@@ -997,11 +1008,11 @@
         "Context": "Para bien o para mal, ahora mis disparos no van a fallar."
       },
       {
-        "Title": "",
+        "Title": "El sentimiento de Ascensión - Desenlace",
         "Context": "¿Cuánto más tenemos que avanzar para que el mundo por el que luchamos se haga realidad?"
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (I)",
         "Context": "¡Dispara!"
       },
       {
@@ -1009,11 +1020,11 @@
         "Context": "¡En el blanco!"
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (III)",
         "Context": "¡Uno menos!"
       },
       {
-        "Title": "",
+        "Title": "Habilidad Elemental (IV)",
         "Context": "¿Preparado?"
       },
       {
@@ -1025,11 +1036,11 @@
         "Context": "Te tengo."
       },
       {
-        "Title": "",
+        "Title": "Habilidad Definitiva (I)",
         "Context": "¡Aquí, chico!"
       },
       {
-        "Title": "",
+        "Title": "Habilidad Definitiva (II)",
         "Context": "¡Tugarin, tráelo!"
       },
       {
@@ -1041,7 +1052,7 @@
         "Context": "Mira bien, no te vayas a perder nada."
       },
       {
-        "Title": "",
+        "Title": "Al abrir un cofre (II)",
         "Context": "¿Hay algo que valga la pena cambiar por Moras?"
       },
       {
@@ -1049,11 +1060,11 @@
         "Context": "Tómalo y vámonos. Antes de que nos sigan."
       },
       {
-        "Title": "",
+        "Title": "Vida baja (I)",
         "Context": "El frío me está afectando..."
       },
       {
-        "Title": "",
+        "Title": "Vida baja (II)",
         "Context": "Debería ponerme a cubierto..."
       },
       {
@@ -1065,11 +1076,11 @@
         "Context": "¡Retrocede! ¡Yo te cubro!"
       },
       {
-        "Title": "",
+        "Title": "Aliado con vida baja (II)",
         "Context": "Relájate. Yo me encargo del resto."
       },
       {
-        "Title": "",
+        "Title": "Derrotado (I)",
         "Context": "Mis días de cazador... han terminado..."
       },
       {
@@ -1081,7 +1092,7 @@
         "Context": "Debí sacar el arma... más rápido..."
       },
       {
-        "Title": "",
+        "Title": "Recibiendo un ligero ataque (I)",
         "Context": "Espero que haya valido la pena..."
       },
       {
@@ -1089,11 +1100,11 @@
         "Context": "Solo ha sido un roce."
       },
       {
-        "Title": "",
+        "Title": "Recibiendo un fuerte ataque (I)",
         "Context": "Ese ha dolido..."
       },
       {
-        "Title": "",
+        "Title": "Recibiendo un fuerte ataque (II)",
         "Context": "Un golpe bajo..."
       },
       {
@@ -1101,11 +1112,11 @@
         "Context": "Que comience la cacería."
       },
       {
-        "Title": "",
+        "Title": "Unirse al equipo (II)",
         "Context": "Todo listo."
       },
       {
-        "Title": "",
+        "Title": "Unirse al equipo (III)",
         "Context": "Mantén la vista en el objetivo."
       }
     ],
@@ -1115,7 +1126,7 @@
         "Context": "En Snezhnaya, el nombre “Aliosha” goza de una popularidad excepcional entre la gente.\nNo es porque las hazañas legendarias de algún joven cazador lo convirtieran en un nombre conocido, sino porque el propio nombre encerraba una hermosa promesa que innumerables padres anhelaban.\nIntrépido, inocente y bondadoso...\nRezan para que sus hijos posean tales virtudes, deseando que escapen del cincel del destino, igual que los héroes de las leyendas.\nSin embargo, ignoran una dura verdad: el hielo y la nieve de Snezhnaya nunca responden a las plegarias, y el frío implacable en sí mismo es un roce constante que no da tregua.\nUn simple nombre no puede engendrar verdadero coraje, y una bondad desarmada no puede proteger a un niño de la lanza que el destino arroja contra él.\nSolo quienes experimentan, luchan y viven como héroes pueden romper la maldición de la realidad. Solo quienes hunden sus pies una y otra vez en las llanuras nevadas tienen la oportunidad de alcanzar la esperanza.\nPor supuesto, nadie le había explicado nunca tales conocimientos a Aliosha, ni él tampoco tenía tiempo para detenerse a reflexionar sobre estas cosas.\nSolo sabía que, para que los suyos tuvieran comida y refugio, debía adentrarse más en las llanuras nevadas, traer más presas y, con Tugarin a su lado, abrir un camino más profundo y amplio hacia las tierras salvajes desconocidas.\nEn cuanto a los cálculos complejos, él prefería dejar que los “realistas” fueran quienes los sopesaran.\nY en cuanto a las filosofías profundas, que las debatieran los “idealistas”.\nComo cazador que avanzaba entre la escarcha implacable, solo sabía pulir el cerrojo de su arma y apretar el gatillo.\nSin embargo, quienes lo conocían bien decían:\n“Es un buen muchacho: intrépido, inocente y bondadoso, como el Aliosha de los innumerables cuentos populares...”.\nY el viento aullante ofreció esta plegaria:\n“Que la Antorcha Kresnik arda con la misma ferocidad que su alma”."
       },
       {
-        "Title": "",
+        "Title": "Historia del personaje (1)",
         "Context": "Cuando Aliosha era niño, tenía un sueño modesto.\nQuería aprender el oficio de su padre y convertirse en un cazador hecho y derecho. Entonces, el día en que alcanzara la mayoría de edad, heredaría el premio definitivo: el mejor rifle de cerrojo del mundo.\nSin embargo, los sueños siempre son tan frágiles...\nTodos saben que las vastas llanuras nevadas de Snezhnaya son mortalmente gélidas, pero el invierno de aquel año fue especialmente brutal.\nPara las familias humildes de las regiones más remotas, esto significaba gastos más elevados, ingresos más escasos y días más duros. Una existencia en la que un solo paso en falso bastaba para llevarlos a un punto sin retorno.\nNaturalmente, bajo el peso de una vida así, algunos optaban por trabajar hasta extenuarse, rogando que sus frágiles existencias no se desmoronaran por completo. Ese era el caso de la familia de Aliosha.\nOtros, sin embargo, optaron por abandonar su humanidad por completo, hundiéndose en el abismo de la “realidad” y dirigiendo sus armas contra quienes eran aún más débiles que ellos. Tal era el caso de la banda de forajidos que acababa de llegar a Alátyr.\nBlandiendo espadas oxidadas y garrotes, los asaltantes derribaron las endebles puertas de madera de las casas de los aldeanos, saqueando los pocos Moras y kresnikita que les quedaban. No dejaron nada, ni siquiera las míseras hogazas de pan de centeno estiradas con serrín.\nPero, como era de esperar, la crueldad de los bandidos no se sació solo con eso.\nAl ver que los aldeanos se quedaban petrificados de terror, los bandidos se envalentonaron y llevaron su crueldad a nuevos extremos. Alzaron antorchas encendidas con la intención de prender fuego a cualquier casa o mueble que no pudieran llevarse.\nCuando se acercaron al armario donde Aliosha se escondía acurrucado, sus padres contraatacaron con una determinación suicida. Su resistencia desesperada sacudió a los demás aldeanos, que agarraron cuchillos de cocina y herramientas de labranza y se lanzaron a la lucha.\nQuizá intimidados por aquella resistencia inesperada, o quizá simplemente al darse cuenta de que la noche se acercaba, los bandidos finalmente huyeron en la oscuridad, dejando a los padres de Aliosha en medio del caos.\nAunque sus padres forzaron una sonrisa e insistieron en que no había nada de lo que preocuparse, Aliosha entendió la verdad que ninguno se atrevía a pronunciar. Sus heridas tardarían al menos medio año en sanar, y eso solo si de algún modo lograban costear las medicinas.\nSin ingresos, con los costes médicos acumulándose y sin absolutamente ningún ahorro, la cruda realidad de la familia hablaba por sí sola.\nAquella noche en vela, Aliosha finalmente renunció a sus sueños.\nLevantó una tabla suelta del suelo, desenvolvió un paquete envuelto en varias capas de papel encerado y sacó la escopeta que su padre había comprado con los ahorros de un año entero: un obsequio que solo recibiría cuando llegara el momento de convertirse en un hombre.\nLa ventisca aullante podría ocultar sus huellas, pero las ramas quebradas y la tierra helada bajo sus pasos aún le mostrarían el camino al cazador.\nAunque una ventaja de medio día pudo llevar a los bandidos a creer que ya nadie los perseguía, Aliosha ya les había cortado el paso al tomar un atajo a través de la naturaleza.\nSe creían más astutos que las bestias salvajes, pero ante unos ojos capaces de leer el más mínimo movimiento de cualquier ser vivo, no eran más que presas esperando ser cazadas.\nEn menos de medio día, antes de que el sol siquiera pudiera salir, Aliosha ya tenía a los desprevenidos bandidos en la mira.\nUnos instantes después, los había abatido a todos sin excepción. \nLo primero que pensó fue que aquello había sido aún más fácil que cazar...\nAl fin y al cabo, los animales huían despavoridos al oír un disparo, pero los humanos preferían encogerse y suplicar clemencia.\nEso le ahorró mucho esfuerzo a Aliosha, aunque no es que tuviera intención alguna de mostrar misericordia...\nTras asegurarse de que los alrededores eran seguros, escupió el agua helada que había mantenido en la boca para ocultar su aliento en el aire gélido, luego se agachó y se deslizó hacia los bandidos tendidos en el suelo.\nAquel fuerte sabor metálico era algo que debería haberle resultado familiar. Ese caos sangriento era una escena de la que debería haber salido con vida incontables veces. Y enfrentarse a la mirada de aquellos hombres que lo observaban de vuelta era algo ante lo que nunca, bajo ningún concepto, debería haberse acobardado...\nY, sin embargo, Aliosha sintió como si hubiera vuelto de golpe a su primera cacería, siguiendo a su padre hasta lo más profundo del bosque nevado para examinar la presa abatida. Incluso sus pasos vacilaron, torpes e inseguros, sobre la tierra congelada.\nSolo que esta vez, ya no quedaba nadie que posara una mano grande y cálida sobre su hombro.\nY así permaneció inmóvil hasta que el sol ascendió por fin hasta lo alto del cielo, y su luz cegadora lo devolvió bruscamente a la realidad.\nDe entre las pertenencias dispersas de los bandidos, sacó un pico oxidado...\n“No me culpen, ustedes se lo buscaron...”."
       },
       {
@@ -1123,7 +1134,7 @@
         "Context": "Cuando Aliosha era joven, tenía un sueño modesto.\nQuería cazar más presas cada día, cargar él solo con el peso del hogar y sacar a su familia adelante durante el cruel invierno.\nSin embargo, los sueños siempre son tan frágiles...\nAquel enfrentamiento sangriento con los bandidos le había permitido recuperar sus bienes robados, pero no podía reparar la ruina más profunda que había caído sobre su familia.\nAparte de lo saqueado en Alátyr, los bandidos no tenían ni un Mora encima. Esto significaba que la lucha a vida o muerte de Aliosha aquella noche no había logrado recuperar más que lo que ya les pertenecía.\nPor otro lado, los exorbitantes gastos médicos y la aplastante realidad de tener a sus dos padres privados de su sustento terminaron por acorralar por completo a su familia.\nSemejante carga habría sido abrumadora incluso para un cazador experimentado, y mucho más para un joven que apenas superaba en estatura a su propio rifle.\nPeor aún, el asalto no había perdonado a nadie en Alátyr, y ni un solo vecino tenía fuerzas para tenderles la mano.\nSumido en esa desesperación, Aliosha por fin comprendió por qué su padre había insistido tanto en enseñarle a contar monedas y pesar grano en lugar de dominar el rifle.\nA partir de entonces, cada disparo que realizara, cada movimiento que hiciera y cada bocado que llevara a su boca tendrían que ser sopesados y medidos. El más mínimo error de cálculo dejaría su hogar, cuya supervivencia ya pendía de un hilo, completamente sepultado bajo las nieves del invierno.\nPor supuesto, limitarse a ahorrar hasta el último Mora estaba lejos de ser suficiente. Tenía que encontrar una nueva fuente de sustento...\nFue entonces cuando Aliosha escuchó un rumor: algunos aldeanos querían unirse para adentrarse en las tierras salvajes en busca de una “salida”.\nTodo el mundo sabía que las aterradoras ventiscas de aquellas tierras bastaban para tragarse cualquier cosa, por no hablar de las bestias enloquecidas por la sangre y de los bandidos, mucho más despiadados que cualquier bestia.\nEn un momento así, cualquiera que aún intentara buscar una salida en los páramos era o un completo idiota o un oportunista insaciable.\nAsí que, cuando aquel grupo se presentó en la puerta de su casa para invitarlo a unirse a ellos, Aliosha supo de inmediato que pertenecían a esa segunda categoría. Ellos también habían puesto la mira sobre los de su propia especie.\nPero no podía negar que tenían razón. Las escasas presas que traía de cada cacería jamás bastarían para sostener aquel hogar que se desmoronaba.\nContemplando las desnudas paredes de su hogar, endureció su corazón ante las súplicas de sus padres y volvió a renunciar a su sueño.\nArmado con unas cuantas palabras de jerga que había logrado aprender de su padre, Aliosha alzó la mirada hacia aquellos hombres, todos mucho más altos y mayores que él, y respondió:\n“Me apunto. Pero que quede claro: salimos como cazadores. Solo vamos por las bestias con garras y colmillos. Nada de tocar a las aves desarmadas, y nada de quitar vidas”.\nLo único que obtuvo como respuesta fue un silencio sepulcral y miradas vacías.\nEra como si los hombres que tenía delante no poseyeran más que una ambición desmedida, completamente incapaces de afrontar lo que les esperaba, ya fuera por su temple, su equipo o su habilidad...\nNo cabía duda de que era otro grupo de insensatos.\nAliosha sabía que no era la mejor opción, pero simplemente no tenía otra alternativa.\nTras chasquear la lengua con frustración contenida, prosiguió con fría indiferencia: “Con ‘aves’ me refiero a mercaderes o viajeros comunes y corrientes. En cuanto a las ‘bestias’, esos son los bandidos armados y las pandillas. Tienen los bolsillos más llenos. Además, robarles a ellos no es más que como si unos ladrones robaran a otros ladrones, así que no atraerá la atención de la Druzhna”.\nY así nació el primer grupo de bandidos de Alátyr."
       },
       {
-        "Title": "",
+        "Title": "Historia del personaje (3)",
         "Context": "Una vez que se convirtió en cazador, los ideales de Aliosha eran simples.\nTal como les había prometido a sus padres, solo quería mantener una existencia tranquila durante aquel crudo invierno, pasar desapercibido hasta que su familia se recuperara por completo y después abandonar el oficio para siempre.\nSin embargo, los sueños siempre son tan frágiles...\nEs cierto que los “cazadores” de Alátyr habían arrebatado suficientes provisiones a las “bestias” para mantener sus hogares abrigados y alimentados.\nPero la primera sospecha de Aliosha había dado en el clavo: esos hombres eran unos necios. No eran más que una manada desesperada y ambiciosa de necios cegados por la codicia y una ambición desmedida. Bastaría la más mínima excusa para que rompieran las reglas que habían jurado respetar, se despojaran de la poca humanidad que les quedaba y volvieran sus espadas contra los débiles.\nLa excusa que necesitaban fue el Plan Stuzha. A medida que el costo de vida se disparaba, todos buscaban desesperadamente una nueva forma de ganarse la vida:\nAdentrarse en las llanuras nevadas inexploradas y esquivar las patrullas para llegar a Nod Krai, la legendaria tierra de la libertad.\nY dio la casualidad de que los “cazadores” de Alátyr estaban apostados justo a lo largo de su camino.\nAl ver a innumerables “aves” indefensas pasar por su territorio, los “cazadores” no pudieron contener más su avaricia. Se quitaron las máscaras y se convirtieron en “bestias” sedientas de sangre.\nEn ese momento, Aliosha era la única “correa” que mantenía a raya a las “bestias”.\nAunque luchaba con uñas y dientes para evitar que sus compañeros cruzaran esa línea, lo único que le quedaba como apoyo era una promesa vacía, un viejo rifle de caza reparado mil veces y un cachorro al que aún le estaban saliendo los dientes.\n“Seguirle el juego al mocoso en aquel entonces solo fue para sacarle sus conocimientos. Ahora que es tan fácil hacerse con un botín, ¿para qué lo necesitamos?\nEn cuanto a ese rifle chatarra que tiene... Nos sobran armas de fuego. Esperemos que sepa no meter las narices donde no lo llaman”.\nNo pasó mucho tiempo antes de que la primera bestia se lanzara sobre el “ave”. Con él abriendo la marcha, se desató una avalancha: una segunda persona lo siguió, luego una tercera...\nHasta Tarás, un hombre tan cobarde que apenas podía sostener el rifle derecho, acabó deseando unirse a la carnicería.\nAliosha supo entonces que ya no eran “cazadores”. Habían demostrado no ser mejores que los bandidos que una vez saquearon Alátyr, si no aún peores, pues estaban bien entrenados y fuertemente armados.\nNada de esto había sido su intención, pero fueron sus manos las que dotaron a esos monstruos de garras y colmillos. Y era su deber acabar con ellos antes de que la situación se saliera de control.\nComo un verdadero cazador, siempre debe dar un paso al frente cuando las bestias se acerquen a una aldea.\nY así, Aliosha abandonó sus ideales una vez más.\nEse día, dejó a Tugarin con sus padres y partió llevando consigo solo su rifle...\nDesde aquel día, el eco de los disparos no dejó de resonar en las llanuras nevadas de Snezhnaya.\nUn rumor aterrador se extendió como la pólvora entre los lugareños: una guerra brutal se libraba en lo más profundo de las llanuras nevadas. Se decía que uno de ellos era un auténtico lunático, que abatía a cualquier ser vivo que se acercara demasiado.\nAliosha no tenía intención de hacerle daño a ningún inocente, pero el terror que inspiraba un loco resultaba a veces mucho más eficaz que la reputación de un héroe.\nDesde aquel día, ningún “ave” se atrevió a adentrarse en las llanuras nevadas. Y fue gracias a ese terror que ningún civil volvió a sufrir robos ni daños.\nPara cuando las autoridades finalmente recibieron la noticia y partieron a sofocar el caos, ya habían transcurrido incontables días y noches. Los disparos en las llanuras habían quedado en silencio hace mucho tiempo, y la vida en las aldeas cercanas había retomado su antiguo ritmo.\nLos soldados de los Fatui llegaron demasiado tarde y no encontraron nada en aquel interminable manto blanco. Sin pensarlo dos veces, atribuyeron la violencia a otra disputa territorial entre bandidos y dieron el caso por cerrado.\nEn cuanto a las “bestias” sobrevivientes, se vieron atadas por una nueva correa forjada con balas y sangre:\nNunca, jamás, tocar a las aves."
       },
       {
@@ -1131,7 +1142,7 @@
         "Context": "Cuando Aliosha reapareció ante su gente, ya no tenía el lujo de hablar de ideales.\nPorque había demasiada “realidad” que debía afrontar, parte por parte.\nAdemás de ser el pilar de su hogar y encargarse de alimentar a Tugarin, aún debía equilibrar su doble vida como “cazador” y “correa”, moviéndose sigilosamente por las profundidades ocultas de la tundra.\nPor fortuna, la desconfianza y cautela que los lugareños habían albergado en otro tiempo hacia aquel muchacho de la aldea de Alátyr, asolada por los bandidos, habían dado paso poco a poco a la aceptación y la confianza.\nPara quienes lo apreciaban, Aliosha era un joven íntegro, valiente y de buen corazón que solo necesitaba una oportunidad para vivir la vida tranquila que todos soñaban.\nY esa “oportunidad” no tardó en llegar, gracias al entusiasmo de los suyos.\nLlegó en la forma de una figura misteriosa escoltada por guardaespaldas, cuya imponente e inaccesible presencia se reflejaba en cada detalle de su vestimenta y su porte.\nSin embargo, no fue hasta que el desconocido despidió a su séquito y se enfrentó a Aliosha a solas que su orgullo condescendiente quedó al descubierto, dejando a Aliosha convencido de una sola cosa: aquel hombre no solo poseía un estatus formidable, sino que probablemente cargaba también con un peso de problemas igual de abrumador.\nEl instinto de supervivencia de Aliosha le decía que, al tratar con hombres así, lo mejor era mantener la boca cerrada. Una lengua suelta solo atraía problemas.\n“Los lugareños me dicen que puedes rastrear a tu presa incluso en plena ventisca. Que eres el mejor cazador de toda Snezhnaya”.\n“...”.\n“Examiné tus presas. Cada disparo es limpio y va directo a la columna o al corazón. Tienes cierto talento, sin duda, así que alguien debió enseñarte bien. Pero, a mis ojos, eres simplemente... aceptable”.\nEl hombre ni siquiera esperó una respuesta y siguió con su crítica.\n“Un novato elige presas completamente inofensivas, como conejos y aves silvestres. Un cazador común apunta a bestias feroces. Pero un cazador aceptable llega incluso a domar a las bestias, obligándolas a cumplir sus órdenes. ¿Me equivoco, muchacho?”.\n“Tugarin no es una bestia”, murmuró Aliosha entre dientes, reaccionando instintivamente para defender a su compañero.\n“No me refiero al perro”, respondió el hombre. “Hablo de las bestias con colmillos y garras: los bandidos que asaltaron tu aldea e hirieron a tus padres, o el grupo de bandidos de tu propio pueblo que faltaron a su palabra”.\nAl oír esto, Aliosha se bajó la capucha instintivamente.\n“A juzgar por los resultados, sin duda estás progresando. Sin embargo, aún estás muy lejos de ser un verdadero maestro. Al fin y al cabo, creo que un maestro cazador no permite que bestias peligrosas se descontrolaran dentro de su propio dominio”.\nComo si hubiera leído la cautela y la confusión en los ojos de Aliosha, el hombre dejó escapar un suave suspiro. “Vete y piénsalo detenidamente. Cuando encuentres la respuesta, comprenderás por ti mismo cuál es mi encargo”.\nEsa noche, Aliosha abrazó a Tugarin con fuerza, sin poder conciliar el sueño hasta el amanecer.\nCada vez que cerraba los ojos, el humo y los destellos de los disparos de antiguos enfrentamientos volvían a danzar en su mente.\nAquellos bandidos eran realmente despreciables, completamente indignos de compasión, y aun así era cierto que habían estado sumidos en la miseria absoluta...\nQuienes, en su propia aldea, habían roto el juramento que los unía merecían pagar por haber cazado a los inocentes, pero ¿cómo era posible que un cobarde como Tarás hubiera estado a punto de caer en ese mismo abismo?\nCuando los primeros rayos del alba se asomaron sobre Snezhnogrado, Aliosha se coló en los aposentos temporales de aquel hombre. Pero esta vez, llevaba consigo su rifle de caza.\n“Ah, ¿así que por fin has entrado en razón? Siempre supiste que vivir así era un callejón sin salida...”.\nEl hombre habló como si hubiera previsto exactamente aquel momento. La habitación estaba desprovista de todo, salvo por la solitaria figura sentada a la mesa, donde esperaba un modesto desayuno para dos.\n“¿Qué papel quieres que desempeñe en tu plan?”.\n“No tengas tanta prisa, aún no es el momento”. Al percibir el cansancio y la determinación en los ojos de Aliosha, el hombre señaló con calma el asiento frente a él.\n“De momento, siéntate. Desayuna y deja que te cuente algunas historias que el viento aullante ha traído hasta aquí”."
       },
       {
-        "Title": "",
+        "Title": "Historia del personaje (5)",
         "Context": "Aunque la identidad de todos se mantenía en secreto, Aliosha podía darse cuenta de que Rókot era un grupo de gente extraordinariamente talentosa.\nGracias a la recomendación de un miembro anónimo, por fin tuvo la oportunidad de entrar en los grandes palacios de Snezhnogrado e incluso consiguió un trabajo de medio tiempo bastante decente.\nLa ciudad le ofrecía un mundo que jamás habría podido imaginar: ballets deslumbrantes, óperas cautivadoras, una arquitectura imponente, el calor primaveral de los interiores y enormes máquinas de las que nunca había oído hablar.\nEra como si las historias fantásticas susurradas por aventureros y comerciantes hubieran cobrado vida de la noche a la mañana. Para un joven demasiado familiarizado con los disparos y el derramamiento de sangre, era la primera vez que comprendía que un mundo así realmente podía existir.\nLa mayor sorpresa, sin embargo, fue Invocación de los Sabios. Jamás imaginó que un juego de cartas de papel y fichas de metal girara por completo en torno a las matemáticas. Una materia que antes no le había causado más que dolores de cabeza era ahora precisamente lo que lo mantenía despierto toda la noche.\n“Qué lástima. Si hubiera tenido un juego así de pequeño, me habría ahorrado unas cuantas palizas mientras aprendía a sumar...\nPero considerando lo mal que se me da esto, mi padre probablemente me habría dado el doble de palizas. Bueno... Supongo que da igual de cualquier forma”.\nTras perder otra partida, Aliosha se quedó en silencio durante un largo rato, y su expresión llamó la atención de su nuevo contrincante de aquel día.\n“¡Eh, amigo! ¿Estás bien?”.\n“Estoy bien. Solo me preguntaba... Se te da increíblemente bien esto. ¿Tienes algún truco?”.\n“¿Quién, yo? Jaja, ¡vamos, me estás sobrestimando!”. Parecía como si aquel joven, Medintsev, rara vez recibiera elogios tan sinceros. Al instante consideró a Aliosha un alma gemela, y se inclinó hacia él mientras empezaba a parlotear sin parar. “Es todo práctica, en serio. Pasé un tiempo en Mondstadt, ¿sabes? Hay una taberna allí llamada Cola de Gato, donde puedes encontrar a algunos de los jugadores más feroces de todo Teyvat...”.\nDesde los jugadores de Teyvat hasta los inolvidables cócteles especiales que sirven en la taberna...\nDesde los elegantes Caballeros de Favonius hasta los cantos y poemas que celebran la libertad...\nMedintsev habló durante un largo rato, y Aliosha lo escuchó con la misma paciencia.\nPara el joven mercader, aquella conversación no era más que otra oportunidad de desplegar su gran plan de negocios y presumir de su astucia comercial.\nPero para el joven “disidente”, esa conversación abrió una ventana a un mundo que jamás había vislumbrado.\n“Te lo voy a decir así, amigo. Sé que suena descabellado, pero en realidad soy uno de los herederos de un enorme negocio familiar, ¡y tengo un ambicioso plan de negocios!”. La voz de Medintsev se elevó con entusiasmo. “¡En cuanto lo logre, toda la empresa caerá en mis manos! Cuando llegue ese día, por fin podré hacer realidad mis grandes ambiciones, ¡jajaja!”.\n“Entonces... una vez que el negocio esté en tus manos, ¿qué piensas hacer?”.\n“Eh, yo...”, Medintsev titubeó.\nPor supuesto, no era la primera vez que Aliosha hacía esa pregunta.\nHace mucho que se lo preguntaba: una vez frustrado el Plan Stuzha y disipadas las ventiscas, ¿qué futuro le esperaba a Snezhnaya?\nPero ni él mismo había sido capaz de encontrar una respuesta adecuada.\nTras haber pasado años sobreviviendo en las calles, Medintsev no tardó en tomárselo con humor y romper el incómodo silencio entre ambos. “... Sinceramente, amigo, si alguna vez tienes la oportunidad, ¡tienes que visitar Mondstadt! No dejes que la distancia sea un impedimento. Cuando vayas, verás que tengo razón. Si traemos sus vinos de vuelta a Snezhnaya, ¡haremos una auténtica fortuna!”.\n“Sí. Cuando se derrita la nieve, iré...”.\nAliosha trazó en su interior un nuevo paso en su plan para “cumplir su ideal”:\nSi alguna vez tuviera la oportunidad de salir de Snezhnaya, su primera parada sería Mondstadt.\nNo solo por la taberna Cola de Gato, donde se dice que se reúnen los mejores jugadores de cartas de Teyvat, sino porque es una nación de calidez y libertad.\nQuizás, al estudiar su pasado y su presente, por fin podría encontrar una respuesta adecuada para el futuro de Snezhnaya."
       },
       {
@@ -1139,7 +1150,7 @@
         "Context": "Como tantas personas en Snezhnaya, este cachorro albergaba un sueño de lo más modesto.\nQuería tener asegurada su comida y un hogar cálido.\nPero en una época en la que los humanos apenas podían sobrevivir por su cuenta, incluso eso era un lujo inalcanzable.\nLa única realidad que le quedaba era ser abandonado en las llanuras nevadas, hacerse una bolita y esperar en silencio a que llegara la muerte.\nSin embargo, poco podía hacer Aliosha mientras pasaba de largo. Lo único que podía hacer era meter la mano en el bolsillo, sacar sus dos últimas salchichas, agacharse y romperlas tranquilamente en pedazos antes de dejarlas junto a sus patas.\nY cuando el cachorro recuperó las fuerzas suficientes para trotar alrededor de sus botas e intentar seguirlo, él simplemente se puso de pie y se marchó.\nSabía demasiado bien que sus raciones apenas bastaban para él, y mucho menos para una mascota. Más importante aún, se encontraba en una peligrosa cacería.\nSegún sus observaciones, un oso gigante devorador de hombres había estado merodeando por las llanuras nevadas.\nPara preservar la piel del animal y reducir al mínimo los disparos, Aliosha se ocultó en una cueva de nieve, usándose a sí mismo como cebo mientras esperaba que su presa se acercara.\nPero además de la bestia que pretendía cazar, sin duda no había previsto la llegada de un invitado inesperado...\nEl cachorro parecía haber recuperado todas sus fuerzas y había seguido el rastro de Aliosha hasta su escondite.\n“*Tch*, esto no pinta bien...”.\nAl ver que el enorme oso se acercaba a Aliosha, no dudó ni un instante y se puso a ladrar frenéticamente con toda la fuerza de su vocecita de cachorro.\nEl ruido hizo que el oso se diera la vuelta y, al quedar su ancha espalda frente al cazador, Aliosha perdió la oportunidad de abatirlo de un solo disparo.\nPero justo cuando el oso se giró para abalanzarse sobre el cachorro, Aliosha apretó el gatillo casi por puro instinto, sin pensarlo en absoluto.\nUn estruendo agudo brotó del rifle, seguido de un golpe sordo cuando la bala atravesó la carne. El enorme oso lanzó un aullido atronador de dolor antes de internarse a toda velocidad en la nieve, impulsado por su instinto de supervivencia.\nAliosha sabía perfectamente que el disparo había atravesado un órgano vital, y que podría rematarlo con facilidad si lo perseguía.\nSin embargo, permaneció inmóvil, sopesando el costo de la persecución frente a los riesgos que implicaba...\nEl cachorro, sin embargo, no necesitaba pensar en esas cosas. Su mundo era simple.\n“La bestia gigante que intentó atacar a mi salvador ha huido. Debo perseguirla y alejarla todo lo que pueda”.\n“Esto no va a valer nada la pena...”.\nAunque refunfuñando, Aliosha se puso en marcha de todos modos y siguió aquella veloz estela blanca y negra.\nAliosha tardó en alcanzar al cachorro lo que necesitaba para terminar un par de tazas de té. El perrito se encontraba sobre el cadáver sin vida del enorme oso, jadeando con fuerza mientras su pecho subía y bajaba con la respiración agitada.\nPero al escuchar los pasos de Aliosha, levantó la cabeza de inmediato y agitó con frenesí su corta cola, semejante a un pompón, llena de alegría.\nInfló el pecho con orgullo, como si de verdad hubiera protegido a su salvador al derrotar por sí solo a una bestia diez veces más grande que él.\nY su mirada inquebrantable parecía declarar que, desde ese día en adelante, seguiría al cazador y lo protegería adondequiera que fuera.\nTras un largo momento de duda, Aliosha finalmente cedió.\n“Está bien... tú ganas. Un cazador no puede ir por ahí sin un sabueso... Parece que eso significa que ha llegado el momento de darte un nombre...”.\n“¿Guau?”.\n“... ¿Qué tal “Tugarin”? Solo espero que crezcas un poco más para que de verdad estés a la altura de un auténtico perro de caza de osos”.\n“¡Guau!”."
       },
       {
-        "Title": "",
+        "Title": "Visión",
         "Context": "En los días posteriores a la llegada del misterioso visitante, la vida de Aliosha no cambió demasiado. Seguía pasando la mayor parte del día en las llanuras nevadas, desempeñando el mismo papel de siempre.\nPero si alguien se hubiera molestado en rastrear los disparos que resonaban sobre la nieve, habría notado que el “cazador” apretaba el gatillo con mucha menos frecuencia.\nIncluso con la decisión ya tomada, aun sabiendo que matar era necesario y después de haberse acostumbrado demasiado a apuntar y a ser apuntado, Aliosha seguía detestando el derramamiento de sangre.\nEspecialmente después de obtener cierta información proporcionada por Rókot.\nLos incontables volúmenes de información secreta sobre el “Plan Stuzha” confirmaron lo que llevaba mucho tiempo sospechando: la verdadera enfermedad de la nación no eran las bandas descontroladas, los bandidos que surgían sin cesar ni los funcionarios corruptos que se llenaban los bolsillos a costa de la nación.\nEsos no eran más que síntomas nacidos del crudo invierno.\nMientras la raíz de la enfermedad permaneciera intacta, esas dolencias menores no harían más que seguir multiplicándose.\nSi hasta un perro de caza necesita el estómago lleno y un poco de carne seca como recompensa para ser adiestrado, ¿cómo podía alguien esperar saciar el pozo sin fondo de la codicia humana?\n¿Había estado apuntando su rifle al blanco equivocado todo este tiempo? ¿Había sido en vano todo aquel derramamiento de sangre?\nCada vez que esos pensamientos se apoderaban de él, su habitual y aguda “visión”, capaz de localizar a una presa incluso en medio de una ventisca cegadora, comenzaba a nublarse.\nY así, Aliosha empezó a dudar. Mientras los bandidos devolvieran el botín, les perdonaría la vida si suplicaban clemencia, incluso si habían cruzado la línea roja al ponerles las manos encima a las “aves”.\nPero las bestias jamás comprendían la misericordia. Para ellas, contenerse no era más que una muestra de debilidad. Cada vez que Aliosha desviaba el cañón, el peligro que había logrado contener daba un paso más hacia él, hasta que finalmente lo alcanzó.\nEra una trampa meticulosamente planeada. Cuando Aliosha salió de su escondite para detener lo que parecía ser un asalto cualquiera, tanto las “bestias” que suplicaban de rodillas como las aterradas “aves” se despojaron de sus disfraces al mismo tiempo y dejaron al descubierto sus colmillos en un instante.\nAcribillado desde todos los flancos y consumido por un desgaste incesante, las fuerzas de Aliosha comenzaban a flaquear...\nHabía llevado su resistencia al límite, y en su cartuchera apenas le quedaban un puñado de balas.\nAcurrucado tras una cobertura acribillada por las balas, metió el último trozo de carne seca en el hocico de Tugarin.\n“Tugarin, huye”.\nFue entonces cuando una caótica descarga de disparos desgarró uno de los extremos del cerco.\nAprovechando aquel fugaz instante de confusión, Aliosha logró escapar de aquella trampa mortal.\nPor una esquina alcanzó a ver a alguien disparando frenéticamente con los ojos cerrados, sin darse cuenta de que acababa de abrir una ventana de oportunidad. Era el rostro de alguien a quien conocía demasiado bien: Tarás.\nAliosha sabía que hacía tiempo que aquel hombre, incapaz siquiera de mantener firme un rifle, se había establecido en la ciudad y abrazado una vida normal. Ya no tenía ninguna razón para volver a poner su vida en peligro.\nY, aun así, ahí estaba, arrastrando sus piernas temblorosas hacia delante.\nTarás jadeó con dificultad. Era evidente que no estaba acostumbrado a pronunciar discursos tan grandilocuentes. “La gente... aún te necesita...”.\nAl ver al hombre frente a él, temblando como una hoja pero aferrado a su rifle, la bruma que nublaba la mente de Aliosha se disipó de repente.\nSi no era posible arrancar de raíz el mal que corroía a la nación, entonces el combate sin rumbo y el derramamiento de sangre realmente no tenían ningún sentido.\nSin embargo, abatir el mal destinado a la destrucción y proteger a quienes aún no habían caído era precisamente la base de su gran ideal: un mundo donde todos pudieran comer hasta saciarse y nadie tuviera que disparar a nadie.\n¿Acaso la redención de Tarás no era la mejor prueba de ello?\nSu aguda “visión”, siempre certera, había regresado.\nPor el bien de este sueño, estaba dispuesto a mancharse las manos de sangre, a fundirse con el vendaval aullante para atravesar bestias gigantescas y hielo. Y, si el viento llegaba a desviarse de su rumbo, estaba preparado para alzar su rifle contra el propio vendaval.\nCon el delgado formulario de solicitud en las manos, Aliosha volvió a buscar al misterioso desconocido.\n“Puedo unirme a ustedes. Pero no prometo acatar sus órdenes”.\n“No hay problema. Ese es justamente el credo de Rókot: tener la libertad de hacer lo que quieras”. Al percibir el destello inmaculado que emanaba del “artilugio” en la cintura de Aliosha, una sonrisa excepcionalmente rara se dibujó en el rostro del hombre. “Además, a nivel personal, me interesa mucho más ver a dónde te llevan tus propias decisiones”.\nY así, una presencia veloz como un relámpago se abrió paso entre los vientos aullantes..."
       }
     ]

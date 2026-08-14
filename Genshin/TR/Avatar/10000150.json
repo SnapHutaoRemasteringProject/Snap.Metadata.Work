@@ -36,7 +36,15 @@
         "GroupId": 15031,
         "Proud": {
           "Descriptions": [
-            "Yüklü Saldırı Hasarı|{param7:F1P}"
+            "1 Vuruş Hasarı|{param1:F1P}",
+            "2 Vuruş Hasarı|{param2:F1P}",
+            "3 Vuruş Hasarı|{param3:F1P}+{param4:F1P}",
+            "4 Vuruş Hasarı|{param5:F1P}",
+            "5 Vuruş Hasarı|{param6:F1P}",
+            "Yüklü Saldırı Hasarı|{param7:F1P}",
+            "Yüklü Saldırı Dayanıklılık Maliyeti|{param8:F1}",
+            "Havadan Saldırı Hasarı|{param9:F1P}",
+            "Havadan Saldırı Hasarı (Alçaktan/Yüksekten)|{param10:P}/{param11:P}"
           ],
           "Parameters": [
             {
@@ -307,6 +315,7 @@
         "GroupId": 15032,
         "Proud": {
           "Descriptions": [
+            "Beceri Hasarı|{param1:F1P}",
             "Şafakla Gelen Son Süreli Hasarı|{param2:F1P}",
             "Şafakla Gelen Son Yıldız İletimi/Yıldız Girdabı Hasarı|{param3:P}/{param4:P}",
             "\"Tüy\" Dans Hareketi Hasarı|{param5:F1P}",
@@ -617,10 +626,13 @@
       "GroupId": 15039,
       "Proud": {
         "Descriptions": [
+          "Kesme Hasarı|{param1:F1P} x3",
           "Son Kesme Hasarı|{param2:F1P}",
           "Kar Kuğusunun Rüyası Yıldız Parıltısı Tepkimesi Hasarı Bonusu|{param3:F1P}",
+          "Kar Kuğusunun Rüyası Süresi|{param4:F1}sn",
           "Solo Dans Gölgesi Süresi|{param5:F1}sn",
-          "BS|{param6:F1}sn"
+          "BS|{param6:F1}sn",
+          "Enerji Maliyeti|{param7:I}"
         ],
         "Parameters": [
           {
@@ -1009,7 +1021,7 @@
         "Context": "Keşke bir günde iki kat daha fazla saat olsaydı... Hımm, aslında üç katı olsun."
       },
       {
-        "Title": "",
+        "Title": "Yağmur Yağdığında",
         "Context": "Yağmur damlalarının pıtırtısı bana hep huzur vermiştir. Tek başına dans etmek için mükemmel bir hava."
       },
       {
@@ -1017,11 +1029,11 @@
         "Context": "En güzel ve en huzurlu anlar her zaman en çabuk geçenlerdir."
       },
       {
-        "Title": "",
+        "Title": "Kar Yağdığında",
         "Context": "Snezhnaya'daki kar hep dondurucu derecede soğuk ve sanki hiç bitmeyecek gibidir."
       },
       {
-        "Title": "",
+        "Title": "Rüzgar Şiddetlendiğinde",
         "Context": "Saçım... Sonra düzeltirim."
       },
       {
@@ -1029,7 +1041,7 @@
         "Context": "... Böyle bir yerde tanışma etkinliği olmaz en azından."
       },
       {
-        "Title": "",
+        "Title": "Günaydın",
         "Context": "Isındım ve gitmeye hazırım."
       },
       {
@@ -1065,7 +1077,7 @@
         "Context": "Bir keresinde yoğun bir eğitim sırasında, aşırı soğuk yüzünden ayaklarım ve bacaklarım donmuştu ve neredeyse tamamen bilincimi kaybetmiştim. Kendime geldiğimde ilk fark ettiğim şey, önümdeki Yıldız Kilidinden yayılan parlak bir ışıktı. Fakat Yıldız Kilitlerinin insanları bu şekilde uyandırabildiğini hiç duymamıştım. O zaman eğer beni uyandıran o değilse... Belki de içgüdüsel bir hayatta kalma arzusuydu..."
       },
       {
-        "Title": "",
+        "Title": "Paylaşılacak Bir Bilgi",
         "Context": "Her provayı en az gerçek bir gösteri kadar ciddiye alırım."
       },
       {
@@ -1165,15 +1177,15 @@
         "Context": "Bu sadece tek bir yemek mi? Daha çok... Bütün bir günlük yiyecek gibi görünüyor."
       },
       {
-        "Title": "",
+        "Title": "Hediye Alma: III",
         "Context": "Şey, almayayım, teşekkürler. Yediklerime dikkat ediyorum."
       },
       {
-        "Title": "",
+        "Title": "Doğum Günü",
         "Context": "Mutlu yıllar! Sana ne alacağımı düşünüyordum... Bana genelde çiçek, bale ayakkabıları ve müzik kutusu gibi şeyler gelir ama senin aklındakilerin bunlar olduğunu sanmıyorum... Tam burada, şu anda bir dilek tutmaya ne dersin? Tabii tercihen benim yerine getirebileceğim bir şey olsun..."
       },
       {
-        "Title": "",
+        "Title": "Yükseltme Hakkında: Giriş",
         "Context": "Hım, tam olmadı... Daha da sıkı çalışmalıyım."
       },
       {
@@ -1185,7 +1197,7 @@
         "Context": "Fouette'lerim artık mükemmel. Ama şimdi gevşeme zamanı değil."
       },
       {
-        "Title": "",
+        "Title": "Yükseltme Hakkında: Sonuç",
         "Context": "\"Duygu, balenin vazgeçilmez bir parçasıdır.\" Artık bunun ne anlama geldiğini anlıyorum. Sadık yoldaşlığın ve desteğin için teşekkür ederim. Eğer bugünkü gösterime gelmek istersen işte sana bir bilet."
       },
       {
@@ -1193,7 +1205,7 @@
         "Context": "Başlayalım."
       },
       {
-        "Title": "",
+        "Title": "Element Becerisi: II",
         "Context": "Beni takip et."
       },
       {
@@ -1201,19 +1213,19 @@
         "Context": "Birlikte."
       },
       {
-        "Title": "",
+        "Title": "Element Becerisi: IV",
         "Context": "Pas de deux."
       },
       {
-        "Title": "",
+        "Title": "Element Becerisi: V",
         "Context": "Piruet."
       },
       {
-        "Title": "",
+        "Title": "Element Becerisi: VI",
         "Context": "Hehe."
       },
       {
-        "Title": "",
+        "Title": "Element Patlaması: I",
         "Context": "Kar tanelerinin valsi."
       },
       {
@@ -1221,7 +1233,7 @@
         "Context": "Kristal tempo."
       },
       {
-        "Title": "",
+        "Title": "Element Patlaması: III",
         "Context": "Kar kuğusunun zarafetine tanık ol."
       },
       {
@@ -1229,7 +1241,7 @@
         "Context": "Hiçbirine ihtiyacım yok. Sende kalsın."
       },
       {
-        "Title": "",
+        "Title": "Hazine Sandığı Açma: II",
         "Context": "Seyahat etmek, bir dans provasına benzer. Her adım önemlidir."
       },
       {
@@ -1241,11 +1253,11 @@
         "Context": "Kafama takmıyorum."
       },
       {
-        "Title": "",
+        "Title": "Düşük Can: II",
         "Context": "Sadece bir sıyrık."
       },
       {
-        "Title": "",
+        "Title": "Düşük Can: III",
         "Context": "İş görür."
       },
       {
@@ -1253,7 +1265,7 @@
         "Context": "İyi misin?"
       },
       {
-        "Title": "",
+        "Title": "Düşük Canlı Takım Arkadaşı: II",
         "Context": "Yer değiştirelim."
       },
       {
@@ -1277,7 +1289,7 @@
         "Context": "Daha çok çabala."
       },
       {
-        "Title": "",
+        "Title": "Ağır Darbe Alma: I",
         "Context": "Bu kadar mı?"
       },
       {
@@ -1285,15 +1297,15 @@
         "Context": "Acıtması mı gerekiyordu?"
       },
       {
-        "Title": "",
+        "Title": "Gruba Katılma: I",
         "Context": "Hazırım."
       },
       {
-        "Title": "",
+        "Title": "Gruba Katılma: II",
         "Context": "Sahnenin ortasına geçmemi ister misin?"
       },
       {
-        "Title": "",
+        "Title": "Gruba Katılma: III",
         "Context": "Bu defa nereye gidiyoruz?"
       }
     ],
@@ -1303,7 +1315,7 @@
         "Context": "Başka diyarlarda \"dansçı\" kelimesi genellikle akla sıcak ve içten birini, hayatın uzun yolunda huzur veren nazik bir varlığı getirir.\nAncak Snezhnaya'da aynı şeyden bahsedildiğinde, zihinde canlanan imge bir nebze daha soğuktur.\nKorolevskiy Topluluğunun Baş Balerini Odette Spessiva, tanıtım afişlerinde aynı soğukkanlı ifadeyle belirir. Bakışları sakin ve mesafeli, dudakları hafifçe birbirine bastırılmış, yüzü ise ayazın dokunduğu bir heykel kadar hareketsiz.\nBu soğuk tavrı, hayranlarının coşkusunu daha da çarpıcı kılar. Ona bağlılıklarını anlamak zor değildir. Odette kusursuz bir fiziğe sahiptir ve performansları keskin bir titizlik ile olağanüstü bir dramatik gerilimi harmanlar. Attığı her adımda ve elinin her hareketinde ustaca işlenmiş bir mücevherin hassasiyetini taşırken, sergilediği her figür izleyenlerin gözünü alamadığı bir parlaklıkla ışığı yansıtır.\nBöylesi bir ustalığa tanık olan hiç kimse, ardındaki emeği görmezden gelemez. Odette sahneye adım attığı an, tüm şüphe sesleri susar.\nAncak perde kapandığında, bis için nadiren geri döner. Hayranları onu çiçekler ve övgülerle kutlasa da aldıkları cevap birkaç kısa sözcükten ibaret kalır.\n\"Desteğiniz için teşekkür ederim. Tekrar görüşmek üzere.\"\nAz ve öz konuşması kolayca kasıtlı bir soğukluk olarak algılanabilir, ancak Odette'in kimseye üstten bakmak gibi bir niyeti yoktur. Sahnenin ve o göz alıcı ışıkların ötesinde, onu bekleyen bambaşka sorumlulukları vardır. Hayatı adeta duvarındaki takvime benzer; her bir karesi çoktan doldurulmuş, kendisine ayırabileceği tek bir boşluk bile kalmamıştır.\nKarlı bir gecenin derinliklerinde, sıradan bir gezginin sahip olamayacağı bir hafiflikle sessizce süzülüp geçen bir figür gözünüze ilişirse, peşine düşmemeniz akıllıca olur. Snezhnaya'nın geceleri dondurucu derecede soğuktur ve saygın vatandaşlar kapalı pencerelerinin ardında çoktan uykuya dalmıştır. Böylesi bir saatte dışarı çıkmayı göze alanların ise muhakkak bir amacı vardır.\nGece ondan ne isterse istesin, Odette ertesi sabah tam vaktinde tiyatrodaki yerini alır. Prova odasından ya müziğin baygın tınıları süzülür ya da point ayakkabılarının zemindeki o yumuşak, boğuk dokunuşları duyulur. Aynı yükseliş ve inişi tekrarlarken yansıması aynalı duvar boyunca süzülür; her bir hareketi metronom hassasiyetiyle ölçülmüş gibidir.\nŞafak aydınlanıp da topluluğun geri kalanı birer birer içeri girmeye başladığında, onu gördükleri an çoğu zaman duraksarlar.\nBaş balerinleri bütün geceyi burada mı geçirmişti?"
       },
       {
-        "Title": "",
+        "Title": "Karakter Hikayesi 1",
         "Context": "Snezhnaya'nın Korolevskiy Topluluğunda her sezonun sonunda, önde gelen gazetelerin sanat sayfaları, istisnasız olarak topluluğun baş balerini Odette hakkındaki coşkulu yorumlarla dolup taşar.\n\"Buz gibi bir parlaklığa ulaşana dek cilalanmış bir mükemmellik.\" Bir kültür gazetesi bu hükmü o kadar sık tekrarladı ki, artık kulağa bir eleştiri gibi gelmekten çıktı ve bunun yerine onun tanındığı bir lakap haline geldi.\nSnezhnaya'nın en ünlü eleştirmenlerinden biri olan Tripolev, daha canlı bir değerlendirme sundu. \"Odette, havayı pürüzsüzce yaran, mükemmel bir biçimde bilenmiş bir hançer gibi dans ediyor. Seyirciler ise uzanıp ona dokunmamaları gerektiğini çok iyi bilerek, yalnızca keskinliğinin güzelliğine ve hareketlerindeki kesinliğe hayran kalmakla yetiniyorlar.\", diye yazmıştı.\nBaşka bir dansçı olsa, bu türden bir övgü sessiz sedasız bir ayak bağına dönüşebilirdi. Seyirciler güzelliğe hayran kalabilir ancak en çabuk kucak açtıkları güzellik; daima onlara sıcak gelen, lirik ve kalplerine dokunacak kadar yakın hissettirendir. Nitekim güzellik, izleyicisiyle yarı yolda buluşmaya istekli göründüğünde çok daha kolay anlaşılır.\nNe var ki Odette, onlara bu kapıyı hiç aralamadı. Seyircilerin onda görmeye can attığı tutku ve duyguların zerresini dahi sunmadı; kapanış perdesinde beklenen o içten tebessümü bile.\nÜstlendiği rolün gerektirdiği ifadelerin ötesinde, ister herkesin gözü önünde ister kapalı kapılar ardında olsun, yüz hatları her daim soğuk ve ölçülü kalırdı.\nTüm kuvveti sanki sanatının saflaştırılmasına akıtılmış gibiydi. Kendisini bir baş balerinden bile beklenenlerin çok ötesinde standartlara tabi tutuyordu ve sonuç ortadaydı. Daha başka ne vermekle yükümlüydü? Sırf seyirciyi memnun etmek için duygu taklidi yapmak, kesinlikle bir baş dansçının görevinin bir parçası değildi. En azından Odette bunun böyle olduğuna inanmıyordu.\nHakkında anlatılan hikayeler saymakla bitmezdi.\nEn bilinenlerinden biri, birinci sınıf koltuklardan koca bir sırayı kapatmak için ufak bir servet döken bir soylu hakkındaydı. Gösteriden sonra, kollarında buz mavisi çiçeklerden oluşan devasa bir buketle sahne kapısında tam iki saat beklemişti. En nihayetinde ona ulaşan Odette değil, tiyatro görevlilerinden gelen bir mesaj oldu: \"Bayan Odette yan girişten çoktan ayrıldı.\"\nBir başka hayranı, adanmışlığını on sayfalık bir mektuba dökmüştü. Odette ise her zamanki sözlerle yanıt verdi: \"Desteğiniz için teşekkürler.\" El yazısı imzasıyla tıpatıp uyuşmasaydı, herkes bu cevabın başka birinin elinden çıktığını sanabilirdi.\nBir de tiyatro girişini kapatıp ağzında gevelediği bölük pörçük kelimelerle Odette'i balenin Snezhnaya üzerindeki etkisi hakkında tartışmaya çekmeye çalışan o sarhoş hayran vardı. Odette etrafından dolanmaya yeltenmedi bile. Öylece durdu ve adama baktı... Bir görgü tanığı olayı şöyle anlattı: \"Birkaç saniye donup kaldı, sonra, sanki başından aşağı bir kova buzlu su dökülmüş gibi kendi kendine bir şeyler mırıldandı, arkasını döndü ve uzaklaştı.\"\n...\nOdette ne duygularını süsledi ne de hayatın gerçeklerini yumuşattı. Kuvvetinde hiçbir yapmacıklık yoktu. Saf ve sahici olan bu kuvvet, ayaklarının altındaki donmuş toprakla aynı soğuk kararlılığı ve inatçı dayanıklılığı barındırıyordu. Snezhnaya halkında derinden yankı uyandıran bir nitelikti bu.\nTavrı hiç değişmedi, her zamanki gibi mesafeliydi. Yine de tıpkı dinmek bilmeyen kar gibi, tiyatronun önündeki kuyruk da bir an olsun eksilmedi."
       },
       {
@@ -1311,15 +1323,15 @@
         "Context": "Korolevskiy Topluluğunda bile, gösteri dışında Odette ile rahatça konuşabilen kişi sayısı bir elin parmaklarını geçmez.\nVodyanitsa, hiç şüphesiz onlardan biri.\nNe var ki aralarındaki tanışıklık, başlarda sahnenin pratik gereksinimlerinden öte bir şey değildi: Program akışını düzenlemek, kostümleri hazırlamak ve ilk kez sahneye çıkmanın heyecanına yenik düşen sanatçıları yatıştırmak.\n\"Tıpkı çalıştığınız gibi. Ritme kulak verin, adımları hatırlayın ve her seferinde tek bir adım atın.\" Baş balerin sakin, hatta neredeyse ifadesizdi, sahneye çıkmanın sıradan bir provadan hiçbir farkı yokmuşçasına o alışıldık öğüdünü veriyordu. Dansçılar birbirlerine tereddüt dolu bakışlar atarken, akıllarındaki sorular da sessizce bir yüzden diğerine geçiyordu. Yine de onun sesindeki o dingin kararlılık, heyecandan pır pır atan kalplerini yatıştırmaya yetti; tıpkı yeni yağan karın usulca yeryüzünü örtüp telaşlı ve titrek ayak izlerini silip süpürmesi gibi.\n\"Hadi bakalım kızlar! Vurun göğsünüze, bırakın kalbiniz deli gibi atsın! Sahnede hayatınızın en muhteşem anlarını yaşayacaksınız!\" Primadonnanın coşkulu ve adeta havayı yaran sesi yankılandı, kızlar ise heyecandan al al olmuş yüzleriyle göğüslerine vurarak ona karşılık verdiler. Sesi içlerinde engin denizleri aşan dalgalar misali kabardı, onları kendi akıntısına kattı ve bu akıntıda yol alacak kadar cesur ve kıvrak zekalı olan herkesi önüne katıp ileriye taşıdı.\nSanatçılar birer birer sahneye çıkarken, iki başrol oyuncusu dinlenmek üzere kulise çekildi. Kendi rollerini çoktan başarıyla noktalamış, bu gösteri için ellerinden gelen her şeyi yapmışlardı. Son perde, bu yeni yüzlerindi.\nBir süreliğine giyinme odasına derin bir sessizlik çöktü. Ardından sahnede müzik başladı. Usulca kulise süzülen hafif tınılar sükuneti bozdu.\nSu İfriti'nin bardağına usulca bir bal şekerlemesi düştü. İpeğin kıvrımları arasına düşen bir inci tanesi misali, duyulur duyulmaz, incecik bir \"şıp\" sesi çıkardı.\n\"... Boğazına iyi gelir.\"\nOdette'in tek söylediği buydu. Arkasını dönüp bale ayakkabılarını özenle yeniden bağlamaya koyuldu. Vodyanitsa ise önünde duran sıcak tatlı suya dalgın dalgın bakakalmıştı.\nBu ufak jestin asıl anlamı ancak daha sonra gün yüzüne çıkacaktı. Odette normalde bu şekerleri kendine ayırır, saatler süren zorlu antrenmanların ardından kuvvetini toplamak için saklardı. O gün Vodyanitsa'ya verdiği şeker ise elindeki sonuncusuydu. Odette'in henüz bilmediği şey, Vodyanitsa'nın şarkı söyleme konusundaki olağanüstü yeteneğiydi. Bir Su İfriti olarak, sesinde en ufak bir zorlanma bile hissetmezdi.\nAncak o an Vodyanitsa, içtenlikle sunulan bir iyiliği kabul etmekten son derece mutluydu; hele ki kusursuz bir buz parçası kadar berrak ve lekesiz birinden geliyorsa.\nNe de olsa Snezhnaya'nın acımasız soğuğunda iyilik, ilgisiz bırakılamayacak kadar nadirdi. Karşılaşıldığı an ona sımsıkı sarılmalıydı. Yoksa kaskatı kesilir, bir daha kimse onu aralayamadan buz tutup kalırdı.\n...\n\"Hiç şekerlemem kalmadı.\"\n\"Hiç de bile. Daha bu sabah çantana üç kutu koydum. Hadi ver birini.\"\n\"Boğazın için ona ihtiyacın yok ki senin.\"\n\"O zaman bana kuvvetimi toplamam için lazım.\"\n\"Neden yoruldun ki? Dans eden bendim.\"\n\"Ben de şarkı söylüyordum ama! Senin, 'Ah benim biricik Vodyanitsa'm, sesin o kadar güzeldi ki seni sonsuza dek dinleyebilirim' demen, sonra da bana bir tane daha vermen lazımdı.\"\n\"... Sana verebileceğim tek şey fikirlerim, onları da gösteri bittiğinde söyleyeceğim.\"\n\"Az önce gülümsedin mi sen? Gördüm işte! Gülümsedin! Dur bir dakika, hâlâ dans mı ediyorsun sen? Hey! Hadi ama, yeter bu kadar. Hadi gidip yemek yiyelim!\"\nVodyanitsa'nın gördükleri hayal değildi. Kısacık bir anlığına, keskin gözleri Odette'in dudaklarının kenarının usulca kıvrılarak ince bir tebessüme dönüştüğünü yakaladı.\nAma Odette sıkıştırıldığında hep şöyle cevap verir:\n\"Sadece rolün gerektirdiği bir ifadeydi, o kadar.\""
       },
       {
-        "Title": "",
+        "Title": "Karakter Hikayesi 3",
         "Context": "Odette dünyaya geldiğinde, Spessiva ailesinin ihtişamı çoktan sönüp gitmişti. O görkemli günlerden geriye, eski evin duvarlarında asılı duran ve her biri bir zamanlar sahnede parlamış atalarının suretini yaşatan sararmış birkaç portreden başka pek bir şey kalmamıştı. Annesi Violetta, kısa süre önce bir balede önemli bir yardımcı role seçilmiş olsa da gözünü çoktan başrole dikmişti. O gün geldiğinde kendi portresini de o duvara astırmaya kararlıydı. Sanki annesinin içinden geçenleri duymuşçasına, küçük Odette kundağının içinde aniden feryadı bastı ve minicik ciğerlerini yırtarcasına bağırarak itirazını dile getirdi.\n\"Ah, affet beni Odette.\" Violetta gülümseyerek kızının burnuna hafifçe dokundu. \"Elbette sen de o tabloda olacaksın... Hatta daha da iyisi, hepimizin bir arada olduğu bir aile portresi yaptırırız.\"\nGüm, güm, güm... Kapının ardından asker çizmelerinin ağır ve tok adımları yankılandı. Sadece bu haneye özgü bir işaretti bu, Violetta gelenin kim olduğunu anında anlamıştı. Yüzünde bir tebessümle onu karşılamaya çıktığında, kocası hâlâ kapı eşiğinde çizmelerindeki karları silkeliyordu.\nEski ev, düzgünce sıcak tutulamayacak kadar büyüktü. Şöminedeki ateş cılız yanıyor, evin ısısı dondurucu soğukla bir türlü baş edemiyordu. Yine de aile, birbirlerinin kollarında ihtiyaç duydukları tüm sıcaklığı buluyordu.\nOdette büyüdükçe bu ritmi tıpkı babasının yüzü gibi ezberlemişti. Güm, güm, güm... Bu ses, akşam yemeği, hikayeler ve önlerindeki gecenin huzur içinde geçeceğine dair o sessiz güven demekti.\nOdette'in babası bir askerdi ve sanattan pek anlamazdı. Deri ve barut kokuları tüm yıl boyunca üzerine siner, genellikle dışarıdaki buz gibi havanın izleriyle birbirine karışırdı. Buna rağmen, ailedeki hiç kimse ondan daha hevesli bir izleyici olamazdı. Violetta ne zaman pratik yapsa, köşeye bir sandalye çeker ve izlemeye koyulurdu. Zaman zaman müziğe ayağıyla eşlik etmeye çalışırdı, gerçi ayak vuruşları nadiren ritmi yakalayabilirdi. Violetta buna güler ve ona \"tüm Snezhnaya'daki en kötü ritim duygusuna sahip adam\" derdi. O ise buna hiç itiraz etmezdi. Sadece sırıtır ve kıkırdardı, \"Ama tüm Snezhnaya'da en iyi alkışlayan da benim.\"\nEn azından bu doğruydu. Violetta ister resmi bir parça eşliğinde dans etsin, ister sadece bir melodiyi mırıldanıp doğaçlama yapsın, o her zaman sonunu gök gürültüsünü andıran bir alkışla karşılardı. Canlı ve yürekten olan bu alkış, pencere pervazındaki kuşları ürkütür ve küçük Odette'i kahkahalara boğardı.\nHenüz dans edemeyecek kadar küçüktü. Bunun yerine çoraplarıyla yerde kayar ya da iki eliyle babasının parmaklarına tutunarak onun askeri botlarının üstünde dururdu. Babası bir adım atar, o da ayakları üzerinde durduğundan henüz emin olmayan yavru bir kuş gibi sendeleyerek onu takip ederdi.\nBabası Violetta'ya, \"Görüyor musun?\" derdi. \"Bizim de kendi minik kar kuğumuz var.\"\n\"Bizimki olsa olsa minik bir ördek yavrusu,\" diye gülerek karşılık verirdi Violetta. \"Kar Kuğuları sırtlarını dimdik tutar.\"\nBabası hiç vakit kaybetmeden Odette'in yanına çömelip iki parmağıyla usulca sırtına dokunurdu: \"İşte böyle. Dik dur bakalım minik kar kuğusu.\"\nÇok geçmeden oyun faslı yerini gerçek derslere bıraktı. Violetta, Odette'e işin temellerini büyük bir ciddiyetle öğretmeye koyuldu: gerinme hareketleri, tendu hareketleri ve petit battement hareketleri. Bunlar, bıkıp usanmadan, yüz kere ve ardından bir yüz kere daha tekrarlanan can sıkıcı başlangıç egzersizleriydi. Bir eğitmen olarak Violetta'nın lügatında tavize kesinlikle yer yoktu. Ayağın birazcık bile yanlış basılması, her şeye en baştan başlamak demekti. Pazarlık söz konusu dahi olamazdı. Bazen zorlanmaktan Odette'in gözleri kızarırdı, fakat o yalnızca dudaklarını inatla birbirine bastırır ve devam ederdi.\nYine de her çalışmanın bitiminde, babası kapının eşiğinde onu bekliyor olurdu.\n\"Eee? Benim küçük dansçım bugün neler öğrenmiş bakalım?\"\nOdette, daha yeni öğrendiği için hâlâ biraz eğreti ve dengesiz de olsa, bu yeni hareketi elinden geldiğince onun için tekrarlardı. Hareketi iyi ya da kötü yapmasının hiçbir önemi yoktu. Babasının tepkisi her zaman aynı olurdu: Önce gür ve ciddiyet dolu bir alkış koparır, ardından da göz göze gelene dek usulca çömelirdi.\n\"Harika,\" diye ilan ederdi büyük bir ciddiyetle. \"Bir gün benim kızım baş balerin olacak.\"\nVioletta başını hafifçe kocasının omzuna yaslar ve ifadesindeki gerginlik nihayet yumuşayarak bir gülümsemeye dönüşürdü. Odette, baş balerin olmanın ne anlama geldiğini anlamak için henüz çok küçüktü. Fakat babası bunu söylerken yüzündeki gururu ve annesinin ona bakarkenki gülümsemesinde yatan sessiz umudu anlıyordu. Odette henüz farkında bile olmadan, kalbine bir hayalin ilk küçük tohumu ekilmişti."
       },
       {
-        "Title": "",
+        "Title": "Karakter Hikayesi 4",
         "Context": "Odette, bir zamanlar o sıcak ve huzur dolu hayatlarının hep böyle sürüp gideceğine inanırdı.\nDerken bir gün, babasının ayak sesleri eve dönmedi. İlk gün bekledi, sonra ikinci gün, ardından üçüncü gün... Fakat asker çizmelerinin sesi en nihayetinde kapıya dayandığında, atılan o adımlar babasına ait değildi.\nİki Fatui askeri derin bir ciddiyetle kapı eşiğinde durdu ve Violetta'nın ellerine bir mektup tutuşturdu. Bedeninin her bir zerresine kusursuzca hükmedebilen bu dansçı, mektubu açarken titreyen parmaklarına söz geçiremiyordu. Yanı başındaki Odette, yazılanları seçebilmek için endişe içinde parmak uçlarında yükseldi. Okumayı başarabildiği tek şey, sade bir dille yazılmış tek bir satırdı; yıllarını \"keşke hiç görmeseydim\" diyerek geçireceği o satır.\nO gece ev, sanki tüm sesler içinden sökülüp alınmışçasına derin bir sessizliğe gömüldü. Ertesi sabah Violetta tiyatronun prova odasına dönerek her zamanki rutinine kaldığı yerden devam etti. Sonra üçüncü gün geldi, ardından da dördüncü...\nOdette, annesinin yere yığılışını işte o gösteri sırasında, sahnenin aşağısından izlerken gördü. O kısacık, çaresiz anda kendini bunun koreografinin bir parçası olduğuna inandırmak istedi. Violetta kontrolünü asla kaybetmezdi ki... Belki de bu düşüşün bile provası yapılmıştı. Belki de Odette hâlâ rüya görüyordu, belki de o kabustan aslında hiçbir zaman uyanmamıştı. Ardından perdeler telaşla iniverdi. Kulisteki kargaşanın ortasında Odette, annesinin yüzünü bir anlığına görebildi. Bir zamanlar yüzünde parlayan o ışıltı tamamen kaybolmuş, yerini yalnızca ölümcül bir solgunluğa bırakmıştı.\nTedavi sona erdiğinde doktor sessiz bir hüzünle konuştu. Violetta'nın yaraları zamanla iyileşecekti elbet ancak iyileşse bile o en zorlu figürleri muhtemelen bir daha asla sergileyemeyecekti.\n...\nİlerleyen günlerde evin çehresi usul usul değişmeye başladı. Odette'in babasının her zaman oturduğu o sandalye bir köşeye itilmiş, zamanla unutulmuş eşya yığınlarının altında kaybolup gitmişti. Bir zamanlar her sabah özenle açtığı gazetenin kenarları kıvrılıp sararmış, artık ona uzanan bir el kalmadığından okunmadan öylece kalakalmıştı. Bazen ateşteki alevler ikisi de fark etmeden usulca sönmeye yüz tutar; odalar, pencerelerin ardındaki donmuş dünyadan farksız bir soğuğa bürünene dek kimsenin ruhu duymazdı. Odette ve annesi battaniyelere sarınmış halde kanepenin iki ayrı ucunda sessizce otururlardı. Aralarında uzanan ve bir zamanlar onun oturduğu o yere asla dokunmazlardı. İkisi de o boşluğu doldurmaya yeltenmezdi.\nVioletta artık figürleri hakkıyla gösteremese de Odette'in derslerine tekerlekli sandalyesinden devam etti. Bastonunu yere vurarak ritim tutuyordu: \"Tak. Tak. Tak.\"\nOdette bir kez olsun sesini çıkarmadı. Bale, o eşsiz güzelliğini oldum olası acıdan alırdı, bu yüzden o da kendi acısını sessizce göğüsledi. Su toplayan ayak parmaklarını, belli bir noktadan sonra acı eriyip yerini hissizliğe bırakana dek kat kat sargılarla sardı. Alnından süzülen teri silmek için ne zaman duraksasa, annesinin bakışlarıyla karşılaşırdı. Aynı yaranın sızısı ikisinin arasında sessizce gezinir, sonra ikisi de gözlerini usulca birbirinden kaçırırdı. Violetta saymaya, Odette ise adımlarına kaldığı yerden devam ederdi. Öğreterek ve öğrenerek, boş kalmasına asla müsaade edemeyecekleri her bir saati dolduruyorlardı. Çünkü boşluk, anılara kapı aralardı.\nDerken bir gün, eve bambaşka bir ritim ayak bastı. Yabancı bir topuk tıkırtısı dersi bir anda yarıda kesti.\nSinyora, Yüzbaşı'nın emri üzerine Violetta'ya başsağlığı dileklerini sunmak için gelmişti. Fatui Habercileri'nin sekizincisiydi ve bir zamanlar Odette'in babasının komutanı olarak görev yapmıştı.\nZiyaret ilerledikçe Sinyora'nın dikkati Odette'e ve kızın dans ederken hiç zorlanmadan sergilediği çevikliğe takıldı.\n\"Bayan Spessiva,\" dedi ardından. \"Acınızı hafife almak asla istemem. Ancak artık hiçbir geliriniz yok ve kuru bir emekli maaşıyla bir çocuğu büyütmeniz neredeyse imkansız. Bırakın, Fatui onu himayesine alsın. Bizler umut vadeden genç yetenekleri yetiştirmeye her zaman açığız. Karşılığında size de düzenli bir ödenek bağlanır.\"\nVioletta hiç düşünmeden reddetti. Fatui'nin beraberinde getirdiği tehlikeleri kimsenin ona hatırlatmasına gerek yoktu. Çok sevdiği kocasını zaten ondan almışlardı. Bir gün kızını da ellerinden alabilecekleri düşüncesine bile katlanamıyordu.\nFakat Odette her şeye kulak misafiri olmuştu. Konuşma daha bitmeden annesinin yanına koştu. Sesi her ne kadar bariz bir çocuk sesi olsa da kararlılığının hiçbir çocuksu yanı yoktu. Kendisinden istenen her şeyi yapabileceğine söz verdi. Dikkatli olacaktı. Güvende kalacaktı. Fatui eğitiminin yanı sıra baleye de devam etmenin bir yolunu mutlaka bulacaktı.\nSinyora, Odette'in buzu yarıp geçecekmiş gibi görünen bir ateşle parıldayan berrak, menekşe mavisi gözlerini süzdü.\nSessizliğin içinde \"Yapabilirim,\" diye tekrarladı Odette. Dudakları inatla incecik bir çizgi halini almıştı, yüzündeki ifade hırçın bir kararlılık taşıyor, ödenecek bedeli zerre umursamıyordu... Sinyora bu bakışı çok iyi bilirdi. Kız kendi kendini çoktan yakıp bitiriyor ancak geriye kalan bu harabeyi bir güçlülükmüş gibi gizlemeye çalışıyordu...\nSinyora soğuk, küçümseyici bir edayla süzdü onu. Öyle olsa bile gururu, teklifini geri çekmesine müsaade etmezdi.\n\"Öyleyse düş peşime,\" dedi. \"Görelim bakalım bu kararlılığın ne kadar dayanacak.\""
       },
       {
-        "Title": "",
+        "Title": "Karakter Hikayesi 5",
         "Context": "Görev tamamlandığında, gökyüzü hâlâ o aynı soğuk ve zifiri karanlığa gömülüydü.\nOdette hançerini kınına yerleştirip kayıtsız bir tavırla üstünü başını şöyle bir süzdü. Kıyafetlerinde göze batan hiçbir leke yoktu. Çizmeleri hafif nemlenmiş olsa da bu durum adımlarını yavaşlatmayacaktı. Her şey tam da planladığı gibi gitmişti. Hedef, aldığı dersi kafasına kazıyacak kadar çok korkmuştu. Bir daha sorun çıkarmaya cüret dahi edemezdi.\nGeceleri kar Snezhnaya'yı susturur, şehrin seslerini yutar ve Odette'in adımlarını kendisinin bile zar zor duyabileceği kadar hafifletirdi. Sessizliği bozacak hiçbir şey kalmadığında düşünceleri özgürce dolaşmaya başlar, ancak eninde sonunda dönüp dolaşıp hep unutmayı dilediği o anılara saplanırdı.\nBu kez zihni, görevin o son hamlesine takılıp kalmıştı. Dışarıdan izleyen biri için her şey kusursuz görünürdü. Bıçak, bileğinin içe doğru kıvrak bir hareketiyle anında gözden kaybolmuş, her bir hareketi son derece isabetli ve kontrollü gerçekleşmişti. Fakat Odette, o hamlenin aslında pek de pürüzsüz olmadığını çok iyi biliyordu. Hançeri geri çekerken belli belirsiz bir takılma olmuş, sağ kolu usulca bedeninin yanına süzüldüğünde parmak uçları havada dışa doğru silik bir çizgi çizmişti.\nEllerinin aslında neyi hatırladığını çok iyi biliyordu. Bir balenin o son figürünü...\nBu benzerlik elbette kimsenin gözünden kaçmamıştı. Fatui'nin değerlendirme raporlarında dövüş tarzı adeta bir bale gösterisine benzetiliyordu. Ancak annesinin onda bulduğu kusur bunun tam tersiydi. Söylediğine göre Odette ne zaman dans etse, hareketleri duygudan hep çok yoksundu.\nBir dansçının zarafeti savaştaki hareketlerine usulca sızıyor, savaşla yoğrulan kuvvet ise sahnedeki her adımını şekillendiriyordu. İkisini de açığa çıkarmak için özel bir çabaya gerek yoktu. Her ikisi de bilinçli hafızanın ötesinde, ete ve kemiğe işlemiş bir halde, tıpkı nefes almak veya kalp atışı kadar doğal bir şekilde, hiç düşünmeden kendiliğinden yüzeye çıkıyordu.\nKılıç ve point ayakkabısı, artık aynı içgüdünün iki ayrı ifadesiydi.\nBelki de Odette, büründüğü onca farklı kimliğin arasında hiçbir zaman gerçekten bölünmemişti. Başından sonuna dek hepsinin ardında yatan kişi hep aynıydı. Kışın iliklerine kadar dondurduğu, ulaşabildiği ne kaldıysa ona sımsıkıya tutunan biri.\n...\nOdette, dışarıda usulca biriken kar kadar sessiz adımlarla Korolevskiy Tiyatrosu'nun arka kapısından içeri süzüldü.\nProva odasına geçip bale ayakkabılarını giydi, lambalara dokunmadı bile. Yüksek pencerelerden içeri süzülen soğuk ay ışığı, zemini adeta iki ayrı dünyaya bölüyordu: Biri solgun ve ışıl ışıl, diğeri ise gölgelere boğulmuş.\nBu iki dünyanın arasında süzülerek dans ediyor, yer değiştiren ışık hüzmelerinin içine bir girip bir çıkıyordu. Böylesi bir yalnızlığın eşine az rastlanırdı. Başkasına değil, yalnızca kendisine ait olan o zamanlar ise çok daha nadideydi.\nOdada müzikten eser yoktu, yalnızca derin bir sessizlik hakimdi. Ne annesinin o ölçülü baston tıkırtısı ne de babasının yaklaşan ayak sesleri duyuluyordu. Hissedilen tek ritim, kendi nefes alışverişinden ve point ayakkabılarının zemindeki o hafif sürtünüşünden ibaretti. Boyun eğeceği bir koreografi veya etkilemek zorunda olduğu bir seyirci yokken, bedenini tamamen özgür bıraktı ve her bir hareketin kendiliğinden vücut bulmasına izin verdi.\nDönüşleri gittikçe hızlandı, ta ki yüzündeki ter ile gözyaşları birbirine karışıp ayırt edilemez hale gelene dek. Dans onun direnişi, özlemi ve tüm bunlara şekil verebildiği yegane dili olmuştu.\nVe belki de pencereden içeri süzülen bir kar tanesi orada kalıp onu seyre dalsaydı, söylentilere inanması hiç de kolay olmazdı.\nO anda, Korolevskiy Topluluğunun baş balerini hiç de soğuk görünmüyordu."
       },
       {

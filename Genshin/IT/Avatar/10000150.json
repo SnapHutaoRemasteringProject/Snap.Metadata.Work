@@ -36,7 +36,15 @@
         "GroupId": 15031,
         "Proud": {
           "Descriptions": [
-            "DAN da ATT caricato|{param7:F1P}"
+            "DAN da 1º colpo|{param1:F1P}",
+            "DAN da 2º colpo|{param2:F1P}",
+            "DAN da 3º colpo|{param3:F1P}+{param4:F1P}",
+            "DAN da 4º colpo|{param5:F1P}",
+            "DAN da 5º colpo|{param6:F1P}",
+            "DAN da ATT caricato|{param7:F1P}",
+            "Costo vigore ATT caricato|{param8:F1}",
+            "DAN da ATT in picchiata|{param9:F1P}",
+            "DAN da ATT in picchiata basso/alto|{param10:P}/{param11:P}"
           ],
           "Parameters": [
             {
@@ -307,6 +315,7 @@
         "GroupId": 15032,
         "Proud": {
           "Descriptions": [
+            "DAN da abilità|{param1:F1P}",
             "DAN nel tempo Gran finale dell'alba|{param2:F1P}",
             "DAN da Astroconduzione/Turbinio astrale Gran finale dell'alba|{param3:P}/{param4:P}",
             "DAN da passo di danza Piuma|{param5:F1P}",
@@ -617,10 +626,13 @@
       "GroupId": 15039,
       "Proud": {
         "Descriptions": [
+          "DAN da fendente|{param1:F1P}×3",
           "DAN da fendente finale|{param2:F1P}",
           "Bonus DAN da reazione di Barlume astrale Sogno del cigno delle nevi|{param3:F1P}",
+          "#Durata Sogno del cigno delle nevi|{param4:F1}{NON_BREAK_SPACE}s",
           "#Durata Controfigura danzante solista|{param5:F1}{NON_BREAK_SPACE}s",
-          "#TdR|{param6:F1}{NON_BREAK_SPACE}s"
+          "#TdR|{param6:F1}{NON_BREAK_SPACE}s",
+          "Costo energia|{param7:I}"
         ],
         "Parameters": [
           {
@@ -1009,7 +1021,7 @@
         "Context": "Se solo ci fosse il doppio delle ore in un giorno... Mh, anzi, il triplo."
       },
       {
-        "Title": "",
+        "Title": "Quando piove",
         "Context": "Il picchiettio della pioggia mi fa sempre sentire così serena... Questo tempo è perfetto per danzare da sola."
       },
       {
@@ -1017,11 +1029,11 @@
         "Context": "I momenti più belli e sereni sono sempre i più fugaci."
       },
       {
-        "Title": "",
+        "Title": "Quando nevica",
         "Context": "La neve a Snezhnaya è sempre terribilmente fredda, e sembra non finire mai."
       },
       {
-        "Title": "",
+        "Title": "Quando soffia il vento",
         "Context": "I miei capelli... Li sistemo dopo."
       },
       {
@@ -1029,7 +1041,7 @@
         "Context": "...Almeno in un posto come questo non ci saranno incontri con i fan."
       },
       {
-        "Title": "",
+        "Title": "Buongiorno",
         "Context": "Mi sono scaldata e sono pronta a iniziare."
       },
       {
@@ -1065,7 +1077,7 @@
         "Context": "Una volta, durante un allenamento particolarmente intenso, mi si congelarono i piedi e le gambe a causa del freddo estremo, e persi quasi completamente i sensi. Quando mi ripresi, la prima cosa che notai fu una luce che proveniva dal Cardine astrale di fronte a me. Però non ho mai sentito di Cardini astrali che risvegliano le persone in modi simili, quindi... Se non è stato quello a svegliarmi, sarà stato una specie di istinto di sopravvivenza...?"
       },
       {
-        "Title": "",
+        "Title": "Qualcosa da condividere",
         "Context": "Affronto ogni prova con la stessa serietà di un'esibizione vera e propria."
       },
       {
@@ -1165,15 +1177,15 @@
         "Context": "Questo sarebbe un piatto solo? Sembra più... la quantità di cibo di un'intera giornata."
       },
       {
-        "Title": "",
+        "Title": "Ricevere un regalo (3)",
         "Context": "Ehm, no grazie. Devo stare attenta a quello che mangio."
       },
       {
-        "Title": "",
+        "Title": "Compleanno",
         "Context": "Buon compleanno! Stavo pensando a cosa regalarti... Di solito io ricevo cose come fiori, scarpette da ballo e carillon, ma dubito che sia quello che hai in mente. Che ne dici di... esprimere semplicemente un desiderio? Possibilmente qualcosa che sia in mio potere esaudire, ovviamente..."
       },
       {
-        "Title": "",
+        "Title": "Pensieri sull'ascensione: Introduzione",
         "Context": "Uhm, ancora non ci siamo... Devo allenarmi ancora più a fondo."
       },
       {
@@ -1185,7 +1197,7 @@
         "Context": "I miei fouetté ora sono perfetti, ma non devo adagiarmi sugli allori."
       },
       {
-        "Title": "",
+        "Title": "Pensieri sull'ascensione: Conclusione",
         "Context": "\"L'emozione è una parte indispensabile del balletto\". Ora capisco cosa significa. Grazie per la tua compagnia e il tuo sostegno. Se ti va di venire alla mia esibizione di oggi, eccoti un biglietto."
       },
       {
@@ -1193,7 +1205,7 @@
         "Context": "Cominciamo."
       },
       {
-        "Title": "",
+        "Title": "Abilità elementale (2)",
         "Context": "Segui me."
       },
       {
@@ -1201,19 +1213,19 @@
         "Context": "Insieme."
       },
       {
-        "Title": "",
+        "Title": "Abilità elementale (4)",
         "Context": "Pas de deux."
       },
       {
-        "Title": "",
+        "Title": "Abilità elementale (5)",
         "Context": "Piroetta."
       },
       {
-        "Title": "",
+        "Title": "Abilità elementale (6)",
         "Context": "Eheh."
       },
       {
-        "Title": "",
+        "Title": "Tripudio elementale (1)",
         "Context": "Valzer dei fiocchi di neve."
       },
       {
@@ -1221,7 +1233,7 @@
         "Context": "Adagio cristallino."
       },
       {
-        "Title": "",
+        "Title": "Tripudio elementale (3)",
         "Context": "Ammira la grazia del cigno delle nevi."
       },
       {
@@ -1229,7 +1241,7 @@
         "Context": "Non c'è nulla che mi serva, tienilo tu."
       },
       {
-        "Title": "",
+        "Title": "Apertura baule (2)",
         "Context": "Un viaggio è molto simile a una lezione di danza: ogni passo conta."
       },
       {
@@ -1241,11 +1253,11 @@
         "Context": "Non mi preoccupa."
       },
       {
-        "Title": "",
+        "Title": "PS bassi (2)",
         "Context": "È solo un graffio."
       },
       {
-        "Title": "",
+        "Title": "PS bassi (3)",
         "Context": "Non è un problema."
       },
       {
@@ -1253,7 +1265,7 @@
         "Context": "Tutto bene?"
       },
       {
-        "Title": "",
+        "Title": "PS bassi alleato (2)",
         "Context": "Scambiamoci."
       },
       {
@@ -1277,23 +1289,23 @@
         "Context": "Devi impegnarti di più."
       },
       {
-        "Title": "",
-        "Context": ""
+        "Title": "Danni da colpo pesante (1)",
+        "Context": "Tutto qui?"
       },
       {
         "Title": "Danni da colpo pesante (2)",
         "Context": "Dovrebbe fare male?"
       },
       {
-        "Title": "",
+        "Title": "Unione al gruppo (1)",
         "Context": "Sono pronta."
       },
       {
-        "Title": "",
+        "Title": "Unione al gruppo (2)",
         "Context": "Devo stare al centro della scena?"
       },
       {
-        "Title": "",
+        "Title": "Unione al gruppo (3)",
         "Context": "Dove si va, stavolta?"
       }
     ],
@@ -1303,7 +1315,7 @@
         "Context": "In altre terre, la parola \"danzatrice\" evoca spesso l'immagine di una persona calorosa e familiare, una presenza gentile che offre conforto lungo il cammino della vita.\nQuando si evoca la stessa parola a Snezhnaya, tuttavia, l'immagine che ne scaturisce è un po' più gelida.\nOdette Spessiva, prima ballerina della Compagnia Korolevskiy, appare sui manifesti promozionali con la medesima espressione di compostezza. Lo sguardo calmo e distante, le labbra leggermente serrate, il volto immobile come una statua sfiorata dal gelo.\nQuel freddo riserbo non fa che rendere ancora più evidente il fervore dei suoi ammiratori. La loro devozione non è difficile da comprendere: Odette vanta una figura impeccabile, e le sue esibizioni combinano un'austerità tagliente con una straordinaria tensione drammatica; ogni passo e ogni movimento della mano portano con sé la precisione di una gemma finemente tagliata, e ogni gesto cattura la luce con un fulgore che incanta lo sguardo.\nNessuno può assistere a una tale maestria senza riconoscere l'impegno che vi si cela dietro. Nell'istante in cui Odette sale sul palco, ogni dubbio viene messo a tacere.\nEppure, una volta calato il sipario, raramente torna in scena per un bis. Gli ammiratori la omaggiano con fiori ed elogi, per ricevere solo la più breve delle risposte:\n\"Grazie per il vostro sostegno. Alla prossima\".\nI suoi modi spicci possono essere facilmente scambiati per sussiego, ma Odette non ha alcuna intenzione di darsi delle arie. Al di là del palcoscenico e delle sue luci abbaglianti, la attendono altri doveri. La sua vita è come il calendario appeso alla sua parete: ogni spazio è già occupato, senza un solo riquadro vuoto lasciato per sé stessa.\nSe, nel cuore di una notte innevata, doveste scorgere una sagoma che passa senza rumore, dotata di una leggerezza impossibile per un comune viaggiatore, fareste bene a non seguirla. Le notti di Snezhnaya sono gelide, e i cittadini rispettabili già dormono dietro le finestre sbarrate. Chi si avventura fuori a quell'ora raramente lo fa senza uno scopo.\nQualunque cosa la notte pretenda da lei, Odette è di ritorno a teatro puntuale la mattina seguente. Dalla sala prove giungono le note flebili di una melodia o il tocco soffuso e attutito delle sue scarpette da punta sul pavimento. Il suo riflesso scorre lungo la parete di specchi mentre ripete la stessa elevazione e discesa, ogni movimento misurato con la precisione di un metronomo.\nQuando l'alba rischiara il cielo e gli altri membri della compagnia iniziano a entrare alla spicciolata, spesso si fermano alla sua vista.\nLa loro prima ballerina è stata lì tutta la notte?"
       },
       {
-        "Title": "",
+        "Title": "Storia del personaggio (1)",
         "Context": "Al termine di ogni stagione della Compagnia Korolevskiy di Snezhnaya, le pagine culturali dei principali giornali si riempivano immancabilmente di appassionati commenti su Odette, la prima ballerina della compagnia.\n\"Perfetta e glaciale\". Un giornale culturale ripeté quel verdetto così spesso che smise di suonare come una critica, diventando invece l'epiteto con cui era conosciuta.\nTripolev, uno dei critici più celebri di Snezhnaya, offrì un giudizio più vivido: \"Odette\", scrisse, \"danza come un pugnale perfettamente affilato, che fende l'aria con tagli netti. Il pubblico non può che ammirare la bellezza della sua lama e la precisione dei suoi movimenti, pur sapendo bene che è meglio non allungare la mano per toccarla\".\nPer un'altra ballerina, un elogio di quel tipo avrebbe potuto rivelarsi un sottile svantaggio: il pubblico può ammirare la bellezza, ma è più pronto ad abbracciare quella che trasmette calore, lirismo e vicinanza emotiva. La bellezza è più facile da comprendere quando sembra disposta a venire incontro allo spettatore.\nOdette, tuttavia, non offriva alcun invito di quel genere. Della passione e del sentimento che il pubblico desiderava ardentemente scorgere in lei non concedeva nulla, nemmeno il sorriso sincero che ci si aspetta quando cala il sipario.\nAl di là delle espressioni richieste dal ruolo che interpretava, i suoi lineamenti restavano freddi e composti, tanto di fronte al pubblico quanto in privato.\nTutta la sua energia sembrava essere stata riversata nel perfezionamento della sua arte. Si imponeva standard ben superiori a quelli richiesti persino a una prima ballerina, e il risultato parlava da sé; cos'altro era tenuta a dare? Di certo fingere emozioni solo per compiacere il pubblico non rientrava tra i doveri di una prima ballerina. Odette, perlomeno, non credeva che rientrasse.\nNon mancavano di certo aneddoti sul suo conto.\nUna delle storie più note riguardava un nobiluomo che aveva speso una piccola fortuna per riservare un'intera fila di posti di prima classe. Dopo lo spettacolo, aveva atteso per due ore all'uscita degli artisti, con un enorme mazzo di fiori blu ghiaccio tra le braccia; ma ciò che alla fine lo raggiunse non fu Odette, bensì un messaggio del personale del teatro: \"La signorina Odette è già uscita dall'ingresso laterale\".\nUn altro ammiratore riversò dieci pagine di devozione in una lettera. Odette rispose con le stesse parole di sempre: \"Grazie per il sostegno\". Se la grafia non avesse combaciato con la sua firma, chiunque avrebbe potuto pensare che fosse stata scritta da qualcun altro.\nPoi ci fu l'ammiratore ubriaco che bloccò l'ingresso del teatro, tentando con un fiume di parole sconnesse di coinvolgere Odette in una discussione sull'influenza del balletto su Snezhnaya. Lei non fece alcun gesto per aggirarlo, si fermò semplicemente e lo guardò... \"Rimase immobile per diversi secondi\", ricordò in seguito un testimone. \"Poi, come se gli avessero rovesciato addosso una bacinella d'acqua gelata, mormorò qualcosa tra sé, si voltò e se ne andò\".\n...\nOdette non abbelliva i propri sentimenti, né addolciva le durezze della vita. Non c'era artificio nella sua forza: era limpida e autentica, possedeva la medesima fredda determinazione e l'ostinata resistenza del suolo gelato sotto i suoi piedi... Una qualità che risuonava profondamente nel cuore del popolo di Snezhnaya.\nDa allora, il suo atteggiamento è rimasto immutato, distante come sempre. Eppure la fila fuori dal teatro non si riduce mai, così come la neve non smette mai di cadere."
       },
       {
@@ -1311,15 +1323,15 @@
         "Context": "Persino all'interno della Compagnia Korolevskiy, solo poche persone possono parlare liberamente con Odette al di fuori di un'esibizione.\nVodyanitsa è, senza alcun dubbio, una di loro.\nIl loro rapporto, tuttavia, iniziò con poco più delle esigenze pratiche del palcoscenico: organizzare il programma, preparare i costumi e rassicurare gli artisti sopraffatti dall'ansia prima della loro prima esibizione.\n\"Fate esattamente come quando avete provato. Ascoltate il ritmo, ricordate i passi e affrontateli uno alla volta\". Calma e quasi inespressiva, la prima ballerina offrì gli stessi consigli che avrebbe dato durante le prove, come se salire sul palcoscenico non fosse diverso dall'esercitarsi. Le artiste si scambiarono sguardi incerti, le loro domande scorsero in silenzio da un volto all'altro; eppure, i loro cuori in tumulto cominciarono a placarsi sotto la placida fermezza della sua voce, come neve fresca che si posa su un campo e cancella ogni impronta frettolosa e incerta.\n\"Bene, ragazze. Battetevi il petto e lasciate che il vostro cuore batta all'impazzata! Sul palco vi aspetta il momento più bello della vostra vita!\" La voce della primadonna risuonò esuberante, quasi stridula, e le sue ragazze risposero battendosi il petto, i loro volti accesi dall'eccitazione. La sua voce le attraversò come onde sul mare, trascinandole nella sua corrente e portando avanti chiunque fosse stata abbastanza coraggiosa e sveglia da cavalcarla.\nUna dopo l'altra, le artiste salirono sul palco, lasciando le due protagoniste a riposare dietro le quinte. Le loro parti si erano già concluse con successo, e avevano fatto tutto il possibile per l'esibizione; l'ultimo atto apparteneva alle nuove arrivate.\nPer un po', il silenzio avvolse il camerino; poi la musica iniziò sul palco, e le sue fievoli note si diffusero dietro le quinte, rompendo la quiete.\nUna caramella al miele scivolò nella tazza del Folletto dell'acqua. Vi cadde con un leggerissimo tintinnio, come una perla che cade tra pieghe di seta.\n\"...Fa bene alla gola.\"\nFu tutto ciò che disse Odette. Si voltò e riallacciò con cura le scarpette da danza, lasciando Vodyanitsa a fissare con uno sguardo assente l'acqua calda zuccherata che aveva davanti.\nSolo più tardi il significato di quel piccolo gesto divenne chiaro. Di solito Odette teneva quelle caramelle per sé, conservandole per recuperare le forze dopo le lunghe ed estenuanti ore di allenamento. Quella che aveva dato a Vodyanitsa quel giorno era l'ultima che le era rimasta. Ciò che Odette ancora non sapeva era che Vodyanitsa possedeva un dono eccezionale per il canto: essendo un Folletto dell'acqua, non avvertiva quasi alcuno sforzo nella voce.\nIn quel momento, tuttavia, Vodyanitsa fu assolutamente felice di accettare quel gesto di gentilezza offertole con sincerità, specialmente quando proveniva da una persona limpida e immacolata come un pezzo di ghiaccio pregiato.\nDopotutto, nel freddo spietato di Snezhnaya la gentilezza era fin troppo rara per essere lasciata incustodita. Quando la si trovava, bisognava stringerla a sé, altrimenti si rischiava di farla gelare del tutto, al punto che nessuno sarebbe più riuscito a dischiuderla.\n...\n\"Ho finito le caramelle.\"\n\"Non è vero. Stamattina te ne ho messe tre confezioni nella borsa! Dammene una.\"\n\"Ma non ti serve per la gola.\"\n\"Allora mi serve per recuperare le forze.\"\n\"Recuperare le forze? Sono io che ho ballato.\"\n\"E io ho cantato! Dovresti dire: 'O carissima Vodyanitsa, la tua voce era così soave che potrei ascoltarla per sempre', e poi darmene un'altra.\"\n\"...Quello che potrò darti è la mia opinione, una volta finita l'esibizione.\"\n\"Hai appena sorriso, vero? Ti ho vista! Hai sorriso! Aspetta, stai ancora ballando? Ehi! Dai, basta così. Andiamo a mangiare!\"\nVodyanitsa non se l'era immaginato. Per un brevissimo istante, i suoi occhi attenti avevano colto l'angolo della bocca di Odette sollevarsi in un sorriso.\nMa Odette rispondeva sempre così quando veniva messa alle strette:\n\"Era semplicemente l'espressione richiesta dal ruolo.\""
       },
       {
-        "Title": "",
+        "Title": "Storia del personaggio (3)",
         "Context": "Quando Odette venne al mondo, la gloria della famiglia Spessiva era ormai svanita da tempo. Non ne restava altro che una manciata di ritratti ingialliti appesi alle pareti della vecchia dimora, ciascuno dei quali conservava le sembianze di un'antenata che un tempo aveva brillato sul palcoscenico. Sua madre, Violetta, aveva ottenuto da poco un importante ruolo di supporto in un balletto, ma i suoi pensieri erano già rivolti al ruolo di protagonista. Quando quel giorno sarebbe arrivato, aveva deciso, avrebbe aggiunto anche il proprio ritratto alla parete. Come se avesse colto quel pensiero, la piccola Odette in fasce scoppiò improvvisamente a piangere, protestando con tutta la forza che aveva nei suoi piccoli polmoni.\n\"Oh, perdonami, Odette\". Violetta sorrise e le diede un buffetto sulla punta del naso. \"Ovviamente nel quadro ci sarai anche tu... Anzi, faremo un ritratto di famiglia, tutti insieme\".\nTum, tum, tum... Il passo pesante e cadenzato di stivali militari risuonò oltre la porta. Era un segnale destinato solo a quella casa, e Violetta capì subito chi annunciava. Suo marito era ancora sulla soglia, a scrollarsi la neve dagli stivali, quando lei gli andò incontro con un sorriso.\nLa vecchia casa era troppo grande per essere riscaldata a dovere: il fuoco nel camino ardeva fioco e il riscaldamento non riusciva mai a tenere testa al freddo; eppure, stretti l'uno nelle braccia dell'altro, la famiglia trovava sempre tutto il calore di cui aveva bisogno.\nMan mano che Odette cresceva, il ritmo di quei passi le divenne familiare quanto il volto di suo padre. Tum, tum, tum... Significava cena, storie e la quieta certezza che la notte sarebbe trascorsa in pace.\nIl padre di Odette era un soldato e capiva ben poco di arte. L'odore di cuoio e polvere da sparo lo accompagnava tutto l'anno, spesso mescolato a una traccia dell'aria gelida che veniva da fuori. Eppure, nessuno in famiglia era un pubblico più entusiasta di lui: ogni volta che Violetta si esercitava, lui trascinava una sedia nell'angolo e si accomodava a guardarla. Di tanto in tanto cercava di seguire la musica battendo il piede, anche se il suo ritmo raramente si avvicinava al tempo giusto. Violetta rideva e lo definiva \"l'uomo con il peggior senso del ritmo di tutta Snezhnaya\". Lui non protestava mai; si limitava a sorridere e rispondere: \"Ma sono il migliore ad applaudire\".\nE almeno questo era vero: che Violetta danzasse un pezzo formale o si limitasse a canticchiare una melodia improvvisando sul momento, lui accoglieva sempre il finale con un applauso fragoroso, luminoso e sincero, che faceva sobbalzare gli uccelli dal davanzale e ridere a crepapelle la piccola Odette.\nLei era ancora troppo piccola per danzare: scivolava sul pavimento con le calze, oppure si metteva in piedi sugli stivali militari del padre stringendo le dita di lui con entrambe le mani; lui faceva un passo e lei lo seguiva, barcollando come un uccellino ancora incerto sulle zampette.\n\"Vedi?\", diceva suo padre a Violetta. \"Abbiamo un piccolo cigno delle nevi tutto nostro\".\n\"Al massimo abbiamo un piccolo anatroccolo\", rispondeva Violetta ridendo. \"I cigni delle nevi tengono la schiena dritta\".\nA quel punto, suo padre si accovacciava accanto a Odette e le sfiorava la schiena con due dita. \"Ecco fatto. Schiena dritta, piccolo cigno delle nevi\".\nIn poco tempo, il gioco lasciò il posto a vere e proprie lezioni. Violetta iniziò a insegnare a Odette i fondamenti con serietà: allungamenti, tendu, petit battement. Erano esercizi noiosi da principiante, ripetuti all'infinito cento volte e poi altre cento. Come insegnante, Violetta non ammetteva compromessi; un piede fuori posto significava ricominciare da capo, non c'era spazio per le vie di mezzo. A volte, lo sforzo lasciava gli occhi di Odette arrossati, ma lei si limitava a serrare le labbra con ostinazione e a continuare.\nEppure, alla fine di ogni lezione suo padre era sempre lì ad aspettarla sulla porta.\n\"Allora? Cos'ha imparato oggi la mia piccola ballerina?\"\nOdette ripeteva per lui il nuovo movimento come meglio poteva, ancora sgraziata e incerta per averlo appena imparato. Che lo eseguisse bene o male non faceva differenza, la sua reazione era sempre la stessa: prima veniva l'applauso, sonoro e solenne; poi si accovacciava fino a trovarsi alla sua altezza, occhi negli occhi.\n\"Meraviglioso\", dichiarava con assoluta serietà. \"Un giorno, mia figlia diventerà una prima ballerina\".\nVioletta appoggiava dolcemente la testa sulla spalla del marito, e la tensione nella sua espressione si scioglieva finalmente in un sorriso. Odette era ancora troppo piccola per capire cosa significasse diventare una prima ballerina, ma comprendeva l'orgoglio sul volto di suo padre mentre lo diceva, e la silenziosa speranza nel sorriso di sua madre quando la guardava. Senza che Odette ne fosse consapevole, il primo piccolo seme di un sogno era stato piantato nel suo cuore."
       },
       {
-        "Title": "",
+        "Title": "Storia del personaggio (4)",
         "Context": "Odette aveva creduto che la loro vita calorosa e serena sarebbe continuata come sempre.\nPoi, un giorno, i passi di suo padre non risuonarono più. Attese uno, due, poi tre giorni... Ma quando infine il suono degli stivali militari raggiunse la casa, non si trattava di passi familiari.\nDue soldati dei Fatui si presentarono con aria solenne sulla soglia e misero una lettera tra le mani di Violetta. La ballerina, capace di comandare ogni parte del proprio corpo con una precisione impeccabile, non riuscì a impedire alle dita di tremare mentre l'apriva. Accanto a lei, Odette si sollevò ansiosa sulle punte dei piedi, allungandosi per intravedere le parole. Tutto ciò che riuscì a leggere fu una singola riga, scritta in modo semplice... Una riga che avrebbe trascorso anni desiderando di non aver mai letto.\nQuella notte la casa rimase avvolta in un silenzio assoluto, come se qualcuno l'avesse svuotata di ogni suono. La mattina seguente, Violetta tornò alla sala prove del teatro e riprese ad allenarsi come sempre. Poi venne il terzo giorno e, dopo di esso, il quarto...\nFu durante l'esibizione che Odette, osservando da sotto il palco, vide sua madre accasciarsi. Per un istante disperato, pensò che facesse parte della coreografia. Dopotutto, Violetta non perdeva mai il controllo: forse quella caduta era intenzionale; forse Odette stava ancora sognando; forse non si era mai davvero svegliata dall'incubo. Poi, il sipario calò in fretta. Nel trambusto dietro le quinte, Odette intravide il volto di sua madre: tutto lo splendore che prima lo illuminava era svanito, sostituito solo da un pallore cadaverico.\nQuando le cure furono terminate, il dottore parlò con sommesso rammarico. Le ferite di Violetta sarebbero guarite col tempo ma, anche allora, molto probabilmente non sarebbe più riuscita a eseguire i passi più impegnativi.\n...\nNei giorni che seguirono, la casa cominciò a cambiare: la poltrona che il padre di Odette aveva sempre occupato venne spinta in un angolo, dove a poco a poco scomparve sotto un ammasso di oggetti dimenticati; la copia del giornale che egli sfogliava ogni mattina si arricciò ai bordi e ingiallì, abbandonata senza che nessuno la prendesse più in mano. A volte il fuoco si consumava senza che nessuna delle due se ne accorgesse, finché le stanze non diventavano fredde quanto il mondo gelato oltre le finestre. Odette e sua madre sedevano avvolte nelle coperte, ai lati opposti del divano. Tra loro, lasciavano intatto il posto dove lui un tempo sedeva. Nessuna delle due si mosse mai per riempirlo.\nSebbene non potesse più eseguire i movimenti correttamente, Violetta continuò a impartire le lezioni a Odette dalla sua sedia a rotelle. Scandiva il ritmo battendo il bastone sul pavimento: \"Tum. Tum. Tum\".\nOdette non esternava mai il proprio patimento: il balletto aveva sempre tratto la sua bellezza dal dolore, e lei sopportava il proprio in silenzio. Fasciava le dita dei piedi piene di vesciche in strati di bende finché, arrivata a un certo punto, il dolore mutava in intorpidimento. Ogni volta che si fermava per asciugarsi il sudore dalla fronte, trovava sua madre a osservarla. Condividevano silenziosamente la stessa ferita, poi entrambe distoglievano lo sguardo. Violetta riprendeva a contare e Odette riprendeva i passi. Insegnando e imparando, riempivano ogni ora che non poteva rimanere vuota, perché il vuoto lasciava spazio ai ricordi.\nPoi, un giorno, in casa entrò un altro ritmo: il ticchettio sconosciuto di tacchi interruppe la lezione.\nEra Signora, giunta per volere del Condottiero per porgere le sue condoglianze a Violetta. Era l'ottava dei Messaggeri dei Fatui, e in passato era stata la comandante del padre di Odette.\nDurante la visita, l'attenzione di Signora si posò su Odette e sulla disinvolta agilità con cui danzava.\n\"Signora Spessiva\", disse poi, \"non è mia intenzione parlare con leggerezza del suo dolore. Ma ora lei è priva di un reddito e una sola pensione basterà a malapena per crescere una bambina. I Fatui potrebbero prenderla sotto la loro custodia. Siamo sempre pronti a coltivare giovani talenti promettenti. In cambio, lei riceverebbe un assegno\".\nVioletta rifiutò immediatamente. Non serviva che le si ricordassero i pericoli legati ai Fatui... Le avevano già portato via il marito che amava, il solo pensiero che un giorno potessero portarle via anche la figlia era più di quanto potesse sopportare.\nMa Odette aveva sentito tutto, e corse al fianco di sua madre prima che la conversazione potesse concludersi. Sebbene la sua voce fosse ancora inconfondibilmente quella di una bambina, non c'era nulla d'infantile nella sua determinazione. Promise che avrebbe fatto tutto ciò che le sarebbe stato richiesto: sarebbe stata attenta, sarebbe rimasta al sicuro, e avrebbe trovato un modo per continuare a danzare mentre veniva addestrata dai Fatui.\nSignora scrutò gli occhi color indaco di Odette, limpidi e ardenti di un fuoco che sembrava squarciare il ghiaccio.\n\"Posso farcela\", ripeté Odette nel silenzio, le labbra serrate in una linea ostinata, l'espressione di fiera determinazione, del tutto incurante del sacrificio... Signora conosceva quello sguardo: la bambina si stava già consumando, eppure cercava di spacciarla come capacità di resistenza...\nSignora la osservò con una gelida espressione di scherno. Comunque fosse, il suo orgoglio non le avrebbe permesso di ritirare l'offerta.\n\"Vieni con me, allora\", disse. \"Vediamo quanto a lungo durerà questa tua determinazione\"."
       },
       {
-        "Title": "",
+        "Title": "Storia del personaggio (5)",
         "Context": "Quando la missione fu conclusa, il cielo era ancora avvolto nella stessa oscurità gelida e priva di luce.\nOdette fece scivolare il pugnale nel fodero prima d'ispezionarsi senza la minima emozione: i suoi vestiti non presentavano macchie visibili e, sebbene i suoi stivali fossero leggermente umidi, l'umidità non avrebbe ostacolato i suoi passi. Tutto era andato come previsto, il bersaglio si era spaventato abbastanza da ricordarsi la lezione e non avrebbe osato creare altri problemi.\nDurante la notte, la neve avvolgeva Snezhnaya in un silenzio ovattato, inghiottendo i rumori della città e attutendo i passi di Odette fino a renderli impercettibili persino a lei stessa. Senza nulla a spezzare quel silenzio, i suoi pensieri erano liberi di vagare, e trovavano sempre la strada per tornare a ciò che avrebbe preferito dimenticare.\nStavolta la sua mente si soffermò sul movimento finale della missione. A chiunque avesse osservato, sarebbe sembrato impeccabile. La lama era svanita con una rapida rotazione del polso verso l'interno, ogni gesto preciso e controllato. Eppure Odette sapeva che il movimento non era stato del tutto pulito: mentre ritraeva il pugnale, aveva avuto una lievissima esitazione, e quando il braccio destro era tornato lungo il fianco, le punte delle dita avevano tracciato una tenue linea verso l'esterno.\nSapeva cos'aveva ricordato la sua mano: era il movimento finale di un balletto.\nLa somiglianza non era passata inosservata. Nel rapporto di valutazione dei Fatui, il suo stile di combattimento era stato paragonato alla danza. Sua madre, tuttavia, vi aveva scorto il difetto opposto: ogni volta che Odette danzava, diceva, c'era troppo poco sentimento.\nLa grazia di una danzatrice s'insinuava nei suoi movimenti in battaglia, mentre la forza temprata dal combattimento plasmava ogni passo che compiva sul palco. Nessuna delle due doveva essere evocata, entrambe affioravano istintivamente, con la stessa naturalezza del respiro e del battito cardiaco, sepolte in qualche luogo oltre la memoria cosciente, nelle ossa e nei muscoli.\nLa lama e la punta dei piedi erano diventate due espressioni del medesimo istinto.\nForse Odette non era mai stata davvero divisa tra tutte quelle identità. Fin dall'inizio, ne aveva sempre avuto soltanto una: quella di una persona che l'inverno aveva gelato fin nelle ossa, aggrappata a tutto ciò che restava ancora alla sua portata.\n...\nOdette scivolò all'interno del Teatro Korolevskiy dalla porta sul retro, silenziosa come la neve che si posava sul suolo all'esterno.\nSi diresse verso la sala prove, indossò le scarpette da ballo e lasciò le luci spente. Il freddo chiaro di luna filtrava attraverso le alte finestre, scindendo il pavimento in due mondi: uno pallido e luminoso, l'altro sommerso nell'ombra.\nDanzava tra luce e oscurità, attraversando i coni di luce mutevoli. Una solitudine come quella era rara, e ancor di più lo era quel tempo che apparteneva soltanto a lei stessa.\nNella stanza non c'era musica, solo silenzio. Non si udiva il tocco cadenzato del bastone di sua madre, né il suono dei passi di suo padre che si avvicinava. L'unico ritmo presente era quello del suo respiro e del lieve sfregamento delle punte sul pavimento. Senza una coreografia da seguire né un pubblico da compiacere, lasciava che ogni movimento prendesse forma da sé.\nLe sue piroette si fecero sempre più rapide, fino a che sudore e lacrime non divennero indistinguibili sul suo volto. La danza divenne la sua resistenza, il suo desiderio, l'unico linguaggio in cui poteva dar loro forma.\nE forse, se un fiocco di neve fosse entrato dalla finestra soffermandosi a osservare, avrebbe faticato a credere a quelle voci.\nIn quel momento, la prima ballerina della Compagnia Korolevskiy non sembrava affatto fredda."
       },
       {

@@ -318,7 +318,8 @@
           "Descriptions": [
             "DAN da Colpo prismatico|{param1:F1P}",
             "DAN da Astroconduzione Colpo prismatico|{param2:F1P}",
-            "DAN da Turbinio astrale Colpo prismatico|{param4:F1P}"
+            "DAN da Turbinio astrale Colpo prismatico|{param4:F1P}",
+            "#TdR|{param3:F1}{NON_BREAK_SPACE}s"
           ],
           "Parameters": [
             {
@@ -489,7 +490,7 @@
           "DAN da Raggio a inibizione convettiva|{param2:F1P}",
           "DAN da Astroconduzione Raggio a inibizione convettiva|{param3:F1P}",
           "DAN da Turbinio astrale Raggio a inibizione convettiva|{param6:F1P}",
-          "Costo energia|{param5:I}",
+          "#TdR|{param4:F1}{NON_BREAK_SPACE}s",
           "Costo energia|{param5:I}"
         ],
         "Parameters": [

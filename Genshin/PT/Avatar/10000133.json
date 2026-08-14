@@ -318,7 +318,8 @@
           "Descriptions": [
             "Dano de Projétil Cristalino|{param1:F1P}",
             "Dano de Supercondutor Estelar do Projétil Cristalino|{param2:F1P}",
-            "Dano de Redemoinho Estelar de Projétil Cristalino|{param4:F1P}"
+            "Dano de Redemoinho Estelar de Projétil Cristalino|{param4:F1P}",
+            "Tempo de Recarga|{param3:F1}s"
           ],
           "Parameters": [
             {
@@ -489,6 +490,7 @@
           "Dano de Raio de Luz Energético|{param2:F1P}",
           "Dano de Supercondutor Estelar do Raio de Luz Energético|{param3:F1P}",
           "Dano de Redemoinho Estelar de Raio de Luz Energético|{param6:F1P}",
+          "Tempo de Recarga|{param4:F1}s",
           "Energia Elemental|{param5:I}"
         ],
         "Parameters": [

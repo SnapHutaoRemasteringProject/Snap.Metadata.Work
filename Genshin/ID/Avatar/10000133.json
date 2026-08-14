@@ -318,7 +318,8 @@
           "Descriptions": [
             "DMG Prism Shot|{param1:F1P}",
             "DMG Stellar-Conduct Prism Shot|{param2:F1P}",
-            "DMG Stellar Swirl dari Prism Shot|{param4:F1P}"
+            "DMG Stellar Swirl dari Prism Shot|{param4:F1P}",
+            "Cooldown|{param3:F1} dtk"
           ],
           "Parameters": [
             {
@@ -489,6 +490,7 @@
           "DMG Convective Inhibition Ray|{param2:F1P}",
           "DMG Stellar-Conduct Convective Inhibition Ray|{param3:F1P}",
           "DMG Stellar Swirl dari Convective Inhibition Ray|{param6:F1P}",
+          "Cooldown|{param4:F1} dtk",
           "Konsumsi Energy|{param5:I}"
         ],
         "Parameters": [

@@ -7871,6 +7871,23 @@
     "IsDailyQuest": false
   },
   {
+    "Id": 80515,
+    "Goal": 69,
+    "Order": 474,
+    "PreviousId": 0,
+    "Title": "Искатель приключений в зимних краях I",
+    "Description": "Завершите ограниченные по времени испытания открытого мира (6) в областях: Вечная мерзлота, Тундра волкодлаков, Долина огненных перьев, Берёзовый некрополь, Морозный пик.",
+    "FinishReward": {
+      "Id": 201,
+      "Count": 5
+    },
+    "IsDeleteWatcherAfterFinish": false,
+    "Progress": 6,
+    "Icon": "UI_AchievementIcon_A026",
+    "Version": "7.0",
+    "IsDailyQuest": false
+  },
+  {
     "Id": 80516,
     "Goal": 69,
     "Order": 475,
